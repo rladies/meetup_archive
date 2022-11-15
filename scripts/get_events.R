@@ -78,7 +78,7 @@ cat("Writing 'data/events_updated.json'\n")
 jsonlite::write_json(
   x = data.frame(
     date = Sys.time(),
-    n_events_past = filter(events, type  == "past") |> nrow(),
+    n_events_past = filter(events, type  == "PAST") |> nrow(),
   ),
   path = here::here("data/events_updated.json"),
   pretty = TRUE
