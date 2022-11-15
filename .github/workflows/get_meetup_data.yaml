@@ -1,0 +1,50 @@
+name: Get meetup data
+
+on:
+  pull_request:
+    branches:
+      - main
+  push:
+    branches: 
+      - main
+  schedule:
+    - cron: "0 */12 * * *"
+
+jobs:
+  meetup:
+    name: Update meetup data
+    runs-on: macOS-latest
+    env: 
+      MEETUPR_PWD: ${{ secrets.MEETUPR_PWD }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        
+      - name: Setup R
+        uses: r-lib/actions/setup-r@v2
+        
+      - name: Install packages
+        run: |
+          options(repos = c(
+            rladies = 'https://rladies.r-universe.dev', #untill we get meetupr on cran
+            CRAN = 'https://cloud.r-project.org'))
+          install.packages(c("meetupr", "tidyr", "dplyr", "lubridate",
+                             "cyphr", "sodium", "here", "jsonlite"), Ncpus = 2)
+        shell: Rscript {0}
+          
+      - name: Meetup authentication
+        run:  Rscript scripts/meetup_auth.R
+        
+      - name: Update chapter data
+        run:  Rscript scripts/get_chapters.R
+        
+      - name: Update event data
+        run:  Rscript scripts/get_events.R
+        
+      - name: Commit data	
+        run: |	
+          git config --local user.email "actions@github.com"	
+          git config --local user.name "GitHub Actions"	
+          git add data	
+          git commit -m 'Update meetup data' || echo "No meetup data to commit"	
+ 
