@@ -3,6 +3,10 @@
     "Version": "4.2.0",
     "Repositories": [
       {
+        "Name": "RLADIES",
+        "URL": "https://rladies.r-universe.dev/"
+      },
+      {
         "Name": "CRAN",
         "URL": "https://cloud.r-project.org"
       }
