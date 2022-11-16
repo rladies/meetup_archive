@@ -1,5 +1,22 @@
 [
   {
+    "country": "Algeria",
+    "chapters": [
+      {
+        "urlname": "rladies-Algiers",
+        "status": "prospective",
+        "status_text": "Prospective",
+        "social_media": [
+          {
+            "meetup": "rladies-Algiers",
+            "email": "algiers@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "country": "Argentina",
     "chapters": [
       {
@@ -8,7 +25,7 @@
         "urlname": "rladies-bariloche",
         "state": "",
         "city": "San Carlos de Bariloche",
-        "members": 482,
+        "members": 484,
         "status": "active",
         "lat": -41.14,
         "lon": -71.32,
@@ -31,7 +48,7 @@
         "urlname": "rladies-buenos-aires",
         "state": "",
         "city": "Buenos Aires",
-        "members": 1556,
+        "members": 1557,
         "status": "active",
         "lat": -34.61,
         "lon": -58.37,
@@ -110,6 +127,19 @@
             "meetup": "rladies-jujuy",
             "twitter": "RLadiesJujuy",
             "email": "jujuy@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "urlname": "rladies-la-plata",
+        "status": "retired",
+        "status_text": "Retired on 04-04-2020",
+        "social_media": [
+          {
+            "meetup": "rladies-la-plata",
+            "twitter": "RLadies_LP",
+            "email": "laplata@rladies.org",
             "github": "rladies/NA"
           }
         ]
@@ -319,7 +349,7 @@
         "urlname": "rladies-melbourne",
         "state": "",
         "city": "Melbourne",
-        "members": 2250,
+        "members": 2249,
         "status": "active",
         "lat": -37.81,
         "lon": 144.96,
@@ -377,12 +407,37 @@
             "website": "https://rladiessydney.org/"
           }
         ]
+      },
+      {
+        "status": "prospective",
+        "status_text": "Prospective",
+        "social_media": [
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          }
+        ]
       }
     ]
   },
   {
     "country": "Austria",
     "chapters": [
+      {
+        "urlname": "rladies-linz",
+        "status": "retired",
+        "status_text": "Retired on 29-09-2019",
+        "social_media": [
+          {
+            "meetup": "rladies-linz",
+            "twitter": "RladiesLinz",
+            "email": "linz@rladies.org",
+            "github": "rladies/meetup-presentations_linz"
+          }
+        ]
+      },
       {
         "name": "R-Ladies Vienna",
         "id": "29851462",
@@ -400,6 +455,20 @@
             "meetup": "rladies-vienna",
             "twitter": "RLadiesVienna",
             "email": "vienna@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Bahrain",
+    "chapters": [
+      {
+        "status": "prospective",
+        "status_text": "Prospective",
+        "social_media": [
+          {
             "github": "rladies/NA"
           }
         ]
@@ -427,6 +496,19 @@
             "twitter": "RladiesBrussels",
             "email": "brussels@rladies.org",
             "github": "rladies/meetup-presentations_brussels"
+          }
+        ]
+      },
+      {
+        "urlname": "rladies-leuven",
+        "status": "retired",
+        "status_text": "Retired on 01-04-2020",
+        "social_media": [
+          {
+            "meetup": "rladies-leuven",
+            "twitter": "RLadiesLeuven",
+            "email": "leuven@rladies.org",
+            "github": "rladies/meetup-presentations_leuven"
           }
         ]
       }
@@ -501,6 +583,15 @@
             "github": "rladies/NA"
           }
         ]
+      },
+      {
+        "status": "prospective",
+        "status_text": "Prospective",
+        "social_media": [
+          {
+            "github": "rladies/NA"
+          }
+        ]
       }
     ]
   },
@@ -534,6 +625,18 @@
   {
     "country": "Brazil",
     "chapters": [
+      {
+        "urlname": "rladies-americana",
+        "status": "retired",
+        "status_text": "Retired on 29-09-2019",
+        "social_media": [
+          {
+            "meetup": "rladies-americana",
+            "twitter": "RLadiesAME",
+            "github": "rladies/NA"
+          }
+        ]
+      },
       {
         "name": "R-Ladies Belo Horizonte",
         "id": "28226484",
@@ -579,6 +682,26 @@
         ]
       },
       {
+        "name": "R-Ladies Curitiba",
+        "id": "33825235",
+        "urlname": "rladies-curitiba",
+        "state": "",
+        "city": "Curitiba",
+        "members": 76,
+        "status": "retired",
+        "lat": -25.42,
+        "lon": -49.29,
+        "timezone": "America/Sao_Paulo",
+        "status_text": "Retired on 04-04-2020",
+        "social_media": [
+          {
+            "meetup": "rladies-curitiba",
+            "email": "curitiba@rladies.org",
+            "github": "rladies/meetup-presentations_curitiba"
+          }
+        ]
+      },
+      {
         "name": "R-Ladies Floripa",
         "id": "31577218",
         "urlname": "rladies-florianopolis",
@@ -605,7 +728,7 @@
         "urlname": "rladies-fortaleza",
         "state": "",
         "city": "Fortaleza",
-        "members": 112,
+        "members": 113,
         "status": "active",
         "lat": -3.78,
         "lon": -38.59,
@@ -832,7 +955,7 @@
         "urlname": "rladies-sao-paulo",
         "state": "",
         "city": "São Paulo",
-        "members": 1353,
+        "members": 1352,
         "status": "active",
         "lat": -23.53,
         "lon": -46.63,
@@ -867,6 +990,50 @@
             "meetup": "rladies-vitoria",
             "email": "vitoria@rladies.org",
             "github": "rladies/meetup-presentations_vitoria"
+          }
+        ]
+      },
+      {
+        "status": "prospective",
+        "status_text": "Prospective",
+        "social_media": [
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Bulgaria",
+    "chapters": [
+      {
+        "status": "prospective",
+        "status_text": "Prospective",
+        "social_media": [
+          {
+            "github": "rladies/NA"
           }
         ]
       }
@@ -1026,7 +1193,7 @@
         "urlname": "rladies-toronto",
         "state": "ON",
         "city": "Toronto",
-        "members": 662,
+        "members": 661,
         "status": "active",
         "lat": 43.74,
         "lon": -79.36,
@@ -1060,6 +1227,45 @@
             "twitter": "RLadiesVan",
             "email": "vancouver@rladies.org",
             "github": "rladies/meetup-presentations_vancouver"
+          }
+        ]
+      },
+      {
+        "urlname": "rladies-victoria",
+        "status": "retired",
+        "status_text": "Retired on 29-09-2019",
+        "social_media": [
+          {
+            "meetup": "rladies-victoria",
+            "twitter": "RLadiesVicBC",
+            "email": "victoriabc@rladies.org",
+            "github": "rladies/RLadiesVicBC"
+          }
+        ]
+      },
+      {
+        "urlname": "rladies-waterloo",
+        "status": "retired",
+        "status_text": "Retired on 29-09-2019",
+        "social_media": [
+          {
+            "meetup": "rladies-waterloo",
+            "twitter": "RLadiesWaterloo",
+            "email": "waterloo@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "status": "prospective",
+        "status_text": "Prospective",
+        "social_media": [
+          {
+            "email": "edmonton@rladies.org",
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
           }
         ]
       }
@@ -1232,7 +1438,7 @@
         "urlname": "rladies-medellin",
         "state": "",
         "city": "Medellín",
-        "members": 885,
+        "members": 886,
         "status": "active",
         "lat": 6.25,
         "lon": -75.59,
@@ -1243,6 +1449,21 @@
             "meetup": "rladies-medellin",
             "twitter": "RLadiesMedellin",
             "email": "medellin@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "status": "prospective",
+        "status_text": "Prospective",
+        "social_media": [
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          },
+          {
             "github": "rladies/NA"
           }
         ]
@@ -1277,6 +1498,20 @@
     ]
   },
   {
+    "country": "Croatia",
+    "chapters": [
+      {
+        "status": "prospective",
+        "status_text": "Prospective",
+        "social_media": [
+          {
+            "github": "rladies/NA"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "country": "Denmark",
     "chapters": [
       {
@@ -1299,6 +1534,16 @@
             "github": "rladies/NA"
           }
         ]
+      },
+      {
+        "status": "prospective",
+        "status_text": "Prospective",
+        "social_media": [
+          {
+            "email": "aarhus@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
       }
     ]
   },
@@ -1311,7 +1556,7 @@
         "urlname": "rladies-santo-domingo",
         "state": "",
         "city": "Santo Domingo",
-        "members": 50,
+        "members": 51,
         "status": "active",
         "lat": 18.48,
         "lon": -69.91,
@@ -1420,6 +1665,20 @@
     ]
   },
   {
+    "country": "Estonia",
+    "chapters": [
+      {
+        "status": "prospective",
+        "status_text": "Prospective",
+        "social_media": [
+          {
+            "github": "rladies/NA"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "country": "Ethiopia",
     "chapters": [
       {
@@ -1443,6 +1702,15 @@
             "website": "https://r-ladies-addis.github.io/rladies-addis/"
           }
         ]
+      },
+      {
+        "status": "prospective",
+        "status_text": "Prospective",
+        "social_media": [
+          {
+            "github": "rladies/NA"
+          }
+        ]
       }
     ]
   },
@@ -1455,7 +1723,7 @@
         "urlname": "rladies-helsinki",
         "state": "",
         "city": "Helsinki",
-        "members": 414,
+        "members": 415,
         "status": "active",
         "lat": 60.17,
         "lon": 24.94,
@@ -1557,8 +1825,7 @@
             "instagram": "rladiesparis",
             "linkedin": "r-ladies-paris",
             "youtube": "UCWTFKtW_ReLP9zmMTYjRqug",
-            "github": "rladies/r-ladies-paris",
-            "former_organizers": "Diane Beldame, Christina Bergmann, Sarah Hosking, Stéphanie Terrasse"
+            "github": "rladies/r-ladies-paris"
           }
         ]
       },
@@ -1580,6 +1847,15 @@
             "twitter": "RLadiesStras",
             "email": "strasbourg@rladies.org",
             "github": "rladies/meetup-presentations_strasbourg"
+          }
+        ]
+      },
+      {
+        "status": "prospective",
+        "status_text": "Prospective",
+        "social_media": [
+          {
+            "github": "rladies/NA"
           }
         ]
       }
@@ -1656,8 +1932,7 @@
             "twitter": "rladies_cologne",
             "email": "cologne@rladies.org",
             "linkedin": "r-ladies-cologne",
-            "github": "rladies/NA",
-            "former_organizers": "Luciana Imbiriba"
+            "github": "rladies/NA"
           }
         ]
       },
@@ -1699,8 +1974,7 @@
             "meetup": "rladies-freiburg",
             "twitter": "RLadiesFreiburg",
             "email": "freiburg@rladies.org",
-            "github": "rladies/meetup-presentations_freiburg",
-            "former_organizers": "Divya Seernani"
+            "github": "rladies/meetup-presentations_freiburg"
           }
         ]
       },
@@ -1723,6 +1997,41 @@
             "email": "goettingen@rladies.org",
             "github": "rladies/meetup-presentations_goettingen",
             "slack": "https://r-ladiesgttingen.slack.com"
+          }
+        ]
+      },
+      {
+        "urlname": "rladies-munich",
+        "status": "retired",
+        "status_text": "Retired on 04-04-2020",
+        "social_media": [
+          {
+            "meetup": "rladies-munich",
+            "twitter": "RLadiesMunich",
+            "email": "munich@rladies.org",
+            "facebook": "RLadiesMunich",
+            "github": "rladies/meetup-presentations_munich"
+          }
+        ]
+      },
+      {
+        "status": "prospective",
+        "status_text": "Prospective",
+        "social_media": [
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
           }
         ]
       }
@@ -1780,7 +2089,7 @@
         "urlname": "rladies-thessaloniki",
         "state": "",
         "city": "Thessaloníki",
-        "members": 32,
+        "members": 33,
         "status": "active",
         "lat": 40.64,
         "lon": 22.94,
@@ -1789,6 +2098,23 @@
         "social_media": [
           {
             "meetup": "rladies-thessaloniki",
+            "github": "rladies/NA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Hong Kong",
+    "chapters": [
+      {
+        "urlname": "rladies-hong-kong",
+        "status": "retired",
+        "status_text": "Retired on 29-09-2019",
+        "social_media": [
+          {
+            "meetup": "rladies-hong-kong",
+            "email": "hongkong@rladies.org",
             "github": "rladies/NA"
           }
         ]
@@ -1851,7 +2177,7 @@
         "urlname": "rladies-chennai",
         "state": "",
         "city": "Chennai",
-        "members": 626,
+        "members": 628,
         "status": "active",
         "lat": 13.09,
         "lon": 80.27,
@@ -1892,7 +2218,7 @@
         "urlname": "rladies-new-delhi",
         "state": "",
         "city": "Delhi",
-        "members": 372,
+        "members": 373,
         "status": "active",
         "lat": 28.67,
         "lon": 77.21,
@@ -1928,6 +2254,37 @@
             "github": "rladies/meetup-presentations_pune"
           }
         ]
+      },
+      {
+        "urlname": "rladies-tiruchirappalli",
+        "status": "retired",
+        "status_text": "Retired on 04-04-2020",
+        "social_media": [
+          {
+            "meetup": "rladies-tiruchirappalli",
+            "twitter": "RLadiesTrichy",
+            "email": "trichy@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "status": "prospective",
+        "status_text": "Prospective",
+        "social_media": [
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          }
+        ]
       }
     ]
   },
@@ -1960,7 +2317,7 @@
         "urlname": "rladies-bogor",
         "state": "",
         "city": "Bogor",
-        "members": 318,
+        "members": 317,
         "status": "active",
         "lat": -6.58,
         "lon": 106.79,
@@ -1991,6 +2348,15 @@
             "meetup": "rladies-jakarta",
             "email": "jakarta@rladies.org",
             "github": "rladies/meetup-presentations_jakarta"
+          }
+        ]
+      },
+      {
+        "status": "prospective",
+        "status_text": "Prospective",
+        "social_media": [
+          {
+            "github": "rladies/NA"
           }
         ]
       }
@@ -2033,6 +2399,20 @@
             "twitter": "RLadiesDublin",
             "email": "dublin@rladies.org",
             "github": "rladies/meetup-presentations_dublin"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Israel",
+    "chapters": [
+      {
+        "status": "prospective",
+        "status_text": "Prospective",
+        "social_media": [
+          {
+            "github": "rladies/NA"
           }
         ]
       }
@@ -2083,6 +2463,3451 @@
             "github": "rladies/meetup-presentations_milan"
           }
         ]
+      },
+      {
+        "name": "R-Ladies Rome",
+        "id": "36128420",
+        "urlname": "rladies-rome",
+        "state": "RM",
+        "city": "Roma",
+        "members": 35,
+        "status": "active",
+        "lat": 41.9,
+        "lon": 12.48,
+        "timezone": "Europe/Rome",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-rome",
+            "email": "rome@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "status": "prospective",
+        "status_text": "Prospective",
+        "social_media": [
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Japan",
+    "chapters": [
+      {
+        "status": "prospective",
+        "status_text": "Prospective",
+        "social_media": [
+          {
+            "github": "rladies/NA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Kenya",
+    "chapters": [
+      {
+        "name": "R-Ladies Nairobi",
+        "id": "33827845",
+        "urlname": "rladies-nairobi",
+        "state": "",
+        "city": "Nairobi",
+        "members": 1336,
+        "status": "active",
+        "lat": -1.29,
+        "lon": 36.82,
+        "timezone": "Africa/Nairobi",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-nairobi",
+            "email": "nairobi@rladies.org",
+            "linkedin": "r-ladies-nairobi-2572841b3",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "status": "prospective",
+        "status_text": "Prospective",
+        "social_media": [
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Lebanon",
+    "chapters": [
+      {
+        "status": "prospective",
+        "status_text": "Prospective",
+        "social_media": [
+          {
+            "twitter": "RLadiesBEY",
+            "email": "beirut@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Luxembourg",
+    "chapters": [
+      {
+        "status": "prospective",
+        "status_text": "Prospective",
+        "social_media": [
+          {
+            "github": "rladies/NA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Malawi",
+    "chapters": [
+      {
+        "status": "prospective",
+        "status_text": "Prospective",
+        "social_media": [
+          {
+            "github": "rladies/NA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Malaysia",
+    "chapters": [
+      {
+        "status": "prospective",
+        "status_text": "Prospective",
+        "social_media": [
+          {
+            "github": "rladies/NA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Mexico",
+    "chapters": [
+      {
+        "name": "R-Ladies Aguascalientes",
+        "id": "33409736",
+        "urlname": "rladies-aguascalientes",
+        "state": "",
+        "city": "Aguascalientes",
+        "members": 343,
+        "status": "active",
+        "lat": 21.88,
+        "lon": -102.3,
+        "timezone": "America/Mexico_City",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-aguascalientes",
+            "email": "aguascalientes@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies CDMX",
+        "id": "24820200",
+        "urlname": "rladies-cdmx",
+        "state": "",
+        "city": "México City",
+        "members": 2299,
+        "status": "active",
+        "lat": 19.43,
+        "lon": -99.14,
+        "timezone": "America/Mexico_City",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-cdmx",
+            "twitter": "RLadiesCDMX",
+            "email": "cdmx@rladies.org",
+            "facebook": "rladiescdmx",
+            "github": "rladies/meetup-presentations_CDMX",
+            "slack": "rladiescdmx.slack.com"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Ciudad Obregón",
+        "id": "36155463",
+        "urlname": "rladies-ciudad-obregon",
+        "state": "",
+        "city": "Ciudad Obregón",
+        "members": 3,
+        "status": "active",
+        "lat": 27.49,
+        "lon": -109.94,
+        "timezone": "America/Hermosillo",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-ciudad-obregon",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Cuernavaca",
+        "id": "32604355",
+        "urlname": "rladies-cuernavaca",
+        "state": "",
+        "city": "Cuernavaca",
+        "members": 938,
+        "status": "active",
+        "lat": 18.92,
+        "lon": -99.25,
+        "timezone": "America/Mexico_City",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-cuernavaca",
+            "twitter": "RLadiesCuerna",
+            "email": "cuernavaca@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Guadalajara",
+        "id": "34099620",
+        "urlname": "rladies-guadalajara",
+        "state": "",
+        "city": "Guadalajara",
+        "members": 1322,
+        "status": "active",
+        "lat": 20.67,
+        "lon": -103.35,
+        "timezone": "America/Mexico_City",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-guadalajara",
+            "email": "guadalajara@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Monterrey",
+        "id": "33194964",
+        "urlname": "rladies-monterrey",
+        "state": "",
+        "city": "Monterrey",
+        "members": 378,
+        "status": "active",
+        "lat": 25.67,
+        "lon": -100.32,
+        "timezone": "America/Monterrey",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-monterrey",
+            "email": "monterrey@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Morelia",
+        "id": "36155475",
+        "urlname": "rladies-morelia",
+        "state": "",
+        "city": "Morelia",
+        "members": 105,
+        "status": "active",
+        "lat": 19.72,
+        "lon": -101.18,
+        "timezone": "America/Mexico_City",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-morelia",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Pachuca",
+        "id": "32767673",
+        "urlname": "rladies-pachuca",
+        "state": "",
+        "city": "Pachuca",
+        "members": 23,
+        "status": "active",
+        "lat": 20.12,
+        "lon": -98.76,
+        "timezone": "America/Mexico_City",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-pachuca",
+            "twitter": "RLadiesPachuca",
+            "email": "pachuca@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Puebla",
+        "id": "32426344",
+        "urlname": "rladies-puebla",
+        "state": "",
+        "city": "Puebla",
+        "members": 2424,
+        "status": "active",
+        "lat": 19.05,
+        "lon": -98.22,
+        "timezone": "America/Mexico_City",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-puebla",
+            "email": "puebla@rladies.org",
+            "github": "rladies/meetup-presentations_puebla"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Queretaro",
+        "id": "31514006",
+        "urlname": "rladies-queretaro",
+        "state": "",
+        "city": "Querétaro",
+        "members": 913,
+        "status": "active",
+        "lat": 20.59,
+        "lon": -100.4,
+        "timezone": "America/Mexico_City",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-queretaro",
+            "twitter": "RLadies_Qro",
+            "email": "qro@rladies.org",
+            "periscope": "RLadies_Qro",
+            "github": "rladies/RladiesQro",
+            "slack": "r-ladiesqro.slack.com"
+          }
+        ]
+      },
+      {
+        "urlname": "rladies-san-cristobal-de-las-casas",
+        "status": "active",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-san-cristobal-de-las-casas",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Tijuana",
+        "id": "34142165",
+        "urlname": "rladies-tijuana",
+        "state": "",
+        "city": "Tijuana",
+        "members": 54,
+        "status": "prospective",
+        "lat": 32.53,
+        "lon": -117.02,
+        "timezone": "America/Tijuana",
+        "status_text": "Prospective",
+        "social_media": [
+          {
+            "meetup": "rladies-tijuana",
+            "twitter": "RladiesT",
+            "email": "tijuana@rladies.org",
+            "instagram": "rladiestijuana",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Villahermosa",
+        "id": "35897779",
+        "urlname": "rladies-villahermosa",
+        "state": "",
+        "city": "Villahermosa",
+        "members": 128,
+        "status": "active",
+        "lat": 17.98,
+        "lon": -92.92,
+        "timezone": "America/Mexico_City",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-villahermosa",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Xalapa",
+        "id": "29397372",
+        "urlname": "rladies-xalapa",
+        "state": "",
+        "city": "Xalapa",
+        "members": 525,
+        "status": "active",
+        "lat": 19.53,
+        "lon": -96.92,
+        "timezone": "America/Mexico_City",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-xalapa",
+            "twitter": "RLadiesXalapa",
+            "email": "xalapa@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "status": "prospective",
+        "status_text": "Prospective",
+        "social_media": [
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Montenegro",
+    "chapters": [
+      {
+        "urlname": "rladies-montenegro",
+        "status": "retired",
+        "status_text": "Retired on 01-04-2020",
+        "social_media": [
+          {
+            "meetup": "rladies-montenegro",
+            "twitter": "RLadiesMNE",
+            "email": "montenegro@rladies.org",
+            "github": "rladies/meetup-presentations_montenegro"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Podgorica",
+        "id": "32783356",
+        "urlname": "rladies-podgorica",
+        "state": "",
+        "city": "Podgorica",
+        "members": 34,
+        "status": "active",
+        "lat": 42.47,
+        "lon": 19.28,
+        "timezone": "Europe/Belgrade",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-podgorica",
+            "email": "podgorica@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Morocco",
+    "chapters": [
+      {
+        "urlname": "rladies-rabat",
+        "status": "active",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-rabat",
+            "twitter": "RLadiesRabat",
+            "email": "rabat@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Nepal",
+    "chapters": [
+      {
+        "name": "R-Ladies Kathmandu",
+        "id": "30017254",
+        "urlname": "rladies-kathmandu",
+        "state": "",
+        "city": "Kathmandu",
+        "members": 87,
+        "status": "active",
+        "lat": 27.71,
+        "lon": 85.31,
+        "timezone": "Asia/Kathmandu",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-kathmandu",
+            "twitter": "RLadiesKtm",
+            "email": "kathmandu@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Netherlands",
+    "chapters": [
+      {
+        "name": "R-Ladies Amsterdam",
+        "id": "27443387",
+        "urlname": "rladies-amsterdam",
+        "state": "",
+        "city": "Amsterdam",
+        "members": 1186,
+        "status": "active",
+        "lat": 52.37,
+        "lon": 4.89,
+        "timezone": "Europe/Amsterdam",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-amsterdam",
+            "twitter": "RLadiesAMS",
+            "email": "amsterdam@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Den Bosch",
+        "id": "31457077",
+        "urlname": "rladies-den-bosch",
+        "state": "",
+        "city": "Den Bosch",
+        "members": 163,
+        "status": "active",
+        "lat": 51.7,
+        "lon": 5.3,
+        "timezone": "Europe/Amsterdam",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-den-bosch",
+            "email": "denbosch@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Nijmegen",
+        "id": "28393787",
+        "urlname": "rladies-nijmegen",
+        "state": "",
+        "city": "Nijmegen",
+        "members": 348,
+        "status": "active",
+        "lat": 51.84,
+        "lon": 5.85,
+        "timezone": "Europe/Amsterdam",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-nijmegen",
+            "twitter": "RladiesNijmegen",
+            "email": "nijmegen@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Rotterdam",
+        "id": "26792997",
+        "urlname": "rladies-rotterdam",
+        "state": "",
+        "city": "Rotterdam",
+        "members": 502,
+        "status": "active",
+        "lat": 51.93,
+        "lon": 4.48,
+        "timezone": "Europe/Amsterdam",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-rotterdam",
+            "twitter": "RladiesRdam",
+            "email": "rotterdam@rladies.org",
+            "facebook": "RLadiesRott",
+            "github": "rladies/meetup-presentations_rotterdam"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Utrecht",
+        "id": "32144791",
+        "urlname": "rladies-utrecht",
+        "state": "",
+        "city": "Utrecht",
+        "members": 307,
+        "status": "active",
+        "lat": 52.1,
+        "lon": 5.11,
+        "timezone": "Europe/Amsterdam",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-utrecht",
+            "email": "utrecht@rladies.org",
+            "github": "rladies/meetup-presentations_utrecht"
+          }
+        ]
+      },
+      {
+        "urlname": "rladies-wageningen",
+        "status": "retired",
+        "status_text": "Retired on 04-04-2020",
+        "social_media": [
+          {
+            "meetup": "rladies-wageningen",
+            "twitter": "RLadiesWage",
+            "email": "wageningen@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "status": "prospective",
+        "status_text": "Prospective",
+        "social_media": [
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "country": "New Zealand",
+    "chapters": [
+      {
+        "name": "R-Ladies Auckland",
+        "id": "26653882",
+        "urlname": "rladies-auckland",
+        "state": "",
+        "city": "Auckland",
+        "members": 799,
+        "status": "active",
+        "lat": -36.85,
+        "lon": 174.76,
+        "timezone": "Pacific/Auckland",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-auckland",
+            "twitter": "RLadiesAKL",
+            "email": "auckland@rladies.org",
+            "github": "rladies/meetup-presentations_auckland"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Christchurch",
+        "id": "31807417",
+        "urlname": "rladies-christchurch",
+        "state": "",
+        "city": "Christchurch",
+        "members": 91,
+        "status": "active",
+        "lat": -43.53,
+        "lon": 172.64,
+        "timezone": "Pacific/Auckland",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-christchurch",
+            "email": "chch@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Nelson",
+        "id": "31457211",
+        "urlname": "rladies-nelson",
+        "state": "",
+        "city": "Nelson",
+        "members": 23,
+        "status": "active",
+        "lat": -41.29,
+        "lon": 173.24,
+        "timezone": "Pacific/Auckland",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-nelson",
+            "email": "nelson@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Wellington",
+        "id": "36506465",
+        "urlname": "rladies-wellington",
+        "state": "",
+        "city": "Wellington",
+        "members": 14,
+        "status": "active",
+        "lat": -41.28,
+        "lon": 174.78,
+        "timezone": "Pacific/Auckland",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-wellington",
+            "github": "rladies/NA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Nigeria",
+    "chapters": [
+      {
+        "name": "R-Ladies Abuja",
+        "id": "33291403",
+        "urlname": "rladies-abuja",
+        "state": "",
+        "city": "Abuja",
+        "members": 859,
+        "status": "active",
+        "lat": 9.18,
+        "lon": 7.17,
+        "timezone": "Africa/Lagos",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-abuja",
+            "email": "abuja@rladies.org",
+            "github": "rladies/meetup-presentations_abuja"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Lagos",
+        "id": "32612004",
+        "urlname": "rladies-lagos",
+        "state": "",
+        "city": "Lagos",
+        "members": 521,
+        "status": "active",
+        "lat": 6.45,
+        "lon": 3.47,
+        "timezone": "Africa/Lagos",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-lagos",
+            "email": "lagos@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "status": "prospective",
+        "status_text": "Prospective",
+        "social_media": [
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Norway",
+    "chapters": [
+      {
+        "name": "R-Ladies Bergen",
+        "id": "32946570",
+        "urlname": "rladies-bergen",
+        "state": "",
+        "city": "Bergen",
+        "members": 348,
+        "status": "active",
+        "lat": 60.38,
+        "lon": 5.34,
+        "timezone": "Europe/Oslo",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-bergen",
+            "email": "bergen@rladies.org",
+            "github": "rladies/meetup-presentations_bergen"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Oslo",
+        "id": "27651457",
+        "urlname": "rladies-oslo",
+        "state": "",
+        "city": "Oslo",
+        "members": 574,
+        "status": "active",
+        "lat": 59.91,
+        "lon": 10.75,
+        "timezone": "Europe/Oslo",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-oslo",
+            "twitter": "RLadies_Oslo",
+            "email": "oslo@rladies.org",
+            "github": "rladies/meetup-presentations_oslo"
+          }
+        ]
+      },
+      {
+        "status": "prospective",
+        "status_text": "Prospective",
+        "social_media": [
+          {
+            "github": "rladies/NA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Oman",
+    "chapters": [
+      {
+        "name": "R-Ladies Masqat",
+        "id": "32964072",
+        "urlname": "rladies-masqat",
+        "state": "",
+        "city": "Muscat",
+        "members": 212,
+        "status": "active",
+        "lat": 23.61,
+        "lon": 58.54,
+        "timezone": "Asia/Dubai",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-masqat",
+            "email": "masqat@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Pakistan",
+    "chapters": [
+      {
+        "status": "prospective",
+        "status_text": "Prospective",
+        "social_media": [
+          {
+            "github": "rladies/NA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Paraguay",
+    "chapters": [
+      {
+        "name": "R-Ladies Asunción",
+        "id": "33917745",
+        "urlname": "rladies-asuncion",
+        "state": "",
+        "city": "Asunción",
+        "members": 87,
+        "status": "active",
+        "lat": -25.3,
+        "lon": -57.63,
+        "timezone": "America/Asuncion",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-asuncion",
+            "twitter": "RLadiesAsuncion",
+            "email": "asuncion@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Peru",
+    "chapters": [
+      {
+        "name": "R-Ladies Cusco",
+        "id": "33704099",
+        "urlname": "rladies-cusco",
+        "state": "",
+        "city": "Cusco",
+        "members": 45,
+        "status": "active",
+        "lat": -13.52,
+        "lon": -71.99,
+        "timezone": "America/Lima",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-cusco",
+            "email": "cusco@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Lima",
+        "id": "27269070",
+        "urlname": "rladies-lima",
+        "state": "",
+        "city": "Lima",
+        "members": 1944,
+        "status": "active",
+        "lat": -12.07,
+        "lon": -77.05,
+        "timezone": "America/Lima",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-lima",
+            "twitter": "RLadiesLima",
+            "email": "lima@rladies.org",
+            "facebook": "RLadiesLima",
+            "github": "rladies/meetup-presentations_lima",
+            "slack": "r-ladieslima.slack.com"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Philippines",
+    "chapters": [
+      {
+        "status": "prospective",
+        "status_text": "Prospective",
+        "social_media": [
+          {
+            "github": "rladies/NA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Poland",
+    "chapters": [
+      {
+        "urlname": "Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup",
+        "status": "active",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup",
+            "email": "warsaw@rladies.org",
+            "facebook": "RLadiesWarsaw",
+            "github": "rladies/meetup-presentations_warsaw"
+          }
+        ]
+      },
+      {
+        "status": "prospective",
+        "status_text": "Prospective",
+        "social_media": [
+          {
+            "github": "rladies/NA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Portugal",
+    "chapters": [
+      {
+        "urlname": "rladies-lisboa",
+        "status": "retired",
+        "status_text": "Retired on 04-04-2020",
+        "social_media": [
+          {
+            "meetup": "rladies-lisboa",
+            "twitter": "RLadiesLx",
+            "email": "lisbon@rladies.org",
+            "facebook": "RLadiesLisboa",
+            "github": "rladies/meetup-presentations_lisbon"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Romania",
+    "chapters": [
+      {
+        "name": "R-Ladies Bucharest",
+        "id": "31859491",
+        "urlname": "rladies-bucharest",
+        "state": "",
+        "city": "Bucharest",
+        "members": 280,
+        "status": "active",
+        "lat": 44.44,
+        "lon": 26.1,
+        "timezone": "Europe/Bucharest",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-bucharest",
+            "twitter": "rladiesbuchares",
+            "email": "bucuresti@rladies.org",
+            "facebook": "RLadiesBucharest",
+            "github": "rladies/meetup-presentations_bucharest",
+            "website": "https://www.rladiesbucharest.org/",
+            "slack": "https://rladiesbucharest.slack.com"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Russia",
+    "chapters": [
+      {
+        "status": "prospective",
+        "status_text": "Prospective",
+        "social_media": [
+          {
+            "github": "rladies/NA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Saudi Arabia",
+    "chapters": [
+      {
+        "name": "R-Ladies Saudi Arabia (Dammam)",
+        "id": "34516206",
+        "urlname": "rladies-dammam",
+        "state": "",
+        "city": "Dammam",
+        "members": 498,
+        "status": "active",
+        "lat": 26.42,
+        "lon": 50.09,
+        "timezone": "Asia/Riyadh",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-dammam",
+            "twitter": "RLadiesDammam",
+            "email": "dammam@rladies.org",
+            "github": "rladies/RLadies-Saudi"
+          }
+        ]
+      },
+      {
+        "urlname": "rladies-jeddah",
+        "status": "active",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-jeddah",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "status": "prospective",
+        "status_text": "Prospective",
+        "social_media": [
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Serbia",
+    "chapters": [
+      {
+        "name": "R-Ladies Belgrade",
+        "id": "25935651",
+        "urlname": "rladies-belgrade",
+        "state": "",
+        "city": "Belgrade",
+        "members": 478,
+        "status": "active",
+        "lat": 44.83,
+        "lon": 20.5,
+        "timezone": "Europe/Belgrade",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-belgrade",
+            "twitter": "RLadiesBelgrade",
+            "email": "belgrade@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Niš",
+        "id": "33409584",
+        "urlname": "rladies-nis",
+        "state": "",
+        "city": "Niš",
+        "members": 13,
+        "status": "active",
+        "lat": 43.33,
+        "lon": 21.9,
+        "timezone": "Europe/Belgrade",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-nis",
+            "email": "nis@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Novi Sad",
+        "id": "32012873",
+        "urlname": "rladies-novi-sad",
+        "state": "",
+        "city": "Novi Sad",
+        "members": 145,
+        "status": "active",
+        "lat": 45.25,
+        "lon": 19.85,
+        "timezone": "Europe/Belgrade",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-novi-sad",
+            "email": "novisad@rladies.org",
+            "github": "rladies/meetup-presentations_novi-sad"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Slovenia",
+    "chapters": [
+      {
+        "name": "R-Ladies Ljubljana",
+        "id": "36618082",
+        "urlname": "rladies-ljubljana",
+        "state": "",
+        "city": "Ljubljana",
+        "members": 47,
+        "status": "active",
+        "lat": 46.06,
+        "lon": 14.51,
+        "timezone": "Europe/Belgrade",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-ljubljana",
+            "github": "rladies/NA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Somalia",
+    "chapters": [
+      {
+        "status": "prospective",
+        "status_text": "Prospective",
+        "social_media": [
+          {
+            "github": "rladies/NA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "country": "South Africa",
+    "chapters": [
+      {
+        "name": "R-Ladies Cape Town",
+        "id": "22790744",
+        "urlname": "rladies-cape-town",
+        "state": "",
+        "city": "Cape Town",
+        "members": 706,
+        "status": "active",
+        "lat": -33.93,
+        "lon": 18.46,
+        "timezone": "Africa/Johannesburg",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-cape-town",
+            "twitter": "RLadiesCapeTown",
+            "email": "capetown@rladies.org",
+            "github": "rladies/meetup-presentations_capetown"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Johannesburg",
+        "id": "27651490",
+        "urlname": "rladies-johannesburg",
+        "state": "",
+        "city": "Johannesburg",
+        "members": 1135,
+        "status": "active",
+        "lat": -26.19,
+        "lon": 28.04,
+        "timezone": "Africa/Johannesburg",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-johannesburg",
+            "twitter": "RLadiesJozi",
+            "email": "jozi@rladies.org",
+            "github": "rladies/meetup-presentations_jozi"
+          }
+        ]
+      },
+      {
+        "status": "prospective",
+        "status_text": "Prospective",
+        "social_media": [
+          {
+            "github": "rladies/NA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Spain",
+    "chapters": [
+      {
+        "name": "R-Ladies Barcelona",
+        "id": "20851840",
+        "urlname": "rladies-barcelona",
+        "state": "",
+        "city": "Barcelona",
+        "members": 703,
+        "status": "active",
+        "lat": 41.4,
+        "lon": 2.17,
+        "timezone": "Europe/Madrid",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-barcelona",
+            "twitter": "RLadiesBCN",
+            "email": "bcn@rladies.org",
+            "periscope": "RLadiesBCN",
+            "github": "rladies/meetup-presentations_barcelona"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Bilbao",
+        "id": "31264653",
+        "urlname": "rladies-bilbao",
+        "state": "",
+        "city": "Bilbao",
+        "members": 221,
+        "status": "active",
+        "lat": 43.25,
+        "lon": -2.93,
+        "timezone": "Europe/Madrid",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-bilbao",
+            "twitter": "RLadiesBIO",
+            "email": "bilbao@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Madrid",
+        "id": "20381623",
+        "urlname": "rladies-madrid",
+        "state": "",
+        "city": "Madrid",
+        "members": 1891,
+        "status": "active",
+        "lat": 40.42,
+        "lon": -3.71,
+        "timezone": "Europe/Madrid",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-madrid",
+            "twitter": "RLadiesMAD",
+            "email": "madrid@rladies.org",
+            "github": "rladies/meetup-presentations_madrid"
+          }
+        ]
+      },
+      {
+        "urlname": "rladies-valencia",
+        "status": "retired",
+        "status_text": "Retired on 29-09-2019",
+        "social_media": [
+          {
+            "meetup": "rladies-valencia",
+            "twitter": "RLadiesValencia",
+            "email": "valencia@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "status": "prospective",
+        "status_text": "Prospective",
+        "social_media": [
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Sri Lanka",
+    "chapters": [
+      {
+        "name": "R-Ladies Colombo",
+        "id": "33106550",
+        "urlname": "rladies-colombo",
+        "state": "",
+        "city": "Colombo",
+        "members": 345,
+        "status": "active",
+        "lat": 6.93,
+        "lon": 79.85,
+        "timezone": "Asia/Colombo",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-colombo",
+            "email": "colombo@rladies.org",
+            "github": "rladies/rladiescolombo",
+            "website": "https://rladiescolombo.netlify.com/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Sudan",
+    "chapters": [
+      {
+        "name": "R-Ladies Al-Khartum",
+        "id": "33041212",
+        "urlname": "rladies-al-khartum",
+        "state": "",
+        "city": "al-Khartum",
+        "members": 71,
+        "status": "active",
+        "lat": 15.58,
+        "lon": 32.52,
+        "timezone": "Africa/Khartoum",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-al-khartum",
+            "email": "al-khartum@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Sweden",
+    "chapters": [
+      {
+        "name": "R-Ladies Göteborg",
+        "id": "33041322",
+        "urlname": "rladies-goteborg",
+        "state": "",
+        "city": "Göteborg",
+        "members": 167,
+        "status": "active",
+        "lat": 57.72,
+        "lon": 12.01,
+        "timezone": "Europe/Stockholm",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-goteborg",
+            "email": "goteborg@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Stockholm",
+        "id": "29540437",
+        "urlname": "rladies-stockholm",
+        "state": "",
+        "city": "Stockholm",
+        "members": 395,
+        "status": "active",
+        "lat": 59.33,
+        "lon": 18.07,
+        "timezone": "Europe/Stockholm",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-stockholm",
+            "twitter": "RLadiesSthlm",
+            "email": "stockholm@rladies.org",
+            "github": "rladies/meetup-presentations_stockholm"
+          }
+        ]
+      },
+      {
+        "status": "prospective",
+        "status_text": "Prospective",
+        "social_media": [
+          {
+            "github": "rladies/NA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Switzerland",
+    "chapters": [
+      {
+        "name": "R-Ladies Lausanne",
+        "id": "26765765",
+        "urlname": "rladies-lausanne",
+        "state": "",
+        "city": "Lausanne",
+        "members": 314,
+        "status": "retired",
+        "lat": 46.52,
+        "lon": 6.62,
+        "timezone": "Europe/Zurich",
+        "status_text": "Retired on 12-02-2022",
+        "social_media": [
+          {
+            "meetup": "rladies-lausanne",
+            "twitter": "RLadiesLausanne",
+            "email": "rladieslausanne@gmail.com",
+            "facebook": "RLadiesLausanne",
+            "github": "rladies/meetup-presentations_lausanne",
+            "website": "https://rladieslausanne.github.io/"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Zürich",
+        "id": "35897482",
+        "urlname": "rladies-zurich",
+        "state": "",
+        "city": "Zürich",
+        "members": 170,
+        "status": "active",
+        "lat": 47.38,
+        "lon": 8.54,
+        "timezone": "Europe/Zurich",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-zurich",
+            "email": "zurich@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Taiwan",
+    "chapters": [
+      {
+        "name": "R-Ladies Taipei",
+        "id": "20871369",
+        "urlname": "rladies-taipei",
+        "state": "",
+        "city": "Taipei",
+        "members": 2072,
+        "status": "active",
+        "lat": 25.02,
+        "lon": 121.45,
+        "timezone": "Asia/Taipei",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-taipei",
+            "email": "taipei@rladies.org",
+            "facebook": "twrladies",
+            "github": "rladies/meetup-presentations_taipei"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Tunisia",
+    "chapters": [
+      {
+        "name": "R-Ladies Tunis",
+        "id": "33719616",
+        "urlname": "rladies-tunis",
+        "state": "",
+        "city": "Tunis",
+        "members": 1076,
+        "status": "active",
+        "lat": 36.84,
+        "lon": 10.22,
+        "timezone": "Africa/Tunis",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-tunis",
+            "email": "tunis@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Turkey",
+    "chapters": [
+      {
+        "name": "R-Ladies Ankara",
+        "id": "32299165",
+        "urlname": "rladies-ankara",
+        "state": "",
+        "city": "Ankara",
+        "members": 642,
+        "status": "active",
+        "lat": 39.93,
+        "lon": 32.85,
+        "timezone": "Europe/Istanbul",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-ankara",
+            "email": "ankara@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Eskisehir",
+        "id": "33007398",
+        "urlname": "rladies-eskisehir",
+        "state": "",
+        "city": "Eskisehir",
+        "members": 228,
+        "status": "active",
+        "lat": 39.79,
+        "lon": 30.52,
+        "timezone": "Europe/Istanbul",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-eskisehir",
+            "twitter": "RLadiesEskisehR",
+            "email": "eskisehir@rladies.org",
+            "github": "rladies/meetup-presentations_eskisehir"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Istanbul",
+        "id": "20394109",
+        "urlname": "rladies-istanbul",
+        "state": "",
+        "city": "Istanbul",
+        "members": 1940,
+        "status": "active",
+        "lat": 41.01,
+        "lon": 28.96,
+        "timezone": "Europe/Istanbul",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-istanbul",
+            "twitter": "RLadiesIstanbul",
+            "email": "istanbul@rladies.org",
+            "github": "rladies/meetup-presentations_istanbul"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Izmir",
+        "id": "34787581",
+        "urlname": "rladies-izmir",
+        "state": "",
+        "city": "Izmir",
+        "members": 136,
+        "status": "active",
+        "lat": 38.43,
+        "lon": 27.15,
+        "timezone": "Europe/Istanbul",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-izmir",
+            "twitter": "RLadiesIzmir",
+            "email": "izmir@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "status": "prospective",
+        "status_text": "Prospective",
+        "social_media": [
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Uganda",
+    "chapters": [
+      {
+        "status": "prospective",
+        "status_text": "Prospective",
+        "social_media": [
+          {
+            "twitter": "Rladieskampala",
+            "email": "kampala@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Ukraine",
+    "chapters": [
+      {
+        "name": "R-Ladies Kyiv",
+        "id": "31174585",
+        "urlname": "rladies-kyiv",
+        "state": "",
+        "city": "Kyiv",
+        "members": 306,
+        "status": "active",
+        "lat": 50.44,
+        "lon": 30.52,
+        "timezone": "Europe/Kiev",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-kyiv",
+            "email": "kyiv@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies L'viv",
+        "id": "32702177",
+        "urlname": "rladies-lviv",
+        "state": "",
+        "city": "L'viv",
+        "members": 47,
+        "status": "active",
+        "lat": 49.84,
+        "lon": 24.03,
+        "timezone": "Europe/Kiev",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-lviv",
+            "email": "lviv@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "country": "United Arab Emirates",
+    "chapters": [
+      {
+        "status": "prospective",
+        "status_text": "Prospective",
+        "social_media": [
+          {
+            "github": "rladies/NA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "country": "United Kingdom",
+    "chapters": [
+      {
+        "name": "R-Ladies Cambridge",
+        "id": "26556368",
+        "urlname": "rladies-cambridge",
+        "state": "C3",
+        "city": "Cambridge",
+        "members": 296,
+        "status": "active",
+        "lat": 52.2,
+        "lon": 0.11,
+        "timezone": "Europe/London",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-cambridge",
+            "twitter": "RLadiesCam",
+            "email": "cambridge@rladies.org",
+            "github": "rladies/NA",
+            "website": "http://rladies.org.uk/"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Coventry",
+        "id": "33409671",
+        "urlname": "rladies-coventry",
+        "state": "43",
+        "city": "Coventry",
+        "members": 536,
+        "status": "active",
+        "lat": 52.42,
+        "lon": -1.5,
+        "timezone": "Europe/London",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-coventry",
+            "email": "coventry@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Edinburgh",
+        "id": "29370129",
+        "urlname": "rladies-edinburgh",
+        "state": "U8",
+        "city": "Edinburgh",
+        "members": 665,
+        "status": "active",
+        "lat": 55.95,
+        "lon": -3.22,
+        "timezone": "Europe/London",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-edinburgh",
+            "twitter": "RLadiesEdinb",
+            "email": "edinburgh@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "urlname": "rladies-exeter",
+        "status": "retired",
+        "status_text": "Retired on 09-04-2020",
+        "social_media": [
+          {
+            "meetup": "rladies-exeter",
+            "email": "exeter@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Glasgow",
+        "id": "33880125",
+        "urlname": "rladies-glasgow",
+        "state": "V2",
+        "city": "Glasgow",
+        "members": 141,
+        "status": "active",
+        "lat": 55.86,
+        "lon": -4.24,
+        "timezone": "Europe/London",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-glasgow",
+            "email": "glasgow@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Lancaster",
+        "id": "29783351",
+        "urlname": "rladies-lancaster",
+        "state": "H2",
+        "city": "Lancaster",
+        "members": 140,
+        "status": "active",
+        "lat": 54.05,
+        "lon": -2.8,
+        "timezone": "Europe/London",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-lancaster",
+            "twitter": "RLadiesLancs",
+            "email": "lancaster@rladies.org",
+            "github": "rladies/meetup-presentations_lancaster"
+          }
+        ]
+      },
+      {
+        "urlname": "rladies-liverpool",
+        "status": "retired",
+        "status_text": "Retired on 01-04-2020",
+        "social_media": [
+          {
+            "meetup": "rladies-liverpool",
+            "twitter": "RLadiesLivUK",
+            "email": "liverpool@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies London",
+        "id": "19474893",
+        "urlname": "rladies-london",
+        "state": "17",
+        "city": "London",
+        "members": 1588,
+        "status": "active",
+        "lat": 51.52,
+        "lon": -0.1,
+        "timezone": "Europe/London",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-london",
+            "twitter": "RLadiesLondon",
+            "email": "london@rladies.org",
+            "periscope": "RLadiesLondon",
+            "github": "rladies/meetup-presentations_london"
+          }
+        ]
+      },
+      {
+        "urlname": "rladies-loughborough",
+        "status": "retired",
+        "status_text": "Retired on 04-04-2020",
+        "social_media": [
+          {
+            "meetup": "rladies-loughborough",
+            "twitter": "RLadiesLboro",
+            "email": "loughborough@rladies.org",
+            "github": "rladies/meetup-presentations_loughborough"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Manchester",
+        "id": "21314716",
+        "urlname": "rladies-manchester",
+        "state": "18",
+        "city": "Manchester",
+        "members": 501,
+        "status": "active",
+        "lat": 53.47,
+        "lon": -2.23,
+        "timezone": "Europe/London",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-manchester",
+            "twitter": "RLadiesManchest",
+            "email": "manchester@rladies.org",
+            "github": "rladies/RLadiesManchester"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Newcastle",
+        "id": "31264590",
+        "urlname": "rladies-newcastle",
+        "state": "41",
+        "city": "Newcastle Upon Tyne",
+        "members": 270,
+        "status": "active",
+        "lat": 55,
+        "lon": -1.6,
+        "timezone": "Europe/London",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-newcastle",
+            "email": "newcastle@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Oxford",
+        "id": "33194933",
+        "urlname": "rladies-oxford",
+        "state": "K2",
+        "city": "Oxford",
+        "members": 42,
+        "status": "active",
+        "lat": 51.76,
+        "lon": -1.26,
+        "timezone": "Europe/London",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-oxford",
+            "email": "oxford@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Reading",
+        "id": "35897302",
+        "urlname": "rladies-reading",
+        "state": "03",
+        "city": "Reading",
+        "members": 31,
+        "status": "active",
+        "lat": 51.44,
+        "lon": -0.95,
+        "timezone": "Europe/London",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-reading",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "status": "prospective",
+        "status_text": "Prospective",
+        "social_media": [
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Uruguay",
+    "chapters": [
+      {
+        "name": "R-Ladies Montevideo",
+        "id": "24222373",
+        "urlname": "rladies-montevideo",
+        "state": "",
+        "city": "Montevideo",
+        "members": 485,
+        "status": "active",
+        "lat": -34.87,
+        "lon": -56.17,
+        "timezone": "America/Montevideo",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-montevideo",
+            "twitter": "RLadiesMVD",
+            "email": "montevideo@rladies.org",
+            "facebook": "RLadiesMVD",
+            "github": "rladies/meetup-presentations_montevideo"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "country": "USA",
+    "chapters": [
+      {
+        "name": "R-Ladies Ames",
+        "id": "21280054",
+        "urlname": "rladies-ames",
+        "state": "IA",
+        "city": "Ames",
+        "members": 270,
+        "status": "active",
+        "lat": 42.03,
+        "lon": -93.64,
+        "timezone": "America/Chicago",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-ames",
+            "twitter": "RLadiesAmes",
+            "email": "ames@rladies.org",
+            "github": "rladies/rladies-ames"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Athens",
+        "id": "32702266",
+        "urlname": "rladies-athens-ga",
+        "state": "GA",
+        "city": "Athens",
+        "members": 84,
+        "status": "active",
+        "lat": 33.97,
+        "lon": -83.36,
+        "timezone": "America/New_York",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-athens-ga",
+            "github": "rladies/meetup-presentations_athens-ga"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Atlanta",
+        "id": "26871250",
+        "urlname": "rladies-atlanta",
+        "state": "GA",
+        "city": "Atlanta",
+        "members": 307,
+        "status": "active",
+        "lat": 33.86,
+        "lon": -84.4,
+        "timezone": "America/New_York",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-atlanta",
+            "twitter": "RLadiesAtlanta",
+            "email": "atlanta@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Austin",
+        "id": "22180445",
+        "urlname": "rladies-austin",
+        "state": "TX",
+        "city": "Austin",
+        "members": 655,
+        "status": "active",
+        "lat": 30.22,
+        "lon": -97.75,
+        "timezone": "America/Chicago",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-austin",
+            "twitter": "RLadiesAustin",
+            "email": "austin@rladies.org",
+            "github": "rladies/meetup-presentations_austin"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Baltimore",
+        "id": "27651413",
+        "urlname": "rladies-baltimore",
+        "state": "MD",
+        "city": "Baltimore",
+        "members": 1168,
+        "status": "active",
+        "lat": 39.29,
+        "lon": -76.62,
+        "timezone": "America/New_York",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-baltimore",
+            "twitter": "RLadiesBmore",
+            "email": "bmore@rladies.org",
+            "github": "rladies/meetup-presentations_baltimore"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Boston",
+        "id": "20433637",
+        "urlname": "rladies-boston",
+        "state": "MA",
+        "city": "Boston",
+        "members": 969,
+        "status": "active",
+        "lat": 42.36,
+        "lon": -71.07,
+        "timezone": "America/New_York",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-boston",
+            "twitter": "RLadiesBoston",
+            "email": "boston@rladies.org",
+            "github": "rladies/meetup-presentations_boston",
+            "website": "https://rladies.github.io/Boston/"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Boulder",
+        "id": "28789217",
+        "urlname": "rladies-boulder",
+        "state": "CO",
+        "city": "Boulder",
+        "members": 277,
+        "status": "active",
+        "lat": 40.05,
+        "lon": -105.21,
+        "timezone": "America/Denver",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-boulder",
+            "twitter": "RLadiesBoulder",
+            "email": "boulder@rladies.org",
+            "github": "rladies/meetup-presentations_boulder"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Buffalo",
+        "id": "24100709",
+        "urlname": "rladies-buffalo",
+        "state": "NY",
+        "city": "Buffalo",
+        "members": 39,
+        "status": "active",
+        "lat": 42.9,
+        "lon": -78.88,
+        "timezone": "America/New_York",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-buffalo",
+            "twitter": "RLadiesBuff",
+            "email": "buffalo@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Charlottesville",
+        "id": "26004745",
+        "urlname": "rladies-charlottesville",
+        "state": "VA",
+        "city": "Charlottesville",
+        "members": 426,
+        "status": "active",
+        "lat": 38,
+        "lon": -78.46,
+        "timezone": "America/New_York",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-charlottesville",
+            "twitter": "rladiescville",
+            "email": "charlottesville@rladies.org",
+            "github": "rladies/meetup-presentations_charlottesville"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Chicago",
+        "id": "24848073",
+        "urlname": "rladies-chicago",
+        "state": "IL",
+        "city": "Chicago",
+        "members": 1348,
+        "status": "active",
+        "lat": 41.88,
+        "lon": -87.62,
+        "timezone": "America/Chicago",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-chicago",
+            "twitter": "RLadiesChicago",
+            "email": "chicago@rladies.org",
+            "github": "rladies/meetup-presentations_chicago"
+          }
+        ]
+      },
+      {
+        "urlname": "rladies-cincinnati",
+        "status": "retired",
+        "status_text": "Retired on 04-04-2020",
+        "social_media": [
+          {
+            "meetup": "rladies-cincinnati",
+            "twitter": "RLadiesCincy",
+            "email": "cincinnati@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Columbus",
+        "id": "20600376",
+        "urlname": "rladies-columbus",
+        "state": "OH",
+        "city": "Columbus",
+        "members": 947,
+        "status": "active",
+        "lat": 40.01,
+        "lon": -83.02,
+        "timezone": "America/New_York",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-columbus",
+            "twitter": "RLadiesColumbus",
+            "email": "columbus@rladies.org",
+            "github": "rladies/meetup-presentations_columbus"
+          }
+        ]
+      },
+      {
+        "urlname": "rladies-connecticut",
+        "status": "retired",
+        "status_text": "Retired on 01-04-2020",
+        "social_media": [
+          {
+            "meetup": "rladies-connecticut",
+            "twitter": "RLadiesCT",
+            "email": "hartford@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Dallas",
+        "id": "27724373",
+        "urlname": "rladies-dallas",
+        "state": "TX",
+        "city": "Dallas",
+        "members": 760,
+        "status": "active",
+        "lat": 32.79,
+        "lon": -96.8,
+        "timezone": "America/Chicago",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-dallas",
+            "twitter": "DallasRladies",
+            "email": "dallas@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Washington D.C.",
+        "id": "21510971",
+        "urlname": "rladies-dc",
+        "state": "DC",
+        "city": "Washington",
+        "members": 2714,
+        "status": "active",
+        "lat": 38.91,
+        "lon": -77.02,
+        "timezone": "America/New_York",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-dc",
+            "twitter": "RLadiesDC",
+            "email": "dc@rladies.org",
+            "github": "rladies/meetup-presentations_dc"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Denver",
+        "id": "32308998",
+        "urlname": "rladies-denver",
+        "state": "CO",
+        "city": "Denver",
+        "members": 142,
+        "status": "active",
+        "lat": 39.7,
+        "lon": -105.08,
+        "timezone": "America/Denver",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-denver",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Des Moines",
+        "id": "29929892",
+        "urlname": "rladies-des-moines",
+        "state": "IA",
+        "city": "Des Moines",
+        "members": 30,
+        "status": "active",
+        "lat": 41.6,
+        "lon": -93.63,
+        "timezone": "America/Chicago",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-des-moines",
+            "email": "desmoines@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies East Lansing",
+        "id": "26829576",
+        "urlname": "rladies-east-lansing",
+        "state": "MI",
+        "city": "East Lansing",
+        "members": 862,
+        "status": "active",
+        "lat": 42.65,
+        "lon": -84.49,
+        "timezone": "America/New_York",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-east-lansing",
+            "twitter": "RLadiesELansing",
+            "email": "eastlansing@rladies.org",
+            "facebook": "rladieseastlansing",
+            "github": "rladies/rladies-eastlansing",
+            "website": "https://rladies-eastlansing.github.io",
+            "slack": "https://rladies-eastlansing.slack.com"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies El Paso",
+        "id": "31679846",
+        "urlname": "rladies-el-paso",
+        "state": "TX",
+        "city": "El Paso",
+        "members": 72,
+        "status": "active",
+        "lat": 31.76,
+        "lon": -106.49,
+        "timezone": "America/Denver",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-el-paso",
+            "twitter": "RLadiesElPaso",
+            "email": "elpaso@rladies.org",
+            "github": "rladies/meetup-presentations_el-paso",
+            "slack": "r-ladies-el-paso.slack.com"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Fayetteville",
+        "id": "32478325",
+        "urlname": "rladies-fayetteville",
+        "state": "AR",
+        "city": "Fayetteville",
+        "members": 147,
+        "status": "active",
+        "lat": 36.05,
+        "lon": -94.14,
+        "timezone": "America/Chicago",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-fayetteville",
+            "email": "fayetteville@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Fort Pierce",
+        "id": "36506535",
+        "urlname": "rladies-fort-pierce",
+        "state": "FL",
+        "city": "Fort Pierce",
+        "members": 5,
+        "status": "active",
+        "lat": 27.42,
+        "lon": -80.45,
+        "timezone": "America/New_York",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-fort-pierce",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Gainesville",
+        "id": "29096058",
+        "urlname": "rladies-gainesville",
+        "state": "FL",
+        "city": "Gainesville",
+        "members": 495,
+        "status": "active",
+        "lat": 29.65,
+        "lon": -82.3,
+        "timezone": "America/New_York",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-gainesville",
+            "twitter": "RLadiesGNV",
+            "email": "gainesville@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Highland Park",
+        "id": "31858594",
+        "urlname": "rladies-highland-park",
+        "state": "NJ",
+        "city": "Highland Park",
+        "members": 78,
+        "status": "active",
+        "lat": 40.5,
+        "lon": -74.43,
+        "timezone": "America/New_York",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-highland-park",
+            "email": "highlandpark@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Honolulu",
+        "id": "36221103",
+        "urlname": "rladies-honolulu",
+        "state": "HI",
+        "city": "Honolulu",
+        "members": 11,
+        "status": "active",
+        "lat": 21.33,
+        "lon": -157.83,
+        "timezone": "Pacific/Honolulu",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-honolulu",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Houston",
+        "id": "30666379",
+        "urlname": "rladies-houston",
+        "state": "TX",
+        "city": "Houston",
+        "members": 121,
+        "status": "active",
+        "lat": 29.72,
+        "lon": -95.22,
+        "timezone": "America/Chicago",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-houston",
+            "twitter": "rladieshouston",
+            "email": "houston@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Iowa City",
+        "id": "29865126",
+        "urlname": "rladies-iowa-city",
+        "state": "IA",
+        "city": "Iowa City",
+        "members": 128,
+        "status": "active",
+        "lat": 41.66,
+        "lon": -91.53,
+        "timezone": "America/Chicago",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-iowa-city",
+            "email": "iowacity@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Irvine",
+        "id": "27819387",
+        "urlname": "rladies-irvine",
+        "state": "CA",
+        "city": "Irvine",
+        "members": 635,
+        "status": "active",
+        "lat": 33.65,
+        "lon": -117.84,
+        "timezone": "America/Los_Angeles",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-irvine",
+            "twitter": "RLadiesIrvine",
+            "email": "irvine@rladies.org",
+            "github": "rladies/meetup-presentations_irvine",
+            "website": "http://www.rladiesirvine.org/",
+            "slack": "http://bit.ly/SoCal-RUG-Slack"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Kansas City",
+        "id": "32426227",
+        "urlname": "rladies-kansas-city",
+        "state": "MO",
+        "city": "Kansas City",
+        "members": 66,
+        "status": "active",
+        "lat": 39.1,
+        "lon": -94.6,
+        "timezone": "America/Chicago",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-kansas-city",
+            "email": "kansascity@rladies.org",
+            "github": "rladies/meetup-presentations_kansas-city"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Los Angeles",
+        "id": "20382018",
+        "urlname": "rladies-la",
+        "state": "CA",
+        "city": "Los Angeles",
+        "members": 636,
+        "status": "active",
+        "lat": 34.07,
+        "lon": -118.45,
+        "timezone": "America/Los_Angeles",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-la",
+            "twitter": "RLadiesLA",
+            "email": "la@rladies.org",
+            "github": "rladies/meetup-presentations_la"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Lexington Park",
+        "id": "32611075",
+        "urlname": "rladies-lexington-park",
+        "state": "MD",
+        "city": "Lexington Park",
+        "members": 39,
+        "status": "active",
+        "lat": 38.27,
+        "lon": -76.46,
+        "timezone": "America/New_York",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-lexington-park",
+            "twitter": "RLadiesLexPark",
+            "email": "lexingtonpark@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Louisville",
+        "id": "36506652",
+        "urlname": "rladies-louisville-ky",
+        "state": "KY",
+        "city": "Louisville",
+        "members": 11,
+        "status": "active",
+        "lat": 38.25,
+        "lon": -85.78,
+        "timezone": "America/New_York",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-louisville-ky",
+            "twitter": "RLadiesLouville",
+            "email": "louisville@rladies.org",
+            "github": "rladies/meetup-presentation_louisville"
+          }
+        ]
+      },
+      {
+        "urlname": "rladies-memphis",
+        "status": "retired",
+        "status_text": "Retired on 29-09-2019",
+        "social_media": [
+          {
+            "meetup": "rladies-memphis",
+            "twitter": "RLadiesMemphis",
+            "email": "memphis@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Miami",
+        "id": "24259185",
+        "urlname": "rladies-miami",
+        "state": "FL",
+        "city": "Miami",
+        "members": 1297,
+        "status": "active",
+        "lat": 25.78,
+        "lon": -80.2,
+        "timezone": "America/New_York",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-miami",
+            "twitter": "RLadiesMiami",
+            "email": "miami@rladies.org",
+            "github": "rladies/meetup-presentations_miami"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Mid-Mo",
+        "id": "33107363",
+        "urlname": "rladies-mid-mo",
+        "state": "MO",
+        "city": "Columbia",
+        "members": 137,
+        "status": "active",
+        "lat": 38.9,
+        "lon": -92.25,
+        "timezone": "America/Chicago",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-mid-mo",
+            "email": "mid-missouri@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "urlname": "rladies-montgomery",
+        "status": "retired",
+        "status_text": "Retired on 29-09-2019",
+        "social_media": [
+          {
+            "meetup": "rladies-montgomery",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Nashville",
+        "id": "20493986",
+        "urlname": "rladies-nashville",
+        "state": "TN",
+        "city": "Nashville",
+        "members": 528,
+        "status": "active",
+        "lat": 36.17,
+        "lon": -86.78,
+        "timezone": "America/Chicago",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-nashville",
+            "twitter": "RLadiesNash",
+            "email": "nashville@rladies.org",
+            "github": "rladies/rladies-nashville"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies New Orleans",
+        "id": "33061717",
+        "urlname": "rladies-new-orleans",
+        "state": "LA",
+        "city": "New Orleans",
+        "members": 86,
+        "status": "active",
+        "lat": 29.96,
+        "lon": -90.08,
+        "timezone": "America/Chicago",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-new-orleans",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies New York",
+        "id": "20346526",
+        "urlname": "rladies-newyork",
+        "state": "NY",
+        "city": "New York",
+        "members": 2868,
+        "status": "active",
+        "lat": 40.75,
+        "lon": -73.99,
+        "timezone": "America/New_York",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-newyork",
+            "twitter": "RLadiesNYC",
+            "email": "nyc@rladies.org",
+            "github": "rladies/meetup-presentations_newyork",
+            "website": "http://www.rladiesnyc.org/"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Orlando",
+        "id": "24292488",
+        "urlname": "rladies-orlando",
+        "state": "FL",
+        "city": "Orlando",
+        "members": 336,
+        "status": "active",
+        "lat": 28.54,
+        "lon": -81.37,
+        "timezone": "America/New_York",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-orlando",
+            "twitter": "RLadiesOrlando",
+            "email": "orlando@rladies.org",
+            "github": "rladies/meetup-presentations_orlando"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Oxford Ohio",
+        "id": "33041271",
+        "urlname": "rladies-oxford-ohio",
+        "state": "OH",
+        "city": "Oxford",
+        "members": 62,
+        "status": "active",
+        "lat": 39.49,
+        "lon": -84.74,
+        "timezone": "America/New_York",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-oxford-ohio",
+            "email": "oxford-ohio@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Pasadena",
+        "id": "28280039",
+        "urlname": "rladies-pasadena",
+        "state": "CA",
+        "city": "Pasadena",
+        "members": 107,
+        "status": "active",
+        "lat": 34.15,
+        "lon": -118.14,
+        "timezone": "America/Los_Angeles",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-pasadena",
+            "email": "pasadena@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies PDX",
+        "id": "25057217",
+        "urlname": "rladies-pdx",
+        "state": "OR",
+        "city": "Portland",
+        "members": 259,
+        "status": "active",
+        "lat": 45.5,
+        "lon": -122.69,
+        "timezone": "America/Los_Angeles",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-pdx",
+            "twitter": "RLadiesPDX",
+            "email": "pdx@rladies.org",
+            "github": "rladies/meetup-presentations_portland"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Philly",
+        "id": "26229746",
+        "urlname": "rladies-philly",
+        "state": "PA",
+        "city": "Philadelphia",
+        "members": 2022,
+        "status": "active",
+        "lat": 40.12,
+        "lon": -75.01,
+        "timezone": "America/New_York",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-philly",
+            "twitter": "RLadiesPhilly",
+            "email": "philly@rladies.org",
+            "github": "rladies/meetup-presentations_philadelphia",
+            "website": "http://www.rladiesphilly.org/"
+          }
+        ]
+      },
+      {
+        "urlname": "rladies-portland-maine",
+        "status": "retired",
+        "status_text": "Retired on 29-09-2019",
+        "social_media": [
+          {
+            "meetup": "rladies-portland-maine",
+            "twitter": "RLadiesPortland",
+            "email": "portland@rladies.org",
+            "github": "rladies/meetup-presentations_portland"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Riverside",
+        "id": "32522592",
+        "urlname": "rladies-riverside",
+        "state": "CA",
+        "city": "Riverside",
+        "members": 485,
+        "status": "active",
+        "lat": 33.99,
+        "lon": -117.37,
+        "timezone": "America/Los_Angeles",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-riverside",
+            "twitter": "RLadiesRiversd",
+            "email": "riverside@rladies.org",
+            "github": "rladies/meetup-presentations_riverside"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies RTP",
+        "id": "20317472",
+        "urlname": "rladies-rtp",
+        "state": "NC",
+        "city": "Durham",
+        "members": 1003,
+        "status": "active",
+        "lat": 36,
+        "lon": -78.9,
+        "timezone": "America/New_York",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-rtp",
+            "twitter": "RLadiesRTP",
+            "email": "rtp@rladies.org",
+            "github": "rladies/meetup-presentations_rtp"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies San Diego",
+        "id": "24506595",
+        "urlname": "rladies-san-diego",
+        "state": "CA",
+        "city": "San Diego",
+        "members": 667,
+        "status": "active",
+        "lat": 32.75,
+        "lon": -117.17,
+        "timezone": "America/Los_Angeles",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-san-diego",
+            "twitter": "RLadiesSanDiego",
+            "email": "sandiego@rladies.org",
+            "facebook": "rladiessandiego",
+            "github": "rladies/meetup-presentations_sandiego"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies San Francisco",
+        "id": "5190472",
+        "urlname": "rladies-san-francisco",
+        "state": "CA",
+        "city": "San Francisco",
+        "members": 1709,
+        "status": "active",
+        "lat": 37.79,
+        "lon": -122.4,
+        "timezone": "America/Los_Angeles",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-san-francisco",
+            "twitter": "RladiesSF",
+            "email": "sf@rladies.org",
+            "periscope": "RLadiesSF",
+            "github": "rladies/meetup-presentations_sanfrancisco"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Santa Barbara",
+        "id": "27283931",
+        "urlname": "rladies-santa-barbara",
+        "state": "CA",
+        "city": "Santa Barbara",
+        "members": 584,
+        "status": "active",
+        "lat": 34.42,
+        "lon": -119.71,
+        "timezone": "America/Los_Angeles",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-santa-barbara",
+            "twitter": "RLadiesSB",
+            "email": "santabarbara@rladies.org",
+            "github": "rladies/meetup-presentations_santabarbara"
+          }
+        ]
+      },
+      {
+        "urlname": "rladies-sarasota",
+        "status": "retired",
+        "status_text": "Retired on 01-04-2020",
+        "social_media": [
+          {
+            "meetup": "rladies-sarasota",
+            "twitter": "RLadiesSarasota",
+            "email": "sarasota@rladies.org",
+            "github": "rladies/meetup-presentations_sarasota"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Seattle",
+        "id": "26537030",
+        "urlname": "rladies-seattle",
+        "state": "WA",
+        "city": "Seattle",
+        "members": 1170,
+        "status": "active",
+        "lat": 47.61,
+        "lon": -122.33,
+        "timezone": "America/Los_Angeles",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-seattle",
+            "twitter": "RLadiesSeattle",
+            "email": "seattle@rladies.org",
+            "github": "rladies/rladies-seattle",
+            "website": "https://rladiesseattle.org/",
+            "slack": "https://rladies-sea.slack.com/"
+          }
+        ]
+      },
+      {
+        "urlname": "rladies-springfield",
+        "status": "retired",
+        "status_text": "Retired on 29-09-2019",
+        "social_media": [
+          {
+            "meetup": "rladies-springfield",
+            "email": "springfieldmo@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies St. Louis",
+        "id": "25681976",
+        "urlname": "rladies-st-louis",
+        "state": "MO",
+        "city": "Saint Louis",
+        "members": 1294,
+        "status": "active",
+        "lat": 38.63,
+        "lon": -90.19,
+        "timezone": "America/Chicago",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-st-louis",
+            "twitter": "RLadiesSTL",
+            "github": "rladies/meetup-presentations_stlouis"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Stillwater",
+        "id": "36506185",
+        "urlname": "rladies-stillwater",
+        "state": "OK",
+        "city": "Stillwater",
+        "members": 32,
+        "status": "active",
+        "lat": 36.11,
+        "lon": -97.08,
+        "timezone": "America/Chicago",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-stillwater",
+            "email": "stillwater@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Syracuse",
+        "id": "33061635",
+        "urlname": "rladies-syracuse",
+        "state": "NY",
+        "city": "Syracuse",
+        "members": 17,
+        "status": "active",
+        "lat": 43.04,
+        "lon": -76.15,
+        "timezone": "America/New_York",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-syracuse",
+            "email": "syracuse@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "urlname": "rladies-tallahassee",
+        "status": "prospective",
+        "status_text": "Prospective",
+        "social_media": [
+          {
+            "meetup": "rladies-tallahassee",
+            "twitter": "RLadiesTLH",
+            "email": "tallahassee@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Tampa",
+        "id": "27797804",
+        "urlname": "rladies-tampa",
+        "state": "FL",
+        "city": "Tampa",
+        "members": 316,
+        "status": "active",
+        "lat": 27.98,
+        "lon": -82.34,
+        "timezone": "America/New_York",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-tampa",
+            "twitter": "RLadiesTampa",
+            "email": "tampa@rladies.org",
+            "github": "rladies/meetup-presentations_tampa"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies Twin Cities",
+        "id": "18529799",
+        "urlname": "rladies-tc",
+        "state": "MN",
+        "city": "Minneapolis",
+        "members": 447,
+        "status": "active",
+        "lat": 44.94,
+        "lon": -93.22,
+        "timezone": "America/Chicago",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-tc",
+            "twitter": "RLadiesTC",
+            "email": "minneapolis-saintpaul@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "urlname": "rladies-tucson-az",
+        "status": "active",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-tucson-az",
+            "twitter": "RLadiesTucson",
+            "email": "tuscon@rladies.org",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "name": "R-Ladies West Lafayette",
+        "id": "35897790",
+        "urlname": "rladies-west-lafayette",
+        "state": "IN",
+        "city": "West Lafayette",
+        "members": 10,
+        "status": "active",
+        "lat": 40.5,
+        "lon": -86.97,
+        "timezone": "America/New_York",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-west-lafayette",
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "status": "active",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "github": "rladies/NA"
+          }
+        ]
+      },
+      {
+        "status": "prospective",
+        "status_text": "Prospective",
+        "social_media": [
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/meetup-presentations_newcastle"
+          },
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "email": "waltham@rladies.org",
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "email": "pittsburgh@rladies.org",
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "email": "sanantonio@rladies.org",
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "email": "provo@rladies.org",
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          },
+          {
+            "github": "rladies/NA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Venezuela",
+    "chapters": [
+      {
+        "status": "active",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "github": "rladies/NA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Vietnam",
+    "chapters": [
+      {
+        "name": "R-Ladies Ha Noi",
+        "id": "33361775",
+        "urlname": "rladies-ha-noi",
+        "state": "",
+        "city": "Ha Noi",
+        "members": 74,
+        "status": "active",
+        "lat": 21.03,
+        "lon": 105.84,
+        "timezone": "Asia/Ho_Chi_Minh",
+        "status_text": "Active",
+        "social_media": [
+          {
+            "meetup": "rladies-ha-noi",
+            "github": "rladies/NA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Vilnius",
+    "chapters": [
+      {
+        "status": "prospective",
+        "status_text": "Prospective",
+        "social_media": [
+          {
+            "github": "rladies/NA"
+          }
+        ]
       }
     ]
   },
@@ -2095,7 +5920,7 @@
         "urlname": "rladies-remote",
         "state": "CA",
         "city": "San Francisco",
-        "members": 467,
+        "members": 468,
         "status": "active",
         "lat": 37.78,
         "lon": -122.42,
@@ -2108,6 +5933,20 @@
             "email": "remote@rladies.org",
             "github": "rladies/NA",
             "slack": "https://rladies-remote.slack.com"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Zambia",
+    "chapters": [
+      {
+        "status": "prospective",
+        "status_text": "Prospective",
+        "social_media": [
+          {
+            "github": "rladies/NA"
           }
         ]
       }
