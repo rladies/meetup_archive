@@ -57,7 +57,7 @@ jobs:
       - name: Test
         uses: actions/github-script@v6
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          github-token: ${{ secrets.GHA_WORKFLOW_PAT }}
           script: |
             const result = await github.rest.actions.createWorkflowDispatch({
               owner: 'rladies',
