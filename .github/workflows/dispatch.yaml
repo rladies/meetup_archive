@@ -7,8 +7,9 @@ on:
 
 
 jobs:
-  dispatch:
+  meetup:
     name: dispatch
+    runs-on: macOS-latest
     steps:
       - name: dispatch
         uses: actions/github-script@v6
