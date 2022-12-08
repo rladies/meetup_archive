@@ -18,12 +18,13 @@ jobs:
         uses: actions/github-script@v6
         with:
           github-token: ${{ secrets.GHA_WORKFLOW_DISPATCH }}
-          script: |
-            const result = await github.rest.actions.createWorkflowDispatch({
-              owner: 'rladies',
-              repo: 'website',
-              workflow_id: 'build_site.yml',
-              ref: 'main'
-            })
-            console.log(result)
+  trigger-website-build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Build
+        run: |
+          curl -X POST 'https://api.github.com/repos/rladies/website/actions/workflows/build_site.yml/dispatches' \
+          -H 'Accept: application/vnd.github.everest-preview+json' \
+          -H 'Authorization: Bearer ${{ secrets.GHA_WORKFLOW_DISPATCH }}' \
+          -d '{"ref":"main"}'
             
