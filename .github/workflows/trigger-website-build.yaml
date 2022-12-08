@@ -1,0 +1,22 @@
+name: Trigger website build
+
+on:
+  workflow_dispatch:
+
+jobs:
+  dispatch:
+    runs-on: macOS-latest
+    steps:
+      - name: trigger-website
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.GHA_WORKFLOW_DISPATCH }}
+          script: |
+            const result = await github.rest.actions.createWorkflowDispatch({
+              owner: 'rladies',
+              repo: 'website',
+              workflow_id: 'build_site.yaml',
+              ref: 'main'
+            })
+            console.log(result)
+            

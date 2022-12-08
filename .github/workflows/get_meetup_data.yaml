@@ -56,16 +56,17 @@ jobs:
  
   dispatch:
     runs-on: macOS-latest
+    needs: meetup
     steps:
-      - name: trigger-website
+      - name: trigger-website-build
         uses: actions/github-script@v6
         with:
           github-token: ${{ secrets.GHA_WORKFLOW_DISPATCH }}
           script: |
             const result = await github.rest.actions.createWorkflowDispatch({
               owner: 'rladies',
-              repo: 'website',
-              workflow_id: 'build_site.yaml',
+              repo: 'meetup_archive',
+              workflow_id: 'trigger-website-build.yaml',
               ref: 'main'
             })
             console.log(result)
