@@ -1,0 +1,29 @@
+name: test dispatch
+
+on:
+  push:
+    branches: 
+      - main
+
+
+jobs:
+  meetup:
+    name: dispatch
+    runs-on: macOS-latest
+    env: 
+      MEETUPR_PWD: ${{ secrets.MEETUPR_PWD }}
+      RENV_PATHS_ROOT: ~/.local/share/renv
+    steps:
+      - name: dispatch
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.GHA_WORKFLOW_PAT }}
+          script: |
+            const result = await github.rest.actions.createWorkflowDispatch({
+              owner: 'rladies',
+              repo: 'website',
+              workflow_id: 'build_site.yml',
+              ref: 'main'
+            })
+            console.log(result)
+            
