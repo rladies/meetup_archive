@@ -17,7 +17,7 @@ jobs:
       - name: dispatch
         uses: actions/github-script@v6
         with:
-          github-token: ${{ secrets.GHA_WORKFLOW_PAT }}
+          github-token: ${{ secrets.GHA_WORKFLOW_DISPATCH }}
           script: |
             const result = await github.rest.actions.createWorkflowDispatch({
               owner: 'rladies',
