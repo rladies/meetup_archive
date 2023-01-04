@@ -12,14 +12,18 @@ chapters <- read.table(
   sep = ",", header = TRUE, stringsAsFactors = FALSE) |>
   as_tibble() |> 
   rename_all(tolower) |> 
-  mutate(urlname = basename(meetup))  |> 
-  select(-state.region, -city, -current_organizers) |> 
-  select(urlname, status, country, everything()) |> 
+  mutate(urlname = tolower(basename(meetup)))  |> 
+  select(-state.region, -city, current_organizers)|> 
+  select(urlname, status, country, everything())
+
+
+|> 
   mutate(
     across(-c(website, slack), basename),
     across(where(is.character), change_empty),
-    github = file.path("rladies", github)
-  )
+    github = if_else(!is.na(github), file.path("rladies", github), NA_character_)
+  ) |> 
+  filter(!is.na(meetup))
 
 some_cols <- chapters |> 
   select(-urlname, -status, -country, -former_organizers) |> 
@@ -46,10 +50,13 @@ to_file <- chapters |>
                             "retired", tolower(status)),
             social_media = lapply(social_media, na_col_rm) 
   ) |> 
- # filter(status == "active") |> 
-  nest_by(country, .key = "chapters")
+  arrange(country, city) |> 
+  # filter(status == "active") |> 
+  # nest_by(country, .key = "chapters") |> 
+  as_tibble()
 
 cat("\t writing 'data/chapters.json'\n")
 jsonlite::write_json(to_file, 
                      here::here("data/chapters.json"),
-                     pretty = TRUE)
+                     pretty = TRUE,
+                     auto_unbox = TRUE)
