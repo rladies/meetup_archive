@@ -2,7 +2,13 @@ source(here::here("scripts/utils.R"))
 library(meetupr)
 library(dplyr)
 
-rladies_groups <- meetupr::get_pro_groups("rladies") |> 
+get_groups <- function(){
+  meetupr::get_pro_groups("rladies")
+}
+
+fetch_groups <- purrr::insistently(get_groups)
+
+rladies_groups <- fetch_groups() |> 
   rename(country_acronym = country) |> 
   distinct() |> 
   transmute(name, 
