@@ -15,9 +15,6 @@ get_chapter <- function(x){
   unname(y)
 }
 
-str_count <- function(x)(
-  strsplit(x, "")
-)
 
 # Force UTC timezone
 force_utc <- function(datetime, tz){
