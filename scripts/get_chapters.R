@@ -5,8 +5,8 @@ library(dplyr)
 fetch_groups <- purrr::insistently(
   ~meetupr::get_pro_groups("rladies"), 
   purrr::rate_backoff(
-    max_times = 5,
-    pause_base = 2
+    max_times = 20,
+    pause_base = 5
   )
 )
 

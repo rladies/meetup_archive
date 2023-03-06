@@ -5,13 +5,22 @@ library(dplyr)
 library(lubridate)
 
 ## Get events ----
+fetch_events <- purrr::insistently(
+  ~meetupr::get_pro_events(
+    "rladies",
+    status = "UPCOMING",
+    extra_graphql = 'image{baseUrl}'
+  ), 
+  purrr::rate_backoff(
+    max_times = 20,
+    pause_base = 5
+  )
+)
 
-new_events <- meetupr::get_pro_events(
-  "rladies",
-  status = "UPCOMING",
-  extra_graphql = 'image{baseUrl}'
-) |> 
+new_events <- fetch_events() |> 
   rename(image_url = image_baseUrl)
+
+
 
 cancelled <- meetupr::get_pro_events(
   "rladies",
