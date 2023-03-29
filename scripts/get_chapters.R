@@ -27,6 +27,6 @@ rladies_groups <- fetch_groups() |>
   as_tibble()
 
 jsonlite::write_json(rladies_groups, 
-                     here::here("data/chapters.json"),
+                     here::here("data/chapters_meetup.json"),
                      pretty = TRUE,
                      auto_unbox = TRUE)

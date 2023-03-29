@@ -21,7 +21,6 @@ new_events <- fetch_events() |>
   rename(image_url = image_baseUrl)
 
 
-
 cancelled <- meetupr::get_pro_events(
   "rladies",
   status = "CANCELLED"
