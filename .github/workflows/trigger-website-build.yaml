@@ -15,7 +15,7 @@ jobs:
             const result = await github.rest.actions.createWorkflowDispatch({
               owner: 'rladies',
               repo: 'website',
-              workflow_id: 'build_site.yaml',
+              workflow_id: 'build.yaml',
               ref: 'main'
             })
             console.log(result)
