@@ -58,6 +58,7 @@ jobs:
   dispatch:
     runs-on: macOS-latest
     needs: meetup
+    if: ${{ github.event_name != 'pull_request' }}
     steps:
       - name: Trigger chapters merge
         uses: actions/github-script@v6
