@@ -59,7 +59,7 @@ jobs:
     runs-on: macOS-latest
     needs: meetup
     steps:
-      - name: trigger-website
+      - name: Trigger chapters merge
         uses: actions/github-script@v6
         with:
           github-token: ${{ secrets.GHA_WORKFLOW_DISPATCH }}
@@ -67,7 +67,7 @@ jobs:
             const result = await github.rest.actions.createWorkflowDispatch({
               owner: 'rladies',
               repo: 'website',
-              workflow_id: 'build.yaml',
+              workflow_id: 'chapters-merge.yaml',
               ref: 'main'
             })
             console.log(result)
