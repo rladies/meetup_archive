@@ -65,11 +65,10 @@ jobs:
         with:
           github-token: ${{ secrets.GHA_WORKFLOW_DISPATCH }}
           script: |
-            const result = await github.rest.actions.createWorkflowDispatch({
+            await github.rest.actions.createWorkflowDispatch({
               owner: 'rladies',
-              repo: 'rladies.github.io',
+              repo: 'website',
               workflow_id: 'chapters-merge.yaml',
               ref: 'main'
             })
-            console.log(result)
             
