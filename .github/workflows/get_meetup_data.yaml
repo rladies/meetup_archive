@@ -54,3 +54,4 @@ jobs:
           git config --local user.name "GitHub Actions"	
           git add data/	
           git commit -m 'Update meetup data' || echo "No meetup data to commit"	
+          git push || echo "Nothing to push"	
