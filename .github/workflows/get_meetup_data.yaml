@@ -67,7 +67,7 @@ jobs:
           script: |
             const result = await github.rest.actions.createWorkflowDispatch({
               owner: 'rladies',
-              repo: 'website',
+              repo: 'rladies.github.io',
               workflow_id: 'chapters-merge.yaml',
               ref: 'main'
             })
