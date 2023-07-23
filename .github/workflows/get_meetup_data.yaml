@@ -54,21 +54,3 @@ jobs:
           git config --local user.name "GitHub Actions"	
           git add data/	
           git commit -m 'Update meetup data' || echo "No meetup data to commit"	
- 
-  dispatch:
-    runs-on: macOS-latest
-    needs: meetup
-    if: ${{ github.event_name != 'pull_request' }}
-    steps:
-      - name: Trigger chapters merge
-        uses: actions/github-script@v6
-        with:
-          github-token: ${{ secrets.GHA_WORKFLOW_DISPATCH }}
-          script: |
-            await github.rest.actions.createWorkflowDispatch({
-              owner: 'rladies',
-              repo: 'website',
-              workflow_id: 'chapters-merge.yaml',
-              ref: 'main'
-            })
-            
