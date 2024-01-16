@@ -1,5 +1,17 @@
 [
   {
+    "name": "R-Ladies Salzburg",
+    "id": "37445857",
+    "urlname": "rladies-salzburg",
+    "country_acronym": "at",
+    "state": "",
+    "city": "Salzburg",
+    "members": 7,
+    "lat": 47.81,
+    "lon": 13.04,
+    "timezone": "Europe/Vienna"
+  },
+  {
     "name": "R-Ladies Kumasi",
     "id": "37262916",
     "urlname": "rladies-kumasi",
@@ -30,7 +42,7 @@
     "country_acronym": "kg",
     "state": "",
     "city": "Bishkek",
-    "members": 74,
+    "members": 75,
     "lat": 42.87,
     "lon": 74.57,
     "timezone": "Asia/Bishkek"
@@ -78,7 +90,7 @@
     "country_acronym": "mx",
     "state": "",
     "city": "San Cristóbal de las Casas",
-    "members": 101,
+    "members": 102,
     "lat": 16.75,
     "lon": -92.63,
     "timezone": "America/Mexico_City"
@@ -210,7 +222,7 @@
     "country_acronym": "it",
     "state": "RM",
     "city": "Roma",
-    "members": 704,
+    "members": 705,
     "lat": 41.9,
     "lon": 12.48,
     "timezone": "Europe/Rome"
@@ -222,7 +234,7 @@
     "country_acronym": "us",
     "state": "MS",
     "city": "Oxford",
-    "members": 17,
+    "members": 18,
     "lat": 34.35,
     "lon": -89.52,
     "timezone": "America/Chicago"
@@ -318,7 +330,7 @@
     "country_acronym": "do",
     "state": "",
     "city": "Santo Domingo",
-    "members": 125,
+    "members": 126,
     "lat": 18.48,
     "lon": -69.91,
     "timezone": "America/Santo_Domingo"
@@ -522,7 +534,7 @@
     "country_acronym": "sa",
     "state": "",
     "city": "Dammam",
-    "members": 557,
+    "members": 558,
     "lat": 26.42,
     "lon": 50.09,
     "timezone": "Asia/Riyadh"
@@ -726,7 +738,7 @@
     "country_acronym": "pe",
     "state": "",
     "city": "Cusco",
-    "members": 73,
+    "members": 74,
     "lat": -13.52,
     "lon": -71.99,
     "timezone": "America/Lima"
@@ -738,7 +750,7 @@
     "country_acronym": "dz",
     "state": "",
     "city": "al-Jaza´ir",
-    "members": 456,
+    "members": 458,
     "lat": 36.77,
     "lon": 3.04,
     "timezone": "Africa/Algiers"
@@ -1074,7 +1086,7 @@
     "country_acronym": "me",
     "state": "",
     "city": "Podgorica",
-    "members": 51,
+    "members": 52,
     "lat": 42.47,
     "lon": 19.28,
     "timezone": "Europe/Belgrade"
@@ -1098,7 +1110,7 @@
     "country_acronym": "ca",
     "state": "AB",
     "city": "Calgary",
-    "members": 214,
+    "members": 213,
     "lat": 51.04,
     "lon": -114.06,
     "timezone": "America/Edmonton"
@@ -1266,7 +1278,7 @@
     "country_acronym": "tr",
     "state": "",
     "city": "Ankara",
-    "members": 676,
+    "members": 677,
     "lat": 39.93,
     "lon": 32.85,
     "timezone": "Europe/Istanbul"
@@ -1362,7 +1374,7 @@
     "country_acronym": "cl",
     "state": "",
     "city": "Concepción",
-    "members": 646,
+    "members": 647,
     "lat": -36.83,
     "lon": -73.05,
     "timezone": "America/Santiago"
@@ -1374,7 +1386,7 @@
     "country_acronym": "br",
     "state": "",
     "city": "Lavras",
-    "members": 89,
+    "members": 90,
     "lat": -21.25,
     "lon": -45.01,
     "timezone": "America/Sao_Paulo"
@@ -1470,7 +1482,7 @@
     "country_acronym": "us",
     "state": "MO",
     "city": "Saint Louis",
-    "members": 1617,
+    "members": 1618,
     "lat": 38.63,
     "lon": -90.19,
     "timezone": "America/Chicago"
@@ -1542,7 +1554,7 @@
     "country_acronym": "es",
     "state": "",
     "city": "Bilbao",
-    "members": 247,
+    "members": 246,
     "lat": 43.25,
     "lon": -2.93,
     "timezone": "Europe/Madrid"
@@ -1626,7 +1638,7 @@
     "country_acronym": "ca",
     "state": "ON",
     "city": "Ottawa",
-    "members": 521,
+    "members": 525,
     "lat": 45.45,
     "lon": -75.69,
     "timezone": "America/Toronto"
@@ -1962,7 +1974,7 @@
     "country_acronym": "us",
     "state": "OH",
     "city": "Columbus",
-    "members": 946,
+    "members": 945,
     "lat": 40.01,
     "lon": -83.02,
     "timezone": "America/New_York"
@@ -2022,7 +2034,7 @@
     "country_acronym": "us",
     "state": "NC",
     "city": "Durham",
-    "members": 1045,
+    "members": 1044,
     "lat": 36,
     "lon": -78.9,
     "timezone": "America/New_York"
@@ -2358,7 +2370,7 @@
     "country_acronym": "us",
     "state": "DC",
     "city": "Washington",
-    "members": 2945,
+    "members": 2947,
     "lat": 38.91,
     "lon": -77.02,
     "timezone": "America/New_York"
@@ -2370,7 +2382,7 @@
     "country_acronym": "us",
     "state": "NY",
     "city": "New York",
-    "members": 3125,
+    "members": 3123,
     "lat": 40.75,
     "lon": -73.99,
     "timezone": "America/New_York"
@@ -2382,7 +2394,7 @@
     "country_acronym": "br",
     "state": "",
     "city": "Niterói",
-    "members": 775,
+    "members": 776,
     "lat": -22.9,
     "lon": -43.13,
     "timezone": "America/Sao_Paulo"
@@ -2442,7 +2454,7 @@
     "country_acronym": "au",
     "state": "",
     "city": "Sydney",
-    "members": 927,
+    "members": 929,
     "lat": -33.87,
     "lon": 151.21,
     "timezone": "Australia/Sydney"
@@ -2514,7 +2526,7 @@
     "country_acronym": "nl",
     "state": "",
     "city": "Rotterdam",
-    "members": 501,
+    "members": 502,
     "lat": 51.93,
     "lon": 4.48,
     "timezone": "Europe/Brussels"
@@ -2598,7 +2610,7 @@
     "country_acronym": "us",
     "state": "WA",
     "city": "Seattle",
-    "members": 1281,
+    "members": 1282,
     "lat": 47.61,
     "lon": -122.33,
     "timezone": "America/Los_Angeles"
@@ -2682,7 +2694,7 @@
     "country_acronym": "us",
     "state": "MD",
     "city": "Baltimore",
-    "members": 1491,
+    "members": 1493,
     "lat": 39.29,
     "lon": -76.62,
     "timezone": "America/New_York"
