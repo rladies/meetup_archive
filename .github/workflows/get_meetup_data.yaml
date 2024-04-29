@@ -56,6 +56,7 @@ jobs:
         run:  Rscript scripts/get_events.R
         
       - name: Commit data	
+        if: github.event_name == 'schedule' || github.event_name == 'push'
         run: |	
           git config --local user.email "actions@github.com"	
           git config --local user.name "GitHub Actions"	
