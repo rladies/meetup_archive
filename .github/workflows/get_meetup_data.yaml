@@ -13,13 +13,18 @@ on:
 jobs:
   meetup:
     name: Update meetup data
-    runs-on: macOS-latest
+    runs-on: ubuntu-latest
     env: 
       MEETUPR_PWD: ${{ secrets.MEETUPR_PWD }}
       RENV_PATHS_ROOT: ~/.local/share/renv
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+        
+      - name: Install cURL Headers
+        run: |
+          sudo apt-get update
+          sudo apt-get install libcurl4-openssl-dev
         
       - name: Setup R
         uses: r-lib/actions/setup-r@v2
