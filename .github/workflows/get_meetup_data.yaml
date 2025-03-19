@@ -20,7 +20,6 @@ jobs:
     runs-on: ubuntu-latest
     env: 
       MEETUPR_PWD: ${{ secrets.MEETUPR_PWD }}
-      RENV_PATHS_ROOT: ~/.local/share/renv
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
