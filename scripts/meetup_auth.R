@@ -1,25 +1,34 @@
 cat("Session is non-interactive. Starting meetup authentication process.\n")
-library(cyphr)
-library(sodium)
-library(meetupr)
-library(here)
 
 temptoken <- tempfile(fileext = ".rds")
 encr_path <- "scripts/secret_encr.rds"
 
-key <- key_sodium(hex2bin(Sys.getenv("MEETUPR_PWD")))
+if (Sys.getenv("MEETUPR_PWD") == "") {
+  stop(
+    "'MEETUPR_PWD' is not set",
+    call. = FALSE
+  )
+}
 
-decrypt_file(
-  here(encr_path),
+key <- cyphr::key_sodium(
+  sodium::hex2bin(
+    Sys.getenv("MEETUPR_PWD")
+  )
+)
+
+cyphr::decrypt_file(
+  here::here(encr_path),
   key = key,
   dest = temptoken
 )
 
 token <- readRDS(temptoken)[[1]]
-token <- meetup_auth(
+token <- meetupr::meetup_auth(
   token = temptoken,
   cache = FALSE
-) 
+)
 
 cat("\t authenticating...\n\n")
-k <- meetup_auth(token = temptoken)
+k <- meetupr::meetup_auth(
+  token = temptoken
+)
