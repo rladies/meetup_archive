@@ -1,40 +1,48 @@
+# If not running interactively,
+# get token decrypted from env var
+if (!interactive()) {
+  source(here::here("scripts/meetup_auth.R"))
+}
+
 source(here::here("scripts/utils.R"))
-library(meetupr)
 library(tidyr)
 library(dplyr)
 library(lubridate)
 
 ## Get events ----
 fetch_events <- purrr::insistently(
-  ~meetupr::get_pro_events(
+  ~ meetupr::get_pro_events(
     "rladies",
     status = "UPCOMING",
     extra_graphql = 'image{baseUrl}'
-  ), 
+  ),
   purrr::rate_backoff(
     max_times = 20,
     pause_base = 5
   )
 )
 
-new_events <- fetch_events() |> 
+new_events <- fetch_events() |>
   rename(image_url = image_baseUrl)
 
 
 cancelled <- meetupr::get_pro_events(
   "rladies",
   status = "CANCELLED"
-  )
+)
 
 
 # Read in existing json data
 existing_events <- jsonlite::read_json(
   here::here("data/events.json"),
-  simplifyVector = TRUE) |>
+  simplifyVector = TRUE
+) |>
   filter(!id %in% new_events$id)
 
 # Read in chapters
-groups <- jsonlite::read_json(here::here("data/chapters.json"))
+groups <- jsonlite::read_json(
+  here::here("data/chapters.json")
+)
 
 
 # Create df for json
@@ -73,10 +81,13 @@ events <- new_events |>
   ) |>
   select(-ds) |>
   bind_rows(existing_events) |>
-  distinct() |> 
+  distinct() |>
   mutate(
-    type = if_else(id %in% cancelled$id,
-                     "cancelled", type)
+    type = if_else(
+      id %in% cancelled$id,
+      "cancelled",
+      type
+    )
   )
 
 cat("\t writing 'data/events.json'\n")
@@ -90,8 +101,14 @@ cat("Writing 'data/events_updated.json'\n")
 jsonlite::write_json(
   x = data.frame(
     date = Sys.time(),
-    n_events_past = filter(events, type  == "PAST") |> nrow()
+    n_events_past = filter(
+      events,
+      type == "PAST"
+    ) |>
+      nrow()
   ),
-  path = here::here("data/events_updated.json"),
+  path = here::here(
+    "data/events_updated.json"
+  ),
   pretty = TRUE
 )

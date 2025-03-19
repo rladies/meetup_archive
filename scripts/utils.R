@@ -1,15 +1,8 @@
-# If not running interactively,
-# get token decrypted from env var
-if (!interactive()) {
-  source(here::here("scripts/meetup_auth.R"))
-}
-
 # Define helper functions ----
 # change empty to NA
 change_empty <- function(x) {
   ifelse(x == "", NA, x)
 }
-
 
 # default value if given is NA
 `%||%` <- function(a, b) {
