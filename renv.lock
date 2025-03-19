@@ -4,7 +4,7 @@
     "Repositories": [
       {
         "Name": "RLADIES",
-        "URL": "https://rladies.r-universe.dev/"
+        "URL": "https://rladies.r-universe.dev"
       },
       {
         "Name": "CRAN",
@@ -426,10 +426,11 @@
     },
     "renv": {
       "Package": "renv",
-      "Version": "0.16.0",
-      "Source": "Repository",
+      "Version": "1.1.3",
+      "OS_type": NA,
+      "NeedsCompilation": "yes",
       "Repository": "CRAN",
-      "Hash": "c9e8442ab69bc21c9697ecf856c1e6c7",
+      "Source": "Repository",
       "Requirements": []
     },
     "rlang": {
