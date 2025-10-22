@@ -1,7 +1,6 @@
 source(here::here("scripts/utils.R"))
 
 library(dplyr)
-library(httpuv)
 
 rladies_groups <- meetupr::get_pro_groups("rladies") |>
   rename(country_acronym = country) |>

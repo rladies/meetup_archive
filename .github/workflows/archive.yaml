@@ -50,6 +50,8 @@ jobs:
         shell: Rscript {0}
         run: |
           if (!requireNamespace("renv", quietly = TRUE)) install.packages("renv")
+          renv::install("promises")
+          renv::install("httpuv")
           renv::restore()
 
       - name: Meetup authentication
