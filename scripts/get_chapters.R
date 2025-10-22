@@ -1,3 +1,9 @@
+# If not running interactively,
+# get token decrypted from env var
+if (!interactive()) {
+  meetupr::meetup_ci_load()
+}
+
 source(here::here("scripts/utils.R"))
 
 library(dplyr)
