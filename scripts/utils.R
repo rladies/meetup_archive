@@ -1,3 +1,5 @@
+library(httpuv)
+
 # Define helper functions ----
 # change empty to NA
 change_empty <- function(x) {
