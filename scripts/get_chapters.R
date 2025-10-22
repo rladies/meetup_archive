@@ -1,16 +1,9 @@
 source(here::here("scripts/utils.R"))
 
 library(dplyr)
+library(httpuv)
 
-fetch_groups <- purrr::insistently(
-  ~ meetupr::get_pro_groups("rladies"),
-  purrr::rate_backoff(
-    max_times = 20,
-    pause_base = 5
-  )
-)
-
-rladies_groups <- fetch_groups() |>
+rladies_groups <- meetupr::get_pro_groups("rladies") |>
   rename(country_acronym = country) |>
   distinct() |>
   transmute(
