@@ -1,8 +1,5 @@
 # If not running interactively,
 # get token decrypted from env var
-if (!interactive()) {
-  source(here::here("scripts/meetup_auth.R"))
-}
 
 source(here::here("scripts/utils.R"))
 library(tidyr)
@@ -10,26 +7,37 @@ library(dplyr)
 library(lubridate)
 
 ## Get events ----
-fetch_events <- purrr::insistently(
-  ~ meetupr::get_pro_events(
-    "rladies",
-    status = "UPCOMING",
-    extra_graphql = 'image{baseUrl}'
-  ),
-  purrr::rate_backoff(
-    max_times = 20,
-    pause_base = 5
+new_events <- meetupr::get_pro_events(
+  "rladies",
+  status = "upcoming",
+  handle_multiples = "first",
+) |>
+  transmute(
+    id,
+    title,
+    description,
+    status,
+    duration,
+    image_url = featured_event_photo_url,
+    link = event_url,
+    going = rsvps_yes_count,
+    time = date_time,
+    group_name,
+    group_urlname,
+    venue_name = venues_name,
+    venue_address = venues_address,
+    venue_city = venues_city,
+    venue_country = venues_country,
+    venue_lat = venues_lat,
+    venue_lon = venues_lon
   )
-)
-
-new_events <- fetch_events() |>
-  rename(image_url = image_baseUrl)
 
 
 cancelled <- meetupr::get_pro_events(
   "rladies",
-  status = "CANCELLED"
-)
+  status = "cancelled"
+) |>
+  pull(id)
 
 
 # Read in existing json data
@@ -45,7 +53,7 @@ groups <- jsonlite::read_json(
 )
 
 
-# Create df for json
+# Create df for json -----
 events <- new_events |>
   transmute(
     id,
@@ -58,10 +66,11 @@ events <- new_events |>
       description,
       link
     ),
-    start = as.character(force_tz(time, "UTC")),
+    start = as.character(lubridate::force_tz(time, "UTC")),
     ds = lubridate::as.duration(duration),
     end = as.character(time + (ds %||% lubridate::dhours(2))),
-    date = format(new_events$time, "%Y-%m-%d"),
+    date = format(time, "%Y-%m-%d"),
+    image_url,
     location = ifelse(
       is.na(venue_name),
       "Not announced",
@@ -84,7 +93,7 @@ events <- new_events |>
   distinct() |>
   mutate(
     type = if_else(
-      id %in% cancelled$id,
+      id %in% cancelled,
       "cancelled",
       type
     )

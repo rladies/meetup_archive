@@ -1,11 +1,5 @@
 source(here::here("scripts/utils.R"))
 
-# If not running interactively,
-# get token decrypted from env var
-if (!interactive()) {
-  source(here::here("scripts/meetup_auth.R"))
-}
-
 library(dplyr)
 
 fetch_groups <- purrr::insistently(
@@ -26,9 +20,9 @@ rladies_groups <- fetch_groups() |>
     country_acronym,
     state,
     city,
-    members,
-    lat = latitude,
-    lon = longitude,
+    members = memberships_count,
+    lat,
+    lon,
     timezone
   ) |>
   as_tibble()
