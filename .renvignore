@@ -1,8 +1,7 @@
-*
-
+# Archive profile - allow scripts/
 #| profile == "archive"
-!/scripts/
+reports/
 
+# Reports profile - allow reports/
 #| profile == "reports"
-!/reports/
-
+scripts/
