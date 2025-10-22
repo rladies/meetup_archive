@@ -1,4 +1,4 @@
-name: Get meetup data
+name: Archive meetup data
 
 on:
   pull_request:
@@ -16,12 +16,12 @@ concurrency:
 
 jobs:
   meetup:
-    name: Update meetup data
+    name: Archive meetup data
     runs-on: ubuntu-latest
     env:
       "meetupr:token": ${{ secrets.meetupr_token }}
       "meetupr:token_file": ${{ secrets.meetupr_token_file}}
-      RENV_PROFILE: "archive"
+      RENV_PROFILE: archive
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -29,15 +29,27 @@ jobs:
       - name: Install cURL Headers
         run: |
           sudo apt-get update
-          sudo apt-get install libcurl4-openssl-dev libsodium-dev
+          sudo apt-get install libcurl4-openssl-dev
 
-      - name: Setup R
+      - name: Set up R
         uses: r-lib/actions/setup-r@v2
         with:
           r-version: "renv"
+          use-public-rspm: true
 
-      - name: Setup renv
-        uses: r-lib/actions/setup-renv@v2
+      - name: Cache R packages
+        uses: actions/cache@v4
+        with:
+          path: ${{ env.RENV_PATHS_ROOT }}
+          key: ${{ runner.os }}-renv-${{ hashFiles('**/renv.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-renv-
+
+      - name: Restore renv packages
+        shell: Rscript {0}
+        run: |
+          if (!requireNamespace("renv", quietly = TRUE)) install.packages("renv")
+          renv::restore()
 
       - name: Meetup authentication
         run: Rscript -e "meetupr::meetup_ci_load()"

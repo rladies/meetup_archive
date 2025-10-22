@@ -5,6 +5,7 @@ library(lubridate)
 library(jsonlite)
 library(here)
 library(stringr)
+library(rmarkdown)
 
 # Load data
 events <- read_json(
