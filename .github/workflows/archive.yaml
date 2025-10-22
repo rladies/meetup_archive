@@ -21,6 +21,7 @@ jobs:
     env:
       "meetupr:token": ${{ secrets.meetupr_token }}
       "meetupr:token_file": ${{ secrets.meetupr_token_file}}
+      RENV_PATHS_ROOT: ~/.cache/R/renv
       RENV_PROFILE: archive
     steps:
       - name: Checkout repository
@@ -37,15 +38,15 @@ jobs:
           r-version: "renv"
           use-public-rspm: true
 
-      - name: Cache R packages
-        uses: actions/cache@v4
+      - name: Cache packages
+        uses: actions/cache@v1
         with:
           path: ${{ env.RENV_PATHS_ROOT }}
           key: ${{ runner.os }}-renv-${{ hashFiles('**/renv.lock') }}
           restore-keys: |
             ${{ runner.os }}-renv-
 
-      - name: Restore renv packages
+      - name: Restore packages
         shell: Rscript {0}
         run: |
           if (!requireNamespace("renv", quietly = TRUE)) install.packages("renv")
