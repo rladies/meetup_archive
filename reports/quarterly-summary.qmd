@@ -1,0 +1,423 @@
+---
+title: "R-Ladies Quarterly Summary"
+subtitle: "Period-over-Period Community Insights"
+date: "`r Sys.Date()`"
+author: "R-Ladies Global"
+slug: quarterly-summary
+categories:
+  - reports
+  - quarterly
+  
+tags:
+  - summary
+  - trends
+  - metrics
+draft: false
+---
+
+```{r}
+#| label: setup
+#| include: false
+source(here::here("reports/_common.R"))
+```
+
+## Executive Summary
+
+This quarterly report provides a snapshot of R-Ladies community activity, highlighting key metrics and trends compared to previous periods.
+
+```{r}
+#| label: quarterly-metrics
+# Define current and previous quarters
+current_quarter_end <- floor_date(Sys.Date(), "quarter") + months(3) - days(1)
+current_quarter_start <- floor_date(current_quarter_end, "quarter")
+
+previous_quarter_end <- current_quarter_start - days(1)
+previous_quarter_start <- floor_date(previous_quarter_end, "quarter")
+
+year_ago_quarter_end <- current_quarter_end - years(1)
+year_ago_quarter_start <- current_quarter_start - years(1)
+
+# Prepare events data
+events_analyzed <- events |>
+  filter(!type %in% c("cancelled", "CANCELLED")) |>
+  mutate(
+    event_date = as.Date(date),
+    is_virtual = str_detect(tolower(location %||% ""), "online|virtual|zoom|meet|not announced")
+  )
+
+# Current quarter
+current_events <- events_analyzed |>
+  filter(event_date >= current_quarter_start, event_date <= current_quarter_end)
+
+# Previous quarter
+previous_events <- events_analyzed |>
+  filter(event_date >= previous_quarter_start, event_date <= previous_quarter_end)
+
+# Year ago quarter
+year_ago_events <- events_analyzed |>
+  filter(event_date >= year_ago_quarter_start, event_date <= year_ago_quarter_end)
+
+# Calculate metrics
+current_total <- nrow(current_events)
+previous_total <- nrow(previous_events)
+year_ago_total <- nrow(year_ago_events)
+
+current_chapters <- n_distinct(current_events$group_urlname)
+previous_chapters <- n_distinct(previous_events$group_urlname)
+year_ago_chapters <- n_distinct(year_ago_events$group_urlname)
+
+# Growth rates
+qoq_growth <- round((current_total - previous_total) / previous_total * 100, 1)
+yoy_growth <- round((current_total - year_ago_total) / year_ago_total * 100, 1)
+
+chapter_qoq <- round((current_chapters - previous_chapters) / previous_chapters * 100, 1)
+chapter_yoy <- round((current_chapters - year_ago_chapters) / year_ago_chapters * 100, 1)
+
+# Format quarter labels
+current_q <- paste0(year(current_quarter_start), " Q", quarter(current_quarter_start))
+previous_q <- paste0(year(previous_quarter_start), " Q", quarter(previous_quarter_start))
+year_ago_q <- paste0(year(year_ago_quarter_start), " Q", quarter(year_ago_quarter_start))
+```
+
+### Quarter: `r current_q`
+
+**Period**: `r format(current_quarter_start, "%B %d")` - `r format(current_quarter_end, "%B %d, %Y")`
+
+- **Total Events**: `r format(current_total, big.mark = ",")`  
+  - Quarter-over-quarter: `r if_else(qoq_growth >= 0, paste0("+", qoq_growth), as.character(qoq_growth))`%  
+  - Year-over-year: `r if_else(yoy_growth >= 0, paste0("+", yoy_growth), as.character(yoy_growth))`%  
+- **Active Chapters**: `r current_chapters`  
+  - Quarter-over-quarter: `r if_else(chapter_qoq >= 0, paste0("+", chapter_qoq), as.character(chapter_qoq))`%  
+  - Year-over-year: `r if_else(chapter_yoy >= 0, paste0("+", chapter_yoy), as.character(chapter_yoy))`%  
+
+## Quarterly Comparison
+
+### Event Volume Trends
+
+```{r}
+#| label: quarterly-comparison
+#| fig-cap: "Event volume comparison across quarters"
+
+quarterly_data <- tibble(
+  quarter = c(year_ago_q, previous_q, current_q),
+  events = c(year_ago_total, previous_total, current_total),
+  quarter_date = c(year_ago_quarter_start, previous_quarter_start, current_quarter_start)
+) |>
+  mutate(quarter = factor(quarter, levels = c(year_ago_q, previous_q, current_q)))
+
+ggplot(quarterly_data, aes(x = quarter, y = events)) +
+  geom_col(fill = rladies_colors$purple) +
+  geom_text(
+    aes(label = format(events, big.mark = ",")),
+    vjust = -0.5,
+    size = 4
+  ) +
+  labs(
+    title = "Event Volume Comparison",
+    subtitle = "Last three quarters",
+    x = "Quarter",
+    y = "Number of Events"
+  ) +
+  scale_y_continuous(expand = expansion(mult = c(0, 0.15)))
+```
+
+### Active Chapter Trends
+
+```{r}
+#| label: chapter-comparison
+#| fig-cap: "Active chapter comparison across quarters"
+
+chapter_quarterly <- tibble(
+  quarter = c(year_ago_q, previous_q, current_q),
+  chapters = c(year_ago_chapters, previous_chapters, current_chapters)
+) |>
+  mutate(quarter = factor(quarter, levels = c(year_ago_q, previous_q, current_q)))
+
+ggplot(chapter_quarterly, aes(x = quarter, y = chapters)) +
+  geom_col(fill = rladies_colors$purple) +
+  geom_text(
+    aes(label = chapters),
+    vjust = -0.5,
+    size = 4
+  ) +
+  labs(
+    title = "Active Chapters Comparison",
+    subtitle = "Chapters hosting at least one event per quarter",
+    x = "Quarter",
+    y = "Number of Active Chapters"
+  ) +
+  scale_y_continuous(expand = expansion(mult = c(0, 0.15)))
+```
+
+## Current Quarter Highlights
+
+### Event Format Distribution
+
+```{r}
+#| label: format-distribution
+#| fig-cap: "Virtual vs in-person events this quarter"
+
+format_data <- current_events |>
+  mutate(format = if_else(is_virtual, "Virtual", "In-Person")) |>
+  count(format) |>
+  mutate(percentage = n / sum(n) * 100)
+
+ggplot(format_data, aes(x = "", y = n, fill = format)) +
+  geom_col(width = 1) +
+  coord_polar("y") +
+  scale_fill_manual(
+    values = c("Virtual" = rladies_colors$purple, "In-Person" = rladies_colors$light_purple)
+  ) +
+  geom_text(
+    aes(label = sprintf("%d\n(%.1f%%)", n, percentage)),
+    position = position_stack(vjust = 0.5),
+    size = 4
+  ) +
+  labs(
+    title = paste("Event Format Distribution:", current_q),
+    fill = "Format"
+  ) +
+  theme_void() +
+  theme(
+    plot.title = element_text(hjust = 0.5, face = "bold"),
+    legend.position = "bottom"
+  )
+```
+
+### Monthly Activity Within Quarter
+
+```{r}
+#| label: monthly-activity
+#| fig-cap: "Event activity by month within current quarter"
+
+monthly_current <- current_events |>
+  mutate(month = floor_date(event_date, "month")) |>
+  count(month)
+
+ggplot(monthly_current, aes(x = month, y = n)) +
+  geom_col(fill = rladies_colors$purple) +
+  geom_text(
+    aes(label = n),
+    vjust = -0.5,
+    size = 4
+  ) +
+  labs(
+    title = paste("Monthly Event Distribution:", current_q),
+    x = "Month",
+    y = "Number of Events"
+  ) +
+  scale_x_date(date_labels = "%B", date_breaks = "1 month") +
+  scale_y_continuous(expand = expansion(mult = c(0, 0.15)))
+```
+
+### Top Performing Chapters
+
+```{r}
+#| label: top-chapters
+#| fig-cap: "Most active chapters this quarter"
+
+top_current <- current_events |>
+  count(group_urlname, sort = TRUE) |>
+  slice_head(n = 15)
+
+ggplot(top_current, aes(x = n, y = reorder(group_urlname, n))) +
+  geom_col(fill = rladies_colors$purple) +
+  geom_text(
+    aes(label = n),
+    hjust = -0.2,
+    size = 3.5
+  ) +
+  labs(
+    title = paste("Top 15 Chapters:", current_q),
+    x = "Number of Events",
+    y = NULL
+  ) +
+  scale_x_continuous(expand = expansion(mult = c(0, 0.15)))
+```
+
+## Regional Performance
+
+```{r}
+#| label: regional-performance
+#| fig-cap: "Event distribution by region this quarter"
+
+regional_current <- current_events |>
+  mutate(
+    country_code = str_extract(location, "[A-Z]{2}$"),
+    region = case_when(
+      country_code %in% c("US", "CA", "MX") ~ "North America",
+      country_code %in% c("BR", "AR", "CL", "CO", "PE", "UY") ~ "Latin America",
+      country_code %in% c("GB", "FR", "DE", "ES", "IT", "NL", "BE", "CH", "AT") ~ "Europe",
+      country_code %in% c("AU", "NZ") ~ "Oceania",
+      country_code %in% c("CN", "JP", "KR", "IN", "SG") ~ "Asia",
+      country_code %in% c("ZA", "KE", "NG") ~ "Africa",
+      is_virtual ~ "Virtual (Global)",
+      TRUE ~ "Other"
+    )
+  ) |>
+  filter(region != "Other") |>
+  count(region, sort = TRUE) |>
+  mutate(percentage = n / sum(n) * 100)
+
+ggplot(regional_current, aes(x = n, y = reorder(region, n))) +
+  geom_col(fill = rladies_colors$purple) +
+  geom_text(
+    aes(label = sprintf("%d (%.1f%%)", n, percentage)),
+    hjust = -0.1,
+    size = 3.5
+  ) +
+  labs(
+    title = paste("Regional Distribution:", current_q),
+    x = "Number of Events",
+    y = NULL
+  ) +
+  scale_x_continuous(expand = expansion(mult = c(0, 0.2)))
+```
+
+## New and Returning Chapters
+
+```{r}
+#| label: chapter-status
+#| fig-cap: "Chapter activity status"
+
+# Identify new vs returning chapters
+new_chapters <- current_events |>
+  anti_join(
+    previous_events |> select(group_urlname),
+    by = "group_urlname"
+  ) |>
+  distinct(group_urlname)
+
+returning_chapters <- current_events |>
+  semi_join(
+    previous_events |> select(group_urlname),
+    by = "group_urlname"
+  ) |>
+  distinct(group_urlname)
+
+inactive_chapters <- previous_events |>
+  anti_join(
+    current_events |> select(group_urlname),
+    by = "group_urlname"
+  ) |>
+  distinct(group_urlname)
+
+chapter_status <- tibble(
+  status = c("New/Reactivated", "Continuing", "Now Inactive"),
+  count = c(nrow(new_chapters), nrow(returning_chapters), nrow(inactive_chapters))
+)
+
+ggplot(chapter_status, aes(x = status, y = count)) +
+  geom_col(fill = rladies_colors$purple) +
+  geom_text(
+    aes(label = count),
+    vjust = -0.5,
+    size = 4
+  ) +
+  labs(
+    title = "Chapter Activity Status",
+    subtitle = paste("Comparing", current_q, "to", previous_q),
+    x = NULL,
+    y = "Number of Chapters"
+  ) +
+  scale_y_continuous(expand = expansion(mult = c(0, 0.15)))
+```
+
+**New or reactivated chapters** (`r nrow(new_chapters)` total):
+`r if(nrow(new_chapters) > 0 && nrow(new_chapters) <= 20) paste("-", new_chapters$group_urlname, collapse = "\n") else if(nrow(new_chapters) > 20) paste("See full list in appendix (", nrow(new_chapters), "chapters)") else "None this quarter"`
+
+## Event Timing Patterns
+
+```{r}
+#| label: timing-patterns
+#| fig-cap: "Day of week distribution this quarter"
+
+dow_current <- current_events |>
+  mutate(
+    event_datetime = ymd_hms(start, quiet = TRUE),
+    dow = wday(event_date, label = TRUE, week_start = 1)
+  ) |>
+  filter(!is.na(dow)) |>
+  count(dow) |>
+  mutate(percentage = n / sum(n) * 100)
+
+ggplot(dow_current, aes(x = dow, y = n)) +
+  geom_col(fill = rladies_colors$purple) +
+  geom_text(
+    aes(label = sprintf("%d\n(%.1f%%)", n, percentage)),
+    vjust = -0.3,
+    size = 3.5
+  ) +
+  labs(
+    title = paste("Events by Day of Week:", current_q),
+    x = "Day of Week",
+    y = "Number of Events"
+  ) +
+  scale_y_continuous(expand = expansion(mult = c(0, 0.15)))
+```
+
+## Performance Indicators
+
+```{r}
+#| label: performance-table
+
+# Calculate key metrics for comparison
+metrics_comparison <- tibble(
+  Metric = c(
+    "Total Events",
+    "Active Chapters",
+    "Avg Events/Chapter",
+    "Virtual Events (%)",
+    "In-Person Events (%)"
+  ),
+  !!sym(current_q) := c(
+    current_total,
+    current_chapters,
+    round(current_total / current_chapters, 1),
+    round(sum(current_events$is_virtual, na.rm = TRUE) / current_total * 100, 1),
+    round(sum(!current_events$is_virtual, na.rm = TRUE) / current_total * 100, 1)
+  ),
+  !!sym(previous_q) := c(
+    previous_total,
+    previous_chapters,
+    round(previous_total / previous_chapters, 1),
+    round(sum(previous_events$is_virtual, na.rm = TRUE) / previous_total * 100, 1),
+    round(sum(!previous_events$is_virtual, na.rm = TRUE) / previous_total * 100, 1)
+  ),
+  !!sym(year_ago_q) := c(
+    year_ago_total,
+    year_ago_chapters,
+    round(year_ago_total / year_ago_chapters, 1),
+    round(sum(year_ago_events$is_virtual, na.rm = TRUE) / year_ago_total * 100, 1),
+    round(sum(!year_ago_events$is_virtual, na.rm = TRUE) / year_ago_total * 100, 1)
+  )
+)
+
+knitr::kable(
+  metrics_comparison,
+  caption = "Key metrics comparison across quarters"
+)
+```
+
+## Looking Ahead
+
+### Upcoming Quarter Preparation
+
+Based on current trends and historical patterns:
+
+- Expected events next quarter: **`r round(current_total * 1.05)`** (assuming 5% growth)  
+- Chapters needing support: **`r nrow(inactive_chapters)`** (became inactive this quarter)  
+- Growth opportunity: Focus on `r if(nrow(new_chapters) > 0) paste("sustaining momentum of", nrow(new_chapters), "new/reactivated chapters") else "reactivating dormant chapters"`  
+
+### Recommendations
+
+1. **Chapter support**: Reach out to `r nrow(inactive_chapters)` chapters that went inactive  
+2. **New chapter onboarding**: Provide resources to `r nrow(new_chapters)` new/reactivated chapters  
+3. **Best practices**: Share success strategies from top performing chapters  
+4. **Regional focus**: `r regional_current |> slice_min(n, n = 1) |> pull(region)` shows lowest activity - consider targeted support  
+
+---
+
+*Report period: `r format(current_quarter_start, "%B %d")` - `r format(current_quarter_end, "%B %d, %Y")`*  
+*Report generated: `r format(Sys.time(), "%Y-%m-%d %H:%M %Z")`*  
+*Data source: R-Ladies Meetup Archive*

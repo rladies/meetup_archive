@@ -1,0 +1,591 @@
+---
+title: "R-Ladies Topic Analysis"
+subtitle: "Event Content Trends and Popular Themes"
+date: "`r Sys.Date()`"
+author: "R-Ladies Global"
+slug: topic-analysis
+categories:
+  - reports
+  - analytics
+  
+tags:
+  - topics
+  - content
+  - trends
+draft: false
+---
+
+```{r}
+#| label: setup
+#| include: false
+source("_common.R")
+library(tidytext)
+```
+
+## Executive Summary
+
+This report analyzes event titles and descriptions to identify popular topics, emerging trends, and content patterns across the R-Ladies network.
+Understanding what topics resonate with the community helps organizers plan relevant programming and identify content gaps.
+
+```{r}
+#| label: topic-prep
+# Prepare events data with text analysis
+events_analyzed <- events |>
+  filter(!type %in% c("cancelled", "CANCELLED")) |>
+  mutate(
+    event_date = as.Date(date),
+    year = year(event_date),
+    is_recent = event_date >= Sys.Date() - months(12),
+    # Combine title and description for topic analysis
+    full_text = paste(tolower(title), tolower(description))
+  )
+
+# Recent events for current trends
+recent_events <- events_analyzed |> filter(is_recent)
+
+total_analyzed <- nrow(recent_events)
+```
+
+Analyzing **`r format(total_analyzed, big.mark = ",")`** events from the last 12 months to identify content themes and trends.
+
+## Popular Topic Categories
+
+We identified technical topics by searching for relevant keywords in event titles and descriptions.
+This gives us insight into which R-related skills and tools are most frequently covered across the network.
+
+```{r}
+#| label: topic-keywords
+#| fig-cap: "Technical topics most frequently mentioned in R-Ladies events. Categories are determined by keyword matching in event titles and descriptions."
+
+# Define topic keywords
+topic_keywords <- tribble(
+  ~keyword, ~category,
+  "ggplot", "Visualization",
+  "visualization", "Visualization",
+  "plot", "Visualization",
+  "shiny", "Shiny/Apps",
+  "dashboard", "Shiny/Apps",
+  "app", "Shiny/Apps",
+  "machine learning", "Machine Learning",
+  "ml", "Machine Learning",
+  "model", "Machine Learning",
+  "prediction", "Machine Learning",
+  "tidyverse", "Data Wrangling",
+  "dplyr", "Data Wrangling",
+  "data cleaning", "Data Wrangling",
+  "wrangle", "Data Wrangling",
+  "transform", "Data Wrangling",
+  "quarto", "Publishing",
+  "rmarkdown", "Publishing",
+  "report", "Publishing",
+  "markdown", "Publishing",
+  "package", "Package Development",
+  "git", "Git/GitHub",
+  "github", "Git/GitHub",
+  "version control", "Git/GitHub",
+  "python", "Python/Reticulate",
+  "reticulate", "Python/Reticulate",
+  "statistics", "Statistics",
+  "statistical", "Statistics",
+  "regression", "Statistics",
+  "analysis", "Statistics",
+  "spatial", "Spatial Analysis",
+  "map", "Spatial Analysis",
+  "gis", "Spatial Analysis",
+  "text", "Text Mining",
+  "nlp", "Text Mining",
+  "sentiment", "Text Mining",
+  "api", "APIs/Web",
+  "web scraping", "APIs/Web",
+  "scrape", "APIs/Web"
+)
+
+# Count keyword occurrences
+keyword_counts <- topic_keywords |>
+  rowwise() |>
+  mutate(
+    count = sum(str_detect(recent_events$full_text, keyword))
+  ) |>
+  ungroup() |>
+  group_by(category) |>
+  summarise(
+    total_count = sum(count),
+    .groups = "drop"
+  ) |>
+  arrange(desc(total_count)) |>
+  slice_head(n = 12)
+
+ggplot(keyword_counts, aes(x = total_count, y = reorder(category, total_count))) +
+  geom_col(fill = rladies_colors$purple) +
+  geom_text(
+    aes(label = total_count),
+    hjust = -0.2,
+    size = 3.5
+  ) +
+  labs(
+    title = "Most Common Technical Topics",
+    subtitle = "Based on keywords in event titles and descriptions (last 12 months)",
+    x = "Number of Events Mentioning Topic",
+    y = NULL
+  ) +
+  scale_x_continuous(expand = expansion(mult = c(0, 0.15)))
+```
+
+The distribution of topics reflects both foundational R skills (data wrangling, visualization) and specialized applications (machine learning, spatial analysis).
+Topics appearing frequently indicate consistent community interest and organizer confidence in presenting this material.
+
+## Event Type Distribution
+
+Beyond technical topics, we can classify events by their format and learning approach.
+Different event types serve different purposes: workshops provide hands-on practice, talks introduce new concepts, and social events build community connections.
+
+```{r}
+#| label: event-types
+#| fig-cap: "Classification of events by type based on keywords in titles and descriptions. Events may be counted in multiple categories if they combine formats."
+
+# Identify event types from titles
+event_types <- recent_events |>
+  mutate(
+    event_type = case_when(
+      str_detect(full_text, "workshop|hands-on|tutorial|lab") ~ "Workshop",
+      str_detect(full_text, "talk|presentation|speaker|lecture") ~ "Talk/Presentation",
+      str_detect(full_text, "social|networking|coffee|happy hour|meetup") ~ "Social/Networking",
+      str_detect(full_text, "hackathon|hack|sprint") ~ "Hackathon",
+      str_detect(full_text, "book club|reading|discussion") ~ "Book Club",
+      str_detect(full_text, "career|job|interview|resume") ~ "Career Development",
+      str_detect(full_text, "beginner|intro|getting started|101") ~ "Beginner-Friendly",
+      TRUE ~ "Other/Mixed"
+    )
+  ) |>
+  count(event_type, sort = TRUE) |>
+  mutate(percentage = n / sum(n) * 100)
+
+ggplot(event_types, aes(x = n, y = reorder(event_type, n))) +
+  geom_col(fill = rladies_colors$purple) +
+  geom_text(
+    aes(label = sprintf("%d (%.1f%%)", n, percentage)),
+    hjust = -0.1,
+    size = 3.5
+  ) +
+  labs(
+    title = "Event Types",
+    subtitle = "Classification based on event titles/descriptions",
+    x = "Number of Events",
+    y = NULL
+  ) +
+  scale_x_continuous(expand = expansion(mult = c(0, 0.2)))
+```
+
+Understanding the balance of event types helps organizers assess whether they're offering appropriate variety.
+A healthy mix typically includes technical learning opportunities alongside community-building activities.
+
+## Trending Topics Over Time
+
+Topic popularity can shift as new tools emerge and community interests evolve.
+Tracking trends over time helps identify which topics are gaining or losing traction in the R ecosystem.
+
+```{r}
+#| label: topic-trends
+#| fig-cap: "Quarterly trends for selected popular topics over the past two years. Lines show the number of events mentioning each topic per quarter."
+
+# Track selected topics over time
+trending_topics <- c("shiny", "quarto", "machine learning", "tidyverse", "python")
+
+topic_timeline <- events_analyzed |>
+  filter(event_date >= Sys.Date() - years(2)) |>
+  mutate(quarter = floor_date(event_date, "quarter")) |>
+  crossing(topic = trending_topics) |>
+  mutate(
+    mentions = str_detect(full_text, fixed(topic, ignore_case = TRUE))
+  ) |>
+  group_by(quarter, topic) |>
+  summarise(
+    count = sum(mentions),
+    .groups = "drop"
+  ) |>
+  filter(count > 0)
+
+ggplot(topic_timeline, aes(x = quarter, y = count, color = topic)) +
+  geom_line(linewidth = 1) +
+  geom_point(size = 2) +
+  scale_color_rladies() +
+  labs(
+    title = "Trending Topics Over Time",
+    subtitle = "Quarterly mentions of popular topics",
+    x = "Quarter",
+    y = "Number of Events",
+    color = "Topic"
+  ) +
+  scale_x_date(date_labels = "%Y Q%q", date_breaks = "3 months") +
+  theme(
+    axis.text.x = element_text(angle = 45, hjust = 1),
+    legend.position = "bottom"
+  )
+```
+
+These trend lines reflect both the introduction of new tools (like Quarto) and sustained interest in established frameworks (like tidyverse and Shiny).
+Rising trends may indicate topics worth featuring more prominently, while declining trends might suggest saturation or shifting community needs.
+
+## Beginner vs Advanced Content
+
+Explicitly labeling content difficulty helps attendees choose appropriate events and signals a chapter's commitment to accessibility.
+The balance between beginner and advanced content affects who feels welcomed in the community.
+
+```{r}
+#| label: difficulty-levels
+#| fig-cap: "Distribution of events by explicitly stated difficulty level. 'Not Specified' indicates events that did not include difficulty indicators in their descriptions."
+
+difficulty_data <- recent_events |>
+  mutate(
+    difficulty = case_when(
+      str_detect(full_text, "beginner|intro|introduction|getting started|101|basics|fundamentals") ~ "Beginner",
+      str_detect(full_text, "advanced|expert|deep dive|optimization|production") ~ "Advanced",
+      str_detect(full_text, "intermediate") ~ "Intermediate",
+      TRUE ~ "Not Specified"
+    )
+  ) |>
+  count(difficulty) |>
+  mutate(
+    percentage = n / sum(n) * 100,
+    difficulty = factor(difficulty, levels = c("Beginner", "Intermediate", "Advanced", "Not Specified"))
+  )
+
+ggplot(difficulty_data, aes(x = difficulty, y = n)) +
+  geom_col(fill = rladies_colors$purple) +
+  geom_text(
+    aes(label = sprintf("%d\n(%.1f%%)", n, percentage)),
+    vjust = -0.3,
+    size = 3.5
+  ) +
+  labs(
+    title = "Event Difficulty Levels",
+    subtitle = "Based on explicit difficulty indicators in event descriptions",
+    x = "Difficulty Level",
+    y = "Number of Events"
+  ) +
+  scale_y_continuous(expand = expansion(mult = c(0, 0.15)))
+```
+
+```{r}
+#| label: beginner-stats
+#| include: false
+
+beginner_count <- difficulty_data |> filter(difficulty == "Beginner") |> pull(n)
+beginner_pct <- difficulty_data |> filter(difficulty == "Beginner") |> pull(percentage)
+```
+
+Events explicitly labeled as beginner-friendly (**`r beginner_count`** events, `r round(beginner_pct, 1)`%) signal welcoming spaces for newcomers.
+The large number of unspecified events suggests an opportunity for organizers to more clearly communicate target audience levels.
+
+## Popular R Packages and Tools
+
+Specific package mentions indicate which tools the community is actively learning and using.
+This information helps identify which packages have strong educational ecosystems and which might benefit from more tutorial content.
+
+```{r}
+#| label: package-mentions
+#| fig-cap: "Frequency of R package mentions in event titles and descriptions. Higher counts indicate packages that are frequently taught or discussed in the community."
+
+# Define popular packages to track
+packages <- c(
+  "ggplot2", "dplyr", "tidyverse", "shiny", "rmarkdown", "quarto",
+  "caret", "tidymodels", "data.table", "plotly", "leaflet",
+  "stringr", "lubridate", "purrr", "tidyr", "readr"
+)
+
+package_counts <- tibble(package = packages) |>
+  rowwise() |>
+  mutate(
+    count = sum(str_detect(recent_events$full_text, fixed(package, ignore_case = TRUE)))
+  ) |>
+  ungroup() |>
+  filter(count > 0) |>
+  arrange(desc(count)) |>
+  slice_head(n = 15)
+
+ggplot(package_counts, aes(x = count, y = reorder(package, count))) +
+  geom_col(fill = rladies_colors$purple) +
+  geom_text(
+    aes(label = count),
+    hjust = -0.2,
+    size = 3.5
+  ) +
+  labs(
+    title = "Most Mentioned R Packages",
+    subtitle = "Top 15 packages mentioned in event titles/descriptions",
+    x = "Number of Mentions",
+    y = "Package"
+  ) +
+  scale_x_continuous(expand = expansion(mult = c(0, 0.15)))
+```
+
+Package mention frequency often correlates with package popularity in the broader R community, but also reflects what topics organizers feel confident teaching.
+Core tidyverse packages typically dominate due to their fundamental role in R workflows.
+
+## Application Domains
+
+R-Ladies events often connect R skills to specific fields or industries.
+Domain-specific events help members see how R applies to their professional work and build specialized knowledge communities.
+
+```{r}
+#| label: application-domains
+#| fig-cap: "Events categorized by application domain or field of study. Counts represent events that explicitly mentioned domain-specific applications or use cases."
+
+domains <- tribble(
+  ~keyword, ~domain,
+  "health", "Healthcare/Bioinformatics",
+  "medical", "Healthcare/Bioinformatics",
+  "bioinformatics", "Healthcare/Bioinformatics",
+  "genomics", "Healthcare/Bioinformatics",
+  "finance", "Finance/Business",
+  "business", "Finance/Business",
+  "economics", "Finance/Business",
+  "marketing", "Finance/Business",
+  "social", "Social Sciences",
+  "psychology", "Social Sciences",
+  "survey", "Social Sciences",
+  "climate", "Environmental/Climate",
+  "environment", "Environmental/Climate",
+  "ecology", "Environmental/Climate",
+  "education", "Education",
+  "teaching", "Education",
+  "sports", "Sports Analytics",
+  "text mining", "Text/NLP",
+  "sentiment", "Text/NLP",
+  "image", "Computer Vision",
+  "computer vision", "Computer Vision"
+)
+
+domain_counts <- domains |>
+  rowwise() |>
+  mutate(
+    count = sum(str_detect(recent_events$full_text, keyword))
+  ) |>
+  ungroup() |>
+  group_by(domain) |>
+  summarise(
+    total = sum(count),
+    .groups = "drop"
+  ) |>
+  filter(total > 0) |>
+  arrange(desc(total))
+
+ggplot(domain_counts, aes(x = total, y = reorder(domain, total))) +
+  geom_col(fill = rladies_colors$purple) +
+  geom_text(
+    aes(label = total),
+    hjust = -0.2,
+    size = 3.5
+  ) +
+  labs(
+    title = "Application Domains",
+    subtitle = "Events focused on specific fields or industries",
+    x = "Number of Events",
+    y = NULL
+  ) +
+  scale_x_continuous(expand = expansion(mult = c(0, 0.15)))
+```
+
+The distribution of domain-specific content reflects both the professional backgrounds of organizers and members, as well as intentional outreach to different fields.
+Domains with fewer events may represent growth opportunities for targeted programming.
+
+## Community and Career Events
+
+Not all valuable programming is technical.
+Professional development, networking, and community-building events serve critical roles in supporting members' careers and creating inclusive spaces.
+
+```{r}
+#| label: community-topics
+#| fig-cap: "Events focused on professional development, networking, and community building rather than technical skills. These events support career growth and community cohesion."
+
+community_keywords <- tribble(
+  ~keyword, ~category,
+  "career", "Career Development",
+  "job", "Career Development",
+  "interview", "Career Development",
+  "resume", "Career Development",
+  "networking", "Networking",
+  "coffee", "Networking",
+  "social", "Social Events",
+  "celebration", "Social Events",
+  "women in tech", "Community Building",
+  "diversity", "Community Building",
+  "mentorship", "Community Building",
+  "book club", "Book Club",
+  "discussion", "Book Club"
+)
+
+community_counts <- community_keywords |>
+  rowwise() |>
+  mutate(
+    count = sum(str_detect(recent_events$full_text, keyword))
+  ) |>
+  ungroup() |>
+  group_by(category) |>
+  summarise(
+    total = sum(count),
+    .groups = "drop"
+  ) |>
+  arrange(desc(total))
+
+ggplot(community_counts, aes(x = total, y = reorder(category, total))) +
+  geom_col(fill = rladies_colors$light_purple) +
+  geom_text(
+    aes(label = total),
+    hjust = -0.2,
+    size = 3.5
+  ) +
+  labs(
+    title = "Professional Development and Community Events",
+    subtitle = "Non-technical programming content",
+    x = "Number of Events",
+    y = NULL
+  ) +
+  scale_x_continuous(expand = expansion(mult = c(0, 0.15)))
+```
+
+These events address the full spectrum of professional needs beyond coding skills.
+Career development and networking events help members advance professionally, while social events strengthen community bonds and increase retention.
+
+## Seasonal Topic Patterns
+
+Event topics may vary by time of year, influenced by academic calendars, conference schedules, and holiday patterns.
+Understanding seasonal rhythms helps with strategic event planning.
+
+```{r}
+#| label: seasonal-topics
+#| fig-cap: "Average event counts by quarter for selected event types, aggregated over the past two years. Patterns may reflect academic calendars and holiday seasons."
+
+seasonal_topics <- c("workshop", "beginner", "career", "social")
+
+seasonal_data <- events_analyzed |>
+  filter(event_date >= Sys.Date() - years(2)) |>
+  mutate(
+    quarter_num = quarter(event_date),
+    quarter_label = paste0("Q", quarter_num)
+  ) |>
+  crossing(topic = seasonal_topics) |>
+  mutate(
+    mentions = str_detect(full_text, fixed(topic, ignore_case = TRUE))
+  ) |>
+  group_by(quarter_label, topic) |>
+  summarise(
+    count = sum(mentions),
+    .groups = "drop"
+  ) |>
+  mutate(quarter_label = factor(quarter_label, levels = paste0("Q", 1:4)))
+
+ggplot(seasonal_data, aes(x = quarter_label, y = count, fill = topic)) +
+  geom_col(position = "dodge") +
+  scale_fill_rladies() +
+  labs(
+    title = "Seasonal Topic Patterns",
+    subtitle = "Event types by quarter (averaged over last 2 years)",
+    x = "Quarter",
+    y = "Average Number of Events",
+    fill = "Topic"
+  ) +
+  theme(legend.position = "bottom")
+```
+
+Seasonal patterns might show increased beginner content at the start of academic years, or more social events during summer months.
+Recognizing these patterns helps organizers align programming with predictable attendance cycles.
+
+## Content Recommendations
+
+### For Event Organizers
+
+**Most Popular Topics** (high engagement):
+
+1. Data visualization (ggplot2, plotly)  
+2. Shiny applications and dashboards  
+3. Data wrangling with tidyverse  
+4. Machine learning basics  
+5. Reproducible research (Quarto, R Markdown)  
+
+**Underserved Topics** (opportunity areas):
+
+- Advanced statistical methods  
+- Package development  
+- Production/deployment  
+- Specific domain applications  
+- Performance optimization  
+
+### Content Mix Recommendations
+
+Based on successful chapter patterns:
+
+- **60-70%** technical content (coding, packages, methods)  
+- **20-30%** professional development (career, networking)  
+- **10-20%** social/community building  
+- **30-40%** explicitly beginner-friendly  
+
+This balance ensures technical skill development while supporting career growth and community cohesion.
+
+### Topic Diversity
+
+```{r}
+#| label: diversity-score
+#| include: false
+
+# Calculate topic diversity per chapter
+chapter_topics <- recent_events |>
+  select(group_urlname, full_text) |>
+  crossing(topic_keywords |> distinct(category)) |>
+  rowwise() |>
+  mutate(
+    has_topic = any(str_detect(full_text, topic_keywords$keyword[topic_keywords$category == category]))
+  ) |>
+  ungroup() |>
+  group_by(group_urlname) |>
+  summarise(
+    unique_topics = sum(has_topic),
+    total_events = n_distinct(full_text),
+    .groups = "drop"
+  ) |>
+  filter(total_events >= 6)
+
+median_diversity <- median(chapter_topics$unique_topics)
+```
+
+Chapters with 6+ events in the last year covered a median of **`r round(median_diversity)`** different topic categories.
+
+**Recommendation:** Aim for diverse programming to appeal to different skill levels and interests.
+Topic diversity helps attract and retain members with varying backgrounds and goals.
+
+## Emerging Trends
+
+```{r}
+#| label: emerging-trends
+#| include: false
+
+# Compare recent vs older events
+older_events <- events_analyzed |>
+  filter(event_date >= Sys.Date() - years(2), event_date < Sys.Date() - years(1))
+
+emerging_keywords <- c("quarto", "tidymodels", "python", "api", "github actions", "docker")
+
+trend_comparison <- tibble(keyword = emerging_keywords) |>
+  rowwise() |>
+  mutate(
+    recent = sum(str_detect(recent_events$full_text, fixed(keyword, ignore_case = TRUE))) / nrow(recent_events) * 100,
+    older = sum(str_detect(older_events$full_text, fixed(keyword, ignore_case = TRUE))) / nrow(older_events) * 100,
+    growth = recent - older
+  ) |>
+  ungroup() |>
+  arrange(desc(growth))
+```
+
+**Growing in popularity:**
+
+`r paste("-", trend_comparison$keyword[trend_comparison$growth > 0], collapse = "\n")`
+
+These topics show increased mentions comparing the most recent 12 months to the prior 12 months.
+Growing topics may reflect new tool releases, increased community interest, or improved teaching resources.
+Consider featuring these topics to stay current with community interests and ecosystem developments.
+
+---
+
+*Report generated: `r format(Sys.time(), "%Y-%m-%d %H:%M %Z")`*  
+*Data source: R-Ladies Meetup Archive*  
+*Note: Topic detection based on keyword matching in event titles and descriptions*

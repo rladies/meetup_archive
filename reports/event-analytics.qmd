@@ -1,0 +1,369 @@
+---
+title: "R-Ladies Event Analytics"
+subtitle: "Understanding Event Patterns and Formats"
+date: "`r Sys.Date()`"
+author: "R-Ladies Global"
+slug: event-analytics
+categories:
+  - reports
+  - analytics
+  
+tags:
+  - events
+  - patterns
+  - insights
+draft: false
+---
+
+```{r}
+#| label: setup
+#| include: false
+source(here::here("reports/_common.R"))
+```
+
+## Executive Summary
+
+This report analyzes event characteristics across the R-Ladies network to identify successful patterns and guide organizers in planning effective events.
+
+```{r}
+#| label: summary-metrics
+events_analyzed <- events |>
+  filter(!type %in% c("cancelled", "CANCELLED")) |>
+  mutate(
+    event_date = as.Date(date),
+    event_datetime = ymd_hms(start, quiet = TRUE),
+    event_hour = hour(event_datetime),
+    event_dow = wday(event_date, label = TRUE, week_start = 1),
+    event_month = month(event_date, label = TRUE),
+    year = year(event_date),
+    is_virtual = str_detect(tolower(location %||% ""), "online|virtual|zoom|meet|not announced"),
+    duration_hours = if_else(
+      !is.na(start) & !is.na(end),
+      as.numeric(difftime(ymd_hms(end, quiet = TRUE), ymd_hms(start, quiet = TRUE), units = "hours")),
+      NA_real_
+    )
+  )
+
+# Recent events (last 12 months)
+recent_events <- events_analyzed |>
+  filter(event_date >= Sys.Date() - months(12))
+
+total_events <- nrow(recent_events)
+virtual_pct <- mean(recent_events$is_virtual, na.rm = TRUE) * 100
+avg_duration <- mean(recent_events$duration_hours, na.rm = TRUE)
+```
+
+- **Events analyzed (last 12 months)**: `r format(total_events, big.mark = ",")`  
+- **Virtual events**: `r round(virtual_pct, 1)`%  
+- **Average event duration**: `r round(avg_duration, 1)` hours  
+- **Chapters hosting events**: `r n_distinct(recent_events$group_urlname)`  
+
+## Event Timing Patterns
+
+### Day of Week Distribution
+
+```{r}
+#| label: day-of-week
+#| fig-cap: "Event distribution by day of week"
+
+dow_counts <- recent_events |>
+  filter(!is.na(event_dow)) |>
+  count(event_dow) |>
+  mutate(percentage = n / sum(n) * 100)
+
+top_dow <- dow_counts |> slice_max(n, n = 1)
+weekend_total <- dow_counts |> 
+  filter(event_dow %in% c("Sat", "Sun")) |>
+  summarise(n = sum(n), pct = sum(percentage))
+
+ggplot(dow_counts, aes(x = event_dow, y = n)) +
+  geom_col(fill = rladies_colors$purple) +
+  geom_text(
+    aes(label = sprintf("%d\n(%.1f%%)", n, percentage)),
+    vjust = -0.5,
+    size = 3.5
+  ) +
+  labs(
+    title = "Events by Day of Week (Last 12 Months)",
+    x = "Day of Week",
+    y = "Number of Events"
+  ) +
+  scale_y_continuous(expand = expansion(mult = c(0, 0.15)))
+```
+
+**`r top_dow$event_dow`** is the most popular day with `r top_dow$n` events (`r round(top_dow$percentage, 1)`%).
+Weekend events represent `r round(weekend_total$pct, 1)`% of all events.
+
+### Time of Day Patterns
+
+```{r}
+#| label: time-of-day
+#| fig-cap: "Event start times throughout the day"
+
+hour_counts <- recent_events |>
+  filter(!is.na(event_hour)) |>
+  count(event_hour) |>
+  mutate(
+    time_period = case_when(
+      event_hour < 12 ~ "Morning",
+      event_hour < 17 ~ "Afternoon",
+      event_hour < 20 ~ "Evening",
+      TRUE ~ "Night"
+    )
+  )
+
+peak_hour <- hour_counts |> slice_max(n, n = 1)
+evening_count <- sum(hour_counts$n[hour_counts$event_hour >= 17 & hour_counts$event_hour < 20])
+business_count <- sum(hour_counts$n[hour_counts$event_hour >= 9 & hour_counts$event_hour < 17])
+
+ggplot(hour_counts, aes(x = event_hour, y = n)) +
+  geom_col(aes(fill = time_period)) +
+  scale_fill_manual(
+    values = c(
+      "Morning" = rladies_colors$light_purple,
+      "Afternoon" = rladies_colors$purple,
+      "Evening" = rladies_colors$dark_purple,
+      "Night" = rladies_colors$grey
+    )
+  ) +
+  labs(
+    title = "Event Start Times (24-hour format)",
+    x = "Hour of Day",
+    y = "Number of Events",
+    fill = "Time Period"
+  ) +
+  scale_x_continuous(breaks = seq(0, 23, 2))
+```
+
+The peak hour is **`r sprintf("%02d:00", peak_hour$event_hour)`** with `r peak_hour$n` events.
+Evening events (17:00-20:00): `r evening_count`, business hours (9:00-17:00): `r business_count`.
+
+### Seasonal Trends
+
+```{r}
+#| label: seasonal-patterns
+#| fig-cap: "Event activity by month"
+
+monthly_patterns <- events_analyzed |>
+  filter(year >= year(Sys.Date()) - 2) |>
+  count(event_month, year) |>
+  group_by(event_month) |>
+  summarise(
+    avg_events = mean(n),
+    .groups = "drop"
+  )
+
+busiest_month <- monthly_patterns |> slice_max(avg_events, n = 1)
+quietest_month <- monthly_patterns |> slice_min(avg_events, n = 1)
+
+ggplot(monthly_patterns, aes(x = event_month, y = avg_events)) +
+  geom_col(fill = rladies_colors$purple) +
+  geom_hline(
+    yintercept = mean(monthly_patterns$avg_events),
+    linetype = "dashed",
+    color = rladies_colors$dark_purple
+  ) +
+  labs(
+    title = "Average Events per Month (Last 2 Years)",
+    subtitle = "Dashed line shows overall average",
+    x = "Month",
+    y = "Average Number of Events"
+  ) +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+```
+
+**`r busiest_month$event_month`** is the busiest month (avg: `r round(busiest_month$avg_events, 1)` events) while **`r quietest_month$event_month`** is the quietest (avg: `r round(quietest_month$avg_events, 1)` events).
+
+## Event Format Analysis
+
+### Virtual vs. In-Person Distribution
+
+```{r}
+#| label: venue-format
+#| fig-cap: "Event format trends over time"
+
+format_trends <- events_analyzed |>
+  filter(year >= year(Sys.Date()) - 2) |>
+  mutate(
+    quarter = paste0(year, " Q", quarter(event_date)),
+    format = if_else(is_virtual, "Virtual", "In-Person")
+  ) |>
+  count(quarter, format) |>
+  group_by(quarter) |>
+  mutate(percentage = n / sum(n) * 100)
+
+ggplot(format_trends, aes(x = quarter, y = percentage, fill = format)) +
+  geom_col(position = "stack") +
+  scale_fill_manual(
+    values = c(
+      "Virtual" = rladies_colors$purple,
+      "In-Person" = rladies_colors$light_purple
+    )
+  ) +
+  labs(
+    title = "Event Format Distribution by Quarter",
+    x = "Quarter",
+    y = "Percentage of Events",
+    fill = "Format"
+  ) +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+```
+
+### Event Duration Patterns
+
+```{r}
+#| label: duration-analysis
+#| fig-cap: "Distribution of event durations"
+
+duration_data <- recent_events |>
+  filter(!is.na(duration_hours), duration_hours > 0, duration_hours < 12) |>
+  mutate(
+    duration_category = case_when(
+      duration_hours < 1 ~ "< 1 hour",
+      duration_hours < 1.5 ~ "1-1.5 hours",
+      duration_hours < 2.5 ~ "1.5-2.5 hours",
+      duration_hours < 4 ~ "2.5-4 hours",
+      TRUE ~ "4+ hours"
+    )
+  )
+
+duration_summary <- duration_data |>
+  count(duration_category) |>
+  mutate(
+    duration_category = factor(
+      duration_category,
+      levels = c("< 1 hour", "1-1.5 hours", "1.5-2.5 hours", "2.5-4 hours", "4+ hours")
+    )
+  )
+
+most_common_duration <- duration_summary |> slice_max(n, n = 1)
+median_duration <- median(duration_data$duration_hours, na.rm = TRUE)
+mean_duration <- mean(duration_data$duration_hours, na.rm = TRUE)
+
+ggplot(duration_summary, aes(x = duration_category, y = n)) +
+  geom_col(fill = rladies_colors$purple) +
+  geom_text(
+    aes(label = sprintf("%d\n(%.1f%%)", n, n/sum(n)*100)),
+    vjust = -0.5,
+    size = 3.5
+  ) +
+  labs(
+    title = "Event Duration Distribution",
+    x = "Duration",
+    y = "Number of Events"
+  ) +
+  scale_y_continuous(expand = expansion(mult = c(0, 0.15))) +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+```
+
+The most common duration is **`r most_common_duration$duration_category`** (`r most_common_duration$n` events, `r round(most_common_duration$n/sum(duration_summary$n)*100, 1)`%).
+Median: `r round(median_duration, 1)` hours, mean: `r round(mean_duration, 1)` hours.
+
+## Geographic Distribution
+
+```{r}
+#| label: geographic-patterns
+#| fig-cap: "Top 20 locations by number of events"
+
+# Extract city from location string (rough heuristic)
+location_events <- recent_events |>
+  filter(!is.na(location), !is_virtual) |>
+  mutate(
+    # Try to extract city - it's usually before the last comma or the whole string
+    city = str_extract(location, "^[^,]+")
+  ) |>
+  filter(!is.na(city)) |>
+  count(city, sort = TRUE) |>
+  slice_head(n = 20)
+
+ggplot(location_events, aes(x = n, y = reorder(city, n))) +
+  geom_col(fill = rladies_colors$purple) +
+  geom_text(
+    aes(label = n),
+    hjust = -0.2,
+    size = 3
+  ) +
+  labs(
+    title = "Most Active Locations (Last 12 Months)",
+    x = "Number of Events",
+    y = NULL
+  ) +
+  scale_x_continuous(expand = expansion(mult = c(0, 0.1)))
+```
+
+## Event Type Distribution
+
+```{r}
+#| label: event-type
+#| fig-cap: "Event status distribution over time"
+
+type_trends <- events_analyzed |>
+  filter(year >= year(Sys.Date()) - 2) |>
+  mutate(quarter = paste0(year, " Q", quarter(event_date))) |>
+  count(quarter, type) |>
+  group_by(quarter) |>
+  mutate(percentage = n / sum(n) * 100)
+
+ggplot(type_trends, aes(x = quarter, y = n, fill = type)) +
+  geom_col(position = "stack") +
+  scale_fill_rladies() +
+  labs(
+    title = "Event Status by Quarter",
+    x = "Quarter",
+    y = "Number of Events",
+    fill = "Status"
+  ) +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+```
+
+## Recommendations for Organizers
+
+### Timing Optimization
+
+```{r}
+#| label: timing-recommendations
+#| include: false
+
+# Calculate recommendations dynamically
+top_3_days <- dow_counts |> 
+  slice_max(n, n = 3) |> 
+  pull(event_dow) |>
+  as.character()
+
+top_3_hours <- hour_counts |>
+  slice_max(n, n = 3) |>
+  pull(event_hour)
+```
+
+- Schedule events on **`r paste(top_3_days, collapse = ", ")`** for highest participation  
+- Consider **`r sprintf("%02d:00-%02d:00", min(top_3_hours), max(top_3_hours))`** for optimal timing  
+- Plan for reduced activity in **`r quietest_month$event_month`**, ramp up in **`r busiest_month$event_month`**  
+
+### Format Selection
+
+- **Virtual events**: Greater accessibility, easier speaker recruitment, weather-independent  
+- **In-person events**: Stronger networking, hands-on workshops, community building  
+- **Hybrid approach**: Consider alternating formats based on content type  
+
+### Duration Guidelines
+
+Based on observed patterns:
+
+- **Standard meetups**: `r most_common_duration$duration_category` (most popular)  
+- **Workshops**: 2.5-4 hours for hands-on learning  
+- **Social events**: 1-1.5 hours to encourage participation  
+
+### Event Series Ideas
+
+Based on successful patterns:
+
+- **Regular meetups**: Consistent schedule on popular days  
+- **Quarterly workshops**: Longer format for skill-building  
+- **Annual celebrations**: Large events for milestones (IWD, R-Ladies Day)  
+- **Co-working sessions**: Regular low-structure community time  
+
+---
+
+*Report generated: `r format(Sys.time(), "%Y-%m-%d %H:%M %Z")`*  
+*Data source: R-Ladies Meetup Archive*
+

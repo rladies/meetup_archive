@@ -21,6 +21,7 @@ jobs:
     env:
       "meetupr:token": ${{ secrets.meetupr_token }}
       "meetupr:token_file": ${{ secrets.meetupr_token_file}}
+      RENV_PROFILE: "archive"
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4

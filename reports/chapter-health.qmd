@@ -1,0 +1,250 @@
+---
+title: "R-Ladies Chapter Health Report"
+subtitle: "Monitoring Chapter Activity and Engagement"
+date: "`r Sys.Date()`"
+author: "R-Ladies Global"
+slug: chapter-health-report
+categories:
+  - reports
+  - monitoring
+  
+tags:
+  - chapters
+  - analytics
+draft: false
+---
+
+```{r}
+#| label: setup
+#| include: false
+source(here::here("reports/_common.R"))
+```
+
+## Executive Summary
+
+This report identifies chapters needing support and highlights successful chapters to help the Chapter Monitoring Team maintain healthy community engagement across the R-Ladies network.
+
+```{r}
+#| label: summary-stats
+recent_cutoff <- Sys.Date() - months(6)
+inactive_cutoff <- Sys.Date() - months(6)
+
+# Parse event dates
+events_parsed <- events |>
+  mutate(
+    event_date = as.Date(date),
+    is_active = type %in% c("active", "ACTIVE")
+  )
+
+# Calculate metrics
+total_chapters <- n_distinct(chapters$urlname)
+
+active_chapters <- events_parsed |>
+  filter(event_date >= recent_cutoff, !type %in% c("cancelled", "CANCELLED")) |>
+  distinct(group_urlname) |>
+  nrow()
+
+inactive_count <- total_chapters - active_chapters
+```
+
+- **Total Chapters**: `r total_chapters`  
+- **Active (last 6 months)**: `r active_chapters` (`r round(100 * active_chapters / total_chapters, 1)`%)  
+- **Inactive**: `r inactive_count` (`r round(100 * inactive_count / total_chapters, 1)`%)  
+
+## Chapters Needing Immediate Attention
+
+These chapters have not held events in the past 6 months and may need outreach or support.
+
+```{r}
+#| label: inactive-chapters
+last_activity <- events_parsed |>
+  filter(!type %in% c("cancelled", "CANCELLED")) |>
+  group_by(group_urlname) |>
+  summarise(
+    last_event = max(event_date, na.rm = TRUE),
+    total_events = n(),
+    .groups = "drop"
+  )
+
+inactive_chapters <- last_activity |>
+  filter(last_event < inactive_cutoff) |>
+  arrange(last_event) |>
+  mutate(
+    days_since = as.numeric(Sys.Date() - last_event),
+    months_since = round(days_since / 30, 1),
+    Chapter = str_replace_all(group_urlname, "@", " (at) ")
+  ) |>
+  select(
+    Chapter,
+    `Last Event` = last_event,
+    `Months Since` = months_since,
+    `Total Events` = total_events
+  )
+
+knitr::kable(
+  head(inactive_chapters, 30),
+  caption = "Chapters with no activity in 6+ months (showing first 30)"
+)
+```
+
+**Action Items:**
+
+- Total chapters needing outreach: `r nrow(inactive_chapters)`  
+- Chapters inactive 6-12 months: `r sum(inactive_chapters$'Months Since' >= 6 & inactive_chapters$'Months Since' <= 12)`  
+- Chapters inactive 12+ months: `r sum(inactive_chapters$'Months Since' > 12)`  
+
+## Most Active Chapters (Benchmarks)
+
+These chapters can serve as models and mentors for others.
+
+```{r}
+#| label: active-chapters
+#| fig-cap: "Top 20 chapters by events in last 6 months"
+
+active_counts <- events_parsed |>
+  filter(
+    event_date >= recent_cutoff,
+    !type %in% c("cancelled", "CANCELLED")
+  ) |>
+  count(group_urlname, sort = TRUE)
+
+top_chapters <- active_counts |>
+  slice_head(n = 20)
+
+ggplot(top_chapters, aes(x = n, y = reorder(group_urlname, n))) +
+  geom_col(fill = rladies_colors$purple) +
+  geom_text(
+    aes(label = n),
+    hjust = -0.2,
+    size = 3.5
+  ) +
+  labs(
+    title = "Most Active Chapters (Last 6 Months)",
+    x = "Number of Events",
+    y = NULL
+  ) +
+  scale_x_continuous(expand = expansion(mult = c(0, 0.1)))
+```
+
+**Benchmark Statistics:**
+
+- Median events per active chapter: `r median(active_counts$n)`  
+- Mean events per active chapter: `r round(mean(active_counts$n), 1)`  
+- Top performer: `r top_chapters$group_urlname[1]` with `r top_chapters$n[1]` events  
+
+## Activity Trends Over Time
+
+```{r}
+#| label: activity-trends
+#| fig-cap: "Event activity by month across all chapters"
+
+monthly_activity <- events_parsed |>
+  filter(
+    !type %in% c("cancelled", "CANCELLED"),
+    event_date >= Sys.Date() - months(12)
+  ) |>
+  mutate(month = floor_date(event_date, "month")) |>
+  count(month)
+
+ggplot(monthly_activity, aes(x = month, y = n)) +
+  geom_line(color = rladies_colors$purple, linewidth = 1) +
+  geom_point(color = rladies_colors$purple, size = 3) +
+  geom_smooth(
+    method = "loess",
+    se = TRUE,
+    alpha = 0.2,
+    color = rladies_colors$dark_purple
+  ) +
+  labs(
+    title = "Monthly Event Activity (Last 12 Months)",
+    x = "Month",
+    y = "Number of Events"
+  ) +
+  scale_x_date(date_labels = "%b %Y", date_breaks = "2 months") +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+```
+
+## New vs. Established Chapters
+
+```{r}
+#| label: chapter-age
+#| fig-cap: "Activity distribution by chapter maturity"
+
+chapter_activity <- events_parsed |>
+  filter(!type %in% c("cancelled", "CANCELLED")) |>
+  group_by(group_urlname) |>
+  summarise(
+    first_event = min(event_date, na.rm = TRUE),
+    last_event = max(event_date, na.rm = TRUE),
+    total_events = n(),
+    recent_events = sum(event_date >= recent_cutoff),
+    .groups = "drop"
+  ) |>
+  mutate(
+    age_months = as.numeric(Sys.Date() - first_event) / 30,
+    maturity = case_when(
+      age_months < 6 ~ "New (< 6 months)",
+      age_months < 24 ~ "Developing (6-24 months)",
+      TRUE ~ "Established (2+ years)"
+    ),
+    activity_level = case_when(
+      recent_events == 0 ~ "Inactive",
+      recent_events <= 2 ~ "Low",
+      recent_events <= 6 ~ "Moderate",
+      TRUE ~ "High"
+    )
+  )
+
+activity_summary <- chapter_activity |>
+  count(maturity, activity_level) |>
+  mutate(maturity = factor(
+    maturity,
+    levels = c("New (< 6 months)", "Developing (6-24 months)", "Established (2+ years)")
+  ))
+
+ggplot(activity_summary, aes(x = maturity, y = n, fill = activity_level)) +
+  geom_col(position = "stack") +
+  scale_fill_manual(
+    values = c(
+      "Inactive" = rladies_colors$grey,
+      "Low" = rladies_colors$light_purple,
+      "Moderate" = rladies_colors$purple,
+      "High" = rladies_colors$dark_purple
+    )
+  ) +
+  labs(
+    title = "Chapter Activity by Maturity Level",
+    x = "Chapter Maturity",
+    y = "Number of Chapters",
+    fill = "Activity Level"
+  ) +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+```
+
+## Recommendations
+
+### Immediate Actions (Next 30 Days)
+
+1. **Priority Outreach**: Contact the `r sum(inactive_chapters$'Months Since' > 12)` chapters inactive for 12+ months  
+2. **Check-in Calls**: Schedule supportive check-ins with chapters inactive 6-12 months  
+3. **Success Sharing**: Connect inactive chapters with regional active chapter organizers  
+
+### Medium-term Strategy (Next Quarter)
+
+1. **Mentorship Program**: Pair struggling chapters with successful ones in similar regions/time zones  
+2. **Resource Audit**: Ensure all chapter organizers have access to:  
+   - Event planning templates  
+   - Speaker resources  
+   - Marketing materials  
+3. **Celebrate Success**: Feature top performing chapters in newsletter  
+
+### Support Needed
+
+- Organizer burnout assessment for long-inactive chapters  
+- Regional coordinator support for clusters of inactive chapters  
+- New organizer recruitment for chapters with departed leadership  
+
+---
+
+*Report generated: `r format(Sys.time(), "%Y-%m-%d %H:%M %Z")`*  
+*Data source: R-Ladies Meetup Archive*
