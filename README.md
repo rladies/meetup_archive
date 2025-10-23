@@ -11,17 +11,17 @@ This repository maintains a historical record of R-Ladies community activities a
 View all reports in the [reports](reports/) directory:
 
 ### Chapter Management
-- **[Chapter Health Report](reports/chapter-health.html)** - Monitors chapter activity, engagement metrics, and identifies chapters needing support
-- **[New Chapter Guide](reports/new-chapter-guide.html)** - Guidelines and insights for starting and growing new R-Ladies chapters
-- **[Geographic Analysis](reports/geographic-analysis.html)** - Geographic distribution and regional patterns of chapters worldwide
+- **[Chapter Health Report](reports/chapter-health.qmd)** - Monitors chapter activity, engagement metrics, and identifies chapters needing support
+- **[New Chapter Guide](reports/new-chapter-guide.qmd)** - Guidelines and insights for starting and growing new R-Ladies chapters
+- **[Geographic Analysis](reports/geographic-analysis.qmd)** - Geographic distribution and regional patterns of chapters worldwide
 
 ### Event Analysis
-- **[Event Analytics](reports/event-analytics.html)** - Comprehensive analysis of events including attendance, frequency, and trends over time
-- **[Topic Analysis](reports/topic-analysis.html)** - Analysis of event topics, themes, and content areas covered by chapters
+- **[Event Analytics](reports/event-analytics.qmd)** - Comprehensive analysis of events including attendance, frequency, and trends over time
+- **[Topic Analysis](reports/topic-analysis.qmd)** - Analysis of event topics, themes, and content areas covered by chapters
 
 ### Summary Reports
-- **[Quarterly Summary](reports/quarterly-summary.html)** - Quarterly overview of community activities and key metrics
-- **[Funder Report](reports/funder-report.html)** - Summary report for funders and stakeholders highlighting community impact
+- **[Quarterly Summary](reports/quarterly-summary.qmd)** - Quarterly overview of community activities and key metrics
+- **[Funder Report](reports/funder-report.qmd)** - Summary report for funders and stakeholders highlighting community impact
 
 ## 🔄 Data Pipeline
 
