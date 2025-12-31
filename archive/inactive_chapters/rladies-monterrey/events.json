@@ -1,0 +1,314 @@
+[
+  {
+    "id": "275104401",
+    "title": "El movimiento del feminismo de datos",
+    "description": "Reseña\n\nEl feminismo de datos es una nueva forma de pensar la ciencia y ética de los datos que se basa en las ideas del feminismo inter seccional. La charla tiene por objetivo reflexionar y cuestionar las dinámicas de poder que se reproducen en los procesos de análisis de datos.\n\nPonente: Marcela Guerra Osorno\n\nFeminista & Datera. Habla de R y estadística cada que puede. Toma dos tazas de café al día o tres si la vida lo permite. Promotora de niñas y mujeres en las ciencias, desde las periferias. Fundadora de R-Ladies Xalapa.\n\n* Libro sobre feminismo de datos recomendado por la ponente.\nLink (https://data-feminism.mitpress.mit.edu/)\n\nDatos del Evento en Zoom:\n\nMeeting ID: 838 1698 0976\nPasscode: 446301",
+    "status": "PAST",
+    "dateTime": "2020-12-15T19:30:00-06:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-monterrey/events/275104401/",
+    "featuredEventPhoto": {
+      "id": "493894200",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/5/9/8/highres_493894200.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/5/9/8/600_493894200.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/5/9/8/thumb_493894200.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 16,
+      "waitlistCount": 0,
+      "totalCount": 16
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Monterrey",
+      "urlname": "rladies-monterrey"
+    }
+  },
+  {
+    "id": "273086491",
+    "title": "Primer encuentro anual R-Ladies México",
+    "description": "R-Ladies Global es una organización mundial cuya principal misión es promover la diversidad de género en la comunidad del lenguaje de programación R. A mediados de 2017 el primer capítulo de R-Ladies en México se integró a la creciente lista de capítulos de R-Ladies alrededor del mundo. Tres años después, 8 capítulos más se han formado y ahora somos casi 3,000 participantes.\n\nEste año, deseamos unir fuerzas y estrechar lazos reuniendo a las y los miembros de R-Ladies de todo el país en el Primer Encuentro Anual R-Ladies México.\n\nEste jueves 24 de septiembre a las 5:00 pm (Centro de México) te esperamos para crecer y fortalecer la comunidad.\n\nPrograma\n\n17:00-17:05 Bienvenida\n17:05-17:15 Presentación de la organización R-Ladies\n17:15-17:45 Conferencia 1: Estadísticas e historia de los capítulos en México\n17:45-18:45 Panel de discusión: Retos y Perspectivas\n18:45-19:00 Coffee break y networking\n19:00-19:30 Sesión de pláticas cortas: Aplicaciones de R\n19:30-19:55 Conferencia 2: Cómo crear un nuevo capítulo.\n19:55-20:00 Cierre\n\nEste evento se llevará a cabo mediante Zoom, el link para conectarse al evento será enviado por correo electrónico a los asistentes registrados 60 minutos antes de iniciar. Por seguridad de todos, no compartas el link con personas no registradas en el evento.\n\nLes pedimos conectarse 15 minutos antes de la hora de inicio para corroborar su inscripción.\n\nRecuerda leer y atender el código de conducta disponible en https://rladies.org/code-of-conduct/",
+    "status": "PAST",
+    "dateTime": "2020-09-24T17:00:00-05:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-monterrey/events/273086491/",
+    "featuredEventPhoto": {
+      "id": "492209585",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/3/9/1/highres_492209585.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/3/9/1/600_492209585.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/3/9/1/thumb_492209585.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 16,
+      "waitlistCount": 0,
+      "totalCount": 16
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Monterrey",
+      "urlname": "rladies-monterrey"
+    }
+  },
+  {
+    "id": "272174013",
+    "title": "Analyzing and visualising spatial and spatiotemporal data cubes",
+    "description": "The RLadies Monterrey chapter community is very happy to announce that we will be hosting one of the useR! 2020 online tutorials (https://user2020.r-project.org/program/tutorials/). We will have the honor of having Edzer Pebesma and Martijn Tennekes in our meetup, who will be running the tutorial: \"Analyzing and visualising spatial and spatiotemporal data cubes\" on September 19th, 16:00 UTC (i.e. 11 am CDT).\n\nBackground\n\nData cubes are a modern way to denote array data, and we focus on array data where some of the dimensions refer to space and time. Examples are spatial raster data, multivariate time series for multiple locations, and time series of raster images such as satellite data or weather predictions. In this workshop we will show a variety of cases where such data arise, and demonstrate how they can be analysed and visualised with R. While doing so, we mainly focus on using the R packages sf, stars, tmap and mapview, but also address a number of other useful packages for this context.\n\nLink to the project homepage: http://github.com/r-spatial/useR2020muc\n\nTarget Audience\n\nR users, who are somewhat familiar with (or have a demand for learning about) spatial data handling in R, and who are interested in analysing and dealing with raster data and spatiotemporal data cubes.\n\nPrerequisities\n\nSome familiarity with R and R-spatial, as well as some prior knowledge about time series and spatial data analysis is recommended, but is not a hard requirement.",
+    "status": "PAST",
+    "dateTime": "2020-09-19T11:00:00-05:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-monterrey/events/272174013/",
+    "featuredEventPhoto": {
+      "id": "491519995",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/e/a/5/b/highres_491519995.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/e/a/5/b/600_491519995.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/a/5/b/thumb_491519995.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 105,
+      "waitlistCount": 0,
+      "totalCount": 105
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Monterrey",
+      "urlname": "rladies-monterrey"
+    }
+  },
+  {
+    "id": "272071592",
+    "title": "Como crear presentaciones asombrosas con Xaringan",
+    "description": "La comunidad de R-Ladies Monterrey estrena su primer tutorial a distancia, y nos gustaría que nos acompañaras para este evento.\n\nEstamos muy emocionadas en darle la bienvenida a cDr. Semiramis Castro-Jaimes como nuestra invitada ponente de este tutorial.\n\nSemiramis es una científica de datos que programa principalmente en R y Python. Es egresada de la Universidad Nacional Autónoma de México y durante su doctorado se enfocó en el análisis de bacterias patógenas y la resistencia a antibióticos. Las diapositivas de varias de sus charlas están en https://speakerdeck.com/semiramiscj y si te dedicas a la bioinformática, puedes encontrar algunos scripts que te pudieran ser útiles en https://github.com/semiramisCJ/miscelaneous\n\nEl paquete xaringan es una extensión de R Markdown para generar presentaciones en formato HTML de diferentes estilos. Las presentaciones pueden incluir bloques de código, imágenes, emojis y tablas. El tutorial será de nivel introductorio te llevaremos de la mano para que conozcas RMarkdown.\n\nCon la finalidad de poder brindar la mejor atención a los asistentes el tutorial será de cupo limitado, por lo que te pedimos reserves tu lugar. Se enviarán los requerimientos de paquetería para su instalación previa al tutorial a las confirmaciones.\n\nPara tener un evento seguro, el link de acceso al evento lo recibirán quienes confirmen su asistencia via RSVP de meetup.com el día del evento.",
+    "status": "PAST",
+    "dateTime": "2020-08-01T11:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-monterrey/events/272071592/",
+    "featuredEventPhoto": {
+      "id": "491443656",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/a/8/8/highres_491443656.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/a/8/8/600_491443656.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/a/8/8/thumb_491443656.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 31,
+      "waitlistCount": 0,
+      "totalCount": 31
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Monterrey",
+      "urlname": "rladies-monterrey"
+    }
+  },
+  {
+    "id": "271628275",
+    "title": "Cómo hacer una reunión virtual inolvidable (sin morir en el intento)",
+    "description": "Aunque no es posible reunirnos en persona, la magia de R-Ladies no se detiene y hace posible los encuentros virtuales. En este meetup te contaremos algunos trucos y herramientas para que cualquier evento virtual interactivo (por ejemplo, clase, taller o panel online) sea un éxito sin estrés adicional al hacerlo. Si organizas meetups de R-Ladies, encontrarás dónde y cómo acceder a la infraestructura que te permitirá organizar meetups online para tu capítulo. Si no organizas meetups de R-Ladies, también encontrarás material útil para todo tipo de evento online que organices o del que participes.\n\nEstos contenidos nos los traen R-Ladies latinoamericanas, en su mayoría certificadas para enseñar por RStudio Education y The Carpentries. La mayoría también es parte de MetaDocencia, una organización que desde fines de marzo realizó más de 25 talleres interactivos enseñando a enseñar online a más de 300 docentes hispanohablantes con excelentes resultados. Todas tienen vasta experiencia teletrabajando y enseñando online.\n\nOradoras: Yanina Bellini Saibene y Paola Corrales.\n\nPara tener un evento seguro, el link de acceso al evento lo recibirán quienes confirmen su asistencia via RSVP de meetup.com el día del evento",
+    "status": "PAST",
+    "dateTime": "2020-07-01T12:00:00-05:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-monterrey/events/271628275/",
+    "featuredEventPhoto": {
+      "id": "491100676",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/a/4/highres_491100676.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/a/4/600_491100676.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/a/4/thumb_491100676.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 13,
+      "waitlistCount": 0,
+      "totalCount": 13
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Monterrey",
+      "urlname": "rladies-monterrey"
+    }
+  },
+  {
+    "id": "270134667",
+    "title": "#RLadiesMty presenta Webinar Modelos de Simulación de Eventos Discretos",
+    "description": "ESTE ES UN EVENTO GRATUITO!!\nReserva tu lugar para el webinar :\n\"Modelos de simulación de eventos discretos\"\n\nLa modelación y optimización de sistemas de cadena de suministro es compleja y difícil de modelar de manera analítica. Los modelos analíticos generalmente vienen acompañados de supuestos probabilísticos restrictivos que no necesariamente reflejan la realidad en la práctica. Es necesario un modelo que permita contemplar interacciones y variabilidad en los distintos procesos y sistemas. Los modelos de simulación de eventos discretos ayudan al entendimiento del comportamiento del sistema, además de permitir evaluar estrategias, políticas y posibles efectos de cambios en el sistema.\n\nPresentado por\n\nMSc Melissa Salinas\n\nMSc en Estadística Aplicada por el Tecnológico de Monterrey.\n\nConsultora de Supply Chain Management y científica de datos con experiencia en diseño de redes de suministro, planeación de inventarios, pronósticos y análisis de costo de servir.\n\nHa diseñado redes de suministro para compañías de productos de consumo, productos industriales y sector del transporte.\n\nNota: Respetando las normas de distanciamiento social este evento se llevará a cabo en forma webinar. #QuedateEnCasa",
+    "status": "PAST",
+    "dateTime": "2020-04-23T19:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-monterrey/events/270134667/",
+    "featuredEventPhoto": {
+      "id": "490171669",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/b/b/5/highres_490171669.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/b/b/5/600_490171669.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/b/b/5/thumb_490171669.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 52,
+      "waitlistCount": 0,
+      "totalCount": 52
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Monterrey",
+      "urlname": "rladies-monterrey"
+    }
+  },
+  {
+    "id": "268515460",
+    "title": "Meetup - Space State Models using R",
+    "description": "LIGA DE REGISTRO: https://widscommunityr-usersmeetup.splashthat.com\n\n¡Bienvenidos a esta comunidad!\n\nLes dejamos información sobre nuestra ponente y coordinadora.\n\nVerenice Amante es actuaria y científica de datos egresada del ITAM con especialidad en modelos econometricos dinámicos por la misma escuela y en riesgos financieros por parte de la Universidad Anahuac. Con experiencia de más de diez años en instituciones financieras, y dos de los bancos con mayor presencia en el sistema financiero mexicano. Actualmente trabaja en Monterrey para un banco en proyectos de innovación relacionados con estrategias comerciales, el incremento y gestión de ingresos, comportamiento del cliente, y macroeconomía. Sus especialidades incluyen la minería de datos, aprendizaje de máquina, previsión financiera, econometría, y gestión de riesgos en créditos de consumo.\n\nNuestra segunda platica es en colaboración con el grupo de R-Users de Monterrey y sera: \"Introducción al aprendizaje por refuerzo en R\" con Arturo Victoria egresado de la licenciatura en Matemáticas Aplicadas del ITAM, Científico de Datos en Banregio Subdirector de Modelos y Metodologías.\n\nEl aprendizaje por refuerzo es un método de aprendizaje automático donde el agente recibe una recompensa en su siguiente paso para evaluar su acción previa. Debido a sus sorprendentes resultados desde el dominio en juegos de Atari hasta el gran logro de DeepMind con MuZero, el aprendizaje por refuerzo se ha convertido en una de las áreas de investigación más populares ya que resuelve un tipo de problema donde la toma de decisiones es secuencial y el objetivo a largo plazo. En esta charla comentaremos sobre los conceptos básicos del aprendizaje por refuerzo, los procesos de decisión de Markov y un ejemplo de implementación en R utilizando las librerías MDPtoolbox y ReinforcementLearning",
+    "status": "PAST",
+    "dateTime": "2020-02-18T19:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-monterrey/events/268515460/",
+    "featuredEventPhoto": {
+      "id": "488941227",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/c/b/highres_488941227.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/c/b/600_488941227.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/c/b/thumb_488941227.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 11,
+      "waitlistCount": 0,
+      "totalCount": 11
+    },
+    "venues": [
+      {
+        "id": "26613301",
+        "name": "WeWork Espacio de Oficinas & Coworking Av. Eugenio Garza Sada",
+        "address": "Av. Eugenio Garza Sada 1892",
+        "city": "Monterrey",
+        "state": "N.",
+        "country": "mx",
+        "lat": 25.6401,
+        "lon": -100.2862,
+        "postalCode": "64740",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Monterrey",
+      "urlname": "rladies-monterrey"
+    }
+  },
+  {
+    "id": "276683271",
+    "title": "Conoce DATA MEXICO",
+    "description": "El equipo de la plataforma datamexico.org nos acompañará para explicarnos cómo podemos utilizar la plataforma para nuestros proyectos e iniciativas.\nAcompáñanos y conoce acerca del Desafío Data México 2021: datos con perspectiva de género y cómo puedes participar.\nLas participantes de la edición anterior del desafío nos acompañarán para relatar su experiencia.\n\nNuestras ponentes:\n\nDaniela Jiménez Lara\nJr. Data Scientist en la Oficina de Naciones Unidas contra la Droga y el Delito. Daniela estudió Ciencia Política y Relaciones Internacionales en el Centro de Investigación y Docencia Económicas. Participó en proyectos con contrapartes nacionales e internacionales en el Laboratorio Nacional de Políticas Públicas y actualmente trabaja en temas de justicia penal en UNODC. Su gusto por los datos ha crecido continuamente al enfrentarse con problemáticas sociales que pueden beneficiarse del análisis de datos y de una mejor estructura de su información.\n\nRaquel Yunoen Badillo Salas es economista egresada del Centro de Investigación y Docencia Económicas y El Colegio de México. Actualmente trabaja en Banco de México, con líneas de investigación de economía laboral. Ella considera que la rigurosa evaluación y análisis de datos mejora la toma de decisiones para solucionar problemáticas sociales.\n\n¡¡¡¡ LOS ESPERAMOS !!!!",
+    "status": "PAST",
+    "dateTime": "2021-03-04T19:00:00-06:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-monterrey/events/276683271/",
+    "featuredEventPhoto": {
+      "id": "494983750",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/a/e/6/highres_494983750.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/a/e/6/600_494983750.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/a/e/6/thumb_494983750.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 14,
+      "waitlistCount": 0,
+      "totalCount": 14
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Monterrey",
+      "urlname": "rladies-monterrey"
+    }
+  }
+]

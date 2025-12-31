@@ -1,0 +1,1010 @@
+[
+  {
+    "id": "255203043",
+    "title": "R-Ladies Edinburgh Introductory meeting ",
+    "description": "Hi everyone!\n\nWe are finally hosting our first R-Ladies Edinburgh meeting. It will take place at 7 George Square, room G.32. We will upload a survey soon for you to complete, to have a general idea of who you are and what do you want to learn. If you cannot make it this time, please respond to the survey as this is important for the rest of our meetings and to decide what we will do in the future.\n\nWe hope this time is alright for the majority of you - please indicate your availability in the survey for future meetings!\n\nThis meeting is for:\n\n- Meet each other.\n- Discuss the results of the survey to decide what we want to get from R-Ladies Edinburgh.\n- R-Ladies code of conduct.\n\nYou can also email us if you have any suggestions/questions.",
+    "status": "PAST",
+    "dateTime": "2018-10-19T17:00:00+01:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-edinburgh/events/255203043/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 35,
+      "waitlistCount": 0,
+      "totalCount": 35
+    },
+    "venues": [
+      {
+        "id": "25953635",
+        "name": "The psychology department of the university of Edinburgh",
+        "address": "G.32 (7 George Square)",
+        "city": "Edinburgh",
+        "state": "al",
+        "country": "gb",
+        "lat": 55.9445,
+        "lon": -3.1886,
+        "postalCode": "EH8 9JZ",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Edinburgh",
+      "urlname": "rladies-edinburgh"
+    }
+  },
+  {
+    "id": "265708048",
+    "title": "R Markdown – from RStudio to Word/PDF/website with a single push of a button",
+    "description": "At this workshop you will learn 2 things:\n\n• What is Markdown and how to get directly from R into Word documents, PDF reports, websites, or presentations\n• How to work with R Notebooks (twin sister of R Markdown) – an interactive alternative to R scripts\n\nSuitable for R newbies: working examples will be provided, no on-the-spot R code writing needed.\n\nExperienced users will also benefit as we'll point out the most up to date functionality within R Markdown and RStudio.\n\nThis workshop's speaker, Riinu, is a data scientist with an interdisciplinary background. She works at the Centre for Medical Informatics.\nwww.riinu.me",
+    "status": "PAST",
+    "dateTime": "2019-10-30T17:00:00Z",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-edinburgh/events/265708048/",
+    "featuredEventPhoto": {
+      "id": "485803819",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/b/2/b/highres_485803819.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/b/2/b/600_485803819.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/b/2/b/thumb_485803819.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 27,
+      "waitlistCount": 0,
+      "totalCount": 27
+    },
+    "venues": [
+      {
+        "id": "26685692",
+        "name": "Room S37",
+        "address": "7 George Square",
+        "city": "Edinburgh",
+        "state": "al",
+        "country": "gb",
+        "lat": 55.9445,
+        "lon": -3.1884,
+        "postalCode": "EH8 9JZ",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Edinburgh",
+      "urlname": "rladies-edinburgh"
+    }
+  },
+  {
+    "id": "264430787",
+    "title": "Introduction to Bayesian Statistical Modelling using brms",
+    "description": "We are super pleased to invite you to our workshop \"Introduction to Bayesian Statistical Modelling using brms\". In this two-day workshop, we will learn some basics about Bayesian statistics, with a focus on using a Bayesian approach to statistical modelling. We will use brms package by Paul Bürkner, which uses Stan.\n\nOn the first day, we will have an intro to Bayesian statistics and statistical modelling. We will be introduced to brms using simple variants of the general linear model, and multi-level models, with a normal response distribution.\n\nOn the second day, we will take a look at the binomial and Poisson distribution for count data, and learn when we should used them and how to do so using brms.\n\nThe workshop will have small lectures and some practical exercises so the participants can fit their own models with brms.\n\nThis workshop will be facilitated by Marie Beisemann. She's about to start her Phd in Statistics at the Technical University of Dortmund, Germany, right after finishing he Master's degree in psychology at the University of Münster. She's (really) passionate about sharing her knowledge about brms and Bayes with us, and we're super excited to have her here!\n\nP. S., if you will attend this workshop, we really need you to install brms beforehand.",
+    "status": "PAST",
+    "dateTime": "2019-09-26T09:00:00+01:00",
+    "duration": "PT29H",
+    "eventUrl": "https://www.meetup.com/rladies-edinburgh/events/264430787/",
+    "featuredEventPhoto": {
+      "id": "484442085",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/2/5/highres_484442085.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/2/5/600_484442085.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/2/5/thumb_484442085.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 28,
+      "waitlistCount": 2,
+      "totalCount": 28
+    },
+    "venues": [
+      {
+        "id": "26600722",
+        "name": "Room G32",
+        "address": "7 George Square",
+        "city": "Edinburgh",
+        "state": "sc",
+        "country": "gb",
+        "lat": 55.9445,
+        "lon": -3.1884,
+        "postalCode": "EH8 9JZ",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Edinburgh",
+      "urlname": "rladies-edinburgh"
+    }
+  },
+  {
+    "id": "260942805",
+    "title": "Key Ingredients for Predictive Analytics with R: ‘caret’ and ‘parsnip’",
+    "description": "Our next speaker is Dr Anastasia Ushakova. She has a PhD in Computational Social Science from UCL and is passionate about both development and application of statistical methods as well as promoting those to a new generation of applied researchers.\n\nDuring the workshop, we will look at an overview of a set of models that can be used in R for prediction or classification tasks. These will include linear and logistic models, tree methods, neural networks and other common machine learning/data science tools.\n\nThe packages ‘caret’ and ‘parsnip’ will be introduced to fit the models, compare the performance and provide quick visualisations for the overall assessment. This workshop will be useful for both an industry and an academic audience that are interested with predictive analytics and wish to get hands on practice in model fitting in R.",
+    "status": "PAST",
+    "dateTime": "2019-05-29T17:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-edinburgh/events/260942805/",
+    "featuredEventPhoto": {
+      "id": "480763497",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/9/e/9/highres_480763497.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/9/e/9/600_480763497.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/9/e/9/thumb_480763497.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 30,
+      "waitlistCount": 0,
+      "totalCount": 30
+    },
+    "venues": [
+      {
+        "id": "26350709",
+        "name": "Minto House",
+        "address": "Chambers Street",
+        "city": "Edinburgh",
+        "state": "",
+        "country": "gb",
+        "lat": 55.9478,
+        "lon": -3.189,
+        "postalCode": "EH1 1JZ",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Edinburgh",
+      "urlname": "rladies-edinburgh"
+    }
+  },
+  {
+    "id": "260376405",
+    "title": "R for Open Science",
+    "description": "We want to invite you to our next R-Ladies Edinburgh event! Dr Candice Coker Morey will speak about how to use R for Open Science. Dr Coker Morey is a Senior Lecturer at Cardiff University, editor of the Journal of Cognition, and a self professed Open Science enthusiast!",
+    "status": "PAST",
+    "dateTime": "2019-04-24T17:00:00+01:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-edinburgh/events/260376405/",
+    "featuredEventPhoto": {
+      "id": "480138031",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/6/6/f/highres_480138031.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/6/6/f/600_480138031.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/6/6/f/thumb_480138031.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 20,
+      "waitlistCount": 0,
+      "totalCount": 20
+    },
+    "venues": [
+      {
+        "id": "26330703",
+        "name": "Room 1.17, Dugald Stewart Building, The University of Edinburgh",
+        "address": "3 Charles St Ln",
+        "city": "Edinburgh",
+        "state": "al",
+        "country": "gb",
+        "lat": 55.9451,
+        "lon": -3.1879,
+        "postalCode": "EH8 9AD",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Edinburgh",
+      "urlname": "rladies-edinburgh"
+    }
+  },
+  {
+    "id": "259165848",
+    "title": "ggplot2 workshop",
+    "description": "We are very excited to invite you to a ggplot2 workshop conducted by Dr Mine Cetinkaya-Rundel, who is a world renowned statistician. We will have 40 slots, and we need you to bring your laptop with you. If you don't have one, please let us know in advance so we can get one for you. Please RSVP.",
+    "status": "PAST",
+    "dateTime": "2019-03-15T17:00:00Z",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-edinburgh/events/259165848/",
+    "featuredEventPhoto": {
+      "id": "478878270",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/7/5/e/highres_478878270.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/7/5/e/600_478878270.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/7/5/e/thumb_478878270.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 30,
+      "waitlistCount": 1,
+      "totalCount": 30
+    },
+    "venues": [
+      {
+        "id": "26199535",
+        "name": "David Hume Tower",
+        "address": "George Square",
+        "city": "Edinburgh",
+        "state": "",
+        "country": "gb",
+        "lat": 55.9432,
+        "lon": -3.1864,
+        "postalCode": "EH8",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Edinburgh",
+      "urlname": "rladies-edinburgh"
+    }
+  },
+  {
+    "id": "275092493",
+    "title": "Dec 2020 Meetup",
+    "description": "Our December 2020 will feature two speakers:\n\n- Lisa Hopcroft (Public Health Scotland) - Obtaining Scottish public transport information\n- Lydia Gabriela Speyer (University of Edinburgh) - Modelling Dynamic Change in Longitudinal Data\n\nPasscode for the Zoom call will be emailed on the day of the event.\n\n--\n\nR-Ladies is a worldwide organization whose mission is to promote gender diversity in the R community.\n\nA question we often get is \"Are men welcome to attend this event?\"\n\nAs a diversity initiative, the mission of R-Ladies is to achieve proportionate representation by encouraging, inspiring, and empowering people of genders currently underrepresented in the R community. R-Ladies’ primary focus, therefore, is on supporting minority gender R enthusiasts to achieve their programming potential, by building a collaborative global network of R leaders, mentors, learners, and developers to facilitate individual and collective progress worldwide.\n\n**As such, we strongly encourage cis-men who attend this event come as guests of R-Ladies who are minority genders (including but not limited to cis/trans women, trans men, non-binary, genderqueer, agender).**\n\nAll attendees are strongly encouraged to review the R-Ladies Code of Confuct (https://rladies.org/code-of-conduct) and must abide by it.",
+    "status": "PAST",
+    "dateTime": "2020-12-16T17:30:00Z",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-edinburgh/events/275092493/",
+    "featuredEventPhoto": {
+      "id": "493887735",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/c/5/7/highres_493887735.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/c/5/7/600_493887735.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/c/5/7/thumb_493887735.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 25,
+      "waitlistCount": 0,
+      "totalCount": 25
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Edinburgh",
+      "urlname": "rladies-edinburgh"
+    }
+  },
+  {
+    "id": "274363221",
+    "title": "Coding get-together with a Tidy Tuesday dataset",
+    "description": "This is a second event in our Tidy Tuesday series: a dedicated time and supportive virtual space for us all to do some coding. We will use that week's Tidy Tuesday dataset to do data exploration, visualisation and analysis. Every participant will be free to take whatever direction they like and the coding will be done largely independently. But fear not, we will help each other when we get stuck and we will share our creations at the end of the event.\n\nThis event is meant for R-Ladies with any level of coding skills: whether you're a beginner or an experienced coder, you'll definitely get an opportunity to practice your skills and learn something new.\n\nTo participate, you need a computer with an installation of R and internet access. The workshop will be happening on Zoom - all attendees will be sent the access password in advance of the event. You can install Zoom on your computer for free if you like, but you can also use it via your internet browser.\n\nHere is a very rough agenda:\n5:30pm Welcome and introductions\n5:45pm Get coding\n6:30pm Quick check-in\n7:15pm Sharing our findings and creations\n7:30pm Closing of the event\n\nTo find out more about the Tidy Tuesday initiative, check out https://github.com/rfordatascience/tidytuesday or explore the #TidyTuesday hashtag on Twitter.",
+    "status": "PAST",
+    "dateTime": "2020-11-10T17:30:00Z",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-edinburgh/events/274363221/",
+    "featuredEventPhoto": {
+      "id": "492824823",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/f/1/7/highres_492824823.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/f/1/7/600_492824823.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/f/1/7/thumb_492824823.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 23,
+      "waitlistCount": 0,
+      "totalCount": 23
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Edinburgh",
+      "urlname": "rladies-edinburgh"
+    }
+  },
+  {
+    "id": "273771420",
+    "title": "Three reasons  to use tidymodels with Julia Silge",
+    "description": "Modeling and machine learning in R involve a bewildering array of heterogeneous packages, and establishing good statistical practice is challenging in any language. The tidymodels (tidymodels.org) collection of packages offers a consistent, flexible framework for your modeling and machine learning work to address these problems. In this talk, we’ll focus on three specific reasons to consider using tidymodels. We will start with model characteristics themselves, move to the wise management of your data budget, and finish with feature engineering.\n\nJulia Silge is a data scientist and software engineer at RStudio PBC where she works on open source modeling tools. She is an author, an international keynote speaker, and a real-world practitioner focusing on data analysis and machine learning practice. Julia loves text analysis, making beautiful charts, and communicating about technical topics with diverse audiences.\n\n---\n\nR-Ladies is a worldwide organization whose mission is to promote gender diversity in the R community.\n\nA question we often get is \"Are men welcome to attend this event?\"\n\nAs a diversity initiative, the mission of R-Ladies is to achieve proportionate representation by encouraging, inspiring, and empowering people of genders currently underrepresented in the R community. R-Ladies’ primary focus, therefore, is on supporting minority gender R enthusiasts to achieve their programming potential, by building a collaborative global network of R leaders, mentors, learners, and developers to facilitate individual and collective progress worldwide.\n\n**As such, we strongly encourage cis-men who attend this event come as guests of R-Ladies who are minority genders (including but not limited to cis/trans women, trans men, non-binary, genderqueer, agender).**\n\nAll attendees are strongly encouraged to review the R-Ladies Code of Confuct (https://rladies.org/code-of-conduct) and must abide by it.",
+    "status": "PAST",
+    "dateTime": "2020-10-28T17:30:00Z",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-edinburgh/events/273771420/",
+    "featuredEventPhoto": {
+      "id": "492847965",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/f/1/d/highres_492847965.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/f/1/d/600_492847965.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/f/1/d/thumb_492847965.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 92,
+      "waitlistCount": 0,
+      "totalCount": 92
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Edinburgh",
+      "urlname": "rladies-edinburgh"
+    }
+  },
+  {
+    "id": "273748898",
+    "title": "Coding get-together with a Tidy Tuesday dataset",
+    "description": "We are excited to try a new event format: a dedicated time and supportive virtual space for us all to do some coding. We will use a Tidy Tuesday dataset to do data exploration, visualisation and analysis. Every participant will be free to take whatever direction they like and the coding will be done largely independently. But fear not, we will help each other when we get stuck and we will share our creations at the end of the event.\n\nThis event is meant for R-Ladies with any level of coding skills: whether you're a beginner or an experienced coder, you'll definitely get an opportunity to practice your skills and learn something new.\n\nTo participate, you need a computer with an installation of R and internet access. The workshop will be happening on Zoom - all attendees will be sent the access password in advance of the event. You can install Zoom on your computer for free if you like, but you can also use it via your internet browser.\n\nHere is a very rough agenda:\n5:30pm Welcome and introductions\n5:45pm Get coding\n6:30pm Quick check-in\n7:15pm Sharing our findings and creations\n7:30pm Closing of the event\n\nTo find out more about the Tidy Tuesday initiative, check out https://github.com/rfordatascience/tidytuesday or explore the #TidyTuesday hashtag on Twitter.",
+    "status": "PAST",
+    "dateTime": "2020-10-13T17:30:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-edinburgh/events/273748898/",
+    "featuredEventPhoto": {
+      "id": "492824823",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/f/1/7/highres_492824823.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/f/1/7/600_492824823.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/f/1/7/thumb_492824823.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 33,
+      "waitlistCount": 0,
+      "totalCount": 33
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Edinburgh",
+      "urlname": "rladies-edinburgh"
+    }
+  },
+  {
+    "id": "268656659",
+    "title": "Understand word  embeddings using  tidy data principles with Julia Silge",
+    "description": "For our April meetup we're so very lucky to have Julia Silge join us! Julia is a data scientist and software engineer at RStudio where she works on open-source modeling tools. She is also the co-author of Tidy Text Mining with R (tidytextmining.com). Julia is keynoting at satRdays Newcastle on April 4, and passing through Edinburgh on her way there. We recommend checking out newcastle2020.satrdays.org for a great, nearby R event as well!\n\n**Understand word embeddings using tidy data principles**\n\nModern NLP frameworks often depend on word embeddings, a way of statistically modeling language where words or phrases are mapped to vectors of real numbers. In this talk, we’ll work to understand word embeddings by investigating how we can generate them using count-based statistics and dimensionality reduction, then learn how to make use of pre-trained embeddings based on enormous datasets. Finally, we’ll explore the ethical issues involved in using word embeddings and how they can amplify systemic and historical bias.\n\n--\n\nQ: Are men welcome to attend this event?\nA: Our primary mission is to encourage more women and non-binary individuals to get involved in the R community. ***As such, we strongly encourage that all men who attend this event have a female or non-binary sponsor. Please contact mine@rladies.org if you have questions.***\n\nAdditionally, please help us by spreading the word about R-Ladies, and by being respectful of the fact that this event is primarily for women/non-binary/female-identifying individuals.",
+    "status": "CANCELLED",
+    "dateTime": "2020-04-02T18:30:00+01:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-edinburgh/events/268656659/",
+    "featuredEventPhoto": {
+      "id": "488956100",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/e/e/4/highres_488956100.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/e/e/4/600_488956100.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/e/e/4/thumb_488956100.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 28,
+      "waitlistCount": 0,
+      "totalCount": 28
+    },
+    "venues": [
+      {
+        "id": "26093807",
+        "name": "The Bayes Centre, The University of Edinburgh",
+        "address": "47 Potterrow",
+        "city": "Edinburgh",
+        "state": "",
+        "country": "gb",
+        "lat": 55.9455,
+        "lon": -3.1869,
+        "postalCode": "EH8 9BT",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Edinburgh",
+      "urlname": "rladies-edinburgh"
+    }
+  },
+  {
+    "id": "268531085",
+    "title": "[ONLINE] Scalable Automatic Machine Learning in R with H2O with Erin LeDell",
+    "description": "**UPDATE** We are moving this event online, at the same time and day. We will send a Zoom link for the call day prior to the event. Hope you can join us online!\n\nDr. Erin LeDell is the Chief Machine Learning Scientist at H2O.ai, where she leads the development of an open-source, automatic machine learning (AutoML) platform. Before joining H2O.ai, she worked as a data scientist and software engineer and founded DataScientific, Inc. She’s also the founder of the non-profit Women in Machine Learning & Data Science (WiMLDS.org) organization and co-founder of the R-Ladies Global organization. She received her Ph.D. from UC Berkeley where her research focused on machine learning and statistical computing.\n\n**Scalable Automatic Machine Learning in R with H2O**\n\nThe focus of this presentation is scalable and automatic machine learning in R using the H2O machine learning platform. H2O is an open-source, distributed machine learning platform is designed to scale to very large datasets that may not fit into RAM on a single machine. We will provide a brief overview of the field of Automatic Machine Learning, followed by a detailed look inside H2O’s AutoML algorithm. H2O AutoML provides an easy-to-use interface that automates data pre-processing, training and tuning a large selection of candidate models (including multiple stacked ensemble models for superior model performance), and due to the distributed nature of the H2O platform, H2O AutoML can scale to very large datasets. The result of the AutoML run is a “leaderboard” of H2O models which can be easily exported for use in production. R code examples are available on GitHub for participants to follow along on their laptops.\n\n--\n\nQ: Are men welcome to attend this event?\nA: Our primary mission is to encourage more women and non-binary individuals to get involved in the R community. ***As such, we strongly encourage that all men who attend this event have a female or non-binary sponsor. Please contact mine@rladies.org if you have questions.***\n\nAdditionally, please help us by spreading the word about R-Ladies, and by being respectful of the fact that this event is primarily for women/non-binary/female-identifying individuals.",
+    "status": "PAST",
+    "dateTime": "2020-03-18T18:30:00Z",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-edinburgh/events/268531085/",
+    "featuredEventPhoto": {
+      "id": "488939293",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/e/7/9/d/highres_488939293.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/e/7/9/d/600_488939293.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/7/9/d/thumb_488939293.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 73,
+      "waitlistCount": 0,
+      "totalCount": 73
+    },
+    "venues": [
+      {
+        "id": "26093807",
+        "name": "The Bayes Centre, The University of Edinburgh",
+        "address": "47 Potterrow",
+        "city": "Edinburgh",
+        "state": "",
+        "country": "gb",
+        "lat": 55.9455,
+        "lon": -3.1869,
+        "postalCode": "EH8 9BT",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Edinburgh",
+      "urlname": "rladies-edinburgh"
+    }
+  },
+  {
+    "id": "268430176",
+    "title": "Scraping and Visualising Twitter Data with Anna Henschel",
+    "description": "In this short, hands-on workshop we are going to scrape and visualize our own Twitter data by understanding the basics of text wrangling and by taking advantage of the amazing {tidytext} and {rtweet} packages. By the end of the workshop, you will be able to see if you tweet mostly positive or negative content, and you will be able to plot the most frequent words in a wordcloud. Don't worry if you do not have your own Twitter account - there will be an alternative provided.\n\nAnna Henschel is a third year PhD candidate at the University of Glasgow, where she conducts research in the Social Brain in Action Lab on the ERC-funded Social Robots project. She has a B.Sc. in Psychology from Konstanz University and a M.Sc. cum laude from the Vrije Universiteit Amsterdam in Cognitive Neuropsychology. Her feminist activism and work as a STEM ambassador was recently honoured with the YWCA 30 Under 30 Inspirational Women Scotland award. She uses R in her PhD and also just for fun.\n\nYou can find her on Twitter (@AnnaHenschel) and check out the workshop Twitter account (@beautiful_hack).",
+    "status": "PAST",
+    "dateTime": "2020-02-19T17:00:00Z",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-edinburgh/events/268430176/",
+    "featuredEventPhoto": {
+      "id": "488716859",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/1/d/b/highres_488716859.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/1/d/b/600_488716859.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/1/d/b/thumb_488716859.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 19,
+      "waitlistCount": 0,
+      "totalCount": 19
+    },
+    "venues": [
+      {
+        "id": "26858543",
+        "name": "Room LG.08",
+        "address": "David Hume Tower",
+        "city": "Edinburgh",
+        "state": "al",
+        "country": "gb",
+        "lat": 55.9432,
+        "lon": -3.1864,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Edinburgh",
+      "urlname": "rladies-edinburgh"
+    }
+  },
+  {
+    "id": "267889678",
+    "title": "rstudio::conf 2020 Watch Party",
+    "description": "With the support of RStudio, we are delighted to co-host an rstudio::conf 2020 watch party with the Edinburgh R useR Group.\n\nThe watch party will start with a pre-game event starting on 29 Jan 2020 at 16:00. This live-streamed pre-game event will feature short interviews with folks from RStudio as well as the wider R-Community. During this event, the attendees at the watch parties will have an opportunity to interact with the host and guests in real-time. The pre-game event will lead directly into the keynote and session live-streams.\n\nDuring this meetup we'll watch the keynote from J.J. Allaire (RStudio) and Fernanda Viegas and Martin Wattenberg (Google Brain). Watch party attendees will be able to submit questions to the keynoters and we'll have some RStudio swag to give away!\n\nFeel free to join us for as long as you want. You don't need to be the whole three hours to attend.",
+    "status": "PAST",
+    "dateTime": "2020-01-29T16:00:00Z",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-edinburgh/events/267889678/",
+    "featuredEventPhoto": {
+      "id": "488137092",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/0/e/4/highres_488137092.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/0/e/4/600_488137092.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/0/e/4/thumb_488137092.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 19,
+      "waitlistCount": 0,
+      "totalCount": 19
+    },
+    "venues": [
+      {
+        "id": "26309557",
+        "name": "Appleton Tower, The University of Edinburgh",
+        "address": "11 Crichton Street",
+        "city": "Edinburgh",
+        "state": "",
+        "country": "gb",
+        "lat": 55.9444,
+        "lon": -3.187,
+        "postalCode": "EH8 9LE",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Edinburgh",
+      "urlname": "rladies-edinburgh"
+    }
+  },
+  {
+    "id": "277562307",
+    "title": "Zhoosh up your ggplots!",
+    "description": "In our May 2021 meetup we're joined by Athanasia Monika Mowinckel. Athanasia is a researcher at the Center for Lifespan Changes in Brain and Cognition, organiser for R-Ladies Oslo, and is a member of the R-Ladies Global team.\n\nZhoosh up your ggplots!\n\nIn this talk Athanasia will share with us her tips and tricks for enhancing (zhooshing up!) your data visualisations made with ggplot2.\n\nPassword for the Zoom session will be sent out on the day of the event.\n\n--\n\nR-Ladies is a worldwide organization whose mission is to promote gender diversity in the R community.\n\nA question we often get is \"Are men welcome to attend this event?\"\n\nAs a diversity initiative, the mission of R-Ladies is to achieve proportionate representation by encouraging, inspiring, and empowering people of genders currently underrepresented in the R community. R-Ladies’ primary focus, therefore, is on supporting minority gender R enthusiasts to achieve their programming potential, by building a collaborative global network of R leaders, mentors, learners, and developers to facilitate individual and collective progress worldwide.\n\n**As such, we strongly encourage cis-men who attend this event to come as guests of R-Ladies who are minority genders (including but not limited to cis/trans women, trans men, non-binary, genderqueer, agender).**\n\nAll attendees are strongly encouraged to review the R-Ladies Code of Conduct (https://rladies.org/code-of-conduct) and must abide by it.",
+    "status": "PAST",
+    "dateTime": "2021-05-12T17:30:00+01:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-edinburgh/events/277562307/",
+    "featuredEventPhoto": {
+      "id": "495706437",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/5/6/5/highres_495706437.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/5/6/5/600_495706437.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/5/6/5/thumb_495706437.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 101,
+      "waitlistCount": 0,
+      "totalCount": 101
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Edinburgh",
+      "urlname": "rladies-edinburgh"
+    }
+  },
+  {
+    "id": "277562271",
+    "title": "That's what Nicola said",
+    "description": "Our April meetup will be held jointly with EdinbR (https://www.meetup.com/EdinbR) and we will be joined by one of our organisers, Dr. Mine Çetinkaya-Rundel.\n\nThat’s what Nicola said:\nA tidy case study of Nicola Sturgeon’s COVID-19 briefings\n\nIf you've also spent the last year watching the COVID-19 briefings almost daily, you might have also been thinking \"I wonder what an analysis of this data would reveal\". In this talk, Mine will walk you through a case study of Nicola Sturgeon's COVID-19 briefings, involving web scraping, text analysis, and modeling using tools from the tidyverse, tidytext, and tidymodels.\n\nPassword for the Zoom session will be sent out on the day of the event.\n\n---\n\nR-Ladies is a worldwide organization whose mission is to promote gender diversity in the R community.\n\nA question we often get is \"Are men welcome to attend this event?\"\n\nAs a diversity initiative, the mission of R-Ladies is to achieve proportionate representation by encouraging, inspiring, and empowering people of genders currently underrepresented in the R community. R-Ladies’ primary focus, therefore, is on supporting minority gender R enthusiasts to achieve their programming potential, by building a collaborative global network of R leaders, mentors, learners, and developers to facilitate individual and collective progress worldwide.\n\n**As such, we strongly encourage cis-men who attend this event to come as guests of R-Ladies who are minority genders (including but not limited to cis/trans women, trans men, non-binary, genderqueer, agender).**\n\nAll attendees are strongly encouraged to review the R-Ladies Code of Conduct (https://rladies.org/code-of-conduct) and must abide by it.",
+    "status": "PAST",
+    "dateTime": "2021-04-21T17:30:00+01:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-edinburgh/events/277562271/",
+    "featuredEventPhoto": {
+      "id": "495706423",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/5/5/7/highres_495706423.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/5/5/7/600_495706423.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/5/5/7/thumb_495706423.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 78,
+      "waitlistCount": 0,
+      "totalCount": 78
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Edinburgh",
+      "urlname": "rladies-edinburgh"
+    }
+  },
+  {
+    "id": "275557939",
+    "title": "The ABC of ABC",
+    "description": "In our February 2021 meetup we're joined by Isabella Deutsch. Bella is a PhD student in Statistics at the University of Edinburgh.\n\nThe ABC of ABC: Workflows and Challenges of Approximate Bayesian Computation\n\nAfter a brief introduction to approximate Bayesian computation (ABC), we take a look at practical examples and discuss how to implement them. Special attention will be given to potential hurdles, illustrated through my current research on self-exciting point processes.\n\nPassword for the Zoom session will be sent out on the day of the event.\n\n--\n\nR-Ladies is a worldwide organization whose mission is to promote gender diversity in the R community.\n\nA question we often get is \"Are men welcome to attend this event?\"\n\nAs a diversity initiative, the mission of R-Ladies is to achieve proportionate representation by encouraging, inspiring, and empowering people of genders currently underrepresented in the R community. R-Ladies’ primary focus, therefore, is on supporting minority gender R enthusiasts to achieve their programming potential, by building a collaborative global network of R leaders, mentors, learners, and developers to facilitate individual and collective progress worldwide.\n\n**As such, we strongly encourage cis-men who attend this event to come as guests of R-Ladies who are minority genders (including but not limited to cis/trans women, trans men, non-binary, genderqueer, agender).**\n\nAll attendees are strongly encouraged to review the R-Ladies Code of Conduct (https://rladies.org/code-of-conduct) and must abide by it.",
+    "status": "PAST",
+    "dateTime": "2021-02-17T17:30:00Z",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-edinburgh/events/275557939/",
+    "featuredEventPhoto": {
+      "id": "494212587",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/d/6/b/highres_494212587.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/d/6/b/600_494212587.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/d/6/b/thumb_494212587.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 28,
+      "waitlistCount": 0,
+      "totalCount": 28
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Edinburgh",
+      "urlname": "rladies-edinburgh"
+    }
+  },
+  {
+    "id": "275374478",
+    "title": "Participation of women and non-binary students in the mathematical sciences",
+    "description": "In the second meetup of January 2021, we're joined by Mary Llewellyn. Mary is a PhD student in Statistics at the University of Edinburgh and the co-founder and co-lead of the Piscopia Initiative.\n\nTackling the participation crisis of women and non-binary students in the mathematical sciences\nThe Piscopia Initiative (http://www.piscopia.co.uk) was founded in 2019 to tackle the participation crisis in mathematics postgraduate research programmes. In this talk, we will share the experiences of women and non-binary students in mathematics, as well as our own, and our plans for the future to change the landscape of mathematics.\n\nPassword for the Zoom session will be sent out on the day of the event. Find out local time of your event at https://www.timeanddate.com/worldclock/fixedtime.html?msg=RLadies+Edinburgh+-+28+Jan+2021+Meetup&iso=20210128T1730&ah=1.\n\n---\n\nR-Ladies is a worldwide organization whose mission is to promote gender diversity in the R community.\n\nA question we often get is \"Are men welcome to attend this event?\"\n\nAs a diversity initiative, the mission of R-Ladies is to achieve proportionate representation by encouraging, inspiring, and empowering people of genders currently underrepresented in the R community. R-Ladies’ primary focus, therefore, is on supporting minority gender R enthusiasts to achieve their programming potential, by building a collaborative global network of R leaders, mentors, learners, and developers to facilitate individual and collective progress worldwide.\n\n**As such, we strongly encourage cis-men who attend this event to come as guests of R-Ladies who are minority genders (including but not limited to cis/trans women, trans men, non-binary, genderqueer, agender).**\n\nAll attendees are strongly encouraged to review the R-Ladies Code of Conduct (https://rladies.org/code-of-conduct) and must abide by it.",
+    "status": "PAST",
+    "dateTime": "2021-01-28T17:30:00Z",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-edinburgh/events/275374478/",
+    "featuredEventPhoto": {
+      "id": "494234560",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/8/e/0/highres_494234560.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/8/e/0/600_494234560.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/8/e/0/thumb_494234560.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 32,
+      "waitlistCount": 0,
+      "totalCount": 32
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Edinburgh",
+      "urlname": "rladies-edinburgh"
+    }
+  },
+  {
+    "id": "275374386",
+    "title": "Always look on the bright side of plots w/ Kara Woo & rstudio::global(2021)",
+    "description": "For this virtual meetup, we're collaborating with the folks at RStudio and hosting Kara Woo (Principal Bioinformatics Engineer at Sage Bionetworks). We'll start off with a brief introduction to rstudio::global(2021) and then watch Kara's rstudio::global talk \"Always look on the bright side of plots\" followed by a live Q&A with Kara! Zoom password will be sent out the day of the event.\n\nAlways look on the bright side of plots\nEveryone who creates visualizations in R is bound to make mistakes that prevent their plots from looking as they should. Sometimes, these mistakes create beautiful \"accidental aRt\", though other times they're just plain frustrating. Either way, however, there's something to be learned. This talk will draw on years of watching both the ggplot2 issue tracker and the @accidental__aRt Twitter account to highlight some common plot foibles and explain what they can teach us about how ggplot2 works.\n\nrstudio::global is a free, virtual event on all things R & RStudio.\nIt's hosted over 24-hours – giving people at different timezones a number of options to conveniently engage – with a number of talks and community-engagement events we hope you'll enjoy. It starts on January 21 at 4:00 PM GMT. Learn more about rstudio::global and register at https://global.rstudio.com.\n\n---\n\nR-Ladies is a worldwide organization whose mission is to promote gender diversity in the R community.\n\nA question we often get is \"Are men welcome to attend this event?\"\n\nAs a diversity initiative, the mission of R-Ladies is to achieve proportionate representation by encouraging, inspiring, and empowering people of genders currently underrepresented in the R community. R-Ladies’ primary focus, therefore, is on supporting minority gender R enthusiasts to achieve their programming potential, by building a collaborative global network of R leaders, mentors, learners, and developers to facilitate individual and collective progress worldwide.\n\n**As such, we strongly encourage cis-men who attend this event to come as guests of R-Ladies who are minority genders (including but not limited to cis/trans women, trans men, non-binary, genderqueer, agender).**\n\nAll attendees are strongly encouraged to review the R-Ladies Code of Conduct (https://rladies.org/code-of-conduct) and must abide by it.",
+    "status": "PAST",
+    "dateTime": "2021-01-14T17:30:00Z",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-edinburgh/events/275374386/",
+    "featuredEventPhoto": {
+      "id": "494082115",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/4/8/3/highres_494082115.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/4/8/3/600_494082115.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/4/8/3/thumb_494082115.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 128,
+      "waitlistCount": 0,
+      "totalCount": 128
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Edinburgh",
+      "urlname": "rladies-edinburgh"
+    }
+  },
+  {
+    "id": "297496342",
+    "title": "Introduction to reproducible reporting with Quarto",
+    "description": "**Join us for a fun workshop that will introduce you to Quarto - an exciting tool for creating reports and websites**\n\nQuarto is an open-source scientific and technical publishing system, developed by Posit (formerly RStudio). By combining narrative text, code, images, and tables, Quarto allows you to produce elegantly formatted output that is fully reproducible. Quarto is capable of embedding code written in R, Python, Julia, and Observable JS (for this talk we’ll focus on R). It supports dozens of static and dynamic output formats including HTML, PDF, MS Word, slides, dashboards, scientific articles and more.\nIn this talk, we’ll discuss what Quarto is and how it differs from R Markdown, demonstrate how to make simple documents, and showcase a few features of Quarto that make it incredibly useful. In this session, you will learn how to:\n\n* create documents in Quarto that combine R code with text, images, and plots.\n* make use of Quarto options to easily switch between output formats such as PDF, MS Word, and HTML\n* parameterise reports to quickly create multiple copies of a report\n\n\\*\\*Please bring a laptop so you can fully participate in the workshop.\\*\\*\n\nAfter the workshop, we will have ample time for networking and chat over some snacks and drinks (courtesy of the Software Sustainability Institute).\n\n*Nicola is a Lecturer in Health Data Science, based at Lancaster University.*",
+    "status": "PAST",
+    "dateTime": "2023-12-11T18:00:00Z",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-edinburgh/events/297496342/",
+    "featuredEventPhoto": {
+      "id": "517436805",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/d/e/5/highres_517436805.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/d/e/5/600_517436805.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/d/e/5/thumb_517436805.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 33,
+      "waitlistCount": 0,
+      "totalCount": 33
+    },
+    "venues": [
+      {
+        "id": "27705300",
+        "name": "Room 11.18, 40 George Square",
+        "address": "40 George Square, University of Edinburgh",
+        "city": "Edinburgh",
+        "state": "al",
+        "country": "gb",
+        "lat": 55.9435,
+        "lon": -3.1862,
+        "postalCode": "EH8 9JX",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Edinburgh",
+      "urlname": "rladies-edinburgh"
+    }
+  },
+  {
+    "id": "293585611",
+    "title": "Level up your plots, with Cara Thompson",
+    "description": "**Join us for a fun workshop that will help you take your plots to the next level**\n\nIf you've used ggplot2 a few times, but you're looking to spice up your graphs with more advanced features, then this workshop is for you. Here is what we're planning to do:\n\n* Explore how to be less dependent on annotations by using intuitive colour palettes\n* Illustrate ways in which we can use text colour and fonts to add text hierarchy\n* Add in story-enhancing annotations and data highlights to draw attention to the key data patterns\n* Package up bits of reusable R code\n* Introduce you to {ggtext}, {geomtextpath} and {gghighlight}\n\nYou'll make the most of the workshop if you come prepared with a plot that you have created before but aren't entirely happy with. During the workshop, you'll be given time to apply the learnings to your own plot(s).\n\n\\*\\*Please bring a laptop and the code for your less-than-perfect plot so you can fully participate in the workshop.\\*\\*\n\nAfter the workshop, we will have ample time for networking and chat over some snacks and drinks (courtesy of the Software Sustainability Institute).\n\n*Cara is a Data Visualisation Consultant based in Edinburgh, with a background in academia. She specialises in helping research groups and data-driven organisations communicate the insights from their work through clear and compelling visualisations. She's a regular contributor to the online #rstats community and has earned a solid reputation for making complex things easy to understand.*",
+    "status": "PAST",
+    "dateTime": "2023-05-30T18:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-edinburgh/events/293585611/",
+    "featuredEventPhoto": {
+      "id": "512954166",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/7/5/6/highres_512954166.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/7/5/6/600_512954166.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/7/5/6/thumb_512954166.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 15,
+      "waitlistCount": 0,
+      "totalCount": 15
+    },
+    "venues": [
+      {
+        "id": "27515191",
+        "name": "room g05, 50 George Square",
+        "address": "50 George Square",
+        "city": "Edinburgh",
+        "state": "",
+        "country": "gb",
+        "lat": 55.9438,
+        "lon": -3.187,
+        "postalCode": "EH8 9JU",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Edinburgh",
+      "urlname": "rladies-edinburgh"
+    }
+  },
+  {
+    "id": "292723772",
+    "title": "Cluster analysis in R with Cait Robinson",
+    "description": "This talk and workshop will introduce you to k-means cluster analysis using RStudio. K-means clustering groups similar items in the form of clusters. It is a useful approach for identifying patterns in a multi-dimensional dataset. During the session we will run through the fundamentals of the technique in an accessible way. We will also consider how best to visualise the outputs of our clustering. The session will focus on the example of energy inequalities in Greater London, but the technique has a wide range of application areas across different disciplines and sectors. After an introduction to the technique, you will have time to have a go of the clustering yourself. All of the code, and detailed walk throughs, will be provided.\n\n\\*\\*Please bring a laptop so you can fully participate in the workshop.\\*\\*\n\nAfter the workshop, we will have ample time for networking and chat over some snacks and drinks (courtesy of the Software Sustainability Institute).\n\n*Cait is a quantitative human geographer, her research investigates the causes and consequences of different types of spatial inequality, with a particular interest in energy, climate and urban inequalites. She uses spatial, quantitative datasets and methods to understand inequality across multiple scales.*\n*​*\n*In 2022 she joined the University of Bristol as an Academic Fellow and Proleptic Lecturer in the School of Geographical Sciences. She is currently a [UKRI Future Leaders Fellow](https://news.liverpool.ac.uk/2021/09/08/five-liverpool-researchers-awarded-future-leaders-fellowships/), working on a four year project mapping ambient vulnerabilities in cities.*",
+    "status": "PAST",
+    "dateTime": "2023-04-17T18:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-edinburgh/events/292723772/",
+    "featuredEventPhoto": {
+      "id": "511865519",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/5/8/f/highres_511865519.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/5/8/f/600_511865519.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/5/8/f/thumb_511865519.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 23,
+      "waitlistCount": 0,
+      "totalCount": 23
+    },
+    "venues": [
+      {
+        "id": "27515191",
+        "name": "room g05, 50 George Square",
+        "address": "50 George Square",
+        "city": "Edinburgh",
+        "state": "",
+        "country": "gb",
+        "lat": 55.9438,
+        "lon": -3.187,
+        "postalCode": "EH8 9JU",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Edinburgh",
+      "urlname": "rladies-edinburgh"
+    }
+  },
+  {
+    "id": "291655678",
+    "title": "Dealing with spatial data using R with Alessia Calafiore",
+    "description": "**R-Ladies Edinburgh are back with our first in-person event of 2023!**\n\nIn this hands-on workshop we are going to play with some spatial data to learn about basic spatial operations and map making with R. To do this, we will leverage three great R packages, {sf}, {ggplot2} and {leaflet}. By the end of the workshop, you will be able to load, manipulate and visualise spatial data with beautiful maps. This will be an introductory workshop and no previous knowledge of spatial analysis or mapping is required.\n\n\\*\\*Please bring a laptop so you can fully participate in the workshop.\\*\\*\n\nAfter the workshop, we will have ample time for networking and chat over some snacks and drinks (courtesy of the Software Sustainability Institute).\n\n*Alessia is a Lecturer in Sustainability and Urban Data Science at the Edinburgh Future Institute and the Edinburgh School of Architecture and Landscape Architecture of the University of Edinburgh. Prior to this, she was a postdoctoral research associate at the Geographic Data Science Lab of the University of Liverpool.*\n*Alessia's research sits at the intersection of Urban Planning, Geography and Computer Science and she interested in developing new spatially informed computational methods to better understand the mutual relationship between human behaviours and their urban contexts. Her current substantive focus concerns how we can equitability manage Net Zero transitions within cities.*",
+    "status": "PAST",
+    "dateTime": "2023-03-09T18:00:00Z",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-edinburgh/events/291655678/",
+    "featuredEventPhoto": {
+      "id": "510830404",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/4/e/4/highres_510830404.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/4/e/4/600_510830404.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/4/e/4/thumb_510830404.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 25,
+      "waitlistCount": 0,
+      "totalCount": 25
+    },
+    "venues": [
+      {
+        "id": "27515191",
+        "name": "room g05, 50 George Square",
+        "address": "50 George Square",
+        "city": "Edinburgh",
+        "state": "",
+        "country": "gb",
+        "lat": 55.9438,
+        "lon": -3.187,
+        "postalCode": "EH8 9JU",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Edinburgh",
+      "urlname": "rladies-edinburgh"
+    }
+  },
+  {
+    "id": "299649612",
+    "title": "Database-ics: an introduction to SQL for R users",
+    "description": "As R users, we often read in data directly from files, such as .csv files. However, developing an understanding of SQL gives us an edge when working with big data, as we can connect to databases directly from R, pulling in only the bits that we need for analysis and saving memory. SQL can also be used to efficiently perform simple data manipulation tasks like sorting, filtering, and aggregation on large datasets, which would take significant computational resources in R.\n\nIn this RLadies workshop we will run through some basic SQL queries that can be used to retrieve and filter tables from databases, and learn a little bit about how relational databases work. We will then look at how to write and run SQL queries directly from R, and some use cases for this.\n\nIn order to fully participate in this workshop, please make sure you have R and RStudio installed on your laptop, and make sure you have the package ‘DBI’ installed by running \\`install.packages(\"DBI\")\\` before the workshop. We will use this package to connect to a SQL database via R.\n\nAfter the workshop, we will have ample time for networking and chatting over some snacks and drinks (courtesy of the Software Sustainability Institute).\n\nChloe Brook is a Data Science Applications Consultant at EPCC, University of Edinburgh. Having studied Biochemistry at university, she is keen to enthuse others who haven’t come directly from computer science backgrounds about the joys of coding and data. She is also an online tutor alongside her day job, and enjoys encouraging people to believe in their ability to learn and grow!",
+    "status": "PAST",
+    "dateTime": "2024-03-19T18:00:00Z",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-edinburgh/events/299649612/",
+    "featuredEventPhoto": {
+      "id": "519587221",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/8/7/5/highres_519587221.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/8/7/5/600_519587221.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/8/7/5/thumb_519587221.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 18,
+      "waitlistCount": 0,
+      "totalCount": 18
+    },
+    "venues": [
+      {
+        "id": "27768364",
+        "name": "Room 2.07, Appleton Tower",
+        "address": "11 Crichton Street, Appleton Tower, University of Edinburgh",
+        "city": "Edinburgh",
+        "state": "al",
+        "country": "gb",
+        "lat": 55.9444,
+        "lon": -3.187,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Edinburgh",
+      "urlname": "rladies-edinburgh"
+    }
+  },
+  {
+    "id": "299051501",
+    "title": "Reports that write themselves: dynamic reporting with R Markdown",
+    "description": "Reporting your data and insights in writing, rather than just visually, is a common but often boring feature of data work. With R Markdown, you can create narrative reports that auto-update as you add new data, saving a lot of effort! During this workshop, you will be introduced to R Markdown with a focus on using it to create dynamically updating text reports. We will also dip our toes into conditional adjustments to the text using if-else loops.\n\nPlease bring a laptop with R and RStudio installed so that you can fully participate in the workshop. If you do not already have the package installed, you can install {rmarkdown} on your system by using install.packages(“rmarkdown”)in advance. The work will also use general {tidyverse} features, so having this package set installed is an advantage.\n\nAfter the workshop, we will have ample time for networking and chatting over some snacks and drinks (courtesy of the Software Sustainability Institute).\n\nDr Eva Murzyn works as a statistician for the Scottish Government, setting up Reproducible Analytical Pipelines and automation of routine health data reporting. Previously, she has taught research and statistics during her career as a lecturer at University of Glasgow and University of Edinburgh.",
+    "status": "PAST",
+    "dateTime": "2024-02-21T18:00:00Z",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-edinburgh/events/299051501/",
+    "featuredEventPhoto": {
+      "id": "518974094",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/5/2/e/highres_518974094.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/5/2/e/600_518974094.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/5/2/e/thumb_518974094.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 18,
+      "waitlistCount": 0,
+      "totalCount": 18
+    },
+    "venues": [
+      {
+        "id": "27515191",
+        "name": "room g05, 50 George Square",
+        "address": "50 George Square",
+        "city": "Edinburgh",
+        "state": "",
+        "country": "gb",
+        "lat": 55.9438,
+        "lon": -3.187,
+        "postalCode": "EH8 9JU",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Edinburgh",
+      "urlname": "rladies-edinburgh"
+    }
+  },
+  {
+    "id": "298373884",
+    "title": "Flipping Tables: Creating Tables with {gt} in R",
+    "description": "Data visualization is a fundamental tool in any data science tool kit. Graphs and plots are often synonymous with data visualization, though are not the only means of presenting or visualizing data. In this workshop we will be exploring the often-overlooked side of data visualization: tables. Join us at R Ladies Edinburgh to \\*flip the table\\* on data visualization and learn how to create stunning, customizable tables in R using the {gt} package. During the workshop, you will be introduced to {gt} and the philosophy behind the package, gain insights into what it can do as well as have the opportunity to experiment and create your own tables.\n\nPlease bring a laptop with R and RStudio installed so that you can fully participate in the workshop. If you do not already have the package installed, you can install {gt} on your system by using \\`install.packages(“gt”)\\` ahead of the workshop.\n\nAfter the workshop, we will have ample time for networking and chatting over some snacks and drinks (courtesy of the Software Sustainability Institute).\n\n*Dr Brittany Blankinship is a Lecturer in Data Science at the University of Edinburgh as part of the Data-Driven Innovation initiative in Health and Social Care at the Usher Institute. She is passionate about many things including tackling the stigma around learning/teaching statistics and coding (it can be fun!), data visualization and data storytelling, and most importantly R.*",
+    "status": "PAST",
+    "dateTime": "2024-01-17T18:00:00Z",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-edinburgh/events/298373884/",
+    "featuredEventPhoto": {
+      "id": "518327678",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/a/3/e/highres_518327678.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/a/3/e/600_518327678.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/a/3/e/thumb_518327678.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 26,
+      "waitlistCount": 0,
+      "totalCount": 26
+    },
+    "venues": [
+      {
+        "id": "27727676",
+        "name": "Screening Room (G04)",
+        "address": "50 George Square",
+        "city": "Edinburgh",
+        "state": "al",
+        "country": "gb",
+        "lat": 55.9438,
+        "lon": -3.187,
+        "postalCode": "EH8 9JU",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Edinburgh",
+      "urlname": "rladies-edinburgh"
+    }
+  }
+]

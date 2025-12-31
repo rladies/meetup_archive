@@ -1,0 +1,74 @@
+[
+  {
+    "id": "270006904",
+    "title": "[ONLINE] - Exploring the 'Highcharts' visual in R",
+    "description": "Highcharter is a R wrapper for Highcharts javascript library and its modules. Highcharts is very mature and flexible javascript charting library and it has a great and powerful API.\n\nThe Highcharter package in R with it’s navigable nature, graspable syntax and advanced D3JS visuals is a great addition to the R viz space, currently dominated by the Grammar of graphics ggplot2 package.\n\nIt can be used to create the a wide range of charts like bubble charts, column charts, tree maps, time series graphs etc using similar syntax and arguments.\n\nNot only does it support R objects but also employs the loved %>% 'pipe’ operator making it seem incredibly familiar to tidyverse users. This homely syntax combined with stunning visuals makes it go-to tool in R shiny apps and R markdown documents.\n\nThis will be a hands-on session and we will be creating basic visuals together in the workshop.\n\nAttendees must have the 'Highcharter' package installed on R-Studio to actively participate in the workshop!\nLook forward to e-meeting you all!",
+    "status": "PAST",
+    "dateTime": "2020-04-25T19:00:00+05:30",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-mumbai/events/270006904/",
+    "featuredEventPhoto": {
+      "id": "490100518",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/0/2/6/highres_490100518.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/0/2/6/600_490100518.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/0/2/6/thumb_490100518.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 16,
+      "waitlistCount": 0,
+      "totalCount": 16
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Mumbai",
+      "urlname": "rladies-mumbai"
+    }
+  },
+  {
+    "id": "276165307",
+    "title": "R Interface to Python via the reticulate package",
+    "description": "The reticulate package provides a comprehensive set of tools for interoperability between Python and R. The package includes facilities for:\n\n- Calling Python from R in a variety of ways including R Markdown, sourcing Python scripts, importing Python modules, and using Python interactively within an R session.\n\n- Translation between R and Python objects (for example, between R and Pandas data frames, or between R matrices and NumPy arrays).\n\n- Flexible binding to different versions of Python including virtual environments and Conda environments.\n\nMore at - https://rstudio.github.io/reticulate/\n\nThis workshop will be a hands on exploration of the package in R!",
+    "status": "PAST",
+    "dateTime": "2021-02-27T17:00:00+05:30",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-mumbai/events/276165307/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Mumbai",
+      "urlname": "rladies-mumbai"
+    }
+  }
+]

@@ -1,0 +1,332 @@
+[
+  {
+    "id": "245104057",
+    "title": "Building Shiny apps",
+    "description": "Shiny is an R package to build interactive web apps. Here a simple example of what you can do with Shiny: https://shiny.rstudio.com/gallery/tabsets.html\n\nRefer to RStudio's gallery for more examples.\n\nIn this Shiny workshop you will learn how to build a Shiny app. We will cover Shiny app architecture, reactivity and how to share your app.\n\nWhat do you need?\n\nBring your laptop with R, RStudio and Shiny package installed.\n\nWe look forward to see you !",
+    "status": "PAST",
+    "dateTime": "2017-12-07T19:00:00+01:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-brussels/events/245104057/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 15,
+      "waitlistCount": 0,
+      "totalCount": 15
+    },
+    "venues": [
+      {
+        "id": "25271576",
+        "name": "DigitYser",
+        "address": "Boulevard d'Anvers 40",
+        "city": "Brussels",
+        "state": "",
+        "country": "be",
+        "lat": 50.8573,
+        "lon": 4.35,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Brussels",
+      "urlname": "rladies-brussels"
+    }
+  },
+  {
+    "id": "244251534",
+    "title": "First meetup of R-Ladies Brussels: networking and social",
+    "description": "We are happy to announce the first meetup of R-Ladies Brussels. This social event has a main goal to start a networking between R-ladies and to discuss/organize upcoming meetup events. We will present R and R-Ladies. If you are a beginner this is a good opportunity to learn more about R programming language. For advanced user, this is a good opportunity to share your experience using R. We look forward to meet you!\n\nAgenda:\n\n• 6:30pm — Doors open\n\n• 7:00pm — Welcome to all R-Ladies Brussels: Presentation and Discussion about R and R-Ladies\n\n• 7:30pm — Hang around: snacks and a chance to chat\n\n• 8:30pm — End",
+    "status": "PAST",
+    "dateTime": "2017-11-09T18:30:00+01:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-brussels/events/244251534/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 13,
+      "waitlistCount": 0,
+      "totalCount": 13
+    },
+    "venues": [
+      {
+        "id": "25554694",
+        "name": "Elzenhof",
+        "address": "Avenue de la Couronne, 12 1050 Ixelles",
+        "city": "Brussels",
+        "state": "",
+        "country": "be",
+        "lat": 0,
+        "lon": 0,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Brussels",
+      "urlname": "rladies-brussels"
+    }
+  },
+  {
+    "id": "256720978",
+    "title": "r and data science social",
+    "description": "The new year is coming! It's time to wind down, reflect on the past 11 months, and think about the future.\n\nLet's get together for drinks at La Machine (place Saint-Géry 2, 1000 Bruxelles) and hear each other's aspirations and experiences in our data science trajectory.\n\nHope to see you there!",
+    "status": "PAST",
+    "dateTime": "2018-12-06T18:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-brussels/events/256720978/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [
+      {
+        "id": "26001879",
+        "name": "La Machine",
+        "address": "Place Saint-Géry 2, 1000 Bruxelles",
+        "city": "Brussels",
+        "state": "al",
+        "country": "be",
+        "lat": 50.8483,
+        "lon": 4.3474,
+        "postalCode": "meetup1",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Brussels",
+      "urlname": "rladies-brussels"
+    }
+  },
+  {
+    "id": "255122214",
+    "title": "R for beginners, part 2",
+    "description": "After an extended summer break, it's time to put your curiosity back to work! Let's get back to R.\n\nIn this R part 2 workshop, we will continue to work in Rstudio and use base R as the foundation. The goal is for you to learn how to work with your data.\n\nAgenda:\n- Useful functions in base R\n- Load data from outside of R\n- Some data manipulation\n- Making aggregated tables\n- Relevant learning resources\n- Questions/Discussion\n\nRequirements:\nNo special prerequisite - you should bring your laptop\n\nAdvice:\n- Review the exercises from the first beginner session\n- Do the homework before coming to the session\n\nDoors will open at 6.45PM\nWorkshop will start at 7PM",
+    "status": "PAST",
+    "dateTime": "2018-10-25T19:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-brussels/events/255122214/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 13,
+      "waitlistCount": 0,
+      "totalCount": 13
+    },
+    "venues": [
+      {
+        "id": "25271576",
+        "name": "DigitYser",
+        "address": "Boulevard d'Anvers 40",
+        "city": "Brussels",
+        "state": "",
+        "country": "be",
+        "lat": 50.8573,
+        "lon": 4.35,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Brussels",
+      "urlname": "rladies-brussels"
+    }
+  },
+  {
+    "id": "252981504",
+    "title": "API's and webscraping: Getting data from the web straight into R",
+    "description": "The web contains a lot of data that could be useful to add to our analysis: exchange, tweets, movie ratings, ... Sometimes it is accessible through API's, but in other cases you need to grab it from the actual pages.\n\nThe workshop will introduce getting data from APIs (in json and xml format), and scraping it from web pages in case no API is available. And because not everything should just be scraped, we'll also cover some scraping etiquette.",
+    "status": "PAST",
+    "dateTime": "2018-09-27T19:00:00+02:00",
+    "duration": "PT2H30M",
+    "eventUrl": "https://www.meetup.com/rladies-brussels/events/252981504/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 18,
+      "waitlistCount": 0,
+      "totalCount": 18
+    },
+    "venues": [
+      {
+        "id": "25271576",
+        "name": "DigitYser",
+        "address": "Boulevard d'Anvers 40",
+        "city": "Brussels",
+        "state": "",
+        "country": "be",
+        "lat": 50.8573,
+        "lon": 4.35,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Brussels",
+      "urlname": "rladies-brussels"
+    }
+  },
+  {
+    "id": "250962283",
+    "title": "R-Ladies Brussels workshop series: R for beginners/ R pour les débutants",
+    "description": "Would you like to learn R but have little or no experience with coding?\n\nIf the answer is yes, then join us. This workshop seeks to help absolute beginners to start using one of the most preferred languages of data science.\n\nWe are going to guide you through the installation and the setup of the software. We will also walk you through R programming basics. Our main goal is that you master the basics of R after attending the event.\n\nLanguage:\nThe workshop is going to be given in French and English\n\nAgenda:\n- Installation of R and Rstudio IDE\n- Short introduction of R and Rstudio\n- R programming basics\n- Relevant learning resources\n- Questions/Discussion\n\nRequirements:\nNo special prerequisite - you should bring your laptop\n\nDoors will open at 6.45PM\nTalks will start around 7PM\n_______________________________________________________________________________________\n\nVous aimeriez apprendre R mais vous avez peu ou pas d'expérience en programmation ?\n\nSi la réponse est oui, alors rejoignez-nous ! Cet atelier vise à initier les débutants à l'utilisation de R, un des langages de programmation les plus appréciés en \"data science\".\n\nNous allons vous guider dans l'installation et la configuration du logiciel. Nous allons également vous faire découvrier les bases de la programmation en R. Notre principal objectif est que vous maîtrisez les bases de R après avoir assisté à l'événement.\n\nLa langue:\nL'atelier sera donné en français et en anglais\n\nOrdre du jour:\n- Installation de R et Rstudio IDE\n- Introduction de R et Rstudio\n- Bases de programmation en R\n- Ressources d'apprentissage pertinentes\n- Questions / Discussion\n\nExigences:\nPas de pré-requis particulier - vous devrez apporter votre ordinateur\nportable.\n\nHoraire:\nLe workshop commencera vers 19:00 hrs\n\nInstructors/Instructeurs:\n- Huong Nguyen\n- Marlene Marchena",
+    "status": "PAST",
+    "dateTime": "2018-06-14T19:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-brussels/events/250962283/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 23,
+      "waitlistCount": 0,
+      "totalCount": 23
+    },
+    "venues": [
+      {
+        "id": "25271576",
+        "name": "DigitYser",
+        "address": "Boulevard d'Anvers 40",
+        "city": "Brussels",
+        "state": "",
+        "country": "be",
+        "lat": 50.8573,
+        "lon": 4.35,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Brussels",
+      "urlname": "rladies-brussels"
+    }
+  },
+  {
+    "id": "248918148",
+    "title": "Introduction to Roxygen2 and Lavaan packages ",
+    "description": "Writing R package documentation with Roxygen2\n\nOne of the most important aspect when developing an R package is writing the documentation. A good documentation will help people to use your package, yourself (to remember what you were thinking at that moment) and other developers interested in your work.\nR provides a standard way to write .Rd files into the man/ directory. In this talk we are going to present how Roxygen2 can help us to write Rd files directly from source file. We are going to discuss its particular syntax and the advantages over writing .Rd files by hand.\n\nby Marlene Marchena\n\nStructural Equation Modelling. When do you need it and what does Lavaan package offer?\n\nThis short talk aims to give you an overview of the applications of structural equation modelling (SEM) across different fields. We will start with talking about some examples so that you get a sense of what SEM is about, and where you can (or should) apply SEM models. We will very briefly touch upon issues such as latent variable modelling, measurement invariance, formative and reflective models and so on. I will come up with a selection, but we can improvise based on what the participants are most interested in. Then, I plan to quickly run a few examples with the Lavaan package in R.\n\nby Ahu Alanya\n\nDoors will open at 6:40 PM\n\nTalks will start around 7:00 PM",
+    "status": "PAST",
+    "dateTime": "2018-04-26T19:00:00+02:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-brussels/events/248918148/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 11,
+      "waitlistCount": 0,
+      "totalCount": 11
+    },
+    "venues": [
+      {
+        "id": "25271576",
+        "name": "DigitYser",
+        "address": "Boulevard d'Anvers 40",
+        "city": "Brussels",
+        "state": "",
+        "country": "be",
+        "lat": 50.8573,
+        "lon": 4.35,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Brussels",
+      "urlname": "rladies-brussels"
+    }
+  },
+  {
+    "id": "247590542",
+    "title": "R-Ladies Brussels Workshop Series: Data visualization with ggplot2 ",
+    "description": "This time is the turn of ggplot2\n\nOur second workshop is dedicated to ggplot2, a popular R package for data exploration and visualization. This package allows us to produce elegant and complex plots. Nevertheless mastering it can be challenging. In this tutorial, we will learn by means of examples how to make fancy graphics for data analysis. We are going to focus on an intermediate/advanced level but a briefly introduction of the package will be provided if required.\n\nInstructors: Eline Vanwalleghem and Huong Nguyen\n\n• What to bring ?\n\nYou should have R, Rstudio, ggplot2 and ggthemes installed\n\nDoors will open at 6:40 PM\nTalks will start around 7:00 PM",
+    "status": "PAST",
+    "dateTime": "2018-03-01T19:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-brussels/events/247590542/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 14,
+      "waitlistCount": 0,
+      "totalCount": 14
+    },
+    "venues": [
+      {
+        "id": "25271576",
+        "name": "DigitYser",
+        "address": "Boulevard d'Anvers 40",
+        "city": "Brussels",
+        "state": "",
+        "country": "be",
+        "lat": 50.8573,
+        "lon": 4.35,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Brussels",
+      "urlname": "rladies-brussels"
+    }
+  },
+  {
+    "id": "246298740",
+    "title": "R-Ladies: Data science in R - lightning talks",
+    "description": "We are lining up about 4-5 speakers to share a talk on the topic of data science. Some talks cover an interesting R package, others are case studies. All takes will be for about 15 minutes, with 5 minutes for questions afterwards.\n\nAgenda:\n\n• Frequently requested by the R-Ladies: an introduction to Magrittr/Dplyr's piping to simplify data cleanup and exploratory data analysis,\nby Suzan Baert.\n\n• Finding the structure in unstructured data. Tidytext to the rescue to gain more insights from your text data, by Lisa Truyers.\n\n• Machine Learning in R: an overview of the mlr package.\nHow to train and compare different models on your data in an amazingly easy way, by Eline Vanwalleghem.\n\n• Traffic collision and open data: can society leverage these data for the common good?\nA brief discussion of open road crash data from New York and Amsterdam,\nby Huong Nguyen.\n\n• R blogdown, making your own website is not that hard, by Paula Andrea.\n\nDoors will open at 6.45PM\nTalks will start around 7PM",
+    "status": "PAST",
+    "dateTime": "2018-01-25T19:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-brussels/events/246298740/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 14,
+      "waitlistCount": 0,
+      "totalCount": 14
+    },
+    "venues": [
+      {
+        "id": "25271576",
+        "name": "DigitYser",
+        "address": "Boulevard d'Anvers 40",
+        "city": "Brussels",
+        "state": "",
+        "country": "be",
+        "lat": 50.8573,
+        "lon": 4.35,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Brussels",
+      "urlname": "rladies-brussels"
+    }
+  },
+  {
+    "id": "259775872",
+    "title": "data caffeine",
+    "description": "Dear Rladies,\n\nSpring is here, and the Rladies of Brussels is delighted to host data science enthusiasts to a morning coffee of chats and data science news. It would be great to hear your journey, challenges, and triumphs.\n\nHope to see you soon!",
+    "status": "PAST",
+    "dateTime": "2019-03-30T10:30:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-brussels/events/259775872/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 6,
+      "waitlistCount": 0,
+      "totalCount": 6
+    },
+    "venues": [
+      {
+        "id": "26248545",
+        "name": "Ana Attento",
+        "address": "Rue Auguste Orts 9",
+        "city": "Bruxelles",
+        "state": "Pe",
+        "country": "be",
+        "lat": 50.8488,
+        "lon": 4.3488,
+        "postalCode": "1000",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Brussels",
+      "urlname": "rladies-brussels"
+    }
+  }
+]

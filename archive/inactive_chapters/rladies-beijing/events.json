@@ -1,0 +1,119 @@
+[
+  {
+    "id": "267202406",
+    "title": "Telling stories with data: make a data visualization in R  用数据讲故事：用R做数据可视化",
+    "description": "This will be the very first R-Ladies Beijing event!\nWe'll bring you a workshop on data visualization in R. It is open to beginning or intermediate R users. Please bring your laptop, and passion for R. :)\n\nThe workshop will mainly be given in English. There will be mandarin-speaking facilitators as well.\n\nAgenda:\n15:00-15:10 Opening & introduction to R-Ladies Beijing\n15:10-16:50 Workshop on data visualization in R given by Clara WANG\n16:50-17:00 Survey and feedback\n17:00- Networking\n\nDate & time: Saturday, Dec. 21, 2019; 15:00-17:00\nPlace: Innoplanet, Innoway, Innoplanet, Innoway - Fl. 6, No. 48 Haidian West Street, Beijing 北京海淀区苏州街中关村创业大街6号楼\n\nLook forward to seeing you.",
+    "status": "PAST",
+    "dateTime": "2019-12-21T15:00:00+08:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-beijing/events/267202406/",
+    "featuredEventPhoto": {
+      "id": "487414029",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/4/e/d/highres_487414029.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/4/e/d/600_487414029.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/4/e/d/thumb_487414029.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [
+      {
+        "id": "26774606",
+        "name": "InnoPlanet at Innoway",
+        "address": "Fl. 6, No. 48 Haidian West Street, Beijing",
+        "city": "Beijing",
+        "state": "al",
+        "country": "cn",
+        "lat": 39.9845,
+        "lon": 116.3066,
+        "postalCode": "meetup2",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Beijing",
+      "urlname": "rladies-beijing"
+    }
+  },
+  {
+    "id": "271592157",
+    "title": "Supervised Machine Learning: Classification and Regression in R",
+    "description": "Hannah将使用两个数据集，一组肿瘤中的乳腺癌检测和另一组孕妇的糖尿病诊断，来解释如何使用四种类型的机器学习模型：K-近邻算法，逻辑回归，决策树和随机森林。\nUsing two datasets, one for breast cancer detection in tumors and another for diabetes diagnosis in pregnant women, Hannah will explain how to use four types of machine learning models: K-Nearest Neighbors, Logistic Regression, Decision Trees and Random Forests.\n\n这些模型的多功能性和灵活性使其成为功能强大的预测工具，可以简单适应您的专业或学术环境。而我们遇到的许多问题都可以描述为分类任务，本教程将帮助您利用机器学习的力量来理解您的数据并洞悉手头的任务。\nThe versatility, flexibility and surprising simplicity of these approaches make powerful predictive tools which you can adapt to your own professional or academic environment. Many problems can be described as classification tasks where an outcome either happens or it doesn’t. This tutorial will help you harness the power of machine learning to understand your data and get insight on the task at hand.\n\n本教程将包含监督式机器学习及其方法的描述性概述，以及将这些技术付诸实践的动手编程示例。\nThe tutorial will contain a descriptive overview of supervised machine learning and its methods, alongside hands-on coding examples for putting these techniques into practice.\n\n该活动面向所有级别的R用户。初学者将对监督式学习的工作原理有一个入门性的了解，而更高级的编码人员将受益于全面的实用数据分析工具包。\nAny level experience of R is welcome. Complete beginners will gain an introductory understanding to how supervised machine learning works and more advanced coders will benefit from a comprehensive practical toolkit for data analytics.\n\n无论您是机器学习领域的新手，还是想提高自己的知识水平，都不要错过这次机会！\nWhether you’re new to the machine learning field or looking to advance your knowledge, this is your moment!\n\n请扫码或者用以下的链接来报名参加活动！\nPlease scan the QR code or use the link below to sign up for the event!\nhttp://www.huodongxing.com/event/2551228350722",
+    "status": "PAST",
+    "dateTime": "2020-07-09T19:30:00+08:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-beijing/events/271592157/",
+    "featuredEventPhoto": {
+      "id": "491071794",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/c/3/2/highres_491071794.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/c/3/2/600_491071794.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/c/3/2/thumb_491071794.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Beijing",
+      "urlname": "rladies-beijing"
+    }
+  },
+  {
+    "id": "270404916",
+    "title": "Mapping connections: Network analysis and visualization in R 如何利用R进行网络分析和可视化",
+    "description": "这次活动由Ladies Who Tech和R-Ladies北京携手向编程妈妈们致敬！\nR-Ladies x Ladies Who Tech Celebrating Moms Who Code!\n\nCelebrating Moms Who Code\n\n什么是网络分析？\n网络分析用于描述不同人物之间的关系，网络能表达我们的日常生活的各种情况，例如微博上朋友之间的关系、飞机穿梭城市之间的飞航路线、线上约会上的短信互动等等。学者能利用网络分析可视化研究数据，而专业人士能使用网络分析了解公司里的商业流程和互动。\n\nWhat is network analysis and why is it important?\nNetwork analysis is a technique used to depict relationships between actors. Networks can represent much of our daily lives, like relationships of friends on Weibo, airplane flights between global cities, or messages exchanged across online dating profiles. Network analysis can be used by academics to visualize research data, or by professionals to better understand the flows and interactions in their firm.\n\n关于分享者：\n柯玫瑰（Hannah Rose Kirk）是北京大学的研究生和燕京学者。她于2018年毕业于劍橋大學三一學院，获得经济学学士学位。在中国， Hannah在Berggruen Institute担任研究员，致力于解决21世纪的“人类转型”问题。Hannah的研究集中在计算社会科学上，将机器学习技术应用于经验数据，还通过她在数字治理，岩土工程技术稳定性和中国的AI战略方面的工作，对这些技术进行治理。Hannah将于9月在牛津大学开始其数据科学博士学位。\n\nWho is the speaker?\nHannah Rose Kirk is a graduate student and Yenching Scholar at Peking University. She graduated from Trinity College, University of Cambridge in 2018 with a double first in Economics (B.A). In China, Hannah worked as a researcher at The Berggruen Institute China Center working on their “Transformation of the Human” as a 21st century problem. Hannah’s research concentrates on computational social science, in the application of machine learning techniques to empirical data, but also in the governance of these technologies through her work on digital governance, geo-technical stability, and China’s AI strategy. Hannah will be starting a PhD in Data Science at the University of Oxford in September.\n\n时间 Time: 2020-05-10\n周日 Sunday 14:30 - 16:30\n地点 Location: Zoom\n语言 Language：English\n\n免费 Free\n\n这个活动面向R的初学和中级以上用户，欢迎各个性别的小伙伴参与！\nThis event is geared towards beginners or intermediate R users and is welcome to all genders!\n\n请扫描二维码注册：\nScan the QR code to register:\nhttps://startupgrind.zoom.us/meeting/register/tZ0lcOmprjsiH9OcOaKWFTCTDzEWOLnqLq7U",
+    "status": "PAST",
+    "dateTime": "2020-05-10T14:30:00+08:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-beijing/events/270404916/",
+    "featuredEventPhoto": {
+      "id": "490310978",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/7/2/2/highres_490310978.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/7/2/2/600_490310978.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/7/2/2/thumb_490310978.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Beijing",
+      "urlname": "rladies-beijing"
+    }
+  }
+]

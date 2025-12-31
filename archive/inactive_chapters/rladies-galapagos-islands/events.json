@@ -1,0 +1,1242 @@
+[
+  {
+    "id": "273534163",
+    "title": "Manipulación y visualización de datos con dplyr",
+    "description": "Evento conjunto de R-Ladies Barranquilla y R-Ladies Galápagos.\n\nEn este taller manipularemos y realizaremos visualizaciones con ayuda del paquete dplyr de R. Para esta sesión es necesario que tengas a la mano tu computador y tener instalado R, RStudio y el paquete dplyr y ggplot (alternativamente pueden instalar tidyverse).\n\nPara instalar el R en tu computador te invitamos a ingresar en el siguiente link: https://cran.rstudio.com/ . El taller se realizará por la plataforma virtual Zoom.\n\nNuestros talleres están abiertos a todos los miembros de la comunidad Galapagueña y al público en general, pero incentivamos en especial a mujeres, niñas y personas pertenecientes a minorías que formen parte de nuestros eventos.\n\nEste evento será llevado a cabo en línea a través de la plataforma Zoom. Compartiremos el vínculo de acceso una hora antes del evento. Les pedimos no compartirlo en línea para mantener el evento seguro.\n\nPara asegurar que nuestros eventos tengan un ambiente seguro en el que todos los participantes se sientan cómodos en participar, te pedimos que leas y te adhieras a nuestro código de conducta (https://github.com/rladies/starter-kit/wiki/Code-of-Conduct), así como nuestras guías de comunidad (https://github.com/rladies/starter-kit/blob/master/RLadiesRulesAndGuideLinesENES.md). Adicionalmente, LatinR también tiene un código de conducta, el cual puedes acceder aquí: https://latin-r.com/cdc/ .\n\n¡Te invitamos a participar, no te pierdas de esta gran oportunidad!",
+    "status": "PAST",
+    "dateTime": "2020-10-10T09:30:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-galapagos-islands/events/273534163/",
+    "featuredEventPhoto": {
+      "id": "492555153",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/b/3/1/highres_492555153.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/b/3/1/600_492555153.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/b/3/1/thumb_492555153.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 50,
+      "waitlistCount": 0,
+      "totalCount": 50
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Galapagos Islands",
+      "urlname": "rladies-galapagos-islands"
+    }
+  },
+  {
+    "id": "273493704",
+    "title": "Expresiones regulares para la limpieza y transformación de datos - Evento LatinR",
+    "description": "Saludos desde Galápagos,\n\nLos capitulos R-Ladies Ciudad de México (México), Talca (Chile) y Galápagos (Ecuador) nos unimos como anfitrionas del taller de “Expresiones regulares para la limpieza y transformación de datos”, el cual es parte de la conferencia LatinR 2020. El taller será dictado por nuestras compañeras Riva Quiroga (R-Ladies Valparaíso y Santiago) y Stephanie Orellana (R-Ladies Santiago).\n\n¿De qué se trata este taller?\nEste taller tiene como objetivo que sus participantes se familiaricen con el uso de expresiones regulares (conocidas también como \"regex\"). Específicamente, abordaremos el potencial que tienen como parte del proceso de limpieza y transformación de datos usando paquetes del Tidyverse.\n\nLos ejemplos prácticos se enfocarán en el trabajo con dataframes y archivos de texto, y en cómo utilizar expresiones regulares en conjunto con funciones de los paquetes {stringr}, {dplyr} y {tidyr}.\n\n¿Qué vas a necesitar para este taller?\nPara este taller es necesario tener una versión de R igual o superior a 3.6 y tener instalados RStudio y los paquetes {tidyverse}, {janitor} y la versión en desarrollo de {datos}. Esta última se puede instalar desde GitHub con: remotes::install_github(\"cienciadedatos/datos\").\n\nNuestros talleres están abiertos a todos los miembros de la comunidad Galapagueña y al público en general, pero incentivamos en especial a mujeres, niñas y personas pertenecientes a minorías que formen parte de nuestros eventos.\n\nEste evento será llevado a cabo en línea a través de la plataforma Zoom. Compartiremos el vínculo de acceso una hora antes del evento. Les pedimos no compartirlo en línea para mantener el evento seguro.\n\nPara asegurar que nuestros eventos tengan un ambiente seguro en el que todos los participantes se sientan cómodos en participar, te pedimos que leas y te adhieras a nuestro código de conducta (https://github.com/rladies/starter-kit/wiki/Code-of-Conduct), así como nuestras guías de comunidad (https://github.com/rladies/starter-kit/blob/master/RLadiesRulesAndGuideLinesENES.md). Adicionalmente, LatinR también tiene un código de conducta, el cual puedes acceder aquí: https://latin-r.com/cdc/ .",
+    "status": "PAST",
+    "dateTime": "2020-09-28T07:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-galapagos-islands/events/273493704/",
+    "featuredEventPhoto": {
+      "id": "492515247",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/9/a/f/highres_492515247.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/9/a/f/600_492515247.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/9/a/f/thumb_492515247.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 60,
+      "waitlistCount": 0,
+      "totalCount": 60
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Galapagos Islands",
+      "urlname": "rladies-galapagos-islands"
+    }
+  },
+  {
+    "id": "272455991",
+    "title": "Aprende a programar en R: Parte 4 - Estructuras de control y funciones",
+    "description": "Siguiendo con nuestra serie de webinars sobre programación básica en R, los invitamos a unirse a este evento que cubrirá estructuras de control: for y while. También continuaremos con la construcción de funciones.\n\nIgual que nuestros eventos anteriores, utilizaremos recursos libres y plataformas de colaboración en línea gratuitas para que puedas seguir nuestra sesión en vivo.\n\nNos basaremos en el libro 'El arte de programar en R' por Santana y Farfán disponible de manera gratuita aquí: https://cran.r-project.org/doc/contrib/Santana_El_arte_de_programar_en_R.pdf . Estaremos cubirnedo los capítulos 4 y 5. Otra referencia relevante es el capítulo 9 de 'R para principantes' de Juan Mendoza Vega, disponible de manera gratuita aquí: https://bookdown.org/jboscomendoza/r-principiantes4/ .\n\nNuestros talleres están abiertos a todos los miembros de la comunidad Galapagueña y al público en general, pero incentivamos en especial a mujeres, niñas y personas pertenecientes a minorías que formen parte de nuestros eventos.\n\nDebido a que el COVID-19 continúa siendo una preocupación en Ecuador, este evento será llevado a cabo en línea a través de la plataforma Google Meet. Compartiremos el vínculo de acceso una hora antes del evento. Les pedimos no compartirlo en línea por cuestiones de seguridad.\n\nPara mantener nuestros eventos como un ambiente seguro en el que todos los participantes puedan participar, te pedimos que leas y te adhieras a nuestro código de conducta (https://github.com/rladies/starter-kit/wiki/Code-of-Conduct), así como nuestras guías de comunidad (https://github.com/rladies/starter-kit/blob/master/RLadiesRulesAndGuideLinesENES.md).",
+    "status": "PAST",
+    "dateTime": "2020-08-15T09:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-galapagos-islands/events/272455991/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 28,
+      "waitlistCount": 0,
+      "totalCount": 28
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Galapagos Islands",
+      "urlname": "rladies-galapagos-islands"
+    }
+  },
+  {
+    "id": "272358299",
+    "title": "Aprende a programar en R: Parte 3 - Subconjuntos de datos y funciones",
+    "description": "Siguiendo con nuestra serie de webinar sobre programación básica en R, los invitamos a unirse a este evento que cubrirá como seleccionar subconjuntos de datos basados en condiciones que nosotros especifiquemos. También continuaremos con la construcción de funciones.\n\nIgual que nuestros eventos anteriores, utilizaremos recursos libres y plataformas de colaboración en línea gratuitas para que puedas seguir nuestra sesión en vivo.\n\nNos basaremos en el libro 'El arte de programar en R' por Santana y Farfán disponible de manera gratuita aquí: https://cran.r-project.org/doc/contrib/Santana_El_arte_de_programar_en_R.pdf . Estaremos cubirnedo los capítulos 3, 4 y 5. Otra referencia relevante es 'R para principantes' de Juan Mendoza Vega, disponible de manera gratuita aquí: https://bookdown.org/jboscomendoza/r-principiantes4/ .\n\nNuestros talleres están abiertos a todos los miembros de la comunidad Galapagueña y al público en general, pero incentivamos en especial a mujeres, niñas y personas pertenecientes a minorías que formen parte de nuestros eventos.\n\nDebido a que el COVID-19 continúa siendo una preocupación en Ecuador, este evento será llevado a cabo en línea a través de la plataforma Zoom. Compartiremos el vínculo de acceso una hora antes del evento. Les pedimos no compartirlo en línea por cuestiones de seguridad.\n\nPara mantener nuestros eventos como un ambiente seguro en el que todos los participantes puedan participar, te pedimos que leas y te adhieras a nuestro código de conducta (https://github.com/rladies/starter-kit/wiki/Code-of-Conduct), así como nuestras guías de comunidad (https://github.com/rladies/starter-kit/blob/master/RLadiesRulesAndGuideLinesENES.md).",
+    "status": "PAST",
+    "dateTime": "2020-08-08T09:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-galapagos-islands/events/272358299/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 26,
+      "waitlistCount": 0,
+      "totalCount": 26
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Galapagos Islands",
+      "urlname": "rladies-galapagos-islands"
+    }
+  },
+  {
+    "id": "272240650",
+    "title": "Machine learning con mlr3 - Tutorial en línea de useR!2020",
+    "description": "Las R-Ladies Ecuador te traemos el tutorial 'Machine learning con mlr3' que dictarán Bernd Bischl y Michel Lang, el cual es parte de useR! 2020.\n\nEn este tutorial con duración de tres horas, aprenderás sobre el paquete mlr3 de R para llevar a cabo procesos de aprendizaje automático (machine learning, ML) avanzados. El ecosistema mlr3 provee una solución completa para todas tus necesidades de ML, incluyendo pre-procesamiento de datos, diseño y evaluación de modelos de aprendizaje automático, conjuntos de modelos (ensembles), visualizaciones, y ajuste de hiperparámetros (a través de mlr3tuning). El proceso (pipeline) mlr3pipelines permite expresar flujos de trabajo complejos de manera sencilla, y probar nuevas ideas y aplicaciones. mlr3 puede ayudar a hacer tu flujo de trabajo más fácil de leer y más eficiente sin importar el tipo de problema o aplicación que quieras resolver con ML.\n\nEste tutorial está dirigido a usuarios con un conocimiento de conceptos básicos de aprendizaje automático (machine learning), pero no necesariamente debes tener conocimiento previo del paquete mlr3. Los participantes también deberán tener al menos un conocimiento intermedio de R y conocer los tipos de datos generales utilizados por R, así como habilidad para llevar a cabo operaciones básicas. Es preferible que tengan experiencia con R6 y data.table, pero no es esencial.\n\nPuedes acceder al material del curso a través del repositorio de GitHub: https://github.com/mlr-org/user2020 . Puedes descargar los material con antelación para que puedas seguir el curso en vivo, o para practicar los ejercicios en cualquier otro momento. El tutorial será en inglés, pero tendremos subtítulos disponibles en español para que nos puedas seguir con facilidad.\n\nRecuerda que al participar en nuestros eventos deberás aceptar el código de conducta de R-Ladies ( https://github.com/rladies/starter-kit/wiki/Code-of-Conduct ), así como el de useR! 2020 ( https://user2020.r-project.org/codeofconduct/ ).\n\nNuestros eventos están abiertos a todos los miembros de la comunidad de R, pero incentivamos particularmente a mujeres y miembros de grupos minoritarios a registrarse con nosotras.\n\n**English**\nR-Ladies Ecuador is bringing you the online tutorial: 'Machine learning con mlr3' taught by Bernd Bischl and Michel Lang, which is part of useR! 2020.\n\nIn this three hour tutorial you will be introduced to the mlr3 R package for modern, state-of-the-art machine learning (ML). The mlr3 ecosystem provides a one-stop solution for all ML needs, spanning preprocessing, model learning and evaluation, ensembles, visualization, and hyperparameter tuning (via mlr3tuning). Its pipeline system mlr3pipelines allows to easily express complex workflows, and to quickly prototype new ideas and applications. Whether you are applying ML to solve a practical prediction problem, implementing learning algorithms as a research software engineer or researching ML by empirical means, mlr3 can help make your workflow more readable and efficient.\n\nWe target to users with at least basic knowledge of ML concepts who are not yet familiar with mlr3. We require a working knowledge of R at medium level. One should know R's general type system and basic operations. Some experience with R6 and data.table definitely help, but is not essential.\n\nYou can access all course material through GitHub: https://github.com/mlr-org/user2020 . You can dowload all the material prior to the course so you can follow the instructions live, or you can also use the materials to practice exercises on your own time. The tutorial will be taught in English, but subtitles will be available.\n\nWhen you participate in our events, remember that you are accepting the R-Ladies code of conduct ( https://github.com/rladies/starter-kit/wiki/Code-of-Conduct ) as well as that from useR! 2020 ( https://user2020.r-project.org/codeofconduct/ ).\n\nEveryone is welcome, but we encourage women and people from minority groups to join our events.",
+    "status": "PAST",
+    "dateTime": "2020-08-07T09:00:00-06:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-galapagos-islands/events/272240650/",
+    "featuredEventPhoto": {
+      "id": "491576791",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/d/d/7/highres_491576791.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/d/d/7/600_491576791.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/d/d/7/thumb_491576791.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 58,
+      "waitlistCount": 9,
+      "totalCount": 58
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Galapagos Islands",
+      "urlname": "rladies-galapagos-islands"
+    }
+  },
+  {
+    "id": "272149283",
+    "title": "Aprende a programar en R: Parte 2 - Tipos de objetos y funciones",
+    "description": "Siguiendo con nuestra serie de webinar sobre programación básica en R, los invitamos a unirse a este evento que cubrirá los diferentes tipos de objetos (variables) utilizados en R, así como una pequeña introducción a qué son las funciones y cómo construirlas.\n\nIgual que en nuestro evento anterior, seguiremos utilizando recursos libres y plataformas de colaboración en línea gratuitas para que puedas seguir nuestra sesión en vivo.\n\nNos basaremos en el libro 'El arte de programar en R' por Santana y Farfán disponible de manera gratuita aquí: https://cran.r-project.org/doc/contrib/Santana_El_arte_de_programar_en_R.pdf . En esta primera sesión nos enfocaremos en los capítulos 2 y 3 que hablan de los distintos tipos de objetos, así como una introducción a las funciones en R. Otra referencia relevante es 'R para principantes' de Juan Mendoza Vega, disponible de manera gratuita aquí: https://bookdown.org/jboscomendoza/r-principiantes4/ .\n\nNuestros talleres están abiertos a todos los miembros de la comunidad Galapagueña y al público en general, pero incentivamos en especial a mujeres, niñas y personas pertenecientes a minorías que formen parte de nuestros eventos.\n\nDebido a que el COVID-19 continúa siendo una preocupación en Ecuador, este evento será llevado a cabo en línea a través de la plataforma Zoom. Compartiremos el vínculo de acceso una hora antes del evento. Les pedimos no compartirlo en línea por cuestiones de seguridad.\n\nPara mantener nuestros eventos como un ambiente seguro en el que todos los participantes puedan participar, te pedimos que leas y te adhieras a nuestro código de conducta (https://github.com/rladies/starter-kit/wiki/Code-of-Conduct), así como nuestras guías de comunidad (https://github.com/rladies/starter-kit/blob/master/RLadiesRulesAndGuideLinesENES.md).",
+    "status": "PAST",
+    "dateTime": "2020-08-01T09:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-galapagos-islands/events/272149283/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 21,
+      "waitlistCount": 0,
+      "totalCount": 21
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Galapagos Islands",
+      "urlname": "rladies-galapagos-islands"
+    }
+  },
+  {
+    "id": "271942264",
+    "title": "Aprende a programar en R: Parte 1 - Tipos de datos",
+    "description": "Si tienes interés en aprender a programar en R, pero no sabes por donde empezar, únete a este evento y aprende con nosotras. Te enseñaremos a programar desde lo básico utilizando recursos libres y plataformas de colaboración en línea gratuitas para que puedas seguir nuestra sesión en vivo.\n\nNos basaremos en el libro 'El arte de programar en R' por Santana y Farfán disponible de manera gratuita aquí: https://cran.r-project.org/doc/contrib/Santana_El_arte_de_programar_en_R.pdf . En esta primera sesión nos enfocaremos en los capítulos 1 y 2 que hablan de los distintos tipos de datos que encontraremos cuando programamos.\n\nNuestros talleres están abiertos a todos los miembros de la comunidad Galapagueña y al público en general, pero incentivamos en especial a mujeres, niñas y personas pertenecientes a minorías que formen parte de nuestros eventos.\n\nDebido a que el COVID continúa siendo una preocupación en Ecuador, este evento será llevado a cabo en línea a través de la plataforma Zoom. Compartiremos el vínculo de acceso una hora antes del evento. Les pedimos no compartirlo en línea por cuestiones de seguridad.\n\nPara mantener nuestros eventos como un ambiente seguro en el que todos los participantes puedan participar, te pedimos que leas y te adhieras a nuestro código de conducta (https://github.com/rladies/starter-kit/wiki/Code-of-Conduct), así como nuestras guías de comunidad (https://github.com/rladies/starter-kit/blob/master/RLadiesRulesAndGuideLinesENES.md).",
+    "status": "PAST",
+    "dateTime": "2020-07-25T09:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-galapagos-islands/events/271942264/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 31,
+      "waitlistCount": 0,
+      "totalCount": 31
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Galapagos Islands",
+      "urlname": "rladies-galapagos-islands"
+    }
+  },
+  {
+    "id": "271552485",
+    "title": "Cómo hacer una reunión virtual inolvidable (sin morir en el intento)",
+    "description": "Evento de R-Ladies Global\n\nAunque no es posible reunirnos en persona, la magia de R-Ladies no se detiene y hace posible los encuentros virtuales. En este meetup te contaremos algunos trucos y herramientas para que cualquier evento virtual interactivo (por ejemplo, clase, taller o panel online) sea un éxito sin estrés adicional al hacerlo. Si organizas meetups de R-Ladies, encontrarás dónde y cómo acceder a la infraestructura que te permitirá organizar meetups online para tu capítulo. Si no organizas meetups de R-Ladies, también encontrarás material útil para todo tipo de evento online que organices o del que participes.\n\nEstos contenidos nos los traen R-Ladies latinoamericanas, en su mayoría certificadas para enseñar por RStudio Education y The Carpentries. La mayoría también es parte de MetaDocencia, una organización que desde fines de marzo realizó más de 25 talleres interactivos enseñando a enseñar online a más de 300 docentes hispanohablantes con excelentes resultados. Todas tienen vasta experiencia teletrabajando y enseñando online.\n\nOradoras: Yanina Bellini Saibene y Paola Corrales.\n\nOrganizan: Laura Ación, Yanina Bellini Saibene, Paola Corrales, Patricia Loto y Paloma Rojas\n\nPara tener un evento seguro, el link de acceso al evento lo recibirán quienes confirmen su asistencia via RSVP de meetup.com el día del evento.\n\nEl evento será el 1 de julio a las 11:00 hora Galápagos. Si te encuentras en otra ciudad, igualmente te invitamos a unirte a este evento y puedes revisar la hora local en la que ocurrirá aquí: https://www.timeanddate.com/worldclock/converter.html?iso=20200612T160000&p1=3917",
+    "status": "PAST",
+    "dateTime": "2020-07-01T11:00:00-06:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-galapagos-islands/events/271552485/",
+    "featuredEventPhoto": {
+      "id": "491032346",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/c/7/a/highres_491032346.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/c/7/a/600_491032346.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/c/7/a/thumb_491032346.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 10,
+      "waitlistCount": 0,
+      "totalCount": 10
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Galapagos Islands",
+      "urlname": "rladies-galapagos-islands"
+    }
+  },
+  {
+    "id": "271367880",
+    "title": "Tomáte un café con nosotras y conoce a las R-Ladies de Ecuador",
+    "description": "Las R-Ladies de Ecuador: Quito, Guayaquil y Galápagos, unen fuerzas durante la pandemia para organizar una serie de webinars sobre programación en R. Todo mientras disfrutamos de una tacita de nuestro café o té favorito.\nEmpezaremos esta serie con una presentación sobre las R-Ladies en Ecuador. Compartiremos nuestras motivaciones para iniciar un capítulo de R-Ladies, así como los retos y éxitos logrados. También daremos oportunidades a los participantes de compartir sus experiencias y expectativas con R.\nÚnete a nuestro evento, no importa tu nivel de experiencia o conocimiento con R.\nIncentivamos especialmente a mujeres y personas de grupos minoritarios a que se unan a nuestros eventos.",
+    "status": "PAST",
+    "dateTime": "2020-06-30T18:00:00-06:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-galapagos-islands/events/271367880/",
+    "featuredEventPhoto": {
+      "id": "490981278",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/f/e/highres_490981278.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/f/e/600_490981278.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/f/e/thumb_490981278.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 27,
+      "waitlistCount": 0,
+      "totalCount": 27
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Galapagos Islands",
+      "urlname": "rladies-galapagos-islands"
+    }
+  },
+  {
+    "id": "269331715",
+    "title": "R Ladies Galápagos! Manipulación de datos utilizando R - Parte 2",
+    "description": "¡Hola a todos!\n\nDebido al interés de la comunidad R en Puerto Ayora, tenemos un segundo taller cubriendo más técnicas de manipulación y visualización de datos en R.\n\nEste evento está abierto a todos los miembros de la comunidad de Puerto Ayora y es completamente gratuito. Incentivamos a mujeres y personas de grupos minoritarios que asistan a estos eventos.\n\n¡No olvides traer tu computadora con R, RStudio y paquetes relevantes instalados!\n\n¡Te esperamos!",
+    "status": "CANCELLED",
+    "dateTime": "2020-03-23T17:45:00-06:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-galapagos-islands/events/269331715/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 2,
+      "waitlistCount": 0,
+      "totalCount": 2
+    },
+    "venues": [
+      {
+        "id": "26880509",
+        "name": "Biblioteca AGIPA",
+        "address": "12 de Febrero y Tomás de Berlanga (diagonal al restaurante Villa Luna)",
+        "city": "Puerto Ayora",
+        "state": "al",
+        "country": "ec",
+        "lat": -0.7453,
+        "lon": -90.3125,
+        "postalCode": "meetup117",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Galapagos Islands",
+      "urlname": "rladies-galapagos-islands"
+    }
+  },
+  {
+    "id": "269023012",
+    "title": "¡Primer evento de R Ladies Galápagos! Manipulación de datos utilizando R",
+    "description": "¡Hola a todos! El grupo R Ladies Galápagos estará organizando su primera reunión este 9 de marzo para celebrar el Día Internacional de la Mujer.\n\nEn esta primera reunión hablaremos más sobre la iniciativa de R Ladies, y también tendremos un taller enfocado en la manipulación y visualización de datos utilizando R.\n\nDurante este tutorial estaremos ayudándote a desarrollar habilidades básicas de manipulación de datos utilizando mayoritariamente el paquete tidyverse de R.\n\nAdemás hablaremos un poco de las actividades futuras que planeamos llevar a cabo a lo largo del 2020 en conjunto con la Sociedad Ecuatoriana de Estadística y la Fundación Charles Darwin.\n\nEste evento está abierto a todos los miembros de la comunidad de Puerto Ayora y es completamente gratuito.\n\n¡No olvides traer tu computadora con R, RStudio y paquetes relevantes instalados! ¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2020-03-09T17:45:00-06:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-galapagos-islands/events/269023012/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 9,
+      "waitlistCount": 0,
+      "totalCount": 9
+    },
+    "venues": [
+      {
+        "id": "26880509",
+        "name": "Biblioteca AGIPA",
+        "address": "12 de Febrero y Tomás de Berlanga (diagonal al restaurante Villa Luna)",
+        "city": "Puerto Ayora",
+        "state": "al",
+        "country": "ec",
+        "lat": -0.7454,
+        "lon": -90.3126,
+        "postalCode": "meetup117",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Galapagos Islands",
+      "urlname": "rladies-galapagos-islands"
+    }
+  },
+  {
+    "id": "281861788",
+    "title": "Taller de LatinR: Introducción al análisis de redes con R",
+    "description": "Los capítulos de R-Ladies Guayaquil y R-Ladies Galápagos les traemos el tutorial \"Introducción al análisis de redes con R\" a cargo de la Dra. María Cristina Ramos (@mariacramosf). Este taller es parte de los tutoriales de LatinR 2021 y se dictará el lunes 8 de noviembre a las 14h00 (hora Galápagos) UTC-6.\n\nLa Dra. María Cristina Ramos, es socióloga y científica de redes. Utiliza la ciencia de las redes para estudiar una amplia gama de temas, incluidas las redes de colaboración, los sistemas socioecológicos, el análisis de textos, los contactos personales y la salud, y los modelos mentales de creencias. Ella es consultora independiente e instructora de RStudio Certificada. Puedes seguirla en Twitter, @mariacramosf, o por su página web: https://mariacramos.com/\n\nREQUISITOS:\nPara aprovechar el tutorial al máximo, instala previamente los paquetes \"igraph\" e \"igraphdata\".\n\n***IMPORTANTE***\nPara participar selecciona \"Asistiré\" en este evento y asegúrate de tener instalado Zoom en tu computadora (https://zoom.us/download).\n\nPor razones de seguridad te pedimos que no compartas el link para ingresar a Zoom de manera pública, este link únicamente aparecerá a las personas que confirmaron asistencia.\n\nRecuerda que al participar en nuestros eventos estás aceptando nuestro código de conducta, el cual nos ayuda a crear un espacio amable y seguro para aprender: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish",
+    "status": "PAST",
+    "dateTime": "2021-11-08T14:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-galapagos-islands/events/281861788/",
+    "featuredEventPhoto": {
+      "id": "499977151",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/f/3/f/highres_499977151.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/f/3/f/600_499977151.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/f/3/f/thumb_499977151.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 130,
+      "waitlistCount": 0,
+      "totalCount": 130
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Galapagos Islands",
+      "urlname": "rladies-galapagos-islands"
+    }
+  },
+  {
+    "id": "281479277",
+    "title": "Club de lectura R para Ciencia de Datos (Wickham & Grolemund) - Sesión 13",
+    "description": "**Última sesión del Club de Lectura**\n\nLas R-Ladies de Barranquilla (COL), Galápagos, Guayaquil y Milagro (ECU) nos hemos unido para traerte un club de lectura basado en el libro R para Ciencia de Datos de Wickham y Grolemund. Este libro está disponible en español gracias al esfuerzo de la comunidad R latinoamericana y puede ser accedido de manera libre aquí: https://es.r4ds.hadley.nz.\n\nEn esta sesión 13 de nuestro club de lectura, Linda Cabrera Orellana de R-Ladies Guayaquil y Denisse Fierro Arcos de R-Ladies Galápagos hablarán sobre la creación y el uso de documentos Markdown en R (Capítulos 27, 29 y 30).\n\nEsta es la última sesión de nuestro club de lectura, la cual se llevará a cabo a través de Zoom y tendrá una duración de dos horas. Durante la sesión discutiremos y practicaremos los puntos más importantes de los capítulos relacionados a Markdown en R.\n\nEsta sesión se llevará a cabo el jueves 28 de octubre desde las 18:00 (UTC-5, Colombia y Ecuador Continental), o si estás en Galápagos desde las 17:00 (UTC-6).\n\nRecuerda que al participar en nuestros eventos estás aceptando nuestro código de conducta, el cual nos ayuda a crear un espacio amable y seguro para aprender: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish",
+    "status": "PAST",
+    "dateTime": "2021-10-28T17:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-galapagos-islands/events/281479277/",
+    "featuredEventPhoto": {
+      "id": "499541585",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/2/7/1/highres_499541585.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/2/7/1/600_499541585.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/2/7/1/thumb_499541585.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 16,
+      "waitlistCount": 0,
+      "totalCount": 16
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Galapagos Islands",
+      "urlname": "rladies-galapagos-islands"
+    }
+  },
+  {
+    "id": "281174834",
+    "title": "Club de lectura R para Ciencia de Datos (Wickham & Grolemund) - Sesión 12",
+    "description": "Las R-Ladies de Barranquilla (COL), Galápagos, Guayaquil y Milagro (ECU) nos hemos unido para traerte un club de lectura basado en el libro R para Ciencia de Datos de Wickham y Grolemund. Este libro está disponible en español gracias al esfuerzo de la comunidad R latinoamericana y puede ser accedido de manera libre aquí: https://es.r4ds.hadley.nz.\n\nEn esta sesión 12 de nuestro club de lectura, Mercedes Soledispa Lucas, Naomy Vera Valero y Julissa Magallanes Baque de R-Ladies Milagro hablarán sobre la construcción de modelos estadísticos en R (Capítulos 24 y 25).\n\nEste club de lectura incluirá varias sesiones quincenales que se llevarán a cabo a través de Zoom. Cada sesión durará dos horas durante las cuales discutiremos y practicaremos los puntos más importantes del capítulo o capítulos en el que nos enfoquemos para esa sesión.\n\nRecuerda, las sesiones son los jueves de cada quincena empezando a las 18:00 (UTC-5, Colombia y Ecuador Continental), o si estás en Galápagos a las 17:00 (UTC-6).\n\nAl participar en nuestros eventos recuerda que estás aceptando nuestro código de conducta, el cual nos ayuda a crear un espacio amable y seguro para aprender: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish",
+    "status": "PAST",
+    "dateTime": "2021-10-14T17:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-galapagos-islands/events/281174834/",
+    "featuredEventPhoto": {
+      "id": "499221106",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/2/7/2/highres_499221106.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/2/7/2/600_499221106.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/2/7/2/thumb_499221106.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 24,
+      "waitlistCount": 0,
+      "totalCount": 24
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Galapagos Islands",
+      "urlname": "rladies-galapagos-islands"
+    }
+  },
+  {
+    "id": "280853079",
+    "title": "Club de lectura R para Ciencia de Datos (Wickham & Grolemund) - Sesión 11",
+    "description": "Las R-Ladies de Barranquilla (COL), Galápagos, Guayaquil y Milagro (ECU) nos hemos unido para traerte un club de lectura basado en el libro R para Ciencia de Datos de Wickham y Grolemund. Este libro está disponible en español gracias al esfuerzo de la comunidad R latinoamericana y puede ser accedido de manera libre aquí: https://es.r4ds.hadley.nz.\n\nEn esta sesión 11 de nuestro club de lectura, Danisse y Viviana de R-Ladies Barranquilla hablarán sobre los conceptos básicos de cómo armar un modelo (Capítulo 23).\n\nEste club de lectura incluirá varias sesiones quincenales que se llevarán a cabo a través de Zoom. Cada sesión durará dos horas durante las cuales discutiremos y practicaremos los puntos más importantes del capítulo o capítulos en el que nos enfoquemos para esa sesión.\n\nRecuerda, las sesiones son los jueves de cada quincena empezando a las 18:00 (UTC-5, Colombia y Ecuador Continental), o si estás en Galápagos a las 17:00 (UTC-6).\n\nAl participar en nuestros eventos recuerda que estás aceptando nuestro código de conducta, el cual nos ayuda a crear un espacio amable y seguro para aprender: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish",
+    "status": "PAST",
+    "dateTime": "2021-09-30T17:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-galapagos-islands/events/280853079/",
+    "featuredEventPhoto": {
+      "id": "498903939",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/f/6/3/highres_498903939.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/f/6/3/600_498903939.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/f/6/3/thumb_498903939.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 23,
+      "waitlistCount": 0,
+      "totalCount": 23
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Galapagos Islands",
+      "urlname": "rladies-galapagos-islands"
+    }
+  },
+  {
+    "id": "280567530",
+    "title": "Club de lectura R para Ciencia de Datos (Wickham & Grolemund) - Sesión 10",
+    "description": "Las R-Ladies de Barranquilla (COL), Galápagos, Guayaquil y Milagro (ECU) nos hemos unido para traerte un club de lectura basado en el libro R para Ciencia de Datos de Wickham y Grolemund. Este libro está disponible en español gracias al esfuerzo de la comunidad R latinoamericana y puede ser accedido de manera libre aquí: https://es.r4ds.hadley.nz.\n\nEn esta octava sesión de nuestro club de lectura, Denisse Fierro Arcos de R-Ladies Galápagos hablará cómo llevar a cabo el análisis exploratorio de datos (Capítulo 7).\n\nEste club de lectura incluirá varias sesiones quincenales que se llevarán a cabo a través de Zoom. Cada sesión durará dos horas durante las cuales discutiremos y practicaremos los puntos más importantes del capítulo o capítulos en el que nos enfoquemos para esa sesión.\n\nRecuerda, las sesiones son los jueves de cada quincena empezando a las 18:00 (UTC-5, Colombia y Ecuador Continental), o si estás en Galápagos a las 17:00 (UTC-6).\n\nAl participar en nuestros eventos recuerda que estás aceptando nuestro código de conducta, el cual nos ayuda a crear un espacio amable y seguro para aprender: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish",
+    "status": "PAST",
+    "dateTime": "2021-09-16T17:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-galapagos-islands/events/280567530/",
+    "featuredEventPhoto": {
+      "id": "498614873",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/a/1/9/highres_498614873.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/a/1/9/600_498614873.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/a/1/9/thumb_498614873.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 26,
+      "waitlistCount": 0,
+      "totalCount": 26
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Galapagos Islands",
+      "urlname": "rladies-galapagos-islands"
+    }
+  },
+  {
+    "id": "280284001",
+    "title": "Club de lectura R para Ciencia de Datos (Wickham & Grolemund) - Sesión 9",
+    "description": "Las R-Ladies de Barranquilla (COL), Galápagos, Guayaquil y Milagro (ECU) nos hemos unido para traerte un club de lectura basado en el libro R para Ciencia de Datos de Wickham y Grolemund. Este libro está disponible en español gracias al esfuerzo de la comunidad R latinoamericana y puede ser accedido de manera libre aquí: https://es.r4ds.hadley.nz.\n\nEn esta octava sesión de nuestro club de lectura, Zulemma Bazurto Blacio y Linda Cabrera Orellana de R-Ladies Guayaquil hablarán sobre transformación de datos y flujos de trabajo que puedes aplicar para desarrollar y compartir tu código de manera más eficiente. Esto incluye los siguientes capítulos:\n- Capítulo 4 - Flujo de trabajo: Conocimientos básicos.\n- Capítulo 5 - Transformación de datos\n- Capítulo 6 - Flujo de trabajo: Scripts\n- Capítulo 8 - Flujo de trabajo: Proyectos\n\nEste club de lectura incluirá varias sesiones quincenales que se llevarán a cabo a través de Zoom. Cada sesión durará dos horas durante las cuales discutiremos y practicaremos los puntos más importantes del capítulo o capítulos en el que nos enfoquemos para esa sesión.\n\nRecuerda, las sesiones son los jueves de cada quincena empezando a las 18:00 (UTC-5, Colombia y Ecuador Continental), o si estás en Galápagos a las 17:00 (UTC-6).\n\nAl participar en nuestros eventos recuerda que estás aceptando nuestro código de conducta, el cual nos ayuda a crear un espacio amable y seguro para aprender: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish",
+    "status": "PAST",
+    "dateTime": "2021-09-02T17:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-galapagos-islands/events/280284001/",
+    "featuredEventPhoto": {
+      "id": "498337488",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/2/7/0/highres_498337488.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/2/7/0/600_498337488.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/2/7/0/thumb_498337488.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 26,
+      "waitlistCount": 0,
+      "totalCount": 26
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Galapagos Islands",
+      "urlname": "rladies-galapagos-islands"
+    }
+  },
+  {
+    "id": "279965305",
+    "title": "Club de lectura R para Ciencia de Datos (Wickham & Grolemund) - Sesión 8",
+    "description": "Las R-Ladies de Barranquilla (COL), Galápagos, Guayaquil y Milagro (ECU) nos hemos unido para traerte un club de lectura basado en el libro R para Ciencia de Datos de Wickham y Grolemund. Este libro está disponible en español gracias al esfuerzo de la comunidad R latinoamericana y puede ser accedido de manera libre aquí: https://es.r4ds.hadley.nz.\n\nEn esta octava sesión de nuestro club de lectura, Linda Cabrera Orellana (R-Ladies Guayaquil) hablará sobre las herramientas necesarias para crear buenos gráficos utilizando los paquetes ggplot2, ggrepel y viridis. Esto incluye al capítulo 28 (Comunicar con gráficos).\n\nEste club de lectura incluirá varias sesiones quincenales que se llevarán a cabo a través de Zoom. Cada sesión durará dos horas durante las cuales discutiremos y practicaremos los puntos más importantes del capítulo o capítulos en el que nos enfoquemos para esa sesión.\n\nRecuerda, las sesiones son los jueves de cada quincena empezando a las 18:00 (UTC-5, Colombia y Ecuador Continental), o si estás en Galápagos a las 17:00 (UTC-6).\n\nAl participar en nuestros eventos recuerda que estás aceptando nuestro código de conducta, el cual nos ayuda a crear un espacio amable y seguro para aprender: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish",
+    "status": "PAST",
+    "dateTime": "2021-08-19T17:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-galapagos-islands/events/279965305/",
+    "featuredEventPhoto": {
+      "id": "498018469",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/8/2/5/highres_498018469.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/8/2/5/600_498018469.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/8/2/5/thumb_498018469.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 24,
+      "waitlistCount": 0,
+      "totalCount": 24
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Galapagos Islands",
+      "urlname": "rladies-galapagos-islands"
+    }
+  },
+  {
+    "id": "279670770",
+    "title": "Club de lectura R para Ciencia de Datos (Wickham & Grolemund) - Sesión 7",
+    "description": "Las R-Ladies de Barranquilla (COL), Galápagos, Guayaquil y Milagro (ECU) nos hemos unido para traerte un club de lectura basado en el libro R para Ciencia de Datos de Wickham y Grolemund. Este libro está disponible en español gracias al esfuerzo de la comunidad R latinoamericana y puede ser accedido de manera libre aquí: https://es.r4ds.hadley.nz.\n\nEn esta séptima sesión de nuestro club de lectura, Denisse Fierro Arcos (R-Ladies Galápagos) e Isabel Vásquez (R-Ladies Barranquilla) hablarán sobre cómo crear gráficos utilizando el paquete ggplot2. Esto incluye al capítulo 3 (Visualización de datos).\n\nEste club de lectura incluirá varias sesiones quincenales que se llevarán a cabo a través de Zoom. Cada sesión durará dos horas durante las cuales discutiremos y practicaremos los puntos más importantes del capítulo o capítulos en el que nos enfoquemos para esa sesión.\n\nRecuerda, las sesiones son los jueves de cada quincena empezando a las 18:00 (UTC-5, Colombia y Ecuador Continental), o si estás en Galápagos a las 17:00 (UTC-6).\n\nAl participar en nuestros eventos recuerda que estás aceptando nuestro código de conducta, el cual nos ayuda a crear un espacio amable y seguro para aprender: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish",
+    "status": "PAST",
+    "dateTime": "2021-08-05T17:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-galapagos-islands/events/279670770/",
+    "featuredEventPhoto": {
+      "id": "497775069",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/a/d/d/highres_497775069.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/a/d/d/600_497775069.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/a/d/d/thumb_497775069.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 29,
+      "waitlistCount": 0,
+      "totalCount": 29
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Galapagos Islands",
+      "urlname": "rladies-galapagos-islands"
+    }
+  },
+  {
+    "id": "279439836",
+    "title": "Club de lectura R para Ciencia de Datos (Wickham & Grolemund) - Sesión 6",
+    "description": "Las R-Ladies de Barranquilla (COL), Galápagos, Guayaquil y Milagro (ECU) nos hemos unido para traerte un club de lectura basado en el libro R para Ciencia de Datos de Wickham y Grolemund. Este libro está disponible en español gracias al esfuerzo de la comunidad R latinoamericana y puede ser accedido de manera libre aquí: https://es.r4ds.hadley.nz.\n\nEn esta cuarta sesión de nuestro club de lectura, María Isabel Arrieta y Viviana Florez Camacho (R-Ladies Barranquilla) hablarán sobre diferentes tipos de datos. Esto incluye a los capítulos 12 (Datos ordenados) y 13 (Datos relacionales).\n\nEste club de lectura incluirá varias sesiones quincenales que se llevarán a cabo a través de Zoom. Cada sesión durará dos horas durante las cuales discutiremos y practicaremos los puntos más importantes del capítulo o capítulos en el que nos enfoquemos para esa sesión.\n\nRecuerda, las sesiones son los jueves de cada quincena empezando a las 18:00 (UTC-5, Colombia y Ecuador Continental), o si estás en Galápagos a las 17:00 (UTC-6).\n\nAl participar en nuestros eventos recuerda que estás aceptando nuestro código de conducta, el cual nos ayuda a crear un espacio amable y seguro para aprender: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish",
+    "status": "PAST",
+    "dateTime": "2021-07-23T17:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-galapagos-islands/events/279439836/",
+    "featuredEventPhoto": {
+      "id": "497503810",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/b/2/2/highres_497503810.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/b/2/2/600_497503810.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/b/2/2/thumb_497503810.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 23,
+      "waitlistCount": 0,
+      "totalCount": 23
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Galapagos Islands",
+      "urlname": "rladies-galapagos-islands"
+    }
+  },
+  {
+    "id": "279059280",
+    "title": "Club de lectura R para Ciencia de Datos (Wickham & Grolemund) - Sesión 5",
+    "description": "Las R-Ladies de Barranquilla (COL), Galápagos, Guayaquil y Milagro (ECU) nos hemos unido para traerte un club de lectura basado en el libro R para Ciencia de Datos de Wickham y Grolemund. Este libro está disponible en español gracias al esfuerzo de la comunidad R latinoamericana y puede ser accedido de manera libre aquí: https://es.r4ds.hadley.nz.\n\nEn esta cuarta sesión de nuestro club de lectura, Danisse Carrascal y Mary Jane Rivero (R-Ladies Barranquilla) hablarán sobre Tibbles e importación de datos. Esto incluye a los capítulos 10 (Tibble) y 11 (Importación de datos).\n\nEste club de lectura incluirá varias sesiones quincenales que se llevarán a cabo a través de Zoom. Cada sesión durará dos horas durante las cuales discutiremos y practicaremos los puntos más importantes del capítulo o capítulos en el que nos enfoquemos para esa sesión.\n\nRecuerda, las sesiones son los jueves de cada quincena empezando a las 18:00 (UTC-5, Colombia y Ecuador Continental), o si estás en Galápagos a las 17:00 (UTC-6).\n\nAl participar en nuestros eventos recuerda que estás aceptando nuestro código de conducta, el cual nos ayuda a crear un espacio amable y seguro para aprender: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish",
+    "status": "PAST",
+    "dateTime": "2021-07-08T17:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-galapagos-islands/events/279059280/",
+    "featuredEventPhoto": {
+      "id": "497120367",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/f/8/f/highres_497120367.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/f/8/f/600_497120367.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/f/8/f/thumb_497120367.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 25,
+      "waitlistCount": 0,
+      "totalCount": 25
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Galapagos Islands",
+      "urlname": "rladies-galapagos-islands"
+    }
+  },
+  {
+    "id": "278780983",
+    "title": "Club de lectura R para Ciencia de Datos (Wickham & Grolemund) - Sesión 4",
+    "description": "Las R-Ladies de Barranquilla (COL), Galápagos, Guayaquil y Milagro (ECU) nos hemos unido para traerte un club de lectura basado en el libro R para Ciencia de Datos de Wickham y Grolemund. Este libro está disponible en español gracias al esfuerzo de la comunidad R latinoamericana y puede ser accedido de manera libre aquí: https://es.r4ds.hadley.nz.\n\nEn esta cuarta sesión de nuestro club de lectura, Denisse (R-Ladies Galápagos) hablará sobre cómo escribir funciones para automatizar flujos de trabajo. Esto incluye al capítulo 21 (Iteración).\n\nEste club de lectura incluirá varias sesiones quincenales que se llevarán a cabo a través de Zoom. Cada sesión durará dos horas durante las cuales discutiremos y practicaremos los puntos más importantes del capítulo o capítulos en el que nos enfoquemos para esa sesión.\n\nRecuerda, las sesiones son los jueves de cada quincena empezando a las 18:00 (UTC-5, Colombia y Ecuador Continental), o si estás en Galápagos a las 17:00 (UTC-6).\n\nAl participar en nuestros eventos recuerda que estás aceptando nuestro código de conducta, el cual nos ayuda a crear un espacio amable y seguro para aprender: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish",
+    "status": "PAST",
+    "dateTime": "2021-06-24T17:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-galapagos-islands/events/278780983/",
+    "featuredEventPhoto": {
+      "id": "496847849",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/a/e/9/highres_496847849.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/a/e/9/600_496847849.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/a/e/9/thumb_496847849.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 15,
+      "waitlistCount": 0,
+      "totalCount": 15
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Galapagos Islands",
+      "urlname": "rladies-galapagos-islands"
+    }
+  },
+  {
+    "id": "278485425",
+    "title": "Club de lectura R para Ciencia de Datos (Wickham & Grolemund) - Sesión 3",
+    "description": "Las R-Ladies de Barranquilla (COL), Galápagos, Guayaquil y Milagro (ECU) nos hemos unido para traerte un club de lectura basado en el libro R para Ciencia de Datos de Wickham y Grolemund. Este libro está disponible en español gracias al esfuerzo de la comunidad R latinoamericana y puede ser accedido de manera libre aquí: https://es.r4ds.hadley.nz.\n\nEn esta tercera sesión de nuestro club de lectura, Isabel (R-Ladies Barranquilla) hablará sobre cómo escribir funciones para automatizar flujos de trabajo. Esto incluye al capítulo 19 (Funciones).\n\nEste club de lectura incluirá varias sesiones quincenales que se llevarán a cabo a través de Zoom. Cada sesión durará dos horas durante las cuales discutiremos y practicaremos los puntos más importantes del capítulo o capítulos en el que nos enfoquemos para esa sesión.\n\nRecuerda, las sesiones son los jueves de cada quincena empezando a las 18:00 (UTC-5, Colombia y Ecuador Continental), o si estás en Galápagos a las 17:00 (UTC-6).\n\nAl participar en nuestros eventos recuerda que estás aceptando nuestro código de conducta, el cual nos ayuda a crear un espacio amable y seguro para aprender: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish",
+    "status": "PAST",
+    "dateTime": "2021-06-10T17:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-galapagos-islands/events/278485425/",
+    "featuredEventPhoto": {
+      "id": "496565906",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/7/1/2/highres_496565906.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/7/1/2/600_496565906.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/7/1/2/thumb_496565906.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 7,
+      "waitlistCount": 0,
+      "totalCount": 7
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Galapagos Islands",
+      "urlname": "rladies-galapagos-islands"
+    }
+  },
+  {
+    "id": "278157982",
+    "title": "Club de lectura R para Ciencia de Datos (Wickham & Grolemund) - Sesión 2",
+    "description": "Las R-Ladies de Barranquilla (COL), Galápagos, Guayaquil y Milagro (ECU) nos hemos unido para traerte un club de lectura basado en el libro R para Ciencia de Datos de Wickham y Grolemund. Este libro está disponible en español gracias al esfuerzo de la comunidad R latinoamericana y puede ser accedido de manera libre aquí: https://es.r4ds.hadley.nz.\n\nEn esta segunda sesión de nuestro club de lectura, Denisse (R-Ladies Galápagos) hablará sobre cómo trabajar con fechas y horas en R, y también qué son los pipes y cómo utilizarlos. Esto incluye al capítulo 16 (Fechas y horas) y el capítulo 18 (Pipes).\n\nEste club de lectura incluirá varias sesiones quincenales que se llevarán a cabo a través de Zoom. Cada sesión durará dos horas durante las cuales discutiremos y practicaremos los puntos más importantes del capítulo o capítulos en el que nos enfoquemos para esa sesión.\n\nRecuerda, las sesiones son los jueves de cada quincena empezando a las 18:00 (UTC-5, Colombia y Ecuador Continental), o si estás en Galápagos a las 17:00 (UTC-6).\n\nAl participar en nuestros eventos recuerda que estás aceptando nuestro código de conducta, el cual nos ayuda a crear un espacio amable y seguro para aprender: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish",
+    "status": "PAST",
+    "dateTime": "2021-05-27T17:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-galapagos-islands/events/278157982/",
+    "featuredEventPhoto": {
+      "id": "496283780",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/c/e/4/highres_496283780.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/c/e/4/600_496283780.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/c/e/4/thumb_496283780.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 20,
+      "waitlistCount": 0,
+      "totalCount": 20
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Galapagos Islands",
+      "urlname": "rladies-galapagos-islands"
+    }
+  },
+  {
+    "id": "277927995",
+    "title": "Club de lectura: R para Ciencia de Datos (Wickham & Grolemund)",
+    "description": "Las R-Ladies de Barranquilla (COL), Galápagos, Guayaquil y Milagro (ECU) nos hemos unido para traerte un club de lectura basado en el libro R para Ciencia de Datos de Wickham y Grolemund. Este libro está disponible en español gracias al esfuerzo de la comunidad R latinoamericana y puede ser accedido de manera libre aquí: https://es.r4ds.hadley.nz.\n\nEstamos felices de crear este grupo de lectura y aprender sobre cómo hacer ciencia de datos, lo cual incluye desde la importación de datos a R, manipular su estructura y transformarlos, hasta visualizarlos e incluso crear modelos y comunicar resultados.\n\nEste club de lectura incluirá varias sesiones quincenales que se llevarán a cabo los jueves empezando el 13 de mayo a través de Zoom. Cada sesión durará dos horas durante las cuales discutiremos y practicaremos los puntos más importantes del capítulo en el que nos enfoquemos para esa sesión.\n\nDurante esta primera sesión Danisse Carrascal y Mary Jane Rivero (R-Ladies Barranquilla) hablarán sobre los tipos de datos y estructuras que utilizaremos en R. Esto incluye al capítulo 14 (Cadenas de caracteres), capítulo 15 (Factores), y el capítulo 20 (Vectores).\n\nRecuerda, las sesiones son los jueves de cada quincena desde el 13 de mayo, y empiezan a las 18:00 (UTC-5, Colombia y Ecuador Continental), o si estás en Galápagos a las 17:00 (UTC-6). Al participar en nuestros eventos recuerda que estás aceptando nuestro código de conducta, el cual nos ayuda a crear un espacio amable y seguro para aprender: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish",
+    "status": "PAST",
+    "dateTime": "2021-05-13T17:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-galapagos-islands/events/277927995/",
+    "featuredEventPhoto": {
+      "id": "496046844",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/8/d/c/highres_496046844.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/8/d/c/600_496046844.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/8/d/c/thumb_496046844.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 21,
+      "waitlistCount": 0,
+      "totalCount": 21
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Galapagos Islands",
+      "urlname": "rladies-galapagos-islands"
+    }
+  },
+  {
+    "id": "276423811",
+    "title": "Expresiones regulares para la limpieza y transformación de datos (Parte 2)",
+    "description": "Este viernes 19 de febrero realizaremos la segunda sesión del taller \"Expresiones regulares para la limpieza y transformación de datos\". El taller estará a cargo de Stephanie Orellana (https://twitter.com/sporella) y Riva Quiroga (https://twitter.com/rivaquiroga).\n\n- SOBRE EL TALLER\nEste taller tiene por objetivo que sus participantes se familiaricen con el uso de expresiones regulares (conocidas también como \"regex\"). Específicamente, abordaremos el potencial que tienen como parte del proceso de limpieza y transformación de datos usando paquetes del Tidyverse.\nEn esta segunda sesión, profundizaremos en los contenidos vistos en la primera sesión y además veremos cómo podemos utilizar expresiones regulares para limpiar un archivo PDF.\n\n- REQUERIMIENTOS\nSi no participaste en la primera parte del taller, te sugerimos revisar el video y los materiales, ya que los ejercicios que realizaremos son una continuación de lo visto en esa sesión: https://github.com/rladieschile/taller-regex-2021/blob/main/README.md\nPara este taller es necesario tener una versión de R igual o superior a 3.6 y tener instalados RStudio y los paquetes {tidyverse}, {pdftools}, {janitor} y la versión en desarrollo de {datos}. Esta última se puede instalar desde GitHub con: remotes::install_github(\"cienciadedatos/datos\").\nEl taller se dictará a través de la plataforma Zoom. Media hora antes del evento enviaremos la clave de acceso a la reunión.\n\n- CÓDIGO DE CONDUCTA\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\n\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2021-02-19T15:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-galapagos-islands/events/276423811/",
+    "featuredEventPhoto": {
+      "id": "494793291",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/2/0/b/highres_494793291.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/2/0/b/600_494793291.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/2/0/b/thumb_494793291.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 15,
+      "waitlistCount": 0,
+      "totalCount": 15
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Galapagos Islands",
+      "urlname": "rladies-galapagos-islands"
+    }
+  },
+  {
+    "id": "276272955",
+    "title": "Expresiones regulares para la limpieza y transformación de datos (Parte 1)",
+    "description": "Tal como prometimos el año pasado, este viernes repetiremos el taller sobre expresiones regulares para la limpieza y transformación de datos que realizamos el año pasado en el marco de LatinR (https://latin-r.com), la conferencia Latinoamericana sobre uso de R en investigación y desarrollo. En esta ocasión, se llevará a cabo en dos sesiones (los viernes 12 y 19 de febrero), para poder cubrir los contenidos con mayor profundidad. El taller estará a cargo de Stephanie Orellana (https://twitter.com/sporella) y Riva Quiroga (https://twitter.com/rivaquiroga).\n\n- SOBRE EL TALLER\nEste taller tiene por objetivo que sus participantes se familiaricen con el uso de expresiones regulares (conocidas también como \"regex\"). Específicamente, abordaremos el potencial que tienen como parte del proceso de limpieza y transformación de datos usando paquetes del Tidyverse.\nLos ejemplos prácticos se enfocarán en el trabajo con dataframes y archivos de texto, y en cómo utilizar expresiones regulares en conjunto con funciones de los paquetes {stringr}, {dplyr} y {tidyr}.\n\n- REQUERIMIENTOS\nPara este taller es necesario tener una versión de R igual o superior a 3.6 y tener instalados RStudio y los paquetes {tidyverse}, {janitor} y la versión en desarrollo de {datos}. Esta última se puede instalar desde GitHub con: remotes::install_github(\"cienciadedatos/datos\").\nEl taller se dictará a través de la plataforma Zoom. Media hora antes del evento enviaremos la clave de acceso a la reunión.\n\n- SOBRE LA SEGUNDA SESIÓN\nLa segunda sesión de este taller se llevará a cabo el viernes 19 de febrero. Para asistir, debes inscribirte en el evento correspondiente, que quedará publicado acá en Meetup a principios de la próxima semana.\n\n- CÓDIGO DE CONDUCTA\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\n\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2021-02-12T15:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-galapagos-islands/events/276272955/",
+    "featuredEventPhoto": {
+      "id": "494692451",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/c/e/3/highres_494692451.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/c/e/3/600_494692451.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/c/e/3/thumb_494692451.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 21,
+      "waitlistCount": 0,
+      "totalCount": 21
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Galapagos Islands",
+      "urlname": "rladies-galapagos-islands"
+    }
+  },
+  {
+    "id": "286768850",
+    "title": "Club de lectura \"Efficient R Programming\" (Gillespie & Lovelace)",
+    "description": "El Semillero de R de la Universidad Nacional de Colombia, las R-Ladies de Medellín, Barranquilla (COL) y Galápagos (ECU) nos hemos unido para traerte un Club de Lectura del libro “Efficient R programming” de Colin Gillespie y Robin Lovelace (disponible en inglés de manera gratuita [aquí](https://csgillespie.github.io/efficientR/)).\n\nLas sesiones del Club de Lectura se llevarán a cabo a través de Zoom, tendrán una duración de una hora, y se realizarán de manera quincenal. Durante las sesiones discutiremos y practicaremos los puntos más importantes de cada capítulo.\n\nEn esta octava y última sesión del Club de Lectura, Freddy Hernández nos hablará sobre optimización eficiente de código (Capítulo 7).\n\nRecuerda que al participar en nuestros eventos estás aceptando nuestro código de conducta, el cual nos ayuda a crear un espacio amable y seguro para aprender. Puedes encontrar nuestro código [aquí](https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish).\n\nTe esperamos este martes 5 de julio de 2022 a las 17:00 (UTC-6, hora Galápagos) o 18:00 (UTC-5, Colombia y Ecuador Continental).",
+    "status": "PAST",
+    "dateTime": "2022-07-05T17:00:00-06:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-galapagos-islands/events/286768850/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 9,
+      "waitlistCount": 0,
+      "totalCount": 9
+    },
+    "venues": [],
+    "group": {
+      "name": "R-Ladies Galapagos Islands",
+      "urlname": "rladies-galapagos-islands"
+    }
+  },
+  {
+    "id": "286699950",
+    "title": "Club de lectura \"Efficient R Programming\" (Gillespie & Lovelace)",
+    "description": "El Semillero de R de la Universidad Nacional de Colombia, las R-Ladies de Medellín, Barranquilla (COL) y Galápagos (ECU) nos hemos unido para traerte un Club de Lectura del libro “Efficient R programming” de Colin Gillespie y Robin Lovelace (disponible en inglés de manera gratuita [aquí](https://csgillespie.github.io/efficientR/)).\n\nLas sesiones del Club de Lectura se llevarán a cabo a través de Zoom, tendrán una duración de una hora y media, y se realizarán de manera quincenal. Durante las sesiones discutiremos y practicaremos los puntos más importantes de cada capítulo.\n\nEn esta cuarta sesión del Club de Lectura, Danisse Carrascal Polo y Denisse Fierro Arcos nos hablarán sobre como procesar datos de manera eficiente y sobre cómo trabajar con bases de datos (Capítulos 6.4 al 6.7).\n\nRecuerda que al participar en nuestros eventos estás aceptando nuestro código de conducta, el cual nos ayuda a crear un espacio amable y seguro para aprender. Puedes encontrar nuestro código [aquí](https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish).\n\nTe esperamos este martes 21 de junio de 2022 a las 17:00 (UTC-6, hora Galápagos) o 18:00 (UTC-5, Colombia y Ecuador Continental).",
+    "status": "PAST",
+    "dateTime": "2022-06-21T17:00:00-06:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-galapagos-islands/events/286699950/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 8,
+      "waitlistCount": 0,
+      "totalCount": 8
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Galapagos Islands",
+      "urlname": "rladies-galapagos-islands"
+    }
+  },
+  {
+    "id": "286147413",
+    "title": "Club de lectura \"Efficient R Programming\" (Gillespie & Lovelace)",
+    "description": "El Semillero de R de la Universidad Nacional de Colombia, las R-Ladies de Medellín, Barranquilla (COL) y Galápagos (ECU) nos hemos unido para traerte un Club de Lectura del libro “Efficient R programming” de Colin Gillespie y Robin Lovelace (disponible en inglés de manera gratuita [aquí](https://csgillespie.github.io/efficientR/)).\n\nLas sesiones del Club de Lectura se llevarán a cabo a través de Zoom, tendrán una duración de una hora y se realizarán de manera quincenal. Durante las sesiones discutiremos y practicaremos los puntos más importantes de cada capítulo.\n\nEn esta cuarta sesión del Club de Lectura, Carmen Patiño y Stephany Lobo Laguado nos hablarán sobre datos de entrada (inputs) y de salida (outputs) eficientes (Capítulo 5 – Efficient input/output).\n\nRecuerda que al participar en nuestros eventos estás aceptando nuestro código de conducta, el cual nos ayuda a crear un espacio amable y seguro para aprender. Puedes encontrar nuestro código [aquí](https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish).\n\nTe esperamos este martes 31 de mayo de 2022 a las 17:00 (UTC-6, hora Galápagos) o 18:00 (UTC-5, Colombia y Ecuador Continental).",
+    "status": "PAST",
+    "dateTime": "2022-05-31T17:00:00-06:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-galapagos-islands/events/286147413/",
+    "featuredEventPhoto": {
+      "id": "504358795",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/e/5/a/b/highres_504358795.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/e/5/a/b/600_504358795.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/5/a/b/thumb_504358795.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Galapagos Islands",
+      "urlname": "rladies-galapagos-islands"
+    }
+  },
+  {
+    "id": "286147441",
+    "title": "Club de lectura \"Efficient R Programming\" (Gillespie & Lovelace)",
+    "description": "El Semillero de R de la Universidad Nacional de Colombia, las R-Ladies de Medellín, Barranquilla (COL) y Galápagos (ECU) nos hemos unido para traerte un Club de Lectura del libro “Efficient R programming” de Colin Gillespie y Robin Lovelace (disponible en inglés de manera gratuita [aquí](https://csgillespie.github.io/efficientR/)).\n\nLas sesiones del Club de Lectura se llevarán a cabo a través de Zoom, tendrán una duración de una hora y se realizarán de manera quincenal. Durante las sesiones discutiremos y practicaremos los puntos más importantes de cada capítulo.\n\nEn esta cuarta sesión del Club de Lectura, Denisse Fierro Arcos de R-Ladies Galápagos y Olga Usuga Manco de Ladies Medellín nos hablarán sobre flujos de trabajo eficientes (Capítulo 4 – Efficient workflow).\n\nRecuerda que al participar en nuestros eventos estás aceptando nuestro código de conducta, el cual nos ayuda a crear un espacio amable y seguro para aprender. Puedes encontrar nuestro código [aquí](https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish).\n\nTe esperamos este martes 17 de mayo de 2022 a las 17:00 (UTC-6, hora Galápagos) o 18:00 (UTC-5, Colombia y Ecuador Continental).",
+    "status": "CANCELLED",
+    "dateTime": "2022-05-26T17:00:00-06:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-galapagos-islands/events/286147441/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [],
+    "group": {
+      "name": "R-Ladies Galapagos Islands",
+      "urlname": "rladies-galapagos-islands"
+    }
+  },
+  {
+    "id": "285776334",
+    "title": "Club de lectura \"Efficient R Programming\" (Gillespie & Lovelace)",
+    "description": "El Semillero de R de la Universidad Nacional de Colombia, las R-Ladies de Medellín, Barranquilla (COL) y Galápagos (ECU) nos hemos unido para traerte un Club de Lectura del libro “Efficient R programming” de Colin Gillespie y Robin Lovelace (disponible en inglés de manera gratuita [aquí](https://csgillespie.github.io/efficientR/)).\n\nLas sesiones del Club de Lectura se llevarán a cabo a través de Zoom, tendrán una duración de una hora y se realizarán de manera quincenal. Durante las sesiones discutiremos y practicaremos los puntos más importantes de cada capítulo.\n\nEn esta cuarta sesión del Club de Lectura, Denisse Fierro Arcos de R-Ladies Galápagos y Olga Usuga Manco de Ladies Medellín nos hablarán sobre flujos de trabajo eficientes (Capítulo 4 – Efficient workflow).\n\nRecuerda que al participar en nuestros eventos estás aceptando nuestro código de conducta, el cual nos ayuda a crear un espacio amable y seguro para aprender. Puedes encontrar nuestro código [aquí](https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish).\n\nTe esperamos este martes 17 de mayo de 2022 a las 17:00 (UTC-6, hora Galápagos) o 18:00 (UTC-5, Colombia y Ecuador Continental).",
+    "status": "PAST",
+    "dateTime": "2022-05-17T17:00:00-06:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-galapagos-islands/events/285776334/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 6,
+      "waitlistCount": 0,
+      "totalCount": 6
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Galapagos Islands",
+      "urlname": "rladies-galapagos-islands"
+    }
+  },
+  {
+    "id": "285091976",
+    "title": "Club de lectura \"Efficient R Programming\" (Gillespie & Lovelace)",
+    "description": "El Semillero de R de la Universidad Nacional de Colombia, las R-Ladies de Medellín, Barranquilla (COL) y Galápagos (ECU) nos hemos unido para traerte un Club de Lectura del libro “Efficient R programming” de Colin Gillespie y Robin Lovelace (disponible en inglés de manera gratuita [aquí](https://csgillespie.github.io/efficientR/)).\n\nLas sesiones del Club de Lectura se llevarán a cabo a través de Zoom, tendrán una duración de una hora y se realizarán de manera quincenal. Durante las sesiones discutiremos y practicaremos los puntos más importantes de cada capítulo.\n\nEn esta segunda sesión del Club de Lectura, Sara Garcés de R-Ladies Medellín y Alejandra Londoño del Semillero nos hablarán sobre cómo configurar R y RStudio para programar manera eficiente (Capítulo 2 – Efficient set-up).\n\nRecuerda que al participar en nuestros eventos estás aceptando nuestro código de conducta, el cual nos ayuda a crear un espacio amable y seguro para aprender. Puedes encontrar nuestro código [aquí](https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish).\n\nTe esperamos este martes 19 de abril de 2022 a las 17:00 (UTC-6, hora Galápagos) o 18:00 (UTC-5, Colombia y Ecuador Continental).",
+    "status": "PAST",
+    "dateTime": "2022-04-19T17:00:00-06:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-galapagos-islands/events/285091976/",
+    "featuredEventPhoto": {
+      "id": "503197531",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/2/9/b/highres_503197531.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/2/9/b/600_503197531.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/2/9/b/thumb_503197531.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 16,
+      "waitlistCount": 0,
+      "totalCount": 16
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Galapagos Islands",
+      "urlname": "rladies-galapagos-islands"
+    }
+  },
+  {
+    "id": "284916808",
+    "title": "Club de lectura \"Efficient R Programming\" (Gillespie & Lovelace)",
+    "description": "El Semillero de R de la Universidad Nacional de Colombia, las R-Ladies de Medellín, Barranquilla (COL) y Galápagos (ECU) nos hemos unido para traerte un Club de Lectura del libro “Efficient R programming” de Colin Gillespie y Robin Lovelace (disponible en inglés de manera gratuita [aquí](https://csgillespie.github.io/efficientR/)).\n\nLas sesiones del Club de Lectura se llevarán a cabo a través de Zoom, tendrán una duración de una hora y se realizarán de manera quincenal. Durante las sesiones discutiremos y practicaremos los puntos más importantes de cada capítulo.\n\nEn esta primera sesión del Club de Lectura, Olga Usuga Manco de R-Ladies Medellín y Freddy Hernández Barajas del Semillero de R de la Universidad Nacional de Colombia, nos hablarán sobre los elementos básicos que debemos considerar para escribir código en R de forma eficiente (Capítulo 1 – Introduction).\n\nRecuerda que al participar en nuestros eventos estás aceptando nuestro código de conducta, el cual nos ayuda a crear un espacio amable y seguro para aprender. Puedes encontrar nuestro código [aquí](https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish).\n\nTe esperamos este martes 29 de marzo de 2022 a las 17:00 (UTC-6, hora Galápagos) o 18:00 (UTC-5, Colombia y Ecuador Continental).",
+    "status": "PAST",
+    "dateTime": "2022-03-29T17:00:00-06:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-galapagos-islands/events/284916808/",
+    "featuredEventPhoto": {
+      "id": "503013567",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/3/1/f/highres_503013567.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/3/1/f/600_503013567.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/3/1/f/thumb_503013567.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 10,
+      "waitlistCount": 0,
+      "totalCount": 10
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Galapagos Islands",
+      "urlname": "rladies-galapagos-islands"
+    }
+  }
+]

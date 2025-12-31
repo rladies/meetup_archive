@@ -6,8 +6,8 @@ on:
       - main
     paths:
       - "reports/**"
-      - "data/**"
       - "_quarto.yml"
+      - "_branch.yml"
       - "renv.lock"
   workflow_dispatch:
   schedule:

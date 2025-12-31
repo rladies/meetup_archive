@@ -1,0 +1,692 @@
+[
+  {
+    "id": "256439180",
+    "title": "R-Ladies Helsinki Kickoff!",
+    "description": "What is R? What is R-Ladies? How to use R in practice? Welcome to the first ever R-Ladies Helsinki Meet-up to hear about these topics and mingle with fellow enthusiasts.\n\nSchedule\n18.00 Welcome\n18.10 Intro to R-Ladies and community\n18.30 Data Science & R in Omnichannel customer experience creation\n19.15 Introducing and discussing the future of R-Ladies Helsinki and program\n19.30 Networking",
+    "status": "PAST",
+    "dateTime": "2018-12-11T18:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-helsinki/events/256439180/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 26,
+      "waitlistCount": 0,
+      "totalCount": 26
+    },
+    "venues": [
+      {
+        "id": "16270502",
+        "name": "Avaus",
+        "address": "Merimiehenkatu 36 D",
+        "city": "Helsinki",
+        "state": "",
+        "country": "fi",
+        "lat": 60.1593,
+        "lon": 24.934,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Helsinki",
+      "urlname": "rladies-helsinki"
+    }
+  },
+  {
+    "id": "255364863",
+    "title": "Planning meeting",
+    "description": "Gathering to plan the actual kick-off meetup and the future events.",
+    "status": "PAST",
+    "dateTime": "2018-10-23T17:30:00+03:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-helsinki/events/255364863/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 8,
+      "waitlistCount": 0,
+      "totalCount": 8
+    },
+    "venues": [
+      {
+        "id": "25607548",
+        "name": "Tiedekulma Cafe",
+        "address": "Tiedekulma, Yliopistonkatu 4",
+        "city": "Helsinki",
+        "state": "",
+        "country": "fi",
+        "lat": 60.1698,
+        "lon": 24.9488,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Helsinki",
+      "urlname": "rladies-helsinki"
+    }
+  },
+  {
+    "id": "264986424",
+    "title": "Building Dasboards with R Shiny",
+    "description": "During this workshop you will learn how to create interactive dashboards with Shiny. Dashboards are great to communicate and present your analysis and results.\n\nWe will go through following subjects:\n- Overview and structure of a Shiny Dashboard\n- Adding dynamic content for your dashboard\n- Customize your dashboard with skin\n\nPrerequisites if you want to code by yourself:\n- R and RStudio installed on your machine\n- Packages shiny, shinydashboard, ggplot and tidyverse installed\n\nIf you want to get familiar with the subject beforehand, check this tutorial:\nhttps://rstudio.github.io/shinydashboard/index.html\n\nSPECIAL GUEST: Amanda Tilot from R-Ladies LA will be talking about academic figure making, how to reduce the time spent fussing with individual graph panels.",
+    "status": "PAST",
+    "dateTime": "2019-11-19T18:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-helsinki/events/264986424/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 17,
+      "waitlistCount": 0,
+      "totalCount": 17
+    },
+    "venues": [
+      {
+        "id": "26638589",
+        "name": "Evitec Ltd",
+        "address": "Bertel Jungin aukio 7",
+        "city": "Espoo",
+        "state": "",
+        "country": "fi",
+        "lat": 60.2172,
+        "lon": 24.8146,
+        "postalCode": "02600",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Helsinki",
+      "urlname": "rladies-helsinki"
+    }
+  },
+  {
+    "id": "264888447",
+    "title": "ggplot2 for data visualisation",
+    "description": "During the workshop, we'll focus on thinking behind the ggplot2 package and its chart-making power. We will also focus on how to make visualisations that are easily digestible for various stakeholders and we'll cover a few tips & tricks for quick \"good\" look of charts.\n\nPrerequisites:\n- RStudio and R installed on your machine\n- tidyverse, or at least ggplot2 installed (instructions can be found here: https://tidyverse.tidyverse.org/, you don't need the absolute latest version for this workshop).\n- have some basic knowledge of R (it's enough if you for example attended one of the R workshops with R Ladies or Mimmit Kodaa)\n\nWe will aim to start at 6pm sharp, so please make sure to arrive on time!",
+    "status": "PAST",
+    "dateTime": "2019-10-22T18:00:00+03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-helsinki/events/264888447/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 19,
+      "waitlistCount": 0,
+      "totalCount": 19
+    },
+    "venues": [
+      {
+        "id": "26631987",
+        "name": "Seriously Digital Entertainment",
+        "address": "Arkadiankatu 6",
+        "city": "Helsinki",
+        "state": "",
+        "country": "fi",
+        "lat": 60.1701,
+        "lon": 24.9405,
+        "postalCode": "00100",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Helsinki",
+      "urlname": "rladies-helsinki"
+    }
+  },
+  {
+    "id": "264216549",
+    "title": "NLP with R",
+    "description": "Welcome to learn how to NLP with R (partly) hands on!\n\nWe'll go through\n- Basic text wrangling\n- Visualisation eg. wordclouds\n- Predictive model(s) (focus on Starspace)\n- How to actually use the model\n- Some examples\n\nYou'll need your laptop, R and preferably RStudio installed if you want to follow hands on. Bring also your curious self!",
+    "status": "PAST",
+    "dateTime": "2019-09-12T18:00:00+03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-helsinki/events/264216549/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 14,
+      "waitlistCount": 0,
+      "totalCount": 14
+    },
+    "venues": [
+      {
+        "id": "26493921",
+        "name": "Ludviginkatu 3",
+        "address": "Ludviginkatu 3",
+        "city": "Helsinki",
+        "state": "",
+        "country": "fi",
+        "lat": 60.1659,
+        "lon": 24.9451,
+        "postalCode": "00130",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Helsinki",
+      "urlname": "rladies-helsinki"
+    }
+  },
+  {
+    "id": "261998958",
+    "title": "R-Ladies summer afterwork/mingle",
+    "description": "Come and join R-Ladies community for drinks and chill hangout. BYOB!\n\nIn case of bad weather, we have a contingency plan.",
+    "status": "PAST",
+    "dateTime": "2019-07-03T17:00:00+03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-helsinki/events/261998958/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 14,
+      "waitlistCount": 0,
+      "totalCount": 14
+    },
+    "venues": [
+      {
+        "id": "26493921",
+        "name": "Ludviginkatu 3",
+        "address": "Ludviginkatu 3",
+        "city": "Helsinki",
+        "state": "",
+        "country": "fi",
+        "lat": 60.1659,
+        "lon": 24.9451,
+        "postalCode": "00130",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Helsinki",
+      "urlname": "rladies-helsinki"
+    }
+  },
+  {
+    "id": "261803251",
+    "title": "Intro to Tidyverse ",
+    "description": "This workshop is designed for those who have some experience with R.\nWe will be using Tidyverse to introduce importing, manipulating and visualizing data. The objective of the workshop is to teach the basic knowledge of Tidyverse packages such as dplyr, ggplot2.\n\nThe Only requirement is that R and RStudio should be installed on your laptops.\n\nWe’d like to thank Seriously Digital Entertainment to sponsor of June event of R-Ladies Helsinki.",
+    "status": "PAST",
+    "dateTime": "2019-06-15T12:30:00+03:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-helsinki/events/261803251/",
+    "featuredEventPhoto": {
+      "id": "481965730",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/2/a/2/highres_481965730.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/2/a/2/600_481965730.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/2/a/2/thumb_481965730.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 7,
+      "waitlistCount": 0,
+      "totalCount": 7
+    },
+    "venues": [
+      {
+        "id": "26436278",
+        "name": "Kaivokatu 10",
+        "address": "Kaivokatu 10",
+        "city": "Helsinki",
+        "state": "",
+        "country": "fi",
+        "lat": 60.17,
+        "lon": 24.9402,
+        "postalCode": "00100",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Helsinki",
+      "urlname": "rladies-helsinki"
+    }
+  },
+  {
+    "id": "259556868",
+    "title": "Writing sharable (R) code. Oh… and sharing it!",
+    "description": "Join this session where we will build an R package, write unit tests for it, push it in a GitHub repository and integrate Travis CI with it!\nIf time permits, we can discuss briefly at the end how to build a drat repository — aimed to host multiple R packages — using GitHub as a Web Server, and how to use Travis CI to automatically push updates of your packages into the drat repo.\n\nIf you have never created an R package before, you may feel like this is too much information in a just short while. But don’t let this overwhelm you! The aim of this session is to introduce you to the relevant concepts, as we will touch upon the most important of them rather than diving into details. Even if you don’t fully understand what you are doing during the session, you will hopefully leave with a different perspective on how you can organise your code (for yourself or others) and gear up with the needed resources for the next time you want to reproduce these steps more seriously.\n\nPrerequisites:\n- Bring your own laptop!\n- (Optional) Rstudio installed; this is not necessary to produce R packages but it does make your life easier as the main package for R package development, devtools, is well integrated with RStudio.\n- The following R packages:\n- devtools, usethis and roxygen2\n- tidyverse, rlang\n- (optional) drat\n- ... if I have forgotten something, we will install it on the spot.\n- A GitHub account. I could list this also as optional, but if you want the full experience from this second half of the session, it’s good to reproduce the steps yourself. You are of course welcome either way.\n- A travis account (go to travis-ci.com and sign up with GitHub; this prerequisite assumes you already have a GitHub account)\n\nProgram:\n18.00 Welcome\n18.10 Maria Kalimeri, \"Writing sharable R code.\"\n19.30 Questions and mingle\n20.00 Closing the event",
+    "status": "PAST",
+    "dateTime": "2019-04-04T18:00:00+03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-helsinki/events/259556868/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 22,
+      "waitlistCount": 0,
+      "totalCount": 22
+    },
+    "venues": [
+      {
+        "id": "26228678",
+        "name": "Nightingale Health Plc.",
+        "address": "Mannerheimintie 164A",
+        "city": "Helsinki",
+        "state": "",
+        "country": "fi",
+        "lat": 60.1991,
+        "lon": 24.9002,
+        "postalCode": "00300",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Helsinki",
+      "urlname": "rladies-helsinki"
+    }
+  },
+  {
+    "id": "259166170",
+    "title": "Genomic data science",
+    "description": "Where did my ancestors live? What is my risk for coronary heart disease? Genomic data science involves analysing and interpreting the information in genome sequences by applying statistics and computer science. Genomics plays an important role in many endeavors towards personalized medicine and although consumer DNA testing is becoming a mainstream phenomenon, many questions still need to be answered before genome data can be widely applied in clinical care. Genomics produces huge volumes of data, and this meeting will dive into the different aspects and challenges of analysing it.\n\nProgram:\n18.00 Welcome\n18.10 Nina Mars, Genomic data science\n19.10 Questions and mingle\n20.00 Closing the event",
+    "status": "PAST",
+    "dateTime": "2019-03-14T18:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-helsinki/events/259166170/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 23,
+      "waitlistCount": 0,
+      "totalCount": 23
+    },
+    "venues": [
+      {
+        "id": "26193066",
+        "name": "Terkko Health Hub, Auditorium",
+        "address": "Haartmaninkatu 4",
+        "city": "Helsinki",
+        "state": "al",
+        "country": "fi",
+        "lat": 60.1905,
+        "lon": 24.9077,
+        "postalCode": "meetup1",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Helsinki",
+      "urlname": "rladies-helsinki"
+    }
+  },
+  {
+    "id": "257308476",
+    "title": "DevOps for Data Science",
+    "description": "DevOps for Data Science or\nHow to build a data pipeline that is not a giant house of cards built from random scripts that will all completely collapse the moment any input does anything weird (see https://xkcd.com/2054/)\n\nWe’ve all heard the saying about the 80-20 rule in data science, that most of the project time is spent on wrangling the data in to correct format and only a fraction on the actual model building. The truth is actually even worse: there’s also the effort needed to make sure your model will not explode when left to run on its own in production – or to make sure you will notice when it does.\n\nThat’s where DevOps comes in. In this talk Seija Sirkiä will introduce basic concepts like version control and CI/CD (continuous integration, continuous development) and attempt to do this from the perspective and to an audience of data scientists (maybe particularly those who use R and RStudio). This is not a lesson in exact tools but more a plea for a change in attitude. It is true that we are not software engineers and we don’t exactly produce software but a big part of our daily troubles are the same.\n\nProgram:\n18.00 Welcome !\n18.10 Seija Sirkiä and DevOps for Data Science\n19.10 Mingle and questions\n20.00 Closing the event\n\nPlace: Houston Analytics, Konepajankuja 1",
+    "status": "PAST",
+    "dateTime": "2019-01-22T18:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-helsinki/events/257308476/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 27,
+      "waitlistCount": 0,
+      "totalCount": 27
+    },
+    "venues": [
+      {
+        "id": "26020597",
+        "name": "Houston Analytics",
+        "address": "Konepajankuja 1",
+        "city": "Helsinki",
+        "state": "al",
+        "country": "fi",
+        "lat": 60.1911,
+        "lon": 24.9492,
+        "postalCode": "meetup1",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Helsinki",
+      "urlname": "rladies-helsinki"
+    }
+  },
+  {
+    "id": "271032403",
+    "title": "Webinar: H20 Machine Learning",
+    "description": "Hello everyone!\n\nWe're continuing our events via webinars!\n\nErin LeDell (Chief Machine Learning Scientist at\nH2O AI) will be talking about H2O Machine Learning!\n\nSee you online!",
+    "status": "PAST",
+    "dateTime": "2020-06-18T20:00:00+03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-helsinki/events/271032403/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 42,
+      "waitlistCount": 0,
+      "totalCount": 42
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Helsinki",
+      "urlname": "rladies-helsinki"
+    }
+  },
+  {
+    "id": "270828190",
+    "title": "Webinar: Tidyverse for Machine Learning",
+    "description": "Hello everyone!\n\nWe're continuing our events via webinars!\n\nBruna Wundervald (PhD at the Hamilton Institute in Maynooth) will be talking about Tidyverse for Machine Learning!\n\nSee you online!",
+    "status": "PAST",
+    "dateTime": "2020-06-17T19:15:00+03:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-helsinki/events/270828190/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 52,
+      "waitlistCount": 0,
+      "totalCount": 52
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Helsinki",
+      "urlname": "rladies-helsinki"
+    }
+  },
+  {
+    "id": "268905353",
+    "title": "Data Talks: Happy IWD 2020!",
+    "description": "We are celebrating Women's Day at our Data Talks event!\nAt Data Talks you'll get to hear the most fascinating speeches from data professionals, enjoy good food and meet interesting new people.\n\nWe'll be at Wunderdog's office!\nAddress: Kaisaniemenkatu 1c, 4th floor\n\n***\n\nProgram:\n\n17:30 Networking\n18:00 Welcome\n18:20 Data talks (we'll release speakers and topics soon)\n20:00 Closure\n\n***\n\nSee you in March!",
+    "status": "PAST",
+    "dateTime": "2020-03-11T17:30:00+02:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-helsinki/events/268905353/",
+    "featuredEventPhoto": {
+      "id": "489696582",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/e/e/6/highres_489696582.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/e/e/6/600_489696582.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/e/e/6/thumb_489696582.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 35,
+      "waitlistCount": 0,
+      "totalCount": 35
+    },
+    "venues": [
+      {
+        "id": "26875628",
+        "name": "Kaisaniemenkatu 1c",
+        "address": "Kaisaniemenkatu 1c",
+        "city": "Helsinki",
+        "state": "",
+        "country": "fi",
+        "lat": 60.1709,
+        "lon": 24.9465,
+        "postalCode": "00100",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Helsinki",
+      "urlname": "rladies-helsinki"
+    }
+  },
+  {
+    "id": "268192400",
+    "title": "Reproducible research and how to do it with RMarkdown",
+    "description": "During this workshop, you will learn how to create reproducible research files with RMarkdown and how to share them.\n\nWe will go through the following subjects:\n- Overview and structure of rmarkdown files\n- Adding charts and tables to documents (PDF, HTML, etc.)\n- Customize your document\n\nPrerequisites if you want to code by yourself:\n- R and RStudio installed on your machine\n- Packages knitr, kable, tidyverse installed\n\nIf you want PDF documents with LaTeX you need to download:\n- Windows user: MikTex (https://miktex.org/download)\n- MacOS user: MacTex (https://www.tug.org/mactex/mactex-download.html)\n- Linux user: Use package manager\n\nIf you want to get familiar with the subject beforehand, check this cheatsheet:\nhttps://rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf\n\nSee you on Monday!",
+    "status": "PAST",
+    "dateTime": "2020-02-17T18:00:00+02:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-helsinki/events/268192400/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 16,
+      "waitlistCount": 0,
+      "totalCount": 16
+    },
+    "venues": [
+      {
+        "id": "26173474",
+        "name": "Töölö Library",
+        "address": "Topeliuksenkatu 6",
+        "city": "Helsinki",
+        "state": "",
+        "country": "fi",
+        "lat": 60.1834,
+        "lon": 24.9175,
+        "postalCode": "00250",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Helsinki",
+      "urlname": "rladies-helsinki"
+    }
+  },
+  {
+    "id": "276364069",
+    "title": "Data Talks: Happy IWD 2021!",
+    "description": "We are celebrating International Women's Day at our Data Talks event!\n\nAt Data Talks you'll get to hear the most fascinating speeches from data professionals.\n\n***\n\nProgram:\n\n- Athanasia Monika Mowinckel, Staff Scientist, Centre for Lifespan Changes in Brain and Cognition - \"Make something random, learn something useful\"\n\n- Cansu Kavili, Site Reliability Engineer, Red Hat - \"DevOps for Data Science\"\n\n- Erlin Gulbenkoglu, Data Scientist, Rovio - \"Explaining the ML model predictions\"\n\n- Caitlin Hudon, Lead Data Scientist, OnlineMedEd - \"The Juice and the Squeeze: how to get more out of your ML models\".\n***\n\nSee you in March!",
+    "status": "PAST",
+    "dateTime": "2021-03-10T19:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-helsinki/events/276364069/",
+    "featuredEventPhoto": {
+      "id": "494882874",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/3/a/highres_494882874.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/3/a/600_494882874.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/3/a/thumb_494882874.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 36,
+      "waitlistCount": 0,
+      "totalCount": 36
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Helsinki",
+      "urlname": "rladies-helsinki"
+    }
+  },
+  {
+    "id": "289726844",
+    "title": "Data Visualisation with ggplot2 - Episode 2",
+    "description": "❤️ **R-Ladies Helsinki is back!** ❤️\n\nSave your spot to learn about the basics of data visualization (and more) in R with one of the most used packages: ggplot2\n\n**Supercell** is sponsoring our comeback series, episode 2! We will have tasty snacks and soft drinks.\n\nMake sure you RSVP before the **4th of December**. Please send us your full name, we'll prepare name tags.\n\nIf you are a beginner in R, don't be shy! We are having an open-level event.\n\nPrerequisites are below if you want to code by yourself during the event:\n\n* R and RStudio installed on your machine:\n\n\\- https://cran\\.r\\-project\\.org/bin/\n\\- https://posit\\.co/download/rstudio\\-desktop/\n\n* Packages tidyverse, more specifically ggplot2 and dplyr installed\n\n\\- If you want to install before you arrive run this code piece *install.packages('tidyverse')*\n\n* We will help you on the way to installation if you don't feel like doing it by yourselves.\n\nSee you soon! ❤️",
+    "status": "PAST",
+    "dateTime": "2022-12-07T17:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-helsinki/events/289726844/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 17,
+      "waitlistCount": 0,
+      "totalCount": 17
+    },
+    "venues": [
+      {
+        "id": "26374573",
+        "name": "Supercell",
+        "address": "Jätkäsaarenlaituri 1",
+        "city": "Helsinki",
+        "state": "",
+        "country": "fi",
+        "lat": 60.1609,
+        "lon": 24.9215,
+        "postalCode": "00180",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Helsinki",
+      "urlname": "rladies-helsinki"
+    }
+  },
+  {
+    "id": "289726785",
+    "title": "Data Manipulation with dplyr - Episode 1",
+    "description": "❤️ **R-Ladies Helsinki is back!** ❤️\n\nSave your spot to learn about the basics of data manipulation in R with one of the most used packages: dplyr\n\n**Rovio Entertainment** is sponsoring our comeback series, episode 1! We will have tasty snacks and soft drinks!\nMake sure you RSVP before the **25th of November**. Please send us your full name, we'll prepare name tags.\n\nIf you are a beginner in R, don't be shy! We are having an open-level event.\n\nPrerequisites if you want to code by yourself during the event:\n\n* R and RStudio installed on your machine:\n\\- https://cran\\.r\\-project\\.org/bin/\n\\- https://posit\\.co/download/rstudio\\-desktop/\n* Packages tidyverse, more specifically dplyr installed\n\\- If you want to install before you arrive run this code piece *install.packages('tidyverse')*\n* We will help you on the way to installation if you don't feel like doing it by yourselves.\n\nSee you soon! ❤️",
+    "status": "PAST",
+    "dateTime": "2022-11-28T17:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-helsinki/events/289726785/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 20,
+      "waitlistCount": 1,
+      "totalCount": 20
+    },
+    "venues": [
+      {
+        "id": "27456683",
+        "name": "Rovio Entertainment",
+        "address": "Keilaranta 7",
+        "city": "Espoo",
+        "state": "",
+        "country": "fi",
+        "lat": 60.1766,
+        "lon": 24.8343,
+        "postalCode": "02150",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Helsinki",
+      "urlname": "rladies-helsinki"
+    }
+  },
+  {
+    "id": "293988923",
+    "title": "Data Picnic",
+    "description": "Helloooes!\nLet's have a casual picnic in the park (hopefully it will be summer by then)! No agenda or slides, just come and meet other people from the community interested in R and data analytics.\n\nBring your own snacks and drinks, if you want them :)\n\nSee you soon!",
+    "status": "PAST",
+    "dateTime": "2023-06-21T17:15:00+03:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-helsinki/events/293988923/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "27588064",
+        "name": "Warehouse Park",
+        "address": "Töölönlahdenkatu 4",
+        "city": "Helsinki",
+        "state": "",
+        "country": "fi",
+        "lat": 60.1741,
+        "lon": 24.9369,
+        "postalCode": "00100",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Helsinki",
+      "urlname": "rladies-helsinki"
+    }
+  },
+  {
+    "id": "293210901",
+    "title": "Welcoming Summer: Joined Event with UseR Finland",
+    "description": "Hello,\n\nR-Ladies Helsinki and UseR Group Finland are organizing an event together and you are all welcome!\n\nWe have speakers from different industries to present how they use R in their daily life and what magic they bring to help their teammates!\n\nJoin us at Hive’s premises. We will also welcome Summer with little treats.\n\nHope to see you there!",
+    "status": "PAST",
+    "dateTime": "2023-05-22T17:00:00+03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-helsinki/events/293210901/",
+    "featuredEventPhoto": {
+      "id": "512758789",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/e/5/a/5/highres_512758789.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/e/5/a/5/600_512758789.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/5/a/5/thumb_512758789.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 17,
+      "waitlistCount": 0,
+      "totalCount": 17
+    },
+    "venues": [
+      {
+        "id": "27565677",
+        "name": "Hive Helsinki",
+        "address": "Haapaniemenkatu 5",
+        "city": "Helsinki",
+        "state": "",
+        "country": "fi",
+        "lat": 60.1808,
+        "lon": 24.9582,
+        "postalCode": "00530",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Helsinki",
+      "urlname": "rladies-helsinki"
+    }
+  },
+  {
+    "id": "291571371",
+    "title": "Tidy Tuesday",
+    "description": "❤️ **R-Ladies Helsinki is back!** ❤️\n\nWe are running our first \"Tidy Tuesday\" event.\n\nBring your laptops and your curious mind, and let's start analyzing some fun data set together.\n\nWe will have mentors to help you on the way of data mingling and creating beautiful charts. If you are a beginner in R, don't be shy! We are having an open-level event. **Everyone is welcome!**\n\nSave your spot and make sure you RSVP before the **26th of February**. Please send us your full name, we'll prepare name tags.\n\nPrerequisites are below if you want to code by yourself during the event:\n\n* R and RStudio installed on your machine:\n\n\\- https://cran\\.r\\-project\\.org/bin/\n\\- https://posit\\.co/download/rstudio\\-desktop/\n\n* Packages tidyverse, more specifically ggplot2 and dplyr installed\n\n\\- If you want to install before you arrive run this code piece *install.packages('tidyverse')*\n\n* We will help you on the way to installation if you don't feel like doing it by yourselves.\n\nSee you soon! ❤️",
+    "status": "PAST",
+    "dateTime": "2023-02-28T17:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-helsinki/events/291571371/",
+    "featuredEventPhoto": {
+      "id": "510613098",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/3/2/a/highres_510613098.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/3/2/a/600_510613098.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/3/2/a/thumb_510613098.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 16,
+      "waitlistCount": 0,
+      "totalCount": 16
+    },
+    "venues": [
+      {
+        "id": "27512156",
+        "name": "Arkadiankatu 3",
+        "address": "Arkadiankatu 3",
+        "city": "Helsinki",
+        "state": "",
+        "country": "fi",
+        "lat": 60.1714,
+        "lon": 24.9344,
+        "postalCode": "00100",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Helsinki",
+      "urlname": "rladies-helsinki"
+    }
+  }
+]

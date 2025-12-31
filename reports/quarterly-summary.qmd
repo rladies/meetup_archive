@@ -39,7 +39,7 @@ year_ago_quarter_start <- current_quarter_start - years(1)
 
 # Prepare events data
 events_analyzed <- events |>
-  filter(!type %in% c("cancelled", "CANCELLED")) |>
+  filter(!status %in% c("cancelled", "CANCELLED")) |>
   mutate(
     event_date = as.Date(date),
     is_virtual = str_detect(tolower(location %||% ""), "online|virtual|zoom|meet|not announced")

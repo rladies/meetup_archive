@@ -1,0 +1,602 @@
+[
+  {
+    "id": "255999369",
+    "title": "3rd Meetup: Intro to dplyr & Github ",
+    "description": "Our preliminary schedule for the meeting:\n15:00 Reception\n15:10 Workshop 1: Intro to dplyr by Paloma (co-organizer)\n15:45 Coffee&Tea break\n16:00 Workshop 2: Intro to Github by Elena (co-organizer)\n\nPlease bring your laptops fully charged in order to be able to follow the workshop. We have limited number of sockets in the meeting room. Internet WiFi connection is very good!\nIf possible have R/Rstudio already installed on your laptops.\n(you can download R at the following link -> https://cran.r-project.org/bin/windows/base/\nand RStudio from here -> https://www.rstudio.com/products/rstudio/download/ )\n\nHope you will join us to celebrate the first year of R-Ladies Rotterdam together!",
+    "status": "PAST",
+    "dateTime": "2018-12-15T15:00:00+01:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-rotterdam/events/255999369/",
+    "featuredEventPhoto": {
+      "id": "475942320",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/7/3/0/highres_475942320.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/7/3/0/600_475942320.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/7/3/0/thumb_475942320.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 17,
+      "waitlistCount": 0,
+      "totalCount": 17
+    },
+    "venues": [
+      {
+        "id": "25995024",
+        "name": "Erasmus MC",
+        "address": "Doctor Molewaterplein 40",
+        "city": "Rotterdam",
+        "state": "al",
+        "country": "nl",
+        "lat": 51.9112,
+        "lon": 4.4687,
+        "postalCode": "meetup2",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Rotterdam",
+      "urlname": "rladies-rotterdam"
+    }
+  },
+  {
+    "id": "256740590",
+    "title": "R-Ladies Drinks **also for ladies who don't know R**",
+    "description": "Join the social drink with the R-Ladies!\n\nLet’s have a casual drink in between workshops, where we can socialize, get to know each other better and have a fun night.\nJoin us to:\n- cbind(you, R-ladies community)\n- if(glass[‘volume’] == 0) print(“One more beer please!”)\n- Just have a drink and have some fun!",
+    "status": "PAST",
+    "dateTime": "2018-12-07T17:00:00+01:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-rotterdam/events/256740590/",
+    "featuredEventPhoto": {
+      "id": "476661184",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/2/c/0/highres_476661184.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/2/c/0/600_476661184.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/2/c/0/thumb_476661184.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 7,
+      "waitlistCount": 0,
+      "totalCount": 7
+    },
+    "venues": [
+      {
+        "id": "25374585",
+        "name": "Weena Rotterdam",
+        "address": "Weena 202, 3012 NJ Rotterdam",
+        "city": "Rotterdam",
+        "state": "",
+        "country": "nl",
+        "lat": 51.9233,
+        "lon": 4.4744,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Rotterdam",
+      "urlname": "rladies-rotterdam"
+    }
+  },
+  {
+    "id": "255767231",
+    "title": "2nd Meetup: Interactive data visualization with rBokeh package",
+    "description": "After a long break since our first meetup in spring, we are coming back to refresh our connections and R knowledge!\n\nOur preliminary schedule for the meeting:\n- Reception at 3pm\n- Introductory presentation\n- Workshop: Interactive data visualization with rBokeh package by Elena (co-organizer)\n- Coffee&Tea break\n- 5 x Lightning talks (5 x 15 minutes - by members on any R-related topics)\n- Coffee&Tea break\n- Wrap-up & networking\n\nWe kindly invite you to send us a message/e-mail if you would like to give a lightning talk to discuss further! It can be any topic related to R: research, problems and solutions when working in R, tips&tricks, you name it!\n\nPlease bring your laptops fully charged in order to be able to follow the workshop. We have limited number of sockets in the meeting room. Internet WiFi connection is very good!\nIf possible have R/Rstudio already installed on your laptops.\n(you can download R at the following link -> https://cran.r-project.org/bin/windows/base/\nand RStudio from here -> https://www.rstudio.com/products/rstudio/download/ )\n\nJoin us for the 2nd Meetup this year!",
+    "status": "PAST",
+    "dateTime": "2018-11-17T15:00:00+01:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-rotterdam/events/255767231/",
+    "featuredEventPhoto": {
+      "id": "475769912",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/4/d/8/highres_475769912.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/4/d/8/600_475769912.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/4/d/8/thumb_475769912.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 19,
+      "waitlistCount": 0,
+      "totalCount": 19
+    },
+    "venues": [
+      {
+        "id": "25691849",
+        "name": "Erasmus MC",
+        "address": "Wytemaweg 80, Rotterdam",
+        "city": "3015 CN",
+        "state": "",
+        "country": "nl",
+        "lat": 51.9111,
+        "lon": 4.4669,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Rotterdam",
+      "urlname": "rladies-rotterdam"
+    }
+  },
+  {
+    "id": "246776180",
+    "title": "First meetup of the R-Ladies Rotterdam",
+    "description": "We are thrilled to announce the first meetup of R-Ladies Rotterdam!\n\nOur preliminary schedule for the meeting is the following:\n- Reception at 12 pm at Erasmus MC (from 12.00 - 12.30pm)\n- Introductory presentation of the R-Ladies community by Ingrid - organizer RladiesRdam\n(from 12.30 - 12.45 )\n- Workshop: Using R for my Research (modern uses: Markdown & Shiny apps) by Elrozy\n(from 12.45- 14.15)\n- Coffee&Tea break (from 14.15 - 14.30 )\n- Demonstration: How to use blogdown - Create Blogs and Websites with R Markdown by Brett -\nco-organizer (from 14.30 - 15.00 )\n- Coffee&Tea break (from 15.00 - 15.15 )\n- Discussion about the meeting and ideas for future meetups - get feedback from the participants and presenters (from 15.15 - 15.45)\n- We will end the meeting with drinks and something sweet to celebrate (max. until 17.00 hours)\n\nNOTE! Please bring your laptops fully charged in order to be able to follow the workshop. We have limited number of sockets in the meeting room. Internet WiFi connection is very good!\nIf possible have R/Rstudio already installed on your laptops.\n(you can download R at the following link -> https://cran.r-project.org/bin/windows/base/\nand RStudio from here -> https://www.rstudio.com/products/rstudio/download/ )\n\nLooking forward to meeting you all!",
+    "status": "PAST",
+    "dateTime": "2018-02-24T12:00:00+01:00",
+    "duration": "PT4H",
+    "eventUrl": "https://www.meetup.com/rladies-rotterdam/events/246776180/",
+    "featuredEventPhoto": {
+      "id": "467549473",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/3/2/1/highres_467549473.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/3/2/1/600_467549473.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/3/2/1/thumb_467549473.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 40,
+      "waitlistCount": 0,
+      "totalCount": 40
+    },
+    "venues": [
+      {
+        "id": "25691849",
+        "name": "Erasmus MC",
+        "address": "Wytemaweg 80, Rotterdam",
+        "city": "3015 CN",
+        "state": "",
+        "country": "nl",
+        "lat": 51.9111,
+        "lon": 4.4669,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Rotterdam",
+      "urlname": "rladies-rotterdam"
+    }
+  },
+  {
+    "id": "264423072",
+    "title": "R-Ladies Social Drinks",
+    "description": "It's time for another R-Ladies social drinks!\n\nIf you don't know us yet, this is the perfect time to get to know the community in an informal setting and learn about who we are and what we do. If you do already know us, then you don't need a reason for grabbing some drinks ;).",
+    "status": "PAST",
+    "dateTime": "2019-09-13T18:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-rotterdam/events/264423072/",
+    "featuredEventPhoto": {
+      "id": "484437644",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/e/1/2/c/highres_484437644.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/e/1/2/c/600_484437644.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/1/2/c/thumb_484437644.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 12,
+      "waitlistCount": 0,
+      "totalCount": 12
+    },
+    "venues": [
+      {
+        "id": "26105036",
+        "name": "Bar Brasserie Engels",
+        "address": "Stationsplein 45",
+        "city": "Rotterdam",
+        "state": "ZH",
+        "country": "nl",
+        "lat": 51.9231,
+        "lon": 4.4694,
+        "postalCode": "3013 AK",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Rotterdam",
+      "urlname": "rladies-rotterdam"
+    }
+  },
+  {
+    "id": "263092724",
+    "title": "How diversely do we read?  Web scrapping in R",
+    "description": "In this workshop, we will provide an introduction to web scraping in R using the package {rvest}.\n\nWe'll go through some examples together, learning the basic structure of webpages and exploring different ways to extract data from a website.\n\nThe workshop is intended to be fun, and we'll be web scraping and web querying data about books and their authors to answer the question of how diversely do we read. Therefore it doesn't matter if you are a beginner or if you are an R expert, this workshop is for everyone!\n\nLooking forward to see you!\n\n######\nFor this workshop please bring your laptop with R and Rstudio installed.\n\nWe will be using the following packages: tidyverse and rvest.\n\nLink to presentation: To be updated.\n\nLink to files for the workshop: To be updated\n\n####Preliminary program:\n\n18:00 - 18:15 Welcome and setup\n\n18:15 - 19:00 Workshop part 1.\n\n19:00 - 19.15 Break.\n\n19: 15 - 20:00 Workshop part 2.\n\n20:00 - 21:00 Closure and socializing\n\n####\nThis event is free of cost.\n\n##################\nPresentation and materials can be downloaded from: https://drive.google.com/open?id=1dwkzye9CTcoG_T-cIUJS9enVLeFjKtCY\n\nOr from our github repo:\nhttps://github.com/rladies/meetup-presentations_rotterdam\n\n##################",
+    "status": "PAST",
+    "dateTime": "2019-07-25T18:00:00+02:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-rotterdam/events/263092724/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 29,
+      "waitlistCount": 0,
+      "totalCount": 29
+    },
+    "venues": [
+      {
+        "id": "26290752",
+        "name": "KPN",
+        "address": "Wilhelminakade 123",
+        "city": "Rotterdam",
+        "state": "ZH",
+        "country": "nl",
+        "lat": 51.9072,
+        "lon": 4.4893,
+        "postalCode": "3072 AP",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Rotterdam",
+      "urlname": "rladies-rotterdam"
+    }
+  },
+  {
+    "id": "261613889",
+    "title": "Work happieR: A workshop on project oriented workflow in R",
+    "description": "Are you familiar with problems setting the working directory?\n\nDid you ever had to re-run your code to produce results or graphs?\n\nDo you ever have to work with both data, a script and a report?\n\nDid you ever opened your own work and got lost in your own files?\n\nDo you want to make your code, research or product useful for others? Or for future self?\n\nIf your answer is yes to any of the questions above, this workshop is for you! You will learn how to maximize effectiveness, reduce frustration, facilitate collaboration and increase readability of your work.\n\nDoesn't matter if you are a beginner or if you are an R expert, this workshop is for everyone!\n\n######\nFor this workshop please bring your laptop with R and Rstudio installed.\n\nLink to presentation:\n\nhttps://rladies-rdam-workhappier.netlify.com/\n\nLink to files for the workshop:\n\nhttps://drive.google.com/drive/folders/1Hpxg0dfFLki7AqTXOdFLBgNdnmw9bQDt?usp=sharing\n\n####Preliminary program:\n\n18:00 - 18:15 Welcome and setup\n\n18:15 - 19:00 Workshop part 1.\n\n19:00 - 19.15 Break.\n\n19: 15 - 20:00 Workshop part 2.\n\n20:00 - 21:00 Closure and socializing\n\n####\n\nThis event is free and will be hosted by 42workspace (https://www.42workspace.com/), the leading tech co-working hub of Rotterdam, located in the beating heart of the city, so save your spot now!\n\nLooking forward to see you!\n\n###",
+    "status": "PAST",
+    "dateTime": "2019-06-06T18:00:00+02:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-rotterdam/events/261613889/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 22,
+      "waitlistCount": 0,
+      "totalCount": 22
+    },
+    "venues": [
+      {
+        "id": "24888199",
+        "name": "42 workspace",
+        "address": "Schiedamse Vest 154",
+        "city": "Rotterdam",
+        "state": "",
+        "country": "nl",
+        "lat": 51.9162,
+        "lon": 4.4801,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Rotterdam",
+      "urlname": "rladies-rotterdam"
+    }
+  },
+  {
+    "id": "261345881",
+    "title": "Get to know R-Ladies | Social Drinks",
+    "description": "It's time for another R-Ladies social drinks!\n\nIf you don't know us yet, this is the perfect time to get to know the community in an informal setting and learn about who we are and what we do. If you do already know us, then you don't need a reason for grabbing some drinks ;).",
+    "status": "PAST",
+    "dateTime": "2019-05-16T18:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-rotterdam/events/261345881/",
+    "featuredEventPhoto": {
+      "id": "478376262",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/b/c/6/highres_478376262.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/b/c/6/600_478376262.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/b/c/6/thumb_478376262.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 7,
+      "waitlistCount": 0,
+      "totalCount": 7
+    },
+    "venues": [
+      {
+        "id": "26105036",
+        "name": "Bar Brasserie Engels",
+        "address": "Stationsplein 45",
+        "city": "Rotterdam",
+        "state": "ZH",
+        "country": "nl",
+        "lat": 51.9233,
+        "lon": 4.4692,
+        "postalCode": "3013 AK",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Rotterdam",
+      "urlname": "rladies-rotterdam"
+    }
+  },
+  {
+    "id": "260226536",
+    "title": "The tidyverse special edition. Workshop.",
+    "description": "Welcome!\n\nWe are starting this season with a workshop to boost your skills in R!\n\nWe will go through the essentials of the tidyverse packages, covering functions that will help you transform and clean a raw dataset to packages that will help you communicate your results with beautiful graphs and tables!\n\nDoesn't matter if you are a beginner or if you are an R expert, this workshop is for everyone!\n\nFor this workshop please bring your laptop with R and Rstudio installed.\nWe will use the following packages: tidyverse and kableExtra.\nScrips and presentation will be announced and provided before the meetup in the following link: https://github.com/rladies/meetup-presentations_rotterdam.\n\n####Preliminary program:\n\n18:00 - 18:15 Welcome and setup\n\n18:15 - 19:00 Workshop part 1.\n\n19:00 - 19.15 Break.\n\n19: 15 - 20:00 Workshop part 2.\n\n20:00 - 20:30 Closure and socializing\n\n####\n\nLooking forward to see you!\n\nThe materials are available in this https://drive.google.com/drive/folders/1LkHdk3LxTVM_JALHNBlOJBLSC_9FW-J-",
+    "status": "PAST",
+    "dateTime": "2019-04-18T18:00:00+02:00",
+    "duration": "PT2H30M",
+    "eventUrl": "https://www.meetup.com/rladies-rotterdam/events/260226536/",
+    "featuredEventPhoto": {
+      "id": "479997517",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/e/0/a/d/highres_479997517.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/e/0/a/d/600_479997517.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/0/a/d/thumb_479997517.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 19,
+      "waitlistCount": 0,
+      "totalCount": 19
+    },
+    "venues": [
+      {
+        "id": "26290752",
+        "name": "KPN",
+        "address": "Wilhelminakade 123",
+        "city": "Rotterdam",
+        "state": "ZH",
+        "country": "nl",
+        "lat": 51.9072,
+        "lon": 4.4893,
+        "postalCode": "3072 AP",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Rotterdam",
+      "urlname": "rladies-rotterdam"
+    }
+  },
+  {
+    "id": "259222607",
+    "title": "Youth Tech Fest where Girls innovate",
+    "description": "Youth Tech Fest where Girls innovate' for International Women's Day 2019 for girls between 11 and 18 years old @CODAM Amsterdam. Sign up for 'Youth Tech Fest where Girls innovate':\n\nhttp://bit.ly/YouthTechFestGirls2019\n\nMeld je nu aan voor de 'Youth Tech Fest where Girls innovate' dagje bij CODAM - Coding College Amsterdam. In een programma op 9 maart 2019, van maximaal 5 uren zul je op een leuke en interactieve manier leren innoveren.\n\nLocatie is in Amsterdam, bij CODAM de beste coding school ter wereld, op het Marineterrein. Je krijgt na afloop het boekje The New Girl Code cadeau mee. Ben je een meisje tussen de 11 en 18 jaar? Meld je aan en nodig je vriendinnetjes uit. Wees er snel bij, er is plek voor 35 meisjes. Jongens zijn natuurlijk ook welkom, want we staan voor diversiteit en inclusie.",
+    "status": "PAST",
+    "dateTime": "2019-03-09T11:00:00+01:00",
+    "duration": "PT5H",
+    "eventUrl": "https://www.meetup.com/rladies-rotterdam/events/259222607/",
+    "featuredEventPhoto": {
+      "id": "478923321",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/f/9/highres_478923321.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/f/9/600_478923321.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/f/9/thumb_478923321.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "26197696",
+        "name": "Marineterrein Amsterdam",
+        "address": "Kattenburgerstraat 5",
+        "city": "Amsterdam",
+        "state": "NH",
+        "country": "nl",
+        "lat": 52.3724,
+        "lon": 4.9153,
+        "postalCode": "1018 JA",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Rotterdam",
+      "urlname": "rladies-rotterdam"
+    }
+  },
+  {
+    "id": "258653478",
+    "title": "Get to know R-Ladies | Drinks",
+    "description": "Join the social drink with the R-Ladies!\n\nLet’s have a casual drink in between workshops, where we can socialize, get to know each other better and have a fun night.\nJoin us to:\n- cbind(you, R-ladies community)\n- if(glass[‘volume’] == 0) print(“One more beer please!”)\n- Just have a drink and have some fun!",
+    "status": "PAST",
+    "dateTime": "2019-02-13T18:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-rotterdam/events/258653478/",
+    "featuredEventPhoto": {
+      "id": "478376262",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/b/c/6/highres_478376262.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/b/c/6/600_478376262.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/b/c/6/thumb_478376262.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 12,
+      "waitlistCount": 0,
+      "totalCount": 12
+    },
+    "venues": [
+      {
+        "id": "26105036",
+        "name": "Bar Brasserie Engels",
+        "address": "Stationsplein 45",
+        "city": "Rotterdam",
+        "state": "ZH",
+        "country": "nl",
+        "lat": 51.9233,
+        "lon": 4.4692,
+        "postalCode": "3013 AK",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Rotterdam",
+      "urlname": "rladies-rotterdam"
+    }
+  },
+  {
+    "id": "275171538",
+    "title": "Microbenchmarking: measuring and improving R code performance",
+    "description": "Welcome!\n\nWe are so thrilled to have Semiramis Castro as our speaker in our last event of the year. In this session we will discuss the core concepts about Microbenchmarking - that is, how to measure and improve performance of R code. We will base this session on chapter 23 and 24 of the Advanced R book (https://adv-r.hadley.nz/) by Hadley Wickham.\n\nAbout R-Ladies NL book club\n----------------------\nThis is the grand finale of a series of events based on Hadley Wickham's Advanced R book, hosted by R-Ladies chapters of the Netherlands.\n\nYou can find the slides and materials from previous sessions at: https://github.com/rladiesnl/book_club\n\nAbout Semiramis\n----------------------\nSemiramis is a software developer/data scientist who codes mainly in R and Python. She's a recent PhD graduate from the National Autonomous University of Mexico with a focus on genomics of pathogenic bacteria and antibiotic resistance. Among the bacteria she studied are the emerging pathogen Acinetobacter haemolyticus and the deadly Acinetobacter baumannii.\n\nEvent link\n----------------------\nWe host our events in Jitsi (Note that Jitsi works best with chrome)\n\nLink: https://meet.jit.si/rladies_bookclub_performance\n\nCode of Conduct\n----------------------------\nWe expect all attendees to abide by our Code of Conduct. Anyone who violates this community's Code of Conduct will be refused entry, expelled, and/or any other action deemed appropriate by the Organizer, regardless of event registration, meetup membership or other condition. We are emphatically queer and trans-friendly. This group was created so those who identify as women have a comfortable place to learn. Please read the Code of Conduct here: https://rladies.org/code-of-conduct/",
+    "status": "PAST",
+    "dateTime": "2020-12-22T18:00:00+01:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-rotterdam/events/275171538/",
+    "featuredEventPhoto": {
+      "id": "493952349",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/e/5/d/highres_493952349.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/e/5/d/600_493952349.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/e/5/d/thumb_493952349.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 19,
+      "waitlistCount": 0,
+      "totalCount": 19
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Rotterdam",
+      "urlname": "rladies-rotterdam"
+    }
+  },
+  {
+    "id": "274362722",
+    "title": "Quasiquotation: Learning about the bang bang and curly curly slang",
+    "description": "Welcome!\n\nIn our next session Paloma Rojas-Saunero will share the key points on quasiquotation and useful tools from the rlang package. We will also learn about curly-curly, a new operator to make it easier to create functions around #tidyverse pipelines.\n\nAfter that, we'll try some exercises together and help each other clear up any doubts and get over any hurdles related to it.\n\nAbout R-Ladies book club\n----------------------\nThis session is part of the initiative by R-Ladies chapters of the Netherlands who have been hosting a series of events based on Hadley Wickham's Advanced R book (https://adv-r.hadley.nz/).\n\nYou can find the slides and materials from previous sessions and our agenda at: https://github.com/rladiesnl/book_club\n\nAlso feel free to sign up to discuss one of the chapters there!\n\nAbout \"Quasiquotation\" (Chapter 19, Advanced R)\n----------------------\nThe package rlang has tools that you can use to capture (quote) unevaluated function arguments. You’ll also learn about quasiquotation, which provides a set of techniques to unquote input to make it possible to easily generate new trees from code fragments.\n\nEvent link\n----------------------\nWe host our events in Jitsi (Note that Jitsi works best with chrome)\n\nhttps://meet.jit.si/rladies_bangbang\n\nCode of Conduct\n----------------------------\nWe expect all attendees to abide by our Code of Conduct. Anyone who violates this community's Code of Conduct will be refused entry, expelled, and/or any other action deemed appropriate by the Organizer, regardless of event registration, meetup membership or other condition. We are emphatically queer and trans-friendly. This group was created so those who identify as women have a comfortable place to learn. Please read the Code of Conduct here: https://rladies.org/code-of-conduct/",
+    "status": "PAST",
+    "dateTime": "2020-11-10T18:00:00+01:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-rotterdam/events/274362722/",
+    "featuredEventPhoto": {
+      "id": "493372255",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/c/1/f/highres_493372255.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/c/1/f/600_493372255.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/c/1/f/thumb_493372255.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 27,
+      "waitlistCount": 0,
+      "totalCount": 27
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Rotterdam",
+      "urlname": "rladies-rotterdam"
+    }
+  },
+  {
+    "id": "273109375",
+    "title": "Mastering R6! Advanced R, Chapter 14, R-Ladies NL Book Club",
+    "description": "Welcome!!\n\nThe R Ladies chapters of the Netherlands are partnering up and are hosting an online book club. As a first book, we chose to read and discuss Hadley Wickham's Advanced R book (https://adv-r.hadley.nz/).\nJoin us for our next meeting, in which Johanna Muñoz\nwill present the key points of Chapter 14: \"R6\".\nAfter that, we'll try some exercises together and help each other clear up any doubts and get over any hurdles :)\n\nYou can find the full schedule and more information here: https://github.com/rladiesnl/book_club\n\nAnd sign up to discuss one of the chapters at https://bit.ly/2QBYGEG!\n\nABOUT Johanna\n----------------------\nJohanna is a researcher with a diverse background. She loves statistics, and although she considers she is far away from being a programming wizard, she survives using R as her weapon of choice.\n\nABOUT the chapter\n----------------------\nR6 is an implemention of encapsulated object-oriented programming for R, and is a simpler, faster, lighter-weight alternative to R’s built-in reference classes. This style of programming is also sometimes referred to as classical object-oriented programming.\n\nSome features of R6 from https://r6.r-lib.org/:\n\n- R6 objects have reference semantics.\n- R6 cleanly supports inheritance across packages.\n- R6 classes have public and private members.\n\nREQUIREMENTS\n----------------------\nMake sure to read the chapter in advance!\nNote that Jitsi works best with chrome\n\nLINK TO MEETUP\n----------------------\nhttps://meet.jit.si/rladiesnl_bookclub_chp14\n\nCODE OF CONDUCT\n----------------------------\nWe expect all attendees to abide by our Code of Conduct. Anyone who violates this community's Code of Conduct will be refused entry, expelled, and/or any other action deemed appropriate by the Organizer, regardless of event registration, meetup membership or other condition. We are emphatically queer and trans-friendly. This group was created so those who identify as women have a comfortable place to learn. Please read the Code of Conduct here: https://rladies.org/code-of-conduct/",
+    "status": "PAST",
+    "dateTime": "2020-09-15T18:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-rotterdam/events/273109375/",
+    "featuredEventPhoto": {
+      "id": "492232644",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/d/a/4/highres_492232644.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/d/a/4/600_492232644.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/d/a/4/thumb_492232644.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 20,
+      "waitlistCount": 0,
+      "totalCount": 20
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Rotterdam",
+      "urlname": "rladies-rotterdam"
+    }
+  },
+  {
+    "id": "271674531",
+    "title": "Mastering conditions! R Ladies NL Book Club - Advanced R Chapter 8",
+    "description": "Hi everyone,\n\nThe R Ladies chapters of the Netherlands are partnering up and are hosting an online book club. As a first book, we chose to read and discuss Hadley Wickham's Advanced R book (https://adv-r.hadley.nz/).\nJoin us for our next meeting, in which Semiramis Castro will present the key points of Chapter 8: \"Conditions\". After that, we'll try some exercises together and help each other clear up any doubts and get over any hurdles :)\n\nYou can find the full schedule and more information here: https://github.com/rladiesnl/book_club\n\nAnd sign up to discuss one of the chapters at https://bit.ly/2QBYGEG!\n\nABOUT Semiramis\n----------------------\nSemiramis is a software developer/data scientist who codes mainly in R and Python. She's a recent PhD graduate from the National Autonomous University of Mexico with a focus on genomics of pathogenic bacteria and antibiotic resistance. Among the bacteria she studied are the emerging pathogen Acinetobacter haemolyticus and the deadly Acinetobacter baumannii.\n\nABOUT the chapter\n----------------------\n“Conditions” is the umbrella term used to describe errors, warnings, and messages. You’ve certainly encountered these before, so in this chapter you learn how to signal them appropriately in your own functions, and how to handle them when signalled elsewhere.\n\nREQUIREMENTS\n----------------------\nMake sure to read the chapter in advance!\nNote that Jitsi works best with chrome\n\nLINK TO MEETUP\n----------------------\nhttps://meet.jit.si/rladiesnl_bookclub_chp8\n\nCODE OF CONDUCT\n----------------------------\nWe expect all attendees to abide by our Code of Conduct. Anyone who violates this community's Code of Conduct will be refused entry, expelled, and/or any other action deemed appropriate by the Organizer, regardless of event registration, meetup membership or other condition. We are emphatically queer and trans-friendly. This group was created so those who identify as women have a comfortable place to learn. Please read the Code of Conduct here: https://rladies.org/code-of-conduct/",
+    "status": "PAST",
+    "dateTime": "2020-07-07T18:00:00+02:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-rotterdam/events/271674531/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 24,
+      "waitlistCount": 0,
+      "totalCount": 24
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Rotterdam",
+      "urlname": "rladies-rotterdam"
+    }
+  },
+  {
+    "id": "270020889",
+    "title": "R Ladies Netherlands Book Club - Advanced R Chapter 3",
+    "description": "The R Ladies chapters of the Netherlands are partnering up!\n\nStarting in April, we started hosting an online book club. Our first book is Hadley Wickham's Advanced R (https://adv-r.hadley.nz/).\n\nIn our second meeting, Paloma Rojas-Saunero from R Ladies Rotterdam will present the key points of Chapter 3: \"Vectors\". After that, we'll go through the exercises together and help each other clear up any doubts and get over any hurdles :) Make sure to read the chapter in advance!\n\nThe link to the event meeting will be provided closer to the date.\n\nOnline meetings will take place every two weeks. Check the full schedule, previous slides and sign up to present a chapter at this link!\n\nhttps://rladiesnl.github.io/book_club/\n\nSee you soon and stay safe!",
+    "status": "PAST",
+    "dateTime": "2020-04-21T18:00:00+02:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-rotterdam/events/270020889/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 46,
+      "waitlistCount": 0,
+      "totalCount": 46
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Rotterdam",
+      "urlname": "rladies-rotterdam"
+    }
+  }
+]

@@ -1,0 +1,464 @@
+[
+  {
+    "id": "256272641",
+    "title": "Topic modelling - what is it, and how does VG use it?",
+    "description": "Topic models (TM) are powerful tools to programmatically uncover textual structure in what otherwise appear to be just plain unstructured text. The applications of TM are many, like content analysis, article search, and personalisation of content. Isabelle Valette will take us through what topic models are, the way the algorithm works, and how VG has been using it inside and outside the newsroom.\n\nWho is Isabelle?\nFrench data nerd, nature lover and week-end hiker, Isabelle works as a data scientist at the media house VG, one of Norway's largest newspaper. Educated as an economist and transformed into an RLady, a computer scientist and data journalist, Isa loves #rstats. She is passionate about empowering women to become awesome coders.\n\nAs we are closing in on Christmas, we will also serve som gingerbread (pepperkaker) and gløgg. Bring your self (and a friend?) and a positive attitude!",
+    "status": "PAST",
+    "dateTime": "2018-12-03T17:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-oslo/events/256272641/",
+    "featuredEventPhoto": {
+      "id": "476188204",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/e/2/c/highres_476188204.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/e/2/c/600_476188204.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/e/2/c/thumb_476188204.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 36,
+      "waitlistCount": 0,
+      "totalCount": 36
+    },
+    "venues": [
+      {
+        "id": "23940784",
+        "name": "Teknologihuset",
+        "address": "Pilestredet 56",
+        "city": "Oslo",
+        "state": "",
+        "country": "no",
+        "lat": 59.9235,
+        "lon": 10.7318,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Oslo",
+      "urlname": "rladies-oslo"
+    }
+  },
+  {
+    "id": "251469862",
+    "title": "Hands-on intro to SQL and R with Steph Locke",
+    "description": "We are very eager to host Steph Locke from https://itsalocke.com/.\n\nLearn SQL from the comfort of RStudio in this 2.5 hour hands-on workshop. Using SQLite as our database of choice, we'll learn the fundamentals of good data structures, querying single datasets, and combining multiple datasets for getting answers from across your database. Bring your laptop with RStudio and we'll send more info closer to the date on packages to install.\n\nAll attendees and speakers must agree to abide by the R-Ladies Code of Conduct: https://github.com/rladies/starter-kit/wiki\n\nRequired software and data:\n\n- Software: R & RStudio\n\n- Packages: RSQLite, rmarkdown\n\n- Data: https://www.kaggle.com/gabrio/board-games-dataset\n\nPlease make sure you have the software and packages installed prior to coming, and have downloaded the data to a folder you know how to navigate to.",
+    "status": "PAST",
+    "dateTime": "2018-09-03T17:30:00+02:00",
+    "duration": "PT2H30M",
+    "eventUrl": "https://www.meetup.com/rladies-oslo/events/251469862/",
+    "featuredEventPhoto": {
+      "id": "471788615",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/1/a/7/highres_471788615.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/1/a/7/600_471788615.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/1/a/7/thumb_471788615.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 46,
+      "waitlistCount": 0,
+      "totalCount": 46
+    },
+    "venues": [
+      {
+        "id": "25928166",
+        "name": "Kristine Bonnevies Hus",
+        "address": "Blindernveien 31, Seminarrom 3213",
+        "city": "Oslo",
+        "state": "al",
+        "country": "no",
+        "lat": 59.9381,
+        "lon": 10.7246,
+        "postalCode": "meetup1",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Oslo",
+      "urlname": "rladies-oslo"
+    }
+  },
+  {
+    "id": "248335129",
+    "title": "Adding external images to plots - First RLadies Oslo meetup!",
+    "description": "• What we'll do\nIn this first ever meetup of RLadies-Oslo, current head of RLadies-Oslo will present how she adds neuroimaging images to her plots when visualising data. The approaches used should be easily applicable to other types of plots and images that one may want to combine during data visualisation. Questions are very welcome.\n\nThere will be some simple food and drink served, and time to mingle.\n\n• What to bring\nNo equipment necessary. If you want to give the process a try with your own stuff and get aid from the speaker, bring a laptop/MacBook with R and RStudio installed.\n\n• Important to know\nEveryone who accepts our code of conduct (https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#english) is welcome to attend.",
+    "status": "PAST",
+    "dateTime": "2018-04-23T17:00:00+02:00",
+    "duration": "PT4H",
+    "eventUrl": "https://www.meetup.com/rladies-oslo/events/248335129/",
+    "featuredEventPhoto": {
+      "id": "468905985",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/7/6/1/highres_468905985.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/7/6/1/600_468905985.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/7/6/1/thumb_468905985.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 52,
+      "waitlistCount": 0,
+      "totalCount": 52
+    },
+    "venues": [
+      {
+        "id": "23940784",
+        "name": "Teknologihuset",
+        "address": "Pilestredet 56",
+        "city": "Oslo",
+        "state": "",
+        "country": "no",
+        "lat": 59.9235,
+        "lon": 10.7318,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Oslo",
+      "urlname": "rladies-oslo"
+    }
+  },
+  {
+    "id": "264701504",
+    "title": "TidyTuesday - with RLadies Oslo",
+    "description": "Every Monday the R for Data Science (R4DS) releases a new dataset on their GitHub that has been tamed, but does not always adhere to “tidy” data principles. This dataset will come from an article with an interesting plot. Our goal is to take a look at the raw data, and generate either a copy of the original plot or a novel take on the data! You can obviously use whatever techniques you feel are appropriate, but the data will be organized in a way that tidyverse tools will work well!\n\nWe will come together and work in teams helping each other solve this weeks TidyTuesday challenge. TidyTuesdays are a great way to improve R skills and get involved in the community!\n\n* To participate in TidyTuesday, you need to do a few things *\n\nCreate and save an image of a plot from R\n- Save the code used to recreate your plot (include data tidy steps!)\n- Submit the plot and code on Twitter\n- Use the #TidyTuesday hashtag (you can also tag me @thomas_mock)\n- Browse other submissions and like/comment on their work!\n\nHowever, that might seem like a lot! So at minimum please submit your plot with the hashtag #TidyTuesday.\n\n* Rules for TidyTuesday *\n\nWe welcome all newcomers, enthusiasts, and experts to participate, but be mindful of a few things:\n\n- This is NOT about criticizing the original authors. They are people like you and me and they have feelings. Focus on the data, the charts and improving your own techniques.\n- This is NOT about criticizing or tearing down your fellow #RStats practitioners! Be supportive and kind to each other! Like other’s posts and help promote the #RStats community!\n- The data set comes from the source article or the source that the article credits. Be mindful that the data is what it is and Tidy Tuesday is designed to help you practice data visualization and basic data wrangling.\n- Use the hashtag #TidyTuesday on Twitter if you create your own version and would like to share it.\n- Include a picture of the visualisation when you post to Twitter.\n- Include a copy of the code used to create your visualization when you post to Twitter. Comment your code wherever possible to help yourself and others understand your process!\n- Focus on improving your craft, even if you end up with someting simple! - Make something quick, but purposeful!\n- Give credit to the original data source whenever possible.",
+    "status": "PAST",
+    "dateTime": "2019-12-03T17:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-oslo/events/264701504/",
+    "featuredEventPhoto": {
+      "id": "484752792",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/1/f/8/highres_484752792.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/1/f/8/600_484752792.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/1/f/8/thumb_484752792.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 18,
+      "waitlistCount": 0,
+      "totalCount": 18
+    },
+    "venues": [
+      {
+        "id": "26115540",
+        "name": "Ole-Johan Dahls hus",
+        "address": "Gaustadalléen 23B",
+        "city": "Oslo",
+        "state": "",
+        "country": "no",
+        "lat": 59.9436,
+        "lon": 10.7183,
+        "postalCode": "0373",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Oslo",
+      "urlname": "rladies-oslo"
+    }
+  },
+  {
+    "id": "264432409",
+    "title": "Lightning talks with RLadies Oslo - inspire and be inspired!",
+    "description": "• What we'll do\nThis meetup will be jam packed with shorter talks highlighting what people use R for, either at work or just for fun. R has become so versatile and is used in so many different settings\n\n• List of speakers\n\n-- Aurora Voje: The Shiny DiveR Interactive\n-- Chi Zhang (Andrea): Learning from heterogeneous Electronic Health Records using R\n-- Bethan Cropp : Local model interpretation with LIME\n-- Nina Elisabeth Larsgård : How R saves me a month of work a year - using R when working with data quality management\n-- Raoul Wolf : Bayesian structural equation models\n-- Lene Norderhaug Drøsdal: surpise talk subject!\n\n• What to bring\nNo equipment necessary.\n\nThere will be some simple food and drink served, and time to mingle.\n\n• Important to know\nEveryone who accepts our code of conduct (https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#english) is welcome to attend, regardless of gender.",
+    "status": "PAST",
+    "dateTime": "2019-10-28T17:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-oslo/events/264432409/",
+    "featuredEventPhoto": {
+      "id": "484564266",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/0/a/a/highres_484564266.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/0/a/a/600_484564266.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/0/a/a/thumb_484564266.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 44,
+      "waitlistCount": 0,
+      "totalCount": 44
+    },
+    "venues": [
+      {
+        "id": "23940784",
+        "name": "Teknologihuset",
+        "address": "Pilestredet 56",
+        "city": "Oslo",
+        "state": "",
+        "country": "no",
+        "lat": 59.9235,
+        "lon": 10.7318,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Oslo",
+      "urlname": "rladies-oslo"
+    }
+  },
+  {
+    "id": "264422950",
+    "title": "Data tidying with dplyr and tidyr - with Athanasia Monika Mowinckel",
+    "description": "• What we'll do\nThis meetup we will go through some data tidying with the {dplyr} and {tidyr} packages from the {tidyverse}. Athanasia (Mo) works a lot with data in various formats, and data cleaning has become a large part of her everyday work. She'll take you though some basic principles, and also highlight the functions that might seem a little hidden, but are truly life savers!\n\nThere will be some simple food and drink served, and time to mingle.\n\n• What to bring\nNo equipment necessary. If you want to give the process a try with your own stuff and get aid from the speaker, bring a laptop/MacBook with R and RStudio installed. She will be switching between talking and live coding, so you can code along.\n\n• Important to know\nEveryone who accepts our code of conduct (https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#english) is welcome to attend, regardless of gender.",
+    "status": "PAST",
+    "dateTime": "2019-09-30T17:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-oslo/events/264422950/",
+    "featuredEventPhoto": {
+      "id": "484436937",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/e/6/9/highres_484436937.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/e/6/9/600_484436937.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/e/6/9/thumb_484436937.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 45,
+      "waitlistCount": 0,
+      "totalCount": 45
+    },
+    "venues": [
+      {
+        "id": "23940784",
+        "name": "Teknologihuset",
+        "address": "Pilestredet 56",
+        "city": "Oslo",
+        "state": "",
+        "country": "no",
+        "lat": 59.9235,
+        "lon": 10.7318,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Oslo",
+      "urlname": "rladies-oslo"
+    }
+  },
+  {
+    "id": "256566088",
+    "title": "Bayesian methods for rank and preference data with Valeria Vitelli",
+    "description": "Bayesian methods for rank and preference data - from recommendation systems to cancer genomics\n\nRanking items is crucial for collecting information about preferences in many areas, from marketing to politics. The interest often lies both in producing estimates of the consensus ranking of the items, which is shared among users, and in learning individualized preferences of the users, useful for providing personalized recommendations. In the latter task it is particularly relevant to have posterior distributions of individual rankings, since these can provide an evaluation of the uncertainty associated to the estimates, and thus they can avoid unnecessarily spamming the users.\n\nI will present a statistical model which works well in these situations, and which is able of flexibly handling quite different kind of data. The Bayesian paradigm allows a fully probabilistic analysis, and it easily handles missing data and cluster estimation via augmentation procedures.\nInterestingly, this Bayesian framework has also proved to be useful for genomic data integration, since typically heterogeneous microarray data are available from different sources, and their combination allows both to gain statistical power and to strengthen the biological insight.\n\nValeria Vitelli holds a PhD in statistics from Politecnico di Milano, Italy. She was a postdoc at Ecole Centrale Paris for a year, within a research group funded by Eléctricité de France working on big data problems in the energy sector. She then moved to the University of Oslo, where after a 5 years postdoc period funded from the Norwegian Cancer Society she became associate professor in September 2018. Her experience spans over several areas of mathematics and statistics, including functional data analysis with applications in physiology, machine learning (describing people mobility in dense urbanized areas from mobile phone data), and finally statistical genomics of cancer.",
+    "status": "PAST",
+    "dateTime": "2019-03-18T17:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-oslo/events/256566088/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 36,
+      "waitlistCount": 0,
+      "totalCount": 36
+    },
+    "venues": [
+      {
+        "id": "23940784",
+        "name": "Teknologihuset",
+        "address": "Pilestredet 56",
+        "city": "Oslo",
+        "state": "",
+        "country": "no",
+        "lat": 59.9235,
+        "lon": 10.7318,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Oslo",
+      "urlname": "rladies-oslo"
+    }
+  },
+  {
+    "id": "256431595",
+    "title": "Building shiny dashboards - with Aurora and Lene",
+    "description": "In this workshop, Aurora and Lene will take us through the steps of building a shiny dashboard. We will incrementally build the dashboard, with explanations throughout to help you understand how the components act together.\n\nAt the end of the workshop, you should have enough basic understanding of shiny to be able to start building your own shiny dashboard.\n\nPrerequisites:\n\nLaptop with a working installation of Rstudio with the following additional packages installed:\nshiny,\nshinydashboard,\ngapminder,\ntidyverse,\nDT,\nplotly\n\nAbout the Shiny R-ladies:\n\nAurora is a diverse data scientist in NextBridge Anlytics. She works with innovative and demanding analytical tasks, and has also worked with system developement. Her background is from physics and she has a PhD in the field of quantum mechanics and condensed matter physics. She has long experience from teaching in academia and began using R some years ago due to a demand for a shiny dashboard.\n\nLene is a physicist turned data scientist. After analysing data for LHC injections at CERN she joined Nextbridge Analytics in 2016. She enjoys working on a wide range of projects using data and algorithms. After being introduced to R for the second time and tidyverse for the first time she really got into R and after learning about R-ladies she was a part of starting up R-ladies Oslo.\n\nFood and refreshments will be provided, a courtesy of NextBridge Analytics.\n\nWe look forward to seeing you all!",
+    "status": "PAST",
+    "dateTime": "2019-02-04T17:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-oslo/events/256431595/",
+    "featuredEventPhoto": {
+      "id": "476352096",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/f/4/0/highres_476352096.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/f/4/0/600_476352096.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/f/4/0/thumb_476352096.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 41,
+      "waitlistCount": 0,
+      "totalCount": 41
+    },
+    "venues": [
+      {
+        "id": "26115540",
+        "name": "Ole-Johan Dahls hus",
+        "address": "Gaustadalléen 23B",
+        "city": "Oslo",
+        "state": "",
+        "country": "no",
+        "lat": 59.9436,
+        "lon": 10.7183,
+        "postalCode": "0373",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Oslo",
+      "urlname": "rladies-oslo"
+    }
+  },
+  {
+    "id": "271380061",
+    "title": "[Cancelled] Lightning talks 2020",
+    "description": "This meetup is unfortunately cancelled. Please see and join the meetup organised by the Oslo UseR! group on the same day on\n\nA Beginner's Guide to Monte Carlo Simulations - https://www.meetup.com/Oslo-useR-Group/events/273004088/",
+    "status": "PAST",
+    "dateTime": "2020-09-24T17:00:00+02:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-oslo/events/271380061/",
+    "featuredEventPhoto": {
+      "id": "490908291",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/c/a/3/highres_490908291.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/c/a/3/600_490908291.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/c/a/3/thumb_490908291.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 23,
+      "waitlistCount": 0,
+      "totalCount": 23
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Oslo",
+      "urlname": "rladies-oslo"
+    }
+  },
+  {
+    "id": "270489627",
+    "title": "[Postponed] Statistrikk: Hard facts by soft materials",
+    "description": "!Important!\nThis event had been postponed, yet again. The current Corona-situation in Oslo makes it impossible to both find a suitable location for the meetup to proceed. We will be monitoring the situation and keep a dialogue with the speaker open to find a new date when it is responsible to do so.\n\nKathrine Frey Frøslie is an associate professor at NMBU (Norwegian University of Life Sciences) and a knitting blogger! Of course she codes in R, and of course she knits what she codes!\n\n\"What would a knitted ggplot of the Norwegian Birth Registry's monthly numbers look like?\", you may ask. Come to this talk and find out.\n\nCheck out her blog at https://www.statistrikk.no!\n\nWe have the opportunity to provide child-care during the event. Please contact us if you would like us to arrange this.",
+    "status": "PAST",
+    "dateTime": "2020-08-24T17:30:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-oslo/events/270489627/",
+    "featuredEventPhoto": {
+      "id": "490358277",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/5/8/5/highres_490358277.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/5/8/5/600_490358277.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/5/8/5/thumb_490358277.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 33,
+      "waitlistCount": 0,
+      "totalCount": 33
+    },
+    "venues": [
+      {
+        "id": "26879279",
+        "name": "Domus Juridica",
+        "address": "Kristian Augusts gate 17",
+        "city": "Oslo",
+        "state": "",
+        "country": "no",
+        "lat": 59.9172,
+        "lon": 10.7365,
+        "postalCode": "0164",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Oslo",
+      "urlname": "rladies-oslo"
+    }
+  },
+  {
+    "id": "268778189",
+    "title": "Reports to impress your boss! Rmarkdown magic",
+    "description": "Because we are not able to meet for a meetup, and the Statistrikk talk is absolutely best to do in person, we are rescheduling this event to August.\nSign up for it in the postponed event: https://www.meetup.com/rladies-oslo/events/270489627/\n\nIn stead we will do a meetup on Rmarkdown online!\n\nRmarkdown is a specialized type of markdown (rich text format) made for R. It provides the opportunity to combine written text with output from R (or even other programming engines) to create integrated documents. It is great for automating report generation, and can make life easier if you find your self needing to do make the same report with slightly different content or input.\n\nMo (Athanasia Mowinckel) will do a talk with a simple introduction to Rmarkdown, and how it can be used in different settings like reports, presentations, posters etc.",
+    "status": "PAST",
+    "dateTime": "2020-05-11T17:30:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-oslo/events/268778189/",
+    "featuredEventPhoto": {
+      "id": "490363232",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/8/e/0/highres_490363232.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/8/e/0/600_490363232.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/8/e/0/thumb_490363232.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 133,
+      "waitlistCount": 0,
+      "totalCount": 133
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": 59.9172,
+        "lon": 10.7365,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Oslo",
+      "urlname": "rladies-oslo"
+    }
+  },
+  {
+    "id": "268850917",
+    "title": "Recap from rstudio::conf 2020 in San Francisco",
+    "description": "Welcome to VG house at Akersgata 55 the 3rd of March at 17:00!\n\nIn the aftermath of rstudio::conf 2020 in San Francisco, we will take you through the highlights & top announcements, cool new packages, and other fun experiences from the conference and workshops. We will also shortly demo the new Machine Learning framework in RStudio.\n\nAs we are at the VG house, Jakob Schmidt, Head of Data and Analytics at VG will present his Data Science teams and some of the cool projects they do.\n\nThe agenda will be:\n17:00-17:05 Welcome from RLadies\n17:05-17:20 Data Science at VG with Jakob Schmidt\n17:20-18:10 Highlights from rstudio::conf with Isabelle Valette\n18:10-18:30 Lene Drøsdal goes through some results from the survey and closes the event\n\nWe will serve pizza and refreshments.\n\nFor those we want to hang out, we will go and get a beer at “Stopp Pressen” afterwards.\n\nWe look forward to seeing you!",
+    "status": "PAST",
+    "dateTime": "2020-03-03T17:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-oslo/events/268850917/",
+    "featuredEventPhoto": {
+      "id": "489168577",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/d/c/1/highres_489168577.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/d/c/1/600_489168577.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/d/c/1/thumb_489168577.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 24,
+      "waitlistCount": 0,
+      "totalCount": 24
+    },
+    "venues": [
+      {
+        "id": "26870421",
+        "name": "Akersgata 55",
+        "address": "Akersgata 55",
+        "city": "Oslo",
+        "state": "",
+        "country": "no",
+        "lat": 59.9154,
+        "lon": 10.7432,
+        "postalCode": "0180",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Oslo",
+      "urlname": "rladies-oslo"
+    }
+  }
+]

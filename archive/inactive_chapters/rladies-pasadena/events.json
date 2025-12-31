@@ -1,0 +1,167 @@
+[
+  {
+    "id": "255843008",
+    "title": "R-Ladies Pasadena Meet, Greet, & Learn some Shiny!",
+    "description": "Dear All,\n\nWe are holding our first ever R-Ladies Pasadena gathering for our members and growing list of wondeRful friends (ladies or not) in the northeast side of LA! This November meeting is being held the second week of the month to avoid a collision with Thanksgiving but in future months we hope to meet the third Wed of each month.\n\nIn addition to a welcome and ice breaker over supper (our treat), the evening will feature a program on Shiny Basics led by Caltech's Shyam Saladi. Shyam will go over the basics and then engage us in dissecting a few Shiny apps.",
+    "status": "PAST",
+    "dateTime": "2018-11-14T18:30:00-08:00",
+    "duration": "PT2H30M",
+    "eventUrl": "https://www.meetup.com/rladies-pasadena/events/255843008/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 12,
+      "waitlistCount": 0,
+      "totalCount": 12
+    },
+    "venues": [
+      {
+        "id": "25856547",
+        "name": "Sherman Fairchild Library",
+        "address": "California institute of technology, Building 43",
+        "city": "Pasadena",
+        "state": "ca",
+        "country": "us",
+        "lat": 34.1377,
+        "lon": -118.1253,
+        "postalCode": "91125",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Pasadena",
+      "urlname": "rladies-pasadena"
+    }
+  },
+  {
+    "id": "265962563",
+    "title": "RLadies Pasadena Meetup - Building a Personal Website Using Blogdown",
+    "description": "Hi everyone! Keren will be presenting on how to make a personal website using the Blogdown package and RStudio! Specifically she will be covering the following points:\n- Motivations for building a personal website\n- Introduction to version control (using Git/GitHub)\n- Introduction to Blogdown using RStudio\n- Step by step instruction on building a personal website using Blogdown\n\nHere's the links for her presentation content:\nSlides: https://xukeren.rbind.io/slides/20191106/slides#1\nHandout: https://github.com/XUKEREN/Building-a-Personal-Website-Using-Blogdown/blob/master/README.md\n\nIt is also recommended to set up Git and connect your RStudio to Git and Github in order to follow along with the presentation. One resource that covers this is Happy Git and Github for the useR by Jenny Bryan (https://happygitwithr.com/)\n\nFinally: Please make sure you register if you plan on attending - we will need an accurate count for the room and for food!\n\nThanks so much and see you all tomorrow evening!",
+    "status": "PAST",
+    "dateTime": "2019-11-06T18:30:00-08:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-pasadena/events/265962563/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 14,
+      "waitlistCount": 0,
+      "totalCount": 14
+    },
+    "venues": [
+      {
+        "id": "25856547",
+        "name": "Sherman Fairchild Library",
+        "address": "California institute of technology, Building 43",
+        "city": "Pasadena",
+        "state": "ca",
+        "country": "us",
+        "lat": 34.1377,
+        "lon": -118.1253,
+        "postalCode": "91125",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Pasadena",
+      "urlname": "rladies-pasadena"
+    }
+  },
+  {
+    "id": "262788642",
+    "title": "How to write R packages",
+    "description": "Title: How to write R packages\nSpeaker: Dongyi (Lambda) Lu, Graduate student at Caltech\n\nAbstract: Package ecosystems like CRAN and Bioconductor makes R a powerful tool in data analysis across fields. Writing packages is a great way to share code and to reuse code ourselves. In fact, writing R packages is not as difficult as some may expect thanks to integration of devtools, roxygen2, and git into RStudio. In this meetup, we will learn the basic structure of R packages, get started with git, write a minimal package with roxygen2 documentation, and get it to pass R CMD check. If time permits, we will also cover Bioconductor package requirements.\n\nWe'll have food at 6, and the presentation will start at 7. Hope to see you there!",
+    "status": "PAST",
+    "dateTime": "2019-07-17T18:00:00-07:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-pasadena/events/262788642/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 12,
+      "waitlistCount": 0,
+      "totalCount": 12
+    },
+    "venues": [
+      {
+        "id": "25856547",
+        "name": "Sherman Fairchild Library",
+        "address": "California institute of technology, Building 43",
+        "city": "Pasadena",
+        "state": "ca",
+        "country": "us",
+        "lat": 34.1377,
+        "lon": -118.1253,
+        "postalCode": "91125",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Pasadena",
+      "urlname": "rladies-pasadena"
+    }
+  },
+  {
+    "id": "260538533",
+    "title": "R Under The Hood",
+    "description": "Hi everyone! Apologies for the radio silence, many of us have been traveling. We'd like to host our next RLadies Meetup at the Sherman Fairchild Library at Caltech on Wednesday, April 24th, at 6pm. The topic will be \"R Under The Hood\" led by Gail Clement, and will cover project setup configurations, including how to customize your .Rprofile and .Renvironment files. We'll have food at 6, and the presentation will start at 7. Hope to see you there!",
+    "status": "PAST",
+    "dateTime": "2019-04-24T18:00:00-07:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-pasadena/events/260538533/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 10,
+      "waitlistCount": 0,
+      "totalCount": 10
+    },
+    "venues": [
+      {
+        "id": "25856547",
+        "name": "Sherman Fairchild Library",
+        "address": "California institute of technology, Building 43",
+        "city": "Pasadena",
+        "state": "ca",
+        "country": "us",
+        "lat": 34.1377,
+        "lon": -118.1253,
+        "postalCode": "91125",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Pasadena",
+      "urlname": "rladies-pasadena"
+    }
+  },
+  {
+    "id": "257442068",
+    "title": "R-Ladies Pasadena: Good Practices in R ",
+    "description": "Hello everyone,\n\nHappy new year! Welcome to our second Pasadena R-Ladies meeting. Per your requests, we will have a talk on good practices in R. This session will be led by Zhi Yang who is a Ph.D. candidate in biostatistics from the University of Southern California.\n\nThe talk will be targeted at those who just began their journey in using R or only use it now and then. If you were one of them, you might be at the stage that the excitement and joy, from running awesome analyses and generating data visualization in R, have been taken away by being tired of managing scripts and repeatedly doing things. Then, it might be time to consider developing good practices in R.\n\nBased on some widely-known online resources and her own experiences, Zhi will go over a wide range of good practices in R including how to use RStudio projects, name files, customize RStudio, create shortcuts, format codes, write functions, and etc. These tips will hopefully help improve your experiences of programming in R to achieve goals of better managing multiple projects and saving your time in the long run.",
+    "status": "PAST",
+    "dateTime": "2019-01-09T18:30:00-08:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-pasadena/events/257442068/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 12,
+      "waitlistCount": 0,
+      "totalCount": 12
+    },
+    "venues": [
+      {
+        "id": "25856547",
+        "name": "Sherman Fairchild Library",
+        "address": "California institute of technology, Building 43",
+        "city": "Pasadena",
+        "state": "ca",
+        "country": "us",
+        "lat": 34.1377,
+        "lon": -118.1253,
+        "postalCode": "91125",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Pasadena",
+      "urlname": "rladies-pasadena"
+    }
+  }
+]

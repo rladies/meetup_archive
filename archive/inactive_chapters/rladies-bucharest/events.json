@@ -1,0 +1,886 @@
+[
+  {
+    "id": "266830015",
+    "title": "R-Ladies Bucharest Community #4",
+    "description": "Ultima întâlnire de anul acesta este dedicată discuțiilor de retrospectivă de an și planurilor 2020!\nÎn plus, Alexandra Ioana Conda vine să ne facă o introducere în ML folosind pachetul Caret.\nNu vine oricum, aduce un set de date de pe Kaggle despre vinuri - Wine Reviews de la WineEnthusiast 😉\n\nMai avem vești! ...dar le lăsăm pe marți când ne vedem!\n---------------------------------------------------------------------------------------------\nUn super mulțumesc echipei V7 Startup Studio care ne va găzdui !\n---------------------------------------------------------------------------------------------\nCODE OF CONDUCT\nTe rog, citește codul nostru de conduită. Respectăm și ne dorim să construim un mediu deschis și inclusiv. De aceea, te rog citește codul nostru de conduită înainte de prima întâlnire: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n---------------------------------------------------------------------------------------------\nAcesta este locul cu entuziaști de R unde trebuie să fii! Număr de locuri limitat.",
+    "status": "PAST",
+    "dateTime": "2019-12-17T19:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-bucharest/events/266830015/",
+    "featuredEventPhoto": {
+      "id": "487164027",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/d/d/b/highres_487164027.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/d/d/b/600_487164027.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/d/d/b/thumb_487164027.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 13,
+      "waitlistCount": 0,
+      "totalCount": 13
+    },
+    "venues": [
+      {
+        "id": "26052910",
+        "name": "V7 Startup Studio",
+        "address": "Str. D. I. Mendeleev 5",
+        "city": "București",
+        "state": "",
+        "country": "ro",
+        "lat": 44.4425,
+        "lon": 26.0958,
+        "postalCode": "010301",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bucharest",
+      "urlname": "rladies-bucharest"
+    }
+  },
+  {
+    "id": "266186841",
+    "title": "R-Ladies Bucharest Community #3",
+    "description": "Continuăm seria evenimentelor R-Ladies Bucharest cu o noua întâlnire Marți, 26 Noiembrie!\n\n-----------------------------------------------------------------------\nAgendă\n19:00 Înregistrare\n19:10 Introducere, Ines Teacă - R Ladies Bucharest Chapter Lead\n19:15 #tidytuesday 'Women in the Workforce' dataset\n\nSpeakers:\n\n1) Ana-Maria Niculescu, Data Scientist cu experiență de R în producție, vine să ne propună variante prin care putem explora datele interactiv și pentru raportare folosind Shiny.\n\n2) Maria Romanescu si Andra Garoi, studente la masterul de Statistică aplicată și Data Science ne vor povesti despre cum te poți folosi de libraria dplyr în explorarea datelor. O incursiune perfectă pentru nivelul de R Începător.\n\n20:40 Networking & Wrap-up\n\n---------------------------------------------------------------------------------------------\n\n*** Use case: Analyzing data on Women in the Workforce ***\nSource: https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-03-05\n* Cel mai probabil, îți va fi util un laptop care se poate conecta la Internet( avem wifi), un R IDE și librăriile din ecosystemul tidyverse si Shiny instalate pentru a urma explorarea împreuna.\n\n---------------------------------------------------------------------------------------------\nUn super mulțumesc echipei V7 Startup Studio care ne va găzdui anul acesta!\n---------------------------------------------------------------------------------------------\nCODE OF CONDUCT\nTe rog, citește codul nostru de conduită. Respectăm și ne dorim să construim un mediu deschis și inclusiv. De aceea, te rog citește codul nostru de conduită înainte de prima întâlnire: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n---------------------------------------------------------------------------------------------\nAcesta este locul cu entuziaști de R unde trebuie să fii!\n---------------------------------------------------------------------------------------------\nNumăr de locuri limitat!",
+    "status": "PAST",
+    "dateTime": "2019-11-26T19:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-bucharest/events/266186841/",
+    "featuredEventPhoto": {
+      "id": "486667591",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/d/a/7/highres_486667591.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/d/a/7/600_486667591.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/d/a/7/thumb_486667591.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 13,
+      "waitlistCount": 0,
+      "totalCount": 13
+    },
+    "venues": [
+      {
+        "id": "26052910",
+        "name": "V7 Startup Studio",
+        "address": "Str. D. I. Mendeleev 5",
+        "city": "București",
+        "state": "",
+        "country": "ro",
+        "lat": 44.4425,
+        "lon": 26.0958,
+        "postalCode": "010301",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bucharest",
+      "urlname": "rladies-bucharest"
+    }
+  },
+  {
+    "id": "265386597",
+    "title": "R-Ladies Bucharest Community #2",
+    "description": "Continuam seria evenimentelor R-Ladies Bucharest cu o noua întâlnire pe 22 Octombrie!\n\nÎn această întâlnire, avem ocazia să o cunoaștem pe Ana-Maria Ciuhu care vine sa ne vorbească despre utilizarea R în statistica oficială, în domeniul social.\n\nAna-Maria Ciuhu este promotor al utilizării software-ului R în România, fiind membră a grupului R Project - Romania Team (https://www.r-project.ro/). Lucrează în statistica socială în cadrul Institutului Național de Statistică și în cercetare științifică la Institutul de Economie Naționala al Academiei Române. Alături de colegii ei, este co-organizator al conferințelor uRos.\n\nÎn partea a doua, vom explora împreuna folosind R si ecosistemul tidyverse, plotly, shiny, use-case-ul votat aici : https://forms.gle/q4zpptv6Qvc2gfUK9\n*** Analyzing data on Women in the Workforce ***, Source: https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-03-05\nOptional. Este util un laptop care se poate conecta la Internet( avem wifi), un R IDE si librariile din ecosystemul tidyverse instalate pentru a urma explorarea impreuna.\n---------------------------------------------------------------------------------------------\nAgenda\n18:45 Înregistrare\n19:00 Ana-Maria Ciuhu, R în statistica oficială, domeniul social\n19:45 Discuție participanți\n19:55 Hands-on Session with R: Women in the Workforce , explorarea datelor\n20:55 Wrap-up\n---------------------------------------------------------------------------------------------\nAcesta este locul cu entuziaști de R unde trebuie să fii!\n---------------------------------------------------------------------------------------------\nOricine este interesat de R si susține diversitatea de gen is welcomed! Respectăm codul de conduită global https://github.com/rladies/starter-kit/wiki/Code-of-Conduct. De aceea, te rog citește codul nostru de conduită înainte de prima întâlnire .\n\n---------------------------------------------------------------------------------------------\nUn super mulțumesc echipei V7 Startup Studio care ne va găzdui anul acesta!\n---------------------------------------------------------------------------------------------\n\nCODE OF CONDUCT\nTe rog, citește codul nostru de conduită. Respectăm și ne dorim să construim un mediu deschis și inclusiv: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n---------------------------------------------------------------------------------------------\nNumăr de locuri limitat!",
+    "status": "PAST",
+    "dateTime": "2019-10-22T19:10:00+03:00",
+    "duration": "PT1H50M",
+    "eventUrl": "https://www.meetup.com/rladies-bucharest/events/265386597/",
+    "featuredEventPhoto": {
+      "id": "485709427",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/4/d/3/highres_485709427.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/4/d/3/600_485709427.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/4/d/3/thumb_485709427.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 22,
+      "waitlistCount": 0,
+      "totalCount": 22
+    },
+    "venues": [
+      {
+        "id": "26052910",
+        "name": "V7 Startup Studio",
+        "address": "Str. D. I. Mendeleev 5",
+        "city": "București",
+        "state": "",
+        "country": "ro",
+        "lat": 44.4425,
+        "lon": 26.0958,
+        "postalCode": "010301",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bucharest",
+      "urlname": "rladies-bucharest"
+    }
+  },
+  {
+    "id": "264438688",
+    "title": "Lansare R-Ladies Bucharest Community #1",
+    "description": "Sunt super entuziasmată să te invit la primul eveniment din România R-Ladies Bucharest de pe 17 Septembrie!\n\nPentru prima întâlnire, am pregătit o agendă de start în care ne vom cunoaște. Ne dorim să găzduim workshopuri și să creăm o comunitate de entuziaști care împreuna să dezvolte proiecte folosind R.\n---------------------------------------------------------------------------------------------\n• Fie că ești interesat/ă să faci analize cu R, dar nu știi de unde să pornești;\n• Fie că vrei să vizualizezi datele într-un grafic, dar nu-ți amintești cum să controlezi paleta de culori recomandate\n• Fie că vrei să scrii primul pachet R de ML, dar nu ai colegi/e cu care să-ti validezi proiectul\n---------------------------------------------------------------------------------------------\nAcesta este locul cu entuziaști de R unde trebuie să fii!\n\nOricine este interesat de R si susține diversitatea de gen is welcomed! Respectăm codul de conduită global https://github.com/rladies/starter-kit/wiki/Code-of-Conduct. De aceea, te rog citește codul nostru de conduită înainte de prima întâlnire .\n\nDacă nu ai apucat, te invit să completezi chestionarul de lansare, aici: https://forms.gle/NXJF7x9EnBWhpnZ66 . Cele mai interesante rezultate vor fi prezentate în cadrul primei întâlniri. Dacă crezi că este util, te încurajăm să-l dai mai departe. Părerile diferite sunt bine venite!\n---------------------------------------------------------------------------------------------\nUn super mulțumesc echipei V7 Startup Studio care ne va găzdui anul acesta!\n---------------------------------------------------------------------------------------------\nAgenda\n18:30 Înregistrare\n19:00 Intro R-Ladies, Ines Teacă\n19:35 Discuție participanți\n20:00 Prezentarea rezultatelor de la chestionar\n20:20 Warm up - subiect extras din rezultate chestionar\n20:45 Wrap-up\n---------------------------------------------------------------------------------------------\nCODE OF CONDUCT\nTe rog, citește codul nostru de conduită. Respectăm și ne dorim să construim un mediu deschis și inclusiv: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n---------------------------------------------------------------------------------------------\nNumăr de locuri limitat!",
+    "status": "PAST",
+    "dateTime": "2019-09-17T18:30:00+03:00",
+    "duration": "PT2H30M",
+    "eventUrl": "https://www.meetup.com/rladies-bucharest/events/264438688/",
+    "featuredEventPhoto": {
+      "id": "484450057",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/7/4/9/highres_484450057.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/7/4/9/600_484450057.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/7/4/9/thumb_484450057.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 19,
+      "waitlistCount": 0,
+      "totalCount": 19
+    },
+    "venues": [
+      {
+        "id": "26052910",
+        "name": "V7 Startup Studio",
+        "address": "Str. D. I. Mendeleev 5",
+        "city": "București",
+        "state": "",
+        "country": "ro",
+        "lat": 44.4427,
+        "lon": 26.0957,
+        "postalCode": "010301",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bucharest",
+      "urlname": "rladies-bucharest"
+    }
+  },
+  {
+    "id": "273541033",
+    "title": "R-Ladies Bucharest Community #14: chRistmas shaRing Special Edition",
+    "description": "De Crăciun, continuăm întâlnirile R-Ladies Bucharest cu o ediție specială pentru a închide acest an 2020 în #goodRvibes.\n\nTe poți înscrie să ne împărtășești ceva despre R sau ce ai învațat/apreciat din întâlnirile noastre lunare. Timebox: ~5min. Înregistrează-te aici: https://shorturl.at/fqFX6\n\nDesigur, poți rămâne în public! Noi te întâmpinăm cu același entuziasm & #goodRvibes!\n\nOrganizatorice 🙂. Ca de obicei, înregistrarea este gratuită, dar obligatorie prin meetup. Evenimentul va fi găzduit pe platforma zoom, iar link-ul de access va fi încărcat în ziua evenimentului ( urmat de o notificare pe email cu PIN-ul de intrare cu ~ 2h inaintea inceperii evenimentului).\n----------------------------------\nJoin our Christmas session on the 15th December, 7PM EEST to celebrate this year ending in #goodRvibes with a special session.\n\nYou can choose to participate as speaker, 5 min /box, see link https://shorturl.at/fqFX6 to share with us feedback on community results or something new/interesting on R.\n\nOf course, you can stay in public! We welcome everyone with same energy & #goodRvibes!\n\nRegistration is free, but mandatory via meetup. We shall meet on zoom, and the link will be updated on the day of the event ( PIN for entrance should be sent by email ~2hours before meeting start).\n---------------------------------------------------------------------------------------------\nCODE OF CONDUCT\nTe rog, citește codul nostru de conduită. Respectăm și ne dorim să construim un mediu deschis și inclusiv. De aceea, te rog citește codul nostru de conduită înainte de prima întâlnire: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\nPlease read our Code of Conduct before your first participation.",
+    "status": "PAST",
+    "dateTime": "2020-12-15T19:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-bucharest/events/273541033/",
+    "featuredEventPhoto": {
+      "id": "493955614",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/b/1/e/highres_493955614.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/b/1/e/600_493955614.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/b/1/e/thumb_493955614.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 21,
+      "waitlistCount": 0,
+      "totalCount": 21
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bucharest",
+      "urlname": "rladies-bucharest"
+    }
+  },
+  {
+    "id": "273540332",
+    "title": "R-Ladies Bucharest Community #13: Git, Github, Raspberry pi și R",
+    "description": "This meetup we have super interesting and techy subjects on the agenda!\n- 7 PM - Git & Github pentru R users,\nspeaker Ana-Maria Niculescu, Lead Data Scientist @ Numeract & co-fondator Bucharest WiMLDS\nAna-Maria is a Python and R aficionado, a data scientist with a creative twist. Ana holds a MSc in Applied Mathematics and Statistics at one of the prestigious \"Grandes Écoles\" in France, for which she was granted a full scholarship by the French Institute. In addition to that, she holds another MSc and BSc in Computer Science. Since September 2019 she lives in Bucharest and is the leader of a small Data Science team working enthusiastically on diverse projects, some of them being Open-Source.\nLinkedin: https://www.linkedin.com/in/anamarianiculescu/\n\n- 7.40 PM -Raspberry Pi & R,\nspeaker Frie Preu, Data Scientist @ CorrelAid\nFrie is a data4gooder, data scientist and IT person. Right now, she is working full-time for Data4Good network CorrelAid for which she has been volunteering since its beginnings in 2015. There, she is responsible for the coordination of the skilled-volunteering data science projects which are at the core of CorrelAid’s work. In addition, she organizes educational events and workshops.\nFrie has a background in social science but transitioned to data science after her Bachelor’s degree and worked in IT consulting for two years. She loves to juggle and visualize data in R and likes to automate all kinds of things using her other programming skills.\nLinkedin: https://www.linkedin.com/in/frie-preu-a2bb46a7/\n\nWe meet on Tuesday, the 24th November at 7PM CET+1 ( Romanian time).\n\nRegistration is FREE, but mandatory via meetup so we can mail you the PIN code ~2 hours before meeting starts on zoom. Zoom url will be updated in the day of the event.\n\n---------------------------------------------------------------------------------------------\nCODE OF CONDUCT\nPlease use few minutes to review our code of conduct before enrollment in our events! We might record this event so more people can use our learnings, so please be aware of this as well! We encourage a safe, open and inclusive space. We act and speak during events using the Code in place: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n---------------------------------------------------------------------------------------------\nYes, this is the place to be in Bucharest for R enthusiasts! #letsR #rladies",
+    "status": "PAST",
+    "dateTime": "2020-11-24T19:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-bucharest/events/273540332/",
+    "featuredEventPhoto": {
+      "id": "493550436",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/5/0/4/highres_493550436.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/5/0/4/600_493550436.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/5/0/4/thumb_493550436.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 53,
+      "waitlistCount": 0,
+      "totalCount": 53
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bucharest",
+      "urlname": "rladies-bucharest"
+    }
+  },
+  {
+    "id": "272961939",
+    "title": "R-Ladies Bucharest Community #12: Text mining cu R - Aurore Paligot",
+    "description": "Continuăm întâlnirile R-Ladies Bucharest cu un subiect mega interesant: Text mining cu R, speaker Aurore Paligot! Ne vedem marți, 20 Octombrie la 7PM CET+1.\nCa de obicei, înregistrarea este gratuită, dar obligatorie prin meetup. Evenimentul va fi în engleză, găzduit pe platforma zoom, iar link-ul de access va fi încărcat în ziua evenimentului.\n\n----------------------------------\nJoin our meetup from 20th October, 7PM CET+1 to discover more about R, text mining and Aurore Paligot.\n\nAurore Paligot is a full-fledged data analyst and R programmer with experience in machine learning and curiosity in the latest AI advances.\nAs she describes herself, she thrives when operating at the sweet spot between Tech and Business, \"where the magic happens\".\n\nRegistration is free, but mandatory via meetup. We shall meet on zoom, and the link will be updated on the day of the event. Your participation in this event, should include your approval for participation in this event that will be recorded.\n\n---------------------------------------------------------------------------------------------\nCODE OF CONDUCT\nTe rog, citește codul nostru de conduită. Respectăm și ne dorim să construim un mediu deschis și inclusiv. De aceea, te rog citește codul nostru de conduită înainte de prima întâlnire.\n\nPlease read our code of conduct before joining our events.\n\nCode of conduct: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n---------------------------------------------------------------------------------------------\nAcesta este locul cu entuziaști de R unde trebuie să fii!",
+    "status": "PAST",
+    "dateTime": "2020-10-20T19:00:00+03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-bucharest/events/272961939/",
+    "featuredEventPhoto": {
+      "id": "492569378",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/2/c/2/highres_492569378.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/2/c/2/600_492569378.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/2/c/2/thumb_492569378.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 30,
+      "waitlistCount": 0,
+      "totalCount": 30
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bucharest",
+      "urlname": "rladies-bucharest"
+    }
+  },
+  {
+    "id": "272961696",
+    "title": "R-Ladies Bucharest Community #11: Back 2 R",
+    "description": "Ne întoarcem din vacanță cu un sezon nou de întâlniri R-Ladies Bucharest! Incepem seria intalnirilor cu primul panel de discuții despre R, Statistica, Machine Learning & Data Science.\nAlături de mine, vor participa speakerii din sezonul trecut,\n*** Ana-Maria Niculescu, Lead Data Scientist\n*** Simona Grădinaru, Market Research, Data Scientist, Drd.\n*** Andra Garoi, Jr Data Scientist, Data Science Master Student\n*** Maria Romanescu, Jr Data Scientist, Data Science Master Student\n*** Alexandra Conda, Data Science Master Student\n*** Mihai David, Banking, Data Scientist\n*** Cristi Cernat, IT Architect & Docker Expert,\nVom discuta despre\ncum a fost sezonul trecut, ce am învățat, dar și ce am făcut bine;\ntemele pregătite pentru întâlnirile de final de 2020;\nteme de actualitate în 2020 despre R, ML & DS.\n\nCa de obicei, înregistrarea este gratuită, dar obligatorie prin meetup. Evenimentul va fi găzduit pe platforma zoom, iar link-ul de access va fi încărcat în ziua evenimentului.\n\nNe vedem marți, 29 Septembrie la 7PM CET+1 pentru a continua călătoria noastra cu R.\n\n---------------------------------------------------------------------------------------------\nTe rog, ne ajută dacă ne acorzi 3-5 minute pentru a completa chestionarul de feedback :-) : https://forms.gle/LK8EJqXDsof7HtEr5 . Acesta va fi folosit pentru a construi întâlniri faine și în acest sezon ;-)!\n---------------------------------------------------------------------------------------------\nCODE OF CONDUCT\nTe rog, citește codul nostru de conduită. Respectăm și ne dorim să construim un mediu deschis și inclusiv. De aceea, te rog citește codul nostru de conduită înainte de prima întâlnire: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n---------------------------------------------------------------------------------------------\nAcesta este locul cu entuziaști de R unde trebuie să fii!",
+    "status": "PAST",
+    "dateTime": "2020-09-29T19:00:00+03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-bucharest/events/272961696/",
+    "featuredEventPhoto": {
+      "id": "492390911",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/8/b/f/highres_492390911.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/8/b/f/600_492390911.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/8/b/f/thumb_492390911.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 20,
+      "waitlistCount": 0,
+      "totalCount": 20
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bucharest",
+      "urlname": "rladies-bucharest"
+    }
+  },
+  {
+    "id": "271020664",
+    "title": "R-Ladies Bucharest Community #10",
+    "description": "Am citit la un moment dat pe unul din blogurile pe care le citesc că dacă îți dorești să ajungi data scientist, scrie un blog! ( David Robinson) Așa că am început să citesc mai multe bloguri de data scientisti și așa am descoperit blogul lui Rebecca Barter: Data meets Narrative!\n\nAcum că ajungem la a 10a întâlnire, vă încurajez să continuați călătoria cu R și să începeți să scrieți un blog cu R Blogdown! Și pentru că acest îndemn să nu rămână doar vorbe, am invitat-o pe Rebecca să vină speaker, să ne povestească și să ne inspire și pe noi în această călătorie.\n\nRebecca este data scientist și educator de Data Science la UC Berkeley. Cercetarea ei este orientată către sănătate. A scris un pachet R superheat și este instructor certificat RStudio. Și, desigur, scrie un blog grozav despre R și Data Science:Data meets Narrative (www.rebeccabarter.com).\n\nVă aștept marți, 30 Iunie la 7PM CET+1 pentru a descoperi mai multe despre R, Blogdown și Rebecca Barter. Înregistrarea este gratuită, dar obligatorie prin meetup.\nEvenimentul va fi in limba engleza, vom folosi zoom, link-ul va fi actualizat în ziua evenimentului. Evenimentul va fi înregistrat, prin urmare, prin acceptarea înregistrării la acest eveniment, sunteți de acord și cu acest aspect.\n---------------------------------------------------------------------------------------------\nOne blog I read at some point was saying: If you are an aspiring data scientist, write a blog (David Robinson). Then I started to read more data scientist blogs and discovered Rebecca Barter’s blog:Data meets Narrative!\nNow that we are getting to our 10th meetup, I continue to encourage you to discover R and start writing a blog with R Blogdown! For this I invited Rebecca as featured speaker to share her experience and inspire us!\nRebecca is a data scientist and data science educator at UC Berkeley. Her research is focused on data science in healthcare. She wrote the superheat R package and is also an official RStudio instructor. And, of course, she writes a great blog about R and Data science: Data meets Narrative.\n\nJoin our meetup from 30th June, 7PM CET+1 to discover more about R, Blogdown and Rebecca Barter. Registration is free, but mandatory via meetup.\nWe shall meet on zoom, link will be updated in the day of the event. Your participation in this event, should include your approval for participation in this event that will be recorded.\n\n---------------------------------------------------------------------------------------------\nCODE OF CONDUCT\nTe rog, citește codul nostru de conduită. Respectăm și ne dorim să construim un mediu deschis și inclusiv. De aceea, te rog citește codul nostru de conduită înainte de prima întâlnire: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n---------------------------------------------------------------------------------------------\nAcesta este locul cu entuziaști de R unde trebuie să fii!",
+    "status": "PAST",
+    "dateTime": "2020-06-30T19:00:00+03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-bucharest/events/271020664/",
+    "featuredEventPhoto": {
+      "id": "490754281",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/7/c/9/highres_490754281.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/7/c/9/600_490754281.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/7/c/9/thumb_490754281.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 17,
+      "waitlistCount": 0,
+      "totalCount": 17
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bucharest",
+      "urlname": "rladies-bucharest"
+    }
+  },
+  {
+    "id": "270587850",
+    "title": "R-Ladies Bucharest Community #9",
+    "description": "Ne revedem ONLINE să povestim despre R , ca de obicei marțea seară, pe zoom!\nContinuăm întâlnirile noastre cu special guests! Cristi Cernat, Solution Architect Software and Electronics @ Delphi Technologies, vine să ne vorbească despre Docker și R, o prezentare care ne introduce elementele de bază pentru a rula scripturile noastre R in containerele Docker.\n\nÎnregistrează-te acum! Locuri limitate.\n\n*** Linkul de zoom se actualizează cu 15 minute înainte de începerea evenimentului.\n---------------------------------------------------------------------------------------------\nCODE OF CONDUCT\nTe rog, citește codul nostru de conduită. Respectăm și ne dorim să construim un mediu deschis și inclusiv. De aceea, te rog citește codul nostru de conduită înainte de prima întâlnire: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n---------------------------------------------------------------------------------------------\nAcesta este locul cu entuziaști de R unde trebuie să fii!",
+    "status": "PAST",
+    "dateTime": "2020-05-26T19:00:00+03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-bucharest/events/270587850/",
+    "featuredEventPhoto": {
+      "id": "490409352",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/2/a/8/highres_490409352.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/2/a/8/600_490409352.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/2/a/8/thumb_490409352.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 17,
+      "waitlistCount": 0,
+      "totalCount": 17
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bucharest",
+      "urlname": "rladies-bucharest"
+    }
+  },
+  {
+    "id": "270178279",
+    "title": "R-Ladies Bucharest Community #8 ",
+    "description": "Ne revedem ONLINE să povestim despre R , ca de obicei marțea seară, dar de data aceasta pe zoom!\n\nMihai David, data scientist în industria bancară, vine să ne prezinte cum a gândit construirea unui model de credit risc folosind R și k-nearest neighbours. În activitatea lui folosește instrumente de analiză diverse, pentru meetup ne va prezenta cum a translatat aceste cunoștiințe în R.\nVa folosi un sample cunoscut de date de credit scoring pentru a ne trece prin pașii de machine learning.\n\n---------------------------------------------------------------------------------------------\nCODE OF CONDUCT\nTe rog, citește codul nostru de conduită. Respectăm și ne dorim să construim un mediu deschis și inclusiv. De aceea, te rog citește codul nostru de conduită înainte de prima întâlnire: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n---------------------------------------------------------------------------------------------\nAcesta este locul cu entuziaști de R unde trebuie să fii!",
+    "status": "PAST",
+    "dateTime": "2020-04-28T19:00:00+03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-bucharest/events/270178279/",
+    "featuredEventPhoto": {
+      "id": "490205620",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/5/f/4/highres_490205620.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/5/f/4/600_490205620.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/5/f/4/thumb_490205620.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 22,
+      "waitlistCount": 0,
+      "totalCount": 22
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": 44.4425,
+        "lon": 26.0958,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bucharest",
+      "urlname": "rladies-bucharest"
+    }
+  },
+  {
+    "id": "268718222",
+    "title": "R-Ladies Bucharest Community #7 - International Women Day Celebration",
+    "description": "Vrem sa sărbătorim împreună ziua internațională a femeii cu grafice despre femei din România realizate cu R! #rladiesbucharest #IWD si mutam evenimentul ONLINE pentru a elimina orice risc! Revenim maine cu toate detaliile de participare.\n\nNumărul de locuri va fi limitat.\n\n---------------------------------------------------------------------------------------------\nUn super mulțumesc echipei V7 Startup Studio care ne ajuta intotdeauna!\n---------------------------------------------------------------------------------------------\nCODE OF CONDUCT\nTe rog, citește codul nostru de conduită. Respectăm și ne dorim să construim un mediu deschis și inclusiv. De aceea, te rog citește codul nostru de conduită înainte de prima întâlnire: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n---------------------------------------------------------------------------------------------\nAcesta este locul cu entuziaști de R unde trebuie să fii!",
+    "status": "PAST",
+    "dateTime": "2020-03-10T19:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-bucharest/events/268718222/",
+    "featuredEventPhoto": {
+      "id": "489678098",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/6/b/2/highres_489678098.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/6/b/2/600_489678098.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/6/b/2/thumb_489678098.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 7,
+      "waitlistCount": 0,
+      "totalCount": 7
+    },
+    "venues": [
+      {
+        "id": "26052910",
+        "name": "V7 Startup Studio",
+        "address": "Str. D. I. Mendeleev 5",
+        "city": "București",
+        "state": "",
+        "country": "ro",
+        "lat": 44.4425,
+        "lon": 26.0958,
+        "postalCode": "010301",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bucharest",
+      "urlname": "rladies-bucharest"
+    }
+  },
+  {
+    "id": "268092944",
+    "title": "Joint meetup: R-Ladies Bucharest & R Project R-omania Team",
+    "description": "În Februarie, ne întâlnim cu prietenii din comunitatea R-omania team! In plus, prietenii de la eSolutions ne-au invitat la ei ca sa avem spatiu pentru toate ideile si dezbaterea unui subiect de interes: R & Excel Reports.\n\nAndrei Deușteanu [About: http://tiny.cc/RExcel ] vine să ne vorbească despre experiența lui de a genera valoare din datele disponibile. O să povestim despre ce este un Data Scientist și cum este să lucrezi într-o echipă de analiză de date în care trebuie să realizezi rapoarte și analize ce au surse de date variate precum Google Analytics, Big Query sau MySQL. In unele situații se poate înlocui Excel, iar în altele se poate doar optimiza cu R.\n\nNumărul de locuri va fi limitat.\n---------------------------------------------------------------------------------------------\nR-Ladies Bucharest: https://rladies.org/\nR-omania Team: https://www.r-project.ro\n---------------------------------------------------------------------------------------------\nCODE OF CONDUCT\nTe rog, citește codul nostru de conduită. Respectăm și ne dorim să construim un mediu deschis și inclusiv. De aceea, te rog citește codul nostru de conduită înainte de prima întâlnire: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n---------------------------------------------------------------------------------------------\nAcesta este locul cu entuziaști de R unde trebuie să fii!",
+    "status": "PAST",
+    "dateTime": "2020-02-11T18:45:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-bucharest/events/268092944/",
+    "featuredEventPhoto": {
+      "id": "488688775",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/e/8/7/highres_488688775.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/e/8/7/600_488688775.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/e/8/7/thumb_488688775.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 17,
+      "waitlistCount": 0,
+      "totalCount": 17
+    },
+    "venues": [
+      {
+        "id": "26729126",
+        "name": "eSolutions Academy",
+        "address": "Strada General Constantin Budișteanu 28C",
+        "city": "București",
+        "state": "",
+        "country": "ro",
+        "lat": 44.4425,
+        "lon": 26.0911,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bucharest",
+      "urlname": "rladies-bucharest"
+    }
+  },
+  {
+    "id": "266953887",
+    "title": "R-Ladies Bucharest Community #5 - rstudio::conf 2020 Watch Party",
+    "description": "Începem anul cu o întâlnire de socializare și improspătare a ideilor urmărind primele prezentări din streamul #rstudioconf2020.\n\nStreamurile anuntate de organizatori sunt:\n- Welcome to rstudio::conf 2020 - host Hadley Wickham, Chief Scientist of RStudio\n- Open Source Software for Data Science - J.J. Allaire, Founder and CEO RStudio\n- Data, visualization, and designing with AI - Fernanda Viegas,\nMartin Wattenberg, Google\n\nMai multe detalii, mai aproape de eveniment! Numărul de locuri va fi limitat.\n\n---------------------------------------------------------------------------------------------\nUn super mulțumesc echipei V7 Startup Studio care ne va găzdui !\n---------------------------------------------------------------------------------------------\nCODE OF CONDUCT\nTe rog, citește codul nostru de conduită. Respectăm și ne dorim să construim un mediu deschis și inclusiv. De aceea, te rog citește codul nostru de conduită înainte de prima întâlnire: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n---------------------------------------------------------------------------------------------\nAcesta este locul cu entuziaști de R unde trebuie să fii!",
+    "status": "PAST",
+    "dateTime": "2020-01-29T18:00:00+02:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-bucharest/events/266953887/",
+    "featuredEventPhoto": {
+      "id": "487144490",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/1/8/a/highres_487144490.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/1/8/a/600_487144490.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/1/8/a/thumb_487144490.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 17,
+      "waitlistCount": 0,
+      "totalCount": 17
+    },
+    "venues": [
+      {
+        "id": "26052910",
+        "name": "V7 Startup Studio",
+        "address": "Str. D. I. Mendeleev 5",
+        "city": "București",
+        "state": "",
+        "country": "ro",
+        "lat": 44.4425,
+        "lon": 26.0958,
+        "postalCode": "010301",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bucharest",
+      "urlname": "rladies-bucharest"
+    }
+  },
+  {
+    "id": "278216784",
+    "title": "R-Ladies #18: Haifa Ben Messaoud - Take yourself to the next level by challenges",
+    "description": "Join us for a new session on the 15th of June, 7PM EET ! We continue our meetups with #goodRvibes and a talk on challenges effect & the #30daycharchallenge with Haifa Ben Messaoud !\n\nTitle: Take yourself to the next level by challenges\n\nHaifa Ben Messaoud will share her experience in learning R by participating in different challenges like 30 days chart challenge and tidytuesday.\n\nHaifa is a Data Scientist with over 6 years experience and a background of engineering in statistics and data analysis. In her free time Haifa codes in R and enjoys building beautiful graphs. She loves painting and data visualization.\n---------------------------------------------------------------------------------------\nRegistration is free, but mandatory via meetup. We shall meet on zoom, and the link will be updated on the day of the event ( PIN for entrance should be sent by email ~2hours before meeting start).\n---------------------------------------------------------------------------------------------\nCODE OF CONDUCT : https://rladies.org/code-of-conduct/\nPlease read our Code of Conduct before your first participation.",
+    "status": "PAST",
+    "dateTime": "2021-06-15T19:00:00+03:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-bucharest/events/278216784/",
+    "featuredEventPhoto": {
+      "id": "496536310",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/d/d/6/highres_496536310.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/d/d/6/600_496536310.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/d/d/6/thumb_496536310.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 16,
+      "waitlistCount": 0,
+      "totalCount": 16
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bucharest",
+      "urlname": "rladies-bucharest"
+    }
+  },
+  {
+    "id": "278218443",
+    "title": "R-Ladies Bucharest: #17 OneHourOnline Event",
+    "description": "Ne vedem marti, 25 Mai ora 6 PM cu un eveniment nou OneHourOnline.\n\nEste un eveniment in care ne intalnim pentru a discuta despre data & programare cu R, fara agenda.\n\nDaca vrei sa participi, te rog inscrie-te aici si vom reveni cu detaliile de conectare.\n\nInregistrarea este gratuita, dar obligatorie pentru a putea participa.\n---------------------------------------------------------------------------------------------\nCODE OF CONDUCT : http://rladies.org/code-of-conduct/\nTe rog, citeste codul nostru de conduita inainte de a participa in evenimentele noastre.",
+    "status": "PAST",
+    "dateTime": "2021-05-25T18:00:00+03:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-bucharest/events/278218443/",
+    "featuredEventPhoto": {
+      "id": "496321283",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/0/3/highres_496321283.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/0/3/600_496321283.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/0/3/thumb_496321283.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bucharest",
+      "urlname": "rladies-bucharest"
+    }
+  },
+  {
+    "id": "276302452",
+    "title": "R-Ladies Bucharest #16: Julia Silge - Three reasons to choose Tidymodels",
+    "description": "Join us for a new session on the 23rd of March, 7PM EET ! We continue our meetups with #goodRvibes and a speaker you'll definitely enjoy!\n\nThree reasons to use tidymodels with Julia Silge\n\nModeling and machine learning in R involve a bewildering array of heterogeneous packages, and establishing good statistical practice is challenging in any language. The tidymodels (tidymodels.org) collection of packages offers a consistent, flexible framework for your modeling and machine learning work to address these problems. In this talk, we’ll focus on three specific reasons to consider using tidymodels. We will start with model characteristics themselves, move to the wise management of your data budget, and finish with feature engineering.\n\nJulia Silge is a data scientist and software engineer at RStudio PBC where she works on open source modeling tools. She is an author, an international keynote speaker, and a real-world practitioner focusing on data analysis and machine learning practice. Julia loves text analysis, making beautiful charts, and communicating about technical topics with diverse audiences.\n\nRegistration is free, but mandatory via meetup. We shall meet on zoom, and the link will be updated on the day of the event ( PIN for entrance should be sent by email ~2hours before meeting start).\n---------------------------------------------------------------------------------------------\nCODE OF CONDUCT :\nhttps://github.com/rladies/starter-kit/wiki/Code-of-Conduct\nPlease read our Code of Conduct before your first participation.",
+    "status": "PAST",
+    "dateTime": "2021-03-23T19:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-bucharest/events/276302452/",
+    "featuredEventPhoto": {
+      "id": "494782105",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/6/5/9/highres_494782105.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/6/5/9/600_494782105.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/6/5/9/thumb_494782105.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 43,
+      "waitlistCount": 0,
+      "totalCount": 43
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bucharest",
+      "urlname": "rladies-bucharest"
+    }
+  },
+  {
+    "id": "275662206",
+    "title": "R-Ladies Bucharest #15: How to use Digital Analytics for tracking using R",
+    "description": "Happy new year, 2021! Speram mai bogat în întâlniri offline!\n\nPână atunci, pentru februarie avem pregatită o temă pe digital analytics!\n\nHow to use Digital Analytics for tracking using R, speaker Simona Grădinaru, R blogger http://thescienceofdating.rbind.io/ și Data Scientist.\n\nOrganizatorice 🙂. Ca de obicei, înregistrarea este gratuită, dar obligatorie prin meetup. Evenimentul va fi găzduit pe platforma zoom, iar link-ul de access va fi încărcat în ziua evenimentului ( urmat de o notificare pe email cu PIN-ul de intrare cu ~ 2h inaintea inceperii evenimentului).\n----------------------------------\nJoin our first 2021 session on the 16th of February, 7PM EEST to start this year meetups in #goodRvibes with a first topic on Digital Analytics, as promised last year.\n\nRegistration is free, but mandatory via meetup. We shall meet on zoom, and the link will be updated on the day of the event ( PIN for entrance should be sent by email ~2hours before meeting start).\n---------------------------------------------------------------------------------------------\nCODE OF CONDUCT\nTe rog, citește codul nostru de conduită. Respectăm și ne dorim să construim un mediu deschis și inclusiv. De aceea, te rog citește codul nostru de conduită înainte de prima întâlnire: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\nPlease read our Code of Conduct before your first participation.",
+    "status": "PAST",
+    "dateTime": "2021-02-16T19:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-bucharest/events/275662206/",
+    "featuredEventPhoto": {
+      "id": "494278726",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/e/5/6/6/highres_494278726.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/e/5/6/6/600_494278726.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/5/6/6/thumb_494278726.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 33,
+      "waitlistCount": 0,
+      "totalCount": 33
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bucharest",
+      "urlname": "rladies-bucharest"
+    }
+  },
+  {
+    "id": "275607064",
+    "title": "Shared::Bayesian Multilevel Modelling with {brms}",
+    "description": "Oslo useR! r Group alaturi de Skåne useR! Group, Copenhagen useR! Group si Stockholm useR! Group ne invita la o intalnire shared in prima luna din noul an! Va fi invitat Paul Burkner, autor al packetului {brms} , care ne va povesti de modelera bayesiana folosind {brms}.\nSee you theRe!\nInes.\nR-Ladies Bucharest Chapter\n\n[About]\nThis event is organized by the Oslo useR! Group (https://www.meetup.com/Oslo-useR-Group/) and will be co-hosted by the Skåne useR! Group (https://www.meetup.com/Skane-R-User-Group/), the Copenhagen useR! Group (https://www.meetup.com/CopenhagenR-useR-Group/), and the Stockholm useR! Group (https://www.meetup.com/StockholmR/).\n\n[Abstract]\nThe {brms} package provides an interface to fit Bayesian generalized (non-)linear multivariate multilevel models using Stan, a C++ package for performing full Bayesian inference (see https://mc-stan.org/). The formula syntax is very similar to that of the {lme4} package to provide a familiar and simple interface for performing regression analyses. A wide range of response distributions are supported, allowing users to fit – among others – linear, robust linear, count data, survival, response times, ordinal, zero-inflated, and even self-defined mixture models all in a multilevel context. Further modeling options include non-linear and smooth terms, auto-correlation structures, censored data, missing value imputation, and quite a few more. In addition, all parameters of the response distribution can be predicted in order to perform distributional regression. Multivariate models, i.e., models with multiple response variables, can be fit as well. Prior specifications are flexible and explicitly encourage users to apply prior distributions that reflect their beliefs. Model fits can easily be assessed and compared with posterior predictive checks, cross-validation, and Bayes factors.\n\n[Bio]\nPaul is a statistician currently working as an Independent Junior Research Group Leader at the Cluster of Excellence SimTech at the University of Stuttgart (Germany). He is the author of the R package {brms} and member of the Stan Development Team. Previously, he studied Psychology and Mathematics at the Universities of Münster and Hagen (Germany) and did his PhD in Münster about optimal design and Bayesian data analysis. He has also worked as a Postdoctoral researcher at the Department of Computer Science at Aalto University (Finland).",
+    "status": "PAST",
+    "dateTime": "2021-01-14T18:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-bucharest/events/275607064/",
+    "featuredEventPhoto": {
+      "id": "494237168",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/3/1/0/highres_494237168.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/3/1/0/600_494237168.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/3/1/0/thumb_494237168.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 19,
+      "waitlistCount": 0,
+      "totalCount": 19
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bucharest",
+      "urlname": "rladies-bucharest"
+    }
+  },
+  {
+    "id": "275536031",
+    "title": "Shared::Barcelona R User Group ( + rstudio::global(2021) preview and guests)",
+    "description": "Barcelona R User Group - https://www.barcelonar.org/ - ne invita la o intalnire shared in prima intalnire a anului 2021 ! Vor fi invitati de la RStudio si un wokshop de ML al lui Nicolas Attalides, cat si o prezentare despre Big pharmacy data al lui Andrew Ba Tran.\n\nSee you theRe!\nInes.\nR-Ladies Bucharest Chapter\n--------------------------------------------------------------------------------------\nSee the agenda below ( with Bucharest time):\n\n7:15 - 7:30 - Set up (systems check) and virtual hellos\n7:30 - 8:30 - Workshop*: Introduction to Machine Learning - by Nicolas Attalides\n8:30 - 9:00 - \"Big pharmacy data: Using R to help turn data over to the public\" - by Andrew Ba Tran - (rstudio::global pre-recorded presentation followed by live Q & A session with Andrew)\n9:00 - 9:15 - rstudio::global(2021) preview and Q & A - by Curtis Kephart\n9:15 - 9:30: Online socialising\n\n*The workshop is designed to be hands-on so if you would like to participate then please join us with your laptop and be ready to code!\n\nBig pharmacy data: Using R to help turn data over to the public\n---------------------------------------------------------------------------------------\nThis talk will go over how The Washington Post used R to analyze hundreds of gigs of data from the DEA as part of its investigation into the opioid epidemic.\n* Dealing with big data in R with doparallel\n* Exploratory visualizations and mapping with various packages like RLeaflet and geofacet\n* Making an API with janitor for easier data distribution\n* Making an R package on top of the API for documentation and vignettes\n* Inspiring the creation of a Python library on top of the API to access ARCOS data\n* Updating the package so that all parts of the data can be used that will hopefully inspire others to go further than the Post\n> Andrew Ba Tran <- is a Data Reporter at The Washington Post\n\nrstudio::global(2021) is a free, virtual event on all things R & RStudio.\n---------------------------------------------------------------------------------------\nIt's hosted over 24-hours – giving people at different timezones a number of options to conveniently engage – with a number of talks and community-engagement events we hope you'll enjoy. It starts on 21st January 2021 @ 4:00 PM GMT.\nLearn more about rstudio::global(2021) and register at global.rstudio.com\n> Curtis Kephart <- is an Economist and Community Organizer at RStudio",
+    "status": "PAST",
+    "dateTime": "2021-01-11T19:15:00+02:00",
+    "duration": "PT2H15M",
+    "eventUrl": "https://www.meetup.com/rladies-bucharest/events/275536031/",
+    "featuredEventPhoto": {
+      "id": "494199627",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/a/c/b/highres_494199627.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/a/c/b/600_494199627.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/a/c/b/thumb_494199627.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 13,
+      "waitlistCount": 0,
+      "totalCount": 13
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bucharest",
+      "urlname": "rladies-bucharest"
+    }
+  },
+  {
+    "id": "284339731",
+    "title": "R-Ladies #21: Tidy Tuesday",
+    "description": "Join us for a new session on the 15th of March, 7:30PM EET ! We continue our meetups with #goodRvibes and a new dataset ready to be discovered.\n\n#TidyTuesday is a weekly data project aimed at the R ecosystem. An emphasis is placed on understanding how to summarize and arrange data to make meaningful charts with ggplot2, tidyr, dplyr, and other tools in the tidyverse ecosystem.\nThis meetup will be hands-on: after a brief introduction of #TidyTuesday and the weekly dataset, everyone will have a chance to explore the data and then share their work. Whether you want to practice exploratory visualization, apply a new analytical technique, try out a new plot theme or just learn tidyverse things from others, #TidyTuesday is for you.\n\nTo get a sense for #TidyTuesday ahead of time, check out the hashtag on Twitter, explore past datasets or check out David Robinson's screencasts below:\nhttps://github.com/rfordatascience/tidytuesday\nhttps://www.youtube.com/channel/UCeiiqmVK07qhY-wvg3IZiZQ\nRegistration is free, but mandatory via meetup. We shall meet on zoom, and the link will be updated on the day of the event ( PIN for entrance should be sent by email \\~2hours before meeting start).\n**CODE OF CONDUCT** : https://rladies.org/code-of-conduct/\nPlease read our Code of Conduct before your first participation.",
+    "status": "PAST",
+    "dateTime": "2022-03-15T19:30:00+02:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-bucharest/events/284339731/",
+    "featuredEventPhoto": {
+      "id": "502387431",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/d/0/7/highres_502387431.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/d/0/7/600_502387431.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/d/0/7/thumb_502387431.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bucharest",
+      "urlname": "rladies-bucharest"
+    }
+  },
+  {
+    "id": "283554320",
+    "title": "Meetup #20: Packages that help writing efficient R code",
+    "description": "Join us for a new session on the 15th of February, 7PM EET ! We continue our meetups with #goodRvibes and a talk on ways to leverage the power of R packages to write code efficiently with Diana Ioan!\n\nDiana is studying Artificial Intelligence at the University of Bucharest and works as R Developer at one of the Big Four accounting firms.\n\nTitle: Packages that help writing efficient R code\n\n---------------------------------------------------------------------------------------\nRegistration is free, but mandatory via meetup. We shall meet on Zoom, and the link will be updated on the day of the event ( PIN for entrance should be sent by email ~2hours before meeting start).\n---------------------------------------------------------------------------------------------\nCODE OF CONDUCT : https://rladies.org/code-of-conduct/\nPlease read our Code of Conduct before your first participation.\n\n*Zoom link*: https://us02web.zoom.us/j/83474299919",
+    "status": "PAST",
+    "dateTime": "2022-02-15T19:00:00+02:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-bucharest/events/283554320/",
+    "featuredEventPhoto": {
+      "id": "501652374",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/c/9/6/highres_501652374.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/c/9/6/600_501652374.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/c/9/6/thumb_501652374.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 9,
+      "waitlistCount": 0,
+      "totalCount": 9
+    },
+    "venues": [],
+    "group": {
+      "name": "R-Ladies Bucharest",
+      "urlname": "rladies-bucharest"
+    }
+  },
+  {
+    "id": "282820046",
+    "title": "R-Ladies #19 Build a new habit in 2022: Tidy Tuesday",
+    "description": "Join us for a new session on the 25th of January, 7PM EET ! We continue our meetups with #goodRvibes and a challenge to engage in new habits.\n\nTitle: Build a new habit in 2022! Tidy Tuesday\n\n#TidyTuesday is a weekly data project aimed at the R ecosystem. An emphasis is placed on understanding how to summarize and arrange data to make meaningful charts with ggplot2, tidyr, dplyr, and other tools in the tidyverse ecosystem.\n\nThis meetup will be hands-on: after a brief introduction of #TidyTuesday and the weekly dataset, everyone will have a chance to explore the data and then share their work. Whether you want to practice exploratory visualization, apply a new analytical technique, try out a new plot theme or just learn tidyverse things from others, #TidyTuesday is for you.\n\nTo get a sense for #TidyTuesday ahead of time, check out the hashtag on Twitter, explore past datasets or check out David Robinson's screencasts below:\n\nhttps://github.com/rfordatascience/tidytuesday\nhttps://www.youtube.com/channel/UCeiiqmVK07qhY-wvg3IZiZQ\n---------------------------------------------------------------------------------------\nRegistration is free, but mandatory via meetup. We shall meet on zoom, and the link will be updated on the day of the event ( PIN for entrance should be sent by email ~2hours before meeting start).\n---------------------------------------------------------------------------------------------\nCODE OF CONDUCT : https://rladies.org/code-of-conduct/\nPlease read our Code of Conduct before your first participation.",
+    "status": "PAST",
+    "dateTime": "2022-01-25T19:00:00+02:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-bucharest/events/282820046/",
+    "featuredEventPhoto": {
+      "id": "500988920",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/f/1/8/highres_500988920.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/f/1/8/600_500988920.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/f/1/8/thumb_500988920.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 16,
+      "waitlistCount": 0,
+      "totalCount": 16
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bucharest",
+      "urlname": "rladies-bucharest"
+    }
+  }
+]

@@ -1,0 +1,464 @@
+[
+  {
+    "id": "205874282",
+    "title": "Kaggle Competition - Part III",
+    "description": "NEXT MEETUP - October 1st (Wednesday)\n\n-- NO MEETUP THIS WEEK!! --\n\nLet's continue the Titanic challenge. In this next meetup (October 1st) we are continuing to follow this great tutorial (https://github.com/wehrley/wehrley.github.io/blob/master/SOUPTONUTS.md).\n\nWe'll be covering the last 3 parts:\n\n• Fitting a Model\n\n• Model Evaluation\n\n• Cast Your Votes\n\nMake sure that you have tried out the previous parts (Getting the Data Into R and Data Munging) - especially if you missed the last meetup.\n\nI'll be updating the R-ladies repository at Github by the end of this week: https://github.com/R-ladies\n\nAlso, the slide deck (https://github.com/R-ladies/ProjectTemplate) used on the \"Kaggle Competition - Part\" I is now available at github.\n\n* If you have questions, feel free to use slack: https://r-ladies.slack.com/",
+    "status": "PAST",
+    "dateTime": "2014-10-01T18:00:00-07:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-san-francisco/events/205874282/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 12,
+      "waitlistCount": 0,
+      "totalCount": 12
+    },
+    "venues": [
+      {
+        "id": "17186652",
+        "name": "Alpine",
+        "address": "1550 Bryant Street FL 10",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "us",
+        "lat": 37.7749,
+        "lon": -122.4194,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Francisco",
+      "urlname": "rladies-san-francisco"
+    }
+  },
+  {
+    "id": "203643602",
+    "title": "Kaggle Competition - Part II",
+    "description": "Kaggle Competition\n\nThe movie Titanic was great, and our team effort to figure out who lived and who died will be just as fantastic. This is a great opportunity to improve our data analysis and R skills on a large dataset.\n\nWe are going to have 3 meetings: August 28th, September 4th and September 11th.\n\nEveryone is welcome to join. Even if you are not very experienced, you can still listen in on the discussions.\n\n=================================================\n\nhttps://www.kaggle.com/c/titanic-gettingStarted\n\nPredict survival on the Titanic (with tutorials in R)\n\nThis Kaggle \"Getting Started\" Competition provides an ideal starting place for people who may not have a lot of experience in data science and machine learning. The data is highly structured, and we provide tutorials.\n\nThere is no such thing as a stupid question; we guarantee someone else will be wondering the same thing!",
+    "status": "PAST",
+    "dateTime": "2014-09-04T18:00:00-07:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-san-francisco/events/203643602/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 20,
+      "waitlistCount": 0,
+      "totalCount": 20
+    },
+    "venues": [
+      {
+        "id": "17186652",
+        "name": "Alpine",
+        "address": "1550 Bryant Street FL 10",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "us",
+        "lat": 37.7749,
+        "lon": -122.4194,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Francisco",
+      "urlname": "rladies-san-francisco"
+    }
+  },
+  {
+    "id": "200360882",
+    "title": "Kaggle Competition - Part I",
+    "description": "R-ladies to enter Kaggle Competition!\n\nThe movie Titanic was great, and our team effort to figure out who lived and who died will be just as fantastic. This is a great opportunity to improve our data analysis and R skills on a large dataset.\n\nWe are going to have 3 meetings: August 28th, September 4th and September 11th.\n\nEveryone is welcome to join. Even if you are not very experienced, you can still listen in on the discussions.\n\nAgenda:\n\n6:00pm - 6:30pm: Networking + Installing R and RStudio\n\n6:30pm - 7:00 pm: Sign up at Kaggle, download the data\n\n7:00 pm - 7:30pm: Set up a new data analysis project using ProjectTemplate (http://projecttemplate.net/)\n\n7:30pm - 9:00pm - Data Exploration (plots, summaries, tables, etc)\n\n* We will have snacks and drinks provided by Alpine Data Labs (http://alpinenow.com)\n\n=================================================\n\nhttps://www.kaggle.com/c/titanic-gettingStarted\n\nPredict survival on the Titanic (with tutorials in Excel, Python, R, and an introduction to Random Forests)\n\nThis Kaggle \"Getting Started\" Competition provides an ideal starting place for people who may not have a lot of experience in data science and machine learning. The data is highly structured, and we provide tutorials of increasing complexity for using Excel, Python, pandas in Python, and a Random Forest in Python (see links in the sidebar).\n\nWe also have links to tutorials using R instead. Please use the forums freely and as much as you like.\n\nThere is no such thing as a stupid question; we guarantee someone else will be wondering the same thing!",
+    "status": "PAST",
+    "dateTime": "2014-08-28T18:00:00-07:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-san-francisco/events/200360882/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 23,
+      "waitlistCount": 0,
+      "totalCount": 23
+    },
+    "venues": [
+      {
+        "id": "17186652",
+        "name": "Alpine",
+        "address": "1550 Bryant Street FL 10",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "us",
+        "lat": 37.7749,
+        "lon": -122.4194,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Francisco",
+      "urlname": "rladies-san-francisco"
+    }
+  },
+  {
+    "id": "180756162",
+    "title": "useR! 2014",
+    "description": "This year the main and most important R conference, useR! (http://user2014.stat.ucla.edu/), will be in Los Angeles.\n\nThe conference starts on June 30th and ends on July 3rd.\n\nThere will be a lot of awesome tutorials (http://user2014.stat.ucla.edu/#tutorials) and a lot of great talks and posters! It will be a great opportunity to meet the R rockstars and to learn more!\n\nThe registration is open. Just got to this link: http://user2014.stat.ucla.edu/#registration . There is a discount if you register before May 10th.\n\nIf you have any question, please feel free to contact me: gabkroz@gmail.com\n\nI'd love to see a lot of R-ladies there!",
+    "status": "PAST",
+    "dateTime": "2014-06-30T08:00:00-07:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-san-francisco/events/180756162/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 12,
+      "waitlistCount": 0,
+      "totalCount": 12
+    },
+    "venues": [
+      {
+        "id": "19892222",
+        "name": "UCLA",
+        "address": "8125 Math Sciences Building",
+        "city": "90095",
+        "state": "CA",
+        "country": "us",
+        "lat": 34.071,
+        "lon": -118.4432,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Francisco",
+      "urlname": "rladies-san-francisco"
+    }
+  },
+  {
+    "id": "169902492",
+    "title": "Stanford Online Class Statistical Learning - Week 9",
+    "description": "The topic for the Week 9 will be Unsupervised Learning (Chapter 10).\n\nhttps://class.stanford.edu/courses/HumanitiesScience/StatLearning/Winter2014/courseware/8878fb6f600042fe98d774e0db26f87a/\n\nMy suggestion is to try to watch the lectures beforehand (as much as you can) so during the meetup we can do some exercises in the end of the chapter together.\n\n* If you have any questions, suggestion or things to share you can always email me or use our google group:\n\nTo subscribe use this link: https://groups.google.com/forum/#!forum/r-ladies\n\n* Be sure to bring your laptop.",
+    "status": "PAST",
+    "dateTime": "2014-03-20T18:00:00-07:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-san-francisco/events/169902492/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 8,
+      "waitlistCount": 0,
+      "totalCount": 8
+    },
+    "venues": [
+      {
+        "id": "17186652",
+        "name": "Alpine",
+        "address": "1550 Bryant Street FL 10",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "us",
+        "lat": 37.7749,
+        "lon": -122.4194,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Francisco",
+      "urlname": "rladies-san-francisco"
+    }
+  },
+  {
+    "id": "168799522",
+    "title": "Ladies' Night - Empowering Women in the Workplace",
+    "description": "Hey Ladies!\n\nDo you care about women empowerment and career development? Would you like to enjoy a fun and inspiring moment with like-minded ladies?\n\nThen join us on March 19 for our \"Ladies' Night\" unconference and networking event dedicated to women in STEM.\n\nPanel and small group discussions, networking opportunities, giveaways, wine, cheese, chocolate and more await you!\n\nDON'T FORGET TO GET YOUR TICKETS HERE:\n\nhttp://ladiesnight-alpine.eventbrite.com/?aff=rladies (https://ladiesnight-alpine.eventbrite.com/).\n\nLineup:\n\nJennifer Arguello, Senior Tech Advisor, Kapor Center for Social Impact\n\nNina Bhatti, Advisory board of the Anita Borg Institute for Women in Technology\n\nAngie Chang, Director of Growth at Hackbright Academy\n\nHulya Emir-Farinas, Sr. Principal Data Scientist at Pivotal\n\nLeann Pereira, Founder and CEO at Recruiter.net, LLC\n\nCheryl Porro, SVP of Technology & Products for the salesforce.com Foundation\n\nGabriela de Queiroz, Founder of R-ladies and Data Scientist at Alpine Data Labs\n\nMore names to be announced soon!\n\nProgram:\n\n6:00 - 6:30 Registration and Networking\n\n6:30 - 7:00 Welcome speech and lightning talks\n\n7:00 - 8:00 Panel Discussion\n\n8:00 - 9:00 Small Group Discussions and more Networking\n\n+ Wine, Cheese, Unlimited Chocolate and Giveaways\n\nQuestions and suggestions welcome! More info to come soon.\n\nThis event is FREE and limited to 150 ladies.",
+    "status": "PAST",
+    "dateTime": "2014-03-19T18:00:00-07:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-san-francisco/events/168799522/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 22,
+      "waitlistCount": 0,
+      "totalCount": 22
+    },
+    "venues": [
+      {
+        "id": "17449712",
+        "name": "Alpine",
+        "address": "1550 Bryant Street",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "us",
+        "lat": 37.7676,
+        "lon": -122.4112,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Francisco",
+      "urlname": "rladies-san-francisco"
+    }
+  },
+  {
+    "id": "169901512",
+    "title": "Stanford Online Class Statistical Learning - Week 8",
+    "description": "The topic for the Week 8 will be Support Vector Machines (Chapter 9).\n\nhttps://class.stanford.edu/courses/HumanitiesScience/StatLearning/Winter2014/courseware/8878fb6f600042fe98d774e0db26f87a/\n\nMy suggestion is to try to watch the lectures beforehand (as much as you can) so during the meetup we can do some exercises in the end of the chapter together.\n\n* If you have any questions, suggestion or things to share you can always email me or use our google group:\n\nTo subscribe use this link: https://groups.google.com/forum/#!forum/r-ladies\n\n* Be sure to bring your laptop.",
+    "status": "PAST",
+    "dateTime": "2014-03-13T18:00:00-07:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-san-francisco/events/169901512/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 9,
+      "waitlistCount": 0,
+      "totalCount": 9
+    },
+    "venues": [
+      {
+        "id": "17186652",
+        "name": "Alpine",
+        "address": "1550 Bryant Street FL 10",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "us",
+        "lat": 37.7749,
+        "lon": -122.4194,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Francisco",
+      "urlname": "rladies-san-francisco"
+    }
+  },
+  {
+    "id": "167643282",
+    "title": "Stanford Online Class Statistical Learning - Week 7",
+    "description": "The topic for the Week 7 will be \"Tree-based Methods\" (Chapter 8).\n\nhttps://class.stanford.edu/courses/HumanitiesScience/StatLearning/Winter2014/courseware/8878fb6f600042fe98d774e0db26f87a/\n\nMy suggestion is to try to watch the lectures beforehand (as much as you can) so during the meetup we can do some exercises in the end of the chapter together.\n\n* If you have any questions, suggestion or things to share you can always email me or use our google group:\n\nTo subscribe use this link: https://groups.google.com/forum/#!forum/r-ladies\n\n* Be sure to bring your laptop.",
+    "status": "PAST",
+    "dateTime": "2014-03-06T18:00:00-08:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-san-francisco/events/167643282/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 8,
+      "waitlistCount": 0,
+      "totalCount": 8
+    },
+    "venues": [
+      {
+        "id": "17186652",
+        "name": "Alpine",
+        "address": "1550 Bryant Street FL 10",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "us",
+        "lat": 37.7749,
+        "lon": -122.4194,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Francisco",
+      "urlname": "rladies-san-francisco"
+    }
+  },
+  {
+    "id": "167643062",
+    "title": "Stanford Online Class Statistical Learning - Week 6",
+    "description": "The topic for the Week 6 will be \"Moving Beyond Linearity (Chapter 7).\n\nhttps://class.stanford.edu/courses/HumanitiesScience/StatLearning/Winter2014/courseware/8878fb6f600042fe98d774e0db26f87a/\n\nMy suggestion is to try to watch the lectures beforehand (as much as you can) so during the meetup we can do some exercises in the end of the chapter together.\n\n* If you have any questions, suggestion or things to share you can always email me or use our google group:\n\nTo subscribe use this link: https://groups.google.com/forum/#!forum/r-ladies\n\n* Be sure to bring your laptop.\n\n**** You can park your bike inside the building. There is a beautiful bicycle parking available. ****",
+    "status": "PAST",
+    "dateTime": "2014-02-27T18:00:00-08:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-san-francisco/events/167643062/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 10,
+      "waitlistCount": 0,
+      "totalCount": 10
+    },
+    "venues": [
+      {
+        "id": "17186652",
+        "name": "Alpine",
+        "address": "1550 Bryant Street FL 10",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "us",
+        "lat": 37.7749,
+        "lon": -122.4194,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Francisco",
+      "urlname": "rladies-san-francisco"
+    }
+  },
+  {
+    "id": "166519832",
+    "title": "Stanford Online Class Statistical Learning - Week 5",
+    "description": "The topic for the Week 5 will be \"Linear Model Selection and Regularization\" (Chapter 6).\n\nhttps://class.stanford.edu/courses/HumanitiesScience/StatLearning/Winter2014/courseware/8878fb6f600042fe98d774e0db26f87a/\n\nMy suggestion is to try to watch the lectures beforehand (as much as you can) so during the meetup we can do some exercises in the end of the chapter together.\n\n* If you have any questions, suggestion or things to share you can always email me or use our google group:\n\nTo subscribe use this link: https://groups.google.com/forum/#!forum/r-ladies\n\n* Be sure to bring your laptop.\n\n**** You can park your bike inside the building. There is a beautiful bicycle parking available. ****",
+    "status": "PAST",
+    "dateTime": "2014-02-20T18:00:00-08:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-san-francisco/events/166519832/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 13,
+      "waitlistCount": 0,
+      "totalCount": 13
+    },
+    "venues": [
+      {
+        "id": "17186652",
+        "name": "Alpine",
+        "address": "1550 Bryant Street FL 10",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "us",
+        "lat": 37.7749,
+        "lon": -122.4194,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Francisco",
+      "urlname": "rladies-san-francisco"
+    }
+  },
+  {
+    "id": "164968472",
+    "title": "Stanford Online Class Statistical Learning - Week 4",
+    "description": "The topic for the Week 4 will be \"Resampling Methods\" (Chapter 5).\n\nThe lectures will be available on February 8th here:\n\nhttps://class.stanford.edu/courses/HumanitiesScience/StatLearning/Winter2014/courseware/85b01caa12834b0dbaeff232fb77e123/\n\nMy suggestion is to try to watch the lectures beforehand (as much as you can) so during the meetup we can do some exercises in the end of the chapter together. We can try the exercises 5, 6 and 7 from the pages 198, 199 and 200.\n\n* If you have any questions, suggestion or things to share you can always email me or use our google group:\n\nTo subscribe use this link: https://groups.google.com/forum/#!forum/r-ladies\n\n* Be sure to bring your laptop.\n\n* If you missed the first 3 weeks, don't worry. You can still RSVP for week 4 or any other week.\n\n**** You can park your bike inside the building. There is a beautiful bicycle parking available. ****",
+    "status": "PAST",
+    "dateTime": "2014-02-13T18:00:00-08:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-san-francisco/events/164968472/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 12,
+      "waitlistCount": 0,
+      "totalCount": 12
+    },
+    "venues": [
+      {
+        "id": "17186652",
+        "name": "Alpine",
+        "address": "1550 Bryant Street FL 10",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "us",
+        "lat": 37.7749,
+        "lon": -122.4194,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Francisco",
+      "urlname": "rladies-san-francisco"
+    }
+  },
+  {
+    "id": "163687102",
+    "title": "Stanford Online Class Statistical Learning - Week 3",
+    "description": "The topic for the Week 3 will be Classification (Chapter 4.)\n\nThe lectures will be available on February 1st here:\n\nhttps://class.stanford.edu/courses/HumanitiesScience/StatLearning/Winter2014/courseware/85b01caa12834b0dbaeff232fb77e123/\n\nMy suggestion is to try to watch the lectures beforehand (as much as you can) so during the meetup we can do some exercises in the end of the chapter together. We can try the exercises 10, 11 and 12 from the pages 171 and 172.\n\n* If you have any questions, suggestion or things to share you can always email me or use our google group:\n\nTo subscribe use this link: https://groups.google.com/forum/#!forum/r-ladies or send an email to r-ladies+subscribe@googlegroups.com (r-ladies@googlegroups.com)\n\n* Be sure to bring your laptop.\n\n* If you missed the first 2 weeks, don't worry. You can still RSVP for week 3 or any other week.\n\n**** You can park your bike inside the building. There is a beautiful bicycle parking available. ****",
+    "status": "PAST",
+    "dateTime": "2014-02-06T18:00:00-08:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-san-francisco/events/163687102/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 11,
+      "waitlistCount": 0,
+      "totalCount": 11
+    },
+    "venues": [
+      {
+        "id": "17186652",
+        "name": "Alpine",
+        "address": "1550 Bryant Street FL 10",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "us",
+        "lat": 37.7749,
+        "lon": -122.4194,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Francisco",
+      "urlname": "rladies-san-francisco"
+    }
+  },
+  {
+    "id": "162276962",
+    "title": "Stanford Online Class Statistical Learning - Week 2",
+    "description": "The first week was great! Let's meet again next Thursday.\n\nThe week 2 is going to be about: Linear Regression!\n\nHere is the link for the class:\n\nhttps://class.stanford.edu/courses/HumanitiesScience/StatLearning/Winter2014/about\n\n* Be sure to bring your laptop.\n\n* If you missed the first week, don't worry. You can still RSVP for week 2 or any other week.",
+    "status": "PAST",
+    "dateTime": "2014-01-30T18:00:00-08:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-san-francisco/events/162276962/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 23,
+      "waitlistCount": 0,
+      "totalCount": 23
+    },
+    "venues": [
+      {
+        "id": "17186652",
+        "name": "Alpine",
+        "address": "1550 Bryant Street FL 10",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "us",
+        "lat": 37.7749,
+        "lon": -122.4194,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Francisco",
+      "urlname": "rladies-san-francisco"
+    }
+  },
+  {
+    "id": "156325752",
+    "title": "Stanford Online Class Statistical Learning - Week 1",
+    "description": "Hello R-ladies!\n\nFor the first time the professors from Stanford, Trevor Hastie and Rob Tibshirani, will be teaching an online course. They have been leaders in the field of statistical and machine learning.\n\nHere is the link:\n\nhttps://class.stanford.edu/courses/HumanitiesScience/StatLearning/Winter2014/about\n\nI'm very excited to announce that we are going to have a weekly study group during the period of the class. We'll meet every Thursday from 6pm to 9pm at Alpine Data Labs (https://maps.google.com/maps?ie=UTF-8&q=Alpine+Data+Labs&fb=1&gl=us&hq=alpine+data+labs&hnear=0x80859a6d00690021:0x4a501367f076adff,San+Francisco,+CA&cid=9890511290876331625&ei=ZoCzUoqXFsn6oASFo4LQAg&ved=0CKgBEPwSMAo).\n\nPREREQUISITES:\n\nFirst courses in statistics, linear algebra, and computing. (I would also add: some familiarity with R)\n\nBe sure to bring your laptop.\n\n-----------------------------------------------------------------------------------\n\n* Please, don't RSVP if:\n\n. You think you'll not be able to make it.\n\n* Also, people that RSVPed several times and never showed up, you'll be automatically redirected to the waiting list or not attending.\n\nNote: this meetup is for women only; emphatically trans & queer friendly!",
+    "status": "PAST",
+    "dateTime": "2014-01-23T18:00:00-08:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-san-francisco/events/156325752/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 41,
+      "waitlistCount": 0,
+      "totalCount": 41
+    },
+    "venues": [
+      {
+        "id": "17449712",
+        "name": "Alpine",
+        "address": "1550 Bryant Street",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "us",
+        "lat": 37.7676,
+        "lon": -122.4112,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Francisco",
+      "urlname": "rladies-san-francisco"
+    }
+  }
+]

@@ -1,0 +1,601 @@
+[
+  {
+    "id": "235652800",
+    "title": "December Meetup: data.table package",
+    "description": "Bring your lunch and join us for our first daytime meetup! JoAnn Rudd Alvarez will be teaching us about the data.table package (see abstract below). We'll again be meeting in the VUMC Department of Biostatistics conference room; there is paid parking available in the 2525 West End garage behind the building.\n\ndata.table: Where have you been all my life?\n\ndata.table is an easy to use R package for querying and manipulating data. Dataset updates run much faster than with the base R paradigm, and specifying complicated calculations is more intuitive. This talk will show some of the package's features as well as point out a couple of gotchas.",
+    "status": "PAST",
+    "dateTime": "2016-12-06T12:15:00-06:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-nashville/events/235652800/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 17,
+      "waitlistCount": 0,
+      "totalCount": 17
+    },
+    "venues": [
+      {
+        "id": "24854918",
+        "name": "VUMC Biostatistics Conference Room",
+        "address": "2525 West End Avenue, Suite 1100",
+        "city": "Nashville",
+        "state": "TN",
+        "country": "us",
+        "lat": 36.146,
+        "lon": -86.8093,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Nashville",
+      "urlname": "rladies-nashville"
+    }
+  },
+  {
+    "id": "234968855",
+    "title": "R-Ladies Nashville Kickoff!",
+    "description": "Please join us for the R-Ladies Nashville Kickoff!\n\nWe'll provide some light snacks and beverages; if you'd like to bring dinner, feel free!\n\nWe'll meet in the VUMC Biostatistics large conference room, located on the 11th floor of the 2525 West End building (the building across from Centennial Park, with Barnes & Noble and PF Chang's on the ground floor). Paid parking is available in the garage behind the building, or some of the shops downstairs will validate for paying customers, if you'd like to come early.\n\nImportant: Elevators require keycard access after 6pm. If you need to arrive after 6:00, please let us know; we'll notify the security desk and give you a phone number to contact so that someone can come escort you upstairs.\n\nAgenda:\n5:30-6:00: dinner/socializing\n6:00-6:30: Intro to R-Ladies + short demo of R Notebooks\n6:30-end: discussion and planning for R-Ladies Nashville future\n\nWe are so looking forward to seeing you all! If you have any questions, feel free to contact us via Meetup or nashville@rladies.org.",
+    "status": "PAST",
+    "dateTime": "2016-11-07T17:30:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-nashville/events/234968855/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 27,
+      "waitlistCount": 0,
+      "totalCount": 27
+    },
+    "venues": [
+      {
+        "id": "24854918",
+        "name": "VUMC Biostatistics Conference Room",
+        "address": "2525 West End Avenue, Suite 1100",
+        "city": "Nashville",
+        "state": "TN",
+        "country": "us",
+        "lat": 36.146,
+        "lon": -86.8093,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Nashville",
+      "urlname": "rladies-nashville"
+    }
+  },
+  {
+    "id": "243331084",
+    "title": "Play in the snow, then clean up your mess!",
+    "description": "Join us at the Wond'ry for a lunchtime meetup! Laurie Samuels will be demo-ing some packages for data cleaning in R; Svetlana Eden will be demo-ing a package that generates realistic snowflakes for some seasonal flair. See you there!",
+    "status": "PAST",
+    "dateTime": "2017-12-01T12:00:00-06:00",
+    "duration": "PT1H15M",
+    "eventUrl": "https://www.meetup.com/rladies-nashville/events/243331084/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 20,
+      "waitlistCount": 0,
+      "totalCount": 20
+    },
+    "venues": [
+      {
+        "id": "25237648",
+        "name": "The Wond'ry",
+        "address": "2414 Highland Avenue",
+        "city": "Nashville",
+        "state": "TN",
+        "country": "US",
+        "lat": 36.143,
+        "lon": -86.8057,
+        "postalCode": "37213",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Nashville",
+      "urlname": "rladies-nashville"
+    }
+  },
+  {
+    "id": "243331077",
+    "title": "Introduction to purrr",
+    "description": "When you think of purrr, do you think only of kittens? Not for long! Come hear about R-related magic with the purrr (http://purrr.tidyverse.org/) package - Jennifer Thompson will show you how you can make repetitive tasks and unwieldy data structures much less painful, and hopefully have some fun along the way.\n\nSPEAKING OF FUN: IT'S OUR BIRTHDAY! In honor of our one-year anniversary, we'll have light dinner and beverages, provided by our friends at the R Consortium, and a party vibe! RSVP by Friday to be counted for dinner.",
+    "status": "PAST",
+    "dateTime": "2017-11-13T18:00:00-06:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-nashville/events/243331077/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 29,
+      "waitlistCount": 0,
+      "totalCount": 29
+    },
+    "venues": [
+      {
+        "id": "24854918",
+        "name": "VUMC Biostatistics Conference Room",
+        "address": "2525 West End Avenue, Suite 1100",
+        "city": "Nashville",
+        "state": "TN",
+        "country": "us",
+        "lat": 36.146,
+        "lon": -86.8093,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Nashville",
+      "urlname": "rladies-nashville"
+    }
+  },
+  {
+    "id": "242098493",
+    "title": "Working with Pipes %>% + GIS Tutorial",
+    "description": "We're kicking off our fall sessions with not one, but two topics! Mary van Valkenburg will be showing us the magic of coding with the pipe operator (http://r4ds.had.co.nz/pipes.html), and Sarah Lotspeich will be demoing some GIS mapping she's been working on recently. We can't wait to see you there! We'll have some light snacks... and R-Ladies stickers!\n\nAs always, if you have ideas for future topics or speakers (including yourself!), let us know!\n\nImportant: The elevators up to the 11th floor are keycard-access only after 6pm. If you'll be later than that, please send a message to Jennifer or Lucy so we can make sure you get in!\n\nParking: Paid parking is available in the garage behind the building (2525 WEA garage). Some of the businesses on the bottom floor will validate for customers.",
+    "status": "PAST",
+    "dateTime": "2017-09-12T18:00:00-05:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-nashville/events/242098493/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 21,
+      "waitlistCount": 0,
+      "totalCount": 21
+    },
+    "venues": [
+      {
+        "id": "24854918",
+        "name": "VUMC Biostatistics Conference Room",
+        "address": "2525 West End Avenue, Suite 1100",
+        "city": "Nashville",
+        "state": "TN",
+        "country": "us",
+        "lat": 36.146,
+        "lon": -86.8093,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Nashville",
+      "urlname": "rladies-nashville"
+    }
+  },
+  {
+    "id": "239935025",
+    "title": "An R + Github Journey",
+    "description": "Join us for a GitHub journey, guided by Lucy D'Agostino McGowan! We’ll answer questions like:\n\n• What is so great about GitHub?\n\n• How can I make it work for me and my workflow?\n\n• How can I show the world some of the cool things I’m working on?\n\nThis will be a hands-on workshop that will give you all the tools to have a delightful time incorporating version control & R (and blogdown (https://github.com/rstudio/blogdown) if you are so inclined). All levels are welcome!\n\nStay 15 minutes after for a tour of the Wond’ry (https://www.vanderbilt.edu/thewondry/), part of Vanderbilt's new engineering facility! Parking is available in the 25th Avenue garage directly across Highland Avenue; see the Wond'ry page for more information. The building is also a <10-minute walk from both the 2525 West End and VUMC areas.",
+    "status": "PAST",
+    "dateTime": "2017-05-30T12:00:00-05:00",
+    "duration": "PT1H15M",
+    "eventUrl": "https://www.meetup.com/rladies-nashville/events/239935025/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 13,
+      "waitlistCount": 0,
+      "totalCount": 13
+    },
+    "venues": [
+      {
+        "id": "25237648",
+        "name": "The Wond'ry",
+        "address": "2414 Highland Avenue",
+        "city": "Nashville",
+        "state": "TN",
+        "country": "US",
+        "lat": 36.143,
+        "lon": -86.8057,
+        "postalCode": "37213",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Nashville",
+      "urlname": "rladies-nashville"
+    }
+  },
+  {
+    "id": "237055481",
+    "title": "March Meetup: Intro to Shiny",
+    "description": "If you’ve ever wanted to make a web application for data visualization, then Shiny (https://shiny.rstudio.com/) is the thing for you! Join us to learn about how you can make your own web app using just R code, led by Hannah Weeks. We’ll discuss the basics of Shiny and where to find additional resources, and also walk through a demo app. Come learn about some tips and tricks for getting started with Shiny!\n\nPaid parking is available in the 2525 West End garage directly behind the building. Important: The conference room is on the 11th floor; elevators at 2525 are keycard access only after 6pm. Please let us know if you'll be arriving late, and we can give you contact information so someone can come downstairs to meet you.",
+    "status": "PAST",
+    "dateTime": "2017-03-21T18:00:00-05:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-nashville/events/237055481/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 16,
+      "waitlistCount": 0,
+      "totalCount": 16
+    },
+    "venues": [
+      {
+        "id": "24854918",
+        "name": "VUMC Biostatistics Conference Room",
+        "address": "2525 West End Avenue, Suite 1100",
+        "city": "Nashville",
+        "state": "TN",
+        "country": "us",
+        "lat": 36.146,
+        "lon": -86.8093,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Nashville",
+      "urlname": "rladies-nashville"
+    }
+  },
+  {
+    "id": "237055230",
+    "title": "February Meetup: RStudio Conference Highlights!",
+    "description": "The RStudio Conference (https://www.rstudio.com/conference/) sounds like it was excellent, and we're all sad we missed out... but fortunately, a few of us WERE able to make it, and are bringing us back the highlights! We'll hear from Lucy, Alli & Jacquelyn about R-related news; developments with RMarkdown and reproducible research, new packages, Shiny and interactive graphics; and the most exciting ideas and tricks they picked up. Get excited by checking out the schedule (https://www.rstudio.com/conference/) and the Twitter buzz (https://twitter.com/hashtag/rstudioconf?src=hash), then bring your lunch and join us! We expect there will be enthusiasm, fun photos, great ideas and possibly puns.\n\nAnd if you see a talk in the schedule you're especially interested in, let us know so the ladies can make sure to tell us about it!\n\nParking tip: If you pick up lunch or a beverage from the shops downstairs, most will validate parking in the building's garage. There's Moe's, Bread & Co, PF Chang's and Starbucks to choose from.",
+    "status": "PAST",
+    "dateTime": "2017-02-10T12:15:00-06:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-nashville/events/237055230/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 9,
+      "waitlistCount": 0,
+      "totalCount": 9
+    },
+    "venues": [
+      {
+        "id": "24854918",
+        "name": "VUMC Biostatistics Conference Room",
+        "address": "2525 West End Avenue, Suite 1100",
+        "city": "Nashville",
+        "state": "TN",
+        "country": "us",
+        "lat": 36.146,
+        "lon": -86.8093,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Nashville",
+      "urlname": "rladies-nashville"
+    }
+  },
+  {
+    "id": "235757913",
+    "title": "January Meetup: R Resources & Help",
+    "description": "Have you had so-so luck Googling your R error messages? Want to learn Shiny but don't know where to start? Feel like you're behind the curve but don't know where to keep up with R news? This is the meetup for you! We'll talk about good sources for R news and updates, courses and tutorials, and tips on searching for topics and asking questions.",
+    "status": "PAST",
+    "dateTime": "2017-01-10T18:00:00-06:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-nashville/events/235757913/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 14,
+      "waitlistCount": 0,
+      "totalCount": 14
+    },
+    "venues": [
+      {
+        "id": "23989995",
+        "name": "Emma Bistro",
+        "address": "11 Lea Ave",
+        "city": "Nashville",
+        "state": "TN",
+        "country": "us",
+        "lat": 36.1564,
+        "lon": -86.7688,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Nashville",
+      "urlname": "rladies-nashville"
+    }
+  },
+  {
+    "id": "256725942",
+    "title": "Data Science Workflows in R",
+    "description": "Interested in how organizations put R into practice? Axial Healthcare's Amy Graves, Mathilde Granke, and Meridith Peratikos will demonstrate their R-based statistics and data science workflow, including tidyverse tools, connecting to Google and Amazon databases, and using RStudio professional tools for analysis storage and dissemination.\n\nMany thanks to Axial Healthcare for providing space for this event! Street address: 209 10th Ave S, Nashville, TN 37203. The meetup is in suite 422.\n\nParking options:\n1) Lot across the street; validation available\n2) Metered street parking on 10th Ave S (immediately in front of the building) should be free beginning at 6 pm\n\nEnter using the main entrance next to M Restaurant, then take the elevator or stairs up to the 4th floor.",
+    "status": "PAST",
+    "dateTime": "2018-12-10T18:15:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-nashville/events/256725942/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 28,
+      "waitlistCount": 0,
+      "totalCount": 28
+    },
+    "venues": [],
+    "group": {
+      "name": "R-Ladies Nashville",
+      "urlname": "rladies-nashville"
+    }
+  },
+  {
+    "id": "254740614",
+    "title": "Benchmarking using Tidyverse Data Management & Medicare Public Use Files",
+    "description": "By Rachel Hayes\n\nWe will:\n* Download Medicare public use files for part B providers, 2016.\n* Do some tidyverse data management.\n* Make some scores for the providers – probably using regression.\nBenchmarking.\n* How to stratify easily using group_by, nest, and mutate. More than one way to do it.\n* How to reshape data using gather and spread.\n* How we calculate marginal effect scores to communicate results to end users with no research or statistical background. It’s not ideal, but without it, they lack confidence in the results.",
+    "status": "PAST",
+    "dateTime": "2018-10-25T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-nashville/events/254740614/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 15,
+      "waitlistCount": 0,
+      "totalCount": 15
+    },
+    "venues": [
+      {
+        "id": "24854918",
+        "name": "VUMC Biostatistics Conference Room",
+        "address": "2525 West End Avenue, Suite 1100",
+        "city": "Nashville",
+        "state": "TN",
+        "country": "us",
+        "lat": 36.146,
+        "lon": -86.8093,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Nashville",
+      "urlname": "rladies-nashville"
+    }
+  },
+  {
+    "id": "251583548",
+    "title": "Networking lunch with RStudio!",
+    "description": "RStudio is in town this week, and we’re taking the opportunity to get to know their R-Ladies! If you RSVPed before 12:30 Monday, we will have Taziki's for you. Later RSVPs are welcome to bring your own lunch!",
+    "status": "PAST",
+    "dateTime": "2018-06-12T11:45:00-05:00",
+    "duration": "PT1H45M",
+    "eventUrl": "https://www.meetup.com/rladies-nashville/events/251583548/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 15,
+      "waitlistCount": 0,
+      "totalCount": 15
+    },
+    "venues": [
+      {
+        "id": "25855250",
+        "name": "Parthenon Conference Room",
+        "address": "2525 West End Avenue, Suite 1400",
+        "city": "Nashville",
+        "state": "TN",
+        "country": "us",
+        "lat": 36.146,
+        "lon": -86.8093,
+        "postalCode": "37203",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Nashville",
+      "urlname": "rladies-nashville"
+    }
+  },
+  {
+    "id": "250068352",
+    "title": "Dynamically Generated Tables in Shiny with Judy Lewis",
+    "description": "Interested in more sophisticated options with data display in Shiny?\nDo you sometimes not know in advance how many tables you will need to generate in your Shiny app - perhaps one summary table for each year/month/category in a user-provided dataset? Join us to learn how to dynamically generate summary tables, present them as tabs in one Shiny box, and include an option to click to see details about each data table row.\n\nJudy Lewis will demonstrate the IeDEA Harmonist Data Toolkit under development to facilitate data quality checking, visualization, and sharing of international observational HIV/AIDS data. At rstudio::conf 2018, Judy learned from Barbara Borges Ribeiro about adding options for shinyDashboard users to \"drill down\" for detail (https://github.com/bborgesr/rstudio-conf-2018). Judy combined that idea with code for generating dynamic, tabbed tables (developed with Jeremy Stephens at VUMC Biostats) to create the desired function in Shiny. Judy will share code and sample data for attendees to try it out on their own.",
+    "status": "PAST",
+    "dateTime": "2018-05-14T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-nashville/events/250068352/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 16,
+      "waitlistCount": 0,
+      "totalCount": 16
+    },
+    "venues": [
+      {
+        "id": "24854918",
+        "name": "VUMC Biostatistics Conference Room",
+        "address": "2525 West End Avenue, Suite 1100",
+        "city": "Nashville",
+        "state": "TN",
+        "country": "us",
+        "lat": 36.146,
+        "lon": -86.8093,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Nashville",
+      "urlname": "rladies-nashville"
+    }
+  },
+  {
+    "id": "248452181",
+    "title": "Introduction to Data Cleaning with dataMaid",
+    "description": "Molly Olson will be leading us on a data cleaning journey! Data cleaning can be the most time consuming part of a statistician’s workflow, and the validity of the conclusions from a data analysis can depend on this simple data cleaning. At the Conference of Statistical Practice 2018, Molly took a short course titled “Cleaning up the Data Cleaning Process: Challenges and Solutions in R,” taught by Anne Helby Petersen and Claus Thorn Ekstrøm from the section of Biostatistics, University of Copenhagen. The short course introduced an R package called “dataMaid” that is a “systematic, analytical approach to data cleaning that will ensure the data cleaning process to be just as structured and well-documented as the rest of the data analysis.” In this tutorial, Molly will provide an overview of the dataMaid package and demonstrate how to use the dataMaid package to improve efficiency and accuracy in the statistician’s every day data cleaning.",
+    "status": "PAST",
+    "dateTime": "2018-03-19T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-nashville/events/248452181/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 21,
+      "waitlistCount": 0,
+      "totalCount": 21
+    },
+    "venues": [
+      {
+        "id": "24854918",
+        "name": "VUMC Biostatistics Conference Room",
+        "address": "2525 West End Avenue, Suite 1100",
+        "city": "Nashville",
+        "state": "TN",
+        "country": "us",
+        "lat": 36.146,
+        "lon": -86.8093,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Nashville",
+      "urlname": "rladies-nashville"
+    }
+  },
+  {
+    "id": "263567051",
+    "title": "Package Development in R",
+    "description": "Curious about package development, but not sure where to start? This talk is for you! This talk will empower you to start contributing back to the R ecosystem with package development. By the end of this talk, you should know:\n\n- why you should make your code into a package,\n- how to make a package,\n- test your package, and\n- write a description or vignette about your package\n\nCome learn from Jacquelyn Neal, a PhD candidate in biostatistics at Vanderbilt and a data analyst for Virtual Inc. and Jennifer Morse, a biostatistician at Vanderbilt University Medical Center.\n\nSocial time starts at 5:30 pm and the talk begins at 6:00 pm.\n\nThanks to the Nashville Technology Council for meeting space!",
+    "status": "PAST",
+    "dateTime": "2019-09-16T17:30:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-nashville/events/263567051/",
+    "featuredEventPhoto": {
+      "id": "483571259",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/a/1/b/highres_483571259.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/a/1/b/600_483571259.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/a/1/b/thumb_483571259.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 26,
+      "waitlistCount": 0,
+      "totalCount": 26
+    },
+    "venues": [
+      {
+        "id": "26061952",
+        "name": "Greater Nashville Technology Council",
+        "address": "500 Interstate Blvd S #200",
+        "city": "Nashville",
+        "state": "TN",
+        "country": "us",
+        "lat": 36.1328,
+        "lon": -86.7566,
+        "postalCode": "37210",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Nashville",
+      "urlname": "rladies-nashville"
+    }
+  },
+  {
+    "id": "261740631",
+    "title": "Using R in Supply Chain Analytics",
+    "description": "Allison Baker, Director of Supply Chain Analytics at HealthTrust will be talking about how she has used R over the last 10 years, some lessons learned along the way, how her team uses R today, and why R Programming is her \"jam\".\n\n5:30 pm - networking\n6:00 pm - program\n\nThanks to the NTC for providing space!",
+    "status": "PAST",
+    "dateTime": "2019-06-05T17:30:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-nashville/events/261740631/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 14,
+      "waitlistCount": 0,
+      "totalCount": 14
+    },
+    "venues": [
+      {
+        "id": "26061952",
+        "name": "Greater Nashville Technology Council",
+        "address": "500 Interstate Blvd S #200",
+        "city": "Nashville",
+        "state": "TN",
+        "country": "us",
+        "lat": 36.1328,
+        "lon": -86.7566,
+        "postalCode": "37210",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Nashville",
+      "urlname": "rladies-nashville"
+    }
+  },
+  {
+    "id": "258565812",
+    "title": "Getting Started with Shiny!",
+    "description": "Have you always wanted to build a Shiny App but didn’t know how to get started?\n\nThe students in the 2nd Data Science Cohort at Nashville Software School just completed their mid-course projects using R Shiny. Five of those students, Binu Thomas, Davis Thrailkill, Glenna Dunn, Hari Tanjore, and Rachael Abram, will show the apps they created and lead a conversation about getting started with Shiny. And they're sure to have tips and lessons learned while working on their projects to share!",
+    "status": "PAST",
+    "dateTime": "2019-02-11T18:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-nashville/events/258565812/",
+    "featuredEventPhoto": {
+      "id": "478286082",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/5/e/2/highres_478286082.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/5/e/2/600_478286082.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/5/e/2/thumb_478286082.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 21,
+      "waitlistCount": 0,
+      "totalCount": 21
+    },
+    "venues": [
+      {
+        "id": "26061952",
+        "name": "Greater Nashville Technology Council",
+        "address": "500 Interstate Blvd S #200",
+        "city": "Nashville",
+        "state": "TN",
+        "country": "us",
+        "lat": 36.1327,
+        "lon": -86.7566,
+        "postalCode": "37210",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Nashville",
+      "urlname": "rladies-nashville"
+    }
+  },
+  {
+    "id": "268882903",
+    "title": "The Future of R-Ladies Nashville",
+    "description": "Hey Nashville R-Ladies! Please join us for a conversation about what we value in this meetup, how we can grow that value, and where we want to head with R-Ladies Nashville this year and beyond.",
+    "status": "PAST",
+    "dateTime": "2020-03-09T18:00:00-05:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-nashville/events/268882903/",
+    "featuredEventPhoto": {
+      "id": "489195020",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/a/a/c/highres_489195020.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/a/a/c/600_489195020.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/a/a/c/thumb_489195020.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [
+      {
+        "id": "26061952",
+        "name": "Greater Nashville Technology Council",
+        "address": "500 Interstate Blvd S #200",
+        "city": "Nashville",
+        "state": "TN",
+        "country": "us",
+        "lat": 36.1327,
+        "lon": -86.7566,
+        "postalCode": "37210",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Nashville",
+      "urlname": "rladies-nashville"
+    }
+  }
+]

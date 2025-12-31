@@ -1,0 +1,1460 @@
+[
+  {
+    "id": "245658617",
+    "title": "Maps with ggplot2",
+    "description": "• What we'll do\nAmy Szczepanski will teach us about making maps with ggplot2!\n\nWe can take advantage of ggplot2's ability to plot points, lines, and polygons to draw maps without relying on specialized GIS tools. We will combine data from several sources to make a map showing major geographical features in San Diego, median property values per census tract, and the flight paths of planes departing San Diego International airport. The presentation will start by plotting points in the (x, y) plane with ggplot2 and will review the key features of this package. Next, we will use ggmap to easily put those points in context on a map. Finally, we will use shapefiles to color in regions in our maps.\n\nAll materials for the tutorial can be found here (https://github.com/rladies-san-diego/2017-08-16_ggplot2maps).\n\n• What to bring\nlaptop\n\n• Important to know",
+    "status": "PAST",
+    "dateTime": "2017-12-12T19:30:00-08:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-san-diego/events/245658617/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 18,
+      "waitlistCount": 0,
+      "totalCount": 18
+    },
+    "venues": [
+      {
+        "id": "25649439",
+        "name": "Institute for Conservation Research - San Diego Zoo",
+        "address": "15600 San Pasqual Valley Rd",
+        "city": "Escondido",
+        "state": "ca",
+        "country": "us",
+        "lat": 33.0936,
+        "lon": -116.9998,
+        "postalCode": "92027",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Diego",
+      "urlname": "rladies-san-diego"
+    }
+  },
+  {
+    "id": "244796999",
+    "title": "Lightning Round Talks",
+    "description": "For this meeting we'll be doing a series of Lightning Round Talks. Current planned talks are:\n\n• \"R Basics and Differences from Other Languages\" presented by Megan Chang and Page Piccinini\n\n• \"Making an API package\" presented by Katie Heineman\n\n• \"Basic Linear Algebra Subprograms (BLAS) and how to use other people's hard work to make your statistical code run faster\" presented by Amy Szczepanski\n\nSee you there!",
+    "status": "PAST",
+    "dateTime": "2017-11-21T19:00:00-08:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-san-diego/events/244796999/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 12,
+      "waitlistCount": 0,
+      "totalCount": 12
+    },
+    "venues": [
+      {
+        "id": "25591421",
+        "name": "Downtown Works",
+        "address": "550 W B Street",
+        "city": "San Diego",
+        "state": "CA",
+        "country": "us",
+        "lat": 32.718,
+        "lon": -117.168,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Diego",
+      "urlname": "rladies-san-diego"
+    }
+  },
+  {
+    "id": "243173128",
+    "title": "Introduction to Shiny Apps",
+    "description": "For our September meeting Katie Heineman will give us an introductory walk through of Shiny apps:\n\nShiny is a web development platform developed through R Studio that allows R users to make interactive interfaces for datasets manipulation and visualization. For the tutorial, I will walk the group through the creation of a simple shiny app using the R ladies dataset, and then demo several shiny apps I have created through my work in plant ecology.\n\nBefore coming please do the following:\n\n1) Install R Studio ( https://www.rstudio.com/ ).\n2) Install the 'shiny' package\n3) Optional: Sign up for a *free* Shiny.io account so you can practice deploying a shareable webapp: http://www.shinyapps.io/\n\nAll scripts can be found on our GitHub account (https://github.com/rladies-san-diego/2017-09-20_shiny).\n\nCome for R, Shiny, and snacks!",
+    "status": "PAST",
+    "dateTime": "2017-09-20T19:00:00-07:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-san-diego/events/243173128/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 19,
+      "waitlistCount": 0,
+      "totalCount": 19
+    },
+    "venues": [
+      {
+        "id": "24532394",
+        "name": "Union Cowork",
+        "address": "3919 30th St.",
+        "city": "San Diego",
+        "state": "CA",
+        "country": "us",
+        "lat": 32.7489,
+        "lon": -117.1298,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Diego",
+      "urlname": "rladies-san-diego"
+    }
+  },
+  {
+    "id": "242090917",
+    "title": "CANCELED - Maps with ggplot2",
+    "description": "**THIS MEETING WILL BE RESCHEDULED FOR A FUTURE DATE.**\n\nAmy Szczepanski will teach us about making maps with ggplot2!\n\nWe can take advantage of ggplot2's ability to plot points, lines, and polygons to draw maps without relying on specialized GIS tools. We will combine data from several sources to make a map showing major geographical features in San Diego, median property values per census tract, and the flight paths of planes departing San Diego International airport. The presentation will start by plotting points in the (x, y) plane with ggplot2 and will review the key features of this package. Next, we will use ggmap to easily put those points in context on a map. Finally, we will use shapefiles to color in regions in our maps.\n\nAll materials for the tutorial can be found here (https://github.com/rladies-san-diego/2017-08-16_ggplot2maps).",
+    "status": "PAST",
+    "dateTime": "2017-08-16T18:30:00-07:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-san-diego/events/242090917/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 12,
+      "waitlistCount": 0,
+      "totalCount": 12
+    },
+    "venues": [
+      {
+        "id": "24532394",
+        "name": "Union Cowork",
+        "address": "3919 30th St.",
+        "city": "San Diego",
+        "state": "CA",
+        "country": "us",
+        "lat": 32.7489,
+        "lon": -117.1298,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Diego",
+      "urlname": "rladies-san-diego"
+    }
+  },
+  {
+    "id": "241154796",
+    "title": "First Meeting Meet and Greet and Mini RMarkdown Tutorial",
+    "description": "Come kick off R-Ladies San Diego with a meet and greet, and get to you know your fellow R-ladies. We'll discuss plans for future meeting ideas and the goals for the group moving forward. All skill levels are welcome.\n\nThere will also be a mini RMarkdown tutorial that will teach you about both RMarkdown and the larger R-Ladies community. More details to come on what you need ahead of time to participate.\n\nThere will be stickers, baked goods, and, as always, R!\n\nUPDATE\n\nBefore coming to the meeting please do the following:\n\n• Install RStudio (http://rstudio.com/).\n\n• Install the packages tidyverse, rmarkdown, and knitr.\n\n• Download the data and necessary script (https://github.com/rladies-san-diego/2017-07-13_rmarkdown).",
+    "status": "PAST",
+    "dateTime": "2017-07-13T18:30:00-07:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-san-diego/events/241154796/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 22,
+      "waitlistCount": 0,
+      "totalCount": 22
+    },
+    "venues": [
+      {
+        "id": "25333339",
+        "name": "Classy.org",
+        "address": "350 Tenth Avenue",
+        "city": "San Diego",
+        "state": "CA",
+        "country": "US",
+        "lat": 32.7089,
+        "lon": -117.1559,
+        "postalCode": "92101",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Diego",
+      "urlname": "rladies-san-diego"
+    }
+  },
+  {
+    "id": "257151838",
+    "title": "Holiday Get Together",
+    "description": "Come join fellow R-Ladies for a drink or a taco at South Parking Brewing Company to celebrate the holidays. No need to bring a laptop and no coding required, although talk of R will probably still happen. Since this is a social event, family and friends are also welcome to attend.\n\nHope to see you there!",
+    "status": "PAST",
+    "dateTime": "2018-12-18T18:30:00-08:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-san-diego/events/257151838/",
+    "featuredEventPhoto": {
+      "id": "477039301",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/9/8/5/highres_477039301.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/9/8/5/600_477039301.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/9/8/5/thumb_477039301.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 2,
+      "waitlistCount": 0,
+      "totalCount": 2
+    },
+    "venues": [
+      {
+        "id": "25382432",
+        "name": "South Park Brewing Company",
+        "address": "1517 30th Street",
+        "city": "San Diego",
+        "state": "CA",
+        "country": "US",
+        "lat": 32.7217,
+        "lon": -117.1301,
+        "postalCode": "92102",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Diego",
+      "urlname": "rladies-san-diego"
+    }
+  },
+  {
+    "id": "256407858",
+    "title": "POSTPONED - Mini-hackathon on Harassment and Bias in Language Research",
+    "description": "**THIS MEETING WILL BE RESCHEDULED FOR JANUARY.**\n\nFor the hackathon we will be provided with a dataset collected by language researchers at the University of Michigan, Rochester Institute of Technology, and UC Santa Barbara. A survey was administered to present and past language researchers to understand the patterns of harassment and bias in linguistics and work toward evidence-based solutions. Results come from over 1,400 respondents. This survey builds on existing models from the self-inquiries conducted in other fields (Clancy et al. 2017); in addition, they give space for affected individuals to detail their experiences and provide solutions.\n\nIn this meeting we will dig into the data and end by sharing our results with the original researchers of the project.",
+    "status": "CANCELLED",
+    "dateTime": "2018-11-29T18:00:00-08:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-san-diego/events/256407858/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 11,
+      "waitlistCount": 0,
+      "totalCount": 11
+    },
+    "venues": [
+      {
+        "id": "25284935",
+        "name": "WeWork 600 B St",
+        "address": "600 B Street, Suite 300",
+        "city": "San Diego",
+        "state": "CA",
+        "country": "US",
+        "lat": 32.7182,
+        "lon": -117.1587,
+        "postalCode": "92101",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Diego",
+      "urlname": "rladies-san-diego"
+    }
+  },
+  {
+    "id": "255573131",
+    "title": "Web Scraping Tutorial and Practice",
+    "description": "In this meeting Elke Patton will walk us through how to do web scraping in R. In the tutorial she will cover:\n\n1. Website data, how is it coded?\n2. Using a website's developers toolbox and plugins to find location of the data.\n3. Extracting the data.\n4. Practice/Brainstorm with existing code.\n\nThe code for the tutorial can be found here: https://github.com/rladies-san-diego/web_scraping",
+    "status": "PAST",
+    "dateTime": "2018-10-23T18:30:00-07:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-san-diego/events/255573131/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 12,
+      "waitlistCount": 0,
+      "totalCount": 12
+    },
+    "venues": [
+      {
+        "id": "24350466",
+        "name": "Hera Hub",
+        "address": "4010 Sorrento Valley Blvd #400, San Diego, CA 92121, United States",
+        "city": "La Mesa",
+        "state": "CA",
+        "country": "us",
+        "lat": 32.7678,
+        "lon": -117.0231,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Diego",
+      "urlname": "rladies-san-diego"
+    }
+  },
+  {
+    "id": "254194791",
+    "title": "Exploring Kaggle competitions: \"Titanic: Machine Learning from Disaster\"",
+    "description": "Let's have a look at what Kaggle competitions are all about.\nTo learn more about Kaggle, check out their website: http://www.kaggle.com/\n\nWe'll start with an easy example: \"Titanic: Machine Learning from Disaster\".\nThis is an interesting dataset with a manageable size and easy to understand variables.\nWe'll do a quick exploratory analysis to better understand the data, some feature engineering to make things more interesting, and then we'll try to figure out who survived using a random forest model.\n\nYou can find more information and a link to download the dataset here: https://www.kaggle.com/c/titanic/data (go to the Data tab and click the button \"Download All\".\n\nIf you haven't already, please also do the following before the meeting:\n- Install R (https://www.r-project.org/).\n- Install RStudio (https://www.rstudio.com/).\n\nNotes on attending the Meetup at WeWork:\n- There is street parking, or you can self park in the underground lot at the Aventine at 8910 University Center Lane. Parking in the self lot is $2/half hour with a $25 daily max.\n- Please bring a photo ID to check in.\n\nI'm looking forward to seeing everyone.",
+    "status": "PAST",
+    "dateTime": "2018-09-20T18:30:00-07:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-san-diego/events/254194791/",
+    "featuredEventPhoto": {
+      "id": "474150662",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/7/c/6/highres_474150662.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/7/c/6/600_474150662.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/7/c/6/thumb_474150662.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 9,
+      "waitlistCount": 0,
+      "totalCount": 9
+    },
+    "venues": [
+      {
+        "id": "25778117",
+        "name": "WeWork Aventine",
+        "address": "8910 University Center Lane, Suite 400",
+        "city": "San Diego",
+        "state": "CA",
+        "country": "US",
+        "lat": 32.8707,
+        "lon": -117.2268,
+        "postalCode": "92122",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Diego",
+      "urlname": "rladies-san-diego"
+    }
+  },
+  {
+    "id": "253043084",
+    "title": "One Year Anniversary and Summer Picnic",
+    "description": "To celebrate 1 year of R-Ladies San Diego and enjoy some of the nice summer weather, we'll be having a potluck picnic. Bring a dish or something to grill. Also, this event is non-technical and partners / children / R-Lady supporting friends are welcome.",
+    "status": "PAST",
+    "dateTime": "2018-08-11T13:00:00-07:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-san-diego/events/253043084/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 6,
+      "waitlistCount": 0,
+      "totalCount": 6
+    },
+    "venues": [
+      {
+        "id": "1125714",
+        "name": "Balboa Park",
+        "address": "Upas & 6th Ave",
+        "city": "San Diego",
+        "state": "CA",
+        "country": "us",
+        "lat": 32.7383,
+        "lon": -117.1585,
+        "postalCode": "92103",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Diego",
+      "urlname": "rladies-san-diego"
+    }
+  },
+  {
+    "id": "251707228",
+    "title": "Blogdown Tutorial: Build Your Own Website",
+    "description": "In this meeting we will do a hands on tutorial with blogdown (https://bookdown.org/yihui/blogdown/). We will build mini-personal websites to showcase some of our work.\n\nWe'll be roughly following this excellent tutorial by Alison Presmanes Hill (https://alison.rbind.io/post/up-and-running-with-blogdown/).\n\nBefore coming please do the following:\n\n- Install R (https://www.r-project.org/).\n- Install RStudio (https://www.rstudio.com/).\n- Install `blogdown` by running `install.packages(\"blogdown\")`\n- Install Hugo by running `blogdown::install_hugo()`. Note, if you are a MacOS user it will be beneficial to have Homebrew (https://brew.sh/) installed before installing Hugo.\n\nDepending on time we may try and push up the the website to the web. If you would like to participate in this portion of the tutorial, please:\n\n- Make a GitHub account (https://github.com/).\n- Make a Netlify account, logging in with your GitHub account (https://www.netlify.com/).\n\nNotes on attending tonight:\n\n- There is street parking, or you can self park in the underground lot at the Aventine at 8910 University Center Lane. It is recommended to park at 2S (in any spot that isn't \"Reserved\"). From there walk on the sidewalk out of the front of the structure to the front door of the Aventine building. When you enter the front door, tell the security guard or WeWork Team member that you're here for the event at WeWork on the 11th floor. Parking in the self lot is $2/half hour with a $25 daily max.\n- Please bring a photo ID to show at the desk and check in at the community bar on the 11th floor.",
+    "status": "PAST",
+    "dateTime": "2018-07-05T18:30:00-07:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-san-diego/events/251707228/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 11,
+      "waitlistCount": 0,
+      "totalCount": 11
+    },
+    "venues": [
+      {
+        "id": "25778117",
+        "name": "WeWork Aventine",
+        "address": "8910 University Center Lane, Suite 400",
+        "city": "San Diego",
+        "state": "CA",
+        "country": "US",
+        "lat": 32.8707,
+        "lon": -117.2268,
+        "postalCode": "92122",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Diego",
+      "urlname": "rladies-san-diego"
+    }
+  },
+  {
+    "id": "250066996",
+    "title": "Book Club: \"R for Data Science\" Chapters 26 - 30",
+    "description": "In this meeting we will continue and complete our book club on \"R for Data Science\" (http://r4ds.had.co.nz/). Please come having read Chapters 26 - 30 (Part V: Communicate).\n\nSlides for chapters from past meetings can be found on our GitHub page (https://github.com/rladies-san-diego/book-club_r4ds).\n\nPlease bring your laptop and an electronic or hardcopy of \"R for Data Science\".",
+    "status": "CANCELLED",
+    "dateTime": "2018-05-09T18:30:00-07:00",
+    "duration": "PT2H30M",
+    "eventUrl": "https://www.meetup.com/rladies-san-diego/events/250066996/",
+    "featuredEventPhoto": {
+      "id": "467048373",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/0/b/5/highres_467048373.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/0/b/5/600_467048373.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/0/b/5/thumb_467048373.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 2,
+      "waitlistCount": 0,
+      "totalCount": 2
+    },
+    "venues": [
+      {
+        "id": "25007383",
+        "name": "Lestat's Coffee Hillcrest",
+        "address": "1041 University Ave.",
+        "city": "San Diego",
+        "state": "CA",
+        "country": "us",
+        "lat": 32.75,
+        "lon": -117.17,
+        "postalCode": "92103",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Diego",
+      "urlname": "rladies-san-diego"
+    }
+  },
+  {
+    "id": "249469003",
+    "title": "Mini-hackathon on San Diego Traffic Data",
+    "description": "Come join us for our first ever mini-Hackathon! We'll be using data made available via the City of San Diego Open Data Portal (https://data.sandiego.gov/). We'll focus on traffic volumes, which can be found on the website (https://data.sandiego.gov/datasets/traffic-volumes/) or in the GitHub repository (https://github.com/rladies-san-diego/2018-04-24_minihackathon). You are welcome to play with the data before the meeting, but no prior work is required or expected. At the meeting we'll break out into groups looking at different aspects of the data.\n\nThis meeting is aimed participants of all skill levels. Beginners to advanced are welcome. If you are more advanced in R and interested in leading one of the breakout groups, please email Page at page[at]rladies.org.",
+    "status": "PAST",
+    "dateTime": "2018-04-24T18:30:00-07:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-san-diego/events/249469003/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 9,
+      "waitlistCount": 0,
+      "totalCount": 9
+    },
+    "venues": [
+      {
+        "id": "24350466",
+        "name": "Hera Hub",
+        "address": "4010 Sorrento Valley Blvd #400, San Diego, CA 92121, United States",
+        "city": "La Mesa",
+        "state": "CA",
+        "country": "us",
+        "lat": 32.7678,
+        "lon": -117.0231,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Diego",
+      "urlname": "rladies-san-diego"
+    }
+  },
+  {
+    "id": "249019028",
+    "title": "Book Club: \"R for Data Science\" Chapters 22 - 25",
+    "description": "In this meeting we will continue our book club on \"R for Data Science\" (http://r4ds.had.co.nz/). Please come having read Chapters 22 - 25 (Part IV: Model).\n\nSlides for chapters from past meetings can be found on our GitHub page (https://github.com/rladies-san-diego/book-club_r4ds).\n\nPlease bring your laptop and an electronic or hardcopy of \"R for Data Science\".",
+    "status": "PAST",
+    "dateTime": "2018-04-11T18:30:00-07:00",
+    "duration": "PT2H30M",
+    "eventUrl": "https://www.meetup.com/rladies-san-diego/events/249019028/",
+    "featuredEventPhoto": {
+      "id": "467048373",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/0/b/5/highres_467048373.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/0/b/5/600_467048373.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/0/b/5/thumb_467048373.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 6,
+      "waitlistCount": 0,
+      "totalCount": 6
+    },
+    "venues": [
+      {
+        "id": "24612481",
+        "name": "Subterranean Coffee Boutique",
+        "address": "412 University Ave",
+        "city": "San Diego",
+        "state": "CA",
+        "country": "us",
+        "lat": 32.7485,
+        "lon": -117.1613,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Diego",
+      "urlname": "rladies-san-diego"
+    }
+  },
+  {
+    "id": "248477959",
+    "title": "Exploring US Census Data",
+    "description": "In this meeting / tutorial we'll get some hands on practice reading US census data into R, followed by some data analysis and visualization. Page Piccinini will be leading the tutorial.\n\nCome with your computer and the following already done. To query census data you'll need an API key. You can get one here: https://api.census.gov/data/key_signup.html . We'll be focusing on the package \"tidycensus\" version 0.4.1 or greater. In addition to \"tidycensus\" be sure you have \"tidyverse\" and \"albersusa\" installed.\n\nSlides and code for the tutorial can be found here: https://github.com/rladies-san-diego/2018-03-27_uscensus/ .\n\nNOTE: The map is incorrect. See the correct location here (https://www.google.com/maps/place/Social+Sciences+Building/@32.879463,-117.238626,15z/data=!4m8!1m2!2m1!1ssocial+science+building+ucsd!3m4!1s0x80dc06ea75f1f199:0x43278faf66fd296c!8m2!3d32.8839462!4d-117.240441).",
+    "status": "PAST",
+    "dateTime": "2018-03-27T18:30:00-07:00",
+    "duration": "PT2H30M",
+    "eventUrl": "https://www.meetup.com/rladies-san-diego/events/248477959/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 16,
+      "waitlistCount": 0,
+      "totalCount": 16
+    },
+    "venues": [
+      {
+        "id": "769350",
+        "name": "UCSD",
+        "address": "9500 Gilman Dr",
+        "city": "La Jolla",
+        "state": "CA",
+        "country": "us",
+        "lat": 32.8753,
+        "lon": -117.2396,
+        "postalCode": "92037",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Diego",
+      "urlname": "rladies-san-diego"
+    }
+  },
+  {
+    "id": "247934508",
+    "title": "Book Club: \"R for Data Science\" Chapters 17 - 21",
+    "description": "In this meeting we will continue our book club on \"R for Data Science\" (http://r4ds.had.co.nz/). Please come having read Chapters 17 - 21 (Part III: Program).\n\nIf you are interested in leading the discussion for a particular chapter please let Page or Megan know. This will entail putting together a few slides (Really! No more than 3!) and having gone over the exercises in case someone has questions. Currently available chapters are:\n\n- 17 Introduction\n- 18 Pipes\n- 19 Functions\n- 20 Vectors\n- 21 Iteration\n\nSlides for chapters from past meetings can be found on our GitHub page (https://github.com/rladies-san-diego/book-club_r4ds).\n\nPlease bring your laptop and an electronic or hardcopy of \"R for Data Science\".",
+    "status": "PAST",
+    "dateTime": "2018-03-14T18:30:00-07:00",
+    "duration": "PT2H30M",
+    "eventUrl": "https://www.meetup.com/rladies-san-diego/events/247934508/",
+    "featuredEventPhoto": {
+      "id": "467048373",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/0/b/5/highres_467048373.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/0/b/5/600_467048373.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/0/b/5/thumb_467048373.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 7,
+      "waitlistCount": 0,
+      "totalCount": 7
+    },
+    "venues": [
+      {
+        "id": "15042572",
+        "name": "Living Room Coffeehouse, 1010 Prospect St, La Jolla, CA 92037",
+        "address": "Living Room Coffeehouse, 1010 Prospect St, La Jolla, CA 92037",
+        "city": "La Jolla",
+        "state": "Ca",
+        "country": "us",
+        "lat": 32.8472,
+        "lon": -117.2733,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Diego",
+      "urlname": "rladies-san-diego"
+    }
+  },
+  {
+    "id": "247031305",
+    "title": "Book Club: \"R for Data Science\" Chapters 9 - 16",
+    "description": "In this meeting we will continue our book club on \"R for Data Science\" (http://r4ds.had.co.nz/). Please come having read Chapters 9 - 16 (Part II: Wrangle).\n\nIf you are interested in leading the discussion for a particular chapter please let Page or Megan know. This will entail putting together a few slides (Really! No more than 3!) and having gone over the exercises in case someone has questions. Currently available chapters are:\n\n- 9 Introduction\n- 10 Tibbles\n- 11 Data import\n- 12 Tidy data\n- 13 Relational data\n- 14 Strings - TAKEN\n- 15 Factors\n- 16 Dates and times\n\nSlides for chapters from past meetings can be found on our GitHub page (https://github.com/rladies-san-diego/book-club_r4ds).\n\nPlease bring your laptop and an electronic or hardcopy of \"R for Data Science\".",
+    "status": "PAST",
+    "dateTime": "2018-02-13T18:30:00-08:00",
+    "duration": "PT2H30M",
+    "eventUrl": "https://www.meetup.com/rladies-san-diego/events/247031305/",
+    "featuredEventPhoto": {
+      "id": "467048373",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/0/b/5/highres_467048373.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/0/b/5/600_467048373.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/0/b/5/thumb_467048373.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 16,
+      "waitlistCount": 0,
+      "totalCount": 16
+    },
+    "venues": [
+      {
+        "id": "25702271",
+        "name": "Elevate",
+        "address": "11710 El Camino Real",
+        "city": "San Diego",
+        "state": "ca",
+        "country": "us",
+        "lat": 32.9292,
+        "lon": -117.2383,
+        "postalCode": "92130",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Diego",
+      "urlname": "rladies-san-diego"
+    }
+  },
+  {
+    "id": "246405037",
+    "title": "Jenny Bryan and Hadley Wickham on R",
+    "description": "In this meeting we'll get presentations from Jenny Bryan and Hadley Wickham.\n\nThe start time is 6pm, but talks will start at 6:30pm, so feel free to come anytime between 6 and 6:30, but please arrive no later than 6:30. See below for a brief outline of the evening:\n\n6:00pm - 6:30pm: Arriving and socializing\n6:30pm - 7:00pm: Jenny Bryan Talk\n7:00pm - 7:30pm: Hadley Wickham Talk\n7:30pm - end of meeting: Socializing\n\nTALKS\nJenny will discuss strategies for setting up your R life in general, as well as reusable patterns for data analysis projects.\n\nHadley's topic is TBA.\n\nEach talk will be about 25 minutes.\n\nBIOS\nJenny is a recovering biostatistician who takes special delight in eliminating the small agonies of data analysis. Specific tools and mental models can make it easier for a data analyst to settle into a productive, alpha-to-omega workflow. She's been using R/S for over 20 years and is an Ordinary Member of the R Foundation. Jenny is working as a developer for RStudio and is Associate Professor of Statistics (on leave) at the University of British Columbia. She serves in the leadership of rOpenSci and Forwards.\n\nHadley is Chief Scientist at RStudio, a member of the R Foundation, and Adjunct Professor at Stanford University and the University of Auckland. He builds tools (both computational and cognitive) to make data science easier, faster, and more fun. His work includes packages for data science (the tidyverse: including ggplot2, dplyr, tidyr, purrr, and readr) and principled software development (roxygen2, testthat, devtools). He is also a writer, educator, and speaker promoting the use of R for data science. Learn more on his website, http://hadley.nz .",
+    "status": "PAST",
+    "dateTime": "2018-01-30T18:00:00-08:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-san-diego/events/246405037/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 61,
+      "waitlistCount": 0,
+      "totalCount": 61
+    },
+    "venues": [
+      {
+        "id": "25333339",
+        "name": "Classy.org",
+        "address": "350 Tenth Avenue",
+        "city": "San Diego",
+        "state": "CA",
+        "country": "US",
+        "lat": 32.7089,
+        "lon": -117.1559,
+        "postalCode": "92101",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Diego",
+      "urlname": "rladies-san-diego"
+    }
+  },
+  {
+    "id": "246072119",
+    "title": "Book Club: \"R for Data Science\" Chapters 1 - 8",
+    "description": "The first R-Ladies San Diego book club! Our first book is \"R for Data Science\" (http://r4ds.had.co.nz/). Please come having read Chapters 1 - 8 (Part I: Explore).\n\nPlease bring your laptop and an electronic or hardcopy of \"R for Data Science\".",
+    "status": "PAST",
+    "dateTime": "2018-01-16T19:00:00-08:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-san-diego/events/246072119/",
+    "featuredEventPhoto": {
+      "id": "467048373",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/0/b/5/highres_467048373.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/0/b/5/600_467048373.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/0/b/5/thumb_467048373.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 20,
+      "waitlistCount": 0,
+      "totalCount": 20
+    },
+    "venues": [
+      {
+        "id": "25667485",
+        "name": "SDSU's Coastal and Marine Institute",
+        "address": "4165 Spruance Rd",
+        "city": "San Diego",
+        "state": "ca",
+        "country": "us",
+        "lat": 32.7318,
+        "lon": -117.2107,
+        "postalCode": "92101",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Diego",
+      "urlname": "rladies-san-diego"
+    }
+  },
+  {
+    "id": "266896243",
+    "title": "Using git and GitHub with RStudio",
+    "description": "Hey everyone,\n\nJoin us to learn the basics of using git for version control. We'll also explore how to use GitHub to create online repositories of your code and how you can interface with git and GitHub directly from within RStudio in super easy steps.\n\nIf you can, please create a GitHub account ahead of time (github.com). Also, if you don't have R and RStudio installed you can follow the steps outlined here to get started (https://github.com/rladies-san-diego/2019-10-10_tidyverse-tutorial/blob/master/Quick%20intro.pdf).\n\nWe're looking forward to seeing everyone!",
+    "status": "PAST",
+    "dateTime": "2019-12-11T18:30:00-08:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-san-diego/events/266896243/",
+    "featuredEventPhoto": {
+      "id": "487102224",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/6/d/0/highres_487102224.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/6/d/0/600_487102224.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/6/d/0/thumb_487102224.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 12,
+      "waitlistCount": 0,
+      "totalCount": 12
+    },
+    "venues": [
+      {
+        "id": "26206615",
+        "name": "Hera Hub La Jolla",
+        "address": "11011 N Torrey Pines Rd #200",
+        "city": "La Jolla",
+        "state": "CA",
+        "country": "us",
+        "lat": 32.9053,
+        "lon": -117.241,
+        "postalCode": "92121",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Diego",
+      "urlname": "rladies-san-diego"
+    }
+  },
+  {
+    "id": "266290639",
+    "title": "aRt and beeR",
+    "description": "This will be a really fun tutorial by Viola!\n\nShe will teach how to use R to create awesome artwork and along the way we'll learn about adapting tutorials to get off the ground quick with R, functions, and loops.\n\nAll you need is your favorite picture with your favorite text (music, poem, etc) and let the magic begin. Don't have time to prep those ahead of time? No worries-- we'll set aside time during the meeting to find good pics and words (see my example w/ Kathleen Hannah and the lyrics to Nanny Nanny Boo Boo).\n\nHope to see you all there!",
+    "status": "PAST",
+    "dateTime": "2019-11-14T18:30:00-08:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-san-diego/events/266290639/",
+    "featuredEventPhoto": {
+      "id": "483377765",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/5/6/5/highres_483377765.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/5/6/5/600_483377765.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/5/6/5/thumb_483377765.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 19,
+      "waitlistCount": 0,
+      "totalCount": 19
+    },
+    "venues": [
+      {
+        "id": "26206615",
+        "name": "Hera Hub La Jolla",
+        "address": "11011 N Torrey Pines Rd #200",
+        "city": "La Jolla",
+        "state": "CA",
+        "country": "us",
+        "lat": 32.9053,
+        "lon": -117.241,
+        "postalCode": "92121",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Diego",
+      "urlname": "rladies-san-diego"
+    }
+  },
+  {
+    "id": "265381772",
+    "title": "Welcome to the tidyverse! AKA: R for beginners 2.0",
+    "description": "Let's learn more about R by exploring some of the packages in the tidyverse.\n\nAccording to RStudio, \"The tidyverse is an opinionated collection of R packages designed for data science. All packages share an underlying design philosophy, grammar, and data structures\". It's also an amazing way to quickly and easily get started with R.\n\nJoin us in a journey through some of the tidyverse as we learn how to import, manipulate and plot data.\n\nThis meetup will be suitable for beginners and those that have never used R. However, I'd like to also ask those that are already proficient to attend. We can always use your help during the tutorials!\n\nWe are looking forward to seeing you all there!\n\nThings to do ahead of time:\n\n- Download and install R (https://cran.cnr.berkeley.edu/)\n- Download and install RStudio (https://rstudio.com/products/rstudio/download/)\n- Install the tidyverse package (install.packages(\"tidyverse\"))\n\nAlso, please download the files from https://github.com/rladies-san-diego/2019-10-10_tidyverse-tutorial\n\nWe are meeting at UCSD's biomedical library building, rooms 106-107 at 6:30pm on October 10th.",
+    "status": "PAST",
+    "dateTime": "2019-10-10T18:30:00-07:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-san-diego/events/265381772/",
+    "featuredEventPhoto": {
+      "id": "485439408",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/9/f/0/highres_485439408.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/9/f/0/600_485439408.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/9/f/0/thumb_485439408.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 22,
+      "waitlistCount": 0,
+      "totalCount": 22
+    },
+    "venues": [
+      {
+        "id": "26676847",
+        "name": "Biomedical Library Building",
+        "address": "9500 Gilman Dr",
+        "city": "San Diego",
+        "state": "CA",
+        "country": "us",
+        "lat": 32.8753,
+        "lon": -117.2369,
+        "postalCode": "92161",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Diego",
+      "urlname": "rladies-san-diego"
+    }
+  },
+  {
+    "id": "262833042",
+    "title": "R for Beginners",
+    "description": "*** UPDATES 11SEP2019 ***\nHello R-Ladies,\n\nTo help us better prepare for September's Meetup, please take a few moments to answer our questionnaire.\n\nhttps://docs.google.com/forms/d/e/1FAIpQLSchVbTLm5IMj-3ocIR2GYXU3Vxl0LiiBHgiQS_VvhChAiytZQ/viewform\n\nPlease note that the venue location has changed:\nHera Hub Mission Valley\n8885 Rio San Diego Dr, Unit 237\nSan Diego, CA 92108\n\nThank you,\n\nElke\n\n*** ***\n\nHey everyone,\n\nLet's join Elke as she presents an amazing tutorial on how to get started with R.\nIf you consider yourself a beginner, this is your chance to hit the ground running.\nIf you already have experience using R, please come anyway! We'd love to have more experienced users to help out the beginners as we progress through the tutorial.\n\nMore information coming soon.\n\nSee you then!\n\nWHAT DO YOU NEED?\n\nPlease bring your laptop to follow along with the tutorial. I recommend downloading R (http://www.r-project.org/) then R Studio (https://www.rstudio.com/products/rstudio/#Desktop) onto your laptop. They are both free and there are lot's of videos and tutorials out there to help you through the process. Thanks!",
+    "status": "PAST",
+    "dateTime": "2019-09-26T18:30:00-07:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-san-diego/events/262833042/",
+    "featuredEventPhoto": {
+      "id": "482799087",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/8/a/f/highres_482799087.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/8/a/f/600_482799087.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/8/a/f/thumb_482799087.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 27,
+      "waitlistCount": 0,
+      "totalCount": 27
+    },
+    "venues": [
+      {
+        "id": "26318156",
+        "name": "Hera Hub San Diego Mission Valley",
+        "address": "8885 Rio San Diego Dr UNIT 237",
+        "city": "San Diego",
+        "state": "CA",
+        "country": "us",
+        "lat": 32.7746,
+        "lon": -117.1382,
+        "postalCode": "92108",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Diego",
+      "urlname": "rladies-san-diego"
+    }
+  },
+  {
+    "id": "262832228",
+    "title": "POSTPONED aRt and beeR",
+    "description": "POSTPONED\nSTAY TUNED FOR NEW DATE\n\nThis will be a really fun tutorial by Viola!\n\nShe will teach how to use R to create awesome artwork and along the way we'll learn about adapting tutorials to get off the ground quick with R, functions, and loops.\n\nAll you need is your favorite picture with your favorite text (music, poem, etc) and let the magic begin. Don't have time to prep those ahead of time? No worries-- we'll set aside time during the meeting to find good pics and words (see my example w/ Kathleen Hannah and the lyrics to Nanny Nanny Boo Boo).\n\nHope to see you all there!",
+    "status": "PAST",
+    "dateTime": "2019-07-25T18:30:00-07:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-san-diego/events/262832228/",
+    "featuredEventPhoto": {
+      "id": "483377765",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/5/6/5/highres_483377765.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/5/6/5/600_483377765.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/5/6/5/thumb_483377765.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 6,
+      "waitlistCount": 0,
+      "totalCount": 6
+    },
+    "venues": [
+      {
+        "id": "26432516",
+        "name": "2986 Ivy St",
+        "address": "2986 Ivy St",
+        "city": "San Diego",
+        "state": "CA",
+        "country": "us",
+        "lat": 32.7288,
+        "lon": -117.1304,
+        "postalCode": "92104",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Diego",
+      "urlname": "rladies-san-diego"
+    }
+  },
+  {
+    "id": "262229988",
+    "title": "Work with databases directly from R - special guest speaker Amy",
+    "description": "Hey everyone,\n\nThis is a very promising meet up where Amy will tell us more about how to connect directly to a database from within R!\nBeing able to work with databases is a major requirement for anyone that wants to work with large amounts of data. This is also a major skill data scientist and data analysts at all levels need to develop.\nSo don't miss this opportunity and join us to learn more from Amy.\n\nWe're looking forward to seeing you there!\n\nYour R-Ladies organizers\n\nUPDATE: Here is some more info from Amy on how we can get a head start before the meeting. Please read the information below and try to install the necessary software / packages ahead of time. Thanks!\n\nR packages:\nstringr\nDBI\nRSQLite\n\nDatabase software installed on the laptop:\nSQLite\nThis software is sometimes called SQLite and sometimes called SQLite3. For the sake of this demo, the difference does not matter at all.\n\nSQLite on a Mac:\nYour computer might have come with SQLite installed. Open up a Terminal window and type:\nwhich sqlite3\nIf you see something like /usr/bin/sqlite3, then you are all set. If it doesn’t say anything, then see the Homebrew instructions below.\n\nIf you do not have SQLite, you can install it with Homebrew:\nPoint your web browser at: brew.sh\nFollow the directions for installing Homebrew\nAt the command line, type: brew install sqlite\nIf that fails, try: brew install sqlite3\n\nAlso, the files for the tutorial are now available on GitHub at https://github.com/rladies-san-diego/2019_06_27_Amy_databases\n\nThanks!\n\nPS: We are meeting at the Salk Institute this month. The plan is to meet at the main gate at 6:30pm so we can go in together. If you arrive late, please let me know in the comments as the doors will be locked and I'll have to let you in. Thanks!",
+    "status": "PAST",
+    "dateTime": "2019-06-27T18:30:00-07:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-san-diego/events/262229988/",
+    "featuredEventPhoto": {
+      "id": "482158889",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/e/6/0/9/highres_482158889.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/e/6/0/9/600_482158889.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/6/0/9/thumb_482158889.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 15,
+      "waitlistCount": 0,
+      "totalCount": 15
+    },
+    "venues": [
+      {
+        "id": "26452923",
+        "name": "Salk Institute for Biological Studies",
+        "address": "10010 N Torrey Pines Rd",
+        "city": "La Jolla",
+        "state": "CA",
+        "country": "us",
+        "lat": 32.8871,
+        "lon": -117.2446,
+        "postalCode": "92037",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Diego",
+      "urlname": "rladies-san-diego"
+    }
+  },
+  {
+    "id": "261402682",
+    "title": "Let's play with Shiny - special guest speaker Katie",
+    "description": "Katie Heineman will give us an introductory walk through of Shiny apps:\n\nShiny is a web development platform developed through R Studio that allows R users to make interactive interfaces for datasets manipulation and visualization.\nYou can learn more about Shiny here: https://shiny.rstudio.com/. Also, see some amazing examples of what you could create using Shiny here: https://shiny.rstudio.com/gallery/\n\nDon't miss this awesome tutorial with Katie.\n\nBefore coming please do the following:\n\n1) Install R Studio ( https://www.rstudio.com/ ).\n2) Install the 'shiny' package\n3) Optional: Sign up for a *free* Shiny.io account so you can practice deploying a shareable webapp: http://www.shinyapps.io/\n\nCome for R, Shiny, and snacks!",
+    "status": "PAST",
+    "dateTime": "2019-05-28T18:30:00-07:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-san-diego/events/261402682/",
+    "featuredEventPhoto": {
+      "id": "481263810",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/e/e/2/highres_481263810.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/e/e/2/600_481263810.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/e/2/thumb_481263810.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 15,
+      "waitlistCount": 0,
+      "totalCount": 15
+    },
+    "venues": [
+      {
+        "id": "20013802",
+        "name": "UCSD Geisel Library",
+        "address": "9500 Gilman Dr Dept 0175",
+        "city": "La Jolla",
+        "state": "CA",
+        "country": "US",
+        "lat": 32.8727,
+        "lon": -117.2377,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Diego",
+      "urlname": "rladies-san-diego"
+    }
+  },
+  {
+    "id": "259938814",
+    "title": "satRdays at UCLA - anyone up for a Road Trip?",
+    "description": "Hey R-Ladies!\n\nSatRdays are a locally organized, low cost, R conferences. They happen all over the world and we have one coming to LA on April 6th! Even more, Erin LeDell, of R-Ladies Global, is keynoting so there is some special R-Ladies flare in this one.\n\nReg is $35 ($15 for students!) and the agenda is AWESOME. Lots of data science, but also making packages, Shiny, and more.\n\nHere's how to register + the agenda: https://losangeles2019.satrdays.org/\n\nHappy to carpool and we'll organize logistics once we get a feel for who is joining us. It'd be an early morning, but we can get coffee. Looking to depart San Diego by 6am.",
+    "status": "PAST",
+    "dateTime": "2019-04-06T06:00:00-07:00",
+    "duration": "PT14H",
+    "eventUrl": "https://www.meetup.com/rladies-san-diego/events/259938814/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "26265985",
+        "name": "James West Alumni Center",
+        "address": "325 Westwood Plaza",
+        "city": "Los Angeles",
+        "state": "CA",
+        "country": "us",
+        "lat": 34.0702,
+        "lon": -118.4453,
+        "postalCode": "90095",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Diego",
+      "urlname": "rladies-san-diego"
+    }
+  },
+  {
+    "id": "259492462",
+    "title": "Getting a Job in Data Science",
+    "description": "At this meeting Page Piccinini will talk about her journey to becoming a data scientist, including advice for aspiring data scientists or those transitioning from academia to industry.",
+    "status": "PAST",
+    "dateTime": "2019-03-19T18:30:00-07:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-san-diego/events/259492462/",
+    "featuredEventPhoto": {
+      "id": "479210560",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/5/8/0/highres_479210560.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/5/8/0/600_479210560.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/5/8/0/thumb_479210560.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 22,
+      "waitlistCount": 0,
+      "totalCount": 22
+    },
+    "venues": [
+      {
+        "id": "26136700",
+        "name": "Ivy Street Coworking",
+        "address": "2986 Ivy St",
+        "city": "San Diego",
+        "state": "CA",
+        "country": "us",
+        "lat": 32.7288,
+        "lon": -117.1304,
+        "postalCode": "92104",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Diego",
+      "urlname": "rladies-san-diego"
+    }
+  },
+  {
+    "id": "259243913",
+    "title": "Sentiment Analysis in R - Valentine's Day Edition!",
+    "description": "To celebrate this Valentine's Day let's play with sentiment analysis in R. We’ll use romantic songs or novels to see if we can identify all the different shapes of love.\nWe will cover the following topics on sentiment analysis:\n- how to import text data into R and transform it into tidy data,\n- explore sentiment lexicons available in R and determine the most applicable,\n- create sentiment datasets by combining the lexicons with your text data,\n- identify the overall mood of the text,\n- makes some cool plots!",
+    "status": "PAST",
+    "dateTime": "2019-02-28T18:00:00-08:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-san-diego/events/259243913/",
+    "featuredEventPhoto": {
+      "id": "478961635",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/2/a/3/highres_478961635.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/2/a/3/600_478961635.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/2/a/3/thumb_478961635.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 10,
+      "waitlistCount": 0,
+      "totalCount": 10
+    },
+    "venues": [
+      {
+        "id": "20013802",
+        "name": "UCSD Geisel Library",
+        "address": "9500 Gilman Dr Dept 0175",
+        "city": "La Jolla",
+        "state": "CA",
+        "country": "US",
+        "lat": 32.8727,
+        "lon": -117.2377,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Diego",
+      "urlname": "rladies-san-diego"
+    }
+  },
+  {
+    "id": "257684526",
+    "title": "Mini-hackathon on Harassment and Bias in Language Research",
+    "description": "For the hackathon we will be provided with a dataset collected by language researchers at the University of Michigan, Rochester Institute of Technology, and UC Santa Barbara. A survey was administered to present and past language researchers to understand the patterns of harassment and bias in linguistics and work toward evidence-based solutions. Results come from over 1,400 respondents. This survey builds on existing models from the self-inquiries conducted in other fields (Clancy et al. 2017); in addition, they give space for affected individuals to detail their experiences and provide solutions.\n\nIn this meeting we will dig into the data and end by sharing our results with the original researchers of the project. Data can be found on R-Ladies San Diego GitHub (https://github.com/rladies-san-diego/2019-01-24_harassment_bias_hackathon).",
+    "status": "PAST",
+    "dateTime": "2019-01-24T18:00:00-08:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-san-diego/events/257684526/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 8,
+      "waitlistCount": 0,
+      "totalCount": 8
+    },
+    "venues": [
+      {
+        "id": "25284935",
+        "name": "WeWork 600 B St",
+        "address": "600 B Street, Suite 300",
+        "city": "San Diego",
+        "state": "CA",
+        "country": "US",
+        "lat": 32.7182,
+        "lon": -117.1587,
+        "postalCode": "92101",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Diego",
+      "urlname": "rladies-san-diego"
+    }
+  },
+  {
+    "id": "274952774",
+    "title": "R-Ladies Year End Social",
+    "description": "Whew! What a year!\nHere's hoping you are up for a Zoom social because we miss you all! Bring your favorite beverage to your local couch and get ready to hang out, play some games and plan for next year.\nAgenda:\n6:00 - 6:45 Re-intros. We really do want to know \"How are you?\"\n7:00 - 8:00 A game :)\n8:00 - 8:30 Discussion around R-Ladies 2021. Bring some ideas!\n\nWe will send out the zoom link closer to the event.\nCheers!",
+    "status": "PAST",
+    "dateTime": "2020-12-16T18:00:00-08:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-san-diego/events/274952774/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 9,
+      "waitlistCount": 0,
+      "totalCount": 9
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Diego",
+      "urlname": "rladies-san-diego"
+    }
+  },
+  {
+    "id": "272198085",
+    "title": "Combined July Meetup! San Diego useR / Boston useR / South Coast MA useR",
+    "description": "Hey all!\n\nOur fellow R enthusiasts from San Diego R Users Groups have invited us to join their upcoming meetup. I'm really excited to participate and get to know even more awesome R lovers!\n\nI hope to see you all there,\n\nJuliana\n\nPosted from San Diego R Users Groups:\n\nCoast to Coast for this summer meetup! July's meetup will feature 3 useR Groups!\n\nGreater Boston useR: https://www.meetup.com/Boston-useR/\nSan Diego useR: https://www.meetup.com/sd-r-users/\nSouth Coast MA useR: https://www.meetup.com/South-Coast-useR-Group\n\nTalk #1: Andrew Bates, Databases With R:\n\nUsing databases directly within R can greatly streamline your workflow. In this talk we will learn how to query databases and return the results as an R data frame. We will show how packages like DBI and dbplyr allow us to use dplyr syntax to run queries against a database and return the results. This allows us to keep our workflow entirely within R, instead of switching contexts between SQL and R. After looking at a few examples, we will cover some tips for incorporating these ideas into our daily work as well as resources for moving beyond the basics.\n\nTalk #2: Asmae Toumi, naniar package:\n\nAsmae Toumi will give a very broad overview of how to leverage the {naniar} package to explore and visualize missing data, identify patterns of missing data, and impute missing data using the {MICE} package.\n\nTalk #3: Amanda Hart, Tips & tricks for making your own R package:\n\nFrom plotting to analysis, packages are foundational tools for R users. But what happens when there isn’t an existing package to meet your needs? In this talk, we will learn how to take your own code and turn it into a new R package. We will provide simple steps to get started and tips to add features as you become package-building experts.\n\nTalk #4: Juliana Capitanio, Flexdashboards: Using interactive dashboards to create data visualizations\n\nJuliana Capitanio will show us how to use R Markdown to quickly create a dashboard using the flexdashboards package. These dashboards can compile plots, tables, gauges, value boxes, text annotations and maps into various layouts. Dashboard components are responsive and quickly resize to fit mobile devices. Further, we can easily make dashboard elements interactive by using htmlwidgets for R and/or Shiny.",
+    "status": "PAST",
+    "dateTime": "2020-07-30T13:00:00-07:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-san-diego/events/272198085/",
+    "featuredEventPhoto": {
+      "id": "491539366",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/b/a/6/highres_491539366.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/b/a/6/600_491539366.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/b/a/6/thumb_491539366.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 22,
+      "waitlistCount": 0,
+      "totalCount": 22
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Diego",
+      "urlname": "rladies-san-diego"
+    }
+  },
+  {
+    "id": "271785235",
+    "title": "UseR! 2020 tutorial: Easy Larger-than-RAM  data manipulation  with disk.frame",
+    "description": "Hey everyone,\n\nAs most of you know, UseR! 2020 is happening online this year. Further, this year the conference tutorials will be done in partnership with R-Ladies Global, MiR, and the AfricaR user group.\n\nThe AWESOME news is that our group, R-Ladies San Diego, has been chosen to host one of the UseR! tutorials this year! We are really excited to bring this opportunity to our members and to other R enthusiasts from all over the world!\n\nThe tutorial we are hosting will be presented by disk.frame creator Zhuo Jia Dai (ZJ). He'll tell us more about \"Easy Larger-than-RAM data manipulation with disk.frame\".\n\nHere's ZJ's description: In this tutorial, we will present the {disk.frame} (diskframe.com) R package for handling datasets that are too large for RAM but still fits comfortably on your hard drive. We will go through how {disk.frame} works, how to manipulate ten's of gigabytes of data without using all your RAM, and how you can take advantage of the many CPU cores on your computer by parallelizing data manipulation task using {disk.frame}. Also, I will show you how to perform all the standard data manipulations by using just dplyr verbs! After the tutorial, you should be able to confidently tackle dataset up to ten's of gigabytes in size comfortably on your laptop.\n\nI really hope you can all make it to our very first online event. This is such an amazing opportunity for all of us! Hopefully useR! 2020 will allow many that might not have been able to attend such a conference in person to join us in our exploration of the R universe.\n\nWe really look forward to (virtually) seeing everyone again soon!\n\nYour R-Ladies SD organizers",
+    "status": "PAST",
+    "dateTime": "2020-07-23T18:30:00-07:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-san-diego/events/271785235/",
+    "featuredEventPhoto": {
+      "id": "491218452",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/e/4/5/4/highres_491218452.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/e/4/5/4/600_491218452.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/4/5/4/thumb_491218452.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 104,
+      "waitlistCount": 0,
+      "totalCount": 104
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Diego",
+      "urlname": "rladies-san-diego"
+    }
+  },
+  {
+    "id": "269151282",
+    "title": "CANCELED EVENT: flexdashboard: Easy interactive dashboards for R",
+    "description": "HEY EVERYONE,\n\nTHIS EVENT HAS BEEN CANCELLED DUE TO THE CURRENT RECOMMENDED PRECAUTIONS TO PREVENT THE SPREAD OF COVID-19.\nWE'LL UPDATE YOU AGAIN IN APRIL. HOPEFULLY WE'LL BE BACK TO HOSTING OUR REGULAR MONTHLY MEETUPS BY THEN.\n\nTHANKS.\n\nJoin us on March 25th to learn more about using flexdashboard in R.\n\nIt's an awesome easy way to transform your R markdown documents into great looking interactive dashboards you can share with the world!\n\nHere are some details on this new package (from RStudio):\n\n- Use R Markdown to publish a group of related data visualizations as a dashboard.\n- Support for a wide variety of components including htmlwidgets; base, lattice, and grid graphics; tabular data; gauges and value boxes; and text annotations.\n- Flexible and easy to specify row and column-based layouts. Components are intelligently re-sized to fill the browser and adapted for display on mobile devices.\n- Storyboard layouts for presenting sequences of visualizations and related commentary.\n- Optionally use Shiny to drive visualizations dynamically.\n\nWe're meeting at 6:30pm at Hera Hub Mission Valley.\n\nWe hope to see you all there!\n\nYour R-Ladies SD organizers",
+    "status": "PAST",
+    "dateTime": "2020-03-25T19:00:00-07:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-san-diego/events/269151282/",
+    "featuredEventPhoto": {
+      "id": "489504676",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/0/6/4/highres_489504676.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/0/6/4/600_489504676.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/0/6/4/thumb_489504676.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 7,
+      "waitlistCount": 0,
+      "totalCount": 7
+    },
+    "venues": [
+      {
+        "id": "26318156",
+        "name": "Hera Hub San Diego Mission Valley",
+        "address": "8885 Rio San Diego Dr UNIT 237",
+        "city": "San Diego",
+        "state": "CA",
+        "country": "us",
+        "lat": 32.7746,
+        "lon": -117.1382,
+        "postalCode": "92108",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Diego",
+      "urlname": "rladies-san-diego"
+    }
+  },
+  {
+    "id": "268760017",
+    "title": "Hackathon - finding new insights from publicly available datasets",
+    "description": "Hey everyone,\n\nLet's get together for another Hackathon! The goal is to use publicly available datasets to extract new insights. It's pretty amazing how much we can learn with some very basic exploratory data analysis in R, from there, the sky is the limit.\n\nWe'll start with Elke giving us an example of how she did a really awesome project on small business in San Diego using data from California's Employment Development Department.\nIf we have time, Juliana will also give an example of how you can use natural language processing with freely available abstracts from scientific papers to learn a bunch of new sciency things!\n\nAfter that we'll divide into small groups to analyze other datasets or further explore one of the topics above.\nYou're welcome to use any dataset that interests you. Try google dataset search to see if anything out there sparks your curiosity. Kaggle also has loads of cool datasets available.\n\nWe'll end the evening sharing what the different groups have done.\n\nHope to see you all soon!\n\nYou can find links to the resources mentioned above below:\nCalifornia EDD Labor Market Information Resources and Data: https://www.labormarketinfo.edd.ca.gov/LMID/Size_of_Business_Data.html\nBiomedical natural language processing datasets and models: http://bio.nlplab.org/\nGoogle's dataset search: https://datasetsearch.research.google.com/\nKaggle datasets: https://www.kaggle.com/datasets",
+    "status": "PAST",
+    "dateTime": "2020-02-28T18:30:00-08:00",
+    "duration": "PT2H30M",
+    "eventUrl": "https://www.meetup.com/rladies-san-diego/events/268760017/",
+    "featuredEventPhoto": {
+      "id": "489067536",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/d/7/0/highres_489067536.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/d/7/0/600_489067536.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/d/7/0/thumb_489067536.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 11,
+      "waitlistCount": 0,
+      "totalCount": 11
+    },
+    "venues": [
+      {
+        "id": "26864428",
+        "name": "Villa La Jolla Drive",
+        "address": "Villa La Jolla Dr",
+        "city": "San Diego",
+        "state": "CA",
+        "country": "us",
+        "lat": 32.8705,
+        "lon": -117.2339,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Diego",
+      "urlname": "rladies-san-diego"
+    }
+  },
+  {
+    "id": "267781684",
+    "title": "Using R and RStudio with Amazon Web Services (with Katie Heineman)",
+    "description": "The goal of the tutorial will be to install Rstudio Server and Shiny Server on an EC2 Amazon Web Services cloud computing instance.\n\nBefore the meeting - I encourage you to sign up for the free tier of Amazon Web Services! You will be required to enter a credit card number, but the plan itself is free.\nhttps://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc\n\nThe tutorial was written for a Linux/Mac operating system - PC users may want to download PuTTY to emulate the terminal interface that we will be using. https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html",
+    "status": "PAST",
+    "dateTime": "2020-01-29T18:30:00-08:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-san-diego/events/267781684/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 17,
+      "waitlistCount": 0,
+      "totalCount": 17
+    },
+    "venues": [
+      {
+        "id": "26206615",
+        "name": "Hera Hub La Jolla",
+        "address": "11011 N Torrey Pines Rd #200",
+        "city": "La Jolla",
+        "state": "CA",
+        "country": "us",
+        "lat": 32.9037,
+        "lon": -117.2194,
+        "postalCode": "92121",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Diego",
+      "urlname": "rladies-san-diego"
+    }
+  },
+  {
+    "id": "278935020",
+    "title": "We're back! Let's catch-up with a fun meet and greet.",
+    "description": "Hey everyone,\n\nNow that everything is reopening and San Diego is seen good rates of vaccination we've decided to bring back the in person meetings for R-Ladies San Diego.\n\nLet's start by just getting together and catching up. We'd love to know how you've been doing and we miss seeing all of you in person.\n\nPlease keep in mind that this is an in person event at a coffee shop / restaurant where a lot of people won't be wearing masks. So if you're not yet fully vaccinated against COVID-19, you might want to give this event a pass.\n\nWe look forward to seeing you,\n\nYour R-Ladies organizers",
+    "status": "CANCELLED",
+    "dateTime": "2021-06-29T18:30:00-07:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-san-diego/events/278935020/",
+    "featuredEventPhoto": {
+      "id": "496998161",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/6/f/1/highres_496998161.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/6/f/1/600_496998161.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/6/f/1/thumb_496998161.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 7,
+      "waitlistCount": 0,
+      "totalCount": 7
+    },
+    "venues": [
+      {
+        "id": "26744456",
+        "name": "Farmer & The Seahorse",
+        "address": "10996 Torreyana Rd Ste 240",
+        "city": "San Diego",
+        "state": "CA",
+        "country": "us",
+        "lat": 32.9045,
+        "lon": -117.2388,
+        "postalCode": "92037",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Diego",
+      "urlname": "rladies-san-diego"
+    }
+  },
+  {
+    "id": "276175027",
+    "title": "Course: Modeling Normally Distributed Data with Repeated Measures",
+    "description": "Hey R-Ladies SD members,\n\nThis short course is being hosted by OCRUG on Zoom and they have kindly invited us to participate.\n\nThere is a nominal cost, but they would like all to attend who want to. So there are a number of free tickets available. Just email john@jppeach.com for details.\n\nThe event details provided by OCRUG are as follows:\n\nRegistration is on Eventbrite (https://www.eventbrite.com/e/ocrug-modeling-normally-distributed-data-with-repeated-measures-tickets-135236340535).\n\nAbstract\nThis workshop will give you the practical skills and foundational knowledge to effectively use some powerful regression models used by data scientists. When data are collected on the same subjects repeatedly over time (for example, in clinical trials or cohort studies) or under different conditions (for example, in a designed experiment), the measurements within the same individual are modeled as having correlated values. At the workshop, we will consider several models that can be employed to model a normally distributed response variable. The models that we will consider are: random slope and intercept (mixed-effects) model and generalized estimating equations models with unstructured, autoregressive, compound symmetric (exchangeable), and independent working correlation matrices. All models will be run in R version 4.0.3.\n\nThe course will be structured as follows. For each part, we will first discuss the theory, then work through an example. After that, the participants will work in small groups in break-out rooms to do hands-on exercises to help reinforce the material. All the files and Rstudio will be made available to the participants.\n\nWe would like to use the RStudio Cloud. If you are not familiar with this technology, the participants use a web browser to access RStudio. The environment will be set up and loaded with the code and data that is needed. This way, participants can focus on building models.\n\nThe material covered by the workshop will be taken from my recently published book [\"Advanced Regression Models with SAS and R Applications\"](https://www.amazon.com/dp/1138049018/), CRC Press, 2018.\n\nAbout the Instructor\nDr. Olga Korosteleva, is a professor of Statistics at the Department of Mathematics and Statistics at California State University, Long Beach (CSULB). She received her Bachelor's degree in Mathematics in 1996 from Wayne State University in Detroit, and a Ph.D. in Statistics from Purdue University in West Lafayette, Indiana, in 2002. Since then she has been teaching mostly Statistics courses in the Master's program in Applied Statistics at CSULB, and loving it!\n\nDr. Olga is an undergraduate advisor for students majoring in Mathematics with an option in Statistics. She is also the faculty supervisor for the Statistics Student Association. She is also the immediate past-president of the Southern California Chapter of the American Statistical Association (SCASA). Dr. Olga is the editor-in-chief of SCASA's monthly eNewsletter and the author (co-author) of four statistical books.\n\nSchedule\n\n• 06:30-06:40 Introduction\n• 06:40-07:30 Mixed-effects Model for Normal Response\n• 07:30-07:50 Mixed-effects Model Exercise\n• 07:50-08:00 Mixed-effects Model Solution\n• 08:00-08:10 Break\n• 08:10-08:30 Generalized Estimating Equations (GEE) Model for Normal Response\n• 08:30-08:50 GEE Exercise\n• 08:50-09:00 GEE Solution\n• 09:00-09:30 Additional Exercise and Solution\n• 09:30-09:45 Wrap up\n\nWe hope to see you all there!\n\nYour R-Ladies SD organizers",
+    "status": "PAST",
+    "dateTime": "2021-02-09T18:30:00-08:00",
+    "duration": "PT3H15M",
+    "eventUrl": "https://www.meetup.com/rladies-san-diego/events/276175027/",
+    "featuredEventPhoto": {
+      "id": "494616576",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/e/e/0/highres_494616576.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/e/e/0/600_494616576.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/e/e/0/thumb_494616576.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 18,
+      "waitlistCount": 0,
+      "totalCount": 18
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Diego",
+      "urlname": "rladies-san-diego"
+    }
+  },
+  {
+    "id": "288353773",
+    "title": "SoCal R Users Group (SoCal RUG): Advanced Regression Models with R Applications",
+    "description": "PLEASE GO TO [SoCal R User Group](https://www.meetup.com/SOCAL-RUG/) MEETUP TO LEARN MORE:\n\nThe sign-up is on [Eventbrite](https://www.eventbrite.com/e/socal-rug-advanced-regression-models-with-r-applications-tickets-407225381077).\n\nHello:\n[SoCal R User Group](https://www.meetup.com/SOCAL-RUG/) is Southern California's premier data science meetup group. They holding an event that is sure to be a great educational event.\nOn October 1, they will have a workshop on advanced regression techniques. Dr. Olga gave this course a couple of years ago and it was a HUGE success. The sign-up is on [Eventbrite](https://www.eventbrite.com/e/socal-rug-advanced-regression-models-with-r-applications-tickets-407225381077).\n\nIn this workshop, you will learn a variety of regression models. We will give their definitions, discuss goodness-of-fit criteria, present fitted models, interpret estimated regression coefficients, and use the fitted models for prediction. The models will be limited to linear regression, Box-Cox transformation, gamma regression, ordinary logistic regression, Poisson regression, beta regression, longitudinal (repeated measures) regression, and hierarchical model.\n\nThe workshop is designed to be hands-on. Participants are required to bring laptops and be ready to write R, analyze data and interpret results. For each model, we present an example with a complete R code, and then will an exercise to work on. Workshop participants should be familiar with algebraic expressions of different probability distributions and have a fundamental knowledge of simple linear regression: normally distributed random error, continuous and categorical independent variables (requiring creating dummy variables).\n\nThe material covered by the workshop will be taken from my recently published book “[Advanced Regression Models with SAS and R Applications](https://www.amazon.com/dp/B07L1B143S/)”, CRC Press, 2018.\n\nFor more details and course content, check out the [GitHub repo](https://github.com/socalrug/advanced_regression_2022-10-01).\n\nIf you have questions please reach out to [John@JPPeach.com](mailto:John@JPPeach.com).\nThere is a nominal fee for this event to help cover some of the costs, such as lunch. However, there is a limited number of tickets for those that the cost of the event will create a hardship. To apply for one of these tickets please reach out to [John@JPPeach.com](mailto:John@JPPeach.com) with a brief statement of your situation.",
+    "status": "PAST",
+    "dateTime": "2022-10-01T08:30:00-07:00",
+    "duration": "PT8H",
+    "eventUrl": "https://www.meetup.com/rladies-san-diego/events/288353773/",
+    "featuredEventPhoto": {
+      "id": "506898066",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/6/9/2/highres_506898066.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/6/9/2/600_506898066.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/6/9/2/thumb_506898066.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 2,
+      "waitlistCount": 0,
+      "totalCount": 2
+    },
+    "venues": [
+      {
+        "id": "26283487",
+        "name": "The Paul Merage School of Business",
+        "address": "4293 Pereira Dr",
+        "city": "Irvine",
+        "state": "CA",
+        "country": "us",
+        "lat": 33.6469,
+        "lon": -117.8378,
+        "postalCode": "92697",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Diego",
+      "urlname": "rladies-san-diego"
+    }
+  },
+  {
+    "id": "284491112",
+    "title": "Data Science Hackathon - **Signup on Eventbrite, not Meetup**",
+    "description": "\\*\\*Signup on Eventbrite, not Meetup\\*\\*\n\\*\\*Signup on Eventbrite, not Meetup\\*\\*\n\nWe are excited to announce that SoCal RUG will be having an in-person data science hackathon! It is a weekend-long event from April 2nd to the 3rd, 2022.\n\\*\\*\\*\nYou can purchase tickets on Eventbrite.\n[https://tinyurl.com/hackathon-2022-04](https://tinyurl.com/hackathon-2022-04)\n\\*\\*\\*\nDuring this event, we will be exploring an interesting data set, starting from the raw data all the way through to a final \"end product\" (e.g. data visualization, interesting insight, analysis, and presentation.).\nThis event is open to all experience levels, from the complete beginner to the highly experienced. Participants will work in teams to \"hack\" through the data and will present their work at the end of the event for prizes. You are free to create your own team, or we will assist in team creation if you do not have one. This is a great way to network, share, and learn from others.\nThe main goal of the hackathon is to promote teamwork and foster education and learning in a welcoming environment. Though teams will be competing to present their best work at the end of the event for prizes, communication and providing assistance across teams is highly encouraged. We will provide in-person training during the hackathon and online training prior to the event.\nParticipants will need to bring their own computers during the event.\nWe have set up a [GitHub repository](https://github.com/socalrug/hackathon-2022-04) that has more information about the event. Such as the schedule; setting up Slack and much more. Further information will be provided prior to the event.\nYour ticket includes meals, snacks and drinks during the event. Optionally, [parking at UCI](https://github.com/socalrug/hackathon-2022-04/blob/master/parking/Parking%20and%20Building%20Location.pdf) is $13 per day.\nAll participants must abide by the [SoCal RUG Code of Conduct](https://github.com/socalrug/hackathon-2022-04/blob/master/code-of-conduct.md) and [R Consortium Code of Conduct](https://wiki.r-consortium.org/view/R_Consortium_and_the_R_Community_Code_of_Conduct).\n\n## COVID-19 safety measures\n\nEvent will be indoors\nSafety measures instituted by event host. Meetup is not responsible for ensuring that precautions are followed.",
+    "status": "PAST",
+    "dateTime": "2022-04-02T20:30:00-07:00",
+    "duration": "PT19H30M",
+    "eventUrl": "https://www.meetup.com/rladies-san-diego/events/284491112/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "26283487",
+        "name": "The Paul Merage School of Business",
+        "address": "4293 Pereira Dr",
+        "city": "Irvine",
+        "state": "CA",
+        "country": "us",
+        "lat": 33.6469,
+        "lon": -117.8378,
+        "postalCode": "92697",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Diego",
+      "urlname": "rladies-san-diego"
+    }
+  }
+]

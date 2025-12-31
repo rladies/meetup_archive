@@ -1,0 +1,392 @@
+[
+  {
+    "id": "274714290",
+    "title": "Webinário do jaguaR: utilizando o R em estudos com a onça-pintada",
+    "description": "Em comemoração ao Dia da Onça-pintada em 29/11/2020, as R-Ladies Ribeirão Preto irão se reunir, no dia 30/11 (segunda-feira) às 18h00 (horário de Brasília), para um bate papo com pesquisadoras que utilizaram a linguagem R nos seus estudos com a onça-pintada (Panthera onca). As pesquisadoras vão contar um pouquinho como utilizaram o R para realizar as suas análises de dados, quais foram os pacotes usados, as principais vantagens e dificuldades no uso da linguagem e as suas aplicações na ecologia e conservação da onça-pintada.\n\nSobre as palestrantes:\n\nBeatriz de Mello Beisiegel﻿, bióloga, com mestrado e doutorado em Psicologia (Etologia) pela USP e pós-doutorado em Ecologia pela mesma instituição. Atualmente, é analista ambiental da Floresta Nacional de Capão Bonito. Coordena o projeto \"Onças da região do Vale do Ribeira e do Alto Paranapanema\". Bia vai falar um pouco como tem feito as simulações para escolher os melhores pontos amostrais para a instalação de armadilhas fotográficas. A Mata Atlântica tem uma das menores densidades populacionais da espécie e, por isso, é preciso aumentar as chances de detecção desses indivíduos.\n\nClaudia Zukeran Kanda, bióloga, com mestrado em Ecologia e Biodiversidade pela UNESP e doutoranda pela mesma instituição com o doutorado sanduíche no Movement Ecology and Biodiversity Dynamics lab na Swansea University (UK). Claudia vai falar um pouco dos pacotes R para a análise de dados de movimento animal e suas possibilidades em estudos ecológicos. Ela também vai falar o que tem feito em seus estudos com a onça-pintada no R.\n\nSuelane Garcia Fontes, cientista de dados, com mestrado em Engenharia da Computação pelo IPT e doutorado em Engenharia Elétrica pela Poli/USP. Suelane vai falar um pouco de como desenvolveu um framework para estudar o movimento animal durante a sua tese de doutorado \"Animoveminer: um framework para a análise exploratória da interação entre animais e o meio ambiente\".\n\nThais Queiroz Morcatty, bióloga, com mestrado em ecologia pelo INPA e doutoranda em Geografia e Antropologia pela Oxford Brookes University (Reino Unido), onde realiza estudos sobre o impacto do tráfico de felídeos, tartarugas e jabutis na América Latina. Thais vai falar um pouco do uso de modelos generalizados usando o pacote e a função chamada gamlss que fez no seu último artigo publicado \"Illegal trade in wild cats and its link to Chinese-led development in Central and South America\".\n\nVocê também pode se inscrever por este link: https://www.sympla.com.br/webinario-do-jaguar-utilizando-o-r-em-estudos-com-a-onca-pintada__1053993\n\nConheça as nossas redes sociais:\nFacebook: https://web.facebook.com/rladiesrp\nInstagram: https://www.instagram.com/rladiesrp\nTwitter: https://twitter.com/rladiesrp\nYouTube: https://www.youtube.com/channel/UCmxRvwPXXLdcv_lWkIqB1yA?view_as=subscriber",
+    "status": "PAST",
+    "dateTime": "2020-11-30T18:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-ribeirao-preto/events/274714290/",
+    "featuredEventPhoto": {
+      "id": "493617456",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/e/0/7/0/highres_493617456.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/e/0/7/0/600_493617456.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/0/7/0/thumb_493617456.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 23,
+      "waitlistCount": 0,
+      "totalCount": 23
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Ribeirão Preto",
+      "urlname": "rladies-ribeirao-preto"
+    }
+  },
+  {
+    "id": "274165285",
+    "title": "Organizando um projeto de análise de dados com RStudio",
+    "description": "Venha participar do nosso primeiro Meetup \"Organizando um projeto de análise de dados com RStudio\", ministrado por Adriana Picoral, pesquisadora interessada em linguística de corpus, linguística computacional e linguística aplicada.\n\nData: 12 de novembro de 2020 (quinta-feira)\nHora: das 19h30 às 20h30 (horário de Brasília)\n\nMaterial: https://picoral.github.io/organizando_projeto_analise_de_dados/\n\nSobre Adriana Picoral: https://ischool.arizona.edu/people/adriana-picoral",
+    "status": "PAST",
+    "dateTime": "2020-11-12T19:30:00-03:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-ribeirao-preto/events/274165285/",
+    "featuredEventPhoto": {
+      "id": "493294513",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/6/d/1/highres_493294513.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/6/d/1/600_493294513.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/6/d/1/thumb_493294513.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 55,
+      "waitlistCount": 0,
+      "totalCount": 55
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Ribeirão Preto",
+      "urlname": "rladies-ribeirao-preto"
+    }
+  },
+  {
+    "id": "281780364",
+    "title": "Fundamentos básicos do R: aplicação na biologia",
+    "description": "EMENTA: O objetivo deste curso é oferecer um treinamento teórico-prático no uso da linguagem de programação R com aplicação na biologia marinha, no gerenciamento costeiro e na conservação da biodiversidade.\n\nNo primeiro dia do curso, teremos uma aula teórica sobre o uso do R e sua aplicação biológica utilizando exemplos dentro de três níveis de organização biológica (organismos, populações e comunidades). Também faremos uma introdução rápida ao R, apresentando os principais conceitos.\n\nNo segundo dia, teremos uma aula totalmente prática utilizando o RStudio Cloud, uma versão online que dispensa a instalação do R no computador. O objetivo desta aula será construir uma rede de interações tróficas predador-presa. Conheceremos alguns pacotes básicos do R para a visualização gráfica de redes tróficas e mutualísticas. Aprenderemos a construir matrizes de dados simétrica e assimétrica. Estudaremos alguns parâmetros estatísticos e matemáticos como o grau de conectância e as interações possíveis, a distância e a centralidade, a modularidade e o aninhamento, entre outros. Faremos a interpretação dos resultados gerados pelas análises e discutiremos as suas aplicações biológicas.\n\nNão é necessário ter conhecimento prévio de R ou estatística.\n\nPALESTRANTES: Francesca Belem Lopes Palmeira (https://fblpalmeira.github.io) é uma mistura de bióloga de campo e de computador, com Mestrado em Ecologia e Doutorado em Recursos Florestais, ambos pela ESALQ/USP. Cofundadora das RLadies Ribeirão Preto e consultora em modelagem ambiental aplicada para a conservação. Francesca irá oferecer as aulas teórica e prática.\n\nMaísa Ziviani Alves bióloga, com Mestrado e Doutorado pela ESALQ/USP e pós-doutoranda da UNIFRAN. Maísa tem estudado e analisado dados de fauna, incluindo mamíferos e aves na Mata Atlântica e Cerrado. Maísa também faz parte do Programa Amigos da Onça, um programa que promove a conservação da onça-pintada na Caatinga. Coorganizadora das RLadies Ribeirão Preto e consultora ambiental. Maísa irá demonstrar como ela utilizou o R para analisar os dados de sua pesquisa de pós-doutorado \"Período e sobreposição de atividade de mamíferos de médio e grande porte\".\n\nJanne Lis Heguedusch de Santis é graduanda em Ciências Biológicas pela UENF, estudo a linguagem C++ e tem interesse na linguagem R. Coorganizadora das RLadies Ribeirão Preto. Janne irá apresentar a estrutura e a missão das RLadies e o nosso código de conduta.\n\nPÚBLICO-ALVO: Estudantes de graduação, pós-graduação e profissionais interessados em redes ecológicas.\n\nINSCRIÇÕES: A inscrição deverá ser feita até 11/11 na página da Semana da Biologia Marinha e do Gerenciamento Costeiro (https://www.even3.com.br/xviisbmgc), um evento científico promovido pela UNESP - IB CLP, campus São Vicente.\n\nCERTIFICADOS: O certificado será emitido pela organização do evento.\n\nLOCAL DO EVENTO: O curso será online e o link será disponibilizado pela organização do evento.\n\nCÓDIGO DE CONDUTA: Nós das RLadies, oferecemos treinamento e mentoria em um ambiente seguro e livre de assédio. O nosso código de conduta aplica-se a todos os espaços RLadies, tanto online como offline. Qualquer pessoa que viole este código de conduta pode ser advertida, punida ou expulsa destes espaços, conforme critérios das Membros Fundadoras. Para mais informações, leia o nosso código de conduta. (https://guide.rladies.org/about/coc/#portuguese)\n\nSOBRE AS RLADIES: Somos uma organização sem fins lucrativos (https://rladies.org) que atua em diversos países. Nós nos encontramos [virtualmente] para aprender sobre a linguagem R. A nossa missão é promover o uso da linguagem R entre as minorias de gênero incluindo mulheres cis, mulheres trans, pessoas não-binárias, entre outros grupos subrepresentados para uma comunidade mais diversa e inclusiva.",
+    "status": "PAST",
+    "dateTime": "2021-11-11T14:00:00-03:00",
+    "duration": "PT25H30M",
+    "eventUrl": "https://www.meetup.com/rladies-ribeirao-preto/events/281780364/",
+    "featuredEventPhoto": {
+      "id": "499923110",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/2/6/highres_499923110.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/2/6/600_499923110.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/2/6/thumb_499923110.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 20,
+      "waitlistCount": 0,
+      "totalCount": 20
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Ribeirão Preto",
+      "urlname": "rladies-ribeirao-preto"
+    }
+  },
+  {
+    "id": "278030762",
+    "title": "Análise e visualização de dados de biodiversidade no R",
+    "description": "EMENTA: Este curso tem como objetivo oferecer um treinamento prático no uso da linguagem de programação R com a finalidade de: i) analisar dados de biodiversidade; ii) gerar modelos ecológicos dentro de três níveis de organização biológica (organismos/indivíduos, populações e comunidades); iii) visualizar dados construindo figuras e gráficos de alto impacto visual; iv) interpretar os resultados; e, v) discutir as aplicações biológicas das análises e dos modelos.\n\nO conteúdo programático inclui a: i) realização de análises exploratórias, ii) introdução à diferentes famílias de modelos ecológicos aplicados a armadilhas de captura, armadilhamento fotográfico, transectos lineares, coleta de fezes, coleta de animais mortos (predados ou atropelados), telemetria, dados de museu, pontos de contagem, parcelas de amostragens, entre outros métodos de coleta; iii) preparação de dados (input) específica para cada análise e modelo; iv) seleção e o ajuste de cada modelo utilizando as inferências da Estimativa da Máxima Verossimilhança (MLE – Maximum Likelihood Estimation) e Bayesiana; e, v) visualização gráfica de dados, interpretação dos resultados (output) e suas aplicações biológicas.\n\nPara a realização dos exercícios práticos, é recomendável que cada participante utilize um computador (desktop ou laptop) ao invés de um celular. Não será necessário fazer a instalação do R no computador uma vez que utilizaremos o RStudio Cloud, uma versão online. Não é necessário ter conhecimento prévio de R ou estatística. Será oferecido um tutorial com o passo a passo de todos os exercícios realizados durante o curso.\n\nPALESTRANTE: Francesca Belem Lopes Palmeira (https://fblpalmeira.github.io) é uma mistura de bióloga de campo e de computador, com Mestrado em Ecologia e Doutorado em Recursos Florestais, ambos pela ESALQ/USP. Cofundadora das RLadies Ribeirão Preto e consultora em modelagem ambiental aplicada para a conservação.\n\nPÚBLICO-ALVO: Estudantes de graduação, pós-graduação e profissionais com interesse em análise e visualização de dados de biodiversidade.\n\nINSCRIÇÕES: A inscrição é gratuita e deverá ser feita na página da Semana da Biologia da UFABC até 13/06. (https://docs.google.com/forms/d/e/1FAIpQLSclxl7T3ii83J_iivS60KAurZaZ5aGj5IsD7YvmenChlw7lmg/viewform)\n\nCERTIFICADOS: A UFABC emitirá um certificado para aqueles que tiverem mais de 75% de presença no curso.\n\nLOCAL DO EVENTO: O curso será online e o link será disponibilizado posteriormente.\n\nCÓDIGO DE CONDUTA: Nós das RLadies, oferecemos treinamento e mentoria em um ambiente seguro e livre de assédio. O nosso código de conduta aplica-se a todos os espaços RLadies, tanto online como offline. Qualquer pessoa que viole este código de conduta pode ser advertida, punida ou expulsa destes espaços, conforme critérios das Membros Fundadoras. Para mais informações, leia o nosso código de conduta. (https://guide.rladies.org/about/coc/#portuguese)\n\nSOBRE AS RLADIES: Somos uma organização sem fins lucrativos (https://rladies.org) que atua em diversos países. Nós nos encontramos [virtualmente] para aprender sobre a linguagem R. A nossa missão é promover o uso da linguagem R entre as minorias de gênero incluindo mulheres cis, mulheres trans, pessoas não-binárias, entre outros grupos subrepresentados para uma comunidade mais diversa e inclusiva.",
+    "status": "PAST",
+    "dateTime": "2021-07-20T08:00:00-03:00",
+    "duration": "PT52H",
+    "eventUrl": "https://www.meetup.com/rladies-ribeirao-preto/events/278030762/",
+    "featuredEventPhoto": {
+      "id": "496256972",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/e/8/c/highres_496256972.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/e/8/c/600_496256972.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/e/8/c/thumb_496256972.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 200,
+      "waitlistCount": 0,
+      "totalCount": 200
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Ribeirão Preto",
+      "urlname": "rladies-ribeirao-preto"
+    }
+  },
+  {
+    "id": "289207713",
+    "title": "Refletindo o pertencimento e a representatividade na Ciência",
+    "description": "**Descrição:** Como reduzir a violência de gênero num país como o nosso? Como melhorar a resiliência e saúde mental de grupos socialmente excluídos? Como identificar e fortalecer práticas de empatia emocional e comunicação assertiva em um ambiente tão competitivo e hierárquico quanto a Academia? Neste evento, o palestrante irá compartilhar conosco a sua vivência facilitando grupos reflexivos como ferramenta de transformação social e micropolítica identitária durante a pandemia. Falar é (r)existir. Venha!\n\n**Palestrante:** MSc Gustavo Shintate, Cientista do Mar, Consultor Acadêmico e Tradutor (EN>PT). Nipo-brasileiro, LGBTQ+ e membro do [Projeto Amareles](https://www.instagram.com/amarelesqueer/) & [Masculinidades amarelas](https://www.instagram.com/masculinidades.amarelas/).\n\nTwitter: [Gustavo Shintate 🌊🪸🐚🩻🕰 (@mechamoshin) / Twitter](https://twitter.com/mechamoshin)\nGithub: [g-shintate (Gustavo Shintate) (github.com)](https://github.com/g-shintate/)\n\n**Link do evento:** O link do evento será disponibilizado após a inscrição. Atenção, você receberá uma senha de acesso pelo *email*. Verifique a sua caixa de *Spam*. Você também pode nos contactar pela seção \"Comentários\" aqui na página do evento ou escrever para [ribeirao-preto@rladies.org](http://ribeirao-preto@rladies.org/).\n\n**Sobre as RLadies:** Somos uma organização sem fins lucrativos que atua em diversos países. A nossa missão é promover o uso da linguagem R entre grupos minorizados incluindo mulheres cis, mulheres trans, pessoas não-binárias, entre outros grupos subrepresentados para uma comunidade mais diversa e inclusiva.\n\n[R-Ladies Global – R-Ladies is a world-wide organization to promote gender diversity in the R community (rladies.org)](https://rladies.org/)\n\n**Código de Conduta:** Nós das RLadies, oferecemos treinamento e mentoria em um ambiente amigável, seguro e inclusivo. O nosso código de conduta aplica-se a todos os espaços RLadies, tanto no virtual como no presencial. Para mais informações, leia o nosso código de conduta.\n\n[Code of Conduct :: R-Ladies organizational guidance (rladies.org)](https://guide.rladies.org/about/coc/#portuguese)",
+    "status": "PAST",
+    "dateTime": "2022-11-17T18:30:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-ribeirao-preto/events/289207713/",
+    "featuredEventPhoto": {
+      "id": "508436724",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/d/9/4/highres_508436724.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/d/9/4/600_508436724.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/d/9/4/thumb_508436724.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 20,
+      "waitlistCount": 0,
+      "totalCount": 20
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Ribeirão Preto",
+      "urlname": "rladies-ribeirao-preto"
+    }
+  },
+  {
+    "id": "288189212",
+    "title": "Visualização de dados com 'ggplot2' e 'dplyr'",
+    "description": "**Apresentação:** Neste evento, aprenderemos como manipular e visualizar dados utilizando o 'ggplot2' e o 'dplyr', que estão entre os pacotes preferidos dos usuários da linguagem R. O 'ggplot2' incorpora uma filosofia de visualização que trabalha camada por camada dentro um sistema de criação baseado na \"Gramática dos Gráficos\". Já o 'dplyr' possui um conjunto de funções que permite a manipulação de dados e é muito utilizado em tarefas de pré-processamento. Combinar o uso dessas duas ferramentas pode otimizar o tempo que gastamos organizando dados para a criação de gráficos.\n\n**Palestrante:** Dra. Jeanne Franco - Ecóloga, mestre em Ciências Florestais e doutora em Ecologia, ambos pela Universidade Federal do Rio Grande do Norte. Tem interesse em Ecologia da Restauração, Espécies Nativas da Caatinga, Invasão de Espécies Exóticas, Recuperação de Áreas Degradadas, Divulgação Científica e Ciências de Dados com o R. Atualmente, é colaboradora da empresa Beta Analítica que oferece consultorias de diversas áreas do conhecimento. Também é coorganizadora das RLadies Natal.\n\nInstagram: [Jeanne Franco (@jeanneefranco) • Fotos e vídeos do Instagram](https://www.instagram.com/jeanneefranco/)\nGithub: [francojra (Jeanne Franco) (github.com)](https://github.com/francojra)\n\n**Link do evento:** O link do evento será disponibilizado após a inscrição. Atenção, você receberá uma senha de acesso pelo *email*. Verifique a sua caixa de *Spam*. Você também pode nos contactar pela seção \"Comentários\" aqui na página do evento ou escrever para [ribeirao-preto@rladies.org](ribeirao-preto@rladies.org).\n\n**Sobre as RLadies:** Somos uma organização sem fins lucrativos que atua em diversos países. A nossa missão é promover o uso da linguagem R entre grupos minorizados incluindo mulheres cis, mulheres trans, pessoas não-binárias, entre outros grupos subrepresentados para uma comunidade mais diversa e inclusiva.\n\n[R-Ladies Global – R-Ladies is a world-wide organization to promote gender diversity in the R community (rladies.org)](https://rladies.org/)\n\n**Código de Conduta:** Nós das RLadies, oferecemos treinamento e mentoria em um ambiente seguro e livre de assédio. O nosso código de conduta aplica-se a todos os espaços RLadies, tanto no virtual como no presencial. Para mais informações, leia o nosso código de conduta.\n\n[Code of Conduct :: R-Ladies organizational guidance (rladies.org)](https://guide.rladies.org/about/coc/#portuguese)",
+    "status": "PAST",
+    "dateTime": "2022-09-16T18:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-ribeirao-preto/events/288189212/",
+    "featuredEventPhoto": {
+      "id": "506730672",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/7/d/0/highres_506730672.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/7/d/0/600_506730672.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/7/d/0/thumb_506730672.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 64,
+      "waitlistCount": 0,
+      "totalCount": 64
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Ribeirão Preto",
+      "urlname": "rladies-ribeirao-preto"
+    }
+  },
+  {
+    "id": "287497142",
+    "title": "Acessando a API do Google Earth Engine com o 'rgee'",
+    "description": "**Apresentação**\n\nO **'rgee'** é um pacote para chamar a API do Google Earth Engine dentro do R. Possui várias funções para importação (exportação) de objetos espaciais do Earth Engine, extração de séries temporais, exibição interativa de mapas, interface de gerenciamento de ativos e exibição de metadados.\n\nO **Google Earth Engine** é uma plataforma que permite aos usuários acessar um arquivo em escala de petabytes de dados de sensoriamento remoto e executar análises geoespaciais na infraestrutura do Google. Atualmente, o Google oferece suporte apenas para Python e JavaScript. O pacote ' rgee' preenche a lacuna fornecendo suporte para o R.\n\n**Palestrante**\n\n**Dra. Tainá Rocha** \\- Pesquisadora e cientista de dados que trabalha com padrões de biodiversidade\\, com foco nos impactos das mudanças globais\\. Tem interesse em \\(i\\) Análise de dados climáticos e dados de uso e cobertura da terra em diferentes cenários de mudanças climáticas\\, \\(ii\\) Biodiversidade\\, \\(iii\\) Modelos preditivos de nicho de espécies e distribuição potencial\\, \\(iv\\) Análise espacial \\(GIS\\) e \\(v\\) Bioinformática\\, linguagem de programação R\\, Google Earth Engine\\, etc\\.\nUtiliza ferramentas e plataformas de código aberto e está interessada em boas práticas em ciência aberta (bancos de dados abertos, software aberto), bons fluxos de trabalho, reprodutibilidade e princípios FAIR. Atualmente, está fazendo estágio pós-doutoral na UFMG.\n\nTwitter: [Tainá (@Tai_Rocha_) / Twitter](https://twitter.com/Tai_Rocha_)\nGithub: [Tai-Rocha (Tainá Rocha) (github.com)](https://github.com/Tai-Rocha)\nWebsite: [Tainá Rocha (tainaweb-en.netlify.app)](https://tainaweb-en.netlify.app/)\n\n**Código de Conduta**\n\nNós das RLadies, oferecemos treinamento e mentoria em um ambiente seguro e livre de assédio. O nosso código de conduta aplica-se a todos os espaços RLadies, tanto no virtual como no presencial. Para mais informações, leia o nosso código de conduta.\n\n[Code of Conduct :: R-Ladies organizational guidance (rladies.org)](https://guide.rladies.org/about/coc/#portuguese)\n\n**Sobre as RLadies**\n\nSomos uma organização sem fins lucrativos que atua em diversos países. A nossa missão é promover o uso da linguagem R entre as minorias de gênero incluindo mulheres cis, mulheres trans, pessoas não-binárias, entre outros grupos subrepresentados para uma comunidade mais diversa e inclusiva.\n\n[R-Ladies Global – R-Ladies is a world-wide organization to promote gender diversity in the R community (rladies.org)](https://rladies.org/)",
+    "status": "PAST",
+    "dateTime": "2022-08-27T10:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-ribeirao-preto/events/287497142/",
+    "featuredEventPhoto": {
+      "id": "505984721",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/2/7/1/highres_505984721.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/2/7/1/600_505984721.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/2/7/1/thumb_505984721.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 94,
+      "waitlistCount": 0,
+      "totalCount": 94
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Ribeirão Preto",
+      "urlname": "rladies-ribeirao-preto"
+    }
+  },
+  {
+    "id": "296348641",
+    "title": "Trabalhando com R no Jornalismo de Dados",
+    "description": "**Descrição:** No workshop \"Jornalismo de Dados com R\" vamos explorar o uso do software R no jornalismo, acompanhando a produção de um relatório com Quarto que destrincha o fluxo de trabalho no jornalismo de dados. Serão mostradas referências, técnicas e pacotes que mais ajudam a analisar e visualizar informações durante uma apuração jornalística.\n\n**Link do evento:** O link do evento será disponibilizado após a inscrição. Atenção, próximo da data do evento, você receberá uma senha de acesso pelo email. Verifique a sua caixa de Spam. Você também pode nos contactar pela seção \"Comentários\" aqui na página do evento ou escrever para ribeirao-preto@rladies.org.\n\n**Sobre as RLadies:** Somos uma organização sem fins lucrativos que atua em diversos países. A nossa missão é promover o uso da linguagem R entre grupos minorizados incluindo mulheres cis, mulheres trans, pessoas não-binárias, entre outros grupos subrepresentados para uma comunidade mais diversa e inclusiva.\n\n[http://www.rladies.org/](http://www.rladies.org/)\n\n**Código de Conduta:** Nós das RLadies, oferecemos treinamento e mentoria em um ambiente amigável, seguro e inclusivo. O nosso código de conduta aplica-se a todos os espaços RLadies, tanto no virtual como no presencial. Para mais informações, leia o nosso código de conduta.\n\n[https://guide.rladies.org/about/coc/](https://guide.rladies.org/about/coc/)",
+    "status": "PAST",
+    "dateTime": "2023-10-21T10:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-ribeirao-preto/events/296348641/",
+    "featuredEventPhoto": {
+      "id": "516375905",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/e/2/1/highres_516375905.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/e/2/1/600_516375905.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/e/2/1/thumb_516375905.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 40,
+      "waitlistCount": 0,
+      "totalCount": 40
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Ribeirão Preto",
+      "urlname": "rladies-ribeirao-preto"
+    }
+  },
+  {
+    "id": "295609657",
+    "title": "Introdução aos métodos comparativos filogenéticos",
+    "description": "Descrição: Introduziremos o conceito de métodos comparativos filogenéticos e abordaremos quando utilizar e qual a sua importância nas ciências biológicas. É muito comum trabalharmos com diversas espécies na biologia e, por isso, é fundamental incluir a relação de ancestralidade entre as espécies nas nossas análises. Neste minicurso, abordaremos especificamente como construir e visualizar uma filogenia a partir de um banco de dados e como rodar os principais testes estatísticos incluindo filogenia nas análises (como contrastes filogenéticos independentes, correlação de atributos discretos e quantitativos e regressão filogenética).\n\nLink do evento: O link do evento será disponibilizado após a inscrição. Atenção, próximo da data do evento, você receberá uma senha de acesso pelo email. Verifique a sua caixa de Spam. Você também pode nos contactar pela seção \"Comentários\" aqui na página do evento ou escrever para ribeirao-preto@rladies.org.\n\nSobre as RLadies: Somos uma organização sem fins lucrativos que atua em diversos países. A nossa missão é promover o uso da linguagem R entre grupos minorizados incluindo mulheres cis, mulheres trans, pessoas não-binárias, entre outros grupos subrepresentados para uma comunidade mais diversa e inclusiva.\n\nhttp://www.rladies.org/\n\nCódigo de Conduta: Nós das RLadies, oferecemos treinamento e mentoria em um ambiente amigável, seguro e inclusivo. O nosso código de conduta aplica-se a todos os espaços RLadies, tanto no virtual como no presencial. Para mais informações, leia o nosso código de conduta.\n\nhttps://guide.rladies.org/about/coc/",
+    "status": "PAST",
+    "dateTime": "2023-09-16T10:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-ribeirao-preto/events/295609657/",
+    "featuredEventPhoto": {
+      "id": "515328780",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/e/8/c/highres_515328780.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/e/8/c/600_515328780.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/e/8/c/thumb_515328780.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 80,
+      "waitlistCount": 0,
+      "totalCount": 80
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Ribeirão Preto",
+      "urlname": "rladies-ribeirao-preto"
+    }
+  },
+  {
+    "id": "291932932",
+    "title": "movedesign app: como planear um estudo de movimento animal",
+    "description": "```\nNeste evento, iremos conhecer o movedesign app, um shiny app desenvolvido por Inês Silva e seus colaboradores e entender um pouco sobre as análises de movimento animal que a pesquisadora tem utilizado. Inês também irá explicar como criar uma aplicação destas no R, com um pequeno exemplo prático de como podemos começar.\n\nO movedesign é um shiny app amigável que auxilia os pesquisadores no delineamento de projetos relacionados com a ecologia do movimento, especificamente a análise de dados como a estimativa da área de vida, a velocidade e a distância percorrida.\n\nPara mais informações sobre o movedesign, consulte o repositório do app https://github.com/ecoisilva/movedesign ou a preprint https://www.biorxiv.org/content/10.1101/2023.01.27.525894v1\n\nLink do evento: O link do evento será disponibilizado após a inscrição. Atenção, você receberá uma senha de acesso pelo email. Verifique a sua caixa de Spam. Você também pode nos contactar pela seção \"Comentários\" aqui na página do evento ou escrever para ribeirao-preto@rladies.org.\n\nSobre as RLadies: Somos uma organização sem fins lucrativos que atua em diversos países. A nossa missão é promover o uso da linguagem R entre grupos minorizados incluindo mulheres cis, mulheres trans, pessoas não-binárias, entre outros grupos subrepresentados para uma comunidade mais diversa e inclusiva.\nhttp://www.rladies.org/\n\nCódigo de Conduta: Nós das RLadies, oferecemos treinamento e mentoria em um ambiente amigável, seguro e inclusivo. O nosso código de conduta aplica-se a todos os espaços RLadies, tanto no virtual como no presencial. Para mais informações, leia o nosso código de conduta.\nhttps://guide.rladies.org/about/coc/\n```",
+    "status": "PAST",
+    "dateTime": "2023-03-25T10:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-ribeirao-preto/events/291932932/",
+    "featuredEventPhoto": {
+      "id": "511148393",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/0/c/9/highres_511148393.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/0/c/9/600_511148393.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/0/c/9/thumb_511148393.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 48,
+      "waitlistCount": 0,
+      "totalCount": 48
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Ribeirão Preto",
+      "urlname": "rladies-ribeirao-preto"
+    }
+  }
+]

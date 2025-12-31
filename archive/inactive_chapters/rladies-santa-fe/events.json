@@ -1,0 +1,548 @@
+[
+  {
+    "id": "255999738",
+    "title": "¡Despedida de Año! - Charlas y Sorpresas",
+    "description": "¡¡Llega el último encuentro del año!! Y les tenemos preparadas muchas sorpresas. Desde invitados de lujo hasta sorteos, todo para despedir el año con pompas.\n\nDebido a los invitados, empezamos muy puntuales.\n\n:: CHARLAS E INVITADOS ::\n> \"Chicas y Computadoras\". Erica Hynes, Ministra de Ciencia y Tecnología de la Prov. de Santa Fe, y Doctora en Ing. Química, nos va a contar sobre distintas problemáticas que enfrentan las mujeres en STEM, y cómo podemos enfrentarlas.\n> \"Procesamiento de Señales con R\". Emilia Gibellini es Lic. en Estadística y trabaja como científica de datos en Telecom. Explicará cómo hicieron un trabajo exploratorio para caracterizar señales y detectar patrones usando clústeres.\n> \"Ordenando Datos\" Mariel Lovatto es JTP en Matemática Básica de la Fac. de Cs. Económicas, y en Ing. Química. Ya que el mayor esfuerzo en ciencia de datos lo requiere la limpieza y depuración de los mismos, ella presentará qué estrategias y prácticas usa, empleando las herramientas del tidyverse.\n> \"Bootstrap con R\" Andrea Bergesio es JTP en la Fac. de Ing. Química. Ella nos va a hablar de cómo medir la calidad de la estimaciones realizadas, usando intervalos de confianza, usando paquetes específicos de R.\n\n:: EVENTOS ::\n¡Pero esto no es todo! Tenemos varios mini-eventos planificados para este encuentro:\n> Planifiquemos 2019: Queremos saber qué te gustaría ver en R-Ladies Santa Fe en 2019,escuchar propuestas y analizar cómo nos fue durante este año. ¡Y todo esto, mientras disfrutamos de unos ricos postres donados por Galy Naon!\n> ¡Papá Noel llega antes!: Varios locales y emprendimientos locales nos han donado regalitos. ¡Los vamos a sortear entre todos los asistentes que se hayan inscripto al meetup! Le agradecemos a: Papelera Del Valle, LOEN Aromáticos, Eros Textil Arte, y otros sponsors sorpresa.\n\n:: PÚBLICO ::\nLas charlas están orientadas a principiantes y nivel intermedio y, como siempre, el material quedará disponible online. No es necesario llevar una computadora, ya que no será un taller.\n\n:: SPOSORS::\nLe agradecemos especialmente a:\n- El Entrevero por recibirnos nuevamente en esta hermosa sede.\n- A Papelera del Valle, LOEN Aromáticos, Eros Textil Arte, y otros por sus donaciones de regalos.\n- A Galy Naon por los postres para el break.\n- A la Ministra Erica y al Ministerio de Ciencia y Tecnología por su predisposición.",
+    "status": "PAST",
+    "dateTime": "2018-11-26T17:15:00-03:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-santa-fe/events/255999738/",
+    "featuredEventPhoto": {
+      "id": "476294862",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/a/0/e/highres_476294862.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/a/0/e/600_476294862.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/a/0/e/thumb_476294862.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 15,
+      "waitlistCount": 0,
+      "totalCount": 15
+    },
+    "venues": [
+      {
+        "id": "25550302",
+        "name": "El Entrevero",
+        "address": "Salta 2549",
+        "city": "Santa Fe",
+        "state": "",
+        "country": "ar",
+        "lat": -31.6505,
+        "lon": -60.7072,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santa Fe",
+      "urlname": "rladies-santa-fe"
+    }
+  },
+  {
+    "id": "254617393",
+    "title": "Software Libre   Taller de RMarkdown",
+    "description": "Otro encuentro está a la vuelta de la esquina, y esta vez tendremos una charla y un taller sobre RMarkdown. ¡Sólo necesitas un nivel básico o cero de R, traer tu compu, y muchas ganas de aprender!\n\n:: INVITADAS ::\n> Paola Corrales Licenciada en Ciencias de la Atmósfera. Becaria Doctoral en CIMA UBA-CONICET, Área Modelado numérico de a atmósfera y asimilación de datos. Twitter: @PaobCorrales\n\n> Juliana Benitez Doctora en Ciencias Biológicas de la UBA, Becaria Posdoctoral en IMBIV UNC-CONICET. Co-organizadora de R-Ladies Córdoba. Twitter: @July_Benitezs\n\n> Liza Dosso Doctora en Ingeniería Químa de la UNL FIQ, Ingeniera Química. Becaria Posdoctoral en INCAPE CONICET-UNL. Co-organizadora de R-Ladies Santa Fe. Twitter: @lizadosso\n\n:: CHARLAS Y TALLERES ::\n> \"Seamos Libres, que lo demás no importa nada: R y Software Libre\". ¿Qué significa Software Libre? ¿Free Software u Open Source? Repaso de los conceptos filosóficos que diferencian al Software Libre. Las cuatro libertades del usuario. Qué implica esto para R y para aquellas personas que decidan usarlo. La Cultura Libre y cómo ser parte de una comunidad que no para de crecer.\n\n> \"RMarkdown : Cómo hacer que tus análisis sean reproducibles\". R Markdown permite escribir informes reproducibles y dinámicos con R. En un archivo con formato R Markdown podés escribir texto y a mismo tiempo incluir código de R que se ejecutan y muestran los resultados para crear presentaciones, documentos pdf, html, Word y otros. Este taller está pensado para quienes tienen un nivel básico, así que no te preocupes si recién empezás a codear en R. Si ya tenés experiencia con R pero no sabés usar R Markdown también podés venir y te ayudamos a convertir tu script en un informe reproducible.\n\n:: CRONOGRAMA ::\n> 16:30hs a 17:00hs - Recepción y organización. Instalación de R y paquetes.\n> 17:00hs a 17:30 - Charla: \"R y el Software Libre\", a cargo de Liza Dosso.\n> 17:30hs a 18:00hs - Taller, Parte I: \"RMarkdown : Cómo hacer que tus análisis sean reproducibles\", a cargo de Paola Corrales y Juliana Benítez.\n> 18:00hs a 18:30 - Coffee Break\n> 18:30hs a 19:30hs - Taller, Parte II: \"RMarkdown : Cómo hacer que tus análisis sean reproducibles\", a cargo de Paola Corrales y Juliana Benítez.\n> 19:30hs a 20:00hs - Networking, socialización y despedida.\n\n:: CARACTERÍSTICAS DEL TALLER ::\n> Tendrán que llevar sus propias computadoras, con R y RStudio instalado. Pueden usar el siguiente tutorial: (https://tinyurl.com/TutorialInstalacionR)\n> Tendrán que traer los siguientes paquetes instalados: rmarkdown, ggplot2, tinytex.\n> Habrá ejercicios de \"tarea\" que podrán completar en sus casas con tranquilidad, para seguir practicando.\n\n:: PÚBLICO ::\nEl taller estará orientado a principiantes. Sin embargo, si ya conoces algo de R estás invitado a venir a repasar y aprender algo nuevo, y también a ayudar. Estaría muy bueno que miembros de R-Ladies Santa Fe que ya tengan experiencia se sumen al Taller y ayuden a responder consultas y problemas que surjan durante el mismo.\n\n:: SEDE ::\nLe agradecemos especialmente a Martín Bayo, director de la carrera \"Tecnicatura en Software Libre\" de la FICH UNL, por todo el esfuerzo y disponibilidad.",
+    "status": "PAST",
+    "dateTime": "2018-10-18T16:30:00-03:00",
+    "duration": "PT3H30M",
+    "eventUrl": "https://www.meetup.com/rladies-santa-fe/events/254617393/",
+    "featuredEventPhoto": {
+      "id": "475069948",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/3/1/c/highres_475069948.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/3/1/c/600_475069948.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/3/1/c/thumb_475069948.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 19,
+      "waitlistCount": 0,
+      "totalCount": 19
+    },
+    "venues": [
+      {
+        "id": "25937449",
+        "name": "FICH, Universidad Nacional del Litoral",
+        "address": "Ruta Nacional 168, kilómetro 472.4, Ciudad Universitaria.",
+        "city": "Santa Fe",
+        "state": "al",
+        "country": "ar",
+        "lat": -31.6397,
+        "lon": -60.6714,
+        "postalCode": "meetup9",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santa Fe",
+      "urlname": "rladies-santa-fe"
+    }
+  },
+  {
+    "id": "252804555",
+    "title": "Taller: Algoritmos Básicos de Machine Learning en R",
+    "description": "¡Llega otro encuentro: un taller de algoritmos básicos de Machine Learning en R! Sólo necesitas un nivel básico de R, traer tu compu, y muchas ganas de aprender.\n\n:: CRONOGRAMA ::\n> 16:45hs a 17:00hs - Organización. Deben llevar sus propias computadoras, ubicarse y estar listos. Empezamos muy puntuales.\n> 17:00hs a 18:15hs - Parte I: Introducción. Árboles de clasificación y regresión. Reglas de asociación (market basket analysis).\n> 18:15hs a 18:30hs - Coffee Break y socialización\n> 18:30hs a 19:30hs - Parte II: Algoritmos genéticos.\n> 19:30hs a 20hs - Preguntas, y despedida.\n\n:: CARACTERÍSTICAS DEL TALLER ::\n> Tendrán que llevar sus propias computadoras, con R y RStudio instalado. Pueden usar el siguiente tutorial: (https://tinyurl.com/TutorialInstalacionR)\n> Tendrán que traer los siguientes paquetes instalados: arules, arulesViz, ga, ggplot2, rpart, rattle, RColorBrewer.\n> Habrá ejercicios de \"tarea\" que podrán completar en sus casas con tranquilidad, para seguir practicando.\n\n:: PÚBLICO ::\nEl taller estará orientado a principiantes, y lo expuesto serán ejemplos básicos para que tengan las herramientas para continuar estudiando por su cuenta. Sin embargo, si ya conoces algo de R estás invitado a venir a repasar, y también a ayudar. Estaría muy bueno que miembros de R-Ladies Santa Fe que ya tengan experiencia se sumen al Taller y ayuden a responder consultas y problemas que surjan durante el mismo.\n\nCualquier consulta que tengan, con la instalación o con los ejercicios la vemos por el Slack (las que aún no tienen acceso al Slack, pueden enviarnos un mail a santafe@rladies.org).\n\n:: SEDE ::\nQueremos agradecerle al Club del Emprendedor por otorgarnos el espacio, y por ayudarnos a que este Taller sea una realidad. También agradecemos a RStudio y RConsortium por los subsidios otorgados.",
+    "status": "PAST",
+    "dateTime": "2018-09-11T16:45:00-03:00",
+    "duration": "PT3H30M",
+    "eventUrl": "https://www.meetup.com/rladies-santa-fe/events/252804555/",
+    "featuredEventPhoto": {
+      "id": "473781786",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/5/1/a/highres_473781786.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/5/1/a/600_473781786.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/5/1/a/thumb_473781786.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 21,
+      "waitlistCount": 0,
+      "totalCount": 21
+    },
+    "venues": [
+      {
+        "id": "25886344",
+        "name": "Club de Emprendedores",
+        "address": "Cortada Falucho 2450",
+        "city": "Santa Fe",
+        "state": "",
+        "country": "ar",
+        "lat": -31.6489,
+        "lon": -60.7053,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santa Fe",
+      "urlname": "rladies-santa-fe"
+    }
+  },
+  {
+    "id": "251650981",
+    "title": "Aplicaciones Reales de R en Argentina y Uruguay",
+    "description": "¡Se lanza otra reunión de R-Ladies Santa Fe! Esta vez, tenemos tres invitadas muy especiales que nos van a contar sobre sus trabajos en R.\n\n:: INVITADAS ::\n> Daniela Vázquez\nEs economista y me fascinó con el análisis de datos en su primer trabajo en la industria. Trabajó 4 años en Equifax Uruguay como responsable del área de Analytics, y ahora esData Scientist en Idatha, una empresa de desarrollo de software. Es muy activa en la comunidad de R, blogger en dv.uy, co-fundadora de los capítulos de R-Ladies de Buenos Aires y Montevideo, y parte de NASA Datanauts.\n\n> Natsumi Shokida\nEs estudiante avanzada de la carrera de Economía (FCE-UBA). Se dedica al análisis de datos y la realización de estudios metodológicos en el área de Pobreza e Ingresos de la Dirección de la Encuesta Permanente de Hogares (EPH-INDEC), aunque este informe lo realiza a título personal. También es colaboradora en Economía Femini(s)ta y es parte de RLadies Buenos Aires.\n\n> Mariel Lovatto\nActualmente cursa la Maestría en Estadística aplicada en UNR, y de ahí surge su entusiasmo por la programación en R. Trabajando como ayudante de catedra en Probabilidad y Estadística en Facultad de Ingeniería Química, es JTP en Matemática Básica en la Facultad de Ciencias Económicas y es parte del observatorio social de la UNL.\n\n:: CHARLAS::\n> \"Abriendo y Analizando los Diarios de Sesiones del Parlamento uruguayo con R\" por Daniela Vazques.\n¿Sabías que podés explorar la web usando R? En esta charla muestra cómo se puede hacer web scraping para obtener los textos de los Diarios de Sesiones del Parlamento uruguayo, de difícil acceso sistemático en la web y en formato pdf, usando los paquetes rvest y pdftools. Una vez que están listos para analizar, exploro el sentimiento de las sesiones e intento averiguar de qué temas se habló en cada una, usando el paquete tidytext.\n\n> \"Indicadores de Desigualdad de Género Utilizando Datos Abiertos de la Encuesta Permanente de Hogares y Rmarkdown\" por Natsumi Shokida.\nEl objetivo de esta presentación es visibilizar la desigualdad de género en la composición del mercado de trabajo, la percepción de ingresos, entre otras cuestiones, mediante indicadores calculados con bases públicas de la EPH (Encuesta Permanente de Hogares – INDEC – Argentina).\n\n> \"R: Usos y Desafíos\" por Mariel Lovatto\nSe tratará de explicar el proceso de aprendizaje de Mariel, en la programación en R a partir de su uso. Para esto se mostrarán ejemplos de aplicación, la descripción de los desafíos cotidianos y los procesos de superación.\n\n:: PÚBLICO ::\nEl espacio es muy limitado, por lo que les agradecemos su comprensión. En este evento, se priorizará la inscripción de mujeres y minorías.\n\n:: SEDE ::\nQueremos agradecer a Hackatory por la disponibilidad del lugar, y por ayudarnos a que esta reunión sea una realidad. Hackatory (http://hackatory.gitlab.io/) es un espacio libre y abierto para quienes quieran compartir y aprender distintas disciplinas técnicas y sociales.",
+    "status": "PAST",
+    "dateTime": "2018-08-02T17:30:00-03:00",
+    "duration": "PT2H30M",
+    "eventUrl": "https://www.meetup.com/rladies-santa-fe/events/251650981/",
+    "featuredEventPhoto": {
+      "id": "472916826",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/d/f/a/highres_472916826.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/d/f/a/600_472916826.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/d/f/a/thumb_472916826.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 15,
+      "waitlistCount": 0,
+      "totalCount": 15
+    },
+    "venues": [
+      {
+        "id": "25856974",
+        "name": "Hackatory",
+        "address": "Avenida Freyre 3043, Departamento 4",
+        "city": "Santa Fe",
+        "state": "",
+        "country": "ar",
+        "lat": -31.6395,
+        "lon": -60.7165,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santa Fe",
+      "urlname": "rladies-santa-fe"
+    }
+  },
+  {
+    "id": "251896964",
+    "title": "Taller: R para Ciencia de Datos Desde Cero",
+    "description": "¡Y llegó la segunda reunión presencial de R-Ladies Santa Fe! Esta vez, vamos ha realizar un Taller de R para Ciencia de Datos, desde cero y para todos los niveles.\n\n:: CRONOGRAMA ::\n> 16:45hs a 17:00hs - Organización. Deben llevar sus propias computadoras, ubicarse y estar listos. Empezamos muy puntuales.\n> 17:00hs a 18:00hs - Parte I: tipos de datos, entrada de datos.\n> 18:00hs a 18:30hs - Coffee Break y socialización\n> 18:30hs a 19:30hs - Parte II: Funciones de bucles y visualización básica.\n\n:: CARACTERÍSTICAS DEL TALLER ::\n> Basado en el libro de Robert Peng, el cual es de acceso gratuito (https://bookdown.org/rdpeng/rprogdatascience/).\n> Tendrán que llevar sus propias computadoras, con R y RStudio instalado. Pueden usar el siguiente tutorial: (https://tinyurl.com/TutorialInstalacionR)\n> Habrá ejercicios de \"tarea\" que podrán completar en sus casas con tranquilidad, para seguir practicando.\n\n:: PÚBLICO ::\nEl taller estará orientado a empezar desde cero. Sin embargo, si ya conoces algo de R estás invitado a venir a repasar, y también a ayudar. Estaría muy bueno que miembros de R-Ladies Santa Fe que ya tengan experiencia se sumen al Taller y ayuden a responder consultas y problemas que surjan durante el mismo.\n\nCualquier consulta que tengan, con la instalación o con los ejercicios la vemos por el Slack (las que aún no tienen acceso al Slack, pueden enviarnos un mail a santafe@rladies.org).\n\n:: SEDE ::\nQueremos agradecerle a Casa Joven El Entrevero por otorgarnos el espacio, y por ayudarnos a que este Taller sea una realidad. También agradecemos a RStudio y RConsortium por los subsidios otorgados.",
+    "status": "PAST",
+    "dateTime": "2018-07-04T16:45:00-03:00",
+    "duration": "PT2H45M",
+    "eventUrl": "https://www.meetup.com/rladies-santa-fe/events/251896964/",
+    "featuredEventPhoto": {
+      "id": "472188848",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/e/d/0/highres_472188848.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/e/d/0/600_472188848.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/e/d/0/thumb_472188848.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 22,
+      "waitlistCount": 0,
+      "totalCount": 22
+    },
+    "venues": [
+      {
+        "id": "25550302",
+        "name": "El Entrevero",
+        "address": "Salta 2549",
+        "city": "Santa Fe",
+        "state": "",
+        "country": "ar",
+        "lat": -31.6505,
+        "lon": -60.7072,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santa Fe",
+      "urlname": "rladies-santa-fe"
+    }
+  },
+  {
+    "id": "251640917",
+    "title": "Reunión Online: Sigamos la Charla de Tamara Broderick",
+    "description": "¡Esta es la primera reunión online de R-Ladies Santa Fe! Aunque priorizamos los eventos presenciales, ocasionalmente tendremos reuniones online.\n\nEn esta reunión, vamos a seguir la charla que Tamara Broderick (http://www.tamarabroderick.com/) estará dando en R-Ladies Buenos Aires y WiMLDS Buenos Aires. Tamara es profesora en el MIT (EEUU) y trabaja en las áreas de aprendizaje automático y estadística.\n\nORGANIZACIÓN:\nSeguirmos la charla online desde nuestro Slack (un espacio de trabajo online, parecido a un chat). El ingreso al Slack es bajo invitación, por lo que te pedimos que nos envíes un email a santafe@rladies.org para que podamos incluirte al mismo. Una vez ahí, dejá una pequeña presentación en el canal #general.\n\nComo la charla es en inglés, desde el Slack iremos discutiendo y comentando en español, para ayudarnos entre todes y sacarle provecho a esta increíble visita.\n\nCHARLA:\nIdioma: Inglés\n\nTema: Automated Scalable Bayesian Inference via Data Summarization\n\nResúmen: Abstract: The use of Bayesian methods in large-scale data settings is attractive because of the rich hierarchical relationships, uncertainty quantification, and prior specification these methods provide. Many standard Bayesian inference algorithms are often computationally expensive, however, so their direct application to large datasets can be difficult or infeasible. We show that our method provides geometric decay in posterior approximation error as a function of coreset size. We validate on both synthetic and real datasets, demonstrating that our method reduces posterior approximation error by orders of magnitude relative to uniform random subsampling.\n\nSi tenés ganas de ir leyendo sobre el tema, encontrás referencias aquí: https://bit.ly/2snvPb4 y aquí: https://bit.ly/2xwvoQA.",
+    "status": "PAST",
+    "dateTime": "2018-06-18T18:30:00-03:00",
+    "duration": "PT2H30M",
+    "eventUrl": "https://www.meetup.com/rladies-santa-fe/events/251640917/",
+    "featuredEventPhoto": {
+      "id": "471947152",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/8/3/0/highres_471947152.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/8/3/0/600_471947152.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/8/3/0/thumb_471947152.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 7,
+      "waitlistCount": 0,
+      "totalCount": 7
+    },
+    "venues": [
+      {
+        "id": "25856693",
+        "name": "Online: Slack de R-Ladies Santa Fe",
+        "address": "Desde tu casa o tu trabajo",
+        "city": "Santa Fe",
+        "state": "",
+        "country": "ar",
+        "lat": -31.6107,
+        "lon": -60.6973,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santa Fe",
+      "urlname": "rladies-santa-fe"
+    }
+  },
+  {
+    "id": "250907258",
+    "title": "Primer Encuentro R-Ladies Santa Fe",
+    "description": "Con mucha emoción los invitamos a la reunión lanzamiento de R-Ladies Santa Fe. ¡Llegó el gran día!\n\nACTIVIDADES PLANIFICADAS\n\n> 18:00hs a 18:15hs - Bienvenida y presentación.\n¡Bienvenida al grupo! Esperamos presentarnos mientras picamos algo de comida: no se puede pensar con el estómago vacío ;) Queremos saber qué hacen, cómo conocieron R y porqué les interesa, y qué expectativas tienen.\n\n> 18:15hs a 18:45hs - Charlas: \"Bienvenida a R-Ladies + El Potencial de R\".\nQueremos contarles la historia de R-Ladies, su motivación y valores, cómo nos organizaremos y cómo esperamos avanzar en los próximos encuentros.\nAdemás, vamos a compartir diferentes experiencias y proyectos sobre R, para que descubran el potencial que tiene en la ciencia de datos, en todas las disciplinas.\n\n> 18:45hs a 19:15hs - Discusión y brainstorming de ideas.\n¡Nada mejor que concluir charlando y socializando! Además, pueden traer sus computadoras y estaremos ayudando a instalar R. Esto no es necesario.\n\nINFORMACIÓN IMPORTANTE\n> En la entrada les pedirán su nombre y apellido. Sólo personas inscriptas al evento podrán participar del mismo.\n\n> Al ingresar, hay que doblar a la derecha, pasando una puerta de vidrio. El encuentro es en planta baja.\n\n¡Los esperamos!",
+    "status": "PAST",
+    "dateTime": "2018-06-01T18:00:00-03:00",
+    "duration": "PT1H15M",
+    "eventUrl": "https://www.meetup.com/rladies-santa-fe/events/250907258/",
+    "featuredEventPhoto": {
+      "id": "471214953",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/8/8/9/highres_471214953.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/8/8/9/600_471214953.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/8/8/9/thumb_471214953.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 13,
+      "waitlistCount": 0,
+      "totalCount": 13
+    },
+    "venues": [
+      {
+        "id": "25836096",
+        "name": "INGAR CONICET-UTN",
+        "address": "Avellaneda 3657",
+        "city": "Santa Fe",
+        "state": "",
+        "country": "ar",
+        "lat": -31.6375,
+        "lon": -60.6877,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santa Fe",
+      "urlname": "rladies-santa-fe"
+    }
+  },
+  {
+    "id": "266753268",
+    "title": "R en investigación científica: análisis de redes.",
+    "description": "¡Nueva reunión de R-Ladies Santa Fe! Para cerrar el año tenemos dos invitadas de lujo. Nos van a mostrar distintos casos de análisis de redes con R, orientados a la investigación. Para cerrar el evento, brindaremos!\n\n:: INVITADAS ::\n> Mariana Blanco, Profesora en Matemática de UADER casi Magister en Docencia Universitaria y en este momento estudio la maestría en Minería de Datos. Me dedico a dar clases, a hacer extensión y a investigar en UADER y UNER desde 2006.\n\n> Carla Ghiglione. Licenciada en Biodiversidad. Trabaja en la cátedra de entomología desde el año 2015 desarrollándose en ecología de interacciones mutualistas, posee conocimientos de taxonomía y comportamiento de insectos. Ha participado en otras instancias de divulgación como: la Reunión Argentina de Ecología, el Encuentro de Jóvenes Investigadores de UNL, las Jornadas de Agroecología de San Javier, entre otros.\n\n:: CHARLAS::\n> \"El perceptrón - la forma más simple de una red neuronal.\" Por Mariana Blanco.\nEl desarrollo de un perceptrón en R paso a paso permitirá introducirnos a los posibles modos de tejer redes neuronales.\n\n> \"Insectos enredados: Aproximación al estudio de interacciones ecológicas\" por Carla Ghiglione.\nLas redes ecológicas describen las complejas formas en que las especies interactúan en los ecosistemas. El análisis de los sistemas ecológicos como redes ha desempeñado un papel central en el desarrollo de la ecología como ciencia. Las redes se pueden agrupar en tres clases, en función de los tipos de organismos e interacciones involucradas: redes tróficas, redes hospedero-parasitoide y redes mutualistas. Las redes mutualistas comprenden las interacciones que son beneficiosas para ambas partes (por ejemplo, redes planta-polinizador y planta-dispersor). Las interacciones han tenido un papel central en la evolución de la biodiversidad terrestre y son el sostén de la diversidad y el funcionamiento de las comunidades naturales.\nEn los últimos años estás herramientas han pasado de ser investigación pura a investigación aplicada, por ejemplo, se han aplicado en el contexto de la restauración del hábitats, el estudio de invasiones de especies exóticas, el manejo del pastoreo, el control biológico de plagas, la conservación de especies, entre muchas otras.\n\n:: PÚBLICO ::\nEl espacio es limitado, por lo que les agradecemos su comprensión. En este evento, se priorizará la inscripción de mujeres y minorías.\n\n:: SEDE ::\nFacultad de Ingeniería Química. Santiago del Estero 2829. Segundo piso, aula Leloir.",
+    "status": "PAST",
+    "dateTime": "2019-12-11T17:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-santa-fe/events/266753268/",
+    "featuredEventPhoto": {
+      "id": "487112073",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/d/4/9/highres_487112073.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/d/4/9/600_487112073.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/d/4/9/thumb_487112073.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 10,
+      "waitlistCount": 0,
+      "totalCount": 10
+    },
+    "venues": [
+      {
+        "id": "26750108",
+        "name": "UNL - Facultad de Ingeniería Química",
+        "address": "Santiago del Estero 2829",
+        "city": "Santa Fe de la Vera Cruz",
+        "state": "Sa",
+        "country": "ar",
+        "lat": -31.6373,
+        "lon": -60.7072,
+        "postalCode": "S3000",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santa Fe",
+      "urlname": "rladies-santa-fe"
+    }
+  },
+  {
+    "id": "263588162",
+    "title": "Opciones para el uso de R",
+    "description": "¡Nueva reunión de R-Ladies Santa Fe! Vamos a charlar sobre el uso de R en entornos libres y una aplicación de R en investigación.\n\n:: INVITADAS ::\n> Carla Ghiglione. Licenciada en Biodiversidad. Trabaja en la cátedra de entomología desde el año 2015 desarrollándose en ecología de interacciones mutualistas, posee conocimientos de taxonomía y comportamiento de insectos. Ha participado en otras instancias de divulgación como: la Reunión Argentina de Ecología, el Encuentro de Jóvenes Investigadores de UNL, las Jornadas de Agroecología de San Javier, entre otros.\n\n> Liza Dosso Doctora en Ingeniería Químa de la UNL FIQ, Ingeniera Química. Co-organizadora de R-Ladies Santa Fe. Twitter: @lizadosso\n\n:: CHARLAS::\n> \"Visitantes florales y vegetación espontánea en márgenes de rutas de la región centro de la provincia de Santa Fe\" por Carla Ghiglione.\nLa polinización es un servicio ecosistémico de gran importancia llevado a cabo principalmente por las abejas. Estudios recientes muestran que la diversidad de insectos ejerce una polinización más eficaz que la producida por pocas especies. En el marco de la Resolución Provincial N° 136 que prohíbe el uso de banquinas con fines agrícola se propuso conocer la diversidad de los potenciales polinizadores y su interacción con las flores en márgenes de rutas y caminos no cultivados. Este estudio permitió conocer la red de interacciones de los potenciales polinizadores y su interacción con las flores de los márgenes de las rutas en la región central de la provincia de Santa Fe.\n\n> \"Opciones de IDEs y uso de la terminal para R en OS libres\" por Liza Dosso.\nLa comunidad de software libre es amplia y colaborativa, llena de posibilidades para obtener distintas herramientas que podemos aprender a usar. Haremos un breve repaso de los entornos libres para el uso de R, su instalación en sistemas operativos libres y resolución de problemas desde la terminal de programación.\n\n:: PÚBLICO ::\nEl espacio es muy limitado, por lo que les agradecemos su comprensión. En este evento, se priorizará la inscripción de mujeres y minorías.\n\n:: SEDE ::\nQueremos agradecer a Hackatory por la disponibilidad del lugar, y por ayudarnos a que esta reunión sea una realidad. Hackatory (http://hackatory.gitlab.io/) es un espacio libre y abierto para quienes quieran compartir y aprender distintas disciplinas técnicas y sociales.",
+    "status": "PAST",
+    "dateTime": "2019-08-08T17:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-santa-fe/events/263588162/",
+    "featuredEventPhoto": {
+      "id": "483592052",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/b/5/4/highres_483592052.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/b/5/4/600_483592052.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/b/5/4/thumb_483592052.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 8,
+      "waitlistCount": 0,
+      "totalCount": 8
+    },
+    "venues": [
+      {
+        "id": "26544698",
+        "name": "Hackatory",
+        "address": "Avenida Freyre 3043, Departamento 3",
+        "city": "Santa Fe",
+        "state": "al",
+        "country": "ar",
+        "lat": -31.6381,
+        "lon": -60.7166,
+        "postalCode": "meetup9",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santa Fe",
+      "urlname": "rladies-santa-fe"
+    }
+  },
+  {
+    "id": "260880143",
+    "title": "Aniversario R-Ladies Santa Fe!!",
+    "description": "R-Ladies Santa Fe está de cumpleaños y queremos festejarlo en comunidad. ¡Datatón de cumpleaños!\n\nACTIVIDADES PLANIFICADAS\n\n> 17:00hs a 17:15hs - Bienvenida y presentación.\nVamos a presentar un Dataset para trabajar en equipo. También pueden traer sus propios datos y presentar ejercicios para realizar. Nos dividiremos en grupos de 4 o 5 miembros.\n\n> 17:15hs a 18:15hs - Trabajo con el o los Datasets.\n\n> 18:15hs a 18:30hs - Descanso y socialización. Tal vez soplemos velitas :)\n\n> 18:30hs a 19:00hs - Segunda Parte de análisis de datos.\n\n> 19:00hs a 19:30h - Resultados y discusión.\n\nINFORMACIÓN IMPORTANTE\n\n> Traer instalado R y RStudio.\n\n> En la entrada les pedirán su nombre y apellido. Sólo personas inscriptas al evento podrán participar del mismo.\n\n> Al ingresar, hay que doblar a la derecha, pasando una puerta de vidrio. El encuentro es en planta baja.\n\n¡Los esperamos!",
+    "status": "PAST",
+    "dateTime": "2019-05-08T17:00:00-03:00",
+    "duration": "PT2H30M",
+    "eventUrl": "https://www.meetup.com/rladies-santa-fe/events/260880143/",
+    "featuredEventPhoto": {
+      "id": "480729670",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/5/c/6/highres_480729670.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/5/c/6/600_480729670.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/5/c/6/thumb_480729670.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 12,
+      "waitlistCount": 0,
+      "totalCount": 12
+    },
+    "venues": [
+      {
+        "id": "25836096",
+        "name": "INGAR CONICET-UTN",
+        "address": "Avellaneda 3657",
+        "city": "Santa Fe",
+        "state": "",
+        "country": "ar",
+        "lat": -31.6375,
+        "lon": -60.6877,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santa Fe",
+      "urlname": "rladies-santa-fe"
+    }
+  },
+  {
+    "id": "259558648",
+    "title": "Taller de R para Principiantes (¡Hola, 2019!)",
+    "description": "¡Vamos a darle la bienvenida a 2019, aprendiendo R! Esta vez, vamos ha realizar un Taller de R para Ciencia de Datos, desde cero y para todos los niveles usando Tidyverse.\n\n:: CRONOGRAMA ::\n> 16:30hs a 17:00hs - Organización. Deben llevar sus propias computadoras, ubicarse y estar listos. Empezamos muy puntuales.\n> 17:00hs a 18:15hs - Taller Parte I\n> 18:15hs a 18:30hs - Coffee Break y socialización\n> 18:30hs a 19:30hs - Taller Parte II\n\n:: CARACTERÍSTICAS DEL TALLER ::\n> Basado en el libro de \"R For Data Science\", el cual es de acceso gratuito (https://r4ds.had.co.nz/).\n> Tendrán que llevar sus propias computadoras, con R y RStudio instalado. Pueden usar el siguiente tutorial: (https://tinyurl.com/TutorialInstalacionR)\n> Habrá ejercicios de \"tarea\" que podrán completar en sus casas con tranquilidad, para seguir practicando.\n\n:: PÚBLICO ::\nEl taller estará orientado a empezar desde cero. Sin embargo, si ya conoces algo de R estás invitado a venir a repasar, y también a ayudar. Estaría muy bueno que miembros de R-Ladies Santa Fe que ya tengan experiencia se sumen al Taller y ayuden a responder consultas y problemas que surjan durante el mismo. Cualquier consulta que tengan, con la instalación o con los ejercicios la vemos por el Slack (las que aún no tienen acceso al Slack, pueden enviarnos un mail a santafe@rladies.org).\n\n:: SEDE ::\nQueremos agradecerle a la Dra Milagros Gutiérrez, directora del Departamento de Ingeniería en Sistemas de Información de la UTN FRSF, por ayudarnos a coordinar el encuentro y obtener la ubicación.",
+    "status": "PAST",
+    "dateTime": "2019-03-26T16:30:00-03:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-santa-fe/events/259558648/",
+    "featuredEventPhoto": {
+      "id": "479401257",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/e/9/highres_479401257.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/e/9/600_479401257.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/e/9/thumb_479401257.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 35,
+      "waitlistCount": 0,
+      "totalCount": 35
+    },
+    "venues": [
+      {
+        "id": "26228872",
+        "name": "Lavaisse 610",
+        "address": "Lavaisse 610",
+        "city": "Santa Fe de la Vera Cruz",
+        "state": "Sa",
+        "country": "ar",
+        "lat": -31.6169,
+        "lon": -60.6756,
+        "postalCode": "S3004",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santa Fe",
+      "urlname": "rladies-santa-fe"
+    }
+  },
+  {
+    "id": "271948618",
+    "title": "Modelado predictivo con texto utilizando principios de datos tidy",
+    "description": "Los capítulos de R-Ladies en Argentina estamos felices de anunciar que Emil Hvitfeldt y Julia Silge se unirán a nosotras para traernos su tutorial \"Predictive modeling with text using tidy data principles\".\n\n¿Alguna vez encontraste datos de texto y sospechaste que había información útil en esos datos?, ¿ Te sentiste con frustración al intentan ver cómo encontrar esa información? ¿Estás familiarizade con los conceptos básicos del modelado predictivo y estás liste para aprender cómo se pueden usar los datos de texto no estructurados para la predicción dentro de los ecosistemas tidyverse y tidymodels?\n\n¿Necesitas un marco flexible para manejar datos de texto que te permitan construir modelos predictivos supervisados?\nLos datos de texto son cada vez más importantes en muchos dominios, y los principios de tidymodels se pueden aplicar a las tareas de procesamiento del lenguaje natural. Esta presentación está diseñada para proporcionar orientación práctica y conocimiento directamente aplicable para científiques de datos y analistas que desean integrar texto en sus proyectos de modelado.\n\nEn este tutorial de 90 minutos, aprende a preprocesar datos de texto para modelar, entrenar modelos y evaluar el rendimiento del modelo. Usaremos diapositivas y codificación en vivo durante el tutorial para recorrer un estudio de caso realista. El tutorial se transmitirá, grabará y tendrá subtítulos en inglés. También habrá materiales de apoyo y código en GitHub para que puedas trabajar después.\n\nEl tutorial está pensando para personas con familiaridad intermedia con R, RStudio, conceptos básicos de modelos de regresión y clasificación y paquetes de tidyverse como dplyr y ggplot2.\n\nComo en todos los eventos de R-Ladies, las personas que participan deben aceptar nuestro Código de Conducta. Para este evento, además adoptamos el Código de Conducta de useR! 2020.\n\n****** IMPORTANTE ******\nPara participar y acceder al link de Zoom que publicaremos media hora antes del evento es necesario que hagas click en el botón \"ASISTIRÉ\".\n\n- English versión\n\nThis useR! 2020 online tutorial is coming Friday, July 24, 2020 at 20:00 UTC The R-Ladies chapters from Argentina are happy to announce that Emil Hvitfeldt and Julia Silge will be joining us to run their tutorial \"Predictive modeling with text using tidy data principles\".\n\nHave you ever encountered text data and suspected there was useful insight latent within it but felt frustrated about how to find that insight?\nAre you familiar with the basics of predictive modeling, and ready to learn how unstructured text data can be used for prediction within the tidyverse and tidymodels ecosystems?\nDo you need a flexible framework for handling text data that empowers you to build supervised predictive models?\nText data is increasingly important in many domains, and tidy modeling principles can be applied to natural language processing tasks. This presentation is designed to provide practical guidance and directly applicable knowledge for data scientists and analysts who want to integrate text into their modeling pipelines.\n\nIn this 90-minute tutorial, learn how to preprocess text data for modeling, train models, and evaluate model performance. We will use slides and live coding during the tutorial to walk through a realistic case study. The tutorial will be streamed, recorded, and captioned, and there will be supporting materials and code on GitHub for you to work through afterward.\n\nThe tutorial is intended for people with intermediate familiarity with R, RStudio, basics of regression and classification modeling, and tidyverse packages such as dplyr and ggplot2.\n\nAs every R-Ladies event, all participants are required to agree to the Code of Conduct. In addition, we also adopt the useR! 2020 Code of Conduct.\n\n****** NOTICE ******\nTo participate and accesses to the Zoom link that will be published 30 minutes before the meetup, you have to click on the ATTEND button.",
+    "status": "PAST",
+    "dateTime": "2020-07-24T17:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-santa-fe/events/271948618/",
+    "featuredEventPhoto": {
+      "id": "491343913",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/f/4/9/highres_491343913.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/f/4/9/600_491343913.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/f/4/9/thumb_491343913.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 16,
+      "waitlistCount": 0,
+      "totalCount": 16
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santa Fe",
+      "urlname": "rladies-santa-fe"
+    }
+  },
+  {
+    "id": "271614564",
+    "title": "Cómo hacer una reunión virtual inolvidable (sin morir en el intento)",
+    "description": "Aunque no es posible reunirnos en persona, la magia de R-Ladies no se detiene y hace posible los encuentros virtuales. En este meetup te contaremos algunos trucos y herramientas para que cualquier evento virtual interactivo (por ejemplo, clase, taller o panel online) sea un éxito sin estrés adicional al hacerlo. Si organizas meetups de R-Ladies, encontrarás dónde y cómo acceder a la infraestructura que te permitirá organizar meetups online para tu capítulo. Si no organizas meetups de R-Ladies, también encontrarás material útil para todo tipo de evento online que organices o del que participes.\n\nEstos contenidos nos los traen R-Ladies latinoamericanas, en su mayoría certificadas para enseñar por RStudio Education y The Carpentries. La mayoría también es parte de MetaDocencia, una organización que desde fines de marzo realizó más de 25 talleres interactivos enseñando a enseñar online a más de 300 docentes hispanohablantes con excelentes resultados. Todas tienen vasta experiencia teletrabajando y enseñando online.\n\nOradoras: Yanina Bellini Saibene y Paola Corrales.\n\nOrganizan: Laura Ación, Yanina Bellini Saibene, Paola Corrales, Patricia Loto y Paloma Rojas\n\nPara tener un evento seguro, el link de acceso al evento lo recibirán quienes confirmen su asistencia via RSVP de meetup.com el día del evento",
+    "status": "PAST",
+    "dateTime": "2020-07-01T14:00:00-03:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-santa-fe/events/271614564/",
+    "featuredEventPhoto": {
+      "id": "491089837",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/2/a/d/highres_491089837.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/2/a/d/600_491089837.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/2/a/d/thumb_491089837.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 6,
+      "waitlistCount": 0,
+      "totalCount": 6
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santa Fe",
+      "urlname": "rladies-santa-fe"
+    }
+  },
+  {
+    "id": "271366858",
+    "title": "Gráficos on demand con ggplot2.",
+    "description": "¡Nueva reunión de R-Ladies Santa Fe! Esta vez la reunión será virtual por plataforma www.meet.jit.si.\nEsta plataforma no requiere instalación. Una vez que te anotes, guardamos tu e mail y te enviaremos el room con la contraseña para entrar el día de la reunión.\n\n:: INVITADA ::\n> Mariel Lovatto. Actualmente cursa el doctorado en estadística en UNR y trabaja como ayudante de cátedra en Probabilidad y Estadística en Facultad de Ingeniería Química.\n\n:: CHARLA::\nVamos a analizar cómo se realizan gráficos con el paquete de R ggplot2. Podés enviarnos tus dudas por mail o a nuestras redes sociales y las tratamos el día del evento!!!\n\n:: PÚBLICO ::\nEn este evento, se priorizará la inscripción de mujeres y minorías.\n\n:: SEDE ::\nmeet.jit.si\nUna vez que te inscribas al evento podrás ver el enlace.\nLa contraseña para ingresar será: RLadies062020",
+    "status": "PAST",
+    "dateTime": "2020-06-29T17:00:00-03:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-santa-fe/events/271366858/",
+    "featuredEventPhoto": {
+      "id": "490920485",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/e/5/highres_490920485.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/e/5/600_490920485.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/e/5/thumb_490920485.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 22,
+      "waitlistCount": 0,
+      "totalCount": 22
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -31.6373,
+        "lon": -60.7072,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santa Fe",
+      "urlname": "rladies-santa-fe"
+    }
+  }
+]

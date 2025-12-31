@@ -1,0 +1,93 @@
+[
+  {
+    "id": "312266942",
+    "title": "R shiny workshop",
+    "description": "We will kick off 2026 with a workshop to learn R Shiny.",
+    "status": "ACTIVE",
+    "dateTime": "2026-02-03T17:00:00+01:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-trondheim/events/312266942/",
+    "featuredEventPhoto": {
+      "id": "531588181",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/c/3/5/highres_531588181.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/c/3/5/600_531588181.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/c/3/5/thumb_531588181.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [],
+    "group": {
+      "name": "R-Ladies Trondheim",
+      "urlname": "rladies-trondheim"
+    }
+  },
+  {
+    "id": "312616873",
+    "title": "GWAS Overview and Single SNP Tests using R",
+    "description": "**Join R-Ladies Aurora for our first event of 2026!**\nLearn the basics of genome-wide association studies (GWAS) and how to work with GWAS data using R. This beginner-friendly session will introduce key concepts, common workflows, and practical examples to help you get started analyzing genetic association data. No prior GWAS experience required.",
+    "status": "ACTIVE",
+    "dateTime": "2026-01-14T12:00:00-07:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-aurora/events/312616873/",
+    "featuredEventPhoto": {
+      "id": "531990177",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/5/e/1/highres_531990177.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/5/e/1/600_531990177.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/5/e/1/thumb_531990177.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 9,
+      "waitlistCount": 0,
+      "totalCount": 9
+    },
+    "venues": [],
+    "group": {
+      "name": "R-Ladies Aurora",
+      "urlname": "rladies-aurora"
+    }
+  },
+  {
+    "id": "312616049",
+    "title": "Geocomputation with R; In persian",
+    "description": "سرفصل های دوره:\n1- Vector attribute subsetting\n2- Chaining commands with pipes\n3- Vector attribute aggregation\n4- Vector attribute joining\n5- Creating attributes and removing spatial information",
+    "status": "ACTIVE",
+    "dateTime": "2026-01-10T20:30:00+03:30",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-urmia/events/312616049/",
+    "featuredEventPhoto": {
+      "id": "531989170",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/1/f/2/highres_531989170.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/1/f/2/600_531989170.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/1/f/2/thumb_531989170.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 6,
+      "waitlistCount": 0,
+      "totalCount": 6
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Urmia",
+      "urlname": "rladies-urmia"
+    }
+  }
+]

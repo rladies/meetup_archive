@@ -33,14 +33,17 @@ inactive_cutoff <- Sys.Date() - months(6)
 events_parsed <- events |>
   mutate(
     event_date = as.Date(date),
-    is_active = type %in% c("active", "ACTIVE")
+    is_active = status %in% c("active", "ACTIVE")
   )
 
 # Calculate metrics
 total_chapters <- n_distinct(chapters$urlname)
 
 active_chapters <- events_parsed |>
-  filter(event_date >= recent_cutoff, !type %in% c("cancelled", "CANCELLED")) |>
+  filter(
+    event_date >= recent_cutoff,
+    !status %in% c("cancelled", "CANCELLED")
+  ) |>
   distinct(group_urlname) |>
   nrow()
 
@@ -58,7 +61,7 @@ These chapters have not held events in the past 6 months and may need outreach o
 ```{r}
 #| label: inactive-chapters
 last_activity <- events_parsed |>
-  filter(!type %in% c("cancelled", "CANCELLED")) |>
+  filter(!status %in% c("cancelled", "CANCELLED")) |>
   group_by(group_urlname) |>
   summarise(
     last_event = max(event_date, na.rm = TRUE),
@@ -104,7 +107,7 @@ These chapters can serve as models and mentors for others.
 active_counts <- events_parsed |>
   filter(
     event_date >= recent_cutoff,
-    !type %in% c("cancelled", "CANCELLED")
+    !status %in% c("cancelled", "CANCELLED")
   ) |>
   count(group_urlname, sort = TRUE)
 
@@ -140,7 +143,7 @@ ggplot(top_chapters, aes(x = n, y = reorder(group_urlname, n))) +
 
 monthly_activity <- events_parsed |>
   filter(
-    !type %in% c("cancelled", "CANCELLED"),
+    !status %in% c("cancelled", "CANCELLED"),
     event_date >= Sys.Date() - months(12)
   ) |>
   mutate(month = floor_date(event_date, "month")) |>
@@ -171,7 +174,7 @@ ggplot(monthly_activity, aes(x = month, y = n)) +
 #| fig-cap: "Activity distribution by chapter maturity"
 
 chapter_activity <- events_parsed |>
-  filter(!type %in% c("cancelled", "CANCELLED")) |>
+  filter(!status %in% c("cancelled", "CANCELLED")) |>
   group_by(group_urlname) |>
   summarise(
     first_event = min(event_date, na.rm = TRUE),
@@ -197,10 +200,16 @@ chapter_activity <- events_parsed |>
 
 activity_summary <- chapter_activity |>
   count(maturity, activity_level) |>
-  mutate(maturity = factor(
-    maturity,
-    levels = c("New (< 6 months)", "Developing (6-24 months)", "Established (2+ years)")
-  ))
+  mutate(
+    maturity = factor(
+      maturity,
+      levels = c(
+        "New (< 6 months)",
+        "Developing (6-24 months)",
+        "Established (2+ years)"
+      )
+    )
+  )
 
 ggplot(activity_summary, aes(x = maturity, y = n, fill = activity_level)) +
   geom_col(position = "stack") +

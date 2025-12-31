@@ -1,0 +1,398 @@
+[
+  {
+    "id": "254448281",
+    "title": "R Markdown workshop - All levels!",
+    "description": "The time for the second R-Ladies Nijmegen event is here! In this event we will be focusing on R Markdown, an easy way to combine text and code that keeps your workflow reproducible!\n\nThis workshop will will start with an introduction to R Markdown followed by a hands-on session. It will be accessible to R Ladies of all levels :)\n\nREQUIREMENTS\nDon't forget to bring your (fully charged!) laptop with R Studio installed. You can easily install R Markdown like any other R package, just run this code:\ninstall.packages(\"rmarkdown\")\n\nIt would be nice (and things will go faster) if you download the materials for the workshop before the actual workshop. You can find these in the R Ladies Nijmegen GitHub repository at https://github.com/RLadiesNijmegen/RMarkdown\n\nCODE OF CONDUCT\nPlease take a minute to read our code of conduct -- we are committed to creating a safe and harassment-free environment\nhttps://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nR-Ladies events are always free and open to anyone who wants to participate as long as they follow the code of conduct. We are pro-actively inclusive of queer, trans, and all minority identities, with additional sensitivity to intersectional identities. Our priority is to provide a safe community space for anyone identifying as a minority gender who is interested in and/or working with R.\n\nSPONSORS\nA huge thank you to R consortium for sponsoring this event and to the Gelderland Zuid library for hosting it!",
+    "status": "PAST",
+    "dateTime": "2018-10-18T18:30:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-nijmegen/events/254448281/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 35,
+      "waitlistCount": 0,
+      "totalCount": 35
+    },
+    "venues": [
+      {
+        "id": "25840218",
+        "name": "Bibliotheek Gelderland Zuid",
+        "address": "Marienburg 29",
+        "city": "Nijmegen",
+        "state": "",
+        "country": "nl",
+        "lat": 51.8454,
+        "lon": 5.8667,
+        "postalCode": "meetup10",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Nijmegen",
+      "urlname": "rladies-nijmegen"
+    }
+  },
+  {
+    "id": "251045217",
+    "title": "R-Ladies Nijmegen launch event",
+    "description": "It is time for the launch event of R-Ladies Nijmegen!\n\nDuring the launch event we will introduce you to R-Ladies (who we are, what we do, why it's important), discuss the results of our survey (see below), and of course meet all of you! We will be providing some drinks and snacks!\n\nA huge thank you to R consortium for sponsoring this event and to the Gelderland Zuid library for hosting it!\n\n------------------------------------------------------------------------------------------------------\n\nSCHEDULE\n18:30 Doors open & Welcome\n18:45 Intro to R-Ladies\n19:00 Survey results\n19:15 Meet your fellow R-Ladies!\n19:45 Networking & Snacks\n20:30 Wrap up\n\nSURVEY\nWe have prepared a short survey to learn more about you and how we can make future meet-ups maximally useful to you. You can find this here: https://goo.gl/forms/mWvPoviu4GbhLxP53\n\nPlease fill in the survey even if you can't make it to our launch event -- you will be helping us organise our next meetings around topics you are interested in and at a time that is convenient to you.\n\nCODE OF CONDUCT\n\nPlease take a minute to read our code of conduct -- we are committed to creating a safe and harassment-free environment\nhttps://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nLooking forward to meeting all of you!",
+    "status": "PAST",
+    "dateTime": "2018-06-28T18:30:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-nijmegen/events/251045217/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 40,
+      "waitlistCount": 0,
+      "totalCount": 40
+    },
+    "venues": [
+      {
+        "id": "25840218",
+        "name": "Bibliotheek Gelderland Zuid",
+        "address": "Marienburg 29",
+        "city": "Nijmegen",
+        "state": "",
+        "country": "nl",
+        "lat": 51.8454,
+        "lon": 5.8667,
+        "postalCode": "meetup10",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Nijmegen",
+      "urlname": "rladies-nijmegen"
+    }
+  },
+  {
+    "id": "265686260",
+    "title": "Handle and analyze eye-tracking data in R – All levels welcome!",
+    "description": "Are you planning to process and analyze eye-tracking or are just curious how it works?\nIn this workshops we will cover some basics of eye-tracking: from an example of an eye-tracking experiment to data processing, plotting, and some basic analyses. You don’t need to know anything about eye-tracking but some basic R skills would be good.\n\nCome along to learn how to analyse eye-tracking data in a workshop given by Francie Manhardt!\n\nFrancie is a PhD student at the Radboud University and Max Planck Institute Nijmegen and passionate about sign languages, eye-tracking and R. During her PhD she combined all three – the dream! Over the years, she has conducted many eye-tracking studies and after analyzing her first in excel she is the happiest person to have found R and tackles eye-gaze data in R ever since.\n\nREQUIREMENTS\nDon't forget to bring your (fully charged!) laptop with R Studio installed.\n\nCODE OF CONDUCT\nPlease take a minute to read our code of conduct -- we are committed to creating a safe and harassment-free environment\nhttps://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nR-Ladies events are always free and open to anyone who wants to participate as long as they follow the code of conduct. We are pro-actively inclusive of queer, trans, and all minority identities, with additional sensitivity to intersectional identities. Our priority is to provide a safe community space for anyone identifying as a minority gender who is interested in and/or working with R.\n\nSPONSORS\nA huge thank you to the Gelderland Zuid library for hosting this event!",
+    "status": "PAST",
+    "dateTime": "2019-11-28T18:30:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-nijmegen/events/265686260/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 24,
+      "waitlistCount": 0,
+      "totalCount": 24
+    },
+    "venues": [
+      {
+        "id": "25840218",
+        "name": "Bibliotheek Gelderland Zuid",
+        "address": "Marienburg 29",
+        "city": "Nijmegen",
+        "state": "",
+        "country": "nl",
+        "lat": 51.8454,
+        "lon": 5.8667,
+        "postalCode": "meetup10",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Nijmegen",
+      "urlname": "rladies-nijmegen"
+    }
+  },
+  {
+    "id": "264343849",
+    "title": "R-Ladies Lightning talks!",
+    "description": "Hi everyone! We're back from the summer break with a special event -- Lightning Talks! Come learn about what your R-Ladies community is doing and be inspired about different ways of using R!\n\nSCHEDULE\n18:30. Doors open\n18:45-19:00. Intro to R-Ladies\n19:00-20:00. Lightning talks:\n\n* How to use colourblind-friendly palettes - Laurel Brehm\n\n* Cluster analysis in R - Iris Monster\n\n* Eye-tracking data in R: the basics - Francie Manhardt\n\n* An intro to integrating git into your R workflow - Greta Kaufeld\n\n* A brief introduction to exploring movement data (GPS) in R - Marlee Tucker\n\nCODE OF CONDUCT\nPlease take a minute to read our code of conduct -- we are committed to creating a safe and harassment-free environment\nhttps://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nR-Ladies events are always free and open to anyone who wants to participate as long as they follow the code of conduct. We are pro-actively inclusive of queer, trans, and all minority identities, with additional sensitivity to intersectional identities. Our priority is to provide a safe community space for anyone identifying as a minority gender who is interested in and/or working with R.\n\nSPONSORS\nA huge thank you to the Gelderland Zuid library for hosting this event!",
+    "status": "PAST",
+    "dateTime": "2019-09-19T18:30:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-nijmegen/events/264343849/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 23,
+      "waitlistCount": 0,
+      "totalCount": 23
+    },
+    "venues": [
+      {
+        "id": "26060767",
+        "name": "Library Gelderland Zuid / Library Marienburg (OBGZ)",
+        "address": "Mariënburg 29",
+        "city": "Nijmegen",
+        "state": "GE",
+        "country": "nl",
+        "lat": 51.8454,
+        "lon": 5.8671,
+        "postalCode": "6511 PS",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Nijmegen",
+      "urlname": "rladies-nijmegen"
+    }
+  },
+  {
+    "id": "261542364",
+    "title": "Towards reproducible science: Power analysis",
+    "description": "Want to make sure that you can draw conclusions from your results? Or instill more trust in your research findings? Or make sure that any results you generate are reproducible? If so, come along and learn how to do power analysis in R! Power analysis is vital in today's age, where we aren't always sure if we can trust any finding from any data. With enough power, we know that we have the ability to detect certain effects if they are there, giving more trust to the research process. And, even better, with enough power other can also replicate your work!\n\nWe'll have more detailed information soon about the content of the session.\n\nSCHEDULE\n18:30-18:45. Introduction to power and reproducibility. Laurel Brehm & Eirini Zormpa\n18:45-19:15. Code walkthrough: Power calculations based on earlier research. Marianne de Heer Kloots\n19:15-20:30. Live coding: Writing power calculation functions and simulating data. Laurel Brehm\n\nREQUIREMENTS\nDon't forget to bring your (fully charged!) laptop with R Studio installed.\nYou'll also need to install some packages - you can simply do that on the spot, or if you like you can also set it up in advance (we'll let you know soon what they will be!).\n\nCODE OF CONDUCT\nPlease take a minute to read our code of conduct -- we are committed to creating a safe and harassment-free environment\nhttps://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nR-Ladies events are always free and open to anyone who wants to participate as long as they follow the code of conduct. We are pro-actively inclusive of queer, trans, and all minority identities, with additional sensitivity to intersectional identities. Our priority is to provide a safe community space for anyone identifying as a minority gender who is interested in and/or working with R.\n\nSPONSORS\nA huge thank you to the Gelderland Zuid library for hosting this event!",
+    "status": "PAST",
+    "dateTime": "2019-06-06T18:30:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-nijmegen/events/261542364/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 27,
+      "waitlistCount": 0,
+      "totalCount": 27
+    },
+    "venues": [
+      {
+        "id": "26060767",
+        "name": "Library Gelderland Zuid / Library Marienburg (OBGZ)",
+        "address": "Mariënburg 29",
+        "city": "Nijmegen",
+        "state": "GE",
+        "country": "nl",
+        "lat": 51.8454,
+        "lon": 5.8671,
+        "postalCode": "6511 PS",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Nijmegen",
+      "urlname": "rladies-nijmegen"
+    }
+  },
+  {
+    "id": "259220617",
+    "title": "Visualise your data with R -- All levels welcome!",
+    "description": "We're very excited to announce our next workshop on data visualization!\n\nIn this hands-on event, Limor Raviv will teach you how to create effective and beautiful plots using ggplot2, as well as some other neat packages.\n\nYou'll learn how to present your raw data in different ways to make the best of your graphs, how to plot your summarized data, and how to visualize your regression models' results.\n\nThe workshop will also use R markdown, giving you all a quick refresher on how to use this handy tool!\n\nThe full code for the workshop can be found here: https://github.com/Limor-Raviv/Data-Visualization\n\nSCHEDULE\n18:30 Doors open\n18:45 Intro to Data Visualisation Principles -- Laurel Brehm\n19:00 Interactive Data Visualisation workshop -- Limor Raviv\n20:30 Event ends\n\nREQUIREMENTS\nDon't forget to bring your (fully charged!) laptop with R Studio installed.\nYou'll also need to install some packages - you can simply do that on the spot, or if you like you can also set it up in advance (take a look at the code on GitHub for the list of required packages).\n\nCODE OF CONDUCT\nPlease take a minute to read our code of conduct -- we are committed to creating a safe and harassment-free environment\nhttps://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nR-Ladies events are always free and open to anyone who wants to participate as long as they follow the code of conduct. We are pro-actively inclusive of queer, trans, and all minority identities, with additional sensitivity to intersectional identities. Our priority is to provide a safe community space for anyone identifying as a minority gender who is interested in and/or working with R.\n\nSPONSORS\nA huge thank you to the Gelderland Zuid library for hosting this event!",
+    "status": "PAST",
+    "dateTime": "2019-03-28T18:30:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-nijmegen/events/259220617/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 18,
+      "waitlistCount": 0,
+      "totalCount": 18
+    },
+    "venues": [
+      {
+        "id": "25840218",
+        "name": "Bibliotheek Gelderland Zuid",
+        "address": "Marienburg 29",
+        "city": "Nijmegen",
+        "state": "",
+        "country": "nl",
+        "lat": 51.8454,
+        "lon": 5.8667,
+        "postalCode": "meetup10",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Nijmegen",
+      "urlname": "rladies-nijmegen"
+    }
+  },
+  {
+    "id": "256917758",
+    "title": "R Shiny workshop ",
+    "description": "Hello R Ladies!!\n\nIt's time for our third event and this one's special! This event will be led by a guest, Dr. Suthira Owlarn, coming all the way from the MPI for Molecular Biology in Muenster. Suthira will be teaching us how to use R Shiny, a way to build interactive web applications using R.\n\nShiny is a popular framework for building R-powered interactive web apps and dashboards – and a great way to present your data/analyses to the world! Its ease-of-use makes it beginner-friendly, while its flexibility and extendibility allow more advanced programmers to make use of various skills (e.g. javascript, test-writing).\n\nBased on the initial R Ladies Nijmegen survey, the current plan for the workshop assumes fundamental R skills, but no previous shiny experience. It’ll be a presentation with short exercises, followed by a longer hands-on session and Q&A.\n\nYou can find a more general R concepts refresher to make sure you’re ready for the workshop here: https://github.com/sowla/2019-shiny-intro-workshop-Nijmegen-RLadies\n\nAbout the speaker: Suthira Owlarn is a biologist at the Max Planck Institute in Münster. After finishing her PhD, she decided to learn a little R and immediately fell in love! Soon, she waved goodbye to the bench and is now having fun diving into the world of data analysis, exploring R packages and building shiny apps.\n\nREQUIREMENTS\nDon't forget to bring your (fully charged!) laptop with R Studio installed and with the 'shiny' package.\n\nCODE OF CONDUCT\nPlease take a minute to read our code of conduct -- we are committed to creating a safe and harassment-free environment\nhttps://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nR-Ladies events are always free and open to anyone who wants to participate as long as they follow the code of conduct. We are pro-actively inclusive of queer, trans, and all minority identities, with additional sensitivity to intersectional identities. Our priority is to provide a safe community space for anyone identifying as a minority gender who is interested in and/or working with R.\n\nSPONSORS\nA huge thank you to the IMPRS for Language Sciences (www.mpi.nl/education) and R consortium for sponsoring this event and to the Gelderland Zuid library for hosting it!",
+    "status": "PAST",
+    "dateTime": "2019-02-21T18:30:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-nijmegen/events/256917758/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 36,
+      "waitlistCount": 0,
+      "totalCount": 36
+    },
+    "venues": [
+      {
+        "id": "25840218",
+        "name": "Bibliotheek Gelderland Zuid",
+        "address": "Marienburg 29",
+        "city": "Nijmegen",
+        "state": "",
+        "country": "nl",
+        "lat": 51.8454,
+        "lon": 5.8667,
+        "postalCode": "meetup10",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Nijmegen",
+      "urlname": "rladies-nijmegen"
+    }
+  },
+  {
+    "id": "272479527",
+    "title": "R Ladies Netherlands Book Club - Advanced R Chapter 11",
+    "description": "Hi everyone,\n\nThe R Ladies chapters of the Netherlands are partnering up and are hosting an online book club. As a first book, we chose to read and discuss Hadley Wickham's Advanced R book (https://adv-r.hadley.nz/).\n\nJoin us for our next meeting, where Laurel Brehm leads discussion of the chapter on Function Operators. We'll hit the key points of the chapter and work on exercises together.\n\nThe link to the meeting is here: https://meet.jit.si/RLadiesNLAdvancedR\n\nYou can find the full schedule and more information here: https://github.com/rladiesnl/book_club\n\nAlso feel free to sign up to discuss one of the chapters there!\n\nABOUT Laurel\n----------------------\nLaurel is a research scientist at the MPI for Psycholinguistics. She studies how people successfully communicate even when they make mistakes, and teaches statistics to psychologists and linguists\n\nREQUIREMENTS\n----------------------\nMake sure to read the chapter in advance!\n\nCODE OF CONDUCT\n----------------------------\nWe expect all attendees to abide by our Code of Conduct. Anyone who violates this community's Code of Conduct will be refused entry, expelled, and/or any other action deemed appropriate by the Organizer, regardless of event registration, meetup membership or other condition. We are emphatically queer and trans-friendly. This group was created so those who identify as women have a comfortable place to learn.",
+    "status": "PAST",
+    "dateTime": "2020-08-18T18:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-nijmegen/events/272479527/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 14,
+      "waitlistCount": 0,
+      "totalCount": 14
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Nijmegen",
+      "urlname": "rladies-nijmegen"
+    }
+  },
+  {
+    "id": "270879815",
+    "title": "Make your code more readable through best coding practices",
+    "description": "Have you ever looked at a script you wrote two years ago and been totally clueless? Or do you hesitate to share your code with others out of fear that it's too cryptic? Come and join our best coding practices workshop and learn how to make your code more readable!\n\nOur speaker for this event is Arushi Garg. She is currently doing a PhD at the Donders Institute. In her past life, she worked in the software industry as a developer for three years, where she was required to follow rigorous coding standards. In this talk, she draws from her experience and will show us how we can employ such practices in science and make reproducibility and sharing a breeze.\n\nPREPARATION\nIn order to get the most out of the meeting, we encourage you to upload a piece of your own code here before June 6th: https://www.dropbox.com/request/2v4Ragmq16eLIsx9AXwP\nArushi can then tailor her examples to your needs.\n\nPROGRAMME\nThe event will start at 6pm. Join us on Zoom here: https://zoom.us/j/6903340773?pwd=b0M1c2wwVWNWenpjd0JhckJYWUhidz09\n\nWe're looking forward to seeing many of you virtually ;-)\n\nCODE OF CONDUCT\nPlease take a minute to read our code of conduct -- we are committed to creating a safe and harassment-free environment\nhttps://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nR-Ladies events are always free and open to anyone who wants to participate as long as they follow the code of conduct. We are pro-actively inclusive of queer, trans, and all minority identities, with additional sensitivity to intersectional identities. Our priority is to provide a safe community space for anyone identifying as a minority gender who is interested in and/or working with R.",
+    "status": "PAST",
+    "dateTime": "2020-06-11T18:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-nijmegen/events/270879815/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 63,
+      "waitlistCount": 0,
+      "totalCount": 63
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Nijmegen",
+      "urlname": "rladies-nijmegen"
+    }
+  },
+  {
+    "id": "270925058",
+    "title": "R Ladies Netherlands Book Club - Advanced R Chapter 6",
+    "description": "Hi everyone,\n\nThe R Ladies chapters of the Netherlands are partnering up and are hosting an online book club. As a first book, we chose to read and discuss Hadley Wickham's Advanced R book (https://adv-r.hadley.nz/).\nJoin us for our next meeting, in which Josephine Daub will present the key points of Chapter 6: \"Functions\". After that, we'll try some exercises together and help each other clear up any doubts and get over any hurdles :)\n\nThe link to the meeting is here: https://meet.jit.si/RLadiesNLAdvancedR\n\nYou can find the full schedule and more information here: https://github.com/rladiesnl/book_club\n\nAlso feel free to sign up to discuss one of the chapters there!\n\nABOUT Josephine\n----------------------\nJosephine is a computational biologist with special interest in evolutionary and cancer genomics. She is currently working as a postdoc at the Princess Máxima Center for Pediatric Oncology where she studies genetic interactions in childhood tumors. Josephine has programmed in many languages but the last years mainly in R. She knows that there is a lot to learn and working through the first chapters of the Advanced R book has already answered many questions she had about R's peculiarities.\n\nREQUIREMENTS\n----------------------\nMake sure to read the chapter in advance!\n\nCODE OF CONDUCT\n----------------------------\nWe expect all attendees to abide by our Code of Conduct. Anyone who violates this community's Code of Conduct will be refused entry, expelled, and/or any other action deemed appropriate by the Organizer, regardless of event registration, meetup membership or other condition. We are emphatically queer and trans-friendly. This group was created so those who identify as women have a comfortable place to learn.",
+    "status": "PAST",
+    "dateTime": "2020-06-09T18:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-nijmegen/events/270925058/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 28,
+      "waitlistCount": 0,
+      "totalCount": 28
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Nijmegen",
+      "urlname": "rladies-nijmegen"
+    }
+  },
+  {
+    "id": "269625040",
+    "title": "R Ladies Netherlands Book Club - Advanced R Chapter 2",
+    "description": "The R Ladies chapters of the Netherlands are partnering up! Starting in April, we'll be hosting an online book club. Our first book is going to be Hadley Wickham's Advanced R. Meetings will take place on zoom every two weeks.\n\nIn this first meeting, we'll introduce the idea of having an R-Ladies book club and then Laurel Brehm from R Ladies Nijmegen will present the key points of Chapter 2 (Names and values). After that, we'll go through the exercises together and help each other clear up any doubts and get over any hurdles :) Make sure to read the chapter in advance!\n\nYou can find the Advanced R book here: https://adv-r.hadley.nz/\nThe link to the zoom meeting will be provided closer to the date.\nYou can find the full schedule and more information here: https://github.com/rladiesnl/book_club",
+    "status": "PAST",
+    "dateTime": "2020-04-07T18:00:00+02:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-nijmegen/events/269625040/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 47,
+      "waitlistCount": 0,
+      "totalCount": 47
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Nijmegen",
+      "urlname": "rladies-nijmegen"
+    }
+  },
+  {
+    "id": "268082196",
+    "title": "Analyse your data using GAMs in R – All levels welcome!",
+    "description": "Have you heard about generalised additive models (GAMs) and would like to know more about how to use them? Come along to this workshop to get an introduction to GAMs: what they are and when and how to use them.\n\nPROGRAMME\nNote the different day (Tuesday) and location (Orikami)!\n\nThe event will start at 18:30.\nData Scientist Inez Wijnands will start us off with an introduction to the work that Orikami does and then Evelien will tell us all about GAMs!\n\nInez Wijnands works as a data scientist at Orikami. She studied Artificial Intelligence with a focus on Computational Cognitive Neuroscience at the Radboud University. At Orikami she uses 'AI in healthcare', combining her main interests.\n\nDr. Evelien Heyselaar is an Assistant Professor in AI and Communication Science at the Radboud University.\n\nDrinks and snacks will be provided by Orikami.\n\nREQUIREMENTS\nDon't forget to bring your (fully charged!) laptop with R and R Studio installed.\n\nYou can download the materials from: https://github.com/RLadiesNijmegen/GAMMs\n\nCODE OF CONDUCT\nPlease take a minute to read our code of conduct -- we are committed to creating a safe and harassment-free environment\nhttps://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nR-Ladies events are always free and open to anyone who wants to participate as long as they follow the code of conduct. We are pro-actively inclusive of queer, trans, and all minority identities, with additional sensitivity to intersectional identities. Our priority is to provide a safe community space for anyone identifying as a minority gender who is interested in and/or working with R.\n\nSPONSORS\nWe are very grateful to Orikami for sponsoring this event!",
+    "status": "PAST",
+    "dateTime": "2020-02-25T18:30:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-nijmegen/events/268082196/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 18,
+      "waitlistCount": 0,
+      "totalCount": 18
+    },
+    "venues": [
+      {
+        "id": "26822648",
+        "name": "Orikami Data Science for Healthcare & Lifesciences, Personalized Healthcare",
+        "address": "Ridderstraat 29",
+        "city": "Nijmegen",
+        "state": "GE",
+        "country": "nl",
+        "lat": 51.8474,
+        "lon": 5.8684,
+        "postalCode": "6511 TM",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Nijmegen",
+      "urlname": "rladies-nijmegen"
+    }
+  }
+]

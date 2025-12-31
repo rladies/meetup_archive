@@ -1,0 +1,1813 @@
+[
+  {
+    "id": "245516334",
+    "title": "Intro to R Markdown + Collaborative Coding Activity w/Kaylene McClanahan",
+    "description": "At this meetup, Kaylene McClanahan will lead us through our first collaborative coding activity! Kaylene will briefly introduce us to R Markdown (a great tool for easily annotating your code, sharing it with others, and turning your results into reports), and then we will work together in small groups to address a highly important and socially relevant question--where can you find NYC's most raging parties?\n\nWe know the idea of coding with others can be daunting, but this is a safe space and everyone is welcome (even if you do not know how to use R yet). In fact, each group will be assigned a more experienced R user so this will be a great opportunity for beginners to see how other people deal with data in R! This will be a relaxed environment and a good chance to meet some of your fellow R Ladies, so please do not feel like you do not know enough to join in.\n\nIf you can, bring your computer!\n\nSchedule:\n6:00-6:10--Food and introductions\n6:10-6:30--Brief explanation of R Markdown and introduction to the NYC party dataset\n6:30-7:20--Groups will explore the data and use R Markdown to document their process/results\n7:20-7:45--Groups will share what they did with the rest of the group (if they want to!)",
+    "status": "PAST",
+    "dateTime": "2017-12-13T18:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-chicago/events/245516334/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 49,
+      "waitlistCount": 0,
+      "totalCount": 49
+    },
+    "venues": [
+      {
+        "id": "12326212",
+        "name": "Microsoft Technology Center",
+        "address": "200 East Randolph Drive,  Suite 200",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "us",
+        "lat": 41.8849,
+        "lon": -87.622,
+        "postalCode": "60602",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Chicago",
+      "urlname": "rladies-chicago"
+    }
+  },
+  {
+    "id": "244984416",
+    "title": "Tidy Data Workflows with Emily Riederer (& Conference Recap)",
+    "description": "Emily Riederer and Angela Li went to the Enterprise Applications of the R Language (EARL) conference in Boston last week, and are excited to share knowledge from the event with R-Ladies Chicago!\n\nAngela will give a brief recap of the conference, and Emily will give a short talk she presented at the conference about tidy data workflows with a package she developed for business analysts at CapitalOne.\n\nEmily's talk will cover best practices and lessons learned from her package development and user-onboarding experience, and demonstrate ways that R and tidy tools can be used across industries to increase analytical quality while contributing to associate development. For the full abstract, check out this link: https://earlconf.com/boston/\n\nSchedule:\n\n6:00-6:30pm - Food, intros/icebreakers, go over Code of Conduct\n\n6:15-6:45pm - Announcements and brief conference recap by Angela\n\n6:45-7:15pm - Talk by Emily\n\n7:15-8pm - Time for questions & networking",
+    "status": "PAST",
+    "dateTime": "2017-11-16T18:00:00-06:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-chicago/events/244984416/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 40,
+      "waitlistCount": 0,
+      "totalCount": 40
+    },
+    "venues": [
+      {
+        "id": "12326212",
+        "name": "Microsoft Technology Center",
+        "address": "200 East Randolph Drive,  Suite 200",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "us",
+        "lat": 41.8849,
+        "lon": -87.622,
+        "postalCode": "60602",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Chicago",
+      "urlname": "rladies-chicago"
+    }
+  },
+  {
+    "id": "244346483",
+    "title": "Oktoberfest Edition: Beer-in-Hand Data Science",
+    "description": "For our October Meetup, Amanda Dobbyn will talking about a deep dive she did into beer data pulled from a public API.\n\nAre beer styles actually indicative of shared attributes of the beers within that style? Or are style boundaries more or less arbitrary? Amanda used unsupervised clustering as well as prediction to approach these questions. Expect at least one gif and a hop called Fuggles.\n\nSchedule:\n\n6:00-6:30pm - Food, intros/icebreakers, announcements\n\n6:30-7:15pm - Talk on project\n\n7:15-8pm - Additional time for questions & networking",
+    "status": "PAST",
+    "dateTime": "2017-10-26T18:00:00-05:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-chicago/events/244346483/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 51,
+      "waitlistCount": 0,
+      "totalCount": 51
+    },
+    "venues": [
+      {
+        "id": "12326212",
+        "name": "Microsoft Technology Center",
+        "address": "200 East Randolph Drive,  Suite 200",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "us",
+        "lat": 41.8849,
+        "lon": -87.622,
+        "postalCode": "60602",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Chicago",
+      "urlname": "rladies-chicago"
+    }
+  },
+  {
+    "id": "243332473",
+    "title": "Data Visualization Workshop with ggplot2",
+    "description": "Join Kaelen Medeiros as she takes us through some basic ggplot2 data visualizations using the RLadies Survey from the August Meetup plus a few other fun open datasets. Data cleaning for visualizations will also be included in the talk.\n\nAll are welcome, whether you're a R beginner or expert. This workshop is especially beginner-friendly!\n\nSchedule:\n\n6:00-6:30pm - Food, introductions, announcements\n\n6:30-7:15pm - Workshop on ggplot2\n\n7:15-8pm - Additional time for questions & networking\n\nAs always, pizza (and wheat-free & dairy-free options) will be provided.",
+    "status": "PAST",
+    "dateTime": "2017-09-28T18:00:00-05:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-chicago/events/243332473/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 77,
+      "waitlistCount": 0,
+      "totalCount": 77
+    },
+    "venues": [
+      {
+        "id": "12326212",
+        "name": "Microsoft Technology Center",
+        "address": "200 East Randolph Drive,  Suite 200",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "us",
+        "lat": 41.8849,
+        "lon": -87.622,
+        "postalCode": "60602",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Chicago",
+      "urlname": "rladies-chicago"
+    }
+  },
+  {
+    "id": "242292441",
+    "title": "Package Workshop & Collaborative Planning",
+    "description": "We'll learn about the hash package, a useful but underutilized R package, from Liz Sander. Then, we'll look at the data from the preliminary R-Ladies Chicago surveys and do some collaborative planning for the future of R-Ladies Chicago.\n\nAll are welcome! Whether you're an R beginner or an expert, we'd love to hear your input on the future of our Meetup.\n\nPlease fill out the Kickoff survey if you haven't already! http://bit.ly/rladieschi\n\n[UPDATED] Schedule:\n\n6:00-6:30pm - Food, introductions, announcements\n\n6:30-6:50pm - Workshop on hash package\n\n6:50-7:30pm - Look at data from initial R-Ladies surveys, participate in community planning\n\n7:30-8pm - Additional time for planning & networking",
+    "status": "PAST",
+    "dateTime": "2017-08-23T18:00:00-05:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-chicago/events/242292441/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 72,
+      "waitlistCount": 0,
+      "totalCount": 72
+    },
+    "venues": [
+      {
+        "id": "12326212",
+        "name": "Microsoft Technology Center",
+        "address": "200 East Randolph Drive,  Suite 200",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "us",
+        "lat": 41.8849,
+        "lon": -87.622,
+        "postalCode": "60602",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Chicago",
+      "urlname": "rladies-chicago"
+    }
+  },
+  {
+    "id": "241617679",
+    "title": "Launching R-Ladies Chicago!",
+    "description": "We're excited to announce the launch of R-Ladies Chicago, part of a global initiative to promote gender diversity in the R community. Our goal is to make R more popular and accessible especially among women. Anyone with an interest in R is welcome. You can be an R expert or novice. We will promote R, exchange ideas and knowledge and create a friendly network among women who use R in Chicago.\n\nTentative schedule:\n\n6-6:30: Refreshments & getting to know each other\n\n6:30-7: Lightning talks (let Angela know if you want to speak!)\n\n7-7:30: TBD, maybe a beginners R workshop if interest\n\nFollow us on Twitter (https://twitter.com/RLadiesChicago) for updates!",
+    "status": "PAST",
+    "dateTime": "2017-07-18T18:00:00-05:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-chicago/events/241617679/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 74,
+      "waitlistCount": 0,
+      "totalCount": 74
+    },
+    "venues": [
+      {
+        "id": "25359726",
+        "name": "The University of Chicago Computation Institute",
+        "address": "5735 South Ellis Avenue",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "US",
+        "lat": 41.7906,
+        "lon": -87.601,
+        "postalCode": "60637",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Chicago",
+      "urlname": "rladies-chicago"
+    }
+  },
+  {
+    "id": "256428023",
+    "title": "DecembeR Holiday Party & Collaborative Planning",
+    "description": "Join R-Ladies Chicago to celebrate the holidays! Socialize with fellow R-Ladies and help us plan for 2019!\n\n**BEFORE THE EVENT: Please fill out our survey to provide feedback on our past and future R-Ladies Chicago programs. We are looking for as many Chicago-area R-Ladies as possible to fill out this survey, even if you cannot attend this Meetup or have not attended one in the past. We would love your input! See the survey here: https://tinyurl.com/rladies-survey\n\n• What we'll do:\nWe'll discuss best practices for working with survey data of all forms (e.g. numerical, strings, closed set, open response, etc.) in R. Then, we'll work together in small groups to analyze data from our End of the Year Survey in R. By the end of the Meetup, we hope to have developed a data-driven list of R-Ladies Chicago events & goals for 2019!\n\nWe'll also socialize with fellow R-Ladies over holiday-themed treats :)\n\nThere will be no formal technical talk at this meeting; rather, this will be a time to network with fellow R-Ladies while doing a collaborative coding activity. This is part of our “social” Meetups, focused on networking and idea exchange.\n\n• Collaborative Coding:\nWe know the idea of coding with others can be daunting, but this is a safe space and everyone is welcome (even if you do not know how to use R yet). Each group will be assigned a more experienced R user so this will be a great opportunity for beginners to see how other people deal with data in R! This will be a relaxed environment and a good chance to meet some of your fellow R-Ladies, so please do not feel like you do not know enough to join in.\n\nSchedule:\n5:45-6 -- R tour for beginners; sign up here: https://tinyurl.com/rladiestour\n6-6:30 -- Food, Intros & Announcements\n6:30-7:15 -- Collaborative Coding Activity\n7:15-7:35 -- Groups will share what they did with the rest of the group (if they want to!)\n7:35-8:00 -- Socializing/Networking/Hanging out\n\nQ: Are men welcome to attend R-Ladies events?\nA: Yes, men are welcome at this event. Our mission is to encourage more women and non-binary individuals to get involved in the R community. Please help us by spreading the word about R-Ladies, and by being respectful of the fact that this event is primarily for women/non-binary/female-identifying individuals.\n\nThank you to Uptake for hosting us and Microsoft Developer Advocates (https://developer.microsoft.com/en-us/advocates/index.html) and David Smith for sponsoring pizza for this event!\n\n• What to bring\nLaptop or notebook if you can! Wifi is available and live-tweeting is encouraged.\n\nIf you are interested in leading a small group for the collaborative coding activity (no preparation required, just bring in a laptop with R!) message the organizers via Meetup or email Katherine [at] rladies.org.\n\n• Important to know\nWe expect all attendees to abide & be governed by our community code of conduct. Please take a moment to review our R-Ladies Global code of conduct (particularly if this is your first time attending!): https://github.com/rladies/starter-kit/wiki/Code-of-Conduct.",
+    "status": "PAST",
+    "dateTime": "2018-12-05T18:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-chicago/events/256428023/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 51,
+      "waitlistCount": 0,
+      "totalCount": 51
+    },
+    "venues": [
+      {
+        "id": "25941501",
+        "name": "Uptake",
+        "address": "600 W Chicago Ave 2nd floor",
+        "city": "Chicago",
+        "state": "il",
+        "country": "us",
+        "lat": 41.8976,
+        "lon": -87.6434,
+        "postalCode": "60654",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Chicago",
+      "urlname": "rladies-chicago"
+    }
+  },
+  {
+    "id": "255727048",
+    "title": "'Git' down with Git + R (Workshop & Tutorial)",
+    "description": "Learn about using Git & R at our November Meetup! R-Ladies Board Member Ola Giwa will lead a tutorial and workshop to get you up and running with Github and using Git in your workflow. This session will discuss:\n\n• Version control and why it is important\n• Fundamental git commands\n• Using Github for collaboration!\n\nThis event is extremely beginner-friendly! We encourage anyone, regardless of R & Git/Github proficiency, to join us!\n\nSchedule:\n5:45-6 -- NEW! R tour for beginners; sign up here: https://tinyurl.com/rladiestour\n6-6:30 -- Food and drinks, Intros & Announcements\n6:30-7:30 -- Git + R Workshop with Ola\n7:30-8:00-- Q&A/Socializing/Networking/Hanging out\n\nThank you to Loyola University Water Tower Campus - School of Social Work for hosting our event and to Microsoft Developer Advocates (https://developer.microsoft.com/en-us/advocates/index.html) and David Smith for sponsoring food for this event!\n\nImportant to Know:\nQ: What should I bring?\nA: Bring your laptop if you can! Wifi is available and live-tweeting is encouraged.\n\nQ: Are men welcome to attend R-Ladies events?\nA: Yes, men are welcome at this event. Our mission is to encourage more women and non-binary individuals to get involved in the R community. Please help us by spreading the word about R-Ladies, and by being respectful to our women/non-binary/female-identifying individuals at this event\n\nWe expect all attendees to abide & be governed by our community code of conduct. Please take a moment to review our R-Ladies Global code of conduct (particularly if this is your first time attending!): https://rladies.org/code-of-conduct/",
+    "status": "PAST",
+    "dateTime": "2018-11-13T18:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-chicago/events/255727048/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 85,
+      "waitlistCount": 0,
+      "totalCount": 85
+    },
+    "venues": [
+      {
+        "id": "10805652",
+        "name": "Loyola University Water Tower Campus(Chicago/Michigan Area)",
+        "address": "111 E. Pearson Street, Chicago IL 60611",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "us",
+        "lat": 41.8975,
+        "lon": -87.6254,
+        "postalCode": "60611",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Chicago",
+      "urlname": "rladies-chicago"
+    }
+  },
+  {
+    "id": "255245435",
+    "title": "HacktobeRfest @ Haymarket",
+    "description": "Details:\nR-Ladies Chicago and Chicago R User Group (CRUG) teamed up this month to bring you a joint meetup worth toasting to: HacktobeRfest at Haymarket Brewery!\n\nSchedule:\n5:45-6:00-- NEW! Rtour for beginners; sign up here: https://tinyurl.com/rladiestour\n6-6:30 -- Food and drinks, Intros & Announcements\n6:30-7:00 -- Speakers: Stephen Ziliak & Eleanor Chodroff\n7:00-7:45 -- Beer Data Hack-a-thon\n7:45-8:00 -- Lightning Style Presentations by Small Groups [Optional]\n8:00-Until -- Q&A/Socializing/Networking/Hanging out\n\nSpeakers:\nEleanor Chodroff, Postdoctoral researcher at Northwestern University, Department of Linguistics\n\nEleanor’s research focuses on the representation of speech and language in the mind. She became a beer-enthusiast as an exchange student in the Czech Republic and an R-enthusiast as a graduate student at Johns Hopkins. She will talk about the development of a Shiny app featuring Chicagoland breweries\n\nChicagoland Breweries app: https://eleanorchodroff.com/apps/brews.html\nCode: https://github.com/echodroff/chicago-breweries\nPersonal Website: https://www.eleanorchodroff.com/index.html\n\nStephen Ziliak will introduce us to the contribution brewing has made to statistics with his latest paper \"How large are your G-values?\" forthcoming The American Statistician (Fall 2018).\n\nFor more information on Stephen Ziliak: https://www.meetup.com/Chicago-R-User-Group/events/255246038/\n\nSpecial thanks to Haymarket and IBM for sponsoring this event!\n\nImportant to Know:\nQ: Are men welcome to attend R-Ladies events?\nA: Yes, men are welcome at this event, especially since we teaming up with Chicago R User Group! Our mission is to encourage more women and non-binary individuals to get involved in the R community. Please help us by spreading the word about R-Ladies, and by being respectful to our women/non-binary/female-identifying individuals at this event\n\nWe expect all attendees to abide & be governed by our community code of conduct. Please take a moment to review our R-Ladies Global code of conduct (particularly if this is your first time attending!): https://rladies.org/code-of-conduct/",
+    "status": "PAST",
+    "dateTime": "2018-10-16T17:45:00-05:00",
+    "duration": "PT2H15M",
+    "eventUrl": "https://www.meetup.com/rladies-chicago/events/255245435/",
+    "featuredEventPhoto": {
+      "id": "475131970",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/b/0/2/highres_475131970.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/b/0/2/600_475131970.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/b/0/2/thumb_475131970.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 52,
+      "waitlistCount": 0,
+      "totalCount": 52
+    },
+    "venues": [
+      {
+        "id": "23992975",
+        "name": "Haymarket Pub & Brewery",
+        "address": "737 W. Randolph",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "us",
+        "lat": 41.8841,
+        "lon": -87.6472,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Chicago",
+      "urlname": "rladies-chicago"
+    }
+  },
+  {
+    "id": "254621401",
+    "title": "Pro tips: how to start/advance your data science career ",
+    "description": "We have teamed up with Metis and invited Ashley Purdy (Career Advisor) to talk about everything you need to know about Data science job search!\n\nAshley will discuss some strategies for how to put your best foot forward in the data science job search covering topics ranging from networking, interviews, and salary negotiations.\n\nFollowing by Monique, who will give a short talk on develop a LinkedIn profile that stands out above the rest. Let’s tackle LinkedIn together and learn how to maximize your account.\n\nSeveral recruiters from different industry will also be present and introduce the openings at their companies!\n\nIf you are in the job market or considering a career change, you don't want to miss out this event!\n\nAbout the speaker: Ashley is the Chicago Career Advisor for Metis, a data science educator, and has over six years of experience as an employment professional. She started her career as a technical recruiter before transitioning to career advising. Working in both a recruiting and an advising capacity has given her a strong understanding of the recruitment process and what employers seek in a quality candidate, specifically in the technical and data science industries. Ashley is passionate about helping job seekers and professionals identify the next steps forward in their careers that align with their overall professional goals.\n\nSchedule:\n5:45-6:00-- NEW! Rtour for beginners\n6-6:45 -- Food and drinks, Intros & Announcements\n6:45-7:20 -- Ashley's Pro tips talk\n7:20-7:40 -- Are You LinkedIn SAVYY? with Monique\n7:40-8:00 -- Recruiters Info session\n8:00-8:30-- Q&A/Socializing/Networking/Hanging out\n\nThank you to Uptake for providing our meeting space and food for this event!\n\nImportant to Know:\nQ: Are men welcome to attend R-Ladies events?\nA: Yes, men are welcome at this event. Our mission is to encourage more women and non-binary individuals to get involved in the R community. Please help us by spreading the word about R-Ladies, and by being respectful of the fact that this event is primarily for women/non-binary/female-identifying individuals.\n\nWe expect all attendees to abide & be governed by our community code of conduct. Please take a moment to review our R-Ladies Global code of conduct (particularly if this is your first time attending!): https://rladies.org/code-of-conduct/",
+    "status": "PAST",
+    "dateTime": "2018-09-27T17:45:00-05:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-chicago/events/254621401/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 60,
+      "waitlistCount": 0,
+      "totalCount": 60
+    },
+    "venues": [
+      {
+        "id": "25941501",
+        "name": "Uptake",
+        "address": "600 W Chicago Ave 2nd floor",
+        "city": "Chicago",
+        "state": "il",
+        "country": "us",
+        "lat": 41.8976,
+        "lon": -87.6434,
+        "postalCode": "60654",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Chicago",
+      "urlname": "rladies-chicago"
+    }
+  },
+  {
+    "id": "254251305",
+    "title": "Dataviz Study Group: Intro to ggplot2",
+    "description": "Interested in data visualization? Then this study group is for you! Whether you’re beginner or an expert you’re welcome to join! Just bring your curiosity and enthusiasm.\n\nIn this study group meeting, we will be getting brief introduction to ggplot2. ggplot2 is a R package created by Hadley Wickham to create aesthetically pleasing graphics. ggplot2 uses concepts from Leland Wilkinson's Grammar of Graphics to create graphics; making it have a steeper learning curve then R’s default graphic package.\n\nStudy Group Agenda\n\nSchedule:\n6:00-6:15 -- Setup, intros, small talk\n6:15-6:45 -- Introductory talk about ggplot2 and the grammar of graphics\n6:45-7:45 -- Collaborative/Exploratory Coding/Questions about readings\n7:45-8:00 -- Set goals for the next meeting, get feedback from participants\n\nSponsors\n\nThank you to Swoon Staffing (https://swoonstaffing.com/) and Antoine Smith for providing space!\n\nFAQs\n\nQ: Are men welcome to attend R-Ladies events?\nA: Yes, men are welcome at this event. Our mission is to encourage more women and non-binary individuals to get involved in the R community. Please help us by spreading the word about R-Ladies, and by being respectful of the fact that this event is primarily for women/non-binary/female-identifying individuals.\n\nAre RSVP required?\nYes, RSVP is required. Your id will be need in order to enter the building.\n\nWill food be provided?\nFood will not be provided.\n\nWhat do I need to bring?\n- laptop\n- power chord\n\nImportant to know\nWe expect all attendees to abide & be governed by our community code of conduct. Please take a moment to review our R-Ladies Global code of conduct (particularly if this is your first time attending!): https://rladies.org/code-of-conduct/",
+    "status": "PAST",
+    "dateTime": "2018-09-10T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-chicago/events/254251305/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 15,
+      "waitlistCount": 0,
+      "totalCount": 15
+    },
+    "venues": [
+      {
+        "id": "23927166",
+        "name": "Swoon",
+        "address": "300 S. Wacker Ste. 300",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "us",
+        "lat": 41.8774,
+        "lon": -87.6371,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Chicago",
+      "urlname": "rladies-chicago"
+    }
+  },
+  {
+    "id": "253881898",
+    "title": "Astrostatistics in R: Predicting Solar Flares",
+    "description": "For our August meetup, the Astrostatistics Study Group (ASG) will talk about their ongoing project in predicting solar flares.\n\nR-Ladies board member and founder of the ASG, Caroline K. Williams will introduce the Astrostatistics study group and NASA Datanauts program she recently joined. She will also present the basic principles of Deep Learning that will be applied to the project.\n\nJosh Goldberg, a member of the ASG will present on a topic in data science that is often overlooked or does not get much coverage but is required to move any project forward: data exploration.\n\nThe ASG adviser, Troy Hernandez will discuss how he got involved in the Solar Flare project as a mentor for the Space Weather Team of the 2017 NASA Frontier Development Lab. He will also talk about the progress of the analysis, and what he envisions for the ASG to achieve in this project.\n\nMore about the speakers:\nJosh Goldberg, a member of the ASG, is passionate about coding, statistics, and research. During the day, he is a Data Scientist at Nuveen Investments solving business problems with #rstats. At night, he attends University of Chicago’s Masters in Analytics program and trains for the Chicago Marathon.\n\nTroy Hernandez is the Executive Architect at IBM, a Data Scientist, a community organizer, and Chicago R User Group organizer.\n\nSchedule:\n6-6:30 -- Food and drinks, Intros & Announcements\n6:30-6:50 -- Caroline ASG intro and deep learning principles\n6:50-7:10 -- Josh Data cleaning and exploration\n7:10-7:30 -- Troy Project overview and progress\n7:30-8:00-- Q&A/Socializing/Networking/Hanging out\n\nThank you to WeWork for providing our meeting space! WeWork provides small businesses, startups, freelancers, large enterprises, and everyone in between with the workspace, community, and services they need to make a life, not just a living. With weekly events, personalized support, month-to-month flexibility, and access to over 200,000 like-minded creators around the world, WeWork is the perfect place to grow your business. Book your tour here! https://www.wework.com/l/chicago--IL?utm_campaign=CHI-2018-04-26-18-RLadies&utm_medium=page&utm_source=wework\n\nThank you to Microsoft Developer Advocates (https://developer.microsoft.com/en-us/advocates/index.html) and David Smith for sponsoring food for this event!\n\nImportant to Know:\nQ: Are men welcome to attend R-Ladies events?\nA: Yes, men are welcome at this event. Our mission is to encourage more women and non-binary individuals to get involved in the R community. Please help us by spreading the word about R-Ladies, and by being respectful of the fact that this event is primarily for women/non-binary/female-identifying individuals.\n\nWe expect all attendees to abide & be governed by our community code of conduct. Please take a moment to review our R-Ladies Global code of conduct (particularly if this is your first time attending!): https://rladies.org/code-of-conduct/",
+    "status": "PAST",
+    "dateTime": "2018-08-28T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-chicago/events/253881898/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 59,
+      "waitlistCount": 0,
+      "totalCount": 59
+    },
+    "venues": [
+      {
+        "id": "24787960",
+        "name": "WeWork",
+        "address": "20 W. Kinzie Street 17th floor",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "us",
+        "lat": 41.8895,
+        "lon": -87.6289,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Chicago",
+      "urlname": "rladies-chicago"
+    }
+  },
+  {
+    "id": "252249636",
+    "title": "Game Time! R in Minecraft - Kid-Friendly Event",
+    "description": "For our July meetup, David Smith will talk about the 'miner' package, how to set up your own Minecraft server, and how to use and extend the package. He'll also provide a few examples of the package in action in a live Minecraft session! Fun!\n\nThe miner package is intended mainly for kids, to inspire them to learn R while playing Minecraft. But the development of the package also provides some useful insights into how to build an R package to interface with a persistent API, and how to instruct others on its use.\n\nThis package is a collection of simple functions that allow you to connect with a Minecraft instance, manipulate the world within by creating blocks and controlling the player, and to detect events within the world and react accordingly.\n\nAbout the speaker: David Smith is a developer advocate at Microsoft, with a focus on data science and the R community. He has been a long time facilitator and a good ally for R-Ladies Chicago.\n\nSchedule:\n6:00-6:30 -- Food, intros, WeWork, announcements, business, etc.\n6:30-7:20 -- R in Minecraft\n7:20-8:00 -- Mingling, hanging out, more food\n\nQ: Are men welcome to attend R-Ladies events?\nA: Yes, men are welcome at this event. Our mission is to encourage more women and non-binary individuals to get involved in the R community. Please help us by spreading the word about R-Ladies, and by being respectful of the fact that this event is primarily for women/non-binary/female-identifying individuals.\n\nWeWork Info:\nWeWork provides small businesses, startups, freelancers, large enterprises, and everyone in between with the workspace, community, and services they need to make a life, not just a living. With weekly events, personalized support, month-to-month flexibility, and access to over 200,000 like-minded creators around the world, WeWork is the perfect place to grow your business. Book your tour here! https://www.wework.com/l/chicago--IL?utm_campaign=CHI-2018-04-26-18-RLadies&utm_medium=page&utm_source=wework\n\nThank you to Microsoft Developer Advocates (https://developer.microsoft.com/en-us/advocates/index.html) and David Smith for sponsoring food for this event!\n\n• What to bring\nLaptop or notebook if you like! Wifi is available and live-tweeting is encouraged.\n\n• Important to know\nWe expect all attendees to abide & be governed by our community code of conduct. Please take a moment to review our R-Ladies Global code of conduct (particularly if this is your first time attending!): https://rladies.org/code-of-conduct/",
+    "status": "PAST",
+    "dateTime": "2018-07-19T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-chicago/events/252249636/",
+    "featuredEventPhoto": {
+      "id": "472447917",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/e/e/d/highres_472447917.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/e/e/d/600_472447917.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/e/e/d/thumb_472447917.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 52,
+      "waitlistCount": 0,
+      "totalCount": 52
+    },
+    "venues": [
+      {
+        "id": "24406406",
+        "name": "WeWork Grant Park",
+        "address": "332 S Michigan Ave",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "us",
+        "lat": 41.8773,
+        "lon": -87.6246,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Chicago",
+      "urlname": "rladies-chicago"
+    }
+  },
+  {
+    "id": "251993949",
+    "title": "R-Ladies Summer Social: Sip & Code! ",
+    "description": "Summer is finally here! Join R-Ladies Chicago to celebrate with wine and R!\n\n• What we'll do:\nWe will taste some wines (and non-alcoholic drinks too!) and rate them based on the winemag.com scoring system. Then, we will work together in small groups to analyze and visualize the wine preferences of R-Ladies in R! Wine consumption is absolutely optional --we'll have non-alcoholic beverages & food too.\n\nWe'll also be introducing some R-Ladies Chicago outreach initiatives, including our new website: rladieschicago.org and kicking-off our Random Acts of Coffee program!\n\nThere will be no formal technical talk at this meeting; rather, a time to network with fellow R-Ladies while doing a collaborative coding activity. This is part of our “social” Meetups, focused on networking and idea exchange.\n\n• Collaborative Coding:\nWe know the idea of coding with others can be daunting, but this is a safe space and everyone is welcome (even if you do not know how to use R yet). Each group will be assigned a more experienced R user so this will be a great opportunity for beginners to see how other people deal with data in R! This will be a relaxed environment and a good chance to meet some of your fellow R-Ladies, so please do not feel like you do not know enough to join in.\n\nSchedule:\n6-6:30 -- Food, Wine Tasting, Intros & Announcements\n6:30-7:15 -- Collaborative Coding Activity\n7:15-7:35 -- Groups will share what they did with the rest of the group (if they want to!)\n7:35-8:00 -- Socializing/Networking/Hanging out\n\nQ: Are men welcome to attend R-Ladies events?\nA: Yes, men are welcome at this event. Our mission is to encourage more women and non-binary individuals to get involved in the R community. Please help us by spreading the word about R-Ladies, and by being respectful of the fact that this event is primarily for women/non-binary/female-identifying individuals.\n\nWeWork Info:\nWeWork provides small businesses, startups, freelancers, large enterprises, and everyone in between with the workspace, community, and services they need to make a life, not just a living. With weekly events, personalized support, month-to-month flexibility, and access to over 200,000 like-minded creators around the world, WeWork is the perfect place to grow your business. Book your tour here! https://www.wework.com/l/chicago--IL?utm_campaign=CHI-2018-04-26-18-RLadies&utm_medium=page&utm_source=wework\n\nThank you to Microsoft Developer Advocates (https://developer.microsoft.com/en-us/advocates/index.html) and David Smith for sponsoring pizza for this event!\n\n• What to bring\nLaptop or notebook if you can! Wifi is available and live-tweeting is encouraged.\n\nIf you are interested in leading a small group for the collaborative coding activity (no preparation required, just bring in a laptop with R!) message the organizers via Meetup or email Katherine [at] rladies.org.\n\n• Important to know\nWe expect all attendees to abide & be governed by our community code of conduct. Please take a moment to review our R-Ladies Global code of conduct (particularly if this is your first time attending!): https://github.com/rladies/starter-kit/wiki/Code-of-Conduct.",
+    "status": "PAST",
+    "dateTime": "2018-07-02T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-chicago/events/251993949/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 56,
+      "waitlistCount": 0,
+      "totalCount": 56
+    },
+    "venues": [
+      {
+        "id": "6146392",
+        "name": "20 W Kinzie St",
+        "address": "20 W Kinzie St",
+        "city": "Chicago",
+        "state": "Il",
+        "country": "us",
+        "lat": 41.8894,
+        "lon": -87.6289,
+        "postalCode": "60654",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Chicago",
+      "urlname": "rladies-chicago"
+    }
+  },
+  {
+    "id": "250760283",
+    "title": "3 Ways to Make a Data Visualization (r/DataIsBeautiful contest) ",
+    "description": "**NOTE: We are in a different WeWork this time! Please take note of this location change (Kinzie, not Grant Park).**\n\nCurious about the different ways you can tackle a data visualization project?\n\nHear from Amy, Caroline and Abhinaya of the newly formed R-Ladies Chicago board on how they solve this month’s r/DataIsBeautiful challenge!\n\nIf you would like to participate, please check out the dataset here: https://www.reddit.com/r/dataisbeautiful/ As we get closer to the Meetup date, we will have a GitHub link for you to share yours and we will showcase it at the beginning of the Meetup.\n\nAlso, Kaelen is leaving to New York to start a new role at DataCamp as Content Quality Analyst and she also has a new DataCamp course coming out soon called “Experimental Design in R.” We will be celebrating it with cake.\n\nSchedule:\n6:00-6:30 -- Food, intros, WeWork, announcements, business, etc.\n6:30-7:15 -- Showcase data visualization\n7:15-8:00 -- DataCamp course info, mingling, hanging out, more food\n\nQ: Are men welcome to attend R-Ladies events?\nA: Yes, men are welcome at this event. Our mission is to encourage more women and non-binary individuals to get involved in the R community. Please help us by spreading the word about R-Ladies, and by being respectful of the fact that this event is primarily for women/non-binary/female-identifying individuals.\n\nWeWork Info:\nWeWork provides small businesses, startups, freelancers, large enterprises, and everyone in between with the workspace, community, and services they need to make a life, not just a living. With weekly events, personalized support, month-to-month flexibility, and access to over 200,000 like-minded creators around the world, WeWork is the perfect place to grow your business. Book your tour here! https://www.wework.com/l/chicago--IL?utm_campaign=CHI-2018-04-26-18-RLadies&utm_medium=page&utm_source=wework\n\nThank you to Microsoft Developer Advocates (https://developer.microsoft.com/en-us/advocates/index.html) and David Smith for sponsoring food for this event!\n\n• What to bring\nLaptop or notebook if you like! Wifi is available and live-tweeting is encouraged.\n\n• Important to know\nWe expect all attendees to abide & be governed by our community code of conduct. Please take a moment to review our R-Ladies Global code of conduct (particularly if this is your first time attending!): https://rladies.org/code-of-conduct/",
+    "status": "PAST",
+    "dateTime": "2018-05-22T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-chicago/events/250760283/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 46,
+      "waitlistCount": 0,
+      "totalCount": 46
+    },
+    "venues": [
+      {
+        "id": "24787960",
+        "name": "WeWork",
+        "address": "20 W. Kinzie Street 17th floor",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "us",
+        "lat": 41.8895,
+        "lon": -87.6289,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Chicago",
+      "urlname": "rladies-chicago"
+    }
+  },
+  {
+    "id": "249814648",
+    "title": "Introduction to Spatial Data Analysis and Mapping in R with Angela Li",
+    "description": "• What we'll do\nPlease RSVP here on this Meetup as well as on the WeWork Splash page: https://introtospatialdatasciencewithr-ladieschicagofounde.splashthat.com/\n\nR-Ladies Chicago founder and organizer, Angela Li, of the Center for Spatial Data Science at the University of Chicago, will be giving a talk related to her recent research in spatial data analysis. She will introduce a few packages that she's found useful in her research, like sf and tmap, and teach you how to make maps and work with spatial data in R.\n\nSchedule:\n6:00-6:30 -- Food, intros, announcements, business, etc.\n6:30-7:15 -- Talk by Angela\n7:15-8:30 -- Mingling, hanging out, more food\n\nQ: Are men welcome to attend R-Ladies events?\nA: Yes, men are welcome at this event. Our mission is to encourage more women and non-binary individuals to get involved in the R community. Please help us by spreading the word about R-Ladies, and by being respectful of the fact that this event is primarily for women/non-binary/female-identifying individuals.\n\nWeWork Info:\nWeWork provides small businesses, startups, freelancers, large enterprises, and everyone in between with the workspace, community, and services they need to make a life, not just a living. With weekly events, personalized support, month-to-month flexibility, and access to over 200,000 like-minded creators around the world, WeWork is the perfect place to grow your business. Book your tour here! https://www.wework.com/l/chicago--IL?utm_campaign=CHI-2018-04-26-18-RLadies&utm_medium=page&utm_source=wework\n\nThank you to Microsoft Developer Advocates (https://developer.microsoft.com/en-us/advocates/index.html) and David Smith for sponsoring pizza for this event!\n\n• What to bring\nLaptop or notebook if you like! Wifi is available and live-tweeting is encouraged.\n\n• Important to know\nWe expect all attendees to abide & be governed by our community code of conduct. Please take a moment to review our R-Ladies Global code of conduct (particularly if this is your first time attending!): https://github.com/rladies/starter-kit/wiki/Code-of-Conduct.",
+    "status": "PAST",
+    "dateTime": "2018-04-26T18:00:00-05:00",
+    "duration": "PT2H30M",
+    "eventUrl": "https://www.meetup.com/rladies-chicago/events/249814648/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 64,
+      "waitlistCount": 0,
+      "totalCount": 64
+    },
+    "venues": [
+      {
+        "id": "24406406",
+        "name": "WeWork Grant Park",
+        "address": "332 S Michigan Ave",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "us",
+        "lat": 41.8773,
+        "lon": -87.6246,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Chicago",
+      "urlname": "rladies-chicago"
+    }
+  },
+  {
+    "id": "248167226",
+    "title": "R-Ladies Chicago + Hadley Wickham: Introduction to tidy evaluation in R",
+    "description": "***UPDATE 3/5: we have increased the number of RSVPs available due to the interest in this event. We would prefer if the remaining spots are primarily reserved for women/female-identifying/non-binary individuals. This event is likely to be standing room only - arrive early if you want a seat!\n\nPlease RSVP on this Meetup page and on the Splash page located here: https://rladieschicagowelcomeschiefscientistatrstudiohadle.splashthat.com/\n\nRLadies Chicago is privileged to welcome Chief Scientist at RStudio, author of ggplot2 and many packages in the tidyverse, and perhaps the most prolific R developer of our time: Hadley Wickham.\n\nTalk Abstract:\nTidy evaluation is a new framework for non-standard evaluation that is used throughout the tidyverse. In this talk, I'll introduce you to the problem that tidy eval solves, illustrated with examples of the various approaches used in R. I'll then explain the most important components so that you can start writing your own functions instead of copying and pasting tidyr and dplyr code.\n\nSchedule:\n6:00-6:30 -- Food, introductions, and announcements\n6:30-7:15 -- Talk by Hadley\n7:15-8:00 -- Questions, networking\n8:00-9:30 -- Post-event at the Chicago Athletic Association's Drawing Room at 12 S Michigan Ave, Fl 2.\nhttps://www.yelp.com/biz/drawing-room-chicago\n\nBio:\nHadley is Chief Scientist at RStudio, a member of the R Foundation, and Adjunct Professor at Stanford University and the University of Auckland. He builds tools (both computational and cognitive) to make data science easier, faster, and more fun. His work includes packages for data science (the tidyverse: including ggplot2, dplyr, tidyr, purrr, and readr) and principled software development (roxygen2, testthat, devtools). He is also a writer, educator, and speaker promoting the use of R for data science. Learn more on his website, http://hadley.nz.\n\nWhat to bring:\nLaptop or notebook if you like! Wifi is available and live-tweeting is encouraged.\n\nImportant to know:\nWe expect all attendees to abide & be governed by our community code of conduct. Please take a moment to review our R-Ladies Global code of conduct (particularly if this is your first time attending!): https://github.com/rladies/starter-kit/wiki/Code-of-Conduct.\n\nQ: Are men welcome to attend R-Ladies events?\nA: Yes, men are welcome at this event. Our mission is to encourage more women and non-binary individuals to get involved in the R community. Please help us by spreading the word about R-Ladies, and by being respectful of the fact that this event is primarily for women/non-binary/female-identifying individuals.\n\nAfterward, those interested will head down the street for an informal post-event at the Drawing Room at 12 S Michigan Ave, Fl 2, Chicago Athletic Association.\n\nSponsor:\nThank you to Microsoft Developer Advocates (https://developer.microsoft.com/en-us/advocates/index.html) and David Smith for sponsoring pizza for this event!",
+    "status": "PAST",
+    "dateTime": "2018-03-08T18:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-chicago/events/248167226/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 99,
+      "waitlistCount": 0,
+      "totalCount": 99
+    },
+    "venues": [
+      {
+        "id": "24406406",
+        "name": "WeWork Grant Park",
+        "address": "332 S Michigan Ave",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "us",
+        "lat": 41.8773,
+        "lon": -87.6246,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Chicago",
+      "urlname": "rladies-chicago"
+    }
+  },
+  {
+    "id": "247550735",
+    "title": "Make your own R package from scratch with Stephanie Kirmer",
+    "description": "Please RSVP here (not absolutely necessary but will speed up the process on Tuesday night for us!):\nhttps://makeyourownrpackagefromscratchwithuptakedatascient.splashthat.com/\n\n• What we'll do\nIn this hands-on tutorial, Stephanie Kirmer from Uptake will introduce you to building your very own R package. If you've used R, you've almost certainly used a package - but did you know that building your own package is actually not hard at all? If you have written bits of useful code you want to keep and return to, you might want a package.\n\nAfter this session, you'll have the skills to start a package and document your functions, and resources to use for next steps like vignettes and unit testing. If you like, bring an R function you have written, or follow along using provided scripts.\n\n**No experience with any package building (or even function writing) is necessary to follow along with this tutorial.**\n\nStephanie is a data scientist at Uptake, and along with the tutorial, a recruiter from Uptake will be on hand to talk to anyone thinking about applying to work there, so bring your resume too!\n\nSchedule:\n6:00-6:15--Food and introductions\n6:15-6:30--Recap of rstudio::conf by Amanda & Angela\n6:30-7:15--Workshop with Stephanie\n7:15-8:00--Questions, recruiting pitch from Uptake, networking\n\n• Sponsor information\nWeWork provides small businesses, startups, freelancers, large enterprises, and everyone in between with the workspace, community, and services they need to make a life, not just a living. With weekly events, personalized support, month-to-month flexibility, and access to over 50,000 like-minded creators around the world, WeWork is the perfect place to grow your business. Book your tour at https://www.wework.com/l/chicago--IL?utm_campaign=CHI-2018-3-8-18-RLadies&utm_medium=page&utm_source=wework.\n\n• What to bring\nPhoto ID, computer, resume (if interested in working at Uptake)\n\n• Important to know\nPlease make sure you submit your full name when you RSVP.",
+    "status": "PAST",
+    "dateTime": "2018-02-13T18:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-chicago/events/247550735/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 56,
+      "waitlistCount": 0,
+      "totalCount": 56
+    },
+    "venues": [
+      {
+        "id": "24406406",
+        "name": "WeWork Grant Park",
+        "address": "332 S Michigan Ave",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "us",
+        "lat": 41.8773,
+        "lon": -87.6246,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Chicago",
+      "urlname": "rladies-chicago"
+    }
+  },
+  {
+    "id": "247052131",
+    "title": "January R-Ladies Community Meetup",
+    "description": "• What we'll do\nJoin us for our January R-Ladies Community Meetup, where we’ll get to know one another and brainstorm for R-Ladies Chicago in 2018. Come with your ideas for talks, speakers, workshops, book clubs, study groups, mentorship, projects, fundraising, and organizing, or just a willingness to get to know your fellow R-Ladies!\n\nThere will be no formal technical talk at this meeting, but rather group discussion about what R-Ladies Chicago will look like and do in 2018. This will hopefully be the start of our added “social” Meetups, focused on networking and idea exchange. Also unlike our tech talks, food and drink are not provided, so bring a few $$ along. Join us for food, drinks, and fun!\n\n• What to bring\nbring $ for food & drink! plenty of non-alcoholic drink options are available.\n\n• Important to know",
+    "status": "PAST",
+    "dateTime": "2018-01-25T18:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-chicago/events/247052131/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 11,
+      "waitlistCount": 0,
+      "totalCount": 11
+    },
+    "venues": [
+      {
+        "id": "25171968",
+        "name": "kibbitznest books, brews & blarney",
+        "address": "2212 N. Clybourn Ave.,",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "us",
+        "lat": 41.9219,
+        "lon": -87.6652,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Chicago",
+      "urlname": "rladies-chicago"
+    }
+  },
+  {
+    "id": "266616799",
+    "title": "Reproducible Workflows for Interactive Visualizations with htmlwidgets and Shiny",
+    "description": "Join us in welcoming Martin John Hadley (https://twitter.com/martinjhnhadley pronouns they/them) for an interactive workshop on htmlwidgets, Shiny, and reproducibility!\n\nData visualisation is an incredible tool for exploring, understanding and communicating the stories behind datasets. You might know about how to create static dataviz with R and ggplot2, but there's a whole zoo of htmlwidgets for creating interactive charts, maps, networks and more without learning any JavaScript. Add Shiny to the mix and you can create interactive web applications completely in R.\n\nBut something we often leave out of this conversation is how to make data truly accessible and reproducibly available for the future. Martin will tie together interactive dataviz, Shiny and their work at our R-Ladies Meetup to support an end-to-end reproducible Open Data workflow.\n\n• About Martin: Martin started learning R on May 29th 2015 to prepare for their role in IT Services at University of Oxford where they lucked out on internal funding to setup the \"Interactive Data Network\" (idn.it.ox.ac.uk), which supports Oxford researchers in creating interactive dataviz of Open Data using Shiny and htmlwidgets. Since founding the IDN, Martin has created several R training courses for LinkedIn Learning and as of 2019 is a full time freelance R consultant and trainer - they're also a die hard reproducible research evangelist.\n\n• Installation requirements:\nPlease have the following installed on your computer before this workshop (or come early and we'll help you with installation):\n- R\n- RStudio\n\nRun the following command in the R console to make sure you have the appropriate packages installed:\n\ninstall.packages(c(\"tidyverse\", \"leaflet\", \"highcharter\", \"rmarkdown\", \"shiny\", \"fivethirtyeight\", \"sf\", \"rnaturalearthdata\")\n\n• Schedule\n5:45-6 -- Installation help, R Tour (please come early for help getting set up with R if you need it!)\n6-6:30 -- Food and drinks, Intros & Announcements\n6:30-7:30 -- Workshop by Martin\n7:30-8:00-- Socializing/Networking/Hanging out/Chillin'\n\nQ: Are men welcome to attend this event?\nA: Our primary mission is to encourage more women and non-binary individuals to get involved in the R community. ***As such, we strongly encourage that all men who attend this event have a female or non-binary sponsor. Please contact chicago@rladies.org if you have questions.***\n\nAdditionally, please help us by spreading the word about R-Ladies, and by being respectful of the fact that this event is primarily for women/non-binary/female-identifying individuals.\n\n• What to bring\nYourself! And a laptop - this will be an interactive event.\n\n• Important to know\nWe expect all attendees to abide & be governed by our community code of conduct. Please take a moment to review our R-Ladies Global code of conduct (particularly if this is your first time attending!): https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\n• Thank you to our sponsors!\nWe are grateful to Groupon for hosting us this month! Thank you to Microsoft Cloud Advocates for sponsoring the food.",
+    "status": "PAST",
+    "dateTime": "2019-12-04T17:45:00-06:00",
+    "duration": "PT2H15M",
+    "eventUrl": "https://www.meetup.com/rladies-chicago/events/266616799/",
+    "featuredEventPhoto": {
+      "id": "486819206",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/9/2/6/highres_486819206.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/9/2/6/600_486819206.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/9/2/6/thumb_486819206.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 40,
+      "waitlistCount": 0,
+      "totalCount": 40
+    },
+    "venues": [
+      {
+        "id": "26540582",
+        "name": "Groupon Corporate Headquarters",
+        "address": "600 W Chicago Ave",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "us",
+        "lat": 41.8976,
+        "lon": -87.6437,
+        "postalCode": "60654",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Chicago",
+      "urlname": "rladies-chicago"
+    }
+  },
+  {
+    "id": "264585260",
+    "title": "R-Ladies Project Night on a Wednesday",
+    "description": "#TidyTuesday is a weekly social data project focused on using tidyverse packages to clean, wrangle, tidy, and plot a new dataset every Tuesday.\n\nWe will be using a dataset from the TidyTuedsay Github (https://github.com/rfordatascience/tidytuesday)\nthat has been tamed, but does not always adhere to “tidy” data principles. Our goal is to have you take a look at the raw data, and generate either a copy of the original plot or a novel take on the data! You can obviously use whatever techniques you feel are appropriate, but the data will be organized in a way that tidyverse tools will work well!\n\nSchedule\n6-6:30 -- Food and drinks, Intros & Announcements\n6:30-7:30 -- R TidyTuesday Project Night\n7:30-8:00-- Socializing/Networking/Hanging out/Chillin'\n\nQ: Are men welcome to attend this event?\nA: Our primary mission is to encourage more women and non-binary individuals to get involved in the R community. ***As such, we strongly encourage that all men who attend this event have a female or non-binary sponsor. Please contact chicago@rladies.org if you have questions.***\n\nAdditionally, please help us by spreading the word about R-Ladies, and by being respectful of the fact that this event is primarily for women/non-binary/female-identifying individuals.\n\n• What to bring\nYourself! And a laptop - this will be an interactive event.\n\n• Important to know\nWe expect all attendees to abide & be governed by our community code of conduct. Please take a moment to review our R-Ladies Global code of conduct (particularly if this is your first time attending!): https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\n• Thank you to our sponsors!\nWe are grateful to 8th Light for hosting us this month and providing food!!",
+    "status": "PAST",
+    "dateTime": "2019-11-06T18:00:00-06:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-chicago/events/264585260/",
+    "featuredEventPhoto": {
+      "id": "485558632",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/6/e/8/highres_485558632.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/6/e/8/600_485558632.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/6/e/8/thumb_485558632.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 27,
+      "waitlistCount": 0,
+      "totalCount": 27
+    },
+    "venues": [
+      {
+        "id": "26372252",
+        "name": "8th Light",
+        "address": "25 E Washington St #509",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "us",
+        "lat": 41.883,
+        "lon": -87.6268,
+        "postalCode": "60602",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Chicago",
+      "urlname": "rladies-chicago"
+    }
+  },
+  {
+    "id": "265379879",
+    "title": "Hacktoberfest: Hack or Treat!",
+    "description": "Celebrate Halloween with an R-Ladies Chicago Hacktoberfest!\n\n• What we'll do:\nWe'll contribute to open source projects on GitHub while snacking on fall-themed treats! Costumes are encouraged!\n\nWe'll open some issues in our organization repo (https://github.com/rladies-chicago). Complexity will range from *very* beginner-friendly to intermediate. We'll then work together to make some pull requests (PRs). We're open to any contributions: from fixing a typo on our website to adding a tutorial to our R-beginners repo!\n\nIf you are working on a project that you would like contributions to, let us know and we'll add it to our list!\n\nLearn more about DigitalOcean's global Hacktoberfest here: https://hacktoberfest.digitalocean.com/\n\n6:00-6:30 -- Food, Intros & Announcements\n6:30-7:35 -- Collaborative Coding Activity - Make some PRs!\n7:35-8:00 -- Socializing/Networking/Eating more treats!\n\nThere will be no formal technical talk at this meeting; rather, this is a time to network with fellow R-Ladies while doing a collaborative coding activity. This is part of our “social” Meetups, focused on networking and idea exchange.\n\n• Collaborative Coding:\nWe know the idea of coding with others can be daunting, but this is a safe space and everyone is welcome (even if you do not know how to use R yet). This will be a relaxed environment and a good chance to meet some of your fellow R-Ladies, so please do not feel like you do not know enough to join in.\n\n• What to bring:\nIf you can, bring a laptop and be ready to make some pull requests. Also:\n1) Make a GitHub account if you don't have one: https://github.com/\n2) Sign up for DigitalOcean's Hacktoberfest to track your PR contributions https://hacktoberfest.digitalocean.com/\n\nQ: Are men welcome to attend this event?\nA: Our primary mission is to encourage more women and non-binary individuals to get involved in the R community. ***As such, we strongly encourage that all men who attend this event have a female or non-binary sponsor. Please contact chicago@rladies.org if you have questions.***\n\nAdditionally, please help us by spreading the word about R-Ladies, and by being respectful of the fact that this event is primarily for women/non-binary/female-identifying individuals.\n\n• Important to know\nWe expect all attendees to abide & be governed by our community code of conduct. Please take a moment to review our R-Ladies Global code of conduct (particularly if this is your first time attending!): https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\n• Thank you to our sponsors, Microsoft Cloud Advocates and Strata Decision Technology!\nStrata is hiring! https://www.stratadecision.com/careers/\n\n**************************************************************************\nWhen confirming your attendance, you will be asked to provide the following info:\n1) Your full name as it appears on your state/government issued ID\n2) Your email\n3) If you do NOT identify as female or non-binary, please provide the name of your female or non-binary identifying sponsor.\n\nIMPORTANT:\n\nDue to Aon Center security policies, your RSVP name **MUST** match your name on your state/government issued ID. A mismatch between the two names will likely result in you being turned away from the event by Aon Center security. If your Meetup RSVP name does not match your government-issued ID, please navigate to our Eventbrite page for this event and RSVP with your legal name:\n\nhttps://www.eventbrite.co.uk/e/hacktoberfest-hack-or-treat-tickets-75332131433\n\nACCESSIBILITY:\n\nAon Center's chair-accessible entrance is at the North Upper Lobby entrance, which is the *middle set* of revolving doors found across the street from the CVS on Columbus Drive. These doors are ADA accessible and there is a button to make the revolving doors move slower. Once inside, you can check-in at the security desk on your left and take the first elevator bank on your left to floor 50.\n\nPARKING:\n\nSee photo below for Aon Center parking diagram.",
+    "status": "PAST",
+    "dateTime": "2019-10-29T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-chicago/events/265379879/",
+    "featuredEventPhoto": {
+      "id": "485438576",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/6/b/0/highres_485438576.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/6/b/0/600_485438576.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/6/b/0/thumb_485438576.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 58,
+      "waitlistCount": 0,
+      "totalCount": 58
+    },
+    "venues": [
+      {
+        "id": "26112691",
+        "name": "Strata Decision Technology",
+        "address": "200 E Randolph St",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "us",
+        "lat": 41.8853,
+        "lon": -87.6215,
+        "postalCode": "60601",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Chicago",
+      "urlname": "rladies-chicago"
+    }
+  },
+  {
+    "id": "264617746",
+    "title": "September Double Header: Connecting R/RMarkdown & Microsoft Word using StatTag",
+    "description": "**Note: This is one of two events happening this month for our Northside-Southside double header, one in Hyde Park on 9/24, and another in Evanston on 9/26. Choose one or attend both!**\n\nDr. Leah Welty will present: \"Collaborative Reproducibility: Connecting R/R Markdown and Microsoft Word using StatTag\"\n\nAlthough R Markdown can render documents to Microsoft Word, R/R Markdown users must sometimes transcribe statistical content in to separate Microsoft Word documents (e.g., documents drafted by colleagues in Word, or documents that must be prepared in Word), a process that is error prone, irreproducible, and inefficient. We will present StatTag (www.stattag.org), an open source, free, and user-friendly program we developed to address this problem. StatTag establishes a bi-directional link between R/RMarkdown files and a Word document, and supports a reproducible pipeline even when: (1) statistical results must be included and updated in Word documents that were never generated from Markdown; and (2) text in Word files generated from R/RMarkdown has departed substantially from original Markdown content, for example through tracked changes or comments. We will demonstrate how to use StatTag to connect R/RMarkdown and Word files so that all files can be edited separately, but statistical content –values, tables, figures, and verbatim output– can be updated automatically in Word. Using practical examples, we will also illustrate how to use StatTag to view, edit, and rerun R/RMarkdown code directly from Word. The talk will also include an overview of reproducible research in the collaborative research.\n\nAbout the Speaker\nLeah J. Welty, PhD is Professor in the Division of Biostatistics, Department of Preventive Medicine and in the Department of Psychiatry and Behavioral Sciences, Northwestern University Feinberg School of Medicine, and is the Director of the Biostatistics Collaboration Center within the Northwestern University Clinical and Translational Sciences Institute. She is also the Immediate Past President of the Association of Clinical and Translational Statisticians. She earned her PhD in statistics from the University of Chicago, and completed a postdoctoral fellowship in the Department of Biostatistics at Johns Hopkins University Bloomberg School of Public Health. Her research interests include longitudinal and multilevel models, psychiatric epidemiology, and the development of reproducible research tools for clinical and translational science. She is the lead biostatistician for the Northwestern Juvenile Project, a large-scale longitudinal study of psychiatric disorders and risky behaviors in delinquent youth. She has led the development of StatTag, a free, open-source program to support reproducible research in clinical and translational science.\n\nSchedule\n4:30-5pm - Food, Intros & Announcements\n5-6pm - StatTag\n6-6:30pm - Socializing/Networking\n\n**This event is child-friendly!\nWe realize this is an earlier start time than our normal events and strive to make it accessible to all. Any parents are welcome to bring their children. There will be a child-friendly activity at this event. Please email chicago@rladies.org if you have any questions.\n\nQ: Are men welcome to attend this event?\nA: Our primary mission is to encourage more women & non-binary individuals to get involved in the R community. **As such, we strongly encourage that all men who attend this event have a female or non-binary sponsor. Please contact chicago@rladies.org if you have questions.**\n\nAdditionally, please help us by spreading the word about R-Ladies, and by being respectful of the fact that this event is primarily for women/non-binary/female-identifying individuals.\n\n• Important to know\nWe expect all attendees to abide & be governed by our community code of conduct. Please take a moment to review our R-Ladies Global code of conduct (particularly if this is your first time attending!): https://github.com/rladies/starter-kit/wiki/Code-of-Conduct",
+    "status": "PAST",
+    "dateTime": "2019-09-26T16:30:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-chicago/events/264617746/",
+    "featuredEventPhoto": {
+      "id": "484641092",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/2/6/4/highres_484641092.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/2/6/4/600_484641092.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/2/6/4/thumb_484641092.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 38,
+      "waitlistCount": 0,
+      "totalCount": 38
+    },
+    "venues": [
+      {
+        "id": "26614131",
+        "name": "Mudd Library",
+        "address": "2233 Tech Dr",
+        "city": "Evanston",
+        "state": "IL",
+        "country": "us",
+        "lat": 42.0584,
+        "lon": -87.6744,
+        "postalCode": "60208",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Chicago",
+      "urlname": "rladies-chicago"
+    }
+  },
+  {
+    "id": "264595913",
+    "title": "September Double Header: Make a Personal Website with Blogdown in R",
+    "description": "**Note: This is one of two R-Ladies Chicago events happening this month for our Northside-Southside double header, one in Hyde Park on 9/24, and another in Evanston on 9/26. Choose one or attend both!**\n\nR-Ladies Board Member Angela Li will lead a workshop on setting up your first website with the blogdown R package. By the end of this workshop, you will learn to make a template website for your personal or academic pursuits!\n\n• Prerequisites\nWe ask that R-Ladies who are interested in this event please install R and RStudio ahead of time, as well as the \"blogdown\" package (details here: https://bookdown.org/yihui/blogdown/installation.html).\n\nAdditionally, if you have no background with Git or Github, we *strongly* recommend you take a look at modules 4-8 of the free Happy Git with R book (https://happygitwithr.com/github-acct.html) and follow the instructions to get yourself set up ahead of time to reduce pain the day of. If you need help with this, please come early so we can help you in person.\n\nThe Github repository for this event can be found here and will be updated with materials closer to the date of the event: https://github.com/rladies-chicago/2019-09-24-blogdown-workshop\n\n---------\nSchedule\n5:45-6 -- Installation help and R Tour for beginners\n6-6:30 -- Food and drinks, Intros & Announcements\n6:30-7:30 -- Blogdown workshop\n7:30-8:00-- Socializing/Networking/Hanging out/Chillin'\n\nQ: Are men welcome to attend this event?\nA: Our primary mission is to encourage more women and non-binary individuals to get involved in the R community. ***As such, we strongly encourage that all men who attend this event have a female or non-binary sponsor. Please contact chicago@rladies.org if you have questions.***\n\nAdditionally, please help us by spreading the word about R-Ladies, and by being respectful of the fact that this event is primarily for women/non-binary/female-identifying individuals.\n\n• What to bring\nA laptop! This will be an interactive workshop. Bring a friend or co-worker too!\n\n• Important to know\nWe expect all attendees to abide & be governed by our community code of conduct. Please take a moment to review our R-Ladies Global code of conduct (particularly if this is your first time attending!): https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\n• Thank you to our sponsors!\nWe are grateful to the Masters in Computer Science at the University of Chicago for hosting us.",
+    "status": "PAST",
+    "dateTime": "2019-09-24T17:45:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-chicago/events/264595913/",
+    "featuredEventPhoto": {
+      "id": "484624012",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/f/a/c/highres_484624012.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/f/a/c/600_484624012.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/f/a/c/thumb_484624012.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 50,
+      "waitlistCount": 0,
+      "totalCount": 50
+    },
+    "venues": [
+      {
+        "id": "26612684",
+        "name": "John Crerar Library",
+        "address": "5730 S Ellis Ave",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "us",
+        "lat": 41.7905,
+        "lon": -87.6029,
+        "postalCode": "60637",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Chicago",
+      "urlname": "rladies-chicago"
+    }
+  },
+  {
+    "id": "263406265",
+    "title": "Twitter Text Analysis with @WeAreRLadies ",
+    "description": "R-Ladies Board Member Katherine Simeon will give a talk on text analysis in R using a year's worth of @WeAreRLadies tweets!\n\n@WeAreRLadies (https://twitter.com/WeAreRLadies) is the rotating curation account (RoCur) for R-Ladies Global. Each week, an awesome R-Lady takes over the account to talk about their work and perspectives in R. Katherine is the founder and admin of the @WeAreRLadies Twitter account showcasing R-Ladies in statistics, data science, and more!\n\nSchedule\n6-6:30 -- Food and drinks, Intros & Announcements\n6:30-7:30 -- @WeAreRLadies Text Analysis\n7:30-8:00-- Socializing/Networking/Hanging out/Chillin'\n\nQ: Are men welcome to attend this event?\nA: Our primary mission is to encourage more women and non-binary individuals to get involved in the R community. ***As such, we strongly encourage that all men who attend this event have a female or non-binary sponsor. Please contact chicago@rladies.org if you have questions.***\n\nAdditionally, please help us by spreading the word about R-Ladies, and by being respectful of the fact that this event is primarily for women/non-binary/female-identifying individuals.\n\n• What to bring\nYourself! And maybe a laptop or mobile device -- live-tweeting is encouraged.\n\n• Important to know\nWe expect all attendees to abide & be governed by our community code of conduct. Please take a moment to review our R-Ladies Global code of conduct (particularly if this is your first time attending!): https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\n• Thank you to our sponsors!\nWe are grateful to Strata Decision Technology for hosting us this month!!\n\nStrata Decision Technology is hiring!\nCheck out their openings: https://www.stratadecision.com/careers/\n\nThank you to Microsoft Developer Advocates (https://developer.microsoft.com/en-us/advocates/index.html) and David Smith for sponsoring pizza for this event!\n\n**************************************************************************\n\nUPDATE: Due to Aon Center security policies, your RSVP name **MUST** match your name on your state/government issued ID. A mismatch between the two names will likely result in you being turned away from the event by Aon Center security. If your Meetup RSVP name does not match your government-issued ID, please navigate to our Eventbrite page for this event and RSVP with your name as it appears on your ID:\n\nhttps://www.eventbrite.co.uk/e/twitter-text-analysis-with-wearerladies-tickets-66757131377?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing\n\nThis will ensure a smooth check-in process. We deeply apologize and acknowledge the burden this leaves on those who do not go by their assigned name.",
+    "status": "PAST",
+    "dateTime": "2019-08-14T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-chicago/events/263406265/",
+    "featuredEventPhoto": {
+      "id": "483403132",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/8/7/c/highres_483403132.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/8/7/c/600_483403132.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/8/7/c/thumb_483403132.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 53,
+      "waitlistCount": 0,
+      "totalCount": 53
+    },
+    "venues": [
+      {
+        "id": "26112691",
+        "name": "Strata Decision Technology",
+        "address": "200 E Randolph St",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "us",
+        "lat": 41.8853,
+        "lon": -87.6215,
+        "postalCode": "60601",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Chicago",
+      "urlname": "rladies-chicago"
+    }
+  },
+  {
+    "id": "262406111",
+    "title": "Animation for Effective Data Visualization with R (Chicago Data Viz Community)",
+    "description": "Join us for an event with the Chicago Data Viz Community! This event is kindly hosted and sponsored by Enova.\n\n*****Agenda*****\n6:00 - 6:30: mingling and settling in; food and drinks provided by Enova.\n6:30 - 6:40: Announcements and introductions (and lightening talks?)\n6:40 - ~7:25: Stephanie Kirmer speaks\n~7:25 - 8:00: more mingling and food\n\n*****About the Talk*****\nAdding animation to graphs can make visualizations eye-catching and effective for transmitting complex information to audiences. In this talk, attendees will learn about using animation in data visualizations in R using ggplot2 and gganimate. Topics will include: how to choose when an animation might (or might not) be an appropriate option for your use case, ways to make sure your visualization still communicates clearly and succinctly when animated, and a hands-on walk-through of how to turn a not-so-great static visualization into a great animated plot. The gganimate package will be the key tool discussed, and some familiarity with ggplot2 is recommended but not required.\n\n*****About the Speaker*****\nStephanie Kirmer is a Senior Data Scientist at Journera, a company that helps the travel industry coordinate and manage customer data efficiently and securely, to improve traveler experiences. Previously she worked at Uptake, where she developed tools for analyzing fuel efficiency, and constructed predictive models for diagnosing and preventing mechanical failure. Before joining Uptake, she worked on data science for social policy research at the University of Chicago. Stephanie holds an MA in Sociology from Portland State University and an MA in Social and Cultural Foundations of Education from DePaul University.\n\n***** R- Ladies ***\nWe are a group of women and non-binary individuals who code with the programming language R and support each other on our learning journey.\n\nPlease help us by spreading the word about R-Ladies, and by being respectful of the fact that this event is primarily for women/non-binary/female-identifying individuals.\n\n• What to bring\nLaptop or notebook if you can! Wifi is available and live-tweeting is encouraged.\n\n• Important to know\nWe expect all attendees to abide & be governed by our community code of conduct. Please take a moment to review our R-Ladies Global code of conduct (particularly if this is your first time attending!): https://github.com/rladies/starter-kit/wiki/Code-of-Conduct",
+    "status": "PAST",
+    "dateTime": "2019-07-24T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-chicago/events/262406111/",
+    "featuredEventPhoto": {
+      "id": "482555230",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/9/9/e/highres_482555230.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/9/9/e/600_482555230.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/9/9/e/thumb_482555230.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 49,
+      "waitlistCount": 0,
+      "totalCount": 49
+    },
+    "venues": [
+      {
+        "id": "26075563",
+        "name": "Enova International",
+        "address": "175 W Jackson Blvd",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "us",
+        "lat": 41.8779,
+        "lon": -87.6333,
+        "postalCode": "60604",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Chicago",
+      "urlname": "rladies-chicago"
+    }
+  },
+  {
+    "id": "262209513",
+    "title": "Sip & Code: R-Ladies Chicago Summer Social (round 2!)",
+    "description": "Summer is finally here! Join R-Ladies Chicago to celebrate! We are a group of women and non-binary individuals who code with the programming language R and support each other on our learning journey.\n\n• What we'll do:\nWe'll be tasting and rating a few wines (and non-alcoholic drinks too!), analyzing the data from our ratings, and learning how to make a data visualization in R. Wine consumption is absolutely optional --we'll have non-alcoholic beverages & pizza too.\n\nThere will be no formal technical talk at this meeting; rather, this is a time to network with fellow R-Ladies while doing a collaborative coding activity. This is part of our “social” Meetups, focused on networking and idea exchange.\n\n• Collaborative Coding:\nWe know the idea of coding with others can be daunting, but this is a safe space and everyone is welcome (even if you do not know how to use R yet). This will be a relaxed environment and a good chance to meet some of your fellow R-Ladies, so please do not feel like you do not know enough to join in.\n\nSchedule:\n5:45-6:15 -- Food, Wine Tasting, Intros & Announcements\n6:10-7:15 -- Collaborative Coding Activity\n7:15-7:35 -- Groups will share what they did with the rest of the group (if they want to!)\n7:35-8:00 -- Socializing/Networking/Hanging out\n\nQ: Are men welcome to attend this event?\nA: Our primary mission is to encourage more women and non-binary individuals to get involved in the R community. ***As such, we strongly encourage that all men who attend this event have a female or non-binary sponsor. Please contact chicago@rladies.org if you have questions.***\n\nAdditionally, please help us by spreading the word about R-Ladies, and by being respectful of the fact that this event is primarily for women/non-binary/female-identifying individuals.\n\n• What to bring\nLaptop or notebook if you can! Wifi is available and live-tweeting is encouraged.\n\n• Important to know\nWe expect all attendees to abide & be governed by our community code of conduct. Please take a moment to review our R-Ladies Global code of conduct (particularly if this is your first time attending!): https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\n• Thank you to our sponsors!\nWeWork Info:\nWeWork provides small businesses, startups, freelancers, large enterprises, and everyone in between with the workspace, community, and services they need to make a life, not just a living. With weekly events, personalized support, month-to-month flexibility, and access to over 200,000 like-minded creators around the world, WeWork is the perfect place to grow your business. Book your tour here! https://www.wework.com/l/chicago--IL?utm_campaign=CHI-2018-04-26-18-RLadies&utm_medium=page&utm_source=wework\n\nThank you to Microsoft Developer Advocates (https://developer.microsoft.com/en-us/advocates/index.html) and David Smith for sponsoring pizza for this event!",
+    "status": "PAST",
+    "dateTime": "2019-06-26T17:45:00-05:00",
+    "duration": "PT2H15M",
+    "eventUrl": "https://www.meetup.com/rladies-chicago/events/262209513/",
+    "featuredEventPhoto": {
+      "id": "482137523",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/2/9/3/highres_482137523.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/2/9/3/600_482137523.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/2/9/3/thumb_482137523.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 62,
+      "waitlistCount": 0,
+      "totalCount": 62
+    },
+    "venues": [
+      {
+        "id": "26025473",
+        "name": "WeWork 111 W Illinois St",
+        "address": "111 W Illinois St",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "us",
+        "lat": 41.8907,
+        "lon": -87.6317,
+        "postalCode": "60654",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Chicago",
+      "urlname": "rladies-chicago"
+    }
+  },
+  {
+    "id": "260704989",
+    "title": "Post-SatRday Chicago R-Ladies Meetup!",
+    "description": "Meet up with R-Ladies Chicago after Chicago's first one-day R conference happening at the end of April, SatRday Chicago!\n\nWe'll be meeting up at the post-conference happy hour at Roosevelt University. R-Ladies from out of town will be at the event, and we'd like to welcome them :)\n\nAttendance at the conference is not required for *female and non-binary individuals* to join R-Ladies at the happy hour. We encourage our male allies to buy a ticket and attend the conference! Tickets are cheap - $50 for professionals, $25 for students, and the event will feature over 35 speakers (!) and food.\n\nIf you're looking for a day of R learning and networking, check out the schedule and get a ticket to SatRday Chicago here: https://chicago2019.satrdays.org/",
+    "status": "PAST",
+    "dateTime": "2019-04-27T17:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-chicago/events/260704989/",
+    "featuredEventPhoto": {
+      "id": "480516841",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/f/e/9/highres_480516841.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/f/e/9/600_480516841.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/f/e/9/thumb_480516841.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 25,
+      "waitlistCount": 0,
+      "totalCount": 25
+    },
+    "venues": [
+      {
+        "id": "26203585",
+        "name": "Roosevelt University",
+        "address": "430 S Michigan Ave",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "us",
+        "lat": 41.8763,
+        "lon": -87.6251,
+        "postalCode": "60605",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Chicago",
+      "urlname": "rladies-chicago"
+    }
+  },
+  {
+    "id": "260316086",
+    "title": "Data Visualization with Maps Shiny Workshop",
+    "description": "Learn how to make your first Shiny app with spatial data! We'll build a simple interactive map application and teach you how to use Shiny apps to interpret and visualize your data.\n\n• What you'll learn:\n\n- Why build a Shiny app?\n- How a Shiny app is structured\n- How to incorporate interactivity in your Shiny app\n- How to deploy your Shiny app\n\n• Prerequisites:\n\n-William Blair has a strict firewall, so please follow the instructions here prior to the Meetup so that you are able to get the most out of this workshop: https://github.com/rladies-chicago/2019-04-18-shiny-workshop/blob/master/README.md\n\n-If your Meetup profile does not include your first name, please email chicago@rladies.org with the subject line \"Name for 4/18 Meetup\" and your name in the body of the email so we can make sure you are on the list of approved guests.\n\nSchedule:\n5:45-6 -- R tour for beginners; sign up here: https://tinyurl.com/rladiestour\n6-6:30 -- Food, Intros & Announcements\n6:30-7:30 -- Shiny workshop\n7:30-8:00 -- Socializing/Networking/Hanging out\n\nQ: Are men welcome to attend this event?\nA: Our primary mission is to encourage more women and non-binary individuals to get involved in the R community. ***As such, we strongly encourage that all men who attend this event have a female or non-binary sponsor. Please contact chicago@rladies.org if you have questions.***\n\nAdditionally, please help us by spreading the word about R-Ladies, and by being respectful of the fact that this event is primarily for women/non-binary/female-identifying individuals.\n\nThank you to William Blair for hosting us and providing food!\n\n• What to bring\nLaptop or notebook if you can! Wifi is available and live-tweeting is encouraged.\n\n• Important to know\nWe expect all attendees to abide & be governed by our community code of conduct. Please take a moment to review our R-Ladies Global code of conduct (particularly if this is your first time attending!): https://github.com/rladies/starter-kit/wiki/Code-of-Conduct",
+    "status": "PAST",
+    "dateTime": "2019-04-18T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-chicago/events/260316086/",
+    "featuredEventPhoto": {
+      "id": "480121280",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/0/0/highres_480121280.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/0/0/600_480121280.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/0/0/thumb_480121280.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 54,
+      "waitlistCount": 0,
+      "totalCount": 54
+    },
+    "venues": [
+      {
+        "id": "26299138",
+        "name": "William Blair",
+        "address": "150 N Riverside Plaza",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "us",
+        "lat": 41.8849,
+        "lon": -87.6386,
+        "postalCode": "60606",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Chicago",
+      "urlname": "rladies-chicago"
+    }
+  },
+  {
+    "id": "259138419",
+    "title": "R-Ladies Chicago welcomes Mara Averick: Sustainers of the Tidyverse",
+    "description": "Join us in welcoming tidyverse developer advocate and Twitter #rstats star Mara Averick!\n\n• What we'll do:\n\nSchedule:\n5:45-6 -- R tour for beginners; sign up here: https://tinyurl.com/rladiestour\n6-6:30 -- Food, Intros & Announcements\n6:30-7:10 -- Talk by Mara\n7:10-8:00 -- Socializing/Networking/Hanging out\n\nBio: Mara Averick is the tidyverse developer advocate at RStudio. She got into R by way of a long-time love for the NBA and (fantasy) basketball. When not catering to the every whim of her dogs, she can be found: perusing weird words; indulging her bibliomania; and/or watching, quantifying, and visualizing Archer.\n\nTopic: Sustainers of the Tidyverse\nAbstract: If a piece of open-source software is to survive its own success, it must have a healthy community of active contributors. The tidyverse, a collection of R packages for data science with a shared underlying design philosophy, has become popular in no small part because of its usability among those who do not consider themselves to be “programmers.” However, this active base of non-developer users has been a fruitful source of contributions as we’ve sought to highlight aspects of contributing to open source beyond committing lines of code. This talk will cover the technical tools, virtual spaces, and social norms that have enabled and empowered community contributions.\n\nFind Mara on Twitter: https://twitter.com/dataandme\n\nQ: Are men welcome to attend this event?\nA: Our primary mission is to encourage more women and non-binary individuals to get involved in the R community. ***As such, we strongly encourage that all men who attend this event have a female or non-binary sponsor, as spots may be limited. Please contact chicago@rladies.org if you have questions.***\n\nAdditionally, please help us by spreading the word about R-Ladies, and by being respectful of the fact that this event is primarily for women/non-binary/female-identifying individuals.\n\nThank you to Uptake for hosting us!\n\n• What to bring\nLaptop or notebook if you can! Wifi is available and live-tweeting is encouraged.\n\n• Important to know\nWe expect all attendees to abide & be governed by our community code of conduct. Please take a moment to review our R-Ladies Global code of conduct (particularly if this is your first time attending!): https://github.com/rladies/starter-kit/wiki/Code-of-Conduct",
+    "status": "PAST",
+    "dateTime": "2019-03-26T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-chicago/events/259138419/",
+    "featuredEventPhoto": {
+      "id": "479050610",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/9/7/2/highres_479050610.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/9/7/2/600_479050610.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/9/7/2/thumb_479050610.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 71,
+      "waitlistCount": 0,
+      "totalCount": 71
+    },
+    "venues": [
+      {
+        "id": "25941501",
+        "name": "Uptake",
+        "address": "600 W Chicago Ave 2nd floor",
+        "city": "Chicago",
+        "state": "il",
+        "country": "us",
+        "lat": 41.8976,
+        "lon": -87.6434,
+        "postalCode": "60654",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Chicago",
+      "urlname": "rladies-chicago"
+    }
+  },
+  {
+    "id": "258562339",
+    "title": "Galentine's Day Social and Networking!",
+    "description": "Celebrate your gal pals with R-Ladies Chicago! We'll be socializing and networking at Motor Row Brewing for our February Meetup. There may or may not be R-Ladies-themed desserts...\n\nThis event takes place right before our Women's Package Development Workshop (https://forwards.github.io/edu/chicago/) on February 23, so this is a great opportunity to meet and network with R-Ladies from across the US. Please join us in welcoming fellow female and non-binary R users to Chicago!\n\nThis casual get-together is open to any **female or non-binary** individuals, regardless if you are attending the women's package workshop. Note that this is not a structured event, but a time to socialize with fellow R-Ladies.\n\nThe venue is pet-friendly, and while it does not have a kitchen, is BYOF (bring your own food - we may order a pizza or two to the venue http://www.motorrowbrewing.com/byof/).\n\nHappy Galentine's Day from R-Ladies Chicago!",
+    "status": "PAST",
+    "dateTime": "2019-02-22T18:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-chicago/events/258562339/",
+    "featuredEventPhoto": {
+      "id": "478600100",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/c/a/4/highres_478600100.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/c/a/4/600_478600100.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/c/a/4/thumb_478600100.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 30,
+      "waitlistCount": 0,
+      "totalCount": 30
+    },
+    "venues": [
+      {
+        "id": "26059119",
+        "name": "Venue OverDrive",
+        "address": "2337 S Michigan Ave",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "us",
+        "lat": 41.8499,
+        "lon": -87.6233,
+        "postalCode": "60616",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Chicago",
+      "urlname": "rladies-chicago"
+    }
+  },
+  {
+    "id": "257346957",
+    "title": "What We Learned at rstudio::conf 2019: Lightning Talks!",
+    "description": "Start 2019 the right way! Hear about different topics from rstudio::conf(2019).\n\n• What we'll do:\nWe’ll be recapping rstudio::conf, an annual conference about all things R and RStudio! Each of our co-organizers attending the conference will give a lightning talk on a cool topic or tool they learned about at the conference. Get ready to learn about cutting-edge tools and new ways to make R work better for you.\n\nIf you're attending rstudio::conf and would like to give a lightning talk, please email us at chicago [at] rladies.org.\n\nSchedule:\n5:45-6 -- R tour for beginners; sign up here: https://tinyurl.com/rladiestour\n6-6:30 -- Food, Intros & Announcements\n6:30-7:30 -- Lightning talks\n7:30-8:00 -- Socializing/Networking/Hanging out\n\n⚡️rstudioconf Lightning Talk Topics!!\n👥Deep Learning - Caroline Williams\n🗄File Structure & File System Operation - Amy Yang\n🌟Shiny - Natalie Jorion\n📗Reproducible Research - Katherine Simeon\n💻Base R vs. the Tidyverse - Ola Giwa\n🛠Tidyverse Developer Day & Contributing to open source - Angela Li\n\nQ: Are men welcome to attend R-Ladies events?\nA: Yes, men are welcome at this event - however, our primary mission is to encourage more women and non-binary individuals to get involved in the R community. Please help us by spreading the word about R-Ladies, and by being respectful of the fact that this event is primarily for women/non-binary/female-identifying individuals.\n\nThank you to WeWork for hosting us and Microsoft Developer Advocates (https://developer.microsoft.com/en-us/advocates/index.html) and David Smith for sponsoring pizza for this event!\n\n• What to bring\nLaptop or notebook if you can! Wifi is available and live-tweeting is encouraged.\n\n• Important to know\nWe expect all attendees to abide & be governed by our community code of conduct. Please take a moment to review our R-Ladies Global code of conduct (particularly if this is your first time attending!): https://github.com/rladies/starter-kit/wiki/Code-of-Conduct.",
+    "status": "PAST",
+    "dateTime": "2019-01-28T17:45:00-06:00",
+    "duration": "PT2H15M",
+    "eventUrl": "https://www.meetup.com/rladies-chicago/events/257346957/",
+    "featuredEventPhoto": {
+      "id": "477219042",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/8/8/2/highres_477219042.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/8/8/2/600_477219042.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/8/8/2/thumb_477219042.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 69,
+      "waitlistCount": 0,
+      "totalCount": 69
+    },
+    "venues": [
+      {
+        "id": "26020997",
+        "name": "WeWork Office Space & Coworking",
+        "address": "20 W Kinzie St",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "us",
+        "lat": 41.8895,
+        "lon": -87.6289,
+        "postalCode": "60654",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Chicago",
+      "urlname": "rladies-chicago"
+    }
+  },
+  {
+    "id": "273650234",
+    "title": "InspiRing InstRuction: A panel on teaching #rstats for all audiences",
+    "description": "Someone in your department, company, or class comes to you and says: \"I want to learn R; where do I start?\" Or, \"how do I take my R skills to the next level?\"\n\nCome hear from 3 R-Ladies on how to make R pedagogy work for different groups of people! :-)\n\nR-Ladies Chicago and R-Ladies East Lansing will be a hosting a joint November virtual meetup featuring 3 panelists:\n\n**Alison Hill** is a Data Scientist & Professional Educator at RStudio. Prior to joining RStudio, Dr. Hill was an Associate Professor and Center Assistant Director at Oregon Health & Science University in Portland, Oregon, where she was an NIH-funded Principal Investigator. Her work has been published in Pediatrics, Autism Research, and other peer-reviewed journals. She has developed and taught several advanced courses and workshops on data visualization and communicating with data. Dr. Hill is also an international keynote speaker, award-winning educator, and co-author of the book blogdown: Creating Websites with R Markdown.\n\n**Marynia Kolak** is an Assistant Director of Health Informatics at the Center for Spatial Data Science at University of Chicago, where she also teaches full time as a Lecturer in Geographic Information Science. Dr. Kolak is interested in Social Determinants of Health (SDOH) and using open science tools as an exploratory data analytic approach to investigate issues of equity across space and time.\n\n**Katie Fitzgerald** is a PhD Candidate in Statistics at Northwestern University. Her research is in statistical methods for social policy, including work in meta-analysis, data visualization, and statistical cognition. She is passionate about statistics education and pedagogy and is pursuing a career at a liberal arts university. When she's not doing statistics, you can find her at Northwestern’s gorgeous lakefront, biking, hammocking, reading, or indulging in good food.\n\nSchedule for 11/12:\n\n6:00-6:10 Meet and Greet!\n6:10-6:25 Introduction from the panelists\n6:25-6:50 Moderated panel\n6:50-7:00 Questions from the audience",
+    "status": "PAST",
+    "dateTime": "2020-11-12T18:00:00-06:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-chicago/events/273650234/",
+    "featuredEventPhoto": {
+      "id": "492694549",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/6/f/5/highres_492694549.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/6/f/5/600_492694549.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/6/f/5/thumb_492694549.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 89,
+      "waitlistCount": 0,
+      "totalCount": 89
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Chicago",
+      "urlname": "rladies-chicago"
+    }
+  },
+  {
+    "id": "273810238",
+    "title": "rOpenSci - open tools for open science",
+    "description": "Learn about the rOpenSci community effort to foster open R software and transparent research practices among users and developers. You’ll also learn about the rOpenSci process of package peer-review and learn tips for getting your own R package ready for peer-review.\n\nTentative Agenda (in EST)\n=====================\n3:30: Welcome & Introductions\n3:35: What is rOpenSci & how to contribute?\n4:00: rOpenSci package peer- review process\n4:40: Networking\n5:00: Wrap up\n\nRegistration\n====================\nCompletion of the google form below is REQUIRED to receive zoom link by email: https://forms.gle/729JWJNG9urH5gNt5\n\nSpeakers\n==============\nStefanie Butland, rOpenSci Community Manager\nMeetup sponsor: Department of Computational Mathematics, Science & Engineering, Michigan State University.\n\n** Questions? Find us on slack: rladies-eastlansing.slack.com OR\n** Email us: eastlansing@rladies.org",
+    "status": "PAST",
+    "dateTime": "2020-10-22T14:30:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-chicago/events/273810238/",
+    "featuredEventPhoto": {
+      "id": "492881582",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/2/6/e/highres_492881582.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/2/6/e/600_492881582.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/2/6/e/thumb_492881582.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 33,
+      "waitlistCount": 0,
+      "totalCount": 33
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Chicago",
+      "urlname": "rladies-chicago"
+    }
+  },
+  {
+    "id": "272755101",
+    "title": "An Antarctic Tour of the Tidyverse",
+    "description": "Learn how to explore and manipulate data in R with packages from the Tidyverse. We'll introduce the 8 core packages (https://www.tidyverse.org/packages/) that make up the Tidyverse and use at least one function from each package while exploring a dataset on the migration of penguins.\n\nInformation about the Speaker:\n\nDr. Silvia Canelón is a postdoctoral research scientist in biomedical informatics at the University of Pennsylvania in Philadelphia. She uses data science in the public and population health fields and is particularly interested in leveraging electronic health record data to study reproductive health outcomes. Silvia is formally trained as a biomedical engineer and holds her bachelor’s degree from the University of Minnesota and her doctoral degree from Purdue University. She loves community organizing and is currently pursuing the RStudio Instructor Certification as a way to help build power in her communities. Website: https://silvia.rbind.io/\n\nLocation:\nZoom link will be emailed a day before the event.\n\n*Prerequisites:\nWe ask that R-Ladies who are interested in this event please sign up for a free R Studio Cloud account. This will be the easiest route to follow along with the workshop.\n\n- https://rstudio.cloud/\n\nYou can also follow along on your own computer as well. Note that help will be limited if you run into issues.\n\nInstall the following if you would rather follow along on your local computer.:\n\n- R:\nhttps://www.r-project.org/\n\n- R Studio:\nhttps://rstudio.com/products/rstudio/download/\n\nSkill Level:\nNone. All levels are welcomed.\n\n--------- Schedule ---------\n\n5:40 - 6:00 -- Networking and Technical help\n6:10 - 6:20 -- Announcements and Introduction\n6:30 - 7:35 -- Dr. Silvia Canelón: An Antarctic Tour of the Tidyverse\n7:35 - 7:45 -- QAs and Goodbyes\n\n---------------------------------\n\nQ: Are men welcome to attend this event?\nA: Our primary mission is to encourage more women and non-binary individuals to get involved in the R community. ***As such, we strongly encourage that all men who attend this event have a female or non-binary sponsor. Please contact chicago@rladies.org if you have questions.***\n\nAdditionally, please help us by spreading the word about R-Ladies, and by being respectful of the fact that this event is primarily for women/non-binary/female-identifying individuals.\n\n• Important to know\nWe expect all attendees to abide & be governed by our community code of conduct. Please take a moment to review our R-Ladies Global code of conduct (particularly if this is your first time attending!): https://github.com/rladies/starter-kit/wiki/Code-of-Conduct",
+    "status": "PAST",
+    "dateTime": "2020-08-31T17:40:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-chicago/events/272755101/",
+    "featuredEventPhoto": {
+      "id": "491996940",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/e/6/c/highres_491996940.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/e/6/c/600_491996940.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/e/6/c/thumb_491996940.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 71,
+      "waitlistCount": 0,
+      "totalCount": 71
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Chicago",
+      "urlname": "rladies-chicago"
+    }
+  },
+  {
+    "id": "270835101",
+    "title": "Post-SatRday Chicago R-Ladies Meetup!",
+    "description": "R-Ladies Chicago will be hosting a virtual social Meetup following the free virtual SatRday Chicago conference this upcoming Saturday!\n\nBoth events are open to all R-Ladies. You do not have to attend SatRday Chicago to attend this Meetup, but we encourage you to join the conference as it is free and several R-Ladies are speaking!\n\nYou will receive information on accessing this Meetup virtually when you RSVP to this event.\n\n--------------\n\nRegister for FREE for satRday Chicago: https://chicago2020.satrdays.org\n\nSatRDays are community-led, regional conferences to support collaboration, networking and innovation within the R community. Events are organized by and for the local R community - we have sister events in DC, Los Angeles, Paris, Johannesburg, and more! Check out https://chicago2020.satrdays.org for more information about this specific conference, and see https://chicago2019.satrdays.org for details about last year's conference.\n\nThis year's satRday Chicago will be raising money for the Greater Chicago Food Depository. You can donate here: https://www.myfooddrive.org/drive.php?satrday-chicago-2020\n\nPlease contact us at satrday.chicago@gmail.com with any questions or concerns.\n\n--------------\n\nCODE OF CONDUCT\nhttps://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\n• The mission of R-Ladies is to achieve proportionate representation by encouraging, inspiring, and empowering people of genders currently underrepresented in the R community.\n\n• We are emphatically queer and trans-friendly.",
+    "status": "PAST",
+    "dateTime": "2020-05-30T16:15:00-05:00",
+    "duration": "PT45M",
+    "eventUrl": "https://www.meetup.com/rladies-chicago/events/270835101/",
+    "featuredEventPhoto": {
+      "id": "490544485",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/d/c/5/highres_490544485.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/d/c/5/600_490544485.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/d/c/5/thumb_490544485.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 22,
+      "waitlistCount": 0,
+      "totalCount": 22
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": 41.8763,
+        "lon": -87.6251,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Chicago",
+      "urlname": "rladies-chicago"
+    }
+  },
+  {
+    "id": "269909895",
+    "title": "Learning & Community Building in Data Science: Conference Talks!",
+    "description": "R-Ladies organizers Angela and Katherine will each present talks on community building and teaching in the context of data science. Please join us!\n\nThese talks are a preview of Angela and Katherine's upcoming presentations at csv,conf,v5. Please join us to discuss these topics and let us know what you are interested in learning more about!\n\ncsv,conf,v5 is a community driven data conference on May 13 & 14. It is an event that's not literally about the CSV file format, but rather about what CSV represents to our wider community ideals (data interoperability, hackability, simplicity, etc.). Due to COVID-19, the conference is now 100% virtual and open to all. Find more information about csv,conf here: https://csvconf.com/\n\nAfter you RSVP, you will be provided the Zoom link to go to in order to attend this event.\n\n--------- Talk Abstracts ---------\n\nData Communities and Those Who Build Them\nAngela Li\n\nIn order to support the use of data in various contexts, it is important to have champions who demonstrate the value of tools, shepherd new users, and provide support to those learning to use data. In this talk, I’ll cover my experiences with data community building and share strategies from open source communities such as R-Ladies and The Carpentries, as well as the spatial data science community I support at my research center. I’ll discuss the value of the data community builder and their role within / outside of institutions for encouraging uptake of technical tools. Some of the skills needed for these roles may not be what you think: building relationships, being empathetic toward use cases (and users!), organizing events, teaching effectively, and setting strategy for expanding data networks, among others.\n\nLearner-centered teaching for the non-traditional data science classroom\nKatherine Simeon (with Diya Das & Angela Li)\n\nThere is considerable variability in how individuals learn computing skills. While many formal courses, both online and in-person, are available to learners, typical methods of learning are acquiring knowledge on-the-job and participating in short-term workshops. While these non-traditional contexts are highly successful, instructors are challenged to capitalize on a limited amount of time and resources, while catering to learners of different backgrounds and experience levels. In this talk, we will discuss how pedagogic research can be applied to computing & programming education in non-traditional settings (e.g., corporate training, 1-day workshops, and one-on-one mentorship). Specifically, we will explore how to modify established learning formats in order to address specific needs of learners. Finally, we will outline best practices to facilitate a collaborative and inclusive learning environment that can motivate both instructors and learners.\n\n--------- Schedule ---------\n\n6:00 - 6:10 -- Announcements & Intros\n6:10 - 6:30 -- Angela's Talk on Data Science Communities\n6:35 - 6:55 -- Katherine's Talk on Learner-Centered Teaching\n\n---------------------------------\n\nQ: Are men welcome to attend this event?\nA: Our primary mission is to encourage more women and non-binary individuals to get involved in the R community. ***As such, we strongly encourage that all men who attend this event have a female or non-binary sponsor. Please contact chicago@rladies.org if you have questions.***\n\nAs with our in-person meetings, we expect all attendees to abide & be governed by our community code of conduct. Please take a moment to review our R-Ladies Global code of conduct (particularly if this is your first time attending!): https://github.com/rladies/starter-kit/wiki/Code-of-Conduct",
+    "status": "PAST",
+    "dateTime": "2020-05-05T18:00:00-05:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-chicago/events/269909895/",
+    "featuredEventPhoto": {
+      "id": "490076305",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/b/f/1/highres_490076305.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/b/f/1/600_490076305.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/b/f/1/thumb_490076305.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 59,
+      "waitlistCount": 0,
+      "totalCount": 59
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Chicago",
+      "urlname": "rladies-chicago"
+    }
+  },
+  {
+    "id": "269399411",
+    "title": "Join our team! - Virtual Information Session",
+    "description": "As the summer approaches, we are looking for new people to join the R-Ladies Chicago Board/Organizing Team!\n\nThis meeting will be a brief info session that will go over the expected time commitment and responsibilities of a board member and next steps about how to get involved. Additionally, we will have time to take questions as well as suggestions for future meetings. Please feel free to attend and provide your feedback, even if you may not be interested in joining us as an organizer.\n\nWe realize this is a challenging time as the Chicago area (and the world) faces COVID-19. This meeting is VIRTUAL and will be hosted via Zoom, a video conference platform. See info to join below.\n\nIf you are interested in joining the board and are unable to attend this meeting, please reach out on Slack or via email (chicago@rladies.org). We would love to talk more with you!\n\n---------\nSchedule\n6:00 - 6:30 -- Overview of Board Member Expectations, Timeline for Transition\n6:30 - 6:50 -- Q&A and Brainstorming of Future Events\n---------\n\nAs with our in-person meetings, we expect all attendees to abide & be governed by our community code of conduct. Please take a moment to review our R-Ladies Global code of conduct (particularly if this is your first time attending!): https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\n---------\n\nPlease use the information below to join the meeting:\n\nJoin Zoom Meeting\nhttps://uchicagogroup.zoom.us/j/126692533\n\nMeeting ID: 126 692 533\n\nOne tap mobile\n+16465588656,,126692533# US (New York)\n+16699009128,,126692533# US (San Jose)\n\nDial by your location\n+1 646 558 8656 US (New York)\n+1 669 900 9128 US (San Jose)\n888 475 4499 US Toll-free\n877 853 5257 US Toll-free\n\nMeeting ID: 126 692 533\n\nFind your local number: https://uchicagogroup.zoom.us/u/ai85boZWm\n\nJoin by SIP\n126692533@zoomcrc.com\n\nJoin by H.323\n162.255.37.11 (US West)\n162.255.36.11 (US East)\n221.122.88.195 (China)\n115.114.131.7 (India Mumbai)\n115.114.115.7 (India Hyderabad)\n213.19.144.110 (EMEA)\n103.122.166.55 (Australia)\n209.9.211.110 (Hong Kong)\n64.211.144.160 (Brazil)\n69.174.57.160 (Canada)\n207.226.132.110 (Japan)\n\nMeeting ID: 126 692 533",
+    "status": "PAST",
+    "dateTime": "2020-03-18T18:00:00-05:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-chicago/events/269399411/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 16,
+      "waitlistCount": 0,
+      "totalCount": 16
+    },
+    "venues": [],
+    "group": {
+      "name": "R-Ladies Chicago",
+      "urlname": "rladies-chicago"
+    }
+  },
+  {
+    "id": "269010701",
+    "title": "Career Series Part II: Our Best Resource is Each Other, A Q&A Panel",
+    "description": "R-Ladies Chicago is proud to host the next segment in our three-part Career Series! Join us on Wednesday, March 18 at Groupon for a Q&A panel discussion! We are happy to welcome our own co-organizer Kristi Angel as well as Ging Cee Ng and Christina Maimone to participate in a Q&A discussion on their data science experience in experimentation, industry, and academia respectively. This panel will be moderated by co-organizer Scarlett Winters, and guests will have the opportunity to submit questions in real time. Don't miss this great opportunity to learn from three data scientists across disciplines and build your network along the way.\n\n---------\nSchedule\n6:00 - 6:30 -- Getting settled in, food and drinks\n6:30 - 6:45 -- Intros & Announcements\n6:45 - 7:30 -- Panel Discussion\n7:30 - 8:00 -- Socializing/Networking/Hanging out/Chillin'\n---------\n\nQ: Are men welcome to attend this event?\nA: Our primary mission is to encourage more women and non-binary individuals to get involved in the R community. ***As such, we strongly encourage that all men who attend this event have a female or non-binary sponsor. Please contact chicago@rladies.org if you have questions.***\n\nAdditionally, please help us by spreading the word about R-Ladies, and by being respectful of the fact that this event is primarily for women/non-binary/female-identifying individuals.\n\n• What to bring\nA laptop! Bring a friend or co-worker too!\n\n• Important to know\n\n- Please include your last name in your Meetup profile if you haven't, or include it in the RSVP question to ensure secured entry into the Groupon building!\n\n- We expect all attendees to abide & be governed by our community code of conduct. Please take a moment to review our R-Ladies Global code of conduct (particularly if this is your first time attending!): https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nThank you to Groupon for sponsoring us!",
+    "status": "CANCELLED",
+    "dateTime": "2020-03-18T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-chicago/events/269010701/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 32,
+      "waitlistCount": 0,
+      "totalCount": 32
+    },
+    "venues": [
+      {
+        "id": "26540582",
+        "name": "Groupon Corporate Headquarters",
+        "address": "600 W Chicago Ave",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "us",
+        "lat": 41.8976,
+        "lon": -87.6437,
+        "postalCode": "60654",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Chicago",
+      "urlname": "rladies-chicago"
+    }
+  },
+  {
+    "id": "268252477",
+    "title": "Career Series Part 1: Using R to Land the Job, a Resume Building Tutorial",
+    "description": "Welcome to the kick-off of our three-part career series! Over the next three months, we will host events to further develop your skillset and data science network.\n\nWhether or not you're on the job hunt, your resume is an extension of your professional self, so it is important to keep your resume fresh. For our kick-off, our co-organizer Scarlett Winters will lead a tutorial on how to build your resume using pagedown. You will walk away from this tutorial with the skills to prove to employers you know how to code in R well before your interview!\n\n*Prerequisites:\nWe ask that R-Ladies who are interested in this event please install:\n- R:\nhttps://www.r-project.org/\n\n- R Studio:\nhttps://rstudio.com/products/rstudio/download/\n\n- Pagedown package, information found here: https://github.com/rstudio/pagedown\nhttps://pagedown.rbind.io/\n\nAdditionally, if you have no background with Git or Github, we *strongly* recommend you take a look at modules 4-8 of the free Happy Git with R book (https://happygitwithr.com/github-acct.html) and follow the instructions to get yourself set up ahead of time to reduce pain the day of. If you need help with this, please come early so we can help you in person.\n\nThe repo for this event can be found here, and will be updated with more information as we get closer to the event date:\nhttps://github.com/rladies-chicago/2020-02-26-pagedown-tutorial\n\n---------\nSchedule\n6:00 - 6:30 -- Getting settled in, food and drinks\n6:30 - 6:45 -- Intros & Announcements\n6:45 - 7:30 -- Pagedown Tutorial\n7:30 - 8:00 -- Socializing/Networking/Hanging out/Chillin'\n---------\n\nQ: Are men welcome to attend this event?\nA: Our primary mission is to encourage more women and non-binary individuals to get involved in the R community. ***As such, we strongly encourage that all men who attend this event have a female or non-binary sponsor. Please contact chicago@rladies.org if you have questions.***\n\nAdditionally, please help us by spreading the word about R-Ladies, and by being respectful of the fact that this event is primarily for women/non-binary/female-identifying individuals.\n\n• What to bring\nA laptop! Bring a friend or co-worker too!\n\n• Important to know\nWe expect all attendees to abide & be governed by our community code of conduct. Please take a moment to review our R-Ladies Global code of conduct (particularly if this is your first time attending!): https://github.com/rladies/starter-kit/wiki/Code-of-Conduct",
+    "status": "PAST",
+    "dateTime": "2020-02-26T18:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-chicago/events/268252477/",
+    "featuredEventPhoto": {
+      "id": "488739465",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/a/2/9/highres_488739465.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/a/2/9/600_488739465.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/a/2/9/thumb_488739465.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 49,
+      "waitlistCount": 0,
+      "totalCount": 49
+    },
+    "venues": [
+      {
+        "id": "26540582",
+        "name": "Groupon Corporate Headquarters",
+        "address": "600 W Chicago Ave",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "us",
+        "lat": 41.8976,
+        "lon": -87.6437,
+        "postalCode": "60654",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Chicago",
+      "urlname": "rladies-chicago"
+    }
+  },
+  {
+    "id": "267893914",
+    "title": "R-Ladies Project Night ",
+    "description": "#TidyTuesday is a weekly social data project focused on using tidyverse packages to clean, wrangle, tidy, and plot a new dataset every Tuesday.\n\nWe will be using a dataset from the TidyTuedsay Github (https://github.com/rfordatascience/tidytuesday)\nthat has been tamed, but does not always adhere to “tidy” data principles. Our goal is to have you take a look at the raw data, and generate either a copy of the original plot or a novel take on the data! You can obviously use whatever techniques you feel are appropriate, but the data will be organized in a way that tidyverse tools will work well!\n\nSchedule\n6-6:30 -- Food and drinks, Intros & Announcements\n6:30-7:30 -- R TidyTuesday Project Night\n7:30-8:00-- Socializing/Networking/Hanging out/Chillin'\n\nQ: Are men welcome to attend this event?\nA: Our primary mission is to encourage more women and non-binary individuals to get involved in the R community. ***As such, we strongly encourage that all men who attend this event have a female or non-binary sponsor. Please contact chicago@rladies.org if you have questions.***\n\nAdditionally, please help us by spreading the word about R-Ladies, and by being respectful of the fact that this event is primarily for women/non-binary/female-identifying individuals.\n\n• What to bring\nYourself! And a laptop - this will be an interactive event.\n\n• Important to know\nWe expect all attendees to abide & be governed by our community code of conduct. Please take a moment to review our R-Ladies Global code of conduct (particularly if this is your first time attending!): https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\n• Thank you to our sponsors!\nWe are grateful to 8th Light for hosting us this month and providing food!!",
+    "status": "PAST",
+    "dateTime": "2020-02-10T18:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-chicago/events/267893914/",
+    "featuredEventPhoto": {
+      "id": "485558632",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/6/e/8/highres_485558632.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/6/e/8/600_485558632.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/6/e/8/thumb_485558632.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 57,
+      "waitlistCount": 0,
+      "totalCount": 57
+    },
+    "venues": [
+      {
+        "id": "26372252",
+        "name": "8th Light",
+        "address": "25 E Washington St #509",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "us",
+        "lat": 41.883,
+        "lon": -87.6268,
+        "postalCode": "60602",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Chicago",
+      "urlname": "rladies-chicago"
+    }
+  },
+  {
+    "id": "279909412",
+    "title": "R Ladies BBQ Social Gathering",
+    "description": "Join us in the Rogers Park neighborhood on Wednesday to meet fellow R-Ladies!\n\nWe'll be on the beach eating some FREE tangy BBQ (which includes vegetarian + vegan options) to satisfy even the most particular cravings.\n\nIf driving there is a parking lot near Loyola beach but you might consider downloading the app SpotHero for the best deals on parking in the city. There are a lot of public transportation options as well.\n\n**Coordinates of the meetup will be sent to attendees the week of the event**.\n\nPlease RSVP so that we can estimate the size of our catering order from Blackwood BBQ.\n\nHope to see everyone there.",
+    "status": "PAST",
+    "dateTime": "2021-09-15T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-chicago/events/279909412/",
+    "featuredEventPhoto": {
+      "id": "498133528",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/4/d/8/highres_498133528.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/4/d/8/600_498133528.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/4/d/8/thumb_498133528.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 13,
+      "waitlistCount": 0,
+      "totalCount": 13
+    },
+    "venues": [
+      {
+        "id": "26496246",
+        "name": "Loyola Park",
+        "address": "1230 W Greenleaf Ave",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "us",
+        "lat": 42.0117,
+        "lon": -87.6619,
+        "postalCode": "60626",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Chicago",
+      "urlname": "rladies-chicago"
+    }
+  },
+  {
+    "id": "280468580",
+    "title": "Publishing your R or Data Science book with Chapman & Hall/CRC",
+    "description": "Together with the R-Ladies DC and Chicago chapters, we are thrilled to co-host this lunchtime presentation with editors from Chapman & Hall/CRC Press.\n\nAbstract: In this very practical and interactive workshop, three book editors from Chapman and Hall/CRC will discuss why you should consider publishing an R or Data Science book and why you should work with CRC. The editors will go over the publishing process and provide best practices for shaping your ideas and submitting a book proposal; discuss their bestsellers and popular series as well as emerging topics and trends. The lively discussion will provide plenty of opportunities for the attendees to ask questions and discuss ideas.\n\nPresenters:\nRandi Cohen is the Publisher for Computer Science and IT. She commissions across computer science, with a focus on the areas of Data Science, AI and Machine Learning, Computational Science, and Programming.\n\nDavid Grubbs is a Senior Editor in Statistics. He commissions books in all areas of statistics and data science including but not limited to statistical and machine learning, statistical software, computational and applied statistics, books in R and Python, environmental statistics, data analytics and Bayesian statistics.\n\nLara Spieker is an Editor for Statistics. She commissions books in all areas of data science and statistics, such as computational and applied statistics, statistical software, books on R and Python, and Bayesian Statistics.\n\n---\n\nThis event will be hosted over Zoom; the link will be available on this page the morning of the event, and the passcode will be emailed to you.\n---\n\nR-Ladies is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form. Please take a moment to review the R-Ladies Global code of conduct (particularly if this is your first time attending!): https://rladies.org/code-of-conduct\n\nFor questions regarding accessibility, please email us at rladieschicago@gmail.com.",
+    "status": "PAST",
+    "dateTime": "2021-09-14T11:00:00-05:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-chicago/events/280468580/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 14,
+      "waitlistCount": 0,
+      "totalCount": 14
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Chicago",
+      "urlname": "rladies-chicago"
+    }
+  },
+  {
+    "id": "278564311",
+    "title": "First Steps in Spatial Data visualization w/ R-Ladies East Lansing",
+    "description": "The tutorial is designed for R users from a variety of fields who are interested in working with spatial data and creating maps with R.\n\nNo knowledge of cartography is required.\n\nPrior knowledge of (non-spatial) graphic making and data handling with the {tidyverse} in R is recommended.\n\nSpeaker Bio:\n\nDorris Scott is the GIS Librarian and Social Science Data Curator at Washington University – St. Louis, where she provides consultation on projects that use geospatial data along with providing training in various GIS software, programming applications of geospatial data, and data management. She also serves as a liaison between Washington University Libraries and social science departments assisting faculty with their data needs such as data management and data curation. Dorris received her PhD in Geography from the University of Georgia, with a specialization in GIS applications for public health.\n\n[Zoom Link will be emailed 3 days before the event.]",
+    "status": "PAST",
+    "dateTime": "2021-06-15T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-chicago/events/278564311/",
+    "featuredEventPhoto": {
+      "id": "496655684",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/b/6/4/highres_496655684.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/b/6/4/600_496655684.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/b/6/4/thumb_496655684.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 25,
+      "waitlistCount": 6,
+      "totalCount": 25
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Chicago",
+      "urlname": "rladies-chicago"
+    }
+  },
+  {
+    "id": "276798462",
+    "title": "Fun w/ R (co-host w R-Ladies East-Lansing)",
+    "description": "Details\nR-Ladies East Lansing and R-Ladies Chicago are co-hosting \"Fun with R,\" where members share fun R packages! Talks can include topics such as chess w/ R, music w/ R, Rcade games, and other fun packages.\n\nInterested in giving a Lightning Talk? Submit a 10-minute talk description using this form: https://forms.gle/jnQrYSnimLvehRuD9\n\n======================================\nRegister to receive the event Zoom link\n======================================\nSpring 2021 RLEL/RLC event registration link:\nhttps://forms.gle/ZLo6XEUVrz9eCLrQ8\n\n========\nAGENDA\n========\n- Intro\n- Lightning Talks by:\n\n🎵Andrea Sanchez-Tapia on sambaR\n\nAndrea will present her package, sambaR. sambaR is a simple R package that downloads song lyrics from the Genius database and translates them into the language of your choice using functions from packages genius and googleLanguageR. It has a built-in shiny app and saves results to a disk. It was written to show sambas to our English and Spanish-speaking friends, and a way to practice package writing and shiny, and to learn about APIs.\n\n🎉Stephanie Hickey on BRRR (by Brooke Watson Madubuonwu)\n\n“Have you ever wanted to know - and celebrate - when your scripts are finally done running in R? Have you ever been so proud of pulling off a tricky bit of code that you wanted Flavor Flav to yell \"yeaaahhhh, boi!!\" as soon as it successfully completes? Have you ever gotten an error message that felt like DJ Khaled yelling, \"They don't wanna see us win!\" Probably not, but you might now. And with BRRR, you can.”\n\n🗺️Kayla Johnson on personalized map art\n\nMap art makes beautiful posters. You can find them all over the internet and buy them even framed for your favorite city, area or country. In this tutorial, inspired by Esteban Moro’s “Personal Art Map with R”, you’ll learn how to create those street maps for your city.\n\n♟️Sneha Sundar on chess (by Niklas Fiekas)\n\nSneha will present the chess package. chess is a wrapper for R around python-chess, an amazing library created by Niklas Fiekas. It allows users to read and write PGN files as well as create and explore game trees such as the ones seen in chess books.\n\n- Q&A | Discussion\n\n=====\nTIME\n=====\nhttps://www.timeanddate.com/worldclock/fixedtime.html?msg=RLEL%2FRLC%3A+Fun+with+R&iso=20210423T13&p1=77&ah=1&am=30",
+    "status": "PAST",
+    "dateTime": "2021-04-23T12:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-chicago/events/276798462/",
+    "featuredEventPhoto": {
+      "id": "495068814",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/2/6/e/highres_495068814.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/2/6/e/600_495068814.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/2/6/e/thumb_495068814.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 20,
+      "waitlistCount": 0,
+      "totalCount": 20
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Chicago",
+      "urlname": "rladies-chicago"
+    }
+  },
+  {
+    "id": "276797668",
+    "title": "R-package development (W/ R-Ladies East-Lansing)",
+    "description": "Details\n“Develop an R package”, they said… What does this even mean?\n\nIn this session with a live demo, we shall demystify the creation of an R package. R packages are mostly well-organized folders, and there are automatic tools to help. Let’s dive into the wonders of usethis! We shall also see why to create a package (or not). We shall furthermore explain how to improve your R package and your own package development skills. And how to solve the specific new challenges you will encounter! Last but not least we will discuss how to find your happy place in the world of R package development.\n\nDo you want to be more of a devoted maintainer of one single package? Or perhaps a valued contributor to dozens of packages?\n\n==================\nAbout the Speaker\n==================\nMaelle Salmon is a R(esearch) Software Engineer & Blogger based in Nancy, France. She is also the associate editor for rOpenSci’s Software Peer Review (peer-review system of R packages), and the main manager of R-Ladies Global Twitter account (@RLadiesGlobal).\nhttps://masalmon.eu\n\n======================================\nRegister to receive the event Zoom link\n======================================\nSpring 2021 RLEL/RLC event registration link:\nhttps://forms.gle/ZLo6XEUVrz9eCLrQ8\n\n========\nAGENDA\n========\n- Intro\n- Demo\n- Tips to improve packages & oneself as a package developer\n- Ways to get involved in open source\n- Q&A | Discussion\n\n=====\nTIME\n=====\nhttps://www.timeanddate.com/worldclock/fixedtime.html?msg=R-Ladies+East+Lansing+R+package+development&iso=20210326T13&p1=179&ah=2",
+    "status": "PAST",
+    "dateTime": "2021-03-26T12:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-chicago/events/276797668/",
+    "featuredEventPhoto": {
+      "id": "495068648",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/1/c/8/highres_495068648.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/1/c/8/600_495068648.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/1/c/8/thumb_495068648.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 31,
+      "waitlistCount": 0,
+      "totalCount": 31
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Chicago",
+      "urlname": "rladies-chicago"
+    }
+  },
+  {
+    "id": "276270824",
+    "title": "Writing Functions with R (W / RL East-Lansing)",
+    "description": "Details\n\nWe're back for another virtual meetup! Stephanie Kirmer will be giving a workshop about writing functions. We'll discuss when you need to write a function, how they're written, documenting ad writing test for your functions.\n\nInformation about the Speaker:\n\nStephanie Kirmer is a Senior Data Scientist at Saturn Cloud, a company making large scale Python easy and accessible to the data community using Dask. She has used R as well as Python for machine learning and data science throughout her career, including as a DS Tech Lead at a travel data startup, and as a Senior Data Scientist at Uptake, an industrial data science company. She holds Master's degrees in sociology and education, and was formerly an adjunct faculty member at DePaul University in Chicago.\n\nThe Zoom link is available once you completed Spring 2021 RLEL/RLC event registration link:\n\nhttps://forms.gle/ZLo6XEUVrz9eCLrQ8\n\nQ: Are men welcome to attend this event?\nA: Our primary mission is to encourage more women and non-binary individuals to get involved in the R community. ***As such, we strongly encourage that all men who attend this event have a female or non-binary sponsor. Please contact chicago@rladies.org if you have questions.***\n\nAdditionally, please help us by spreading the word about R-Ladies, and by being respectful of the fact that this event is primarily for women/non-binary/female-identifying individuals.\n\n• Important to know\nWe expect all attendees to abide & be governed by our community code of conduct. Please take a moment to review our R-Ladies Global code of conduct (particularly if this is your first time attending!): https://github.com/rladies/starter-kit/wiki/Code-of-Conduct",
+    "status": "PAST",
+    "dateTime": "2021-02-26T12:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-chicago/events/276270824/",
+    "featuredEventPhoto": {
+      "id": "494691403",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/8/c/b/highres_494691403.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/8/c/b/600_494691403.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/8/c/b/thumb_494691403.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 56,
+      "waitlistCount": 0,
+      "totalCount": 56
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Chicago",
+      "urlname": "rladies-chicago"
+    }
+  },
+  {
+    "id": "295030949",
+    "title": "postit::conf(2023) R-Ladies Reception ",
+    "description": "R-Ladies Chicago and R-Ladies Global are excited to co-host an R-Ladies meet-up at the conclusion of posit::conf(2023)! This event is open to the public, so it is **open for both attendees of [posit::conf](https://posit.co/conference/) as well as community members who are not registered for posit::conf**.\n\nOur primary mission is to encourage more women and minority gender individuals to get involved in the R community. **As such, we strongly encourage that all men who attend this event have a woman or minority gender sponsor. In addition, speaking opportunities will be reserved for women and minority genders.**\n\n**Agenda**:\n\n* Announcements from the Global Team\n* Open Q&A / panel discussion with R-Ladies Global Team members + chapter organizers\n* Mingling\n\n**Location**:\nPlaza Ballroom at the Hyatt Regency Chicago\n151 E Wacker Dr\nChicago, IL 60601\n\nThe ballroom is on the ground floor of the hotel. In the lobby, there's a prominent restaurant called the \"American Craft Kitchen & Bar\", Plaza Ballroom is directly behind that.",
+    "status": "PAST",
+    "dateTime": "2023-09-20T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-chicago/events/295030949/",
+    "featuredEventPhoto": {
+      "id": "514697620",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/4/d/4/highres_514697620.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/4/d/4/600_514697620.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/4/d/4/thumb_514697620.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 62,
+      "waitlistCount": 0,
+      "totalCount": 62
+    },
+    "venues": [
+      {
+        "id": "26343275",
+        "name": "Hyatt Regency Chicago",
+        "address": "151 E Wacker Dr",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "us",
+        "lat": 41.8874,
+        "lon": -87.6217,
+        "postalCode": "60601",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Chicago",
+      "urlname": "rladies-chicago"
+    }
+  },
+  {
+    "id": "299143448",
+    "title": "[ONLINE] #tidytuesday Work Group",
+    "description": "## Details\n\nJoin fellow R-Ladies, including R-Ladies RTP members, in exploring a #tidytuesday data set! For those craving human connection and some practice flexing your data science skills, this is the event for you! We will hold our event via Zoom, where you can meet other R-ladies, improve your R skills, and build your data science portfolio. This event is for people at all levels of R (beginner through advanced).\nAt this event, we'll revisit one of the Tidy Tuesday datasets from November 2023 on R-Ladies Global chapters data (https://github.com/rfordatascience/tidytuesday/tree/master/data/2023/2023-11-21).\n**Agenda (all times in CST)**\n5:30 - 5:45 pm Meet & Greet\n5:45 - 6:45 pm #tidytuesday\n6:45 - 7:00 pm Discussion\n**What is #tidytuesday?**\n#TidyTuesday is a weekly social data project created by the R4DS online learning community that is focused on using tidyverse packages. A new data set and accompanying article featuring an interesting plot is released on Github every Monday. The goal is to generate a copy of the original plot or create your own original approach!\nFor more information on #tidytuesday, check out the official GitHub repository page ([https://github.com/rfordatascience/tidytuesday](https://github.com/rfordatascience/tidytuesday)).\n**Who is this for?**\nNew and experienced R users alike! Let's learn together! All are welcome, including R-Ladies RTP members and R-Ladies from around the world. This meetup will be co-hosted with R-Ladies Chicago.\n**What should I bring?**\nYou'll need a computer with videoconferencing capabilities and R. Serve yourself a beverage and a snack to fuel your evening!\n**Where will it take place?**\nPlease join us online via Zoom. A link to join will be provided when you RSVP.\nAll events are intended for women as leaders, mentors, members, and attendees. We are emphatically queer and trans friendly. Men are welcomed to attend as guests and must be accompanied by the R-Lady who invited them. This group was created so those who identify as women have a comfortable place to learn. If you would like to attend and feel excluded, please introduce yourself to an organizer.",
+    "status": "PAST",
+    "dateTime": "2024-02-20T17:30:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-chicago/events/299143448/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 12,
+      "waitlistCount": 0,
+      "totalCount": 12
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Chicago",
+      "urlname": "rladies-chicago"
+    }
+  },
+  {
+    "id": "298031659",
+    "title": "R Ladies Chicago New Year Get Together!",
+    "description": "It's the New Year! A great time to catch up with old friends and make some new ones as in the R-Ladies Chicago community!\n\nEvent Venue : Woodlawn Tap - 1172 E 55th St, Chicago, IL 60615",
+    "status": "PAST",
+    "dateTime": "2024-01-30T18:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-chicago/events/298031659/",
+    "featuredEventPhoto": {
+      "id": "518056133",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/f/0/5/highres_518056133.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/f/0/5/600_518056133.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/f/0/5/thumb_518056133.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 10,
+      "waitlistCount": 0,
+      "totalCount": 10
+    },
+    "venues": [
+      {
+        "id": "27729789",
+        "name": "1172 E 55th St",
+        "address": "1172 E 55th St",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "us",
+        "lat": 41.7952,
+        "lon": -87.5968,
+        "postalCode": "60615",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Chicago",
+      "urlname": "rladies-chicago"
+    }
+  }
+]

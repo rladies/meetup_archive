@@ -1,0 +1,530 @@
+[
+  {
+    "id": "225018382",
+    "title": "R-Ladies Attend SF Uncubed (Paid Event)",
+    "description": "SF Uncubed\nSept. 24 | SOMArts Cultural Center\n\nSF Uncubed (http://sf.uncubed.com/rladies) is the most highly curated - and downright fun - recruiting event and tech conference for SF's most experienced dev, design, and business professionals.\n\nJoin SF innovators like:\n\n• Github, with a community of over 10 million individuals discovering, using & contributing to 26 million projects\n\n• Evernote, with 100+ million users & a newly appointed CEO straight from Google's global business operations team\n\n• Recurly, who provide a sophisticated recurring payment management platform to game-changers like LinkedIn, Adobe, & Groupon\n\n• PlaceIQ, named a Gartner \"Cool Vender\" in Mobile Marketing for 2015... and more for a full day of startup discovery & career-advancing classes (taught by the very Founders, Engineers, & PMs pioneering the technology), open bar, & live art.\n\n>>>Reserve your discounted R-Ladies pass only at this link: http://sf.uncubed.com/rladies\n\n**Partner Special includes $5 for 1/2 day & $10 for full-day. These prices only last until 11:59PM PDT on Monday, August 31.",
+    "status": "PAST",
+    "dateTime": "2015-09-24T10:00:00-07:00",
+    "duration": "PT8H",
+    "eventUrl": "https://www.meetup.com/rladies-san-francisco/events/225018382/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 14,
+      "waitlistCount": 0,
+      "totalCount": 14
+    },
+    "venues": [
+      {
+        "id": "24063415",
+        "name": "SOMArts Cultural Center",
+        "address": "934 Brannan St.",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "us",
+        "lat": 37.7712,
+        "lon": -122.4066,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Francisco",
+      "urlname": "rladies-san-francisco"
+    }
+  },
+  {
+    "id": "224056572",
+    "title": "Code/Coffee/Cohort Learning The Analytics Edge",
+    "description": "Come to our weekly Code/Coffee.\n\nWe will also start a new series of cohort learning! A new semester of MIT's The Analytics Edge (https://www.edx.org/course/analytics-edge-mitx-15-071x-0) just started and this is a good way to learn data science and R. The course is well reviewed and includes a practical kaggle competition. If you are a new R user, this would be good place to begin!\n\nCome get your hands dirty in R!\n\nCurrently these meetups are for self identified women and gender queer folks. Watch for future co-ed meetups!",
+    "status": "CANCELLED",
+    "dateTime": "2015-08-09T14:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tc/events/224056572/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 1,
+      "waitlistCount": 0,
+      "totalCount": 1
+    },
+    "venues": [
+      {
+        "id": "23912980",
+        "name": "Five Watt",
+        "address": "3745 Nicollet Ave S",
+        "city": "Minneapolis",
+        "state": "MN",
+        "country": "us",
+        "lat": 44.9351,
+        "lon": -93.2779,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Twin Cities",
+      "urlname": "rladies-tc"
+    }
+  },
+  {
+    "id": "224018649",
+    "title": "Code/Coffee/Cohort Learning The Analytics Edge",
+    "description": "Come to our weekly Code/Coffee.\n\nWe will also start a new series of cohort learning! A new semester of MIT's The Analytics Edge (https://www.edx.org/course/analytics-edge-mitx-15-071x-0) just started and this is a good way to learn data science and R. The course is well reviewed and includes a practical kaggle competition. If you are a new R user, this would be good place to begin!\n\nCome get your hands dirty in R!\n\nCurrently these meetups are for self identified women and gender queer folks. Watch for future co-ed meetups!",
+    "status": "PAST",
+    "dateTime": "2015-08-02T14:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tc/events/224018649/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "23912980",
+        "name": "Five Watt",
+        "address": "3745 Nicollet Ave S",
+        "city": "Minneapolis",
+        "state": "MN",
+        "country": "us",
+        "lat": 44.9351,
+        "lon": -93.2779,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Twin Cities",
+      "urlname": "rladies-tc"
+    }
+  },
+  {
+    "id": "223727059",
+    "title": "Make a Census Explorer with Shiny!",
+    "description": "In this tutorial Ari Lamstein (http://www.arilamstein.com/) will teach you to make a Census Explorer using R, Shiny and Choroplethr. You can see the final app here (https://arilamstein.shinyapps.io/shiny-statistical-maps).\n\nShiny allows you to create web applications in R. This is a great fit for exploring census data.\n\nThe final app:\n\n1. shows two maps: state and county.\n\n2. lets you view eight different demographics.\n\n3. lets you view data from 2010-2013.\n\n4. lets you change the number of colors of the maps.\n\nIf you are planning to come, you might want to first sign up for the free email course Learn to Map Census Data in R (http://www.arilamstein.com/blog/2015/06/25/learn-to-map-census-data-in-r/). That course will walk you thru the library we will use for mapping and accessing the Census API. While not necessary for the class, knowing that material might make the tutorial easier for you.\n\nAgenda:\n\n6:00pm - 6:15pm: Networking\n\n6:15pm: Setting up (install R packages, etc)\n\n6:30pm: Tutorial starts\n\n8:30pm: Wrap up\n\nPizza will be provided by Sharethrough (http://sharethrough.com/).\n\nHere is the material: https://github.com/arilamstein/census-explorer-tutorial-2015-07\n\nR-ladies events are targeted to people who identify as female.",
+    "status": "PAST",
+    "dateTime": "2015-07-28T18:00:00-07:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-san-francisco/events/223727059/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 48,
+      "waitlistCount": 0,
+      "totalCount": 48
+    },
+    "venues": [
+      {
+        "id": "17476532",
+        "name": "Sharethrough",
+        "address": "394 Pacific, 5th Floor",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "us",
+        "lat": 37.7978,
+        "lon": -122.4019,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Francisco",
+      "urlname": "rladies-san-francisco"
+    }
+  },
+  {
+    "id": "224055489",
+    "title": "Code/Coffee/Cohort Learning The Analytics Edge",
+    "description": "Come to our weekly Code/Coffee.\n\nWe will also start a new series of cohort learning! A new semester of MIT's The Analytics Edge (https://www.edx.org/course/analytics-edge-mitx-15-071x-0) just started and this is a good way to learn data science and R. The course is well reviewed and includes a practical kaggle competition. If you are a new R user, this would be good place to begin!\n\nCome get your hands dirty in R!\n\nCurrently these meetups are for self identified women and gender queer folks. Watch for future co-ed meetups!",
+    "status": "PAST",
+    "dateTime": "2015-07-26T14:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tc/events/224055489/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 2,
+      "waitlistCount": 0,
+      "totalCount": 2
+    },
+    "venues": [
+      {
+        "id": "23743491",
+        "name": "Dunn Brothers Coffee",
+        "address": "2528 Hennepin Ave",
+        "city": "Minneapolis",
+        "state": "MN",
+        "country": "US",
+        "lat": 44.9562,
+        "lon": -93.2963,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Twin Cities",
+      "urlname": "rladies-tc"
+    }
+  },
+  {
+    "id": "223549570",
+    "title": "Code/Coffee/Cohort Learning The Analytics Edge",
+    "description": "Come to our weekly Code/Coffee.\n\nWe will also start a new series of cohort learning! A new semester of MIT's The Analytics Edge (https://www.edx.org/course/analytics-edge-mitx-15-071x-0) just started and this is a good way to learn data science and R. The course is well reviewed and includes a practical kaggle competition. If you are a new R user, this would be good place to begin!\n\nCome get your hands dirty in R!\n\nCurrently these meetups are for self identified women and gender queer folks. Watch for future co-ed meetups!",
+    "status": "PAST",
+    "dateTime": "2015-07-19T14:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tc/events/223549570/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "23912980",
+        "name": "Five Watt",
+        "address": "3745 Nicollet Ave S",
+        "city": "Minneapolis",
+        "state": "MN",
+        "country": "us",
+        "lat": 44.9351,
+        "lon": -93.2779,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Twin Cities",
+      "urlname": "rladies-tc"
+    }
+  },
+  {
+    "id": "223364433",
+    "title": "Code/Coffee/Cohort Learning The Analytics Edge",
+    "description": "Come to our weekly Code/Coffee.\n\nWe will also start a new series of cohort learning! A new semester of MIT's The Analytics Edge (https://www.edx.org/course/analytics-edge-mitx-15-071x-0) just started and this is a good way to learn data science and R. The course is well reviewed and includes a practical kaggle competition. If you are a new R user, this would be good place to begin!\n\nCome get your hands dirty in R!\n\nCurrently these meetups are for self identified women and gender queer folks. Watch for future co-ed meetups!",
+    "status": "PAST",
+    "dateTime": "2015-06-28T14:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tc/events/223364433/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "23912980",
+        "name": "Five Watt",
+        "address": "3745 Nicollet Ave S",
+        "city": "Minneapolis",
+        "state": "MN",
+        "country": "us",
+        "lat": 44.9351,
+        "lon": -93.2779,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Twin Cities",
+      "urlname": "rladies-tc"
+    }
+  },
+  {
+    "id": "223201792",
+    "title": "Intro to Machine Learning with R",
+    "description": "Come to out next meetup where we will go through a machine learning tutorial using Kaggle's Titantic dataset. We can pick from several tutorials: https://www.kaggle.com/c/titanic/details/new-getting-started-with-r\n\nI'm leaning towards Curt Wehrley's tutorial right now. https://github.com/wehrley/wehrley.github.io/blob/master/SOUPTONUTS.md\n\nPizza will be sponsored by Revolution Analytics. Our good friends at MAKE will be donating us their space.",
+    "status": "PAST",
+    "dateTime": "2015-06-22T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tc/events/223201792/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 8,
+      "waitlistCount": 0,
+      "totalCount": 8
+    },
+    "venues": [
+      {
+        "id": "23897323",
+        "name": "MAKE COOP",
+        "address": "2524 Nicollet Ave, Suite 200",
+        "city": "Minneapolis",
+        "state": "MN",
+        "country": "us",
+        "lat": 0,
+        "lon": 0,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Twin Cities",
+      "urlname": "rladies-tc"
+    }
+  },
+  {
+    "id": "222988466",
+    "title": "Code and Coffee: Data Viz",
+    "description": "Come to our next Code and Coffee! This one will be focused on data viz!\n\nBring a data set that you want to visualize! If you don't have one, let's find one together!",
+    "status": "PAST",
+    "dateTime": "2015-06-14T13:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tc/events/222988466/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "8809492",
+        "name": "Seward Co-op Grocery & Deli",
+        "address": "2823 East Franklin Avenue",
+        "city": "Minneapolis",
+        "state": "MN",
+        "country": "us",
+        "lat": 44.9627,
+        "lon": -93.2299,
+        "postalCode": "55406",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Twin Cities",
+      "urlname": "rladies-tc"
+    }
+  },
+  {
+    "id": "222510257",
+    "title": "Beginner's Walkthrough With R",
+    "description": "Wanna get started in R but don't know how? Come join us as we do an introduction to R.\n\nTopics covered:\n\n• Quick Intro to R Studio\n\n• Data types\n\n• Programming basics\n\n• Functions/packages\n\n• Basic plots (ggplot2)\n\nHomework before class:\n\n- Install R ( https://github.com/rladiestc/wiki/wiki/Installing-R)\n\n- Understand a bit of programming basics (loops, data structures, variables) will be helpful but not required.",
+    "status": "PAST",
+    "dateTime": "2015-05-23T10:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tc/events/222510257/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 6,
+      "waitlistCount": 0,
+      "totalCount": 6
+    },
+    "venues": [
+      {
+        "id": "8809492",
+        "name": "Seward Co-op Grocery & Deli",
+        "address": "2823 East Franklin Avenue",
+        "city": "Minneapolis",
+        "state": "MN",
+        "country": "us",
+        "lat": 44.9627,
+        "lon": -93.2299,
+        "postalCode": "55406",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Twin Cities",
+      "urlname": "rladies-tc"
+    }
+  },
+  {
+    "id": "222219319",
+    "title": "Analyzing US Census Data with R",
+    "description": "In this tutorial Ari Lamstein (blog (https://justanrblog.wordpress.com/), twitter (https://twitter.com/AriLamstein)) will explain how to use R to explore the demographics of US States, Counties and ZIP Codes. Each person will analyze their home state, county and ZIP code. There will be an emphasis on sharing results with each other. We will use boxplots and choroplethr (https://github.com/arilamstein/choroplethr) maps to visualize the data.\n\nTime permitting we will also explore historic demographic data, learn more about the data itself, and how to use the Census Bureau’s API.\n\nAgenda:\n\n6:00pm - 6:30pm: Networking\n\n6:30pm: Setting up (install R packages, etc)\n\n6:45pm: Tutorial starts\n\n8:30pm: Wrap up\n\nPizza will be provided by Sharethrough (http://sharethrough.com).",
+    "status": "PAST",
+    "dateTime": "2015-05-21T18:00:00-07:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-san-francisco/events/222219319/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 54,
+      "waitlistCount": 0,
+      "totalCount": 54
+    },
+    "venues": [
+      {
+        "id": "17476532",
+        "name": "Sharethrough",
+        "address": "394 Pacific, 5th Floor",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "us",
+        "lat": 37.7978,
+        "lon": -122.4019,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Francisco",
+      "urlname": "rladies-san-francisco"
+    }
+  },
+  {
+    "id": "222119994",
+    "title": "R Ladies Untalk + Code Time",
+    "description": "Come to our meeting and work/learn/talk R!\n\nBefore 10: Come hang out with PyLadies and see what they are working on!\n\n10 - 10:15 Some introductions and what everyone is working on.\n\n10:15 - 10:30 Untalks if someone has something?\n\n10:30 - 12:00 Problem solving, bring your projects, issues, and general knowledge. This is time to self organize and work on something.",
+    "status": "PAST",
+    "dateTime": "2015-05-09T10:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tc/events/222119994/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [
+      {
+        "id": "8809492",
+        "name": "Seward Co-op Grocery & Deli",
+        "address": "2823 East Franklin Avenue",
+        "city": "Minneapolis",
+        "state": "MN",
+        "country": "us",
+        "lat": 44.9627,
+        "lon": -93.2299,
+        "postalCode": "55406",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Twin Cities",
+      "urlname": "rladies-tc"
+    }
+  },
+  {
+    "id": "222119990",
+    "title": "R Ladies Untalk + Code Time",
+    "description": "Come to our first meeting and work/learn/talk R!\n\nBefore 10: Come early for the PyLadies (http://www.meetup.com/PyLadiesTC/events/222132128/) meetup and meet some awesome ladies interested in Python.\n\n10 - 10:15 Some introductions and what everyone is working on.\n\n10:15 - 10:30 Untalks if someone has something?\n\n10:30 - 12:00 Problem solving, bring your projects, issues, and general knowledge. This is time to self organize and work on something.",
+    "status": "PAST",
+    "dateTime": "2015-05-02T10:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tc/events/222119990/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 9,
+      "waitlistCount": 0,
+      "totalCount": 9
+    },
+    "venues": [
+      {
+        "id": "8809492",
+        "name": "Seward Co-op Grocery & Deli",
+        "address": "2823 East Franklin Avenue",
+        "city": "Minneapolis",
+        "state": "MN",
+        "country": "us",
+        "lat": 44.9627,
+        "lon": -93.2299,
+        "postalCode": "55406",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Twin Cities",
+      "urlname": "rladies-tc"
+    }
+  },
+  {
+    "id": "221617211",
+    "title": "First Organizing R-Ladies Meeting!",
+    "description": "Join us for our first organizing meeting!\n\nLet's discuss goals, upcoming meeting ideas and what we want to do with this group!\n\n2:00 - 2:30 Greetings! Let's do introductions and get to know one another.\n\n2:30 - 2:15 What aren't you getting that you want from this group?\n\n2:45 - 3:00 Ideas for the next few meetups.\n\n3:00 - 4:00 Let's collaborate around those ideas! Also a good time to ask questions/get help, do work, learn some R :)",
+    "status": "PAST",
+    "dateTime": "2015-04-26T14:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tc/events/221617211/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 16,
+      "waitlistCount": 0,
+      "totalCount": 16
+    },
+    "venues": [
+      {
+        "id": "23743491",
+        "name": "Dunn Brothers Coffee",
+        "address": "2528 Hennepin Ave",
+        "city": "Minneapolis",
+        "state": "MN",
+        "country": "US",
+        "lat": 44.9562,
+        "lon": -93.2963,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Twin Cities",
+      "urlname": "rladies-tc"
+    }
+  },
+  {
+    "id": "221107568",
+    "title": "Applying R to develop Public Transit Metrics",
+    "description": "Pam Dalal will be giving a quick tutorial on how use some popular packages like lubridate, stringr, dplyr, and ggplot to clean and visualize data. We will discuss the method to explore data with an interactive Shiny app. I will send the link to the Shiny app before the meetup so we can see the final product.\n\nTimeline:\n\n6:30pm - 7:00pm: Doors open, set up and introductions\n\n7:00pm - Tutorial starts\n\n9:00pm - Wrap up\n\nPizza and drinks will be provide by AdRoll.",
+    "status": "PAST",
+    "dateTime": "2015-03-24T18:30:00-07:00",
+    "duration": "PT2H30M",
+    "eventUrl": "https://www.meetup.com/rladies-san-francisco/events/221107568/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 40,
+      "waitlistCount": 7,
+      "totalCount": 40
+    },
+    "venues": [
+      {
+        "id": "13336732",
+        "name": "AdRoll HQ",
+        "address": "972 Mission St, 1st Floor",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "us",
+        "lat": 37.7817,
+        "lon": -122.4085,
+        "postalCode": "94103",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Francisco",
+      "urlname": "rladies-san-francisco"
+    }
+  },
+  {
+    "id": "220422705",
+    "title": "Women's Communities Meetup (part of the Strata Conference)",
+    "description": "This is event will happen during the Strata Conference but you don’t have to be registered for Strata + Hadoop World to attend.\n\nMore info:\n\nhttp://strataconf.com/big-data-conference-ca-2015/public/schedule/detail/40163?cmp=tw-data-na-info-stca15_womens_meetup\n\nIf you’re a woman looking for like-minded communities to join, c’mon down to our meetup on Wednesday evening after the Opening Reception for more appetizers, drinks, and networking.\n\nIn addition to meeting other women (and men) in the community, you’ll hear lightning talks from representatives of organizations and projects that support diversity in the technology community, including:\n\n• Abigail Bracha, EMC (http://www.emc.com/index.htm?fromGlobalSelector)\n\n• Colleen Tralongo, Year Up (http://www.yearup.org/about-us/our-locations/bay-area/)\n\n• Cornelia Levy-Bencheton, Women in Data Research Report (http://www.oreilly.com/data/free/women-in-data.csp?intcmp=il-data-free-product-stca15_s+hwca15_womens_meetup)\n\n• Dori Farah, NCWIT, National Center for Women & Information Technology (http://www.ncwit.org/)\n\n• Erin LeDell, Bay Area Women in Machine Learning & Data Science (http://www.meetup.com/Bay-Area-Women-in-Machine-Learning-and-Data-Science/)\n\n• Gabriela de Queiroz, R-ladies (http://www.meetup.com/R-ladies/)\n\n• Karen Catlin (http://karencatlin.com/), Male Allies: We Need You (https://twitter.com/BetterAllies)\n\n• Marie Beaugureau and Shannon Cutt, writing for O’Reilly (http://www.oreilly.com/work-with-us.html)\n\n• Suzanne Axtell, Speaking at Technical Conferences (http://oreil.ly/TWS2)\n\n* This meetup is both transgender and guy-friendly—everyone is welcome! (You don’t have to be registered for Strata + Hadoop World to attend.)",
+    "status": "PAST",
+    "dateTime": "2015-02-18T18:30:00-08:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-san-francisco/events/220422705/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 8,
+      "waitlistCount": 0,
+      "totalCount": 8
+    },
+    "venues": [
+      {
+        "id": "5831642",
+        "name": "San Jose Convention Center",
+        "address": "150 West San Carlos Street",
+        "city": "San Jose",
+        "state": "CA",
+        "country": "us",
+        "lat": 37.3319,
+        "lon": -121.8877,
+        "postalCode": "95113",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Francisco",
+      "urlname": "rladies-san-francisco"
+    }
+  }
+]

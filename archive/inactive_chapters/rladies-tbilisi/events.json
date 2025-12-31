@@ -1,0 +1,2762 @@
+[
+  {
+    "id": "236458364",
+    "title": "Exploring Caucasus Barometer 2015 using R",
+    "description": "Eric Barrett will host our next meetup.\n\nWe will use the haven library from RStudio to import an SPSS or STATA dataset. We will review what we have learnt of data types, dataframes, factors/levels, and more to explore the 2015 Caucasus Barometer by asking it questions. We might, should time permit, use ggplot2's basic quick plot syntax to visual some results and export the images.\n\nPackages to install:\n\nhaven\n\nggplot2\n\nDatasets to download:\n\n2015 Caucasus Barometer and its codebook from\n\nhttp://caucasusbarometer.org/en/downloads/",
+    "status": "PAST",
+    "dateTime": "2016-12-27T19:00:00+04:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/236458364/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 7,
+      "waitlistCount": 0,
+      "totalCount": 7
+    },
+    "venues": [
+      {
+        "id": "24928764",
+        "name": "ISET",
+        "address": "16 Zandukeli str.",
+        "city": "Tbilisi",
+        "state": "",
+        "country": "ge",
+        "lat": 41.7038,
+        "lon": 44.7879,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "236313011",
+    "title": "Data handling and matrices",
+    "description": "შეგახსენებთ, რომ შემდეგი 2 შეხვედრა გაიმართება 22 და 27 დეკემბერს\n\nISET-ში (ზანდუკელის ქ. #16) 5.2 აუდიტორიაში საღამოს 7 საათზე.\n\n22-ში გავაგრძელებთ მონაცემთა მართვისთვის საჭირო ბრძანებების შესწავლას და შევეხებით მატრიცებს.\n\nგასული შეხვედრების მასალები შეგიძლიათ იხილოთ შემდეგ ბმულზე:\n\nhttps://github.com/rladies/meetup-presentations_tbilisi\n\nგთხოვთ, გაეცნოთ მეორე თავს:\n\nhttp://tryr.codeschool.com/levels/1/challenges/2\n\n======================================================\n\nThe next meetings will take place on December 22 and 27, at ISET (16 Zandukeli str), room 5.2. We will go through some data handling commands and work with matrices on December 22. The meeting starts at 7 PM.\n\nYou can access the materials from the previous sessions here: https://github.com/rladies/meetup-presentations_tbilisi .\n\nPlease familiarise yourself with the R expressions from chapter 2 of codeschool: http://tryr.codeschool.com/levels/1/challenges/2 .",
+    "status": "PAST",
+    "dateTime": "2016-12-22T19:00:00+04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/236313011/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 15,
+      "waitlistCount": 0,
+      "totalCount": 15
+    },
+    "venues": [
+      {
+        "id": "24928764",
+        "name": "ISET",
+        "address": "16 Zandukeli str.",
+        "city": "Tbilisi",
+        "state": "",
+        "country": "ge",
+        "lat": 41.7038,
+        "lon": 44.7879,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "236134789",
+    "title": "Reading and handling data",
+    "description": "შემდეგი შეხვედრა გაიმართება 13 დეკემბერს ISET-ში (ოთახი #5.2) საღამოს 7-დან 9 საათამდე. გავივლით R-ის სხვადასხვა ტიპის ბრძანებებს და ვისწავლით, როგორ წავიკითხოთ, შევქმნათ და ვმართოთ მონაცემები.\n\nვინც ვერ მოახერხეთ მოსვლა, პირველი შეხვედრის მასალები შეგიძლიათ იხილოთ მოცემულ ბმულზე:\n\nhttps://github.com/rladies/meetup-presentations_tbilisi\n\nგთხოვთ, შემდეგ შეხვედრამდე გადმოწეროთ და დააყენოთ R და RStudio თქვენს ლეპტოპებში.\n\nR-ის გადმოსაწერად (Windows-ისთვის) გამოიყენეთ ეს ბმული: https://cran.r-project.org/bin/windows/base/\n\nR-ის გადმოსაწერად (Mac-ისთვის) გამოიყენეთ ეს ბმული: https://cran.r-project.org/bin/macosx/\n\nRStudio-ს გადმოსაწერად გამოიყენეთ ეს ბმული: https://www.rstudio.com/products/rstudio/download/\n\nასევე, შეგიძლიათ გაეცნოთ R-ის საბაზისო ფუნქციებს (თავი I) მოცემულ ბმულზე:\n\nhttp://tryr.codeschool.com/levels/1/challenges/2\n\n==============================================================\n\nThe next meeting will take place on December 13, in ISET (room 5.2, 5th floor), between 7 - 9 PM. We will go through commands on how to read in, create and handle data in R.\n\nMaterials from the last meeting are here: https://github.com/rladies/meetup-presentations_tbilisi\n\nPlease download and install R and RStudio on your laptops before the meeting starts.\n\nYou can download R here (for Windows): https://cran.r-project.org/bin/windows/base/\n\nOr here (for Mac): https://cran.r-project.org/bin/macosx/\n\nYou also need to download RStudio from here: https://www.rstudio.com/products/rstudio/download/\n\nPlease familiarize yourself with the basic R expressions from chapter 1 of codeschool: http://tryr.codeschool.com/levels/1/challenges/2 .",
+    "status": "PAST",
+    "dateTime": "2016-12-13T19:00:00+04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/236134789/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 18,
+      "waitlistCount": 0,
+      "totalCount": 18
+    },
+    "venues": [
+      {
+        "id": "24928764",
+        "name": "ISET",
+        "address": "16 Zandukeli str.",
+        "city": "Tbilisi",
+        "state": "",
+        "country": "ge",
+        "lat": 41.7038,
+        "lon": 44.7879,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "235980938",
+    "title": "R-Ladies Tbilisi Launch",
+    "description": "8 დეკემბერს, 19:00 საათზე, ეკონომიკის სკოლა აისეტის (ISET) საკონფერენციო დარბაზში (ზანდუკელის ქ. #16, I სართული) ჩატარდება R-Ladies Tbilisi-ის გასაცნობი სახის შეხვედრა. ჩვენ დეტალურად გაგაცნობთ R-Ladies ინიციატივასა და მის ფარგლებში დადეგმილ აქტივობებს; ასევე, თქვენთან ერთად გადმოვწერთ R-სა და R-Studio-ს, გავეცნობით R-ის საწყისებსა და მის რამდენიმე ბრძანებას.\n\nგთხოვთ, თუ შესაძლებელია, თან იქონიოთ თქვენი ლეპტოპი. შეხვედრა წარიმართება ინგლისურ ენაზე, თუმცა საჭიროების შემთხვევაში, ხელმისაწვდომი იქნება ქართული თარგმანიც.\n\n===================================================================\n\nR-Ladies Tbilisi launch meeting will take place on December 8 in ISET (conference hall, 1st floor) at 16 Zandukeli str. It will last between 7-9.30 PM. We will introduce the background of R-Ladies initiative, discuss the activities of R-Ladies with you, download and install R and R-Studio together, and go through first basic commands in R. Please bring your laptops, if possible. The event will be in English, but Georgian translation will be provided for those who need it.",
+    "status": "PAST",
+    "dateTime": "2016-12-08T19:00:00+04:00",
+    "duration": "PT2H30M",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/235980938/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 23,
+      "waitlistCount": 0,
+      "totalCount": 23
+    },
+    "venues": [
+      {
+        "id": "24928764",
+        "name": "ISET",
+        "address": "16 Zandukeli str.",
+        "city": "Tbilisi",
+        "state": "",
+        "country": "ge",
+        "lat": 41.7038,
+        "lon": 44.7879,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "246008595",
+    "title": "Operators and loops in R - for beginners (ქართულ ენაზე)",
+    "description": "• What we'll do\nმომდევნო შეხვედრა გაიმართება 21 დეკემბერს. იგი გათვლილია დამწყებთათვის. შერჩეული თემა ფუნდამენტური და მნიშვნელოვანია, რადგან შეეხება R-ში ჩადებულ ლოგიკას. კონკრეტულად, დავიწყებთ კავშირის ოპერატორების - და, ან, არა - განხილვით, შემდეგ ვისაუბრებთ ლოგიკურ ოპერატორებზე. ამის შემდეგ გადავალთ \"თუ-მაშინ\" პირობით წინადადებებზე.\nშეხვედრას დავასრულებთ \"while loop\"-ით. ვნახავთ, როგორ მარტივად და სასარგებლოდ შეიძლება მისი გამოყენება, მაგალითად, მანქანაში, მძღოლის დამხმარის მოწყობილობაში.\n\nშეხვედრა გაიმართება ქართულ ენაზე და მას უმასპინძლებს ნინო მელითაური.\n\n==============================\nThe next meetup is on December 21. It is suitable for beginners. The topic is about the logic of R. We will discuss relational operators like \"and\", \"or\", \"not\", and logical operators, followed by \"if-else\" conditional statements. We will end with \"while loops\" and try out an example.\n\nThe meetup is hosted by Nino Melitauri, in Georgian.\n\n• What to bring\n\n• Important to know",
+    "status": "PAST",
+    "dateTime": "2017-12-21T19:00:00+04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/246008595/",
+    "featuredEventPhoto": {
+      "id": "466987337",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/c/a/9/highres_466987337.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/c/a/9/600_466987337.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/c/a/9/thumb_466987337.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 8,
+      "waitlistCount": 0,
+      "totalCount": 8
+    },
+    "venues": [
+      {
+        "id": "24812484",
+        "name": "ჯეოლაბი GeoLab",
+        "address": "8 Merab Aleksidze St, Tbilisi 0160",
+        "city": "Tbilisi",
+        "state": "",
+        "country": "ge",
+        "lat": 41.7177,
+        "lon": 44.7848,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "245694374",
+    "title": "Data types, indexing, cleaning and preparation - for beginners!",
+    "description": "The next meetup is on December 14. This is suitable for beginners - it is a good continuation of the beginners' workshop this fall.\n\nDuring the session we solidify our knowledge of fundamental data structures in R and then learn efficient approaches of preparing data sets for analysis. First topic is very important for beginners: we must clearly understand how data are stored in R.\nHere we will discuss basic data types (vectors of logical, integer, numeric, character values) and more advanced types (lists and data frames). Also we will touch element indexing in R (e.g. why there are three ways to extract elements from a list: dollar sign, square brackets and double square brackets).\n\nSecond part is useful to get more efficient and faster at data cleaning and preparation. It's a common problem for data scientists: we spend about 80% of our time moving cells, rows and columns around to get them ready for a specific analytical procedure. So to get more job done we must be efficient in data management. We will look at two modern R packages: dplyr and tidyr. They are like a Swiss Army knife for a data scientist, and we have low chances to survive in R community without them. These packages allow us to produce more elegant code that leads to faster development and reduces risk of errors. 30 minutes of Excel spreadsheet tasks can be completed with 3 lines of R code with these packages.\n\nThe meetup will be hosted by Alexander Matrunich, in English.\n\n================================================\n\nშემდეგი შეხვედრა გაიმართება 14 დეკემბერს. ეს შეხვედრა, რომელიც კარგი გაგრძელებაა შემოდგომის სემინარებისა, ორიენტირებული იქნება დამწყებებზე. ამ სესიაზე გავამყარებთ ჩვენს ცოდნას მონაცემთა სტრუქტურაზე და ვისწავლით სასარგებლო გზებს მონაცემების მოსამზადებლად ანალიზისთვის. პირველი თემა ძალიან მნიშვნელოვანია დამწყბეთათვის: ჩვენ კარგად უნდა გავიგოთ, თუ როგორაა მონაცემები დახარისხებული R-ში. განვიხილავთ მონაცემთა საბაზისო და უფრო რთულ ტიპებს. ასევე შევეხებით ინდექსირებას. მეორე ნაწილი შეეხება მონაცემების სწრაფ გაწმენდასა და მომზადებას. ეს მონაცემთა მეცნიერებისთვის ცნობილი პრობლემაა: ჩვენ ჩვენი დროის 80%–ს სწორედ მონაცემთა მომზადებაში ვხარჯავთ კონკრეტული ანალიზისთვის. ჩვენ გამოვიყენებთ ორ თანამედროვე პაკეტს: dplyr და tidyr. ისინი ძანიალ მნიშვნელოვანია მონაცემთა ანალიზისთვის და მათ გარეშე ძნელი იქნება R-ში მუშაობა. ეს პაკეტები საშუალებას გვაძლევს დავწეროთ დახვეწილი კოდები, რომლებიც შეამცირებს მომავალი ხარვეზების არსებობის ალბათობას. ექსელის სამუშაო, რომელსაც სჭირდება 30 წუთი, R-ში შეიძლება გაკეთდეს 3 ხაზით, ამ პაკეტების კოდების საშუალებით. შეხვედრა გაიმართება ინგლისურ ენაზე და მას უმასპინძლებს ალექსანდრე მატრუნიხი.",
+    "status": "PAST",
+    "dateTime": "2017-12-14T19:00:00+04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/245694374/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 8,
+      "waitlistCount": 0,
+      "totalCount": 8
+    },
+    "venues": [
+      {
+        "id": "24812484",
+        "name": "ჯეოლაბი GeoLab",
+        "address": "8 Merab Aleksidze St, Tbilisi 0160",
+        "city": "Tbilisi",
+        "state": "",
+        "country": "ge",
+        "lat": 41.7177,
+        "lon": 44.7848,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "245159556",
+    "title": "Creating an R package",
+    "description": "The possibility of organizing code in packages is one of the main advantages of R. Packages can also be made publicly available so that everybody can benefit from them. This talk will show step-by-step how to create an R package from scratch, using a hands-on example.\n\nRead about R packages here: https://www.statmethods.net/interface/packages.html\n\nVincenzo Lagani is hosting this meetup, in English.\n\n===========================\nR-ს ერთ-ერთი მთავარი უპირატესობა არის კოდების ორგანიზება პაკეტებში. ეს პაკეტები შესაძლოა ასევე გახდეს საჯარო, რაც მათ ყველასთვის ხელმისაწვდომსა და სარგებლის მომტანს გახდის. ამ შეხვედრაზე გავიგებთ თუ როგორ შევქმნათ პაკეტები R-ში საწყისი დონიდან, პრაქტიკული მაგალითების საშუალებით.\n\nდამატებით ინფორმაციას R-ს პაკეტებზე გაეცანით შემდეგ ბმულზე: https://www.statmethods.net/interface/packages.html",
+    "status": "PAST",
+    "dateTime": "2017-11-22T19:00:00+04:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/245159556/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 7,
+      "waitlistCount": 0,
+      "totalCount": 7
+    },
+    "venues": [
+      {
+        "id": "24812484",
+        "name": "ჯეოლაბი GeoLab",
+        "address": "8 Merab Aleksidze St, Tbilisi 0160",
+        "city": "Tbilisi",
+        "state": "",
+        "country": "ge",
+        "lat": 41.7177,
+        "lon": 44.7848,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "244424428",
+    "title": "სტატისტიკური ანალიზი",
+    "description": "27 ოქტომბრის შეხვედრა კვლავ დაეთმობა სტატისტიკურ ანალიზს. კერძოდ, გავაგრძელებთ საუბარს ფიქტიურ ცვლადებსა და ინტერაქციულ წევრებზე წრფივ რეგრესიულ მოდელში. ზოგადი მიმოხილვის შემდეგ, ვიმუშავებთ პრაქტიკულ მაგალითზე, რომლის ფარგლებში გვექნება წინა შეხვედრის სტატისტიკური თემების გახსენებაც. შეხვედრის სამუშაო ენა იქნება ქართული.\n\n====================================\n\nThis meetup will be a continuation of beginners' workshop's statistical analysis presentation. In particular, we will discuss dummy variables in linear models and interaction terms. After the general discussion we will work on a practical example. In addition, during the practical part, we will have a revision of the previous meetup's statistical topics. The meetup will be in Georgian.",
+    "status": "PAST",
+    "dateTime": "2017-10-27T19:00:00+04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/244424428/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [
+      {
+        "id": "24812484",
+        "name": "ჯეოლაბი GeoLab",
+        "address": "8 Merab Aleksidze St, Tbilisi 0160",
+        "city": "Tbilisi",
+        "state": "",
+        "country": "ge",
+        "lat": 41.7177,
+        "lon": 44.7848,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "244111448",
+    "title": "Basics of machine learning with R",
+    "description": "The meetup is hosted by Vincenzo Lagani, post-doc researcher at the University of Crete and co-founder of Gnosis Data Analysis. His main research interest is devising machine learning and statistical algorithms, and their applications on a variety of fields, including biology, clinical and business data.\nThe meetup will focus on predictive analytics (classification), decision tree learners and neural networks (deep learning).\nThe talk will last ~90 minutes, during which Vincenzo will also show how to analyze a dataset in R.\nAfter that the attendees should have ~30 minutes to repeat the analysis on a second dataset.\nApproximate outline of the meetup:\n1) Data mining, machine learning and statistics: putting concepts into context\n2) Overview of machine learning tasks: classification, clustering, feature selection, association rules, etc.\n3) Focus on classification: decision trees and neural networks\n4) The importance of being honest: avoid overfitting at all costs!\n5) Analyzing the MNIST dataset with decision trees and neural networks in R\n6) Hands-on: analyzing the Iris dataset\n\n================================\n\nშეხვედრას უმასპინძლებს ვინჩენცო ლაგანი, რომელიც ისაუბრებს Machine learning-ზე. შეხვედრა ჩატარდება ინგლისურ ენაზე.",
+    "status": "PAST",
+    "dateTime": "2017-10-23T19:00:00+04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/244111448/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 8,
+      "waitlistCount": 0,
+      "totalCount": 8
+    },
+    "venues": [
+      {
+        "id": "24812484",
+        "name": "ჯეოლაბი GeoLab",
+        "address": "8 Merab Aleksidze St, Tbilisi 0160",
+        "city": "Tbilisi",
+        "state": "",
+        "country": "ge",
+        "lat": 41.7177,
+        "lon": 44.7848,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "244110930",
+    "title": "Shiny!",
+    "description": "Shiny არის პაკეტი რომელიც შესაძლებელია გამოვიყენოთ ინტერაქტიული ვებ გვერდების შესაქმნელად R studio-ში. სოფო რუხაძე გაგაცნობთ Shiny ფუნქციას და როგორ ხდება მისი გამოყენება R studio-ში გარკვეულ მონაცემებზე დაყრდნობით. შეხვედრა ჩატარდება ქართულ ენაზე.\n\n==================================\n\nShiny is a package that can be used to build interactive web pages with R and RStudio. Sopho Rukhadze will introduce basic Shiny functions and how to build a Shiny app, using in-built data from R. The meetup will be in Georgian language.",
+    "status": "PAST",
+    "dateTime": "2017-10-18T19:00:00+04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/244110930/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "24812484",
+        "name": "ჯეოლაბი GeoLab",
+        "address": "8 Merab Aleksidze St, Tbilisi 0160",
+        "city": "Tbilisi",
+        "state": "",
+        "country": "ge",
+        "lat": 41.7177,
+        "lon": 44.7848,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "243413934",
+    "title": "R-Ladies თბილისის ახალი სეზონი (2)",
+    "description": "გაცნობითი ხასიათის შესავალი სემინარები სექტემბერსა და ოქტომბერში, შაბათ–კვირას ჩატარდება. ამ შეხვედრებზე გავეცნობით R-ს საფუძვლებს (პროგრამის ინსტალაცია, მონაცემთა ობიექტები და სტრუქტურა, სტატისტიკა, ვიზუალიზაცია). პრაქტიკული ნაწილისთვის თან იქონიეთ თქვენი ან საზიარო ლეპტოპი მეგობართან ერთად. გთხოვთ, მიუთითოთ, რომელ შაბათ–კვირას შეძლებთ სემინარზე დასწრებას (ორივე შეხვედრა იგივე პროგრამას მოიცავს, ასე რომ, გთხოვთ, მხოლოდ ერთისთვის გაიაროთ რეგისტრაცია).\n\nრეგისტრაცია: https://docs.google.com/forms/d/e/1FAIpQLSd6jZBQDdt35Hg2MgsanSjgBUFxrY4ZOxwULKuWMIgXOGhMJQ/viewform\n\n===================================\nIntroductory workshops for real beginners will be organised on two weekends in September and October. These meetups will introduce the basics of R (installing, data objects and structures, statistics, visualisation). Please bring a laptop or share one with a friend for practical sessions. Please choose which weekend you will be able to participate (both contain the same information so you should sign up only for one).\n\nInformation and registration: https://docs.google.com/forms/d/e/1FAIpQLSd6jZBQDdt35Hg2MgsanSjgBUFxrY4ZOxwULKuWMIgXOGhMJQ/viewform",
+    "status": "PAST",
+    "dateTime": "2017-10-14T10:00:00+04:00",
+    "duration": "PT29H",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/243413934/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "243739439",
+    "title": "rmarkdown for beginners",
+    "description": "ჩვენი მომდევნო შეხვედრა გაიმართება 4 ოქტომბერს, 2017. შეხვედრის მთავარი თემა არის rmarkdown-ის გამოყენება. შევქმნით ახალ პროექტს. მარტივი მაგალითების გამოყენებით ავაგებთ rmarkdown-ის ფაილებს Rstudio-ს პროგრამაში. შევქმნით ახალ notebook-ს და ვისწავლით მის გამოყენებას. knit ბრძანებით ვნახავთ როგორ უნდა შევქმნათ ახალი ვორდის დოკუმენტი და ახალი პრეზენტაცია, რომლებშიც მოსახერხებელი გზით იქნება წარმოჩენილი ჩვენს მიერ ჩატარებული მარტივი ანალიზის სრული სურათი. შედეგების PDFფორმატში გამოსატანად შესაძლოა დაგვჭირდეს Latex-ის პროგრამა. (Latex-ის საინსტალაციო ლინკი: http://latex-project.org/ftp.html ).\n\n===================================\n\nOur next meet-up will take place on October 4, 2017. The topic will be rmarkdown. We will begin by creating a new project, then using simple examples we will see how to build rmarkdown files in Rstudio. We will create a new notebook and see how it works. By using knit order we will produce a new word document and we will create a new presentation, showing conducted analysis in a convenient way. Also we will be able to have our output in PDF format, for this purpose you may need a Latex program (LaTeX installation link: http://latex-project.org/ftp.html ).\n\nThe meetup will be hosted by Nino Melitauri in Georgian.",
+    "status": "PAST",
+    "dateTime": "2017-10-04T19:00:00+04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/243739439/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [
+      {
+        "id": "24812484",
+        "name": "ჯეოლაბი GeoLab",
+        "address": "8 Merab Aleksidze St, Tbilisi 0160",
+        "city": "Tbilisi",
+        "state": "",
+        "country": "ge",
+        "lat": 41.7177,
+        "lon": 44.7848,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "243413911",
+    "title": "R-Ladies თბილისის ახალი სეზონი",
+    "description": "გაცნობითი ხასიათის შესავალი სემინარები სექტემბერსა და ოქტომბერში, შაბათ–კვირას ჩატარდება. ამ შეხვედრებზე გავეცნობით R-ს საფუძვლებს (პროგრამის ინსტალაცია, მონაცემთა ობიექტები და სტრუქტურა, სტატისტიკა, ვიზუალიზაცია). პრაქტიკული ნაწილისთვის თან იქონიეთ თქვენი ან საზიარო ლეპტოპი მეგობართან ერთად. გთხოვთ, მიუთითოთ, რომელ შაბათ–კვირას შეძლებთ სემინარზე დასწრებას (ორივე შეხვედრა იგივე პროგრამას მოიცავს, ასე რომ, გთხოვთ, მხოლოდ ერთისთვის გაიაროთ რეგისტრაცია).\n\nრეგისტრაცია: https://docs.google.com/forms/d/e/1FAIpQLSd6jZBQDdt35Hg2MgsanSjgBUFxrY4ZOxwULKuWMIgXOGhMJQ/viewform\n\n===================================\nIntroductory workshops for real beginners will be organised on two weekends in September and October. These meetups will introduce the basics of R (installing, data objects and structures, statistics, visualisation). Please bring a laptop or share one with a friend for practical sessions. Please choose which weekend you will be able to participate (both contain the same information so you should sign up only for one).\n\nInformation and registration: https://docs.google.com/forms/d/e/1FAIpQLSd6jZBQDdt35Hg2MgsanSjgBUFxrY4ZOxwULKuWMIgXOGhMJQ/viewform",
+    "status": "PAST",
+    "dateTime": "2017-09-23T10:00:00+04:00",
+    "duration": "PT29H",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/243413911/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "241015901",
+    "title": "Time-series in R",
+    "description": "შეხვედრა შეეხება დროით მწკრივეს. დავიწყებთ საბაზო ოპერაციების გაკეთებით პროგრამაში. შემდეგ როგორც ტექნიკური ისე თეორიული განხილვებით უფრო ღრმად შევეხებით სტაციონარული მწკრივების ორ ძირითად ტიპს: ავტორეგრესიულ (AR) და მცურავი საშუალოს (MA) პროცესებს. ასევე, განვიხილავთ ჰოდრიკ-პრესკოტის ფილტრს, რომლის მეშვეობით ერთმანეთისგან გამოვყობთ დროითი მწკრივის ციკლურ და ტრენდულ კომპონენტებს. ვიმუშავებთ R-სტუდიო-ს პროგრამაში. შეხვედრის პრაქტიკული ნაწილისთვის ძირითადად გამოვიყენებთ სიმულაციურ მონაცემებს. შეხვედრა საინტერესო იქნება დამწყებთათვისაც. დაგვჭირდება “mFilter”-ის დაინსტალირება R-სტუდიო-ში.\n\nშეხვედრას წარმართავს ნინო მელითაური, სამუშაო ენა იქნება ქართული.\n\n==============================================\n\nThe meet-up will be about time series. We will begin by basic operations on time series in R-studio. Then by technical as well as by theoretical discussion we will go further and (1) we will analyze the basic types of stationary time series: autoregressive (AR) and moving average (MA) processes and (2) we will discuss Hodrick-prescott filter, by which we will show how we can separate trend and cyclical components of the time series. We will use R-studio. As practical side, mainly we will work on simulated data. The meet-up will be suitable also for beginners.\n\nWe will need “mFilter” package to install.\n\nThis meetup is hosted by Nino Melitauri and it will be held in Georgian.",
+    "status": "PAST",
+    "dateTime": "2017-06-28T19:00:00+04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/241015901/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 6,
+      "waitlistCount": 0,
+      "totalCount": 6
+    },
+    "venues": [
+      {
+        "id": "24812484",
+        "name": "ჯეოლაბი GeoLab",
+        "address": "8 Merab Aleksidze St, Tbilisi 0160",
+        "city": "Tbilisi",
+        "state": "",
+        "country": "ge",
+        "lat": 41.7177,
+        "lon": 44.7848,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "240601931",
+    "title": "Extracting information from Facebook",
+    "description": "ლევან ბჟალავა ისაუბრებს თუ როგორ გადმოვწეროთ ინფორმაცია ფეისბუქის საჯარო გვერდებიდან, განვსაზღვროთ გვერდის ყველაზე პოპულარული პოსტი (მოწონებები, კომენტარები, გაზიარებები), შევამოწმოთ ვინ მოიწონა ეს პოსტი და განვსაზღვროთ ტრენდი-რომელ პოსტებს აქვს უკეთესი შედეგი. ჩვენ ასევე ვისაუბრებთ როგორ მოვძებნოთ ფეისბუქის ჯგუფები და როგორ გადმოვწეროთ ჯგუფიდან პოსტების მონაცემები.\n=======================\nLevan Bzhalava will talk about how to extract information from Facebook public pages, identify the most popular post of the page (likes, comments, shares), check who liked the post, and implement trend analysis - which posts are doing well. He will show how to search Facebook group page and extract group page post data.",
+    "status": "PAST",
+    "dateTime": "2017-06-20T19:00:00+04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/240601931/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 8,
+      "waitlistCount": 0,
+      "totalCount": 8
+    },
+    "venues": [
+      {
+        "id": "24812484",
+        "name": "ჯეოლაბი GeoLab",
+        "address": "8 Merab Aleksidze St, Tbilisi 0160",
+        "city": "Tbilisi",
+        "state": "",
+        "country": "ge",
+        "lat": 41.7177,
+        "lon": 44.7848,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "240601869",
+    "title": "არჩევნების შედეგების პროგნოზირება/ Predicting Election Outcomes",
+    "description": "წინამდებარე შეხვედრის მიმდინარეობისას, ჩვენ ყურადღებას დავუთმობთ სხვადასხვა მეთოდებით საქართველოს 2012 და 2016 წლის საპარლამენტო არჩევნების შედეგების პროგნოზირებას. განვიხილავთ როგორც დეტერმინისტულ (ე.წ. გამოკითხვათა საშუალოების, მოძრავი საშუალოს და შეწონილი საშუალოს), ასევე ისეთ მიდგომებს, რომლებიც საშუალებას იძლევა, შევაფასოთ გაურკვევლობა (მაგ. ინტეგრირებული ავტორეგრესიული მოძრავი საშუალოს და დინამიურ ბაიესურ მოდელებს).\nსამუშაოდ იქონიეთ შემდეგი ბიბლიოთეკები: curl, dplyr, DT, ggplot2, ggrepel, knitr, lubridate, mapproj, maps, mvtnorm, purrr, reshape2, rmarkdown, rstan, shinystan, stringr, tidyr, zoo, forecast. მონაცემები და რეპლიკაციის სკრიპტი განთავსდება შეხვედრის შესაბამის github-გვერდზე: https://github.com/rladies/meetup-presentations_tbilisi/tree/master/2017_06_05_election_polling\n=============================\nDuring this meeting, we will focus on predicting election results for 2012 and 2016 parliamentary elections. We will go through both deterministic (polling average, weighted and moving average) and those methods which take into consideration uncertainty (e.g. autoregressive integrated models and dynamic Bayesian models).\nPlease install following libraries on your machine: curl, dplyr, DT, ggplot2, ggrepel, knitr, lubridate, mapproj, maps, mvtnorm, purrr, reshape2, rmarkdown, rstan, shinystan, stringr, tidyr, zoo, forecast. Data and replication scripts will be uploaded to the corresponding Github page: During this meeting, we will focus on predicting election results for 2012 and 2016 parliamentary elections. We will go through both deterministic (polling average, weighted and moving average) and those methods which take into consideration uncertainty (e.g. autoregressive integrated models and dynamic Bayesian models).\nPlease install following libraries on your machine: curl, dplyr, DT, ggplot2, ggrepel, knitr, lubridate, mapproj, maps, mvtnorm, purrr, reshape2, rmarkdown, rstan, shinystan, stringr, tidyr, zoo, forecast. Data and replication scripts will be uploaded to the corresponding Github page: https://github.com/rladies/meetup-presentations_tbilisi/tree/master/2017_06_05_election_polling",
+    "status": "PAST",
+    "dateTime": "2017-06-15T19:00:00+04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/240601869/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 7,
+      "waitlistCount": 0,
+      "totalCount": 7
+    },
+    "venues": [
+      {
+        "id": "24812484",
+        "name": "ჯეოლაბი GeoLab",
+        "address": "8 Merab Aleksidze St, Tbilisi 0160",
+        "city": "Tbilisi",
+        "state": "",
+        "country": "ge",
+        "lat": 41.7177,
+        "lon": 44.7848,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "240523052",
+    "title": "String manipulation in R",
+    "description": "ამ შეხვედრაზე ჩვენ შევეხებით R-ში ტექსტურ მონაცემებთან მუშაობის ძირითად ასპექტებს. ჩვენ ყურადღებას გავამახვილებთ stringr პაკეტზე, რომელიც გამოიყენება ტექსტის თანამიმდევრულად და ეფექტურად დასამუშავებლად კოდირების გათვალისწინებით.\n\nსაჩვენებლად განვიხილავთ babynames პაკეტს, რომელიც მოიცავს ამერიკელი ბავშვების სახელებს 1880 წლიდან 2015 წლამდე. ჩვენ დავადგენთ სახელების ყველაზე პოპულარულ პირველ ასოს და სიდიდეს წლის მიხედვით. დამხმარე პაკეტებად გამოვიყენებთ dplyr-ს მონაცემებთან სამუშაოდ და ggplot2-ს ვიზუალიზაციისთვის.\n\n===========================================\n\nIn this session we will go through basics of string manipulation in R. We will concentrate on stringr package, which provides consistent, efficient and encoding-aware tools to work with character strings.\n\nAs a demonstration, we will deal with babynames package, which contains US children names from 1880 to 2015. We will find the most popular first letter and length of name for each year. As supportive packages we will rely on dplyr for data manipulation and on ggplot2 for visualization.",
+    "status": "PAST",
+    "dateTime": "2017-06-08T19:00:00+04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/240523052/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 6,
+      "waitlistCount": 0,
+      "totalCount": 6
+    },
+    "venues": [
+      {
+        "id": "24812484",
+        "name": "ჯეოლაბი GeoLab",
+        "address": "8 Merab Aleksidze St, Tbilisi 0160",
+        "city": "Tbilisi",
+        "state": "",
+        "country": "ge",
+        "lat": 41.7177,
+        "lon": 44.7848,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "240290079",
+    "title": "Looping, Scraping, Data Visualisation Vol. 2",
+    "description": "We will go through the looping and scraping code shown in the previous two meetups. Check the codes on our github page to prepare for tomorrow:\n\nhttps://github.com/rladies/meetup-presentations_tbilisi/tree/master/2017_05_22_looping\n\nand\n\nhttps://github.com/rladies/meetup-presentations_tbilisi/tree/master/2017_05_24_Scraping",
+    "status": "PAST",
+    "dateTime": "2017-05-30T19:00:00+04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/240290079/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "24812484",
+        "name": "ჯეოლაბი GeoLab",
+        "address": "8 Merab Aleksidze St, Tbilisi 0160",
+        "city": "Tbilisi",
+        "state": "",
+        "country": "ge",
+        "lat": 41.7177,
+        "lon": 44.7848,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "239870623",
+    "title": "Data visualisation and scraping data from the web",
+    "description": "Brian Kuns will introduce data visualisation and scraping techniques: 1) Rvest – scraping (html) data, 2) Dplyr and Lubridate – tidying and rearranging data, 3) ggplot2 – plotting data",
+    "status": "PAST",
+    "dateTime": "2017-05-24T19:00:00+04:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/239870623/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 7,
+      "waitlistCount": 0,
+      "totalCount": 7
+    },
+    "venues": [
+      {
+        "id": "24812484",
+        "name": "ჯეოლაბი GeoLab",
+        "address": "8 Merab Aleksidze St, Tbilisi 0160",
+        "city": "Tbilisi",
+        "state": "",
+        "country": "ge",
+        "lat": 41.7177,
+        "lon": 44.7848,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "239870633",
+    "title": "Looping through data",
+    "description": "Looping is automating a multi-step process by organizing sequences of actions or ‘batch’ processes and by grouping the parts that need to be repeated.\n\nDuring this meetup Brian Kuns will cover looping (base-R) and \"data-wrangling\" using dplyr and tidyr. If there's time, we will make a graph or two using ggplot2. The data we will be using is farm yield data at a country level from FAOSTAT. We will go through the procedure of downloading CSV data, looking at this raw data to see how it should be \"wrangled\" or cleaned (which columns are unnecessary? do the columns need to be transposed? etc...).",
+    "status": "PAST",
+    "dateTime": "2017-05-22T19:00:00+04:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/239870633/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [
+      {
+        "id": "24812484",
+        "name": "ჯეოლაბი GeoLab",
+        "address": "8 Merab Aleksidze St, Tbilisi 0160",
+        "city": "Tbilisi",
+        "state": "",
+        "country": "ge",
+        "lat": 41.7177,
+        "lon": 44.7848,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "239870669",
+    "title": "Open-theme meetup",
+    "description": "This is an open-theme meetup. There will be members joining this meetup that can explain data management (data arranging, reshaping, cleaning, indexing, etc), R markdown, regression models as well as what constitutes a function and a package, for example. Join this meetup to ask questions, share experiences or discuss your project.",
+    "status": "PAST",
+    "dateTime": "2017-05-18T19:00:00+04:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/239870669/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 6,
+      "waitlistCount": 0,
+      "totalCount": 6
+    },
+    "venues": [
+      {
+        "id": "24812484",
+        "name": "ჯეოლაბი GeoLab",
+        "address": "8 Merab Aleksidze St, Tbilisi 0160",
+        "city": "Tbilisi",
+        "state": "",
+        "country": "ge",
+        "lat": 41.7177,
+        "lon": 44.7848,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "239870600",
+    "title": "Regression models in R",
+    "description": "Basic introduction to linear and logistic regression models using R and Caucasus Barometer data. Do join even if you have missed some meetups or you are a beginner (in R or regressions).",
+    "status": "PAST",
+    "dateTime": "2017-05-16T19:00:00+04:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/239870600/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 7,
+      "waitlistCount": 0,
+      "totalCount": 7
+    },
+    "venues": [
+      {
+        "id": "24812484",
+        "name": "ჯეოლაბი GeoLab",
+        "address": "8 Merab Aleksidze St, Tbilisi 0160",
+        "city": "Tbilisi",
+        "state": "",
+        "country": "ge",
+        "lat": 41.7177,
+        "lon": 44.7848,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "239536767",
+    "title": "Informal R-Ladies Tbilisi meetup",
+    "description": "Did you miss the previous beginners' meetups or have any questions about R? This is your chance to come and ask or to come and help others find answers before we continue with our regular meetups in May.\n\nLet's meet at Biblusi on Chavchavadze str 7.\n\nPlease RSVP if you plan to join.",
+    "status": "PAST",
+    "dateTime": "2017-05-04T19:00:00+04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/239536767/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "25203786",
+        "name": "Biblusi",
+        "address": "Ilia Chavchavadze 7",
+        "city": "Tbilisi",
+        "state": "",
+        "country": "GE",
+        "lat": 41.7095,
+        "lon": 44.7749,
+        "postalCode": "meetup1",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "239034414",
+    "title": "Introduction to Shiny",
+    "description": "Tedo Gogoladze will host this meetup on Shiny (https://shiny.rstudio.com/) for creating web applications with R.\n\n==========================================\n\nგავეცნობით Shiny - ს (https://shiny.rstudio.com/) ვებ აპლიკაციის შესაქმენლად.",
+    "status": "PAST",
+    "dateTime": "2017-04-12T19:00:00+04:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/239034414/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 9,
+      "waitlistCount": 0,
+      "totalCount": 9
+    },
+    "venues": [
+      {
+        "id": "24812484",
+        "name": "ჯეოლაბი GeoLab",
+        "address": "8 Merab Aleksidze St, Tbilisi 0160",
+        "city": "Tbilisi",
+        "state": "",
+        "country": "ge",
+        "lat": 41.7177,
+        "lon": 44.7848,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "239034691",
+    "title": "Data preparation and manipulation in R",
+    "description": "Basic commands to prepare and manipulate data in R",
+    "status": "PAST",
+    "dateTime": "2017-04-11T19:00:00+04:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/239034691/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 6,
+      "waitlistCount": 0,
+      "totalCount": 6
+    },
+    "venues": [
+      {
+        "id": "24812484",
+        "name": "ჯეოლაბი GeoLab",
+        "address": "8 Merab Aleksidze St, Tbilisi 0160",
+        "city": "Tbilisi",
+        "state": "",
+        "country": "ge",
+        "lat": 41.7177,
+        "lon": 44.7848,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "239034389",
+    "title": "Creating and reading R objects and data",
+    "description": "You can access the materials from the previous session here:\nCode: https://github.com/rladies/meetup-presentations_tbilisi/commit/1dedb893e2214e48be6b2f8764633f9a10376229\n\nSlides: https://github.com/rladies/meetup-presentations_tbilisi/blob/master/R-Ladies%20Tbilisi%2006042017.pdf\n\nYou can familiarize yourself with basic R commands here: http://tryr.codeschool.com.\n\nDo join us even if you missed the intro session! If you need help with installing the programme, come a few minutes earlier.\n======================================\nვინც ვერ მოახერხეთ მოსვლა, პირველი შეხვედრის მასალები შეგიძლიათ იხილოთ მოცემულ ბმულზე:\nhttps://github.com/rladies/meetup-presentations_tbilisi/commit/1dedb893e2214e48be6b2f8764633f9a10376229\n\nhttps://github.com/rladies/meetup-presentations_tbilisi/blob/master/R-Ladies%20Tbilisi%2006042017.pdf\n\nR-ის გადმოსაწერად (Windows-ისთვის) გამოიყენეთ ეს ბმული: https://cran.r-project.org/bin/windows/base/\n\nRStudio-ს გადმოსაწერად გამოიყენეთ ეს ბმული: https://www.rstudio.com/products/rstudio/download/\n\nასევე, შეგიძლიათ გაეცნოთ R-ის საბაზისო ფუნქციებს (თავი I) მოცემულ ბმულზე:\nhttp://tryr.codeschool.com.\n\nგელოდებით ყველას, შეხვედრა საინტერესოა მათთვისაც ვინც ვერ შეძლო წინა ლექციებზე დასწრება.",
+    "status": "PAST",
+    "dateTime": "2017-04-10T19:00:00+04:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/239034389/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 7,
+      "waitlistCount": 0,
+      "totalCount": 7
+    },
+    "venues": [
+      {
+        "id": "24812484",
+        "name": "ჯეოლაბი GeoLab",
+        "address": "8 Merab Aleksidze St, Tbilisi 0160",
+        "city": "Tbilisi",
+        "state": "",
+        "country": "ge",
+        "lat": 41.7177,
+        "lon": 44.7848,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "238852317",
+    "title": "Beginners' Drop - In",
+    "description": "We will have another batch of beginners' meetups starting on April 6! This is a good chance to take up R learning again. On April 6 we will download and install R and RStudio together, and have an introduction to basic commands in R and RStudio. Please bring your laptops. This will be a hands-on session. The meetup will be held in English.\n==================================\nთქვენთან ერთად გადმოვწერთ R-სა და R-Studio-ს, გავეცნობით R-ის საწყისებსა და მის რამდენიმე ბრძანებას.\n\nგთხოვთ, თუ შესაძლებელია, თან იქონიოთ თქვენი ლეპტოპი. შეხვედრა წარიმართება ინგლისურ ენაზე",
+    "status": "PAST",
+    "dateTime": "2017-04-06T19:00:00+04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/238852317/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 16,
+      "waitlistCount": 0,
+      "totalCount": 16
+    },
+    "venues": [
+      {
+        "id": "24812484",
+        "name": "ჯეოლაბი GeoLab",
+        "address": "8 Merab Aleksidze St, Tbilisi 0160",
+        "city": "Tbilisi",
+        "state": "",
+        "country": "ge",
+        "lat": 41.7177,
+        "lon": 44.7848,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "238108030",
+    "title": "Mapping Georgia",
+    "description": "Alessandra Carioli (WorldPop & University of Southampton) will host this R-Ladies meetup.\n\nOn March 16 (Thursday) Alessandra will cover the basics of creating maps in R. We will create different maps of Georgia.\n\nFeel free to drop in even if you haven't attended all the previous meetups.\n\n-------------------------------------------------------------\n\nალესსანდრა კარიოლი (WorldPop & University of Southampton) უმასპინძლებს შემდეგ შეხვედრას.\n\n16 მარტი (ხუთშაბათი) - რუქების შექმნა, საქართველოს სხვადასხვა რუქები.",
+    "status": "PAST",
+    "dateTime": "2017-03-16T19:15:00+04:00",
+    "duration": "PT1H45M",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/238108030/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 16,
+      "waitlistCount": 0,
+      "totalCount": 16
+    },
+    "venues": [
+      {
+        "id": "24928764",
+        "name": "ISET",
+        "address": "16 Zandukeli str.",
+        "city": "Tbilisi",
+        "state": "",
+        "country": "ge",
+        "lat": 41.7038,
+        "lon": 44.7879,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "238108013",
+    "title": "Data visualisation: bar charts, pie charts, pyramid charts",
+    "description": "Alessandra Carioli (WorldPop & University of Southampton) will host this R-Ladies meetup.\n\nOn March 14 (Tuesday) Alessandra will show how to do data visualisation (ggplot2). We will visualise bar charts, pie charts and pyramid charts, using different indicators of Georgia.\n\nFeel free to drop in even if you haven't attended all the previous meetups.\n\n--------------------------------------------------------------------\n\nალესსანდრა კარიოლი (WorldPop & University of Southampton) უმასპინძლებს შემდეგ შეხვედრას (ISET- ის 5.2 ოთახში 19:15 ზე).\n\n14 მარტი (სამშაბათი) - მონაცემთა ვიზუალიზაცია (ggplot2): ბარი გრაფიკი, ტორტი ჩატში, პირამიდას .",
+    "status": "PAST",
+    "dateTime": "2017-03-14T19:15:00+04:00",
+    "duration": "PT1H45M",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/238108013/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 14,
+      "waitlistCount": 0,
+      "totalCount": 14
+    },
+    "venues": [
+      {
+        "id": "24928764",
+        "name": "ISET",
+        "address": "16 Zandukeli str.",
+        "city": "Tbilisi",
+        "state": "",
+        "country": "ge",
+        "lat": 41.7038,
+        "lon": 44.7879,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "238107996",
+    "title": "Linear regression in R",
+    "description": "Alessandra Carioli (WorldPop & University of Southampton) will host our next three R-Ladies meetups (ISET, room 5.2). On March 9 (Thursday) Alessandra will talk about the basics of linear regression analysis and how to do it in R.\n\nFeel free to drop in even if you haven't attended all the meetups previously.\n\n---------------------------------------------------------------------------------------\n\nალესსანდრა კარიოლი (WorldPop & University of Southampton) უმასპინძლებს შემდეგ შეხვედრას (ISET- ის 5.2 ოთახში 19:15 ზე).\n\n9 მარტი (ხუთშაბათი) - წრფივი რეგრესია",
+    "status": "PAST",
+    "dateTime": "2017-03-09T19:15:00+04:00",
+    "duration": "PT1H45M",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/238107996/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 13,
+      "waitlistCount": 0,
+      "totalCount": 13
+    },
+    "venues": [
+      {
+        "id": "24928764",
+        "name": "ISET",
+        "address": "16 Zandukeli str.",
+        "city": "Tbilisi",
+        "state": "",
+        "country": "ge",
+        "lat": 41.7038,
+        "lon": 44.7879,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "237753991",
+    "title": "T-test!",
+    "description": "მოგესალმებით!ჩვენი მომდევნო სესია შედგება 23 თებერვალს ეკონომიკის საერთაშორისო სკოლა ISET- ის 5.2 ოთახში 19:00 ზე.\n\nამ სესიის განმავლობაში გავივლით t ტესტს და მისი გამოყენების რამდენიმე გზას R-ში, ასევე ვისწავლით ფუნქიცის წერის საწყისებს და უკვე დაწერილი ფუნქციების გამოყენებას საჯაროდ წვდომადი მონაცემთა ბაზების მაგალითზე.\n\n--------------------------------------------------------------------------------\n\nOur next session is on February 23. In this session, we’ll go over how to write a student’s test in R, and in the process learn the basics of writing a function in R. In addition, we’ll go over a few types of t-tests for different circumstances, using already written t-test functions which R has. Moving from the formulas and a brief beer involved history of the t-test, we’ll go over a few applications in R using publicly available data sets.\n\nWe meet again at ISET in room 5.2 from 7pm.",
+    "status": "PAST",
+    "dateTime": "2017-02-23T19:00:00+04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/237753991/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 7,
+      "waitlistCount": 0,
+      "totalCount": 7
+    },
+    "venues": [
+      {
+        "id": "24928764",
+        "name": "ISET",
+        "address": "16 Zandukeli str.",
+        "city": "Tbilisi",
+        "state": "",
+        "country": "ge",
+        "lat": 41.7038,
+        "lon": 44.7879,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "237396654",
+    "title": "Scraping, tidying and plotting html data",
+    "description": "ჩვენი შემდეგი შეხვედრა შედგება 9 თებერვალს, ეკონომიკის საერთაშორისო სკოლა ISET-ის 5.2 ოთახში 19:00 საათზე.სესიას გაუძღვება ბრაიან კუნსი სტოქჰოლმის უნივერსიტეტიდან. სესია შეეხება შემდეგ საკითხებს:1. Rvest-მონაცემთა დაყოფა2. Dplyr და Lubridate - მონაცემთა დალაგება, ცვლილება, რეკონსტრუქცია3. ggplot2 - მონაცემთა ვიზუალიზაცია.\n\n=====================================================\n\nWe will meet again next Thursday, February 9 in room 5.2 at ISET starting from 7PM. Brian Kuns from the University of Stockholm will go through the following topics: 1) Rvest – scraping (html) data, 2) Dplyr and Lubridate – tidying and rearranging data, 3) ggplot2 – plotting data.",
+    "status": "PAST",
+    "dateTime": "2017-02-09T19:00:00+04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/237396654/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 10,
+      "waitlistCount": 0,
+      "totalCount": 10
+    },
+    "venues": [],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "236984580",
+    "title": "Different uses of ggplot",
+    "description": "შემდეგი შეხვედრა იგეგმება 26 იანვარის. 19:00-დან 21:00 საათამდე (ოთახში 5.2, ISET-ში - ზანდუკელის ქ. #16). ჩვენ გავეცნობით ggplot პაკეტის მრავალფეროვან შესაძლებლობებს.\n\nNext meetup is on January 26, at ISET (16 Zandukeli str), room 5.2 between 7-9 PM. We will explore different uses of the ggplot plotting package",
+    "status": "PAST",
+    "dateTime": "2017-01-26T19:00:00+04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/236984580/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 14,
+      "waitlistCount": 0,
+      "totalCount": 14
+    },
+    "venues": [
+      {
+        "id": "24928764",
+        "name": "ISET",
+        "address": "16 Zandukeli str.",
+        "city": "Tbilisi",
+        "state": "",
+        "country": "ge",
+        "lat": 41.7038,
+        "lon": 44.7879,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "256400341",
+    "title": "R პაკეტის შექმნა კომპანიის შიდა გამოყენებისთვის",
+    "description": "შეხვედრის მთავარი თემა იქნება კომპანიის შიდა გამოყენებისთვის R პაკეტის შექმნა. ვისაუბრებთ სამ ძირითად თემაზე:\n\n1. რა ტიპის კომპანიას შეიძლება დასჭირდეს საკუთარი R პაკეტი და რა არის მთავარი ასეთი პაკეტის შექმნისას. განვიხილავთ კონკრეტულ შემთხვევას, მსოფლიოში ერთ-ერთი უმსხვილესი მარკეტინგული კვლევების კომპანიის \"კანტარ\"-ის მაგალითზე.\n\n2. განვიხილავთ სტატისტიკურ მეთოდს რომლის მიხედვითაც შეიქმნა კონკრეტული R პაკეტი ამ კომპანიისთვის. აღნიშნული მეთოდის მიზანია დიდი კითხვარების მოდულარიზაცია (დაყოფა) მონაცემების ხარისხის გაუმჯობესების და არარსებული მონაცემების რაოდენობის შემცირების მიზნით. აღნიშნული მეთოდის საჭიროებას განვიხილავთ სხვადასხვა საუკეთესო გამოცდილებების მაგალითზე.\n\n3. კონკრეტული მონაცემების და კითხვარის მაგალითზე გამოვიყენებთ აღნიშნულ R პაკეტს და ვისაუბრებთ მის ძირითად ფუნქციებზე.\n\nშეხვედრას ჩაატარებს ნუცა აბაზაძე. ნუცამ ახლახანს დაამთავრა სამაგისტრო პროგრამა Survey Statistics გერმანიაში, ბამბერგის უნივერსიტეტში. სამაგისტრო ნაშრომის ფარგლებში მან შექმნა R პაკეტი ერთ-ერთი უმსხვილესი საერთაშორისო კვლევითი კომპანიისთვის. ამასთანავე მას აქვს 2 წლიანი გამოცდილება კვლევითი და საკონსულტაციო მიმართულებით.\n\nThe meetup will be hosted by Nutsa Abazadze, the working language will be Georgian.",
+    "status": "PAST",
+    "dateTime": "2018-11-20T19:00:00+04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/256400341/",
+    "featuredEventPhoto": {
+      "id": "476331417",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/8/d/9/highres_476331417.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/8/d/9/600_476331417.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/8/d/9/thumb_476331417.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 10,
+      "waitlistCount": 0,
+      "totalCount": 10
+    },
+    "venues": [
+      {
+        "id": "24812484",
+        "name": "ჯეოლაბი GeoLab",
+        "address": "8 Merab Aleksidze St, Tbilisi 0160",
+        "city": "Tbilisi",
+        "state": "",
+        "country": "ge",
+        "lat": 41.7177,
+        "lon": 44.7848,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "255928526",
+    "title": "Hosting Isabella Gollini & Omayma Said",
+    "description": "We are hosting two international r-ladies: Isabella Gollini and Omayma Said.\n\nIsabella's talk is titled \"Exploring network data with latentnet and lvm4net\". In this talk she will perform real network data analysis, using latentnet and lvm4net R packages. These packages provide a rich source for performing probabilistic visualisation and clustering of heterogenous network structures.\n\nOmayma's talk's title will be confirmed soon as well.\n\nAbout speakers:\nIsabella is an Assistant Professor in statistics at the University College Dublin.\nOmayma has experience in engineering and working in a tech company.\nBoth ladies are in town for the DataFest Tbilisi.\n\nThe event is held in English, and it starts at 6.45! So please be there on time.",
+    "status": "PAST",
+    "dateTime": "2018-11-06T18:45:00+04:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/255928526/",
+    "featuredEventPhoto": {
+      "id": "475878876",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/9/b/c/highres_475878876.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/9/b/c/600_475878876.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/9/b/c/thumb_475878876.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 8,
+      "waitlistCount": 0,
+      "totalCount": 8
+    },
+    "venues": [
+      {
+        "id": "24812484",
+        "name": "ჯეოლაბი GeoLab",
+        "address": "8 Merab Aleksidze St, Tbilisi 0160",
+        "city": "Tbilisi",
+        "state": "",
+        "country": "ge",
+        "lat": 41.7177,
+        "lon": 44.7848,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "251642199",
+    "title": "Survival analysis, news and organisational issues",
+    "description": "The meetup will focus on the following three topics:\n\n1. Survival analysis of timing of death using the “survival” package. Visualising the data using the “ggplot2” and “survminer” packages.\n2. News from the eRum conference.\n3. Future activities and R-Ladies Tbilisi organisational issues.\n\nThere will be R-Ladies hex-stickers for participants to grab. This meetup is not a hands-on workshop. The meetup will be held in English.",
+    "status": "PAST",
+    "dateTime": "2018-07-03T19:00:00+04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/251642199/",
+    "featuredEventPhoto": {
+      "id": "471948469",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/d/5/5/highres_471948469.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/d/5/5/600_471948469.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/d/5/5/thumb_471948469.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 8,
+      "waitlistCount": 0,
+      "totalCount": 8
+    },
+    "venues": [
+      {
+        "id": "24812484",
+        "name": "ჯეოლაბი GeoLab",
+        "address": "8 Merab Aleksidze St, Tbilisi 0160",
+        "city": "Tbilisi",
+        "state": "",
+        "country": "ge",
+        "lat": 41.7177,
+        "lon": 44.7848,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "250912964",
+    "title": "Impromptu beginners' meetup",
+    "description": "This impromptu beginners' meetup has been organised due to popular request. It is a short version of our regular beginner workshops, and covers the following:\n19.00 - 20.00 Intro to R data objects, structures and indexing\n20.00 - 21.00 Basic statistics\n\nPlease have R and RStudio downloaded and installed on your laptops. You can download R here: https://cran.r-project.org/bin/windows/base/. You will also need RStudio: https://www.rstudio.com/products/rstudio/download/.\n\nThis meetup is hosted by Nino Melitauri (EMTG), and is given in English. Everyone is welcome to attend.",
+    "status": "PAST",
+    "dateTime": "2018-05-23T19:00:00+04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/250912964/",
+    "featuredEventPhoto": {
+      "id": "471209539",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/3/6/3/highres_471209539.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/3/6/3/600_471209539.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/3/6/3/thumb_471209539.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "24812484",
+        "name": "ჯეოლაბი GeoLab",
+        "address": "8 Merab Aleksidze St, Tbilisi 0160",
+        "city": "Tbilisi",
+        "state": "",
+        "country": "ge",
+        "lat": 41.7177,
+        "lon": 44.7848,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "249536919",
+    "title": "Data wrangling",
+    "description": "მომდევლო შეხვედრა, რომელიც ჩატარდება 11 აპრილს, ეხება Data Wrangling -ის თემას სადაც გავეცნობით ‘dplyr’ სა და ‘tidyr’ პაკეტების გამოყენებას. Data Wrangling საშუალებას იძლევა, მონაცემთა ბაზებზე მოვახდინოთ სხვადასხვა სახის მანიპულაცია, რაც ამარიტივებს მონაცემთა ვიზუალიზაციას და საშუალებას გვაძლევს, მონაცემთა ბაზებზე ჩავატაროთ სხვადასხვა მოქმედება. მოცემული სესიის მიზანია, მსმენელს გააცნოს სხვადასხვა სახის ბრძანება, ისეთი როგორიც არის შეჯამება, ახალი ცვლადის შექმნა, მონაცემთა სორტირება, მონაცემთა გავრცელება, დაჯგუფება და შერწყმა, რაც მუდმივად გამოსადეგია მონაცემთა ბაზებთან მუშაობისას. სესია ჩატარდება ქართულ ენაზე.\n\nNext meetup will take place on 11th April, where we discuss data wrangling and how to use ‘dplyr’ and ‘tidyr’ packages. Data wrangling gives the possibility to manipulate data, and make data visualization more flexible and give us possibility to do different operations on data. This workshop introduces commands such as summarise, create, sort variable for a dataframe; spread, gather data and merge datasets - all very useful tools when working on big data. The session will be in Georgian language.",
+    "status": "PAST",
+    "dateTime": "2018-04-11T19:00:00+04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/249536919/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 6,
+      "waitlistCount": 0,
+      "totalCount": 6
+    },
+    "venues": [
+      {
+        "id": "24812484",
+        "name": "ჯეოლაბი GeoLab",
+        "address": "8 Merab Aleksidze St, Tbilisi 0160",
+        "city": "Tbilisi",
+        "state": "",
+        "country": "ge",
+        "lat": 41.7177,
+        "lon": 44.7848,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "249225943",
+    "title": "Machine learning with R",
+    "description": "თბილისი რ-ქალბატონების მომავალი შეხვედრის საგანი არის მანქანური სწავლება, რომელიც დღესდღეობით დიდი პოპულარულობით სარგებლობს და კერძოდ random forest-ის მეთოდი. გავეცნობით მეთოდის არსს, თუ როგორ მუშაობს ის და რა არის გადაწყვეტილებათა ხე. გავაანალიზებთ მეთოდის უპირატესობებს, როგორიცაა რეგრესიისა და კლასიფიკაციის პრობლემების გადაწყვეტა, რობასტულობა, ათასობით input ცვლადის გადამუშავება მათი გადარჩევის გარეშე, ცვლადების რანჟირება მათი მნიშვნელოვნების მიხედვით, გამოტოვებული ცვლადების ეფექტური შიდა კონტროლი. მეთოდს პრაქტიკულად გამოვიყენებთ მომხმარებელთა ბრუნვის (დაკარგვა) მაგალითზე. შეხვედრას წარმართავს ნინო მელითაური, სამუშაო ენა იქნება ქართული.\n============================\nThe next R-ladies Tbilisi meetup is about machine learning, and in particular, random forest method. We will introduce the main idea of it, how it works, and what is a decision tree. We will realize the advantages of the random forest, which are:\n- robustness to correlated predictors,\n- solving both regression and classification problems,\n- handling thousands of input variables without variable selection,\n- feature selection tool using its variable importance plot,\n- taking care of missing data internally in an effective manner.\n\nWe will implement the method using customer churn example.\n\nThe meetup will be hosted by Nino Melitauri, the working language will be Georgian.",
+    "status": "PAST",
+    "dateTime": "2018-04-04T19:00:00+04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/249225943/",
+    "featuredEventPhoto": {
+      "id": "469667484",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/9/7/c/highres_469667484.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/9/7/c/600_469667484.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/9/7/c/thumb_469667484.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [
+      {
+        "id": "24812484",
+        "name": "ჯეოლაბი GeoLab",
+        "address": "8 Merab Aleksidze St, Tbilisi 0160",
+        "city": "Tbilisi",
+        "state": "",
+        "country": "ge",
+        "lat": 41.7177,
+        "lon": 44.7848,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "248657865",
+    "title": "Creating a website/ blog",
+    "description": "• What we'll do\nWe will create a website in R using blogdown (https://bookdown.org/yihui/blogdown/) and Hugo (https://gohugo.io/).\nWe will view the website on our local browser. This meetup is suitable for beginners. It will be in English.\n\n• What to bring\n\n• Important to know",
+    "status": "PAST",
+    "dateTime": "2018-03-26T19:00:00+04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/248657865/",
+    "featuredEventPhoto": {
+      "id": "469192630",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/d/9/6/highres_469192630.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/d/9/6/600_469192630.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/d/9/6/thumb_469192630.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [
+      {
+        "id": "24812484",
+        "name": "ჯეოლაბი GeoLab",
+        "address": "8 Merab Aleksidze St, Tbilisi 0160",
+        "city": "Tbilisi",
+        "state": "",
+        "country": "ge",
+        "lat": 41.7177,
+        "lon": 44.7848,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "248220515",
+    "title": "RMarkdown - Creating Documents in R (beginners)",
+    "description": "შეხვედრის მთავარი თემა არის rmarkdown-ის გამოყენება. შევქმნით ახალ პროექტს. მარტივი მაგალითების გამოყენებით ავაგებთ rmarkdown-ის ფაილებს Rstudio-ს პროგრამაში. knit ბრძანებით ვნახავთ როგორ უნდა შევქმნათ ახალი ვორდის დოკუმენტი და ახალი პრეზენტაცია, რომლებშიც მოსახერხებელი გზით იქნება წარმოჩენილი ჩვენს მიერ ჩატარებული მარტივი ანალიზის სრული სურათი.\n===================================\n\nThe topic of the meetup is RMarkdown. We will begin by creating a new project, then using simple examples we will see how to build RMarkdown files (Word document, presentation, PDF) in Rstudio.\n\nThe meetup will be hosted by Nino Melitauri in Georgian.",
+    "status": "PAST",
+    "dateTime": "2018-03-05T19:00:00+04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/248220515/",
+    "featuredEventPhoto": {
+      "id": "468833805",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/2/2/d/highres_468833805.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/2/2/d/600_468833805.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/2/2/d/thumb_468833805.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 8,
+      "waitlistCount": 0,
+      "totalCount": 8
+    },
+    "venues": [
+      {
+        "id": "24812484",
+        "name": "ჯეოლაბი GeoLab",
+        "address": "8 Merab Aleksidze St, Tbilisi 0160",
+        "city": "Tbilisi",
+        "state": "",
+        "country": "ge",
+        "lat": 41.7177,
+        "lon": 44.7848,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "247642103",
+    "title": "Caucasus Barometer 2017",
+    "description": "დავით სიჭინავა ისაუბრებს, თუ როგორ უნდა ვიმუშაოთ R გარემოში მასობრივი გამოკითხვის მონაცემებზე. ლექციის მსვლელობისას შევისწავლით ისეთი ბიბლიოთეკების გამოყენებას, როგორიცაა survey, readstata13, haven და foreign. 2017 წლის \"კავკასიის ბარომეტრის\" მონაცემების მაგალითზე, დათო გვაჩვენებს, თუ როგორ უნდა ჩავატაროთ გამოკითხვის მონაცემების მარტივი ანალიზი და ვიზუალიზაცია.",
+    "status": "PAST",
+    "dateTime": "2018-02-13T19:00:00+04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/247642103/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 13,
+      "waitlistCount": 0,
+      "totalCount": 13
+    },
+    "venues": [
+      {
+        "id": "24812484",
+        "name": "ჯეოლაბი GeoLab",
+        "address": "8 Merab Aleksidze St, Tbilisi 0160",
+        "city": "Tbilisi",
+        "state": "",
+        "country": "ge",
+        "lat": 41.7177,
+        "lon": 44.7848,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "247047719",
+    "title": "Loops, if-else and apply functions",
+    "description": "• What we'll do\nამ ლექციაში ვისწავლით რამოდენიმე საბაზისო პროგრმულ ინსტრუმენტს, როგორიც არის loop ფუნქცია (ასევე როგორ არის შესაძლებელი იგვე ოპერაციების ჩატარება უფრო მარტივად სხვადასხვა ფუნქციების გამოყენებით) . სოფო რუხაძე გვანახებს როგორ არის შესაძლებელი სიცოცხლის მოსალოდნელი ხანგრძლივობის გამოთვლა იაპონელ ქალებში მოცემული ფუნქციების საშუალებით. ასევე პროგრამაში შევქმნით მონაცემებს რომ მარტივად იყოს გასაგები არსებული ფუნქციების გამოყენების მიზანი. გავეცნობით if, if-else, for loop, while-loop, ლოგიკურ ბრძანებებს როგორიც არის and და or, ასევე გამოივყენებთ apply, lapply, sapply, tapply ფუნქციებს. ზემოთ აღნიშნული ფუნქციები საკმაოდ გავრცელებულია და სასარგებლოა იმათთვის ვინს ვმუშაობს სხვადსხვა ტიპის მქონე ცვლადების მონაცემეთა ბაზებთან.\n\nThis meetup is about programming tools such as loops (as well as tips how to avoid them). Sopo Rukhadze will show how to use if, if-else, for loop, while-loop, logical commands (and, or -functions), and apply, lapply, sapply, tapply functions to avoid for-loop . This meetup will be in Georgian.\n\n• What to bring\n\n• Important to know",
+    "status": "PAST",
+    "dateTime": "2018-01-29T19:00:00+04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/247047719/",
+    "featuredEventPhoto": {
+      "id": "467818497",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/e/4/8/1/highres_467818497.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/e/4/8/1/600_467818497.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/4/8/1/thumb_467818497.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 6,
+      "waitlistCount": 0,
+      "totalCount": 6
+    },
+    "venues": [
+      {
+        "id": "24812484",
+        "name": "ჯეოლაბი GeoLab",
+        "address": "8 Merab Aleksidze St, Tbilisi 0160",
+        "city": "Tbilisi",
+        "state": "",
+        "country": "ge",
+        "lat": 41.7177,
+        "lon": 44.7848,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "265973111",
+    "title": "Working with sheets (hosting Ildi Czeller)",
+    "description": "First, Ildi Czeller will introduce her daily work: how does a typical project look like, what she uses R for, what kind of internal R packages they build and use. The second part will be more interactive: you will learn about packages to work with sheets: the readxl, googledrive and googlesheets(4) packages are useful to read and write data for collaboration with others who do not necessarily use R. It will be useful to bring your own laptop with R installed but you will be able to follow and learn without that as well.\n\nAbout Ildi: Ildi uses R for more than 4 years now in her work as a Data Scientist at Emarsys. She graduated as a mathematician and mostly learned programming on the job. She uses a lot of {shiny} and {data.table} and has experience in developing R packages for internal use. She finds it exciting to collaborate with people with different backgrounds. Ildi is a regular presenter at meetups and conferences and also teaches software engineering to high-school students in her free time.\n\nIldi is in town for the upcoming DataFest Tbilisi conference where she will give a talk and a workshop.",
+    "status": "PAST",
+    "dateTime": "2019-11-13T19:00:00+04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/265973111/",
+    "featuredEventPhoto": {
+      "id": "486074676",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/9/5/4/highres_486074676.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/9/5/4/600_486074676.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/9/5/4/thumb_486074676.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 10,
+      "waitlistCount": 0,
+      "totalCount": 10
+    },
+    "venues": [
+      {
+        "id": "24812484",
+        "name": "ჯეოლაბი GeoLab",
+        "address": "8 Merab Aleksidze St, Tbilisi 0160",
+        "city": "Tbilisi",
+        "state": "",
+        "country": "ge",
+        "lat": 41.7177,
+        "lon": 44.7848,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "259862639",
+    "title": "დამწყებთა სემინარი (3)",
+    "description": "R-ს შეხვედრები გრძელდება! ამჯერად დამწყებთა სემინარები ჩატარდება 28 მარტს, 11 და 18 აპრილს.\n\n28 მარტი - ნუცა აბაზაძე გაგაცნობთ R-ს საფუძვლებს\n11 აპრილი- ნატო ხალაძე ისაუბრებს რეგრესიულ ანალიზზე R-ს საშუალებით\n18 აპრილი- ნუცა აბაზაძე გაუძღვება შეხვედრას მონაცემთა ვიზუალიზაციაზე\n\nშეხვედრის ადგილი ჯეოლაბი, დასაწყისი 19:00 საათზე.\nშეხვედრებზე დასასწრებად R-ს ცოდნა არ არის აუცილებელი.",
+    "status": "CANCELLED",
+    "dateTime": "2019-04-18T19:00:00+04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/259862639/",
+    "featuredEventPhoto": {
+      "id": "479599015",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/a/4/7/highres_479599015.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/a/4/7/600_479599015.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/a/4/7/thumb_479599015.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 2,
+      "waitlistCount": 0,
+      "totalCount": 2
+    },
+    "venues": [
+      {
+        "id": "24812484",
+        "name": "ჯეოლაბი GeoLab",
+        "address": "8 Merab Aleksidze St, Tbilisi 0160",
+        "city": "Tbilisi",
+        "state": "",
+        "country": "ge",
+        "lat": 41.7177,
+        "lon": 44.7848,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "259862629",
+    "title": "დამწყებთა სემინარი (2)",
+    "description": "R-ს შეხვედრები გრძელდება! ამჯერად დამწყებთა სემინარები ჩატარდება 28 მარტს, 11 და 18 აპრილს.\n\n28 მარტი - ნუცა აბაზაძე გაგაცნობთ R-ს საფუძვლებს\n11 აპრილი- ნატო ხალაძე ისაუბრებს რეგრესიულ ანალიზზე R-ს საშუალებით\n18 აპრილი- ნუცა აბაზაძე გაუძღვება შეხვედრას მონაცემთა ვიზუალიზაციაზე\n\nშეხვედრის ადგილი ჯეოლაბი, დასაწყისი 19:00 საათზე.\nშეხვედრებზე დასასწრებად R-ს ცოდნა არ არის აუცილებელი.",
+    "status": "PAST",
+    "dateTime": "2019-04-11T19:00:00+04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/259862629/",
+    "featuredEventPhoto": {
+      "id": "479598997",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/a/3/5/highres_479598997.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/a/3/5/600_479598997.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/a/3/5/thumb_479598997.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "24812484",
+        "name": "ჯეოლაბი GeoLab",
+        "address": "8 Merab Aleksidze St, Tbilisi 0160",
+        "city": "Tbilisi",
+        "state": "",
+        "country": "ge",
+        "lat": 41.7177,
+        "lon": 44.7848,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "259862619",
+    "title": "დამწყებთა სემინარი (1)",
+    "description": "R-ს შეხვედრები გრძელდება! ამჯერად დამწყებთა სემინარები ჩატარდება 28 მარტს, 11 და 18 აპრილს.\n\n28 მარტი - ნუცა აბაზაძე გაგაცნობთ R-ს საფუძვლებს\n11 აპრილი- ნატო ხალაძე ისაუბრებს რეგრესიულ ანალიზზე R-ს საშუალებით\n18 აპრილი- ნუცა აბაზაძე გაუძღვება შეხვედრას მონაცემთა ვიზუალიზაციაზე\n\nშეხვედრის ადგილი ჯეოლაბი, დასაწყისი 19:00 საათზე.\nშეხვედრებზე დასასწრებად R-ს ცოდნა არ არის აუცილებელი.",
+    "status": "PAST",
+    "dateTime": "2019-03-28T19:00:00+04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/259862619/",
+    "featuredEventPhoto": {
+      "id": "479598892",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/9/c/c/highres_479598892.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/9/c/c/600_479598892.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/9/c/c/thumb_479598892.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "24812484",
+        "name": "ჯეოლაბი GeoLab",
+        "address": "8 Merab Aleksidze St, Tbilisi 0160",
+        "city": "Tbilisi",
+        "state": "",
+        "country": "ge",
+        "lat": 41.7177,
+        "lon": 44.7848,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "257922559",
+    "title": "ვებ-მონაცემთა მოპოვება R-ით",
+    "description": "დღეს უამრავი რესურსი არსებობს მონაცემთა მოსაპოვებლად. არის ვებ გვერდები სადაც ღიად აზიარებენ მზა მონაცემთა ბაზებს. ასევე, ბევრი დიდი კომპანია უადვილებს მომხმარებელს მონაცემთა გამოყენებას მოსახერხებელი API-ებით. თუმცა, ვებ სივრცის დიდი ნაწილის მონაცემთა მადანი მაინც რჩება შედარებით ნაკლებად ხელმისაწვდომი. შეხვედრაზე ვისაუბრებთ R-ის rvest პაკეტის გამოყენებაზე ასეთ მონაცემთა მოსაპოვებლად. განვიხილავთ ამ პროცესის კომპონენტებს კონკრეტულ მაგალითზე.\n\nშეხვედრა გაიმართება ქართულ ენაზე და მას უმასპინძლებს ანა მამათელაშვილი. ანა არის მათემატიკოსი, მუშაობს მელბურნის უნივერსიტეტში და ძალიან უყვარს R, პითონი, ველოსიპედით სიარული და ბუნებრივი ენის დამუშავება.",
+    "status": "PAST",
+    "dateTime": "2019-01-22T19:00:00+04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/257922559/",
+    "featuredEventPhoto": {
+      "id": "477692039",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/d/2/7/highres_477692039.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/d/2/7/600_477692039.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/d/2/7/thumb_477692039.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 8,
+      "waitlistCount": 0,
+      "totalCount": 8
+    },
+    "venues": [
+      {
+        "id": "24812484",
+        "name": "ჯეოლაბი GeoLab",
+        "address": "8 Merab Aleksidze St, Tbilisi 0160",
+        "city": "Tbilisi",
+        "state": "",
+        "country": "ge",
+        "lat": 41.7177,
+        "lon": 44.7848,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "274802947",
+    "title": "კოვიდ 19-ის  მონაცემთა ბაზის ანალიზი, ვიზუალიზაცია და ანიმაცია",
+    "description": "შეხვედრის მიზანი:\n\nშეხვედრაზე გამოვიყენებთ Johns Hopkins University-ს მიერ შექმნილ კორონავირუსის მუდმივად განახლებად მონანცემთა ბაზას, რომელიც ყველა ქვეყნის (მათ შორის საქართველოს) მონაცემს მოიცავს.\n\ncoronavirus-ის და dplyr-ის პაკეტების მეშვეობით გადმოვწერთ და გავაანალიზებთ საქართველოში არსებულ შემთხვევებს (დადასტურებული, გამოჯანმრთელებული, გარდაცვლილი) 2020 წლის იანვრიდან 2020 წლის დეკემბრის ჩათვლით, შემდეგ კი, ggplot2 და gganimate პაკეტების საშუალებით ამ მონაცემების გრაფიკულ ვიზუალიზაციას და ანიმაციას შევქმნით.\n\nსპიკერი:\nნინო გუგუშვილი: პიროვნების და სოციალური ფსიქოლოგიის დოქტორანტი ტარტუს უნივერსიტეტსა და მაასტრიხტის უნივერსიტეტში. მონაცემების, რაოდენობრივი კვლევის და R-ის ენთუზიასტი.\n\nშემდეგ შეხვედრებზე დასასწრებად გთხოვთ დარეგისტრირდეთ მოცემულ ლინკზე:\nhttps://docs.google.com/forms/d/1GjOFaFK4-vGjZFCgOgpZ9qy3Y-kOURbr_hC53uJhy7M/",
+    "status": "PAST",
+    "dateTime": "2020-12-14T20:00:00+04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/274802947/",
+    "featuredEventPhoto": {
+      "id": "493687768",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/e/5/8/highres_493687768.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/e/5/8/600_493687768.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/e/5/8/thumb_493687768.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 10,
+      "waitlistCount": 0,
+      "totalCount": 10
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "274260650",
+    "title": "მონაცემთა გასუფთავება R-ში",
+    "description": "მიზანი: მონაცემთა დამუშავების ციკლის გაცნობა. მონაცემთა გასუფთავების რამდენიმე მანიპულაცია R-ში.\nდასწრეთა დონე: ნებისმიერი\n[სემინარი დაიწყება თბილისის დროით 17.00 საათზე]\n\nრეზიუმე\n1. ცოტა რამ Big Data Paris 2020 და Forum Data Days შესახებ\n2. მონაცემთა მეცნიერების ციკლი\n3. მონაცემების გასუფთავება/დალაგება\n- მონაცემთა გასუფთავების სარგებელი\n- ხარისხიანი მონაცემების კომპონენტები\n4. გზა ნედლი მონაცემებიდან თანმიმდევრულ მონაცემთა ბაზამდე\n- მონაცემების გასუფთავება/დალაგება R-ში\n\nმასალა და წყაროები\nსასწავლო მასალები:\n1. https://www.datacamp.com/courses/cleaning-data-in-r\n2. https://www.datacamp.com/live/cleaning-data-in-r\n3. https://www.udemy.com/course/data-cleaning-in-r-tidyverse/\n4. https://www.edx.org/course/data-science-r-basics\n\nწყაროები:\n1. Boslaugh, S. and Watters, P.A., Statistics in a nutshell, O’Reilly, Safari Books online, 2008\n2. Chapman, C., and McDonnell Feit, E., R for Marketing Research and Analytics, Springer International Publishing Switzerland 2015\n\nსპიკერი: ანა ქათამაძე\nეკონომისტი, გამოყენებითი მათემატიკის მაგისტრი.\nამჟამად კონსულტანტია ჯგუფ ლა პოსტში, საფრანგეთი.\nანას საქმიანობა მოიცავს: პროცესების ანალიზი, მოდელირება, ოპტიმიზაციის ამოცანების დასახვა და მათ გადაჭრაზე მუშაობა, საცნობარო დოკუმენტების შექმნა, ტრენინგების ჩატარება.\nინტერესების სფერო: განათლება, მდგრადი განვითარება და ინოვაციები\n\nრეგისტრაციის ლინკი:\nhttps://docs.google.com/forms/d/1GjOFaFK4-vGjZFCgOgpZ9qy3Y-kOURbr_hC53uJhy7M/",
+    "status": "PAST",
+    "dateTime": "2020-12-05T17:00:00+04:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/274260650/",
+    "featuredEventPhoto": {
+      "id": "493283516",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/b/d/c/highres_493283516.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/b/d/c/600_493283516.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/b/d/c/thumb_493283516.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 10,
+      "waitlistCount": 0,
+      "totalCount": 10
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "274382155",
+    "title": "Titanic Challenge (ქართულად)",
+    "description": "შეხვედრაზე მარიამ ასათიანი და ვალიდა ფანცულაია Kaggle-ის ტიტანიკის შეჯიბრის (Titanic challenge) მაგალითზე, მანქანური სწავლების საწყისებს გაგვაცნობენ. შეხვედრის პირველი ნახევარი დაეთმობა მონაცემთა ბაზის გაცნობას, ხოლო მეორე ნახევარში შევქმნით მოდელს რომელიც სხვადასხვა პირადი მახასიათებლის დახმარებით გადარჩენილი მგზავრების ვინაობის პროგნოზირების საშუალებას მოგვცემს (survival analysis).\n\nმარიამი მათემატიკოსი, ვალიდა კი ეკონომისტია. ისინი უძრავი ქონების და საბანკო სფეროებში მუშაობენ, სადაც, ყოველდღიურად აქვთ დიდ მონაცემთა ბაზებთან შეხება.\n\nსემინარი დაიწყება თბილისის დროით 13.00 საათზე.\n\nრეგისტრაციის ლინკი:\nhttps://docs.google.com/forms/d/1GjOFaFK4-vGjZFCgOgpZ9qy3Y-kOURbr_hC53uJhy7M/",
+    "status": "PAST",
+    "dateTime": "2020-11-14T13:00:00+04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/274382155/",
+    "featuredEventPhoto": {
+      "id": "493382740",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/b/4/highres_493382740.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/b/4/600_493382740.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/b/4/thumb_493382740.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 7,
+      "waitlistCount": 0,
+      "totalCount": 7
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "273994257",
+    "title": "R for Psychology Research",
+    "description": "Research in Psychology is a wide and multifaceted field, which can be greatly strengthened by the use of R. Those already familiar with R can benefit by and learn from understanding how cognitive and behavioural research is carried out. This workshop will explore the broad fields of experimental psychology in the R framework. It will introduce participants to quantitative data analysis tools, including eye-tracking data, and discuss how various packages and forms of analysis (such as text and geographical data) can all be instrumentalised for psychology research. Finally, participants will have the opportunity to try some hands-on coding with a dataset on mental health factors.\n\nDivya Seernani is finishing her PhD in Clinical Psychology, working as a psychologist with children and adolescents with neurodevelopmental disorders, and is an organiser for R-Ladies Freiburg. She has multiple international publications to her name, is passionate about eye-tracking in clinical settings and enthusiastic about science communication and diversity building activities.\n\nhttps://de.linkedin.com/in/divya-seernani\n\nThe talk starts at 11.45 AM Tbilisi time. Please register here to receive the workshop materials and the Zoom link: https://docs.google.com/forms/d/1GjOFaFK4-vGjZFCgOgpZ9qy3Y-kOURbr_hC53uJhy7M/",
+    "status": "PAST",
+    "dateTime": "2020-10-31T11:45:00+04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/273994257/",
+    "featuredEventPhoto": {
+      "id": "493054719",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/7/9/f/highres_493054719.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/7/9/f/600_493054719.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/7/9/f/thumb_493054719.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 20,
+      "waitlistCount": 0,
+      "totalCount": 20
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "273860502",
+    "title": "მონაცემთა ვიზუალიზაცია ggplot-ის გამოყენებით",
+    "description": "შეხვედრის თემა: მონაცემთა ვიზუალიზაცია ggplot-ის გამოყენებით: ერთიანი ეროვნული გამოცდების შედეგები ანალიზი.\n\nმოკლე აღწერა: სემინარი შეეხება მონაცემთა ვიზუალიზაციის საბაზისო ელემენტებს. სემინარი განკუთვნილია ნებისმიერი ადამინისთვის ვინ დაინტერესებული R-Studio-ში მუშაობით. შეხვედრაზე გამოყენებული იქნება ერთიანი ეროვნული გამოცდების შედეგების მონაცემები (ნაწილი). რეალურ მონაცემთა ბაზაზე დაყრდნობით, გრაფიკული ვიზუალიზაციით განვიხილავთ მონაცემთა საინტერესო ურთიერთდამოკიდებულებებს.\n\nსპიკერი: ნატო ხალაძე\n\nრეგისტრაციის ლინკი:\nhttps://docs.google.com/forms/d/1GjOFaFK4-vGjZFCgOgpZ9qy3Y-kOURbr_hC53uJhy7M/",
+    "status": "PAST",
+    "dateTime": "2020-10-17T11:15:00+04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/273860502/",
+    "featuredEventPhoto": {
+      "id": "492951662",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/9/c/e/highres_492951662.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/9/c/e/600_492951662.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/9/c/e/thumb_492951662.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 7,
+      "waitlistCount": 0,
+      "totalCount": 7
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "273426543",
+    "title": "R for Health Data Science: from clinicians who code to Shiny interventions",
+    "description": "Riinu Pius is a data scientist at the Centre for Medical Informatics, The University of Edinburgh. She's the author of the brand new \"R for Health Data Science\" book written with Ewen Harrison.\n\nIn her talk she will walk you through cool and innovative ways R can be used to facilitate health research, from clinical trials to global cohort studies. The talk includes practical tips and code examples.\nhttps://www.riinu.me/\n\nThe webinar link will be posted here one day before the event - it will be visible to those who mark themselves as \"attending\" the meetup.",
+    "status": "PAST",
+    "dateTime": "2020-10-07T19:15:00+04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/273426543/",
+    "featuredEventPhoto": {
+      "id": "492471312",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/8/7/0/highres_492471312.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/8/7/0/600_492471312.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/8/7/0/thumb_492471312.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 20,
+      "waitlistCount": 0,
+      "totalCount": 20
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "273111817",
+    "title": "ვებინარი: დამწყებთა სემინარი",
+    "description": "გაცნობითი ხასიათის სემინარი 26 სექტემბერს ჩატარდება. ამ შეხვედრაზე გავეცნობით R-ის საფუძვლებს (პროგრამის ინსტალაცია, მონაცემთა ობიექტები და სტრუქტურა, სტატისტიკა, ვიზუალიზაცია).\n\nპროგრამა:\n==========================================================\n11.00 – 12.25 მარიამ ასათიანი\nშესავალი R/Rstudio–ში\nRstudio–ს ფორმა, R-ის მონაცემთა ობიექტები, საბაზისო ოპერაციები R-ში\n\n12.30 - 13.55 ლიკა ჟვანია\nმონაცემთა ვიზუალიზაცია (ggplot2)\n\n14.00 - 15.25 ნუცა აბაზაძე\nსტატისტიკური (რეგრესიული) ანალიზი R-ის გამოყენებით\n\nრეგისტრაცია: https://docs.google.com/forms/d/14ioIx9piCp41A27bHnwZ_gQTt4FIGjcrTmIwU0HL_DY",
+    "status": "PAST",
+    "dateTime": "2020-09-26T11:00:00+04:00",
+    "duration": "PT5H",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/273111817/",
+    "featuredEventPhoto": {
+      "id": "492234625",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/5/6/1/highres_492234625.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/5/6/1/600_492234625.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/5/6/1/thumb_492234625.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 10,
+      "waitlistCount": 0,
+      "totalCount": 10
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "271538057",
+    "title": "Webinar: The real life of a data analyst. Gender gap in Kazakh wages using R",
+    "description": "ელვირა ნასიროვა მიმოიხილავს თუ რა დავალებებს ასრულებენ მონაცემთა ანალიტიკოსები და რა ინსტრუმენტებს იყენებენ ამისთვის. შეხვედრის მეორე ნაწილში მოგვიყვება თუ როგორ მოვიპოვოთ და ობიექტურად გავაანალიზოთ საჯარო ინფორმაცია.\nელვირა ნასიროვა ყაზახეთიდან არის, თუმცა ახლა თბილისში ცხოვრობს. ის Railsware-ში მონაცემთა ანალიტიკოსად, ხოლო Yandex.Praktikum-ში მენტორად მუშაობს. ელვირა R-ს მონაცემების დასამუშავებლად, შესასწავლად, ვიზუალიზაციისთვის და ვებგვერდებიდან მონაცემების წამოსაღებად იყენებს. ელვირას R-ში განაკუთრებით მისი სტრუქტურა, ვიზუალიზაციის ინსტრუმენტები და R-ის მომხმარებელი საზოგადოება მოსწონს.\n\nშეხვედრის ლინკის მისაღებად, გთხოვთ დარეგისტრირდეთ აქ: https://tinyurl.com/tbsreg.\n\nElvira Nassirova will give an overview of a data analyst's toolkit - which tools to use and why, and what kind of tasks a data analyst does. The second part of the talk will be about how to gather and analyze public data and stay objective.\nElvira Nassirova is from Kazakhstan and based in Tbilisi. She works as Data Analyst at Railsware and as mentor at Yandex.Praktikum. Elvira uses R for data processing, exploration, visualization, web scraping and automation. Elvira loves R for its beautiful structure, dataviz tools, and of course, for its lovely community!\n\nhttps://github.com/bjolko/\n\nPlease register here to receive the event link: https://tinyurl.com/tbsreg.",
+    "status": "PAST",
+    "dateTime": "2020-07-25T14:00:00+04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/271538057/",
+    "featuredEventPhoto": {
+      "id": "491023390",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/9/7/e/highres_491023390.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/9/7/e/600_491023390.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/9/7/e/thumb_491023390.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 7,
+      "waitlistCount": 0,
+      "totalCount": 7
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "271768482",
+    "title": "Webinar: Finding hidden topics in documents and other text analyses in R",
+    "description": "Rocío Joo (University of Florida) will present a procedure to identify topics in a set of documents using an example of scientific articles in a field of science, movement ecology. To tell the whole story behind this case study, she will briefly explain how she addressed the identification of the papers of interest, show some code for downloading articles, extracting the text and finally perform data analysis. The latter will mainly consist of fitting Latent Dirichlet Allocation models to identify the latent or hidden topics.\nIf there will be time, she will also talk about other types of text analysis.\n\nRocío is an ecological statistician, currently working as a postdoctoral research associate at University of Florida, investigating animal movement models, and other quantitative methods and R tools to analyze movement. She recently published a scientific article examining R packages for movement (https://arxiv.org/abs/1901.05935) and maintains a CRAN Task View of those packages (https://cran.r-project.org/web/views/Tracking.html) . She is part of R-ladies and participates in the Latin American R community.\nhttps://rociojoo.github.io/\n\nPlease register here to receive the event link: https://docs.google.com/forms/d/11bZ_ASK7VlAst7Rwxyt_H9ZYWHediDKgzGynP8bek1g .\n\nშეხვედრაზე როსიო სამეცნიერო სტატიების მაგალითზე წარმოგვიდგენს დოკუმენტში თემების იდენტიფიცირების პროცედურას, გვაჩვენებს სტატიების გადმოსაწერ და ტექსტის მოსაპოვებელ კოდს; ბოლოს კი გვაჩვენებს როგორ გავაანალიზოთ მიღებული მონაცემები. ანალიზის ნაწილი უმეტესწილად მოიცავს დირიშლეს მოდელის მორგებას, რომელიც დაფარული თემების იდენტიფიცირებაში გვეხმარება.\nდრო თუ დარჩება, როსიო ტექსტის სხვა ტიპის ანალიზსაც წარმოგვიდგენს.\n\nროსიო ეკოლოგიის სტატისტიკოსია. ის ამჟამად პოსტდოქტორული მკვლევარია ფლორიდის უნივერსიტეტში და R-ის ინსტრუმენტების გამოყენებით ცხოველების მოძრაობას აანალიზებს. როსიომ ახლახანს სამეცნიერო სტატია გამოაქვეყნა, სადაც ამ თემაზე R-ის პაკეტებს განიხილავს (https://arxiv.org/abs/1901.05935 / https://cran.r-project.org/web/views/Tracking.html). როსიო R-ladies და ლათინური ამერიკის R-ის საზოგდოების აქტიური წევრია.\nhttps://rociojoo.github.io/\n\nშეხვედრის ლინკის მისაღებად, გთხოვთ დარეგისტრირდეთ აქ: https://docs.google.com/forms/d/11bZ_ASK7VlAst7Rwxyt_H9ZYWHediDKgzGynP8bek1g .",
+    "status": "PAST",
+    "dateTime": "2020-07-14T19:00:00+04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/271768482/",
+    "featuredEventPhoto": {
+      "id": "491209149",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/f/f/d/highres_491209149.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/f/f/d/600_491209149.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/f/f/d/thumb_491209149.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 10,
+      "waitlistCount": 0,
+      "totalCount": 10
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "271355631",
+    "title": "Webinar: Working with text in R",
+    "description": "R-Ladies Tbilisi is pleased to host Ella Kaye.\nElla is a PhD student in Statistics at the University of Warwick. She followed her undergraduate degree in Mathematics and Philosophy with Masters degrees in History and Philosophy of Science and then Mathematics Education. Her interest in statistics was first piqued as a secondary school maths teacher when thinking about how to make the subject interesting for teenagers. An MSc in Applied Statistics followed (via a couple of years in working in market research), which lead to the PhD. Ella is an R enthusiast and package author, and the co-organiser of the Oxford R User Group.\n\nR provides excellent tools for working with text. This tidyverse-based talk will provide an overview of some of the fantastic packages available for this, including (but not limited to) `stringr`, `RVerbalExpressions`, `tidytext` and `wordcloud`.\n\nPlease register here to receive the event link: https://tinyurl.com/tbsreg\n\nელა ვარვიკის უნივერსიტეტში სტატისტიკის დოქტორანტურის სტუდენტია. მან ბაკალვრზე მათემატიკა და ფილოსოფია ისწავლა, მაგისტრატურა კი ისტორია და მეცნიერების ფილოსოფიაში, შემდეგ კი მათემატიკის განათლებაში გააკეთა. ელა სტატისტიკით განსაკუთრებით მაშინ დაინტერესდა, როცა სკოლაში მათემატიკის მასწავლებლად მუშაობდა და ფიქრობდა თუ როგორ გაეხადა ეს საგანი მოსწავლეებისთვის უფრო საინტერესო. შედეგად, ელამ, გამოყენებითი სტატისტიკის მაგისტრის წოდება მიიღო, რასაც შემდეგ დოქტორის ხარისხიც მოჰყვა. ელა R-ის პაკეტის შემქმნელი და Oxford R User Group-ის ერთ-ერთი ორგანიზატორია.\n\nR ტექსტთან მუშაობის შესანიშნავ საშუალებებს გვთავაზობს. ამ tidyverse-ზე დაფუძნებულ შეხვედრაზე განვიხილავთ შესანიშნავ პაკეტებს, როგორებიცაა ‘stringr`, `RVerbalExpressions`, `tidytext` and `wordcloud`.\n\nშეხვედრის ლინკის მისაღებად, გთხოვთ დარეგისტრირდეთ აქ: https://tinyurl.com/tbsreg\n\nშეხვედრა 13:00 საათზე, ინგლისურ ენაზე ჩატარდა.",
+    "status": "PAST",
+    "dateTime": "2020-07-04T13:00:00+04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/271355631/",
+    "featuredEventPhoto": {
+      "id": "490893473",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/2/c/1/highres_490893473.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/2/c/1/600_490893473.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/2/c/1/thumb_490893473.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 11,
+      "waitlistCount": 0,
+      "totalCount": 11
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "271355582",
+    "title": "Webinar: Everyday I’m Playing, Everyday I’m Testing",
+    "description": "R-Ladies Tbilisi is happy to host Hazel Kavili. Hazel Kavili will talk about AB test case study that they run in games.\nHazel studied statistics, and is currently working as a data analyst at Rovio. She is responsible for finding useful insights from numbers to make their game better. Hazel started R-Ladies Istanbul in 2016 and now she is running the R-Ladies Helsinki chapter.\n\nPlease register here to receive the event link: https://tinyurl.com/tbsreg\n\nჰეიზელ კავილი გაგვაცნობს AB ტესტის სიტუაციურ ანალიზს (case study), რომელსაც თამაშებში იყენებენ.\nჰეიზელმა სტატისტიკა ისწავლა და ახლა მონაცემთა ანალიტიკოსად მუშაობს Rovio-ში. მის პასუხისმგებლობაში შედის მონაცემებიდან სასარგებლო ინფორმაციის ამოღება, რათა თამაშები გააუმჯობესონ. ჰეიზელმა 2016 წელს R-ladies Istanbul დაიწყო, ახლა კი R-ladies Helsinki-ის ორგანიზატორია.\n\nშეხვედრის ლინკის მისაღებად, გთხოვთ დარეგისტრირდეთ აქ: https://tinyurl.com/tbsreg\n\nშეხვედრა 13:00 საათზე, ინგლისურ ენაზე ჩატარდა.",
+    "status": "PAST",
+    "dateTime": "2020-06-27T13:00:00+04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/271355582/",
+    "featuredEventPhoto": {
+      "id": "490893375",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/2/5/f/highres_490893375.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/2/5/f/600_490893375.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/2/5/f/thumb_490893375.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 18,
+      "waitlistCount": 0,
+      "totalCount": 18
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "271250280",
+    "title": " ტვიტერის ტექსტის ანალიზი R-ის დახმარებით",
+    "description": "შეხვედრის თემა იქნება: ტვიტერის ტექსტის ანალიზი R-ის დახმარებით (ირაკლი ქავთარაძე, Z.axis).\n\nტვიტერის პოსტები საჯაროა, ამიტომ საკითხის გარშემო დისკუსიები\nხელმისაწვდომი და ანალიზისთვის მოსახერხებელია. R-ის რამდენიმე პაკეტი დაგვეხმარება ტვიტების გადმოწერაში (rtweet), მონაცემების გასუფთავებაში (dplyr), ტექსტის ანალიზსა (tidytext) და ვიზუალიზაციაში (ggplot2). ვნახავთ რომელიმე საკითხის გარშემო რომელი სიტყვები გამოიყენება ყველაზე ხშირად და როგორია მათი ვალენტობა (პოზიტიური/ნეგატიური).\n\nშენიშვნა: ტვიტების გადმოსაწერად საჭიროა დეველოპერის ანგარიშისა და აპის შექმნა. ამისთვის მიჰყევით ინსტრუქციას:\nhttps://cran.r-project.org/web/packages/rtweet/vignettes/auth.html\n\nსემინარი დაიწყება თბილისის დროით 12.00 საათზე.\n\nZoom-ის ლინკის მისაღებად, გთხოვთ, დარეგისტრირდეთ მოცემულ ბმულზე: https://tinyurl.com/yb9ohybn .\n\nZoom-ის ლინკს მიიღებთ შეხვედრის დღეს. შეხვედრა ქართულ ენაზე იქნება.",
+    "status": "PAST",
+    "dateTime": "2020-06-20T12:00:00+04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/271250280/",
+    "featuredEventPhoto": {
+      "id": "490805057",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/3/c/1/highres_490805057.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/3/c/1/600_490805057.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/3/c/1/thumb_490805057.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "271160755",
+    "title": "Predicting heart attacks using supervised machine learning",
+    "description": "R-Ladies Tbilisi will be online hosting Chris Kennedy (UC Berkeley) on June 11.\n\nThe title of the talk is: \"Predicting heart attacks with electronic health records using supervised ensemble machine learning\". The main packages involved are SuperLearner, ggplot2, h2o, iml, dbarts, ranger, mlr, and ck37r (GitHub).\n\nThe talk will start at 19.00 Tbilisi time - please register here https://bit.ly/3dJAgT9 to receive the meetup link. It will be distributed on the day of the meetup. The talk will be held in English.",
+    "status": "PAST",
+    "dateTime": "2020-06-11T19:00:00+04:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/271160755/",
+    "featuredEventPhoto": {
+      "id": "490751326",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/c/3/e/highres_490751326.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/c/3/e/600_490751326.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/c/3/e/thumb_490751326.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "268557597",
+    "title": "დამწყებთა სემინარი (2)",
+    "description": "გაცნობითი ხასიათის შესავალი სემინარები თებერვალ-მარტში, შაბათ–კვირას ჩატარდება. ამ შეხვედრებზე გავეცნობით R-ის საფუძვლებს.\n\nინფორმაცია და რეგისტრაცია: https://bit.ly/3bpdyiH\n\n=======================\nIntroductory workshops for beginners will be organised on two weekends in February and March. These meetups will introduce the basics of R.\nInfo & registration: https://bit.ly/3bpdyiH",
+    "status": "CANCELLED",
+    "dateTime": "2020-03-29T11:00:00+04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/268557597/",
+    "featuredEventPhoto": {
+      "id": "488824357",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/1/0/5/highres_488824357.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/1/0/5/600_488824357.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/1/0/5/thumb_488824357.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 9,
+      "waitlistCount": 0,
+      "totalCount": 9
+    },
+    "venues": [
+      {
+        "id": "24812484",
+        "name": "ჯეოლაბი GeoLab",
+        "address": "8 Merab Aleksidze St, Tbilisi 0160",
+        "city": "Tbilisi",
+        "state": "",
+        "country": "ge",
+        "lat": 41.7177,
+        "lon": 44.7848,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "268557547",
+    "title": "დამწყებთა სემინარი (1)",
+    "description": "გაცნობითი ხასიათის შესავალი სემინარები თებერვალ-მარტში, შაბათ–კვირას ჩატარდება. ამ შეხვედრებზე გავეცნობით R-ის საფუძვლებს.\n\nინფორმაცია და რეგისტრაცია: https://bit.ly/3bpdyiH\n\n=======================\nIntroductory workshops for beginners will be organised on two weekends in February and March. These meetups will introduce the basics of R.\nInfo & registration: https://bit.ly/3bpdyiH",
+    "status": "PAST",
+    "dateTime": "2020-02-22T11:00:00+04:00",
+    "duration": "PT6H",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/268557547/",
+    "featuredEventPhoto": {
+      "id": "488824261",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/0/a/5/highres_488824261.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/0/a/5/600_488824261.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/0/a/5/thumb_488824261.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 10,
+      "waitlistCount": 0,
+      "totalCount": 10
+    },
+    "venues": [
+      {
+        "id": "24812484",
+        "name": "ჯეოლაბი GeoLab",
+        "address": "8 Merab Aleksidze St, Tbilisi 0160",
+        "city": "Tbilisi",
+        "state": "",
+        "country": "ge",
+        "lat": 41.7177,
+        "lon": 44.7848,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "279279056",
+    "title": "Bookclub - Chapter 13: Relational Data",
+    "description": "R-Ladies Tbilisi bookclub is continuing its meetings on Hadley Wickham's and Garret Grolemund's \"R for Data Science\" (https://r4ds.had.co.nz/).\n\nOn July 15, Lika Zhvania will present the book's Chapter 13 on relational data https://r4ds.had.co.nz/relational-data.html\n\nPlease read the chapter before the meeting to be better prepared for the session and exercises. We will go through the exercises together. We start at 19.30 Tbilisi time!\n\nPlease RSVP on Meetup or sign up at this link (even if you want to attend as a listener only):\nhttps://docs.google.com/forms/d/1lufZ5eKEeNyinYbPqytVchdbkx5SwS6eKVfnIvEoqXk/",
+    "status": "PAST",
+    "dateTime": "2021-07-15T19:30:00+04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/279279056/",
+    "featuredEventPhoto": {
+      "id": "495647700",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/a/5/4/highres_495647700.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/a/5/4/600_495647700.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/a/5/4/thumb_495647700.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 7,
+      "waitlistCount": 0,
+      "totalCount": 7
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "278386990",
+    "title": "Bookclub - Chapter 12: Tidy Data",
+    "description": "Date changed!\nR-Ladies Tbilisi bookclub is continuing its meetings on Hadley Wickham's and Garret Grolemund's \"R for Data Science\" (https://r4ds.had.co.nz/).\n\nOn July 4, Mariam Asatiani will present the book's Chapter 12 on tidy data: https://r4ds.had.co.nz/tidy-data.html\n\nPlease read the chapter before the meeting to be better prepared for the session and exercises. We will go through the exercises together. We start at 20.00 am Tbilisi time!\n\nThe previous chapter 11 on data import (https://r4ds.had.co.nz/data-import.html) is quite short - please work this through independently.\n\nPlease RSVP on Meetup or sign up at this link (even if you want to attend as a listener only):\nhttps://docs.google.com/forms/d/1lufZ5eKEeNyinYbPqytVchdbkx5SwS6eKVfnIvEoqXk/",
+    "status": "PAST",
+    "dateTime": "2021-07-04T20:00:00+04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/278386990/",
+    "featuredEventPhoto": {
+      "id": "495647700",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/a/5/4/highres_495647700.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/a/5/4/600_495647700.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/a/5/4/thumb_495647700.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 9,
+      "waitlistCount": 0,
+      "totalCount": 9
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "278673850",
+    "title": "Bookclub - Chapter 10: Tibbles",
+    "description": "Date changed!\nR-Ladies Tbilisi bookclub is continuing its meetings on Hadley Wickham's and Garret Grolemund's \"R for Data Science\" (https://r4ds.had.co.nz/).\n\nOn June 27, Ana Mazmishvili will present the book's Chapter 10 on tibbles: https://r4ds.had.co.nz/tibbles.html\n\nPlease read the chapter before the meeting to be better prepared for the session and exercises. We will go through the exercises together. We start at 20.00 Tbilisi time!\n\nThe previous chapters 8 & 9 are quite short - please work them through independently.\n\nPlease RSVP on Meetup or sign up at this link (even if you want to attend as a listener only):\nhttps://docs.google.com/forms/d/1lufZ5eKEeNyinYbPqytVchdbkx5SwS6eKVfnIvEoqXk/",
+    "status": "PAST",
+    "dateTime": "2021-06-27T20:00:00+04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/278673850/",
+    "featuredEventPhoto": {
+      "id": "495647700",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/a/5/4/highres_495647700.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/a/5/4/600_495647700.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/a/5/4/thumb_495647700.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 11,
+      "waitlistCount": 0,
+      "totalCount": 11
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "278274341",
+    "title": "First steps on Git using R-Studio and GitHub",
+    "description": "This R-Ladies Tbilisi meetup is happy to welcome Elisa Schneider (see bio below)! During this workshop we will introduce the concept of version control using Git, RStudio and GitHub. We will learn the basic Git commands and how to use them directly from R-Studio. Elisa Schneider will show how to link your R-Projects with GitHub to create online repositories to share your work and how it can be used for collaboration. At the end she will do a short demo on uploading a small WebPage to Github such as the one from R-Ladies Seattle https://github.com/rladies-seattle/rladies-seattle-organizing. If we have enough time she will introduce other possibilities such as GitHub Webpages like this one: https://kyla-mcconnell.github.io/website/index.html.\n\nIf you have some time to prepare before the Meetup, Elisa recommends to:\n· create a GitHub account (if you do not have one yet) on https://github.com/\n· download and install Git from https://git-scm.com/\n\nFor the last part of the meetup some very basic knowledge of markdown/Rmarkdown is recommended, but not mandatory, we will also go through it. If you want, you can have a look at the first 35 minutes of this video about RMarkdown: https://www.youtube.com/watch?v=H91WSwALx1A\n\nBio\nElisa Schneider comes from Argentina. She studied Biology and also got a degree on Science Education. She specialized in Remote Sensing data analysis and Geographic Information Systems (GIS). She practiced as environmental assessment consultant and also taught cartography and GIS for park rangers. Thanks to a scholarship from the German Academic Exchange Service she was able to complete a master on Environmental Modeling in 2019, at the University of Freiburg. Since then she has been working on the Forest Reaserch Institute of Baden-Württemberg, Germany evaluating forest health from remote sensing data, modeling species distribution and outbreaks of pest insects under climate change. In 2019 she joined R-Ladies Freiburg as a Co-Organizer.",
+    "status": "PAST",
+    "dateTime": "2021-06-10T19:00:00+04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/278274341/",
+    "featuredEventPhoto": {
+      "id": "496382374",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/4/6/highres_496382374.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/4/6/600_496382374.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/4/6/thumb_496382374.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 12,
+      "waitlistCount": 0,
+      "totalCount": 12
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "278094115",
+    "title": "Bookclub - Chapter 7: Exploratory Data Analysis Part II",
+    "description": "R-Ladies Tbilisi bookclub is continuing its meetings on Hadley Wickham's and Garret Grolemund's \"R for Data Science\" (https://r4ds.had.co.nz/).\n\nOn June 6, Tamar Gogebashvili will present the book's Chapter 7 on exploratory data analysis, starting from sub-chapter 7.5: https://r4ds.had.co.nz/exploratory-data-analysis.html\n\nPlease read the chapter before the meeting to be better prepared for the session and exercises. We will go through the exercises together. We start at 19.00 Tbilisi time!\n\nThe previous chapter 6 on work flow scripts (https://r4ds.had.co.nz/workflow-scripts.html) is quite short - please work this through independently.\n\nPlease RSVP on Meetup or sign up at this link (even if you want to attend as a listener only):\nhttps://docs.google.com/forms/d/1lufZ5eKEeNyinYbPqytVchdbkx5SwS6eKVfnIvEoqXk/",
+    "status": "PAST",
+    "dateTime": "2021-06-06T19:00:00+04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/278094115/",
+    "featuredEventPhoto": {
+      "id": "495647700",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/a/5/4/highres_495647700.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/a/5/4/600_495647700.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/a/5/4/thumb_495647700.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 11,
+      "waitlistCount": 0,
+      "totalCount": 11
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "278076740",
+    "title": "Bookclub - Chapter 7: Exploratory Data Analysis Part I",
+    "description": "R-Ladies Tbilisi bookclub is continuing its meetings on Hadley Wickham's and Garret Grolemund's \"R for Data Science\" (https://r4ds.had.co.nz/).\n\nOn May 23, Ana Katamadze will present the book's Chapter 7 on exploratory data analysis until and including chapter 7.4: https://r4ds.had.co.nz/exploratory-data-analysis.html\n\nPlease read the chapter before the meeting to be better prepared for the session and exercises. We will go through the exercises together. We start at 20.00 Tbilisi time!\n\nThe previous chapter 6 on work flow scripts (https://r4ds.had.co.nz/workflow-scripts.html) is quite short - please work this through independently.\n\nPlease RSVP on Meetup or sign up at this link (even if you want to attend as a listener only):\nhttps://docs.google.com/forms/d/1lufZ5eKEeNyinYbPqytVchdbkx5SwS6eKVfnIvEoqXk/",
+    "status": "PAST",
+    "dateTime": "2021-05-23T20:00:00+04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/278076740/",
+    "featuredEventPhoto": {
+      "id": "495647700",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/a/5/4/highres_495647700.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/a/5/4/600_495647700.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/a/5/4/thumb_495647700.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 8,
+      "waitlistCount": 0,
+      "totalCount": 8
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "278076684",
+    "title": "Bookclub - Chapter 5: Data Transformation Part II",
+    "description": "R-Ladies Tbilisi bookclub is continuing its meetings on Hadley Wickham's and Garret Grolemund's \"R for Data Science\" (https://r4ds.had.co.nz/).\n\nOn May 16, Ana Makharadze will continue with a presentation of the book's Chapter 5 on data transformation, from sub-chapters 5.5 onwards: https://r4ds.had.co.nz/transform.html\n\nPlease read the chapter before the meeting to be better prepared for the session and exercises. We will go through the exercises together. We start at 20.00 Tbilisi time!\n\nThe previous chapter 4 on work flow basics (https://r4ds.had.co.nz/workflow-basics.html) is quite short - please work this through independently.\n\nPlease RSVP on Meetup or sign up at this link (even if you want to attend as a listener only):\nhttps://docs.google.com/forms/d/1lufZ5eKEeNyinYbPqytVchdbkx5SwS6eKVfnIvEoqXk/",
+    "status": "PAST",
+    "dateTime": "2021-05-16T20:00:00+04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/278076684/",
+    "featuredEventPhoto": {
+      "id": "495647700",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/a/5/4/highres_495647700.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/a/5/4/600_495647700.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/a/5/4/thumb_495647700.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "277499438",
+    "title": "Bookclub - Chapter 5: Data Transformation",
+    "description": "R-Ladies Tbilisi bookclub is continuing its meetings on Hadley Wickham's and Garret Grolemund's \"R for Data Science\" (https://r4ds.had.co.nz/).\n\nOn May 9, Ana Makharadze will present the book's Chapter 5 on data transformation: https://r4ds.had.co.nz/transform.html\n\nPlease read the chapter before the meeting to be better prepared for the session and exercises. We will go through the exercises together. We start at noon Tbilisi time!\n\nThe previous chapter 4 on work flow basics (https://r4ds.had.co.nz/workflow-basics.html) is quite short - please work this through independently.\n\nPlease RSVP on Meetup or sign up at this link (even if you want to attend as a listener only):\nhttps://docs.google.com/forms/d/1lufZ5eKEeNyinYbPqytVchdbkx5SwS6eKVfnIvEoqXk/",
+    "status": "PAST",
+    "dateTime": "2021-05-09T12:00:00+04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/277499438/",
+    "featuredEventPhoto": {
+      "id": "495647700",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/a/5/4/highres_495647700.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/a/5/4/600_495647700.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/a/5/4/thumb_495647700.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 11,
+      "waitlistCount": 0,
+      "totalCount": 11
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "277641071",
+    "title": "ტურიზმის მონაცემების ვიზუალიზაცია ggplot2 და shiny გამოყენებით",
+    "description": "შეხვედრის ფარგლებში განხილული იქნება ggplot2, shiny და plotly::ggploty პაკეტები.\n\nტურიზმის ეროვნული ადმინისტრაციის მონაცემების მაგალითზე ნაჩვენები იქნება ggplot2 პაკეტით შექმნილი დიაგრამების გამოყენებით ინტერაქტიული ვიზუალიზაციისა და აპლიკაციის შექმნის ნაბიჯები. დეტალურად იქნება განხილული მონაცემების მომზადება, ggplot2 პაკეტით დიაგრამის შექმნა და მისი გამოყენება shiny-ისა და plotly::ggploty პაკეტებში.\n\nსპიკერი: თემურ გუგუშვილი\nდოქტორობის კანდიდატი, სოციოლოგიის პროგრამა, თბილისი სახელმწიფო უნივერსიტეტი;\nკვლევისა და სერვისების დეპარტამენტის უფროსი, დანაშაულის პრევენციისა და პრობაციის ეროვნული სააგენტო;\nთემური აქტიურად იყენებს R-ს მონაცემთა ანალიზისა და ვიზუალიზაციისთვის.\n\nმონაცემთა წყარო:\nhttps://gnta.ge/statistics/\nhttps://temurgugushvili.shinyapps.io/tourism_data/",
+    "status": "PAST",
+    "dateTime": "2021-04-27T19:30:00+04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/277641071/",
+    "featuredEventPhoto": {
+      "id": "495775313",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/8/1/1/highres_495775313.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/8/1/1/600_495775313.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/8/1/1/thumb_495775313.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 9,
+      "waitlistCount": 0,
+      "totalCount": 9
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "277499372",
+    "title": "Bookclub - Chapter 3: Data Visualisation Part II",
+    "description": "R-Ladies Tbilisi bookclub is continuing its meetings on Hadley Wickham's and Garret Grolemund's \"R for Data Science\" (https://r4ds.had.co.nz/).\n\nOn April 23, Nutsa Nanuashvili will present the book's Chapter 3 from subsection 3.7. until 3.10. This is on data visualisation: https://r4ds.had.co.nz/data-visualisation.html\n\nPlease read the relevant sections to be better prepared for the session and exercises. We will go through the exercises together. We start at 18.30 Tbilisi time!\n\nThe next chapter 4 on work flow basics (https://r4ds.had.co.nz/workflow-basics.html) is quite short - please work this through independently.\n\nPlease RSVP on Meetup or sign up at this link (even if you want to attend as a listener only):\nhttps://docs.google.com/forms/d/1lufZ5eKEeNyinYbPqytVchdbkx5SwS6eKVfnIvEoqXk/",
+    "status": "PAST",
+    "dateTime": "2021-04-23T19:00:00+04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/277499372/",
+    "featuredEventPhoto": {
+      "id": "495647602",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/9/f/2/highres_495647602.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/9/f/2/600_495647602.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/9/f/2/thumb_495647602.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 7,
+      "waitlistCount": 0,
+      "totalCount": 7
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "277234340",
+    "title": "Bookclub - Chapter 3: Data Visualisation Part I",
+    "description": "R-Ladies Tbilisi bookclub is continuing its meetings on Hadley Wickham's and Garret Grolemund's \"R for Data Science\" (https://r4ds.had.co.nz/).\n\nOn April 9, Eka Oshkhereli will present the book's Chapter 3 up to and including subsection 3.6. This is on data visualisation. https://r4ds.had.co.nz/data-visualisation.html\n\nPlease read the sections 3.1 - 3.6 to be better prepared for the session and exercises. We will go through the exercises together. We start at 19.30 Tbilisi time!\n\nPlease RSVP on Meetup or sign up at this link (even if you want to attend as a listener only):\nhttps://docs.google.com/forms/d/1lufZ5eKEeNyinYbPqytVchdbkx5SwS6eKVfnIvEoqXk/",
+    "status": "PAST",
+    "dateTime": "2021-04-09T19:30:00+04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/277234340/",
+    "featuredEventPhoto": {
+      "id": "495427168",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/c/0/0/highres_495427168.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/c/0/0/600_495427168.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/c/0/0/thumb_495427168.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 8,
+      "waitlistCount": 0,
+      "totalCount": 8
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "277086364",
+    "title": "R-Ladies Tbilisi Bookclub Launch",
+    "description": "R-Ladies Tbilisi is launching a bookclub (online). Our first book is Hadley Wickham's and Garret Grolemund's \"R for Data Science\" https://r4ds.had.co.nz/.\n\nThe idea is to go through this book so that each chapter will be read\nand presented by a certain person. Besides presentation and discussion, we will go through the exercises at the end of each chapter together.\n\nOur first meeting will be on Sunday, March 28 from 3pm Tbilisi time. We will introduce the idea of the bookclub and discuss the next steps. Also, we will introduce the first chapter of the book. You are welcome to attend!\n\nPlease RSVP on Meetup or sign up at this link (even if you want to attend as a listener only):\nhttps://docs.google.com/forms/d/1lufZ5eKEeNyinYbPqytVchdbkx5SwS6eKVfnIvEoqXk/",
+    "status": "PAST",
+    "dateTime": "2021-03-28T15:00:00+04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/277086364/",
+    "featuredEventPhoto": {
+      "id": "495309714",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/5/f/2/highres_495309714.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/5/f/2/600_495309714.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/5/f/2/thumb_495309714.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 9,
+      "waitlistCount": 0,
+      "totalCount": 9
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "275628569",
+    "title": "მონაცემთა მანიპულაციის ხერხები R -ში, დამწყებთათვის",
+    "description": "ნუცა ნანუაშვილი კოგნიტური ნეირომეცნიერების მაგისტრია ამსტერდამის უნივერსიტეტიდან (Institute of Interdisciplinary Studies, University of Amsterdam). ის ხშირად იყენებს R -ს, როგორც სამაგისტრო კვლევით პროექტებში, ასევე პირადი პროექტების განსახორციელებლად.\n\nშეხვედრაზე ნუცა მონაცემთა მანიპულაციისა და ორგანიზაციის საშუალებებზე ისაუბერებს. ძირითადად გამოვიყენებთ tidyverse პაკეტებს, განსაკუთრებით განვიხილავთ ფუნქციებსა და სხვადასხვა ხერხს tidyr, dplyr და შესაძლოა, purrr და lubridate პაკეტებიდან.\n\nნუცა ასევე ისაუბრებს, თუ როგორ დავათვალიეროთ მონაცემები, რას ნიშნავს მოწესრიგებული მონაცემები და თუ საჭიროა, როგორ შევცვალოთ ფორმა და ცვლადის ტიპები, ეფექტური ანალიზისთვის.\n\nშეხვედრაზე გამოვიყენებთ საჯარო მონაცემებს პინგვინებზე - Palmerpenguins\n\nწყარო:\nHorst AM, Hill AP, Gorman KB (2020). palmerpenguins: Palmer Archipelago (Antarctica) penguin data. R package version 0.1.0. https://allisonhorst.github.io/palmerpenguins/. doi: 10.5281/zenodo.3960218.\n\nშემდეგ შეხვედრებზე დასასწრებად გთხოვთ დარეგისტრირდეთ მოცემულ ლინკზე:\nhttps://bit.ly/3hWeY7Z",
+    "status": "PAST",
+    "dateTime": "2021-01-21T19:00:00+04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/275628569/",
+    "featuredEventPhoto": {
+      "id": "494246993",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/9/7/1/highres_494246993.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/9/7/1/600_494246993.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/9/7/1/thumb_494246993.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 10,
+      "waitlistCount": 0,
+      "totalCount": 10
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  },
+  {
+    "id": "299789385",
+    "title": "Getting involved with R-Ladies",
+    "description": "Are you interested in coding and data? And joining a community of like-minded people? Then come to this event to hear about volunteering within the R-Ladies Tbilisi chapter, and how to get involved!\n\nThis will be a friendly event in cozy GeoLab. Please read about the background of this group from the global website https://rladies.org/.\n\n19.00-19.30 - Presentation about R-Ladies and R-Ladies Tbilisi activities and opportunities\n19.30-20.30 - Informal discussion, questions and answers\n\nThis event will be held in English.",
+    "status": "PAST",
+    "dateTime": "2024-03-28T19:00:00+04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-tbilisi/events/299789385/",
+    "featuredEventPhoto": {
+      "id": "519726422",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/9/1/6/highres_519726422.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/9/1/6/600_519726422.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/9/1/6/thumb_519726422.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [
+      {
+        "id": "24812484",
+        "name": "ჯეოლაბი GeoLab",
+        "address": "8 Merab Aleksidze St, Tbilisi 0160",
+        "city": "Tbilisi",
+        "state": "",
+        "country": "ge",
+        "lat": 41.7177,
+        "lon": 44.7848,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tbilisi",
+      "urlname": "rladies-tbilisi"
+    }
+  }
+]

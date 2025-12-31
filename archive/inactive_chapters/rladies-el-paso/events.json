@@ -1,0 +1,134 @@
+[
+  {
+    "id": "265781970",
+    "title": "R startup & data-wrangling tutorial",
+    "description": "We'll be working with the same csv file as at our last meeting, but we'll be digging into text analysis more, and we'll practice using regular expressions.",
+    "status": "PAST",
+    "dateTime": "2019-11-20T17:00:00-07:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-el-paso/events/265781970/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 9,
+      "waitlistCount": 0,
+      "totalCount": 9
+    },
+    "venues": [
+      {
+        "id": "26619801",
+        "name": "UTEP Liberal Arts Building, Room 211",
+        "address": "500 West University Ave.",
+        "city": "El Paso",
+        "state": "tx",
+        "country": "us",
+        "lat": 31.7679,
+        "lon": -106.5058,
+        "postalCode": "79902",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies El Paso",
+      "urlname": "rladies-el-paso"
+    }
+  },
+  {
+    "id": "265004243",
+    "title": "R startup & data-wrangling tutorial",
+    "description": "We'll be going through all the steps of analyzing a fun data set together (reading in data, loading packages, doing basic analyses, graphic). If you're new to R, this will be a fun way to jump in feet first & get started! If you're an experienced R user, come along to share your knowledge & mentor other R-Ladies!",
+    "status": "PAST",
+    "dateTime": "2019-10-16T17:00:00-06:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-el-paso/events/265004243/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 8,
+      "waitlistCount": 0,
+      "totalCount": 8
+    },
+    "venues": [
+      {
+        "id": "26619801",
+        "name": "UTEP Liberal Arts Building, Room 211",
+        "address": "500 West University Ave.",
+        "city": "El Paso",
+        "state": "tx",
+        "country": "us",
+        "lat": 31.7679,
+        "lon": -106.5058,
+        "postalCode": "79902",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies El Paso",
+      "urlname": "rladies-el-paso"
+    }
+  },
+  {
+    "id": "264698621",
+    "title": "First meeting of R-Ladies El Paso",
+    "description": "Come to the very first R-Ladies El Paso meeting! Meet other R-Ladies, share your thoughts on what you'd like the group to do in the future, and just hang out! We can also work one-on-one to help with R installation if anyone wants help.",
+    "status": "PAST",
+    "dateTime": "2019-09-18T17:00:00-06:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-el-paso/events/264698621/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 2,
+      "waitlistCount": 0,
+      "totalCount": 2
+    },
+    "venues": [
+      {
+        "id": "26619801",
+        "name": "UTEP Liberal Arts Building, Room 211",
+        "address": "500 West University Ave.",
+        "city": "El Paso",
+        "state": "tx",
+        "country": "us",
+        "lat": 31.7679,
+        "lon": -106.5058,
+        "postalCode": "79902",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies El Paso",
+      "urlname": "rladies-el-paso"
+    }
+  },
+  {
+    "id": "269329695",
+    "title": "R-Ladies - ggplot tutorial with Marguerite Mauritz",
+    "description": "A note from Marguerite:\n\nHi Rladies participants,\n\nI will be demonstrating some uses of ggplot, one of R’s graphing packages. I’ll give a short intro and then we’ll do a code-along so that everyone can do their own typing.\nWe will make a few basic figures and then experiment with customizing to make them pretty.\nSome code will be pre-written to make it easier to keep up, and some parts you will have to fill in.\n\nTo prepare, please pre-load the Tidyverse package in R, on a WiFi connection.\n\n# Tidyverse has a number of basic packages that all load together using the command:\ninstall.packages(“tidyverse”)\nlibrary(tidyverse)\n\nCheck that you definitely have:\nggplot2\ndplyr\ntidyr\nreadr\nOn the day of the workshop, we will have the code template and data on USB drives so that you can easily load it to your computer offline. We will use some data that from my research in the Chihuahuan desert looking at rainfall and how water it moves through the soil. It’s for demonstration purposes only and I think has many features that would appear in other data problems.\n\nTidyverse is a nice set of packages that work together to make coding and data structure smoother.\nMore information about Tidyverse is here:\nhttps://www.tidyverse.org/packages/",
+    "status": "PAST",
+    "dateTime": "2020-03-11T18:00:00-06:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-el-paso/events/269329695/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 2,
+      "waitlistCount": 0,
+      "totalCount": 2
+    },
+    "venues": [
+      {
+        "id": "26898498",
+        "name": "UTEP Classroom Building, Room C301",
+        "address": "2011 Hawthorne St.",
+        "city": "El Paso",
+        "state": "tx",
+        "country": "us",
+        "lat": 31.769,
+        "lon": -106.5037,
+        "postalCode": "79902",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies El Paso",
+      "urlname": "rladies-el-paso"
+    }
+  }
+]

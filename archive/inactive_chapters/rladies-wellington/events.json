@@ -1,0 +1,80 @@
+[
+  {
+    "id": "296247865",
+    "title": "R-Ladies Networking: Building Connections!",
+    "description": "Join us for an engaging afternoon of networking at our R-Ladies meetup! Whether you're an aspiring analyst, an R enthusiast, or simply curious about the R ecosystem, this event is the perfect opportunity to connect with like-minded people and expand your professional network.\n\nTo kick off the evening and help everyone get to know each other better, we've planned a fun icebreaker activity!\n\nPlease note that this time we do not have a sponsor covering the cost of food and drinks. Therefore, attendees will need to purchase their own food and beverages directly from the Southern Cross.\n\nLooking forward to seeing you there!",
+    "status": "PAST",
+    "dateTime": "2023-10-07T13:00:00+13:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-wellington/events/296247865/",
+    "featuredEventPhoto": {
+      "id": "516017344",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/3/c/0/highres_516017344.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/3/c/0/600_516017344.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/3/c/0/thumb_516017344.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 6,
+      "waitlistCount": 0,
+      "totalCount": 6
+    },
+    "venues": [
+      {
+        "id": "26020350",
+        "name": "Southern Cross Garden Bar Restaurant",
+        "address": "39 Abel Smith Street",
+        "city": "Wellington",
+        "state": "",
+        "country": "nz",
+        "lat": -41.2965,
+        "lon": 174.7745,
+        "postalCode": "6011",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Wellington",
+      "urlname": "rladies-wellington"
+    }
+  },
+  {
+    "id": "292374245",
+    "title": "Meaningful data visualisations in R ggplot2",
+    "description": "Welcome to the first R-Ladies Wellington meetup event!\n\nIn this event, we will be focusing on the R package ggplot2 for data visualisation. The workshop will cover the basics of the package and how to use it to create meaningful and informative graphics that effectively communicate your data's message.\n\nIn addition to the workshop, we will have some time set aside for networking, where you can connect with other R coders and build new connections within the community. We encourage attendees to bring along their laptops and any datasets they would like to work with during the workshop.\n\nWe would like to express our gratitude to Nicholson Consulting for generously offering their space to support the establishment of the R-Ladies community in Wellington.\n\nWe look forward to seeing you there!\n\nPlease note: this event has a capacity limit, and we may not be able to accommodate additional attendees beyond that limit. However, we will be sharing a video recording and slides of the workshop after the event for those who are unable to attend in person.",
+    "status": "PAST",
+    "dateTime": "2023-04-14T16:00:00+12:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-wellington/events/292374245/",
+    "featuredEventPhoto": {
+      "id": "511462198",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/6/b/6/highres_511462198.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/6/b/6/600_511462198.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/6/b/6/thumb_511462198.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 15,
+      "waitlistCount": 1,
+      "totalCount": 15
+    },
+    "venues": [
+      {
+        "id": "27538788",
+        "name": "40 Mercer Street",
+        "address": "40 Mercer Street",
+        "city": "Wellington",
+        "state": "",
+        "country": "nz",
+        "lat": -41.2882,
+        "lon": 174.7757,
+        "postalCode": "6011",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Wellington",
+      "urlname": "rladies-wellington"
+    }
+  }
+]

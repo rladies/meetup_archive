@@ -1,0 +1,2030 @@
+[
+  {
+    "id": "275002901",
+    "title": "‘ggstatsplot’ : ‘ggplot2’ Based Plots with Statistical Details",
+    "description": "We are pleased to invite you to our next meetup which will serve as an overview of the R Package ‘ggstatsplot’: ‘ggplot2’ Based Plots with Statistical Details.\n\n\"ggstatsplot\" is an extension of \"ggplot2\". It creates graphics with details from statistical tests included in the plots themselves. It is targeted primarily at behavioral sciences community to provide a one-line code to generate information-rich plots for statistical analysis of continuous (violin plots, scatterplots, histograms, dot plots, dot-and-whisker plots) or categorical (pie and bar charts) data. Currently, it supports only the most common types of statistical tests: parametric, nonparametric, robust, and bayesian versions of t-test/anova, correlation analyses, contingency table analysis, and regression analyses.\n\nThis wonderful R package is created by Indrajeet Patil. Come & join us to learn more about it https://github.com/IndrajeetPatil/ggstatsplot\n\n▶️ About Indrajeet Patil https://sites.google.com/site/indrajeetspatilmorality/\nIndrajeet Patil is a Postdoctoral Researcher at the Center for Humans and Machines, Max Planck Institute for Human Development, Berlin. He has a Ph.D. in cognitive neuroscience and specializes in investigating the psychological and neural basis of social judgment and decision-making. He is also an active R package developer and part of `easystats` team.\n\nDate/Time : Tuesday, December 15, 2020 6PM -> 7PM (Tunisia time GMT+1)\nPlace : Google Meet\n\nIn order to attend the event, please fill out this form 👉 https://tinyurl.com/y66hcuhw We will send you the Google Meet link a few hours before the meetup. Please check out your email later.\n\nDon't forget to add the meetup to your calendar so that you can get a reminder about it.\n\nWe look forward to e-meeting you!\n\nIf you have any questions, please don't hesitate to contact us ⬇️\n\n▪️ Email : tunis@rladies.org\n▪️ LinkedIn : https://tinyurl.com/y8hlt5np\n▪️ Meetup : https://www.meetup.com/rladies-tunis/\n▪️ Twitter : https://twitter.com/RLadiesTunis\n▪️ Instagram : https://www.instagram.com/rladiestunis/\n▪️ Youtube_Channel : https://tinyurl.com/ycm48c6w\n▪️ Github : https://github.com/rladiestunis\n▪️ Facebook : https://www.facebook.com/RLadiesTunis/\n▪️ Messenger : m.me/RLadiesTunis",
+    "status": "PAST",
+    "dateTime": "2020-12-15T18:00:00+01:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-tunis/events/275002901/",
+    "featuredEventPhoto": {
+      "id": "493814826",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/9/e/a/highres_493814826.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/9/e/a/600_493814826.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/9/e/a/thumb_493814826.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 57,
+      "waitlistCount": 0,
+      "totalCount": 57
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tunis",
+      "urlname": "rladies-tunis"
+    }
+  },
+  {
+    "id": "274828487",
+    "title": "Introduction to Genome-Wide Association Studies (GWAS)",
+    "description": "We are delighted to get back to the R4Bioinfo series that we've launched in September 2020. We will be organizing a workshop which will serve as an introduction to Genome-Wide Association Studies (GWAS).\n\nDate/Time : Saturday, December 12, 2020 5PM -> 7PM (Tunisia time GMT+1)\nPlace : Zoom https://zoom.us/download\n\n▶️ Trainer : Dr. Tatiana Tatarinova\n▶️ About Dr. Tatiana Tatarinova :\nDr. Tatiana is an Associate Professor, Biology & Fletcher Jones Endowed Chair In Computational Biology. Dr. Tatiana's first degree was in Theoretical Physics, followed by the MS and PhD in in Applied Mathematics. She worked at the Ceres inc, as a computational scientist, and then left the industry for academic career. Dr. Tatiana's focus is development of algorithms for data analysis.\n\nIn order to attend the event, please fill out this form 👉 https://tinyurl.com/yx9fkgcg Those who fill out the form will receive an email shortly with instructions on how to join.\nWe will send you the Zoom link and the enter passcode a few hours before the meetup. Please check out your email later.\n\nDon't forget to add the meetup to your calendar so that you can get a reminder about it. 🔺\n\nWe look forward to e-meeting you!\n\nIf you have any questions, please don't hesitate to contact us ⬇️\n\n▪️ Email : tunis@rladies.org\n▪️ LinkedIn : https://tinyurl.com/y8hlt5np\n▪️ Meetup : https://www.meetup.com/rladies-tunis/\n▪️ Twitter : https://twitter.com/RLadiesTunis\n▪️ Instagram : https://www.instagram.com/rladiestunis/\n▪️ Youtube_Channel : https://tinyurl.com/ycm48c6w\n▪️ Github : https://github.com/rladiestunis\n▪️ Facebook : https://www.facebook.com/RLadiesTunis/\n▪️ Messenger : m.me/RLadiesTunis",
+    "status": "PAST",
+    "dateTime": "2020-12-12T17:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tunis/events/274828487/",
+    "featuredEventPhoto": {
+      "id": "493699229",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/b/1/d/highres_493699229.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/b/1/d/600_493699229.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/b/1/d/thumb_493699229.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 40,
+      "waitlistCount": 0,
+      "totalCount": 40
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tunis",
+      "urlname": "rladies-tunis"
+    }
+  },
+  {
+    "id": "274763174",
+    "title": "Introduction to the Tidymodels R Package",
+    "description": "We are delighted to come together with you to host another online workshop which will serve as an introduction to the Tidymodels R package.\n\nThe tidymodels framework is a collection of packages for modeling and machine learning using tidyverse principles https://www.tidymodels.org/\n\nDate/Time : Wednesday, November 25, 2020 7PM -> 8PM (Tunisia time GMT+1)\nPlace : Zoom https://zoom.us/download\n\n▶️ Invited speaker : Bilikisu W. Aderinto\n▶️ About Bilikisu W. Aderinto https://www.linkedin.com/in/bilikisuaderinto/ :\nBilikisu W. Aderinto is a Business Data Analyst at Business Data Laboratory. She has MSc in Information Technology and an RStudio Certified Tidyverse Instructor. She is the Organizer of Abuja RUser group https://www.meetup.com/Abuja-R-User-Group-Meetup/ and Co-organizer of RLadiesAbuja https://www.meetup.com/rladies-abuja/\n\nDuring this online meetup, our guest will walk through the fundamental concepts of the tidymodels package with hands on under the programming language R.\n\nIn order to attend the event, please fill out this form 👉 https://tinyurl.com/y36ljfea Those who fill out the form will receive an email shortly with instructions on how to join.\n\nWe will send you the Zoom link and the enter passcode a few hours before the meetup. Please check out your email later. Please don't forget to add the event to your calendar so that you get a reminder about it.\n\nWe look forward to e-meeting you!\n\nIf you have any questions, please don't hesitate to contact us ⬇️\n▪️ Email : tunis@rladies.org\n▪️ LinkedIn : https://tinyurl.com/y8hlt5np\n▪️ Meetup : https://www.meetup.com/rladies-tunis/\n▪️ Twitter : https://twitter.com/RLadiesTunis\n▪️ Instagram : https://www.instagram.com/rladiestunis/\n▪️ Youtube_Channel : https://tinyurl.com/ycm48c6w\n▪️ Github : https://github.com/rladiestunis\n▪️ Facebook : https://www.facebook.com/RLadiesTunis/\n▪️ Messenger : m.me/RLadiesTunis",
+    "status": "PAST",
+    "dateTime": "2020-11-25T19:00:00+01:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-tunis/events/274763174/",
+    "featuredEventPhoto": {
+      "id": "493662739",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/6/f/3/highres_493662739.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/6/f/3/600_493662739.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/6/f/3/thumb_493662739.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 29,
+      "waitlistCount": 0,
+      "totalCount": 29
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tunis",
+      "urlname": "rladies-tunis"
+    }
+  },
+  {
+    "id": "274488421",
+    "title": "Statistical Analysis Tools of Complex Time-Series Data",
+    "description": "We are delighted to come together with you to host another online meetup : Statistical Analysis Tools of Complex Time-Series Data.\n\nDate/Time : Friday, November 13, 2020 6:30PM -> 7:30PM (Tunisia time GMT+1)\nPlace : Zoom https://zoom.us/download\n\n▶️ Invited speaker : Pr. Faïcel Chamroukhi\n▶️ About Pr. Faïcel Chamroukhi https://chamroukhi.com :\nFaïcel Chamroukhi is Professor of Statistics & Data Science in Caen, currently Adjunct Visiting Professor at La Trobe University and has been Assistant and Associate Professor of Computer Science and Machine Learning in Paris 13 and Toulon. He is broadly interested in the mathematical and algorithmic foundations of data science and AI, with a keen focus on modern statistics and machine learning. Common threads of his research include statistical modeling and inference, latent variable models, and learning in high-dimensional and large-scale scenario.\n\n▶️ Abstract of the talk that he will be presenting :\nStatistics are foundational to data analytics and learning systems to\ninfer relevant and interpretable knowledge from random representations of real-world scenarios. In this talk, he will present some contributions in scenarios involving complex heterogeneous time-series data. The developed model-based segmentation and clustering of time-series with underlying hidden structures will be illustrated via some applications in R software.\n\nIn order to attend the event, please fill out this form 👉 https://tinyurl.com/y68xrv4c\nThose who fill out the form will receive an email shortly with instructions on how to join. We will send you the Zoom link and the enter passcode a few hours before the meetup. Please check out your email later.\nDon't forget to add the event to your calendar so that you get a reminder about it.\n\nWe look forward to e-meeting you!\n\nIf you have any questions, please don't hesitate to contact us ⬇️\n#Email : tunis@rladies.org\n#LinkedIn : https://tinyurl.com/y8hlt5np\n#Meetup : https://www.meetup.com/rladies-tunis/\n#Twitter : https://twitter.com/RLadiesTunis\n#Instagram : https://www.instagram.com/rladiestunis/\n#Youtube_Channel : https://tinyurl.com/ycm48c6w\n#Github : https://github.com/rladiestunis\n#Facebook : https://www.facebook.com/RLadiesTunis/\n#Messenger : m.me/RLadiesTunis",
+    "status": "PAST",
+    "dateTime": "2020-11-13T18:30:00+01:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-tunis/events/274488421/",
+    "featuredEventPhoto": {
+      "id": "493465386",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/3/2/a/highres_493465386.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/3/2/a/600_493465386.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/3/2/a/thumb_493465386.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 58,
+      "waitlistCount": 0,
+      "totalCount": 58
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tunis",
+      "urlname": "rladies-tunis"
+    }
+  },
+  {
+    "id": "274142166",
+    "title": "Data Visualization for Machine Learning Practionners",
+    "description": "We are delighted to come together with you to host another online meetup : Data Visualization for Machine Learning Practionners\n\nDate/Time : Saturday, November 7, 2020 5PM -> 6PM (Tunisia time GMT+1)\nPlace : Zoom https://zoom.us/download\n\nInvited speaker :\n▶️ Julia Silge : Data Scientist & Software Engineer at RStudio PBC\n▶️ About Julia Silge https://juliasilge.com/ :\nJulia Silge is a data scientist and software engineer at RStudio where she works on open source modeling tools.\nShe studied physics and astronomy, finishing her PhD in 2005. She worked in academia (teaching and doing research) and ed tech\nbefore moving into data science and discovering R. She's both an international speaker and a real-world practitioner focusing on data\nanalysis and machine learning practice. She has written books with her\ncollaborators about text mining https://www.amazon.com/gp/product/1491981652/, supervised machine learning for text https://smltar.com/,\nand modeling with tidy data principles in R https://www.tmwr.org/\n\nIn order to attend the event, please fill out this form 👉 https://tinyurl.com/y5knq4l5\nThose who fill out the form will receive an email shortly with instructions on how to join.\nAdditionally you will get reminders right before the meetup with the link so you have it handy.\n\nWe look forward to e-meeting you!\n\nIf you have any questions, please don't hesitate to contact us ⬇️\n\n#Email : tunis@rladies.org\n#LinkedIn : https://tinyurl.com/y8hlt5np\n#Meetup : https://www.meetup.com/rladies-tunis/\n#Twitter : https://twitter.com/RLadiesTunis\n#Instagram : https://www.instagram.com/rladiestunis/\n#Youtube_Channel : https://tinyurl.com/ycm48c6w\n#Github : https://github.com/rladiestunis\n#Facebook : https://www.facebook.com/RLadiesTunis/\n#Messenger : m.me/RLadiesTunis",
+    "status": "PAST",
+    "dateTime": "2020-11-07T17:00:00+01:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-tunis/events/274142166/",
+    "featuredEventPhoto": {
+      "id": "493186641",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/6/3/1/highres_493186641.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/6/3/1/600_493186641.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/6/3/1/thumb_493186641.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 106,
+      "waitlistCount": 0,
+      "totalCount": 106
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tunis",
+      "urlname": "rladies-tunis"
+    }
+  },
+  {
+    "id": "273834908",
+    "title": "Introduction to Docker for R users",
+    "description": "We are delighted to invite you to our next workshop which will serve as an Introduction to Docker for R users.\n\nDate/Time : Saturday, October 17, 2020 3PM -> 5PM (Tunisia time GMT+1)\nPlace : Zoom https://zoom.us/download\n\nInvited speaker :\n▶️ Rami Krispin : Data Scientist\n\n▶️ About Rami Krispin https://github.com/RamiKrispin :\nRami Krispin is a data scientist who mainly focuses on time series analysis and forecasting applications. He is the author of \"Hands-On Time Series Analysis with R\" https://www.packtpub.com/product/hands-on-time-series-analysis-with-r/9781788629157, and several R packages, including the TSstudio package for time series analysis and forecasting applications, and several data packages for tracking the covid19 outbreak (coronavirus, covid19italy, covid19swiss, etc.)\n\nIn order to attend the event, please fill out this form 👉 https://tinyurl.com/yyuon78b\nThose who fill out the form will receive an email shortly with instructions on how to join. Additionally you will get reminders right before the workshop with the link so you have it handy.\n\nWe look forward to e-meeting you!\n\nIf you have any questions, please don't hesitate to contact us ⬇️\n\n#Email : tunis@rladies.org\n#LinkedIn : https://tinyurl.com/y8hlt5np\n#Meetup : https://www.meetup.com/rladies-tunis/\n#Twitter : https://twitter.com/RLadiesTunis\n#Instagram : https://www.instagram.com/rladiestunis/\n#Youtube_Channel : https://tinyurl.com/ycm48c6w\n#Github : https://github.com/rladiestunis\n#Facebook : https://www.facebook.com/RLadiesTunis/\n#Messenger : m.me/RLadiesTunis",
+    "status": "PAST",
+    "dateTime": "2020-10-17T15:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tunis/events/273834908/",
+    "featuredEventPhoto": {
+      "id": "492903887",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/f/2/f/highres_492903887.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/f/2/f/600_492903887.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/f/2/f/thumb_492903887.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 75,
+      "waitlistCount": 0,
+      "totalCount": 75
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tunis",
+      "urlname": "rladies-tunis"
+    }
+  },
+  {
+    "id": "273772007",
+    "title": "Introduction to R Packages Development",
+    "description": "RLadiesAlgiers and R-Ladies Tunis are partnering up and are hosting a workshop about the developpement of an R package\nthat will be animated by Shel Kariuki https://shelkariuki.netlify.app/\n\nDuring this workshop you'll learn about how to create an R package from scratch.\n\nDate/Time : Saturday, October 10, 2020 5PM -> 7PM (GMT+1)\nPlace : Zoom https://zoom.us/download\n\nInvited speaker :\n▶️ Shel Kariuki : Senior Data Analyst\n\n▶️ About Shel kariuki :\nShel is a Senior Data Analyst based in Nairobi, Kenyaa. She's an RStudio Certified Tidyverse trainer, and recently worked as a Research Manager at Geopoll, and as a Data Analyst at Busara Center for Behavioral Economics. She has previously worked as an assistant lecturer in various Kenyan universities, teaching units in Statistics and Actuarial Science. Shel has a Bsc in Actuarial Science and Msc in Applied Statistics from JKUAT. She has extensive experience in data analysis using R and Python. She co-organizes a community of R users in Nairobi #NairobiR and in Africa #AfricaR. One of the missions of her community work is to make sure that they have an increased number of R adopters, in Africa. Shel is very passionate about training and using data analytics to drive development projects in Africa.\n\nIn order to attend the event, please fill out this form 👉 https://tinyurl.com/yaah9y2n\nThose who fill out the form will receive an email shortly with instructions on how to join.\n\nWe look forward to e-meeting you!\n\nIf you have any questions, please don't hesitate to contact us ⬇️\n\nR-Ladies Algiers Team :\n\n#Email : algiers@rladies.org\n#LinkedIn : https://www.linkedin.com/in/r-ladies-algiers-5038271b8/\n#Meetup : https://www.meetup.com/rladies-algiers/\n#Twitter : https://twitter.com/RLadiesAlgiers\n#Instagram : https://www.instagram.com/rladies_algiers/\n#Youtube_Channel : https://www.youtube.com/channel/UCJpq9UV9k12H8j3D5ba7y-g\n#Github : https://github.com/r-ladiesalgiers\n#Facebook : https://www.facebook.com/RLadiesAlgiers-101663221711202\n\nR-Ladies Tunis Team :\n\n#Email : tunis@rladies.org\n#LinkedIn : https://tinyurl.com/y8hlt5np\n#Meetup : https://www.meetup.com/rladies-tunis/\n#Twitter : https://twitter.com/RLadiesTunis\n#Instagram : https://www.instagram.com/rladiestunis/\n#Youtube_Channel : https://tinyurl.com/ycm48c6w\n#Github : https://github.com/rladiestunis\n#Facebook : https://www.facebook.com/RLadiesTunis/\n#Messenger : m.me/RLadiesTunis",
+    "status": "PAST",
+    "dateTime": "2020-10-10T17:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tunis/events/273772007/",
+    "featuredEventPhoto": {
+      "id": "492848462",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/1/0/e/highres_492848462.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/1/0/e/600_492848462.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/1/0/e/thumb_492848462.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 8,
+      "waitlistCount": 0,
+      "totalCount": 8
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tunis",
+      "urlname": "rladies-tunis"
+    }
+  },
+  {
+    "id": "273485109",
+    "title": "Introduction to GenomicRanges and plyranges",
+    "description": "We are excited to invite you to the 3rd workshop of our R4Bioinfo series : Introduction to GenomicRanges and plyranges.\n\nDate/Time : Tuesday, October 6th, 2020 5:30PM -> 6PM (Tunisia time GMT+1)\nPlace : Zoom https://zoom.us/download\n\nInvited speaker :\n▶️ Dr. Stephanie Hicks https://www.stephaniehicks.com/ : Assistant Professor in the Department of Biostatistics at Johns Hopkins Bloomberg School of Public Health, a faculty member of the Johns Hopkins Data Science Lab, co-host of The Corresponding Author podcast and co-founder of R-Ladies Baltimore.\n\nIn order to attend the event, please fill out this form 👉 https://tinyurl.com/y48u3yga\nThose who fill out the form will receive an email shortly with instructions on how to join. Additionally you will get reminders right before the workshop with the link so you have it handy.\n\nWe look forward to e-meeting you!\n\nIf you have any questions, please don't hesitate to contact us ⬇️\n\n#Email : tunis@rladies.org\n#LinkedIn : https://tinyurl.com/y8hlt5np\n#Meetup : https://www.meetup.com/rladies-tunis/\n#Twitter : https://twitter.com/RLadiesTunis\n#Instagram : https://www.instagram.com/rladiestunis/\n#Youtube_Channel : https://tinyurl.com/ycm48c6w\n#Github : https://github.com/rladiestunis\n#Facebook : https://www.facebook.com/RLadiesTunis/\n#Messenger : m.me/RLadiesTunis",
+    "status": "PAST",
+    "dateTime": "2020-10-06T17:30:00+01:00",
+    "duration": "PT30M",
+    "eventUrl": "https://www.meetup.com/rladies-tunis/events/273485109/",
+    "featuredEventPhoto": {
+      "id": "492510525",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/7/3/d/highres_492510525.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/7/3/d/600_492510525.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/7/3/d/thumb_492510525.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 22,
+      "waitlistCount": 0,
+      "totalCount": 22
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tunis",
+      "urlname": "rladies-tunis"
+    }
+  },
+  {
+    "id": "273195091",
+    "title": "R4Bioinfo workshop : Introduction to Bioconductor Annotation Resources",
+    "description": "We are excited to invite you to the 2nd workshop of our R4Bioinfo series : Introduction to Bioconductor Annotation Resources.\n\nDuring this workshop you'll learn about the different annotation packages provided by the Bioconductor project that can be used to incorporate additional information to results from high-throughput experiments.\n\nPrerequisities :\nBasic knowledge of R and Bioconductor https://bioconductor.org/\n\nDate/Time : Wednesday, September 30th, 2020 5:30PM -> 7:30PM (Tunisia time GMT+1)\nPlace : Zoom https://zoom.us/download\n\nInvited speaker :\n▶️ Dr. Martin Morgan: Director, Roswell Park R / Bioconductor Project.\n\n▶️ About Dr. Martin Morgan https://github.com/mtmorgan :\nDr. Morgan earned his undergraduate and Master's degrees in Botany at the University of Toronto. Dr. Morgan's PhD studies at the University of Chicago involved the evolutionary consequences of frequency-dependent selection, and of multilocus deleterious mutation.\nDr. Morgan spent 10 years as an Assistant and then Associate Professor at Washington State University, before joining the Fred Hutchinson Cancer Research Center in 2005. At the Hutch, Dr. Morgan worked on the Bioconductor project for the analysis and comprehension of high-throughput genomic data; he has led Bioconductor since 2008. Dr. Morgan moved to Roswell Park Comprehensive Cancer Center in Buffalo, NY in 2015, where the Bioconductor project is now based.\n\nIn order to attend the event, please fill out this form 👉 https://tinyurl.com/y5brdnv2\nThose who fill out the form will receive an email shortly with instructions on how to join. Additionally you will get reminders right before the workshop with the link so you have it handy.\n\nWe look forward to e-meeting you!\n\nIf you have any questions, please don't hesitate to contact us ⬇️\n\n#Email : tunis@rladies.org\n#LinkedIn : https://tinyurl.com/y8hlt5np\n#Meetup : https://www.meetup.com/rladies-tunis/\n#Twitter : https://twitter.com/RLadiesTunis\n#Instagram : https://www.instagram.com/rladiestunis/\n#Youtube_Channel : https://tinyurl.com/ycm48c6w\n#Github : https://github.com/rladiestunis\n#Facebook : https://www.facebook.com/RLadiesTunis/\n#Messenger : m.me/RLadiesTunis See Less",
+    "status": "PAST",
+    "dateTime": "2020-09-30T17:30:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tunis/events/273195091/",
+    "featuredEventPhoto": {
+      "id": "492282155",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/4/a/b/highres_492282155.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/4/a/b/600_492282155.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/4/a/b/thumb_492282155.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 29,
+      "waitlistCount": 0,
+      "totalCount": 29
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tunis",
+      "urlname": "rladies-tunis"
+    }
+  },
+  {
+    "id": "272898020",
+    "title": "R4Bioinfo : Introduction to RNA-seq",
+    "description": "We are excited to invite you to our #R4Bioinfo series : Introduction to RNA-seq.\n\nDuring this workshop you'll go through this tutorial\nhttps://www.bioconductor.org/packages/release/workflows/vignettes/rnaseqGene/inst/doc/rnaseqGene.html\n\nPrerequisities :\n\nBasic knowledge of Bioconductor. We'll organize a session before the event to install all the required packages in the programming language R https://www.r-project.org/ and introduceto you Bioconductor https://bioconductor.org/\n\nDate/Time : Friday, September 18th, 2020 5:00PM -> 6:00PM (Tunisia time GMT+1)\nPlace : Zoom https://zoom.us/download\n\nInvited speaker :\n▶️ Dr. Michael I. Love: Assistant Professor of Biostatistics & Genetics at UNC-Chapel Hill. Maintains Bioconductor packages: DESeq2, tximport, tximeta, fishpond, alpine.\n\nAbout Dr. Michael I. Love https://mikelove.github.io/ :\nDr. Love received his bachelor’s in mathematics in 2005 from Stanford University, his master’s in statistics in 2010 from Stanford University, and his Ph.D. in Computational Biology in 2013 from the Freie Universität Berlin. Dr. Love uses statistical models to infer biologically meaningful patterns from high-throughput sequencing data, and develops open-source statistical software for the Bioconductor Project.\n\nIn order to attend the event, please fill out this form 👉 https://tinyurl.com/y4m948kd\nThose who fill out the form will receive an email shortly with instructions on how to join. Additionally you will get reminders right before the workshop with the link so you have it handy.\n\nWe look forward to e-meeting you!\n\nIf you have any questions, please don't hesitate to contact us ⬇️\n\n#Email : tunis@rladies.org\n#Messenger : m.me/RLadiesTunis#Email : tunis@rladies.org\n#LinkedIn : https://tinyurl.com/y8hlt5np\n#Meetup : https://www.meetup.com/rladies-tunis/\n#Twitter : https://twitter.com/RLadiesTunis\n#Instagram : https://www.instagram.com/rladiestunis/\n#Youtube_Channel : https://tinyurl.com/ycm48c6w\n#Github : https://github.com/rladiestunis\n#Facebook : https://www.facebook.com/RLadiesTunis/",
+    "status": "PAST",
+    "dateTime": "2020-09-18T17:00:00+01:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-tunis/events/272898020/",
+    "featuredEventPhoto": {
+      "id": "492058948",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/e/6/4/4/highres_492058948.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/e/6/4/4/600_492058948.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/6/4/4/thumb_492058948.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 50,
+      "waitlistCount": 0,
+      "totalCount": 50
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tunis",
+      "urlname": "rladies-tunis"
+    }
+  },
+  {
+    "id": "272154201",
+    "title": "Intro to Modeltime for Time Series Forecasting",
+    "description": "We are excited to invite you to our next meetup : Intro to Modeltime for Time Series Forecasting.\n\nDuring this online meetup, Matt Dancho will be introducing a new R Forecasting package he has recently created : the modeltime package. It's a new time series forecasting package that speeds up model evaluation, selection, and forecasting. You can read the official announcement here 👉 https://www.business-science.io/code-tools/2020/06/29/introducing-modeltime.html\n\nDate/Time : Wednesday, July 29th, 2020 at 6PM (Tunisia time GMT+1)\nPlace : Zoom https://zoom.us/download\n\nTrainer :\n▶️ Matt Dancho : Founder & CEO Business Science University https://www.business-science.io/\n\nModerator :\n▶️ Chaima Boughanmi : Engineering Student specialized in Data Science, Member of R-Ladies Tunis\n\nIn order to attend the event, please fill out this form 👉 https://tinyurl.com/y5zyjlc4\n\nThose who fill out the form will receive an email shortly with instructions on how to join. Additionally you will get reminders right before the workshop with the link so you have it handy.\n\nWe look forward to e-meeting you!\n\nIf you have any questions, please don't hesitate to contact us ⬇️\n\n#Email : tunis@rladies.org\n#LinkedIn : https://tinyurl.com/y8hlt5np\n#Meetup : https://www.meetup.com/rladies-tunis/\n#Twitter : https://twitter.com/RLadiesTunis\n#Instagram : https://www.instagram.com/rladiestunis/\n#Youtube_Channel : https://tinyurl.com/ycm48c6w\n#Github : https://github.com/rladiestunis\n#Facebook : https://www.facebook.com/RLadiesTunis/\n#Messenger : m.me/RLadiesTunis",
+    "status": "PAST",
+    "dateTime": "2020-07-29T18:00:00+01:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-tunis/events/272154201/",
+    "featuredEventPhoto": {
+      "id": "491497113",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/0/f/9/highres_491497113.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/0/f/9/600_491497113.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/0/f/9/thumb_491497113.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 11,
+      "waitlistCount": 0,
+      "totalCount": 11
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tunis",
+      "urlname": "rladies-tunis"
+    }
+  },
+  {
+    "id": "272080120",
+    "title": "Parameterization and Generalization of R-Markdown documents",
+    "description": "We are excited to invite you to our next meetup : Parameterization and Generalization of R-Markdown documents.\n\nThis workshop is intended for R users who want to learn how to develop their own functions for the creation of customized, but reproducible, R-Markdown reports to improve their projects and/or package development abilities.\n\nPrerequisities :\nBasic skills in R and R-Markdown are strongly recommended. Introductory examples are provided, however the core material might be challenging for beginners.\n\nDate/Time : Monday, July 27th, 2020 4:30PM -> 6:30PM (Tunisia time GMT+1)\nPlace : Zoom https://zoom.us/download\n\nTrainer :\n▶️ Cristina Muschitiella : PhD on Methodological Statistics, R-Developer, Researcher and Data Scientist at at Infocamere scpa.\n\nModerator :\n▶️ Hédia Tnani : PhD on Molecular Biology and Biotechnology, Co-Founder at R-Ladies Tunis.\n\nIn order to attend the event, please fill out this form 👉 https://tinyurl.com/y3qez973\n\nThose who fill out the form will receive an email shortly with instructions on how to join.\n\nWe look forward to e-meeting you!\n\nIf you have any questions, please don't hesitate to contact us :\n\n#Email : tunis@rladies.org\n#LinkedIn : https://lnkd.in/dbTp659\n#Meetup : https://lnkd.in/dCCgsMk\n#Twitter : https://lnkd.in/d_p4FjT\n#Instagram : https://lnkd.in/dU9rvMa\n#Youtube_Channel : https://lnkd.in/dQVEnRs\n#Github : https://lnkd.in/dJF7ezS\n#Facebook : https://lnkd.in/dBtEg-6\n#Messenger : m.me/RLadiesTunis",
+    "status": "PAST",
+    "dateTime": "2020-07-27T16:30:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tunis/events/272080120/",
+    "featuredEventPhoto": {
+      "id": "491450813",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/6/7/d/highres_491450813.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/6/7/d/600_491450813.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/6/7/d/thumb_491450813.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 14,
+      "waitlistCount": 0,
+      "totalCount": 14
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tunis",
+      "urlname": "rladies-tunis"
+    }
+  },
+  {
+    "id": "272036394",
+    "title": "Analysis of COVID-19 DATA with R",
+    "description": "We are excited to invite you to our next meetup : Analysis of COVID-19 data with R.\n\n◾️ Date/Time : Wednesday, the 22nd of July 2020 6:00PM -> 7:30PM (Tunisia time GMT+1)\n◾️ Place : Zoom (https://zoom.us/download)\n\nThroughout the webinar, Dr. Dhafer Mallouche will be presenting his new website http://covid19data.website for monitoring the COVID-19 situation in the whole world. The website contains the Dashboard of the situation in all the countries with more than 1000 cases, in all the continents, the geographical territories, the countries by economic level (according to BM classification) as well as the different states of the US.\nDr. Mallouche gives also an estimate of the R(t) (reproduction number) during the last 60 days.\nDr. Mallouche's dashboard classifies as well the countries according to the COVID-19 situation based on 6 criteria : the R (t), the growth rate of confirmed, active and death cases and the number of cases per million inhabitants.\n\nAbout Dr. Dhafer Mallouche :\n\nHe is a Professor of Statistics and Applied Mathematics at The University of Carthage. He earned his Ph.D. in Statistics and Applied\nMathematics from Paul Sabatier University in Toulouse, France, in October 1997, and a Master’s Degree in Applied Mathematics from the same university in June 1994. He started his academic professional as Assistant Professor in Sousse in Tunisia. In September 2003, Dr. Dhafer moved to the Higher Engineering School of Statistics of the University of Carthage. He was successively promoted to Associate-Professor in 2011, later to Professor in 2018. He had taught there several statistical and data science courses. He had supervised five Ph.D. in Applied Statistics. Dr. Dhafer has authored and co-authored more than 50 research papers in many topics related to applied statistics and mathematics. Dr. Dhafer was a Fulbright scholar at Stanford University and the University of Michigan. On several times he was a visiting scholar at Yale University and in prestigious colleges in Canada and France.\n\nIn order to attend the event, please fill out this form 👉 https://tinyurl.com/y3xlsuo6\n\nThose who fill out the form will receive an email shortly with instructions on how to join. Additionally you will get reminders right before the workshop with the link so you have it handy.\n\nWe look forward to e-meeting you!\n\nIf you have any questions, please don't hesitate to contact us ⬇️\n\n#Email : tunis@rladies.org\n#LinkedIn : https://tinyurl.com/y8hlt5np\n#Meetup : https://www.meetup.com/rladies-tunis/\n#Twitter : https://twitter.com/RLadiesTunis\n#Instagram : https://www.instagram.com/rladiestunis/\n#Youtube_Channel : https://tinyurl.com/ycm48c6w\n#Github : https://github.com/rladiestunis\n#Facebook : https://www.facebook.com/RLadiesTunis/\n#Messenger : m.me/RLadiesTunis",
+    "status": "PAST",
+    "dateTime": "2020-07-22T18:00:00+01:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-tunis/events/272036394/",
+    "featuredEventPhoto": {
+      "id": "491417407",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/3/f/f/highres_491417407.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/3/f/f/600_491417407.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/3/f/f/thumb_491417407.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 10,
+      "waitlistCount": 0,
+      "totalCount": 10
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tunis",
+      "urlname": "rladies-tunis"
+    }
+  },
+  {
+    "id": "271919907",
+    "title": "Introduction to R MARKDOWN",
+    "description": "We are excited to invite you to our next meetup : Introduction to R Markdown.\n\n◾️ Date/Time : Saturday, the 18th of July 2020 3:00PM -> 4:30PM (Tunisia time GMT+1)\n◾️ Place : Zoom\n\nThe workshop will cover an overview of R Markdown, including the possible output formats, the Markdown syntax and the R code chunk syntax. We will also introduce the basics of building flexible dashboards with the R package flexdashboard.\n\nR Markdown has many avaiable output formats including HTML, PDF, MS Word, Beamer, HTML5 slides, Tufte handouts, books, dashboards, and websites https://rmarkdown.rstudio.com/gallery.html\n\nAlong the workshop, a range of examples on how to extend the functionality of the R Markdown documents will be provided.\n\nTrainer :\n▶️ Mohamed El Fodil Ihaddaden : PhD Candidate in Economics, Msc in Statistics and Applied Economics, R developer, RStudio Certified Instructor https://ihaddadenfodil.com/\n\nModerator :\n▶️ Mouna Belaid : Data Scientist at BIAT, Engineer in Statistics & Data Analysis, Co-Founder at R-Ladies Tunis\n\nIn order to attend the event, please fill out this form 👉 https://tinyurl.com/y8urdpqf\n\nThose who fill out the form will receive an email shortly with instructions on how to join. Additionally you will get reminders right before the workshop with the link so you have it handy.\n\nWe look forward to e-meeting you!\n\nIf you have any questions, please don't hesitate to contact us ⬇️\n\n#Email : tunis@rladies.org\n#LinkedIn : https://tinyurl.com/y8hlt5np\n#Meetup : https://www.meetup.com/rladies-tunis/\n#Twitter : https://twitter.com/RLadiesTunis\n#Instagram : https://www.instagram.com/rladiestunis/\n#Youtube_Channel : https://tinyurl.com/ycm48c6w\n#Github : https://github.com/rladiestunis\n#Facebook : https://www.facebook.com/RLadiesTunis/\n#Messenger : m.me/RLadiesTunis",
+    "status": "PAST",
+    "dateTime": "2020-07-18T15:00:00+01:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-tunis/events/271919907/",
+    "featuredEventPhoto": {
+      "id": "491325825",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/3/0/1/highres_491325825.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/3/0/1/600_491325825.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/3/0/1/thumb_491325825.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 19,
+      "waitlistCount": 0,
+      "totalCount": 19
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tunis",
+      "urlname": "rladies-tunis"
+    }
+  },
+  {
+    "id": "271642923",
+    "title": "Workshop about R Shiny",
+    "description": "R-Ladies Tunis in collaboration with ATIS are inviting you to their next meetup. Our online meetup will be about creating an #R #Shiny application.\n\n◾️ Date/Time : Saturday, the 04th of July 2020 3:00PM -> 5:00PM (Tunisia time)\n◾️ Place : Zoom\n\nTopics to be discussed :\n\n✦ Learning the two key components of every Shiny app : the UI (short for user interface) and the server function which defines how the application works.\n✦ Building an application with interactive tables and graphs.\n✦ Exploring layout options, including sidebars and tabs.\n✦ Discussion about the fundamentals of reactivity in shiny.\n\nTrainer :\n▶️ Kaelen Medeiros : Data Scientist at Medidata Solutions and Ex-instructor at Data Camp\n\nModerator :\n▶️ Haifa Ben Messaoud : Data Scientist at National Pen and Co-founder at R-Ladies Tunis\n\nIn order to attend the event, please fill out this form 👉 https://tinyurl.com/y7japyjf\n\nStay tuned to our upcoming events!\n\nThose who fill out the form will receive an email shortly with instructions on how to join. Additionally you will get reminders right before the webinar with the link so you have it handy.\n\nWe look forward to e-meeting you!\n\nIf you have any questions, please don't hesitate to contact us ⬇️\n\nATIS team :\n\n#Facebook : https://tinyurl.com/ybzofmrb\n\nR-Ladies Team :\n\n#Email : tunis@rladies.org\n#LinkedIn : https://tinyurl.com/y8hlt5np\n#Meetup : https://www.meetup.com/rladies-tunis/\n#Twitter : https://twitter.com/RLadiesTunis\n#Instagram : https://www.instagram.com/rladiestunis/\n#Youtube_Channel : https://tinyurl.com/ycm48c6w\n#Github : https://github.com/rladiestunis\n#Messenger : m.me/RLadiesTunis",
+    "status": "PAST",
+    "dateTime": "2020-07-04T15:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tunis/events/271642923/",
+    "featuredEventPhoto": {
+      "id": "491110028",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/7/2/c/highres_491110028.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/7/2/c/600_491110028.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/7/2/c/thumb_491110028.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 15,
+      "waitlistCount": 0,
+      "totalCount": 15
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tunis",
+      "urlname": "rladies-tunis"
+    }
+  },
+  {
+    "id": "271349886",
+    "title": "Data Structures With R",
+    "description": "We are excited to announce that our next meetup is coming up soon! Our online meetup will mainly cover the #Data #Structures in the programming language #R.\n\nWe will be in touch soon with in-depth details regarding how to deal with data structures (#Vectors, #Arrays, #Lists, #Matrices & #DataFrames).\n\n🟪 Date/Time : the 21h of June 2020 11:00AM -> 1:00PM\n🟪 Place : Zoom\n\nSpeakers :\n▶️ Haifa Ben Messaoud : Data Scientist\n▶️ Hédia Tnani : Bioinformatician\n▶️ Mouna Belaid : Data Scientist\n\nModerator :\n▶️ Nermine Ben Rich : Data Scientist\n\nIn order to attend the event, please fill out this form 👉 https://tinyurl.com/y9o4o69k\n\nStay tuned to our upcoming events!\n\nThose who filled out the form will receive the meeting link via email.\nLooking forward to e-meeting you!\n\nIf you have any questions, please reach out to us ⬇️\n\n#Email : tunis@rladies.org\n#LinkedIn : https://tinyurl.com/y8hlt5np\n#Meetup : https://www.meetup.com/rladies-tunis/\n#Twitter : https://twitter.com/RLadiesTunis\n#Instagram : https://www.instagram.com/rladiestunis/\n#Youtube_Channel : https://tinyurl.com/ycm48c6w\n#Github : https://github.com/rladiestunis\n#Messenger : m.me/RLadiesTunis",
+    "status": "PAST",
+    "dateTime": "2020-06-21T11:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tunis/events/271349886/",
+    "featuredEventPhoto": {
+      "id": "490889885",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/4/b/d/highres_490889885.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/4/b/d/600_490889885.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/4/b/d/thumb_490889885.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 9,
+      "waitlistCount": 0,
+      "totalCount": 9
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tunis",
+      "urlname": "rladies-tunis"
+    }
+  },
+  {
+    "id": "271020466",
+    "title": "Introduction To R ",
+    "description": "We are happy to announce that our first meetup will be held soon. It will be a session dedicated to the INAT (National Agronomic Institute of Tunisia) alumni. We will introduce the programming language #R to them. Otherwise, if you are a beginner and want to start with R, you are welcome to join us.\n\n🟪 Date/Time : 06th of June 2020 11:00AM -> 12:00PM\n🟪 Place : Zoom\n\nThe workshop will mainly cover these points :\n\n▪️ Introduction to R | RStudio | RStudio Cloud | RStudio Portable\n▪️ Basic operations, data types and structures in R\n▪️ Quiz\n\nPlease fill out this form if you are interested in joining us ⬇️\nhttps://tinyurl.com/y79vhpjk\n\nThose who are interested will receive the meeting link via email.\n\nIf you have any questions, please reach out to us ⬇️\n\n#Email : tunis@rladies.org\n#LinkedIn : https://tinyurl.com/y8hlt5np\n#Meetup : https://www.meetup.com/rladies-tunis/\n#Twitter : https://twitter.com/tunisrladies\n#Instagram : https://www.instagram.com/rladiestunis/\n#Youtube_Channel : https://tinyurl.com/ycm48c6w",
+    "status": "PAST",
+    "dateTime": "2020-06-06T11:00:00+01:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-tunis/events/271020466/",
+    "featuredEventPhoto": {
+      "id": "490660265",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/d/4/9/highres_490660265.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/d/4/9/600_490660265.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/d/4/9/thumb_490660265.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 11,
+      "waitlistCount": 0,
+      "totalCount": 11
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tunis",
+      "urlname": "rladies-tunis"
+    }
+  },
+  {
+    "id": "279149433",
+    "title": "My Favorite ggplot2 Extension Packages",
+    "description": "We are delighted to invite you to our next meetup. We will be organizing a new meetup about Cédric'favorite ggplot2 extension Packages.\n\nDate/Time: Wednesday, July, 8th 2021 from 6 PM to 7 PM (GMT+1)\nPlace: Zoom\n\n▶️ Invited trainer: Cédric Scherer\n\n▶️ About Cédric Scherer :\n\nCédric is a trained researcher in ecology, evolution and nature conservation with a focus on computational biology. After his PhD, he combined his expertise in analysing and visualizing large data sets in R with his passion for design to create visualizations across all disciplines, purposes, and styles to become a freelance data visualization specialist. In his spare time, Cédric is contributing regularly to the #TidyTuesday challenge and other data visualization contests and is hosting the #30DayChartChallenge together with Dominic Royé that took place for the first time this year.\n\n▶️ About the workshop:\n\nAbstract: ggplot2 is a graphics library for R which comes with many geometries that allow you to build numerous and highly customized data visualizations. In this talk, I am going to present the most exciting extension packages to create various chart types within the ggplot2 framework but that are not part of the ggplot2 package itself. We are going to cover popular chart types such as bump graphs and ridgeline plots but also less common variants, for example stream graphs, moon plots, and geofacets.\n\nIn order to attend the event, please fill out this form 👉\nhttps://tinyurl.com/ypu3wt79\n\nWe will send you the zoom link a few hours before the training session. Please check out your email later.\n\nWe look forward to welcoming you!",
+    "status": "PAST",
+    "dateTime": "2021-07-08T18:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tunis/events/279149433/",
+    "featuredEventPhoto": {
+      "id": "497221840",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/3/0/highres_497221840.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/3/0/600_497221840.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/3/0/thumb_497221840.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 105,
+      "waitlistCount": 0,
+      "totalCount": 105
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tunis",
+      "urlname": "rladies-tunis"
+    }
+  },
+  {
+    "id": "278616895",
+    "title": "Improve your Data Science pipelines with JavaScript",
+    "description": "We are delighted to invite you to our next meetup. We will be organizing a new workshop about using JavaScript to improve data science pipelines.\n\nDate/Time: Wednesday, June 23rd, 2021 from 6 PM to 7 PM (GMT+1)\nPlace: Zoom\n\n▶️ Invited trainer: John Coene\n\n▶️ About John Coene :\nJohn Coene has worked for 5 years in tech companies in China, then, after 3 years at the World Economic Forum in Geneva, he set up his own company (https://opifex.org) He also works with Impact Lab Finance (https://impactlab-finance.com). He is the author of packages such as {echarts4r} https://echarts4r.john-coene.com/, {waiter} https://shiny.john-coene.com/waiter/, {packer} https://packer.john-coene.com/#/, (and more), as well as the book JavaScript for R forthcoming on CRC Press.\n\n▶️ About the workshop:\n\nA brief introduction to using JavaScript with R. No prior knowledge of JavaScript is required.\nR has been propelled into web browsers with package such as Rmarkdown and Shiny; combining JavaScript with R is now possible and immensely useful!\nThis aims to be an elevator pitch to demystify JavaScript and encourage R users to explore it: surprisingly little knowledge of the language brings amazing rewards.\n\nIn order to attend the event, please fill out this form 👉\nhttps://tinyurl.com/4mvwby7r\n\nWe will send you the zoom link a few hours before the training session. Please check out your email later.\n\nWe look forward to welcoming you!",
+    "status": "PAST",
+    "dateTime": "2021-06-23T18:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tunis/events/278616895/",
+    "featuredEventPhoto": {
+      "id": "496692200",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/f/a/8/highres_496692200.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/f/a/8/600_496692200.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/f/a/8/thumb_496692200.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 44,
+      "waitlistCount": 0,
+      "totalCount": 44
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tunis",
+      "urlname": "rladies-tunis"
+    }
+  },
+  {
+    "id": "278823657",
+    "title": "A Little JS Goes a Long Way",
+    "description": "We are super excited to collaborate again with R-Ladies Tunis to host a new workshop, \"A Little JS Goes a Long Way\". The Amazing Maya Gans will give an overview of how javascript is used in R with a brief intro to Shiny app.\n\nThinking of looking at Shiny under the hood? Through using HTML, CSS, and JavaScript this talk will go through helpful use cases to empower you to start customising Shiny. Shiny is an R package that makes it easy to build interactive web apps straight from R. You can host standalone apps on a webpage or embed them in R Markdown documents or build dashboards. It's very easy to write and it is not surprising to see Shiny apps popping up in all manner of applications including healthcare and medical applications.\n\nWHO is this for?\n- If you never worked with Shiny and want to understand how it is used?\n- If you love Shiny app and want to understand more about how it's customised.\n- Both beginners and experienced R users are welcome to join!\n\nAGENDA\n7:30–7:35 pm Who we are | Announcement about useR Conference 2021\n7:35–8:25 pm A Little JS Goes a Long Way\n8:25–8:30 pm Any Qs?\n\nOur speaker, Maya Gans is an experienced R and JavaScript developer, who recently started applying those skills to the clinical trial space. After graduating with her Masters in Botany from the University of Wyoming, Maya interned at RStudio where she created a blocks based programming language called tidyblocks, as well as co-authoring “JavaScript for Data Science”. Currently, Maya writes R packages and Shiny applications to create dynamic, custom data visualisation and exploratory tools to aid in understanding complex data. Maya is also passionate about data science education and has given many talks and workshops about using and creating tools in R.\n\nYou can find out more about Maya Gans here:\nTwitter: https://twitter.com/mayacelium\nWebsite:https://maya.rbind.io/\n\nPlace: Zoom- https://zoom.us/download - The event will not be recorded.\nWe will send you the Zoom link & the passcode via email a few hours before the meetup. Please check out your email later.\n\nWe look forward to welcoming you!",
+    "status": "PAST",
+    "dateTime": "2021-06-21T17:30:00+01:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-tunis/events/278823657/",
+    "featuredEventPhoto": {
+      "id": "496912290",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/c/4/2/highres_496912290.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/c/4/2/600_496912290.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/c/4/2/thumb_496912290.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 60,
+      "waitlistCount": 0,
+      "totalCount": 60
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tunis",
+      "urlname": "rladies-tunis"
+    }
+  },
+  {
+    "id": "278621344",
+    "title": "R4Bioinfo Workshop: Introduction to Ensembl REST API - PART2",
+    "description": "We are delighted to get back to the R4Bioinfo series that we've launched in September 2020. We will be organizing a series of two workshops about Introduction to Ensembl REST API. This meeetup will cover the second part.\n\nDate/Time: Friday, June 11th, 2021 from 6 PM to 8:15 PM (GMT+1)\nPlace: ZOOM\n\n▶️ Invited trainer: Dr. Aleena Mushtaq and Dr. Michal Szpak\n\n▶️ About Dr. Aleena Mushtaq:\n(https://www.linkedin.com/in/aleena-mushtaq-417bb6133/)\nAleena’s background is in Biomedical and Molecular sciences. She completed her PhD in 2020 at the University of East Anglia, UK. For her doctorate she studied the dynamic relationship of host and microbiota in the gut-liver axis in response to Western diets. She joined EMBL-EBI as an Ensembl Outreach Officer in 2021 and delivers training on Ensembl resources.\n\n▶️ About Dr. Michal Szpak:\n(https://www.linkedin.com/in/michal-szpak/)\nMichal took a degree in biology at the University of Warsaw, where he\nstudied ancient DNA. He subsequently moved to bioinformatics and\nexplored human genetic variation across different ethnicities in his\nmaster’s degree research at the Center for Public Health Genomics,\nuniversity of Virginia. He joined the human evolution team at the\nWellcome Sanger Institute in 2012 and received his PhD in human\npopulation genetics from University of Cambridge. His doctoral and\npostdoctoral work at the Sanger focused on positive selection and\ngenetic adaptations in humans. He joined EMBL-EBI as an Ensembl Outreach Officer in 2019 and continues to deliver Ensembl training worldwide.\n\n▶️ About the workshop:\nThis workshop will be divided into two parts. During these two parts you'll learn about:\n- Introduction to REST API\n- Making requests with R\n- Find an endpoint which you can use to lookup information about a gene using its symbol\n- Create a URL to find information about a gene\n- Expand your results to include information about transcripts\n- Convert a fromJSON module used to pull out the data to a dataframe\n- Get a sequence in FASTA\n- Gene trees and homologues in various formats\n- Alignments\n- Get all variants that are associated with a phenotype and print the needed information about these variants\n- Linking endpoints together\n- Using POST to run a query with multiple inputs at once\n\nThe invited trainers will go over these materials (http://training.ensembl.org/events/2021/2021-06-04-RLadiesREST_June) during the training session.\n\nBy the end of this series, you will be able to make requests with R through Ensembl REST API.\n\nIn order to attend the event, please fill out this form 👉\nhttps://tinyurl.com/d7kvxby\n\nWe will send you the ZOOM link a few hours before the training session. Please check out your email later.\n\nWe look forward to welcoming you!",
+    "status": "PAST",
+    "dateTime": "2021-06-11T18:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tunis/events/278621344/",
+    "featuredEventPhoto": {
+      "id": "496695966",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/e/5/e/highres_496695966.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/e/5/e/600_496695966.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/e/5/e/thumb_496695966.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 15,
+      "waitlistCount": 0,
+      "totalCount": 15
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tunis",
+      "urlname": "rladies-tunis"
+    }
+  },
+  {
+    "id": "277997537",
+    "title": "Github for collaboration",
+    "description": "Details\nWe are delighted to invite you to our next meetup. We will be organizing a new workshop about Using Github for collaboration.\n\nDate/Time: Thursday, June 10th, 2021 from 6 PM to 8 PM (GMT+1)\nPlace: Zoom\n\n▶️ Invited trainer: Dr. Lisa Lendway\n\n▶️ About Dr. Lisa Lendway :\nDr. Lisa Lendway teaches statistics and data science at Macalester College, a small liberal arts college for undergraduates in St. Paul, MN USA. She is passionate about applying statistics to any subject matter and enjoys helping people see the benefits of using statistical analysis and data visualization to answer questions. Outside of statistics, Lisa enjoys spending time with her two daughters, cycling with her husband, making old things new, and playing in her jungle garden. She even went so far as to record her harvest data last year and turn it into an R package: https://github.com/llendway/gardenR\n\n▶️ About the workshop:\nIn this MeetUp, we'll talk about using Git and GitHub with R projects in the RStudio IDE. This will be a hands-on talk with plenty of opportunity to interact. To get the most out of the meeting, it is recommended that you do a few steps before the meeting: see the \"What you should already know\" section of my https://lisalendway.netlify.app/posts/2021-02-24-gitinrstudio/ blog post to get your GitHub account set up and to connect it with RStudio. First, we will review how to create our own projects and practice committing, pushing, and creating branches. Then, we will practice adding collaborators where we will clone a repo and deal with a merge conflict. Next, we'll talk about pull requests and practice doing them! Lastly, I'll talk about a couple ways you can undo things you didn't mean to do in Git. I am by no means a Git or GitHub pro. So along the way, I'll probably make some mistakes, but there's no better way to learn, right?\n\nIn order to attend the event, please fill out this form 👉\nhttps://tinyurl.com/2k88f8nd\n\nWe will send you the zoom link a few hours before the training session. Please check out your email later.\n\nWe look forward to welcoming you!",
+    "status": "PAST",
+    "dateTime": "2021-06-10T18:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tunis/events/277997537/",
+    "featuredEventPhoto": {
+      "id": "496121867",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/3/8/b/highres_496121867.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/3/8/b/600_496121867.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/3/8/b/thumb_496121867.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 102,
+      "waitlistCount": 0,
+      "totalCount": 102
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tunis",
+      "urlname": "rladies-tunis"
+    }
+  },
+  {
+    "id": "278504255",
+    "title": "R4Bioinfo Workshop: Introduction to Ensembl REST API - PART1",
+    "description": "We are delighted to get back to the R4Bioinfo series that we've launched in September 2020. We will be organizing a series of two workshops about Introduction to Ensembl REST API.\n\nDate/Time: Friday, June 4th, 2021 from 6 PM to 8:15 PM (GMT+1)\nPlace: ZOOM\n\n▶️ Invited trainer: Dr. Aleena Mushtaq and Dr. Michal Szpak\n\n▶️ About Dr. Aleena Mushtaq:\nAleena’s background is in Biomedical and Molecular sciences. She completed her PhD in 2020 at the University of East Anglia, UK. For her doctorate she studied the dynamic relationship of host and microbiota in the gut-liver axis in response to Western diets. She joined EMBL-EBI as an Ensembl Outreach Officer in 2021 and delivers training on Ensembl resources.\n\n▶️ About Dr. Michal Szpak:\nMichal took a degree in biology at the University of Warsaw, where he\nstudied ancient DNA. He subsequently moved to bioinformatics and\nexplored human genetic variation across different ethnicities in his\nmaster’s degree research at the Center for Public Health Genomics,\nuniversity of Virginia. He joined the human evolution team at the\nWellcome Sanger Institute in 2012 and received his PhD in human\npopulation genetics from University of Cambridge. His doctoral and\npostdoctoral work at the Sanger focused on positive selection and\ngenetic adaptations in humans. He joined EMBL-EBI as an Ensembl Outreach Officer in 2019 and continues to deliver Ensembl training worldwide.\n\n▶️ About the workshop:\nThis workshop will be divided into two parts. During these two parts you'll learn about:\n- Introduction to REST API\n- Making requests with R\n- Find an endpoint which you can use to lookup information about a gene using its symbol\n- Create a URL to find information about a gene\n- Expand your results to include information about transcripts\n- Convert a fromJSON module used to pull out the data to a dataframe\n- Get a sequence in FASTA\n- Gene trees and homologues in various formats\n- Alignments\n- Get all variants that are associated with a phenotype and print the needed information about these variants\n- Linking endpoints together\n- Using POST to run a query with multiple inputs at once\n\n▶️ Requirements of the workshop:\nThe Ensembl REST API workshop requires familiarity with the Ensembl Browser and data structure. You can find an online version of the Ensembl Browser workshop with exercises here (https://www.ebi.ac.uk/training/online/courses/ensembl-browser-series/). The invited trainers will go over these materials (http://training.ensembl.org/events/2021/2021-06-04-RLadiesREST_June) during the training session.\n\nBy the end of this series, you will be able to make requests with R through Ensembl REST API.\n\nIn order to attend the event, please fill out this form 👉\nhttps://tinyurl.com/judj2az8\n\nWe will send you the ZOOM link a few hours before the training session. Please check out your email later.\n\nWe look forward to welcoming you!",
+    "status": "PAST",
+    "dateTime": "2021-06-04T18:00:00+01:00",
+    "duration": "PT2H15M",
+    "eventUrl": "https://www.meetup.com/rladies-tunis/events/278504255/",
+    "featuredEventPhoto": {
+      "id": "496588867",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/0/c/3/highres_496588867.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/0/c/3/600_496588867.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/0/c/3/thumb_496588867.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 26,
+      "waitlistCount": 0,
+      "totalCount": 26
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tunis",
+      "urlname": "rladies-tunis"
+    }
+  },
+  {
+    "id": "278466050",
+    "title": "A quick flight to the edge of the tidyverse",
+    "description": "We are very excited to come together with you to host another online meetup. We are collaborating with R-Ladies Tunis to host the second part of the exceptional online session that introduces codes and R functions using cute, fuzzy creatures by the amazing Allison Horst.\n\nThe workshop \" Explore tidyverse with the funny MonsteRs - part 2\" by Allison Horst will help you to picture the functions in your code as cute, fuzzy monsters, and your data as colorful gems. This workshop will make it easier than ever to understand complicated functions in R and create awesome plots.\n\nOur speaker, Allison Horst is an Assistant Teaching Professor at the Bren School of Environmental Science and Management, UC Santa Barbara, where she teaches environmental data science, statistics, math, and presentation skills courses. She is also the co-founder of R-Ladies Santa Barbara, founder, and organizer of the UCSB TidyTuesday coding club, and was RStudio's first Artist-in-Residence from 2019 - 2020. Her academic background is in engineering (BS Chemical Engineering, MS Mechanical Engineering) and environmental science (PhD Environmental Science and Management). When she isn't coding or drawing, she enjoys hiking and fly-fishing with her partner Greg and their dog Teddy.\n\nYou can find out more about Allison Horst here: https://allisonhorst.github.io/\nhttps://github.com/allisonhorst/stats-illustrations\n\nDate/Time : Saturday, May 29th, 2021 5PM - 6PM (Tunisia time GMT+1)\nPlace: Zoom https://zoom.us/download\n\nWe will send you the Zoom link and the enter passcode a few hours before the meetup. Please check out your email later.\n\nThe same meetup is advertised in both R-Ladies Saudi Arabia (Dammam) and R-ladies Tunis meetup pages (https://www.meetup.com/rladies-tunis/). Please make sure to register only to either of them.\n\nDon't forget to add the event to your calendar so that you get a reminder about it.\n\nWe look forward to welcoming you!",
+    "status": "PAST",
+    "dateTime": "2021-05-29T18:00:00+01:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-tunis/events/278466050/",
+    "featuredEventPhoto": {
+      "id": "496552877",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/e/8/d/highres_496552877.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/e/8/d/600_496552877.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/e/8/d/thumb_496552877.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 28,
+      "waitlistCount": 0,
+      "totalCount": 28
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tunis",
+      "urlname": "rladies-tunis"
+    }
+  },
+  {
+    "id": "277518271",
+    "title": "Introduce yourself online with blogdown & Hugo Apéro",
+    "description": "We are delighted to invite you to our next meetup. We will be organizing a new workshop about Using blogdown & Hugo Apéro to create your personal website.\n\nDate/Time: Wednesday, May 26th, 2021 from 7 PM to 9 PM (GMT+1)\nPlace: Zoom\n\n▶️ Invited trainer: Dr. Alison Hill\n\n▶️ About Dr. Alison Hill :\nAlison Hill is a data scientist, behavioral scientist, and an award-winning educator. Currently, Dr. Hill works to make data science communication easier and more delightful using RStudio’s open-source toolchain. Previously, Alison was an Associate Professor of Pediatrics at Oregon Health & Science University. Her research focused on health-related applications of Natural Language Processing-based methods, and was funded by the National Institutes of Health, the Oregon Clinical and Translational Research Institute, and Autism Speaks. She has written numerous scientific publications on autism and neurodevelopmental disorders and has presented research at over 25 international conferences. Alison has also taught statistics and data science for over 10 years; most recently, she has led advanced workshops on data science communication and machine learning at rstudio::conf, R / Medicine, and R in Pharma. She is also an international keynote speaker (https://alison.rbind.io/talks), co-developer of the palmerpenguins (https://allisonhorst.github.io/palmerpenguins/), distill (https://rstudio.github.io/distill/), and blogdown (https://pkgs.rstudio.com/blogdown) R packages, and co-author of the book blogdown: Creating Websites with R Markdown (https://bookdown.org/yihui/blogdown/).\n\n▶️ About the workshop:\n“You should have a website!” You may have heard this one before, or even said it yourself. In this workshop, you’ll learn how to build and customize a website from the comfort of the RStudio IDE with R Markdown. We'll use the blogdown package and the Hugo Apéro theme to build and deploy a personal website. We’ll cover basic website care and feeding like using R Markdown to create content, how to use GitHub for version control and Netlify for publishing, and how to use the latest upgrades to the blogdown R package to keep your site up and running.\n\n▶️ Prerequisites\n\nYou'll get the most out of this workshop if you do the pre-work ahead of time. Please follow the instructions here: https://iyo-rstudio-global.netlify.app/collection/prework/.\n\nIn order to attend the event, please fill out this form 👉 https://tinyurl.com/dre27d3k\n\nWe will send you the zoom link a few hours before the training session. Please check out your email later.\n\nWe look forward to welcoming you!",
+    "status": "PAST",
+    "dateTime": "2021-05-26T19:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tunis/events/277518271/",
+    "featuredEventPhoto": {
+      "id": "495673113",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/3/3/9/highres_495673113.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/3/3/9/600_495673113.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/3/3/9/thumb_495673113.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 89,
+      "waitlistCount": 0,
+      "totalCount": 89
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tunis",
+      "urlname": "rladies-tunis"
+    }
+  },
+  {
+    "id": "277769444",
+    "title": "Omics Integration and Supervised Machine Learning - PART2",
+    "description": "We are delighted to get back to the R4Bioinfo series that we've launched in September 2020. We will be organizing a serie of two workshops about Omics integration and Supervised Machine Learning.\n\nDate/Time: Saturday, May 22th, 2021 from 5 PM to 7:15 PM (GMT+1)\nPlace: ZOOM\n\n▶️ Invited trainer: Dr. Nickolay Oskolkov\n\n▶️ About Dr. Nickolay Oskolkov\nDr. Nikolay Oskolkov is an analyst doing bioinformatics, data science and statistical analysis. He has a background in theoretical physics, PhD 2007, and he moved to Life Sciences in 2012 where he was working in Computational Biology and Biomedicine. He is currently employed as a bioinformatician within the SciLifeLab bioinformatics platform NBIS. His range of interest includes genomics, transcriptomics, microbiome, ancient DNA, single cell, machine learning, image analysis and evolutionary science.\n\n▶️ About the workshop:\nThis workshop will divided in two parts. During these two parts you'll learn about:\n\n- Peculiarities of OMICs Integration\n- Definition and evaluation of OMICs Integration\n- Protocol of OMICs Integration\n- OMICs Integration in Single Cell\n- Selection of the Method of Integration\n- Machine Learning view of Omics integration\n- Feature Selection and Supervised Omics integration\n- Live demo : Practical example of Feature Selection and Supervised OMICs Integration\n\nBy the end of this serie, you will be able to integrate Omics datasets and apply feature selection and supervised machine learning to it.\n\nIn order to attend the event, please fill out this form 👉 https://tinyurl.com/48ys8ykf\n\nWe will send you the ZOOM link a few hours before the training session. Please check out your email later.\n\nWe look forward to welcoming you!",
+    "status": "PAST",
+    "dateTime": "2021-05-22T17:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tunis/events/277769444/",
+    "featuredEventPhoto": {
+      "id": "495887009",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/7/a/1/highres_495887009.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/7/a/1/600_495887009.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/7/a/1/thumb_495887009.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 45,
+      "waitlistCount": 0,
+      "totalCount": 45
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tunis",
+      "urlname": "rladies-tunis"
+    }
+  },
+  {
+    "id": "278080979",
+    "title": "Introduction to {reticulate}",
+    "description": "Details\nWe are delighted to invite you to our next meetup in collaboration with TBS Data Science Club. We will be organizing a new workshop introduction to {reticulate} by Tiffany Timbers.\n\nDate/Time: Wednesday, May 17th, 2021 from 7 PM to 9 PM (GMT+1)\nPlace: Zoom\n\n▶️ Invited trainer: Tiffany Timbers\n\n▶️ About Tiffany Timbers :\nTiffany Timbers is an Assistant Professor of Teaching in the Department of Statistics and an Co-Director for the Master of Data Science program (Vancouver Option) at the University of British Columbia. In these roles she teaches and develops curriculum around the responsible application of Data Science to solve real-world problems. One of her favorite courses she teaches is a graduate course on collaborative software development, which focuses on teaching how to create R and Python packages using modern tools and workflows.\n\n▶️ About the workshop:\nReticulate RStudio and your R code with Python! In this short work-shop we will show you how to configure your system so that you can use Python inside RStudio at the repl/console, in a script and inside R Markdown. As well as how to bring Python packages and functions into your R code! To do this we will be relying on the {reticulate} R package.\n\nIn order to attend the event, please fill out this form 👉 https://tinyurl.com/ybckz363\n\nWe will send you the zoom link a few hours before the training session. Please check out your email later.\n\nWe look forward to welcoming you!",
+    "status": "PAST",
+    "dateTime": "2021-05-17T19:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tunis/events/278080979/",
+    "featuredEventPhoto": {
+      "id": "496199331",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/e/7/c/3/highres_496199331.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/e/7/c/3/600_496199331.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/7/c/3/thumb_496199331.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 42,
+      "waitlistCount": 0,
+      "totalCount": 42
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tunis",
+      "urlname": "rladies-tunis"
+    }
+  },
+  {
+    "id": "277769374",
+    "title": "Omics Integration and Supervised Machine Learning - PART1",
+    "description": "We are delighted to get back to the R4Bioinfo series that we've launched in September 2020. We will be organizing a serie of two workshops about Omics integration and Supervised Machine Learning.\n\nDate/Time: Saturday, May 8th, 2021 from 5 PM to 7:15 PM (GMT+1)\nPlace: ZOOM\n\n▶️ Invited trainer: Dr. Nickolay Oskolkov\n\n▶️ About Dr. Nickolay Oskolkov\nDr. Nikolay Oskolkov is an analyst doing bioinformatics, data science and statistical analysis. He has a background in theoretical physics, PhD 2007, and he moved to Life Sciences in 2012 where he was working in Computational Biology and Biomedicine. He is currently employed as a bioinformatician within the SciLifeLab bioinformatics platform NBIS. His range of interest includes genomics, transcriptomics, microbiome, ancient DNA, single cell, machine learning, image analysis and evolutionary science.\n\n▶️ About the workshop:\nThis workshop will divided in two parts. During these two parts you'll learn about:\n\n- Peculiarities of OMICs Integration\n- Definition and evaluation of OMICs Integration\n- Protocol of OMICs Integration\n- OMICs Integration in Single Cell\n- Selection of the Method of Integration\n- Machine Learning view of Omics integration\n- Feature Selection and Supervised Omics integration\n- Live demo : Practical example of Feature Selection and Supervised OMICs Integration\n\nBy the end of this serie, you will be able to integrate Omics datasets and apply feature selection and supervised machine learning to it.\n\nIn order to attend the event, please fill out this form 👉 https://tinyurl.com/5ymyradc\n\nWe will send you the ZOOM link a few hours before the training session. Please check out your email later.\n\nWe look forward to welcoming you!",
+    "status": "PAST",
+    "dateTime": "2021-05-08T17:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tunis/events/277769374/",
+    "featuredEventPhoto": {
+      "id": "495886557",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/5/d/d/highres_495886557.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/5/d/d/600_495886557.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/5/d/d/thumb_495886557.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 51,
+      "waitlistCount": 0,
+      "totalCount": 51
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tunis",
+      "urlname": "rladies-tunis"
+    }
+  },
+  {
+    "id": "277806781",
+    "title": "R-Ladies+ feat. useR! meetup",
+    "description": "This year useR! (https://user2021.r-project.org/) will be a global and entirely remote conference. One of the main goals is to encourage the participation of diverse people (considering diversity in all its forms and all its intersectionalities). The useR! global team is committed to providing inclusive and accessible spaces during the conference, along with extensive waivers, events in different languages (English, Spanish, and French), real-time English captions, and events across different time zones.\n\nIn this meetup, you will have the opportunity to meet R-Ladies+ from all over the globe. Our panelists will share their useR! experiences to inspire people with different backgrounds, occupations, and paths to participate in this year’s conference. The meetup will be trilingual with a few spots per organizing chapter.\n\nCome join us!\n\n########\nSchedule\n########\nGreetings\nPanel discussion with\nJanani Ravi (East Lansing)\nJonelle Villar (Bergen)\nHaifa Ben Messaoud (Tunis)\nBeatriz Milz (São Paulo)\nZulemma Bazurto Blacio (Guayaquil)\nPre-prepared questions\nQuestions from the audience\nSee you soon at useR!\n\n###################\nCo-organizing chapters\n###################\nR-Ladies+ Vitória\nR-Ladies+ Bangalore\nR-Ladies+ Tunis\nR-Ladies+ East Lansing\nR-Ladies+ Guayaquil\nR-Ladies+ Santa Rosa\nR-Ladies+ Cuernavaca\nR-Ladies+ Den Bosch",
+    "status": "PAST",
+    "dateTime": "2021-04-28T21:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tunis/events/277806781/",
+    "featuredEventPhoto": {
+      "id": "495947236",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/8/8/4/highres_495947236.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/8/8/4/600_495947236.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/8/8/4/thumb_495947236.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 15,
+      "waitlistCount": 0,
+      "totalCount": 15
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tunis",
+      "urlname": "rladies-tunis"
+    }
+  },
+  {
+    "id": "277490971",
+    "title": "Using Tidyverse for Genomics",
+    "description": "We are delighted to get back to the R4Bioinfo series that we've launched in September 2020. We will be organizing a new workshop about Using Tidyverse for Genomics.\n\nDate/Time: Saturday, April 24th, 2021 from 3 PM to 6 PM (GMT+1)\nPlace: Google Meet\n\n▶️ Invited trainer: Dr. Janani Ravi\n\n▶️ About Dr. Janani Ravi:\nDr. Janani Ravi is currently an Assistant Professor at the Dept. of Pathobiology and Diagnostic Investigation, Michigan State University. She completed her PhD in Computational Biology at Virginia Tech and her postdoctoral research at the Public Health Research Institute, Rutgers Biomedical and Health Sciences. Her research group at MSU works on developing computational approaches to study the molecular basis of pathogenesis and intervention of infectious diseases, using protein sequence-structure-function relationships, comparative genomics, and drug repurposing.\n\nDr. Janani is also actively engaged in training, education, and outreach, focusing on increasing the participation of underrepresented minorities in data science and R programming. She is the founder of R-Ladies East Lansing and co-founder of Women+ Data Science, platforms that together engage more than 1,000 members.\n\n▶️ About the workshop:\nThis workshop will present how to analyze & visualize processed genomics data.\n\nThis workshop will be divided in 5 parts:\nPart 1: Getting started w/ readr\nPart 2: Reshaping data w/ tidyr\nPart 3: Data wrangling w/ dplyr\nPart 4: Visualizing tidy data w/ ggplot\nPart 5: Export and Wrap-up w/ rmarkdown\n\nBy the end of this workshop, you will be able to load your genomic dataset, perform basic data tidying & wrangling, data visualization, and save/export your results using tidyverse! Hopefully, you will also have a newfound appreciation for reproducible research and R!\n\nIn order to attend the event, please fill out this form 👉 https://tinyurl.com/4frz9f3u\n\nWe will send you the Goole Meet link a few hours before the training session. Please check out your email later.\n\nWe look forward to welcoming you!",
+    "status": "PAST",
+    "dateTime": "2021-04-24T15:00:00+01:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-tunis/events/277490971/",
+    "featuredEventPhoto": {
+      "id": "495633654",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/3/7/6/highres_495633654.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/3/7/6/600_495633654.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/3/7/6/thumb_495633654.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 54,
+      "waitlistCount": 0,
+      "totalCount": 54
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tunis",
+      "urlname": "rladies-tunis"
+    }
+  },
+  {
+    "id": "277401122",
+    "title": "Torch Package Presentation",
+    "description": "We are delighted to invite you to our new meetup 'TORCH Package Presentation'.\n\nDate/Time: Saturday, April 10, 2021 from 5 PM to 7:15 PM (GMT+1)\nPlace: Zoom https://zoom.us/download\n\n▶️ Invited speaker: Daniel Falbel\n\n▶️ About Daniel Falbel:\nDaniel is a software engineer at RStudio. He studied statistics and worked for a consulting company building Machine Learning models with R. He is the co-author of the torch package. He now works with Multiverse team maintaining and developing the TensorFlow for R ecosystem.\n\n▶️ About the workshop:\n\nThis workshop will present you the different functions of the Torch package and how to use it for your projects.\nThe official website of torch : https://torch.mlverse.org/\n\nWe will send you the enter passcode a few hours before the training session. Please check out your email later.\n\nDon't forget to add the meetup to your calendar so that you get a reminder about it.\n\nWe look forward to welcoming you!\n\nIf you have any questions, please don't hesitate to contact us ⬇️\n\n▪️ Email : tunis@rladies.org\n▪️ LinkedIn : https://tinyurl.com/y8hlt5np\n▪️ Meetup : https://www.meetup.com/rladies-tunis/\n▪️ Twitter : https://twitter.com/RLadiesTunis\n▪️ Instagram : https://www.instagram.com/rladiestunis/\n▪️ YouTube_Channel : https://tinyurl.com/ycm48c6w\n▪️ Github : https://github.com/rladiestunis\n▪️ Facebook : https://www.facebook.com/RLadiesTunis/",
+    "status": "PAST",
+    "dateTime": "2021-04-10T17:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tunis/events/277401122/",
+    "featuredEventPhoto": {
+      "id": "495569385",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/2/c/9/highres_495569385.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/2/c/9/600_495569385.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/2/c/9/thumb_495569385.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 57,
+      "waitlistCount": 0,
+      "totalCount": 57
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tunis",
+      "urlname": "rladies-tunis"
+    }
+  },
+  {
+    "id": "276662904",
+    "title": "A Tidy Transcriptomics introduction to bulk and scRNA sequencing analyses",
+    "description": "We are delighted to get back to the R4Bioinfo series that we've launched in September 2020. We will be organizing a new workshop which will serve as a Tidy Transcriptomics introduction to bulk and scRNA sequencing analyses.\n\nDate/Time: Saturday, April 9, 2021 from 10 AM to 12:15 PM (GMT+1)\nPlace: Zoom https://zoom.us/download\n\n▶️ Invited trainers: Dr. Stefano Mangiola and Dr. Maria Doyle\n\n▶️ About Dr. Stefano Mangiola:\nDr. Stefano Mangiola is currently a Postdoctoral researcher in the laboratory of Prof. Tony Papenfuss. His background spans from biotechnology to bioinformatics and biostatistics. His research focuses on prostate and breast tumour microenvironment, the development of statistical model for the analysis of RNA sequencing data, and data analysis and visualisation interfaces.\n\n▶️ About Dr. Maria Doyle:\nDr. Maria Doyle is the Application and Training Specialist for Research Computing at the Peter MacCallum Cancer Centre in Melbourne, Australia. She has a PhD in Molecular Biology and currently works in bioinformatics and data science education and training. She is passionate about supporting researchers, reproducible research, open source and tidy data.\n\n▶️ About the workshop:\n\nThis workshop will present how to perform analysis of RNA sequencing data following the tidy data paradigm (Wickham and others 2014). The tidy data paradigm provides a standard way to organise data values within a dataset, where each variable is a column, each observation is a row, and data is manipulated using an easy-to-understand vocabulary. Most importantly, the data structure remains consistent across manipulation and analysis functions.\nThis can be achieved for RNA sequencing data with the tidybulk, tidyHeatmap (Mangiola and Papenfuss 2020) and tidyverse (Wickham et al. 2019) packages. The tidybulk package provides a tidy data structure and a modular framework for bulk transcriptional analyses. tidyHeatmap provides a tidy implementation of ComplexHeatmap. These packages are part of the tidytranscriptomics suite that introduces a tidy approach to RNA sequencing data representation and analysis. The last section of the workshop will be focused on the analysis of single cell data in a tidy fashion with the packages tidySCE and tidyseurat.\n\nThe topics presented in this workshop will be:\n\n▪️ Data exploration\n▪️ Data dimensionality reduction and clustering\n▪️ Differential gene expression analysis\n▪️ Data visualisation\n\nIn order to attend the event, please fill out this form 👉 https://tinyurl.com/y88sxkos\n\nWe will send you the Zoom link and the enter passcode a few hours before the training session. Please check out your email later.\n\nDon't forget to add the meetup to your calendar so that you get a reminder about it.\n\nWe look forward to welcoming you!\n\nIf you have any questions, please don't hesitate to contact us ⬇️\n\n▪️ Email : tunis@rladies.org\n▪️ LinkedIn : https://tinyurl.com/y8hlt5np\n▪️ Meetup : https://www.meetup.com/rladies-tunis/\n▪️ Twitter : https://twitter.com/RLadiesTunis\n▪️ Instagram : https://www.instagram.com/rladiestunis/\n▪️ YouTube_Channel : https://tinyurl.com/ycm48c6w\n▪️ Github : https://github.com/rladiestunis\n▪️ Facebook : https://www.facebook.com/RLadiesTunis/",
+    "status": "PAST",
+    "dateTime": "2021-04-09T10:00:00+01:00",
+    "duration": "PT2H15M",
+    "eventUrl": "https://www.meetup.com/rladies-tunis/events/276662904/",
+    "featuredEventPhoto": {
+      "id": "494971313",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/a/5/1/highres_494971313.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/a/5/1/600_494971313.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/a/5/1/thumb_494971313.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 44,
+      "waitlistCount": 0,
+      "totalCount": 44
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tunis",
+      "urlname": "rladies-tunis"
+    }
+  },
+  {
+    "id": "277198383",
+    "title": "Shiny Training - Level 2",
+    "description": "We are pleased to invite you to our next meetup : Shiny Training – Level 2. We will be honored to be hosting Kaelen Medeiros.\n\nDate/Time: Sunday,April 4th , 2021 from 5 PM to 7 PM (GMT+1)\nPlace: Zoom\n\n▶️ Invited speaker : Kaelen Medeiros\n▶️ About Kaelen Medeiros (http://klmedeiros.com/) :\n\nKaelen is a data scientist at Medidata Solutions where they work as an R programmer on the microservices team. They have also worked at Spring Health, DataCamp, HERE Technologies, and have done a fair amount of R and Shiny consulting on the side. Kaelen was at various times a film theorist, preschool teacher, test prep tutor, videographer, and nanny before getting a MS in biostatistics from LSU Health Sciences Center in 2016 and starting to work as a statistician and data scientist. They have a cat named Scully and enjoy talking about podcats, aliens, data, and would love to see a photo of your pet if you're sharing.\n\nAbstract of her workshop:\nThis workshop is a continuity of the workshop Shiny Training – Level 1 : https://lnkd.in/diV3Cgs\n\nIn order to attend the event, please fill out this form: https://lnkd.in/dj495dh\n\nWe look forward to welcoming you!",
+    "status": "PAST",
+    "dateTime": "2021-04-04T17:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tunis/events/277198383/",
+    "featuredEventPhoto": {
+      "id": "495381981",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/5/d/d/highres_495381981.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/5/d/d/600_495381981.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/5/d/d/thumb_495381981.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 46,
+      "waitlistCount": 0,
+      "totalCount": 46
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tunis",
+      "urlname": "rladies-tunis"
+    }
+  },
+  {
+    "id": "276972338",
+    "title": "R4Bioinfo workshop: Epidemiology for Bioinformaticians",
+    "description": "We are delighted to get back to the R4Bioinfo series that we've launched in September 2020. We will be organizing a new workshop about Epidemiology for Bioinformaticians.\n\nDate/Time: Friday, March 26, 2021 from 5:30 PM to 7:45 PM (GMT+1)\nPlace: Zoom https://zoom.us/download\n\n▶️ Invited trainer: Chloe Mirzayi\n▶️ About Chloe Mirzayi:\nChloe Mirzayi, MPH is a doctoral candidate in Epidemiology at the City University of New York (CUNY) Graduate School of Public Health and Health Policy and Data Scientist at the CUNY Institute for Implementation Science in Population Health (ISPH). She has experience designing, implementing, and maintaining data collection, management, and curation tools on a variety of projects ranging from large national cohort studies to RCTs in topics related to COVID-19, microbiome, HIV, substance use, and mental health. Her own research interests are focused on the role of the microbiome on human health, causal inference in microbiome research, and improving the epidemiological rigor of health and bioinformatics research.\nChloe's dissertation research will focus on the impact of antibiotics on the human gut microbiome. Her mentor and dissertation committee chair is CUNY ISPH Investigator Dr. Levi Waldron.\n\n➡️ About the workshop:\nConcepts of causal inference in epidemiology have important ramifications for studies across bioinformatics and other fields of health research. In this workshop, Chloe Mirzayi will introduce basic concepts of epidemiology, study design, and causal inference for bioinformaticians. Emphasis is placed on addressing bias and confounding as common threats to assessing a causal pathway in a variety of study design types and when using common forms of analyses such as GWAS and survival analysis. Workshop participants will have the opportunity to create their own structural causal models (DAGs) and use this model to determine how to assess an estimated causal effect. Examples using DESeq2, edgeR, and limma will be used to show how multivariable models can be fitted depending on the hypothesized causal relationship.\n\nIn order to attend the event, please fill out this form 👉 https://tinyurl.com/bpdshsj4\n\nWe will send you the Zoom link and the enter passcode a few hours before the training session. Please check out your email later.\n\nDon't forget to add the meetup to your calendar so that you get a reminder about it.\n\nWe look forward to welcoming you!",
+    "status": "PAST",
+    "dateTime": "2021-03-26T17:30:00+01:00",
+    "duration": "PT2H15M",
+    "eventUrl": "https://www.meetup.com/rladies-tunis/events/276972338/",
+    "featuredEventPhoto": {
+      "id": "495214895",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/8/4/f/highres_495214895.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/8/4/f/600_495214895.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/8/4/f/thumb_495214895.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 42,
+      "waitlistCount": 0,
+      "totalCount": 42
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tunis",
+      "urlname": "rladies-tunis"
+    }
+  },
+  {
+    "id": "276850050",
+    "title": "Networks and Graphs in R for Biology",
+    "description": "We, as R-Ladies Nairobi, are excited to collaborate with R-Ladies Abuja, R-Ladies Algiers, R-Ladies Jozi and R-Ladies Tunis, on our first event in 2021.\nAs R-Ladies Africa, we cordially invite you to a tutorial on \"Networks and Graphs in R for Biology\" scheduled on Saturday, 13th March, 09:00 a.m. - 11:00 a.m. UTC.\n\nTrainer: Dr. Susan Holmes, Professor of Statistics at Stanford University.\n\nWe look forward to e-meeting you!\n\nPlease, register here for the event: https://docs.google.com/forms/d/e/1FAIpQLSePrnf2If6gd0tX1dC6KivzMvMq1NvzwM2l-dSG-hYX8lkz6Q/viewform?usp=pp_url\nAfter registering, you will receive a confirmation email with the Zoom and YouTube links. Plus, additional event details.\n\nThe zoom channel will be available to only the first 100 participants to join. The rest of the participants follow us on the R-Ladies Global YouTube channel since we will be streaming.\n\nIf you have any inquiries or comments, contact us on;\n\nEmail address: nairobi@rladies.org\n\nLinkedIn: https://www.linkedin.com/in/r-ladies-nairobi-2572841b3/\n\nMeetup: https://www.meetup.com/rladies-nairobi/\n\nTwitter: https://twitter.com/RLadiesNairobi",
+    "status": "PAST",
+    "dateTime": "2021-03-13T10:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tunis/events/276850050/",
+    "featuredEventPhoto": {
+      "id": "495114728",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/5/c/8/highres_495114728.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/5/c/8/600_495114728.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/5/c/8/thumb_495114728.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 40,
+      "waitlistCount": 0,
+      "totalCount": 40
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tunis",
+      "urlname": "rladies-tunis"
+    }
+  },
+  {
+    "id": "276640797",
+    "title": "Connecting Bioconductor to other bioinformatics tools using Rcwl",
+    "description": "We are delighted to get back to the R4Bioinfo series that we've launched in September 2020. We will be organizing a new workshop about connecting Bioconductor to other bioinformatics tools using Rcwl: Application in sc-RNAseqdata.\n\nDate/Time: Saturday, March 5, 2021 from 5:30 PM to 7:45 PM (GMT+1)\nPlace: Zoom https://zoom.us/download\n\n▶️ Invited trainer: Dr. Qian Liu\n▶️ About Dr. Qian Liu:\nDr. Qian Liu joined the Department of Biostatistics & Bioinformatics faculty at Roswell Park Comprehensive Cancer Center as an Assistant Professor of Oncology in October 2019. Prior to that, she was a post-doc affiliate supervised by Dr. Martin Morgan, in the Bioconductor Core Team. She has earned her PhD in Biostatistics, Master in Biostistics, and Biochemistry & Molecular Biology, and BA in BioEngineering. Dr. Liu is currently a CTSI scholar funded by the Buffalo Translational Consortium (BTC) Scholar Program.\n\nThe workshop (https://liubuntu.github.io/Bioc2020RCWL/) will use real scRNA-seq data to demonstrate the usage of Rcwl and RcwlPipelines in doing the pre-processing and touch some downstream statistical analysis of scRNA-seq data.\n\nIn order to attend the event, please fill out this form 👉 https://tinyurl.com/y8ymbk3j\n\nWe will send you the Zoom link and the enter passcode a few hours before the training session. Please check out your email later.\n\nDon't forget to add the meetup to your calendar so that you get a reminder about it.\n\nWe look forward to welcoming you!\n\nIf you have any questions, please don't hesitate to contact us ⬇️\n\n▪️ Email : tunis@rladies.org\n▪️ LinkedIn : https://tinyurl.com/y8hlt5np\n▪️ Meetup : https://www.meetup.com/rladies-tunis/\n▪️ Twitter : https://twitter.com/RLadiesTunis\n▪️ Instagram : https://www.instagram.com/rladiestunis/\n▪️ YouTube_Channel : https://tinyurl.com/ycm48c6w\n▪️ Github : https://github.com/rladiestunis\n▪️ Facebook : https://www.facebook.com/RLadiesTunis/",
+    "status": "PAST",
+    "dateTime": "2021-03-05T17:30:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tunis/events/276640797/",
+    "featuredEventPhoto": {
+      "id": "494948937",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/2/e/9/highres_494948937.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/2/e/9/600_494948937.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/2/e/9/thumb_494948937.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 23,
+      "waitlistCount": 0,
+      "totalCount": 23
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tunis",
+      "urlname": "rladies-tunis"
+    }
+  },
+  {
+    "id": "276421511",
+    "title": "Integrating gene expression and DNA-binding data using R/Bioconductor",
+    "description": "We are delighted to get back to the R4Bioinfo series that we've launched in September 2020. We will be organizing a new workshop which will serve as an overview of the integrating gene expression and DNA-binding data using R/Bioconductor.\n\nDate/Time : Saturday, February 27, 2021 from 2 PM to 4:15 PM (GMT+1)\nPlace : Zoom https://zoom.us/download\n\n▶️ Invited trainer : Dr. Mahmoud Shaaban\n▶️ About Dr. Mahmoud Shaaban :\nDr. Mahmoud Shaaban graduated from medical school, Cairo University, Egypt, in 2015. He received his master's and PhD from Gyeongsang National University, Korea, in 2021, where he studied the role of autophagy in development and disease. He used R/Bioconductor to analyze gene expression and transcription data from mice models. He wrote open-source R packages to distribute the data, methods, and code of my research\n\nDescription of the workshop :\nResearchers use ChIP binding data to identify potential transcription factor binding sites. They use gene expression data from sequencing or microarrays to quantify the effect of the factor over-expression or knockdown on its targets. The integration of the binding and expression data therefore can be used to improve the understanding of a transcription factor function. In this workshop, I present a complete workflow for integrating the gene expression (microarray/RNA-seq) and DNA-binding data (ChIP-seq) to predict the combined function of two transcription factors using R/Bioconductor. The example we will be using in the workshop is from real datasets of two functionally and evolutionary related transcription factors YY1 and YY2 in HeLa cells. We will try to identify the factor-specific and the shared targets of the factors in this particular cell line. Then we will use a technique find out the aggregate functions of the factors on their individual (inducer or repressor) and common targets (cooperative or competitive).\n\nMore details about the workshop are provided through this link https://mahshaaban.github.io/IntegratingDataBioc/\n\nIn order to attend the event, please fill out this form 👉 https://tinyurl.com/y7kzasq7\n\nWe will send you the Zoom link and the enter passcode a few hours before the training session. Please check out your email later.\n\nDon't forget to add the workshop to your calendar so that you can get a reminder about it.\n\nWe look forward to welcoming you!\n\nIf you have any questions, please don't hesitate to contact us ⬇️\n\n▪️ Email : tunis@rladies.org\n▪️ LinkedIn : https://tinyurl.com/y8hlt5np\n▪️ Meetup : https://www.meetup.com/rladies-tunis/\n▪️ Twitter : https://twitter.com/RLadiesTunis\n▪️ Instagram : https://www.instagram.com/rladiestunis/\n▪️ YouTube_Channel : https://tinyurl.com/ycm48c6w\n▪️ Github : https://github.com/rladiestunis\n▪️ Facebook : https://www.facebook.com/RLadiesTunis/",
+    "status": "PAST",
+    "dateTime": "2021-02-27T14:00:00+01:00",
+    "duration": "PT2H15M",
+    "eventUrl": "https://www.meetup.com/rladies-tunis/events/276421511/",
+    "featuredEventPhoto": {
+      "id": "494792374",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/e/7/6/highres_494792374.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/e/7/6/600_494792374.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/e/7/6/thumb_494792374.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 45,
+      "waitlistCount": 0,
+      "totalCount": 45
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tunis",
+      "urlname": "rladies-tunis"
+    }
+  },
+  {
+    "id": "276410048",
+    "title": "Regression models in R using data from the peopleanalytics package",
+    "description": "We are pleased to invite you to our next meetup : Regression models in R using data from the peopleanalytics package. We will be honored to be hosting Dr. Keith McNulty.\n\nDate/Time : Friday, February 26, 2021 from 7 PM to 9 PM (GMT+1)\nPlace : Zoom https://zoom.us/download\n\n▶️ Invited speaker : Dr. Keith McNulty\n▶️ About Dr. Keith McNulty (https://drkeithmcnulty.com/) :\n\nDr. Keith McNulty is an experienced mathematician, a human capital analytics leader, an Industrial-Organizational Psychologist, a Psychometrician, and a Data Scientist. He’s an evidence-based practitioner with an extensive background in Mathematics, Statistical Programming, Machine Learning and Artificial Intelligence. He’s passionate about open source knowledge.\n\nAbstract of his workshop :\nRegression analysis is a very widely used statistical tool to establish a relationship model between two variables.\nOne of these variables is called a predictor variable whose value is gathered through experiments. The other variable is called the response variable whose value is derived from the predictor variable.\nIn this workshop, our speaker Dr. Keith McNulty will use data from his new R package called peopleanalytics (https://cran.r-project.org/web/packages/peopleanalyticsdata/index.html). Besides, regression models will be applied on datasets from peopleanalytics package.\n\nIn order to attend the event, please fill out this form 👉 https://tinyurl.com/yytwcob7\nWe will send you the Zoom link and the enter passcode a few hours before the training session. Please check out your email later.\n\nDon't forget to add the meetup to your calendar so that you can get a reminder about it.\n\nWe look forward to welcoming you!\n\nIf you have any questions, please don't hesitate to contact us ⬇️\n\n▪️ Email : tunis@rladies.org\n▪️ LinkedIn : https://tinyurl.com/y8hlt5np\n▪️ Meetup : https://www.meetup.com/rladies-tunis/\n▪️ Twitter : https://twitter.com/RLadiesTunis\n▪️ Instagram : https://www.instagram.com/rladiestunis/\n▪️ YouTube_Channel : https://tinyurl.com/ycm48c6w\n▪️ Github : https://github.com/rladiestunis\n▪️ Facebook : https://www.facebook.com/RLadiesTunis/",
+    "status": "PAST",
+    "dateTime": "2021-02-26T19:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tunis/events/276410048/",
+    "featuredEventPhoto": {
+      "id": "494785853",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/4/f/d/highres_494785853.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/4/f/d/600_494785853.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/4/f/d/thumb_494785853.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 97,
+      "waitlistCount": 0,
+      "totalCount": 97
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tunis",
+      "urlname": "rladies-tunis"
+    }
+  },
+  {
+    "id": "276303254",
+    "title": "Using R and a Raspberry Pi to automate social media data collection",
+    "description": "We are pleased to invite you to our next meetup : Using R and a Raspberry Pi to automate social media data collection.\n\nDate/Time : Saturday, February 20, 2021 from 6 PM to 7 PM (GMT+1)\nPlace : Zoom https://zoom.us/download\n\n▶️ Invited speaker : Friedrike Preu\n▶️ About Friedrike Preu :\nFrie is a data4gooder, data scientist and IT person. Right now, she is working full-time for Data4Good network CorrelAid for which she has been volunteering since its beginnings in 2015. There, she is responsible for the coordination of the skilled-volunteering data science projects which are at the core of CorrelAid’s work. In addition, she organizes educational events and workshops.\nFrie has a background in social science but transitioned to data science after her Bachelor’s degree and worked in IT consulting for two years. She loves to juggle and visualize data in R and likes to automate all kinds of things using her other programming skills.\n\nAbstract :\nOften when collecting data, we want to do so on a recurring basis. But how? Especially when starting out with (R) programming, this can be a complex challenge as sentences like \"just set up a EC2 instance\" are thrown at you without much context. In my talk, I will take you along my personal learning journey over the course of the past 3.5 years and three solution approaches: from a hacky R script on a Raspberry Pi (a mini computer) to a Python-solution in \"the cloud\" back to an improved R/Raspberry Pi version. In the process, I'll cycle back to fundamental tools/concepts like CRON that are central to automation.\n\nIn order to attend the event, please fill out this form 👉 https://tinyurl.com/y4rbgau2\nWe will send you the Zoom link and the enter passcode a few hours before the meetup. Please check out your email later.\n\nDon't forget to add the meetup to your calendar so that you get a reminder about it.\n\nWe look forward to welcoming you!\n\nIf you have any questions, please don't hesitate to contact us ⬇️\n\n▪️ Email : tunis@rladies.org\n▪️ LinkedIn : https://tinyurl.com/y8hlt5np\n▪️ Meetup : https://www.meetup.com/rladies-tunis/\n▪️ Twitter : https://twitter.com/RLadiesTunis\n▪️ Instagram : https://www.instagram.com/rladiestunis/\n▪️ YouTube_Channel : https://tinyurl.com/ycm48c6w\n▪️ Github : https://github.com/rladiestunis\n▪️ Facebook : https://www.facebook.com/RLadiesTunis/",
+    "status": "PAST",
+    "dateTime": "2021-02-20T18:00:00+01:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-tunis/events/276303254/",
+    "featuredEventPhoto": {
+      "id": "494710445",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/8/c/d/highres_494710445.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/8/c/d/600_494710445.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/8/c/d/thumb_494710445.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 63,
+      "waitlistCount": 0,
+      "totalCount": 63
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tunis",
+      "urlname": "rladies-tunis"
+    }
+  },
+  {
+    "id": "276158848",
+    "title": "Explore tidyverse with the funny MonsteRs",
+    "description": "We are very excited to come together with you to host another online meetup. We are collaborating with R-Ladies Saudi Arabia (Dammam) https://www.meetup.com/rladies-dammam/ to host an exceptional online session that introduces codes and R functions using cute, fuzzy creatures by the amazing Allison Horst.\n\nThe workshop \" Explore tidyverse with the funny MonsteRs\" by Allison Horst will help you to picture the functions in your code as cute, fuzzy monsters, and your data as colorful gems. This workshop will make it easier than ever to understand complicated functions in R and create awesome plots.\n\nOur speaker, Allison Horst is an Assistant Teaching Professor at the Bren School of Environmental Science and Management, UC Santa Barbara, where she teaches environmental data science, statistics, math, and presentation skills courses. She is also the co-founder of R-Ladies Santa Barbara, founder, and organizer of the UCSB TidyTuesday coding club, and was RStudio's first Artist-in-Residence from 2019 - 2020. Her academic background is in engineering (BS Chemical Engineering, MS Mechanical Engineering) and environmental science (PhD Environmental Science and Management). When she isn't coding or drawing, she enjoys hiking and fly-fishing with her partner Greg and their dog Teddy.\n\nYou can find out more about Allison Horst here: https://allisonhorst.github.io/\nhttps://github.com/allisonhorst/stats-illustrations\n\nDate/Time : Saturday, Feb 13th, 2021 4PM - 6PM (Tunisia time GMT+1)\nPlace: Zoom https://zoom.us/download\n\nIn order to attend the event, please fill out this form https://tinyurl.com/y52p23s3\n\nWe will send you the Zoom link and the enter passcode a few hours before the meetup. Please check out your email later.\n\nThe same meetup is advertised in both R-Ladies Saudi Arabia (Dammam) and R-ladies Tunis meetup pages (https://www.meetup.com/rladies-dammam/). Please make sure to register only to either of them.\n\nDon't forget to add the event to your calendar so that you get a reminder about it.\n\nWe look forward to welcoming you!",
+    "status": "PAST",
+    "dateTime": "2021-02-13T16:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tunis/events/276158848/",
+    "featuredEventPhoto": {
+      "id": "494607964",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/d/3/c/highres_494607964.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/d/3/c/600_494607964.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/d/3/c/thumb_494607964.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 73,
+      "waitlistCount": 0,
+      "totalCount": 73
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tunis",
+      "urlname": "rladies-tunis"
+    }
+  },
+  {
+    "id": "276066018",
+    "title": "RNA-seq analysis is easy as 1-2-3 with limma, Glimma and edgeR",
+    "description": "We are delighted to get back to the R4Bioinfo series that we've launched in September 2020. We will be organizing a workshop which will cover the RNA-seq analysis.\n\nThe ability to easily and efficiently analyse RNA-sequencing data is a key strength of the Bioconductor project. Starting with counts summarised at the gene-level, a typical analysis involves pre-processing, exploratory data analysis, differential expression testing and pathway analysis with the results obtained informing future experiments and validation studies. In this workflow article, we analyse RNA-sequencing data from the mouse mammary gland, demonstrating use of the popular edgeR package to import, organise, filter and normalise the data, followed by the limma package with its voom method, linear modelling and empirical Bayes moderation to assess differential expression and perform gene set testing. This pipeline is further enhanced by the Glimma package which enables interactive exploration of the results so that individual samples and genes can be examined by the user. The complete analysis offered by these three packages highlights the ease with which researchers can turn the raw counts from an RNA-sequencing experiment into biological insights using Bioconductor (https://f1000research.com/articles/5-1408).\n\nDate/Time : Februrary 6th, 2021 from 10:00 AM to 12:15 PM GMT+1\nPlace : Zoom https://zoom.us/download\n\n▶️ Trainer : Xueyi Dong\n▶️ About Xueyi Dong (https://github.com/XueyiDong) :\nXueyi Dong is a PhD candidate at Walter and Eliza Hall Institute of Medical Research, Melbourne, Australia. She loves to share her experiences with RNA-seq data analysis. Xueyi has translated the analysis workflow package RNAseq123 (https://bioconductor.org/packages/release/workflows/html/RNAseq123.html) into Mandarin, and she has taught the workshop on different events using both English and Mandarin.\n\nIn order to attend the event, please fill out this form 👉\nhttps://tinyurl.com/y6s3xt9p\n\nWe will send you the Zoom link and the enter passcode a few hours before the meetup. Please check out your email later.\n\nWe look forward to e-meeting you!\n\nIf you have any questions, please don't hesitate to contact us ⬇️\n\n▪️ Email : tunis@rladies.org\n▪️ LinkedIn : https://tinyurl.com/y8hlt5np\n▪️ Meetup : https://www.meetup.com/rladies-tunis/\n▪️ Twitter : https://twitter.com/RLadiesTunis\n▪️ Instagram : https://www.instagram.com/rladiestunis/\n▪️ YouTube_Channel : https://tinyurl.com/ycm48c6w\n▪️ Github : https://github.com/rladiestunis\n▪️ Facebook : https://www.facebook.com/RLadiesTunis/",
+    "status": "PAST",
+    "dateTime": "2021-02-06T10:00:00+01:00",
+    "duration": "PT2H15M",
+    "eventUrl": "https://www.meetup.com/rladies-tunis/events/276066018/",
+    "featuredEventPhoto": {
+      "id": "494612655",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/f/8/f/highres_494612655.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/f/8/f/600_494612655.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/f/8/f/thumb_494612655.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 52,
+      "waitlistCount": 0,
+      "totalCount": 52
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tunis",
+      "urlname": "rladies-tunis"
+    }
+  },
+  {
+    "id": "275784778",
+    "title": "Getting the most out of text - Using supervised & unsupervised approaches in NLP",
+    "description": "We're starting the year with an exceptional online session, and collaborating with the Facebook Developer Circles, a network of developers in Tunis and its surroundings who are interested in building on the Facebook platform to interact and collaborate with other developers who share similar interests https://www.facebook.com/groups/DevCTunis\n\nWe are excited to welcome you during a workshop which aims to get the most out of text -- Using supervised and unsupervised approaches in NLP\n\nText data provides an oasis of information for both researchers and non-researchers alike to explore. Natural Language Processing (NLP) helps to make sense of this data type.\n\nThe talk will give you a smooth introduction to the quanteda #R package (https://quanteda.io/).\n\nOur speaker, Cosima will also showcase some visualizations of the results as well as supervised and unsupervised approaches in NLP.\n\nDate/Time : Saturday, January 30, 2021 5PM - 7PM (Tunisia time GMT+1)\nPlace : Facebook Live and Zoom https://zoom.us/download\n\nWe will be live on Facebook https://www.facebook.com/groups/DevCTunis Otherwise, you might fill out this Google form 👉 https://tinyurl.com/y3a9ac3l in order to receive the Zoom link and the passcode and so that you are able to have a live discussion with our guest speaker.\n\nWe will send you the Zoom link & the passcode via email a few hours before the meetup. Please check out your email later.\n\nSpeaker :\n\nCosima Meyer (cosimameyer.rbind.io) is a computational conflict researcher, PhD candidate at the University of Mannheim, Germany, and a data lover.\nWhen she is not blogging about data science-related content on Methods Bites (https://bit.ly/methods-bites), Cosima maintains the R package overviewR (https://bit.ly/overviewR).\n\nWe look forward to welcoming you !",
+    "status": "PAST",
+    "dateTime": "2021-01-30T17:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tunis/events/275784778/",
+    "featuredEventPhoto": {
+      "id": "494346482",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/9/5/2/highres_494346482.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/9/5/2/600_494346482.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/9/5/2/thumb_494346482.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 67,
+      "waitlistCount": 0,
+      "totalCount": 67
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tunis",
+      "urlname": "rladies-tunis"
+    }
+  },
+  {
+    "id": "275770031",
+    "title": "Introduction to Metagenomics using Tidyverse",
+    "description": "We are delighted to get back to the R4Bioinfo series that we've launched in September 2020. We will be organizing a workshop which will serve as an introduction to metagenomics using tidyverse.\n\nDate/Time : Friday January 22th, 2021 from 5:30 PM to 8:00 PM GMT+1\nPlace : Zoom https://zoom.us/download\n\n▶️ Trainer : Daniel Lundin\n▶️ About Daniel Lundin :\nDaniel Lundin is a researcher in computational biology at Stockholm University, Stockholm and Linnaeus University, Kalmar, Sweden. He has an interest in evolution, metabolism and ecology, and works with protein evolution and microbial ecology. He is an advocate of the Tidyverse way of R programming.\n\nIn order to attend the event, please fill out this form 👉https://tinyurl.com/y4mkcpju\n\nWe will send you the Zoom link and the enter passcode a few hours before the meetup. Please check out your email later.\n\nYou might review the previous workshops that are part of the R4Bioinfo series on our YouTube channel via this link https://www.youtube.com/watch?v=VDW1iLSduDw&list=PL3PpX4fNIhsP4QAHCy7frJ3iBSfyTlcBI\n\nWe look forward to e-meeting you!\n\nIf you have any questions, please don't hesitate to contact us ⬇️\n\n▪️ Email : tunis@rladies.org\n▪️ LinkedIn : https://tinyurl.com/y8hlt5np\n▪️ Meetup : https://www.meetup.com/rladies-tunis/\n▪️ Twitter : https://twitter.com/RLadiesTunis\n▪️ Instagram : https://www.instagram.com/rladiestunis/\n▪️ YouTube_Channel : https://tinyurl.com/ycm48c6w\n▪️ Github : https://github.com/rladiestunis\n▪️ Facebook : https://www.facebook.com/RLadiesTunis/",
+    "status": "PAST",
+    "dateTime": "2021-01-22T17:30:00+01:00",
+    "duration": "PT2H30M",
+    "eventUrl": "https://www.meetup.com/rladies-tunis/events/275770031/",
+    "featuredEventPhoto": {
+      "id": "494365646",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/4/2/e/highres_494365646.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/4/2/e/600_494365646.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/4/2/e/thumb_494365646.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 45,
+      "waitlistCount": 0,
+      "totalCount": 45
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tunis",
+      "urlname": "rladies-tunis"
+    }
+  },
+  {
+    "id": "275674664",
+    "title": "Web Scraping in R",
+    "description": "R-Ladies Tunis and ESSAI Junior Entreprise are partnering up and are organizing a training session about Web Scraping in R.\n\nWe will be hosting Riva Quiroga and Dr. Mohamed El Fodil Ihaddaden.\n\nRiva Quiroga will show us an example of creating a function to scrape many pages of a website, and another about scraping tables using the R package rvest. She will also showcase how to use RegEx to clean the data. There will be a live coding under the programming language R.\n\nDr. Mohamed El Fodil Ihaddaden will introduce his R package \"ralger\" to us. This package aims to make it easier to scrape a website https://github.com/feddelegrand7/ralger\n\n▶️ About Riva Quiroga https://rivaquiroga.cl/\nRiva Quiroga is a linguist currently pursuing a PhD in that area, and an editor at Programming Historian, a Digital Humanities open access journal that publishes novice-friendly, peer-reviewed tutorials that help humanists learn a wide range of digital tools, techniques, and workflows to facilitate research and teaching.\n\n▶️ About Dr. Mohamed El Fodil Ihaddaden https://ihaddadenfodil.com/\nDr. Mohamed has a PhD in Economics and Msc in Statistics and Applied Economics. He's an R developer, and RStudio Certified Instructor. Throughout his PhD thesis, he has been working mainly on the application of a non-parametric technique called Data Envelopment Analysis in order to improve Algerian public banks’ performance. Furthermore, he is also interested in implementing machine learning algorithms to solve complex real world issues.\n\nDate/Time : Saturday, January 16, 2021 3PM -> 5:30PM (Tunisia time GMT+1)\nPlace : Zoom https://zoom.us/download\n\nIn order to attend the event, please fill out this form 👉 https://tinyurl.com/yylvxebm\nWe will send you the Zoom link and the enter passcode a few hours before the training session. Please check out your email later.\n\nDon't forget to add the meetup to your calendar so that you get a reminder about it.\n\nWe look forward to welcoming you!\n\nIf you have any questions, please don't hesitate to contact us ⬇️\n\nR-Ladies Tunis team :\n\n▪️ Email : tunis@rladies.org\n▪️ LinkedIn : https://tinyurl.com/y8hlt5np\n▪️ Meetup : https://www.meetup.com/rladies-tunis/\n▪️ Twitter : https://twitter.com/RLadiesTunis\n▪️ Instagram : https://www.instagram.com/rladiestunis/\n▪️ YouTube_Channel : https://tinyurl.com/ycm48c6w\n▪️ Github : https://github.com/rladiestunis\n▪️ Facebook : https://www.facebook.com/RLadiesTunis/\n\nESSAI (Tunisian Higher School of Statistics and Data Analysis) Junior Entreprise team :\n\n▪️ Email : devcoessaijuniorentreprise@gmail.com\n▪️ Instagram : https://www.instagram.com/essai.junior.entreprise/\n▪️ Facebook : https://www.facebook.com/Essai.Junior.Entreprise",
+    "status": "PAST",
+    "dateTime": "2021-01-16T15:00:00+01:00",
+    "duration": "PT2H30M",
+    "eventUrl": "https://www.meetup.com/rladies-tunis/events/275674664/",
+    "featuredEventPhoto": {
+      "id": "494285901",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/7/0/d/highres_494285901.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/7/0/d/600_494285901.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/7/0/d/thumb_494285901.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 103,
+      "waitlistCount": 0,
+      "totalCount": 103
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tunis",
+      "urlname": "rladies-tunis"
+    }
+  },
+  {
+    "id": "275361735",
+    "title": "Tidying Up Messy Data",
+    "description": "We are pleased to invite you to our next meetup : Tidying Up Messy Data.\n\nData cleaning has always been a challenging task for every data scientist. Tidy Data is a way of structuring datasets to facilitate analysis. During the workship, you will learn about how to organize messy datasets in an efficient manner. The workshop will cover a live coding.\n\nWe will be hosting Dr. Bruno Grande.\n\n▶️ About Dr. Bruno Grande https://www.linkedin.com/in/brunograndephd/ Dr. Bruno Grande (he/him) has been training others in the ways of modern R programming since 2015. With a PhD in bioinformatics, he learned (the hard way) how to leverage the tidyverse toolbox to efficiently transform, analyze, and visualize data ranging from messy to tidy. As a Carpentries- and RStudio-certified trainer, he wishes to empower the next generation of researchers and professionals with the same data science skills that continue to bolster his career. He’s currently promoting and implementing best practices in open science as a Bioinformatics Engineer at Sage Bionetworks in Seattle, WA.\n\nDate/Time : Friday, January 08, 2021 5:30PM -> 8PM (Tunisia time GMT+1) Place : Zoom https://zoom.us/download\n\nIn order to attend the event, please fill out this form 👉https://tinyurl.com/ycfbhmxb We will send you the Zoom link and the enter passcode a few hours before the training session. Please check out your email later. Don't forget to add the meetup to your calendar so that you get a reminder about it.\n\nWe look forward to welcoming you!\n\nIf you have any questions, please don't hesitate to contact us ⬇️\n\n▪️ Email : tunis@rladies.org\n▪️ LinkedIn : https://tinyurl.com/y8hlt5np\n▪️ Meetup : https://www.meetup.com/rladies-tunis/\n▪️ Twitter : https://twitter.com/RLadiesTunis\n▪️ Instagram : https://www.instagram.com/rladiestunis/\n▪️ YouTube_Channel : https://tinyurl.com/ycm48c6w\n▪️ Github : https://github.com/rladiestunis\n▪️ Facebook : https://www.facebook.com/RLadiesTunis/\n▪️ Messenger : m.me/RLadiesTunis",
+    "status": "PAST",
+    "dateTime": "2021-01-08T17:30:00+01:00",
+    "duration": "PT2H30M",
+    "eventUrl": "https://www.meetup.com/rladies-tunis/events/275361735/",
+    "featuredEventPhoto": {
+      "id": "494075703",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/b/7/7/highres_494075703.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/b/7/7/600_494075703.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/b/7/7/thumb_494075703.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 52,
+      "waitlistCount": 0,
+      "totalCount": 52
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tunis",
+      "urlname": "rladies-tunis"
+    }
+  },
+  {
+    "id": "288674556",
+    "title": "Automate the web with RSelenium",
+    "description": "We are delighted to invite you to our next meetup. We will be organizing a new meetup about Automating the web using RSelenium.\nDate/Time: Wednesday, October, 26th 2022 from 7 PM to 8 PM (CET)\nPlace: Zoom\n▶️ Invited trainer: Samer Hijjazi\n▶️ About Samer Hijjazi:\nSamer is a Data Analyst working in the field of higher education. He is currently working in both Human Resources and Institutional Research. He loves working in R to analyze data and automate day-to-day tasks. In addition to his work, Samer has his own [YouTube channel](https://www.youtube.com/c/SamerHijjazi) where he creates analytics content primarily related to R.\n▶️ About the talk:\nEver wondered how you can automate the web to interact with websites? In this workshop, Samer will introduce us to RSelenium, which is an R package that allows you to automate the web with a few lines of code.\n\nMake sure to join us!\n\nWe will send you the zoom link a few hours before the training session. Please check out your email later.\n\nWe look forward to welcoming you!",
+    "status": "PAST",
+    "dateTime": "2022-10-26T19:00:00+01:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-tunis/events/288674556/",
+    "featuredEventPhoto": {
+      "id": "507946777",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/6/b/9/highres_507946777.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/6/b/9/600_507946777.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/6/b/9/thumb_507946777.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 32,
+      "waitlistCount": 0,
+      "totalCount": 32
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tunis",
+      "urlname": "rladies-tunis"
+    }
+  },
+  {
+    "id": "284700907",
+    "title": "Creating Your Own R Package",
+    "description": "## **Details**\n\nWe are delighted to invite you to our next meetup. We will be organizing a new meetup about Creating Your Own R Package by Wolf Riepl .\nDate/Time: Wednesday, March, 23rd 2022 from 7 PM to 8 PM (GMT+1)\nPlace: Zoom\n▶️ Invited trainer: Wolf Riepl\n▶️ About Wolf Riepl :\nWolf Riepl is a Radio and TV technician and a Sociologist by training. At university he worked with SPSS and Stata. His first contact to R came in 2007, when he worked for a small company that thought about avoiding the SPSS licence fees. After a 2-day-workshop he vowed to never open the R software again. It took seven years to start the next attempt. Since late 2014, Wolf has been working his way into R and never looked back. He now focuses on workshops and trainings, mostly online since 2020 after many in-person-workshops since 2017.\nhttps://www.linkedin.com/in/wolfriepl/\n▶️ About the talk:\nWhat may sound like a very advanced topic is actually much easier than you may think! And it feels really good to have created a package.\nWhat we'll do:\n\\- Create our first package in RStudio in 2 minutes\n\\- Create a package with our own function\\, and document the function to get a regular help page for it\nOutlook and discussion:\n\\- Adding data to a package \\(or creating a pure data package\\) and documenting it\n\\- Adding vignettes to a package: a more general form of documentation compared to the more specific function documentation \\- Setting up automated testing using testthat\nMake sure to join us!\nIn order to attend the event, please fill out this form 👉\nhttps://tinyurl.com/5ftbs8xb\nWe will send you the zoom link a few hours before the training session. Please check out your email later.\nWe look forward to welcoming you!",
+    "status": "PAST",
+    "dateTime": "2022-03-23T19:00:00+01:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-tunis/events/284700907/",
+    "featuredEventPhoto": {
+      "id": "502772701",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/f/b/d/highres_502772701.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/f/b/d/600_502772701.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/f/b/d/thumb_502772701.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 35,
+      "waitlistCount": 0,
+      "totalCount": 35
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tunis",
+      "urlname": "rladies-tunis"
+    }
+  },
+  {
+    "id": "284575031",
+    "title": "Speed up your spreadsheet reports with R",
+    "description": "We are delighted to invite you to our next meetup. We will be organizing a new meetup about Speed up your spreadsheet reports with R .\nDate/Time: Wednesday, March, 16th 2022 from 6 PM to 7 PM (GMT+1)\nPlace: Zoom\n▶️ Invited trainer: Larry Lathrop\n▶️ About Larry Lathrop:\nLarry Lathrop is just a dad of 5 who loves data almost as much as he loves his family and their slobbery St Bernard. Larry is the head of analytics for OWLLytics with a passion for data visualizations. Larry enjoys traveling the world and currently lives in Valencia Spain.\n\nLinkedin : https://www.linkedin.com/in/larry-lathrop/\n\n▶️ About the talk:\n\nLove them or hate them, reports can take a long time to create. Instead of spending most of your time creating your reports, just streamline the process. Let's use R to tackle this problem! Don't worry, if your audience lives and swears by a spreadsheet, you can still use R. In this talk, we will demonstrate a simple and easy way you can use R to automate most of your reports. After implementing these simple techniques, you will be able to spend more time changing the world and less time on reports. Or if you prefer (like myself) spend more time savoring your coffee.\n\nMake sure to join us!\nIn order to attend the event, please fill out this form 👉\nhttps://tinyurl.com/3er6mrbt\n\nWe will send you the zoom link a few hours before the training session. Please check out your email later.\nWe look forward to welcoming you!",
+    "status": "PAST",
+    "dateTime": "2022-03-16T18:00:00+01:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-tunis/events/284575031/",
+    "featuredEventPhoto": {
+      "id": "502620532",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/1/4/highres_502620532.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/1/4/600_502620532.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/1/4/thumb_502620532.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 32,
+      "waitlistCount": 0,
+      "totalCount": 32
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tunis",
+      "urlname": "rladies-tunis"
+    }
+  },
+  {
+    "id": "283884144",
+    "title": "When to stop using Excel and start using R",
+    "description": "Details\nWe are delighted to invite you to our next meetup. We will be organizing a new meetup about When to stop using Excel and start using R.\n\nDate/Time: Wednesday, February, 23rd 2022 from 6 PM to 7 PM (GMT+1)\nPlace: Zoom\n\n▶️ Invited trainer: Nathan Stephens\n\n▶️ About Nathan Stephens:\nNathan is a Senior Manager for Developer Relations at NVIDIA. His background is in analytic solutions and consulting.\nHe has experience building data science teams, architecting analytic\ninfrastructure, and delivering innovative data products. He is a longtime advocate foroperationalizing data science using open-source software. He is a longtime user of R.\nLinkedin : https://www.linkedin.com/in/nwstephens/\n\n▶️ About the talk:\nSpreadsheets are incredibly useful, especially when your data are small. But what happens when your data become too large and too complex for Excel? When that happens, your workbook can be difficult to maintain, and the integrity of your data may be compromised. In this\nwebinar, we will demonstrate the benefits of using the R programming language when Excel gets overloaded.\nWhat do we mean by “too large”?\n● Too many rows - 1,048,576\n● Too many columns - 16,384\n● Too many workbooks - 255\nWhat do we mean by \"too complex”?\n● Too many data sources\n● Too many complex functions\n● Too much VBA code and user interactivity\n\nMake sure to join us!\nIn order to attend the event, please fill out this form 👉\nhttps://tinyurl.com/2p9svznw\n\nWe will send you the zoom link a few hours before the training session. Please check out your email later.\n\nWe look forward to welcoming you!",
+    "status": "PAST",
+    "dateTime": "2022-02-23T18:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tunis/events/283884144/",
+    "featuredEventPhoto": {
+      "id": "501936635",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/f/1/b/highres_501936635.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/f/1/b/600_501936635.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/f/1/b/thumb_501936635.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 34,
+      "waitlistCount": 0,
+      "totalCount": 34
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tunis",
+      "urlname": "rladies-tunis"
+    }
+  },
+  {
+    "id": "283379810",
+    "title": "Using R for commercial projects: challenges and opportunities",
+    "description": "Details\nWe are delighted to invite you to our next meetup. We will be organizing a new meetup about using R for commercial projects : the challenges and the opportunities.\n\nDate/Time: Wednesday, February, 9th 2022 from 6 PM to 7 PM (GMT+1)\nPlace: Zoom\n\n▶️ Invited trainer: Kamil Sijko\n\n▶️ About Kamil Sijko:\nExperienced data analyst currently working with big-data in medical field, but having broad portfolio of experiences: social research (surveys, sampling, qualitative and quantitative approach), educational research (IRT, international surveys, complex sampling).\nWorking mostly with R, but proficient in multiple other technologies and stat-packages (Spark, H2O, SQL, Python, SPSS, Stata, MAXqda and many others).\nLinkedin : https://www.linkedin.com/in/kamilsijko/\n\n▶️ About the talk:\nR is a language created by Statisticians for Statisticians. But can it be utilized beyond academic setting? I will talk about Transition Technologies Science and my personal experiences in this field: problems with licensing, missing pieces, devops and finally superpowers of R in business. Make sure to join us!\nIn order to attend the event, please fill out this form 👉\nhttps://tinyurl.com/zrmbmrwv\n\nWe will send you the zoom link a few hours before the training session. Please check out your email later.\n\nWe look forward to welcoming you!",
+    "status": "PAST",
+    "dateTime": "2022-02-09T18:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tunis/events/283379810/",
+    "featuredEventPhoto": {
+      "id": "501483888",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/f/3/0/highres_501483888.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/f/3/0/600_501483888.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/f/3/0/thumb_501483888.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 35,
+      "waitlistCount": 0,
+      "totalCount": 35
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tunis",
+      "urlname": "rladies-tunis"
+    }
+  },
+  {
+    "id": "283093793",
+    "title": "Time series analysis in R",
+    "description": "We are delighted to invite you to our next meetup. We will be organizing a new meetup about time series in R.\n\nDate/Time: Wednesday, Junuary, 26th 2022 from 6 PM to 7 PM (GMT+1)\nPlace: Zoom\n\n▶️ Invited trainer: Veerle van Leemput\n\n▶️ About Veerle van Leemput :\n\nVeerle van Leemput (https://www.linkedin.com/in/veerlevanleemput/) is an entrepreneur and Data Scientist who gets excited about data and programming. She is Managing Director and Head of Data Science at Analytic Health, a UK-based company that develops intelligent and accessible technology which gives organisations the tools they need to accelerate innovation in healthcare. She is an R developer with a Master’s Degree in Data Science and multiple years of experience in the pharmaceutical market. Besides programming in R and making R Shiny applications, she also develops multiple web applications for healthcare organisations using Vue.js and Node at Analytic Health.\n\n▶️ About the talk:\n\nWhen you think about anything to do with machine learning, many people instantly think of Python. And that’s because there are great packages for Python like scikit-learn that make Python an excellent choice to make models and solve machine learning problems. But did you know that R offers many machine learning packages as well? During this meetup, Veerle will tell more about making demand forecasts specifically. She will go into detail about how they’re using R to do time series analysis and make demand forecasts for medicine supply at Analytic Health. If you want to learn more about the basics of doing a proper time series analysis, the Prophet algorithm developed by Facebook, and other relevant packages and tools to model your time series in R, make sure to join us!\nIn order to attend the event, please fill out this form 👉\nhttps://tinyurl.com/3evp3zdy\n\nWe will send you the zoom link a few hours before the training session. Please check out your email later.\n\nWe look forward to welcoming you!",
+    "status": "PAST",
+    "dateTime": "2022-01-26T18:00:00+01:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-tunis/events/283093793/",
+    "featuredEventPhoto": {
+      "id": "501214170",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/5/7/a/highres_501214170.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/5/7/a/600_501214170.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/5/7/a/thumb_501214170.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 71,
+      "waitlistCount": 0,
+      "totalCount": 71
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tunis",
+      "urlname": "rladies-tunis"
+    }
+  },
+  {
+    "id": "290851472",
+    "title": "R Shiny Applications in Finance, Medicine, Pharma and Education Industry",
+    "description": "We are delighted to invite you to our next meetup. We will be organizing a new meetup about the book R Shiny Applications in Finance, Medicine, Pharma and Education Industry\n\nDate/Time: Friday, January, 13th 2023 from 6 PM to 7 PM (CET)\nPlace: Zoom\n▶️ Invited trainer: Loan Kim Robinson\n\n▶️ About the talk:\nLoan will be presenting her book R Shiny Applications in Finance, Medicine, Pharma and Education Industry\n\nAbout this book :\nR Shiny Application is a structure for making web applications utilizing R code. It is planned fundamentally considering information researchers, and keeping that in mind, you can make pretty confounded Shiny applications with no knowledge about HTML, CSS, or JavaScript. Then again, Shiny doesn’t restrict you to making insignificant or pre-assembled applications: its UI segments can be handily modified or expanded, and its worker utilizes responsive programming to allow you to make any sort of back-end rationale you need. R Shiny is intended to feel mystically simple when you’re beginning, but then the further you get into how it functions, the more you understand it’s worked out of broad structure obstructs that have solid programming standards behind them.\nR Shiny Application is utilized in nearly however many specialties and ventures as R itself is. It’s utilized in scholarly world as a showing device for measurable ideas, an approach to get students camped up for figuring out how to compose code, a sensational mode for flaunting novel factual techniques or models. It’s utilized by huge pharma organizations to speed cooperation among researchers and examiners during drug improvement. It utilizes real-time measurement dashboards that fuse progressed investigation.\n\nWe look forward to welcoming you!",
+    "status": "PAST",
+    "dateTime": "2023-01-13T18:00:00+01:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-tunis/events/290851472/",
+    "featuredEventPhoto": {
+      "id": "509785002",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/1/a/a/highres_509785002.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/1/a/a/600_509785002.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/1/a/a/thumb_509785002.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 27,
+      "waitlistCount": 0,
+      "totalCount": 27
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Tunis",
+      "urlname": "rladies-tunis"
+    }
+  }
+]

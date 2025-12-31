@@ -7,7 +7,6 @@ slug: event-analytics
 categories:
   - reports
   - analytics
-  
 tags:
   - events
   - patterns
@@ -19,6 +18,22 @@ draft: false
 #| label: setup
 #| include: false
 source(here::here("reports/_common.R"))
+
+offset_to_hours <- function(offset) {
+  offset <- as.character(offset)
+  offset[offset == "Z"] <- "+00:00"
+  m <- regexec("^([+-])(\\d{2}):?(\\d{2})$", offset)
+  parts <- regmatches(offset, m)
+  vapply(parts, FUN.VALUE = numeric(1), function(p) {
+    if (length(p) == 0) {
+      return(NA_real_)
+    }
+    sign <- if (p[2] == "-") -1L else 1L
+    h <- as.integer(p[3])
+    mm <- as.integer(p[4])
+    as.numeric((sign * (h * 3600L + mm * 60L)) / 3600)
+  })
+}
 ```
 
 ## Executive Summary
@@ -28,20 +43,26 @@ This report analyzes event characteristics across the R-Ladies network to identi
 ```{r}
 #| label: summary-metrics
 events_analyzed <- events |>
-  filter(!type %in% c("cancelled", "CANCELLED")) |>
+  filter(!status %in% c("cancelled", "CANCELLED")) |>
   mutate(
     event_date = as.Date(date),
-    event_datetime = ymd_hms(start, quiet = TRUE),
-    event_hour = hour(event_datetime),
-    event_dow = wday(event_date, label = TRUE, week_start = 1),
-    event_month = month(event_date, label = TRUE),
-    year = year(event_date),
-    is_virtual = str_detect(tolower(location %||% ""), "online|virtual|zoom|meet|not announced"),
-    duration_hours = if_else(
-      !is.na(start) & !is.na(end),
-      as.numeric(difftime(ymd_hms(end, quiet = TRUE), ymd_hms(start, quiet = TRUE), units = "hours")),
-      NA_real_
-    )
+    event_datetime = datetime,
+    event_hour = hour(datetime) + offset_to_hours(original_tz),
+    event_dow = wday(date, label = TRUE, week_start = 1),
+    event_month = month(date, label = TRUE),
+    event_tod = case_when(
+      event_hour < 8 ~ "Night",
+      event_hour < 12 ~ "Morning",
+      event_hour < 17 ~ "Afternoon",
+      event_hour < 20 ~ "Evening",
+      .default = "Night"
+    ),
+    year = year(date),
+    is_virtual = str_detect(
+      tolower(location %||% ""),
+      "online|virtual|zoom|meet|not announced"
+    ),
+    duration_hours = as.numeric(duration) / 3600
   )
 
 # Recent events (last 12 months)
@@ -71,8 +92,9 @@ dow_counts <- recent_events |>
   count(event_dow) |>
   mutate(percentage = n / sum(n) * 100)
 
-top_dow <- dow_counts |> slice_max(n, n = 1)
-weekend_total <- dow_counts |> 
+top_dow <- dow_counts |>
+  slice_max(n, n = 1)
+weekend_total <- dow_counts |>
   filter(event_dow %in% c("Sat", "Sun")) |>
   summarise(n = sum(n), pct = sum(percentage))
 
@@ -102,22 +124,18 @@ Weekend events represent `r round(weekend_total$pct, 1)`% of all events.
 
 hour_counts <- recent_events |>
   filter(!is.na(event_hour)) |>
-  count(event_hour) |>
-  mutate(
-    time_period = case_when(
-      event_hour < 12 ~ "Morning",
-      event_hour < 17 ~ "Afternoon",
-      event_hour < 20 ~ "Evening",
-      TRUE ~ "Night"
-    )
-  )
+  count(event_hour, event_tod)
 
 peak_hour <- hour_counts |> slice_max(n, n = 1)
-evening_count <- sum(hour_counts$n[hour_counts$event_hour >= 17 & hour_counts$event_hour < 20])
-business_count <- sum(hour_counts$n[hour_counts$event_hour >= 9 & hour_counts$event_hour < 17])
+evening_count <- sum(hour_counts$n[
+  hour_counts$event_hour >= 17 & hour_counts$event_hour < 20
+])
+business_count <- sum(hour_counts$n[
+  hour_counts$event_hour >= 9 & hour_counts$event_hour < 17
+])
 
 ggplot(hour_counts, aes(x = event_hour, y = n)) +
-  geom_col(aes(fill = time_period)) +
+  geom_col(aes(fill = event_tod)) +
   scale_fill_manual(
     values = c(
       "Morning" = rladies_colors$light_purple,
@@ -232,7 +250,13 @@ duration_summary <- duration_data |>
   mutate(
     duration_category = factor(
       duration_category,
-      levels = c("< 1 hour", "1-1.5 hours", "1.5-2.5 hours", "2.5-4 hours", "4+ hours")
+      levels = c(
+        "< 1 hour",
+        "1-1.5 hours",
+        "1.5-2.5 hours",
+        "2.5-4 hours",
+        "4+ hours"
+      )
     )
   )
 
@@ -243,7 +267,7 @@ mean_duration <- mean(duration_data$duration_hours, na.rm = TRUE)
 ggplot(duration_summary, aes(x = duration_category, y = n)) +
   geom_col(fill = rladies_colors$purple) +
   geom_text(
-    aes(label = sprintf("%d\n(%.1f%%)", n, n/sum(n)*100)),
+    aes(label = sprintf("%d\n(%.1f%%)", n, n / sum(n) * 100)),
     vjust = -0.5,
     size = 3.5
   ) +
@@ -300,18 +324,26 @@ ggplot(location_events, aes(x = n, y = reorder(city, n))) +
 type_trends <- events_analyzed |>
   filter(year >= year(Sys.Date()) - 2) |>
   mutate(quarter = paste0(year, " Q", quarter(event_date))) |>
-  count(quarter, type) |>
+  count(quarter, is_virtual) |>
   group_by(quarter) |>
   mutate(percentage = n / sum(n) * 100)
 
-ggplot(type_trends, aes(x = quarter, y = n, fill = type)) +
+ggplot(
+  type_trends,
+  aes(x = quarter, y = n, fill = is_virtual)
+) +
   geom_col(position = "stack") +
-  scale_fill_rladies() +
   labs(
-    title = "Event Status by Quarter",
+    title = "Event Type by Quarter",
     x = "Quarter",
     y = "Number of Events",
-    fill = "Status"
+    fill = "Virtual Event"
+  ) +
+  scale_fill_manual(
+    values = c(
+      "TRUE" = rladies_colors$purple,
+      "FALSE" = rladies_colors$light_purple
+    ),
   ) +
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 ```
@@ -325,8 +357,8 @@ ggplot(type_trends, aes(x = quarter, y = n, fill = type)) +
 #| include: false
 
 # Calculate recommendations dynamically
-top_3_days <- dow_counts |> 
-  slice_max(n, n = 3) |> 
+top_3_days <- dow_counts |>
+  slice_max(n, n = 3) |>
   pull(event_dow) |>
   as.character()
 

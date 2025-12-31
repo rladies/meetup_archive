@@ -1,0 +1,106 @@
+[
+  {
+    "id": "275209539",
+    "title": "¡Fin de año y primer meetup de R-Ladies Jujuy!",
+    "description": "Este próximo lunes 21 de diciembre de 2020 a las 17 hrs presentaremos este nuevo capítulo de R-Ladies en Argentina, y qué mejor manera de hacerlo que hablando de R? L@s invitamos a charlar y compartir información de paquetes de R, herramientas, ciencia y principios FAIR en un ambiente amigable y distendido con la charla: Produciendo mi próximo artículo científico con R: Compendios de Investigación, Reproducibilidad e Interactividad en las publicaciones académicas.\n\nOradora invitada: Florencia D'Andrea (R-Ladies Buenos Aires y global team)\nMuchas personas han migrado desde distintos tipos de software a usar R y RStudio para realizar los análisis de datos que luego formarán parte de publicaciones. Surge una pregunta disparadora:\n¿Qué hacemos con el código y los datos producto de nuestras investigaciones?\n\n- El arte de compartir - Un Compendio de Investigación es una forma ordenada de dejar disponible manuscrito, datos y código para que otr@ investigador@ (y un@ mism@ en el futuro) pueda reproducir tanto los resultados como el artículo facilmente. ¡Y además se puede crear desde R!\nDonde antes usabas un editor de texto, ahora podes usar RMarkdown ¿Cómo entra en juego dentro del compendio?¿Por qué debería incluir una licencia?\nR nos abre muchas posibilidades al momento de comunicar a otr@s investigadores o al público en general nuestros resultados de una forma más efectiva ¿Podemos publicar gráficos interactivos con {plotly} o dejar disponibles shiny apps? ¿Cómo?\n\n- ¿Estás list@ para hacer ciencia abierta? - Algunas revistas comienzan a requerir el acceso al código y bases de datos para un mayor impacto de sus artículos ¿Por qué es necesario asegurar lo más posible la reproducibilidad computacional? Mencionaremos algunas herramientas de R que pueden ayudarte a mejorar de forma sencilla reproducibilidad, como el paquete {renv}.\nFinalmente, reflexionemos junt@s: ¿Qué ventajas/desventajas tiene liberar nuestros datos y código? ¿Preferimos calidad o cantidad en lo que refiere a los artículos científicos? ¿Debería ser así?\n\nAclaraciones Importantes\n• La charla no supone ningún tipo de conocimiento de R especifico previo. De todas formas, podrás disfrutar más matices si escribiste algo de código en R con fines académicos.\n• Se realizarán algunas demostraciones en vivo para que todo lo expuesto sea claro y sencillo de entender.\n• Enviaremos el link al evento por mail a aquellos inscript@s antes del evento ¡No te olvides de confirmar tu asistencia en meetup!",
+    "status": "PAST",
+    "dateTime": "2020-12-21T17:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-jujuy/events/275209539/",
+    "featuredEventPhoto": {
+      "id": "493969486",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/1/4/e/highres_493969486.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/1/4/e/600_493969486.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/1/4/e/thumb_493969486.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 100,
+      "waitlistCount": 4,
+      "totalCount": 100
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Jujuy",
+      "urlname": "rladies-jujuy"
+    }
+  },
+  {
+    "id": "289825835",
+    "title": "R desde el comienzo",
+    "description": "¡Nos volvemos a encontrar!\n\nEsta charla está dirigida para todxs aquellxs que quieran empezar a aprender R o formalizar un poco más sus conocimientos sobre este lenguaje.\n\nLa reunión se llevará a cabo en el aula 4 del edificio de la Facultad de Ingenieria de la calle Gorriti (al frente de la plaza Belgrano)\n\n¡Nos vemos pronto!",
+    "status": "PAST",
+    "dateTime": "2022-11-23T09:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-jujuy/events/289825835/",
+    "featuredEventPhoto": {
+      "id": "508687720",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/e/2/8/highres_508687720.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/e/2/8/600_508687720.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/e/2/8/thumb_508687720.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "27459944",
+        "name": "Facultad de Ingeniería Sede Calle Gorriti Aula 4",
+        "address": "Glrriti 237,",
+        "city": "San Salvador de Jujuy",
+        "state": "",
+        "country": "AR",
+        "lat": -24.1856,
+        "lon": -65.2987,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Jujuy",
+      "urlname": "rladies-jujuy"
+    }
+  },
+  {
+    "id": "288362075",
+    "title": "Primera Reunión R Ladies Jujuy - presencial!",
+    "description": "**R Ladies Jujuy empieza presencial!**\n\nEstamos muy contentas de invitarlas al primer meetup de este año 2022, donde vamos a estar hablando de qué se trata R Ladies y compartiendo intereses!\n\nLa propuesta es generar un espacio para las que aún no se animaron/largaron con el R, para las que ya han comenzado y para aquellas más avanzadas, nos juntemos con unos mates para intercambiar ideas y comenzar a armar entre todas esta comunidad en Jujuy.\n\nLa reunión se llevará a cabo en la Facultad de Cs. Agrarias UNJu, aula 2 (al lado de postgrado, planta baja) a las 10:30 de la mañana\n\nEn esta primera reunión no es necesario que traigan las compus.\n\nQueremos agradecer al Instituto de Ecorregiones Andinas (INECOA CONICET) y a la Facultad de Ciencias Agrarias, UNJu por su apoyo para el desarrollo de esta actividad y por recibirnos en sus instalaciones.\n\nNos vemos pronto!! :-)",
+    "status": "PAST",
+    "dateTime": "2022-09-19T10:30:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-jujuy/events/288362075/",
+    "featuredEventPhoto": {
+      "id": "506903908",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/d/6/4/highres_506903908.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/d/6/4/600_506903908.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/d/6/4/thumb_506903908.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 13,
+      "waitlistCount": 0,
+      "totalCount": 13
+    },
+    "venues": [],
+    "group": {
+      "name": "R-Ladies Jujuy",
+      "urlname": "rladies-jujuy"
+    }
+  }
+]

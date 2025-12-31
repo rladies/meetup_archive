@@ -1,0 +1,341 @@
+[
+  {
+    "id": "256093421",
+    "title": "R-Ladies et Tidyverse ",
+    "description": "Bonjour à tous,\nÇa y est nous avons une salle pour le premier meetup R-Ladies. Nous avons hâte de vous recevoir dans les locaux du CNRS de Montpellier, nous enverrons le plan d'accès détaillé aux inscrits.\nNous vous présenterons l'organisation R-Ladies ainsi que le Tidyverse.\nPuis nous discuterons ensemble des prochains thèmes que vous voudriez aborder lors de ces meetups.\nLes inscriptions seront cloturées 2 jours avant le meetup car nous devons fournir la liste des invités au CNRS la veille pour que vous puissiez rentrer sur le campus.\nA très bientôt\nCécile et Criscely",
+    "status": "PAST",
+    "dateTime": "2018-12-12T18:30:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montpellier/events/256093421/",
+    "featuredEventPhoto": {
+      "id": "476006922",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/9/2/a/highres_476006922.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/9/2/a/600_476006922.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/9/2/a/thumb_476006922.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 29,
+      "waitlistCount": 0,
+      "totalCount": 29
+    },
+    "venues": [
+      {
+        "id": "25982526",
+        "name": "CNRS (Centre d'Ecologie Fonctionnelle et Evolutive)",
+        "address": "1919 route de Mende",
+        "city": "Montpellier",
+        "state": "",
+        "country": "FR",
+        "lat": 43.6387,
+        "lon": 3.8651,
+        "postalCode": "meetup8",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montpellier",
+      "urlname": "rladies-montpellier"
+    }
+  },
+  {
+    "id": "262637554",
+    "title": "Gold star reproducibility by Saras Windecker",
+    "description": "We are very happy to welcome Saras, comming from Melbourne, for the next meeting. She will talk to us about reproducibility.\nPlease remember to fill in your real first and last name so that we can make prior authorization requests to enter the CNRS 2 days before the meetup.\n\nSee you soon :)\n\nAbstract: Research using R underpins a wide array of applied decision-making. Growing recognition of irreproducibility of results produced using R raises concerns about the credibility of research and the reliability of decisions they inform. Although there are many aspects to reproducible research, one major problem is the basic lack of computational reproducibility of published work – or the ability to rerun an analysis and reproduce the same results. There are many strategies for improving computational reproducibility, such as clear code structure, functional programming, and version control. Besides these tactics, however, we often find that analyses that reproduce on one machine or in one environment do not run in another, or do not run in the future. This problem is related to changing computing environments and software versions, and can be addressed using containerisation. In this talk, I will introduce containerisation and its implementation using an open-access R package. This introduction should be accessible to those who have never heard of or used containerisation before, as well as those who already actively use services such as Docker for containerisation.",
+    "status": "PAST",
+    "dateTime": "2019-07-02T18:30:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montpellier/events/262637554/",
+    "featuredEventPhoto": {
+      "id": "482600501",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/0/1/5/highres_482600501.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/0/1/5/600_482600501.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/0/1/5/thumb_482600501.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 12,
+      "waitlistCount": 0,
+      "totalCount": 12
+    },
+    "venues": [
+      {
+        "id": "25982526",
+        "name": "CNRS (Centre d'Ecologie Fonctionnelle et Evolutive)",
+        "address": "1919 route de Mende",
+        "city": "Montpellier",
+        "state": "",
+        "country": "FR",
+        "lat": 43.6387,
+        "lon": 3.8651,
+        "postalCode": "meetup8",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montpellier",
+      "urlname": "rladies-montpellier"
+    }
+  },
+  {
+    "id": "262058629",
+    "title": "L'Analyse des données hétérogènes avec R, by Susan Holmes",
+    "description": "Salut à tous !\nPour ce prochain meetup nous avons l'honneur d'accueillir une invitée EXCEPTIONNELLE, Susan Holmes, qui viendra nous parler de l'analyse des données hétérogènes avec R, appliquée à la santé et au microbiome.\n\nHi everybody !\nFor this next meeting we are honored to welcome an EXCEPTIONAL guest, Susan Holmes, who will talk to us about the analysis of heterogeneous data with R, applied to health and microbiome.",
+    "status": "PAST",
+    "dateTime": "2019-06-17T18:30:00+02:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-montpellier/events/262058629/",
+    "featuredEventPhoto": {
+      "id": "481966906",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/7/3/a/highres_481966906.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/7/3/a/600_481966906.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/7/3/a/thumb_481966906.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 25,
+      "waitlistCount": 0,
+      "totalCount": 25
+    },
+    "venues": [
+      {
+        "id": "25982526",
+        "name": "CNRS (Centre d'Ecologie Fonctionnelle et Evolutive)",
+        "address": "1919 route de Mende",
+        "city": "Montpellier",
+        "state": "",
+        "country": "FR",
+        "lat": 43.6387,
+        "lon": 3.8651,
+        "postalCode": "meetup8",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montpellier",
+      "urlname": "rladies-montpellier"
+    }
+  },
+  {
+    "id": "260725326",
+    "title": "Let's talk togetheR",
+    "description": "(Message in English below)\n\nBonjour à tous !\nNous préparons l'organisation de notre quatrième meeting R-Ladies Montpellier!\nÀ cette occasion, nous souhaiterions faire une sorte de table ronde où l'on présenterait chacun notre tour de ce qu'on fait avec R.\nCela pourra nous aider à mieux nous connaître et créer plus de collaboration entre nous pour les rencontres suivantes.\nCela nous aidera également à savoir quelles personnes inviter avec des sujets qui pourraient intéresser le plus de monde.\nLors de cette table ronde, si vous souhaitez présenter un ppt, vos principaux packages, vos axes de recherche, tout ce qui nous aide à en savoir plus sur vous est le bienvenu!\n\nNous vous attendons et nous sommes très heureux de continuer à avancer petit à petit en groupe!\n\nLa date prévue pour cette rencontre est le 30 avril, et le lieu sera bientôt annoncé.\n\nCécile et Criscely\n\n###################################################################\n\nHello everyone!\nWe are organizing our fourth meeting R-Ladies Montpellier!\nIn this opportunity, we would like to have a kind of round table where each of us would present we are doing with R.\nThis will help us to know each other better and create more collaboration between us for future meetings.\nIt will also help us to know which people to invite with topics that could interest the most people.\nDuring this round table, feel free to present a ppt, with information about your main packages, your research axes, everything that helps us to know more about you is welcome!\n\nWe are waiting for you and we are very happy to continue advancing little by little in a group!\n\nThe date for this meeting is April 30, and the place will be announced shortly.\n\nCécile and Criscely",
+    "status": "PAST",
+    "dateTime": "2019-04-30T18:30:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montpellier/events/260725326/",
+    "featuredEventPhoto": {
+      "id": "480534917",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/6/8/5/highres_480534917.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/6/8/5/600_480534917.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/6/8/5/thumb_480534917.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 12,
+      "waitlistCount": 0,
+      "totalCount": 12
+    },
+    "venues": [
+      {
+        "id": "26147832",
+        "name": "Cowork'in Montpellier",
+        "address": "22 Rue des Aiguerelles",
+        "city": "Montpellier",
+        "state": "",
+        "country": "fr",
+        "lat": 43.6033,
+        "lon": 3.8821,
+        "postalCode": "34000",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montpellier",
+      "urlname": "rladies-montpellier"
+    }
+  },
+  {
+    "id": "259695004",
+    "title": "From Data to Viz... and beyond!",
+    "description": "At this MeetUp Yan will talk about the philosophy behind Data to Viz.\nTopics will include:\n- The spectrum choices available for visualising data\n- Methods to assess the most appropriate visualisation\n- Common mistakes and how to avoid them\n- How to built great charts with R, ggplot2 and more\n\nAfter Yan's presentation we will be able to discuss about R and help each other.\nYou can bring your computer with you if you wish.\nWe look forward to seeing you there.",
+    "status": "PAST",
+    "dateTime": "2019-03-19T18:30:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montpellier/events/259695004/",
+    "featuredEventPhoto": {
+      "id": "479414738",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/9/9/2/highres_479414738.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/9/9/2/600_479414738.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/9/9/2/thumb_479414738.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 15,
+      "waitlistCount": 0,
+      "totalCount": 15
+    },
+    "venues": [
+      {
+        "id": "26241077",
+        "name": "5 Rue de l'École de Médecine",
+        "address": "5 Rue de l'École de Médecine",
+        "city": "Montpellier",
+        "state": "",
+        "country": "fr",
+        "lat": 43.6127,
+        "lon": 3.8734,
+        "postalCode": "34000",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montpellier",
+      "urlname": "rladies-montpellier"
+    }
+  },
+  {
+    "id": "258756379",
+    "title": "Let's code togetheR !",
+    "description": "This time, we invite you to meet at the Cowork'in Montpellier, near the park of Peyrou, to code togetheR on different themes, Tidyverse, ggplot2, github... Criscely will present us the Github workflow. And we will help each other to progress in R :-)\nRemember to bring your computer, there is wifi on site.\nYou can bring something to drink and snack to share together.",
+    "status": "PAST",
+    "dateTime": "2019-02-12T18:30:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montpellier/events/258756379/",
+    "featuredEventPhoto": {
+      "id": "478470433",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/6/e/1/highres_478470433.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/6/e/1/600_478470433.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/6/e/1/thumb_478470433.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 16,
+      "waitlistCount": 0,
+      "totalCount": 16
+    },
+    "venues": [
+      {
+        "id": "26147832",
+        "name": "Cowork'in Montpellier",
+        "address": "22 Rue des Aiguerelles",
+        "city": "Montpellier",
+        "state": "",
+        "country": "fr",
+        "lat": 43.6101,
+        "lon": 3.8677,
+        "postalCode": "34000",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montpellier",
+      "urlname": "rladies-montpellier"
+    }
+  },
+  {
+    "id": "274646235",
+    "title": "Lightning Talks: This year I learned ... and it changed my life! R-edition",
+    "description": "R-Ladies Montpellier in collaboration with R-Ladies Freiburg have the pleasure to invite you to this new online meetup!\n\nLet's be honest... 2020 has been a rollercoaster -- but surely some good has come out of it! In this R-Ladies year-end Meetup, we'll focus on the positive things we've learned this year in R. And for this, we want to hear from you!\n\nWhether it's a cool ggplot feature, a newly discovered package, a tip for using R-Studio, or an application of familiar tools to your own project, we know you have something interesting to share! In a 10-minute slot, you can present on anything you've learned this year in R, or walk us through a visualization / piece of code that you're proud of -- all in front of an easy, helpful audience who are there to cheer you on.\n\nWe're hoping to get a range of ladies* from different areas of interest, levels of expertise, and resident countries to join and share their tips with us! If you've never presented before, we want to specifically encourage you to try it out. So don't hesitate to sign up -- we look forward to hearing from you.\n\nAnd, as a teaser, topics so far include:\n- ...how to make sweet lollipop plots\n-... small tricks to make big changes in your R-Studio experience\n-... how to make presentations in R\n\nSign up for a talk here:\nhttps://docs.google.com/spreadsheets/d/1r3BNDPW0kkKSqd5LQNJjE8ezFblh2oOC1LcBXIxIBkc/edit\n\nWe will be sharing the Zoom link soon!",
+    "status": "PAST",
+    "dateTime": "2020-12-01T18:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montpellier/events/274646235/",
+    "featuredEventPhoto": {
+      "id": "493578725",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/9/2/5/highres_493578725.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/9/2/5/600_493578725.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/9/2/5/thumb_493578725.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 17,
+      "waitlistCount": 0,
+      "totalCount": 17
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montpellier",
+      "urlname": "rladies-montpellier"
+    }
+  },
+  {
+    "id": "268604345",
+    "title": "How to transfigure your code into an R package ?",
+    "description": "Premier meetup de l'année !\nVenez apprendre comment faire un package avec Nina :-)\nComme d'habitude nous aurons besoin des noms et prénoms des participants afin de fournir la liste au CEFE au moins 24h à l'avance pour que vous puissiez entrer dans les locaux du CNRS, donc ceux qui ont des pseudos, pensez à nous fournir vos noms et prénoms, et à emmener une carte d'identité (ou passeport ou permis de conduire) le jour du meetup.\nMerci et à très bientôt :-)",
+    "status": "PAST",
+    "dateTime": "2020-02-19T18:30:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montpellier/events/268604345/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 17,
+      "waitlistCount": 0,
+      "totalCount": 17
+    },
+    "venues": [
+      {
+        "id": "25982526",
+        "name": "CNRS (Centre d'Ecologie Fonctionnelle et Evolutive)",
+        "address": "1919 route de Mende",
+        "city": "Montpellier",
+        "state": "",
+        "country": "FR",
+        "lat": 43.6387,
+        "lon": 3.8651,
+        "postalCode": "meetup8",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montpellier",
+      "urlname": "rladies-montpellier"
+    }
+  },
+  {
+    "id": "277151324",
+    "title": "Être un·e utilisateur·rice de R résilient·e, by Maëlle Salmon",
+    "description": "Bonjour à tou·te·s !\n\nA l'occasion de ce 1er meetup RLadies de 2021, nous avons la chance de recevoir Maëlle Salmon qui nous présentera : \" Être un·e utilisateur·rice de R résilient·e \"\n\nRésumé :\n\nApprendre R est une excellente idée pour réaliser différentes tâches au travail. Cependant, même une fois passé·e au-delà de “Bonjour Monde”, vous continuerez régulièrement à avoir des problèmes dans R… Triste constat ? Non, car vous apprendrez aussi à devenir un·e utilisateur·rice de R résilient·e !\nDans cette présentation je partagerai des astuces à cet effet : comment suivre les nouveautés de R sans se sentir submergé·e ; et comment et où demander de l’aide efficacement. J’espère que chacun·e repartira avec quelques clés de plus pour une utilisation joyeuse de R !\n\nL'oratrice :\n\nMaëlle Salmon est actuellement Research Software Engineer chez rOpenSci. Mais ce n'est pas tout ! Maëlle est également très impliquée dans la communauté R puisqu'elle travaille sur beaucoup d'autres projets en tant que developpeuse et/ou formatrice en R. Pour ne citer qu'eux : elle a notamment contribué à la création du livre \"HTTP testing in R\", est à l'origine du blog R-hub et assure la gestion du compte twitter R-Ladies Global. Nous sommes donc ravi·e·s de l'avoir parmi nous pour ce premier meet up de l'année 2021.",
+    "status": "PAST",
+    "dateTime": "2021-04-27T18:30:00+02:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-montpellier/events/277151324/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 24,
+      "waitlistCount": 0,
+      "totalCount": 24
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montpellier",
+      "urlname": "rladies-montpellier"
+    }
+  }
+]

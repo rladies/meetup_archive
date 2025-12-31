@@ -15,7 +15,7 @@ format:
     fig-width: 8
     fig-height: 6
     filters:
-    - _extensions/filters/hugo-figures.lua
+      - _extensions/filters/hugo-figures.lua
     keep-md: false
   html:
     number-sections: false
@@ -24,13 +24,12 @@ format:
     code-summary: "Show code"
     fig-width: 8
     fig-height: 6
-    logo: https://rladies.org/images/logo.png
   typst:
     toc: true
     number-sections: false
     fig-width: 8
     fig-height: 6
-    logo: https://rladies.org/images/logo.png
+    papersize: a4
 
 execute:
   echo: false

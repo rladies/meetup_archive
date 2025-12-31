@@ -1,0 +1,976 @@
+[
+  {
+    "id": "235593376",
+    "title": "Scalable Machine Learning in R and Python with H2O",
+    "description": "L'Erin LeDell (Machine Learning Scientist a H2O.ai) farà una xerrada en anglès sobre Machine Learning amb R, Python i H2O. L'Erin també va ajudar a crear R-Ladies Global. Vine i aprèn machine learning amb nosaltres!\n\nAquesta trobada és una trobada conjunta de R-Ladies i PyLadiesBCN, recolzada per la Comissió d’Igualtat de la Facultat de Matemàtiques i Informàtica de l'UB que ens cedeix una sala.\n\nÉs millor venir amb el vostre portatil, cargat, si voleu utilizar els paquets quan parla l'Erin, i millor si installeu el paquet h2o (es diu el mateix en Python i R) abans de venir.\n\n********************************************************\n\nThe focus of this talk is scalable machine learning using the H2O R (http://www.h2o.ai/download/h2o/r) and Python (http://www.h2o.ai/download/h2o/python) packages. H2O (https://github.com/h2oai/h2o-3) is an open source, distributed machine learning platform designed for big data, with the added benefit that it's easy to use on a laptop (in addition to a multi-node Hadoop or Spark cluster). The core machine learning algorithms of H2O are implemented in high-performance Java, however, fully-featured APIs are available in R, Python, Scala, REST/JSON, and also through a web interface.\n\nSince H2O's algorithm implementations are distributed, this allows the software to scale to very large datasets that may not fit into RAM on a single machine. H2O currently features distributed implementations of Generalized Linear Models, Gradient Boosting Machines, Random Forest, Deep Neural Nets, dimensionality reduction methods (PCA, GLRM), clustering algorithms (K-means), anomaly detection methods, among others. The ability to create stacked ensembles, or \"Super Learners\", from a collection of supervised base learners is provided via the h2oEnsemble (https://github.com/h2oai/h2o-3/tree/master/h2o-r/ensemble) R package.\n\nR and Python code with H2O machine learning code examples will be demoed live and are available on GitHub (https://github.com/h2oai/h2o-tutorials#r-tutorials) for attendees to follow along on their laptops. So please bring a charged laptop if you want to try the code! Please also install the h2o package before coming (h2o package on CRAN, in Python pip install h2o)\n\n## Speaker Bio\n\nErin LeDell (http://www.stat.berkeley.edu/~ledell/) is a Statistician and Machine Learning Scientist at H2O.ai (http://www.h2o.ai/), the company that produces the open source machine learning platform, H2O (https://github.com/h2oai/h2o-3). She is the author of a handful of machine learning related software packages (http://www.stat.berkeley.edu/~ledell/software.html), including the h2oEnsemble (https://github.com/h2oai/h2o-3/tree/master/h2o-r/ensemble) R package for ensemble learning with H2O. Erin received her Ph.D. in Biostatistics with a Designated Emphasis in Computational Science and Engineering from UC Berkeley. Before joining H2O.ai, she was the Principal Data Scientist at Wise.io (acquired by GE in 2016) and Marvin Mobile Security (acquired by Veracode in 2012) and the founder of DataScientific, Inc.",
+    "status": "PAST",
+    "dateTime": "2016-12-05T19:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-barcelona/events/235593376/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 58,
+      "waitlistCount": 0,
+      "totalCount": 58
+    },
+    "venues": [
+      {
+        "id": "24901940",
+        "name": "Claustre de matemàtiques",
+        "address": "Gran via de les corts catalanes 585",
+        "city": "Barcelona",
+        "state": "",
+        "country": "es",
+        "lat": 41.3871,
+        "lon": 2.1637,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barcelona",
+      "urlname": "rladies-barcelona"
+    }
+  },
+  {
+    "id": "235064329",
+    "title": "¡Primer evento de R-Ladies Barcelona!",
+    "description": "Estamos preparando el primer encuentro de #RLadiesBCN! Resérvate para el 21 de noviembre!\n\nRegístrate aquí (https://www.eventbrite.es/e/entradas-primer-evento-de-r-ladies-barcelona-28790330654) para conseguir tu invitación en Eventbrite. Todavía estamos definiendo el lugar, pero te iremos informando por email. Por ese motivo\n\n¿Qué veremos en el primer R-Ladies Barcelona?\n\nEstamos todavía definiendo los contenidos para el primer R-Ladies en Barcelona. A continuación tenéis una encuesta con la que podremos hacer:\n\nhttps://t.co/sMRkaWqomH\n\nSi conocéis a otras mujeres interesadas en R que se apunten o vengan como invitadas vuestras :)\n\n¡Qué ganas de veros allí!",
+    "status": "PAST",
+    "dateTime": "2016-11-21T19:00:00+01:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-barcelona/events/235064329/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 17,
+      "waitlistCount": 0,
+      "totalCount": 17
+    },
+    "venues": [],
+    "group": {
+      "name": "R-Ladies Barcelona",
+      "urlname": "rladies-barcelona"
+    }
+  },
+  {
+    "id": "244306536",
+    "title": "Take your R scripts to a new planet: Jupyter notebooks with R!",
+    "description": "T'agradaria aprendre a combinar els teus scripts de R amb text enriquit, explicacions de cada pas i les gràfiques corresponents? En aquesta trobada utilitzarem R mitjançant l’aplicació de Jupyter Notebook.\n\nhttps://avatars3.githubusercontent.com/u/7388996?s=400&v=4\n\nLa sessió serà una introducció a aquesta útil eina de treball, començant des dels passos de instal·lació, exemples bàsics fins a casos més sofisticats d’anàlisi utilitzant dades científiques.\n\nTot i que donarem instruccions a l’aula, recomanem que us instal·leu anaconda prèviament. Necessitareu:\n\n• Go to https://www.anaconda.com/download and download the appropriate version of anaconda. Then execute the downloaded sh script to install. \n\n• Create a new, specific R environment and install the essential r packages and the IRKernel by typing at the terminal: conda create -n my_r_env_name -c r r-essentials r-irkernel \n\n• Activate the environment by typing at the terminal: source activate my_r_env_name \n\n• Install the nb_conda package by typing at the terminal: conda install nb_conda \n\n• Install the plotting libraries required for our examples: conda install r-gplots r-ggplot2\n\nEns veiem ben aviat!\n\n____ English version ______________________\n\nWould you like to learn how to combine your R scripts with enriched text explanations and graphs? In this meetup, we will run R code through the Jupyter Notebook app.\n\nhttps://avatars3.githubusercontent.com/u/7388996?s=400&v=4\n\nThis will be an introduction to this tool, starting from installation and setup and basic examples, and building up to more sophisticated examples with using scientific data.\n\nAlthough we will give setup instructions there, it is recommended that you install anaconda in advance to the meetup. You will need to:\n\n• Go to https://www.anaconda.com/download and download the appropriate version of anaconda. Then execute the downloaded sh script to install. \n\n• Create a new, specific R environment and install the essential r packages and the IRKernel by typing at the terminal: conda create -n my_r_env_name -c r r-essentials r-irkernel \n\n• Activate the environment by typing at the terminal: source activate my_r_env_name \n\n• Install the nb_conda package by typing at the terminal: conda install nb_conda \n\n• Install the plotting libraries required for our example: r-gplots and r-ggplot2\n\nSee you all there!",
+    "status": "PAST",
+    "dateTime": "2017-11-06T19:00:00+01:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-barcelona/events/244306536/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 36,
+      "waitlistCount": 0,
+      "totalCount": 36
+    },
+    "venues": [
+      {
+        "id": "24608081",
+        "name": "Punt Multimèdia La Casa del Mig",
+        "address": "Casa del Mig, (Parc de la Espanya Industrial), Carrer de Muntadas, 5",
+        "city": "Barcelona",
+        "state": "",
+        "country": "es",
+        "lat": 41.3765,
+        "lon": 2.1403,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barcelona",
+      "urlname": "rladies-barcelona"
+    }
+  },
+  {
+    "id": "243175939",
+    "title": "Plots with ggplot2 are better plots",
+    "description": "Per fi torna la temporada de Meetups!\n\nAquesta vegada és el torn de ggplot2 (http://ggplot2.org/), un paquet de R molt popular que permet a l'usuari fer tota mena de gràfics molt estètics i modificables. Al tutorial explicarem la forma bàsica de treballar amb ggplot2, però també presentarem altres paquets que amplifiquen les seves funcionalitats.\n\nhttps://d21ii91i3y6o6h.cloudfront.net/gallery_images/from_proof/9296/medium/1447173871/rstudio-hex-ggplot2-dot-psd.png\n\nTampoc en volem presumir gaire però tindrem stickers molt guays per regalar! :P\n\nTips per assistir al Meetup:\n\n• Recomanem tenir un coneixement bàsic de R per a seguir bé el tutorial. Si no el tens tampoc et preocupis molt, segur que aprendràs alguna cosa!\n\n• Si vols anar seguint el tutorial pots portar el teu portàtil. Només recorda de carregar la bateria abans de venir! També disposarem de xarxa WiFi gratuïta en cas que necessiteu descarregar algun arxiu.\n\n• Si ets un home, hauràs de convèncer alguna companya perquè et porti com el seu +1.\n\nRequeriments:\n\n• R i RStudio instalats.\n\n• Instalar ggplot2, ggrepel, cowplot i reshape2.\n\nEsperem veure-us allà!\n\n____ English version ______________________\n\nMeetup season is back! Yay!\n\nThis time is the turn of ggplot2 (http://ggplot2.org)! ggplot2 is a popular R package that allows user to create very nice plots that are highly tuneable. We will talk about the basic usage of ggplot2 but we will also learn about other packages that even amplify the functionalities of the base ggplot2.\n\nhttps://d21ii91i3y6o6h.cloudfront.net/gallery_images/from_proof/9296/medium/1447173871/rstudio-hex-ggplot2-dot-psd.png\n\nWe don't want to brag too much but we'll have some very nice stickers to share with you. :P\n\nTips for attending the Meetup:\n\n• For the purposes of this tutorial we recommend that you have a basic knowledge of R. If you don't, do not worry too much -- You'll learn anyway!\n\n• If you want to follow the tutorial you can bring your laptop (remember to charge your battery before the event!). We'll also have free WiFi access in case you need to download anything.\n\n• If you are a man you'll have to convince some female friend to bring you as your +1.\n\nRequirement:\n\n• R and RStudio.\n\n• Install the following packages: ggplot2, cowplot, ggrepel and reshape2.\n\nHope to see you there!",
+    "status": "PAST",
+    "dateTime": "2017-09-27T19:00:00+02:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-barcelona/events/243175939/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 33,
+      "waitlistCount": 0,
+      "totalCount": 33
+    },
+    "venues": [
+      {
+        "id": "24608081",
+        "name": "Punt Multimèdia La Casa del Mig",
+        "address": "Casa del Mig, (Parc de la Espanya Industrial), Carrer de Muntadas, 5",
+        "city": "Barcelona",
+        "state": "",
+        "country": "es",
+        "lat": 41.3765,
+        "lon": 2.1403,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barcelona",
+      "urlname": "rladies-barcelona"
+    }
+  },
+  {
+    "id": "242435328",
+    "title": "WomenInTech Summer Picnic",
+    "description": "[!!!] NO OS APUNTÉIS EN EL EVENTO DE MEETUP, OS TENÉIS QUE REGISTRAR EN EVENTBRITE [!!!]\n\n[!!!] DO NOT RSVP IN MEETUP, YOU NEED TO REGISTER IN EVENTBRITE [!!!]\n\n[!!!] https://www.eventbrite.es/e/entradas-womenintech-summer-picnic-36778722148 (https://www.eventbrite.es/e/entradas-womenintech-summer-picnic-36778722148)[!!!]\n\n#### Versión en castellano ####\n\nOs invitamos a participar en la primera edición de WomenInTech Summer Picnic en Barcelona, organizado por las compañeras de WomenWhoCode (https://www.meetup.com/Women-Who-Code-Barcelona/).\n\nSerá una gran oportunidad para conocer otros grupos de tech formados por mujeres, hacer un poco de networking y sobre todo compartir nuestras experiencias, ¡todo acompañado por un piscolabis y cerveza!\n\nPodéis encontrar más información, además del formulario de registro obligatorio aquí (https://www.eventbrite.es/e/entradas-womenintech-summer-picnic-36778722148).\n\n#### English version ####\n\nWe are pleased to invite you to the first edition of WomenInTech Summer Picnic in Barcelona, organized by our colleagues from WomenWhoCode (https://www.meetup.com/Women-Who-Code-Barcelona/).\n\nIt will be a great opportunity to get to know other female tech groups, do some networking and share our personal experiences over some food and beer.\n\nFurther information and the compulsory registration form are available here (https://www.eventbrite.es/e/entradas-womenintech-summer-picnic-36778722148).",
+    "status": "PAST",
+    "dateTime": "2017-08-25T18:30:00+02:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-barcelona/events/242435328/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 1,
+      "waitlistCount": 4,
+      "totalCount": 1
+    },
+    "venues": [
+      {
+        "id": "25419490",
+        "name": "Hola Luz",
+        "address": "1 Plaça de Pau Vila",
+        "city": "Barcelona",
+        "state": "",
+        "country": "es",
+        "lat": 41.381,
+        "lon": 2.1853,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barcelona",
+      "urlname": "rladies-barcelona"
+    }
+  },
+  {
+    "id": "240054726",
+    "title": "Descifrando datos ómicos en R",
+    "description": "Es realitzarà un petit mapeig de diferents paquets útils per les dades bioinformàtiques i l'aplicació pràctica d'un cas. Més detalls aviat!\n\nWe'll see different packages useful for bioinformatic analyses and a concrete use case. More details soon!",
+    "status": "PAST",
+    "dateTime": "2017-06-12T19:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-barcelona/events/240054726/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 18,
+      "waitlistCount": 0,
+      "totalCount": 18
+    },
+    "venues": [
+      {
+        "id": "24608081",
+        "name": "Punt Multimèdia La Casa del Mig",
+        "address": "Casa del Mig, (Parc de la Espanya Industrial), Carrer de Muntadas, 5",
+        "city": "Barcelona",
+        "state": "",
+        "country": "es",
+        "lat": 41.3765,
+        "lon": 2.1403,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barcelona",
+      "urlname": "rladies-barcelona"
+    }
+  },
+  {
+    "id": "238510980",
+    "title": "Introducció a Bokeh: Una llibreria de visualització diferent",
+    "description": "Tindrem un tutorial d'Elena, més infos aviat! // We'll have a tutorial from Elena, more info coming soon!\n\nEl big data que ara està tan extès arreu del món, ens deixa una quantitat indigent de dades que sense els data scientists no tindrien sentit. Aquests tracten les dades amb carinyo per extreure informació entenible. Per tal de mostrar el resultat d'una manera grafica, es fan servir diferents llibreries de visualització. En aquest taller en centrarem en Bokeh i en el seu potencial per convertir-se en la llibreria de referència.\n\nSi ets noi hauràs de convèncer a alguna noia per a venir i que en el registre indiqui que ve acompanyada, indicant la opció +1 a la hora de fer la inscripció.",
+    "status": "PAST",
+    "dateTime": "2017-04-24T19:00:00+02:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-barcelona/events/238510980/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 31,
+      "waitlistCount": 0,
+      "totalCount": 31
+    },
+    "venues": [
+      {
+        "id": "24608081",
+        "name": "Punt Multimèdia La Casa del Mig",
+        "address": "Casa del Mig, (Parc de la Espanya Industrial), Carrer de Muntadas, 5",
+        "city": "Barcelona",
+        "state": "",
+        "country": "es",
+        "lat": 41.3765,
+        "lon": 2.1403,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barcelona",
+      "urlname": "rladies-barcelona"
+    }
+  },
+  {
+    "id": "237869074",
+    "title": "Data wrangling with dplyr and tidyr",
+    "description": "(Scroll down for English version'\n\nAquesta vegada farem una sessiò molt practica amb dplyr i tidyr per aprendre a netejar/transformar dades. La sessiò és adaptada per a persones que encara saben poc de R!\n\nSisplau venir amb el PC cargat + instal·lar R, RStudio i els paquets dplyr, tidyr, lubridate. I descarrega les dades de https://github.com/masalmon/domar_datos/blob/master/data/data_domar_datos.zip\n\nProbablement ho farem tot en anglés, si hi algunes persones que no ho entenen parlarem castellà o català ;). La trobada serà al Punt multimedia de la Casa del Mig, a qui agraïm acollir la nostra trobada!\n\nAqui (https://www.meetup.com/rladies-barcelona/) trobareu el nostre codi de conducta.\n\nApunteu amb RSVP, ens veiem el 20 de març!\n\nThis time we'll do a very applied session with dplyr and tidyr to learn how to clean/transform data. The session is adapted to people who don't know much about R yet!\n\nPlease come with a charged laptop and install the packages dplyr, tidyr, lubridate. And download the data from https://github.com/masalmon/domar_datos/blob/master/data/data_domar_datos.zip\n\nThe meetup will probably be in English, if there are people who don't understand Spanish or Catalan. The meetup will be at the Punt multimedia de la Casa del Mig, thanks a lot to them for having us!\n\nOur code of conduct is here (https://www.meetup.com/rladies-barcelona/) . Please RSVP, and see you on the 20th of March!",
+    "status": "PAST",
+    "dateTime": "2017-03-20T19:00:00+01:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-barcelona/events/237869074/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 16,
+      "waitlistCount": 0,
+      "totalCount": 16
+    },
+    "venues": [
+      {
+        "id": "24608081",
+        "name": "Punt Multimèdia La Casa del Mig",
+        "address": "Casa del Mig, (Parc de la Espanya Industrial), Carrer de Muntadas, 5",
+        "city": "Barcelona",
+        "state": "",
+        "country": "es",
+        "lat": 41.3765,
+        "lon": 2.1403,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barcelona",
+      "urlname": "rladies-barcelona"
+    }
+  },
+  {
+    "id": "236969176",
+    "title": "Google Analytics in R!",
+    "description": "(Scroll down for English version)\n\nJa tenim data per la propera trobada al febrer! Farem dues coses:\n\nTindrem un tutorial sobre el paquet de Google Analytics a R. L'enfocament serà teoric per tant no cal que porteu el vostre portàtil. En aquest cas, es important que tingue accés a una compta d'Analytics per poder fer la configuració inicial. Enviarem informació per instal.lar els paquets i fer els primers passos necessaris a la gent inscrita.\n\nI clar, esperem parlar i pasar-ho bé!\n\nProbablement ho farem tot en anglés, si hi algunes persones que no ho entenen parlarem castellà o català ;). La trobada serà al Punt multimedia de la Casa del Mig, a qui agraïm acollir la nostra trobada!\n\nAqui trobareu el nostre codi de conducta. Com tot event de R-Ladies Barcelona, tothom és benvingut volem que sigui un acte amb majoria femenina.\n\nApunteu amb RSVP, ens veiem el 20 de febrer! *****\n\nWe now have a date and location for our February Meetup! There are two things on the program:\n\nWe'll have a Google Analytics in R tutorial (theory), you don't need to bring your laptop. We'll send installation instructions of the necessary packages and essential configuration to the people who RSVP.\n\nThe meetup will probably be in English, if there are people who don't understand Spanish or Catalan. The meetup will be at the Punt multimedia de la Casa del Mig, thanks a lot to them for having us!\n\nOur code of conduct is here . Like for all R-Ladies Barcelona events, everyone is welcome but we want the meetup to have a majority of female participants.\n\nPlease RSVP, and see you on the 20th of February!",
+    "status": "PAST",
+    "dateTime": "2017-02-20T19:00:00+01:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-barcelona/events/236969176/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 38,
+      "waitlistCount": 0,
+      "totalCount": 38
+    },
+    "venues": [
+      {
+        "id": "19171502",
+        "name": "Punt Multimedia",
+        "address": "Carrer Muntadas Nº 1-5 (Parc de l’Espanya Industrial) 08014",
+        "city": "Barcelona",
+        "state": "",
+        "country": "es",
+        "lat": 41.3765,
+        "lon": 2.14,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barcelona",
+      "urlname": "rladies-barcelona"
+    }
+  },
+  {
+    "id": "236372088",
+    "title": "RMarkdown tutorial and bioinformatics talk",
+    "description": "(Scroll down for English version)\n\nJa tenim data pel nostre Meetup de Gener!\n\nFarem dues coses:\n\n• Primer tindrem un tutorial de RMarkdown (http://rmarkdown.rstudio.com/), llavors porteu el vostre portàtil. Enviarem informació per instal.lar els paquets necessaris a la gent inscrita. Amb RMarkdown és posible escriure anàlisis reproducibles!\n\n• Després Nuria Mauri ens parlarà de la seva feina amb una petita xerrada \"el codi genétic al codi binari\".\n\nI clar, esperem parlar i pasar-ho bé!\n\nProbablement ho farem tot en anglés, si hi algunes persones que no ho entenen parlarem castellà o català ;). La trobada serà al Punt multimedia de la Casa del Mig, a qui agraïm acollir la nostra trobada!\n\nAqui (https://www.meetup.com/rladies-barcelona/) trobareu el nostre codi de conducta. Com tot event de R-Ladies Barcelona, tothom és benvingut volem que sigui un acte amb majoria femenina.\n\nApunteu amb RSVP, ens veiem el 16 de gener!\n\n*****\n\nWe now have a date and location for our January Meetup! There are two things on the program:\n\n• First we'll have a RMarkdown (http://rmarkdown.rstudio.com/)tutorial, so please bring your charged laptop. We'll send installation instructions of the necessary packages to the people who RSVPed. With RMarkdown you can write reproducible analyses!\n\n• Afterwards Nuria Mauri will tell us more about her work with a short talk \"From genetic code to binary code\".\n\nAnd of course we're expecting to have a good time!\n\nThe meetup will probably be in English, if there are people who don't understand Spanish or Catalan. The meetup will be at the Punt multimedia de la Casa del Mig, thanks a lot to them for having us!\n\nOur code of conduct is here (https://www.meetup.com/rladies-barcelona/) . Like for all R-Ladies Barcelona events, everyone is welcome but we want the meetup to have a majority of female participants.\n\nPlease RSVP, and see you on the 16th of January!",
+    "status": "PAST",
+    "dateTime": "2017-01-16T19:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-barcelona/events/236372088/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 33,
+      "waitlistCount": 0,
+      "totalCount": 33
+    },
+    "venues": [
+      {
+        "id": "24608081",
+        "name": "Punt Multimèdia La Casa del Mig",
+        "address": "Casa del Mig, (Parc de la Espanya Industrial), Carrer de Muntadas, 5",
+        "city": "Barcelona",
+        "state": "",
+        "country": "es",
+        "lat": 41.3765,
+        "lon": 2.1403,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barcelona",
+      "urlname": "rladies-barcelona"
+    }
+  },
+  {
+    "id": "266783453",
+    "title": "Introduction to RMarkdown and friends",
+    "description": "Rmarkdown is a file format & package for making dynamic documents and automatic reports with R.\n\n19:00 - 19:30: \"R Markdown\" short workshop by Sarah Bonnin\n19:30 - 20:30: Short talks of {rmarkdown} related packages, such as: {bookdown}, {pkdown}, {blogdown} or {xaringan}.\n20:30 - 21:00: Drinks & Networking\n\n--> R Markdown\nIn the {rmarkdown} workshop we will learn how to build simple and reproducible reports with {rmarkdown}.\nThe short talks will show you the powerful tools based on {rmarkdown} to produce slides, books, blogs and package documentation.\n\n--> About Sarah Bonnin\nSarah is an R-Ladies Barcelona co-organizer. She did a Bsc in biology and a Msc in bioinformatics in France, before settling down in Barcelona. She currently works as a bioinformatician at the CRG (Center for Genomic Regulation) where she analyzes all kinds of omics data and provides trainings in R, Linux, and Next Generation Sequencing data analysis.\n\nTwitter: https://twitter.com/SarahFBonnin\nLinkedIn: https://www.linkedin.com/in/sarahbonnin/\n\n--> Where?\nTalent Garden Barcelona (Carrer Muntaner 239 3ºA)\n\n--> What do you need to follow this workshop?\n+ B.Y.O.L. (Bring Your Own Laptop - Remember to charge it before the workshop!).\n+ R (>=3.6.0) & RStudio.\n+ R packages: rmardown, ggplot2, dplyr, kableExtra\n\n--> Attending the Meetup\nRemember that in the R-Ladies Meetups we expect to have a majority of R-Ladies, so if you are a man you should come with another R-Lady or invite a non-male friend to the Meetup!\n\nPlaces are limited, book your spot now!!",
+    "status": "PAST",
+    "dateTime": "2019-12-12T19:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-barcelona/events/266783453/",
+    "featuredEventPhoto": {
+      "id": "487134498",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/4/e/2/highres_487134498.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/4/e/2/600_487134498.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/4/e/2/thumb_487134498.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 35,
+      "waitlistCount": 0,
+      "totalCount": 35
+    },
+    "venues": [
+      {
+        "id": "26078449",
+        "name": "Talent Garden Barcelona",
+        "address": "C/ de Ramon Turró, 169",
+        "city": "Barcelona",
+        "state": "CT",
+        "country": "es",
+        "lat": 41.3949,
+        "lon": 2.1482,
+        "postalCode": "08021",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barcelona",
+      "urlname": "rladies-barcelona"
+    }
+  },
+  {
+    "id": "265903175",
+    "title": "Introduction to the Tidyverse",
+    "description": "The {tidyverse} contains a collection of packages providing a set of powerful tools for data wrangling and visualization.\n\n19:00 - 20:30: \"(Teeny-tiny) introduction to the Tidyverse\" workshop by Sarah Bonnin\n20:30 - 21:00: Drinks & Networking (and pizza!)\n\n--> Tidyverse\nIn this workshop we will learn how to use some of the great life-changing functions that the tidyverse packages offer for data processing, filtering and plotting.\n\n--> About Sarah Bonnin\nSarah is an R-Ladies Barcelona co-organizer. She did a Bsc in biology and a Msc in bioinformatics in France, before settling down in Barcelona. She currently works as a bioinformatician at the CRG (Center for Genomic Regulation) where she analyzes all kinds of omics data and provides trainings in R, Linux, and Next Generation Sequencing data analysis.\n\nTwitter: https://twitter.com/SarahFBonnin\nLinkedIn: https://www.linkedin.com/in/sarahbonnin/\n\n--> Where?\nPunt Multimèdia - La Casa del Mig\n\n--> What do you need to follow this workshop?\n+ B.Y.O.L. (Bring Your Own Laptop - Remember to charge it before the workshop!).\n+ R (>=3.6.0) & RStudio.\n+ R packages: tidyverse.\n\n--> Attending the Meetup\nRemember that in the R-Ladies Meetups we expect to have a majority of R-Ladies, so if you are a man you should come with another R-Lady or invite a non-male friend to the Meetup!",
+    "status": "PAST",
+    "dateTime": "2019-11-14T19:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-barcelona/events/265903175/",
+    "featuredEventPhoto": {
+      "id": "486195314",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/b/d/2/highres_486195314.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/b/d/2/600_486195314.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/b/d/2/thumb_486195314.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 48,
+      "waitlistCount": 0,
+      "totalCount": 48
+    },
+    "venues": [
+      {
+        "id": "24608081",
+        "name": "Punt Multimèdia La Casa del Mig",
+        "address": "Casa del Mig, (Parc de la Espanya Industrial), Carrer de Muntadas, 5",
+        "city": "Barcelona",
+        "state": "",
+        "country": "es",
+        "lat": 41.3765,
+        "lon": 2.1403,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barcelona",
+      "urlname": "rladies-barcelona"
+    }
+  },
+  {
+    "id": "264920033",
+    "title": "Improve your plots with ggplot2",
+    "description": "Are your R plots loking kind of sad? Do you want to upgrade your plotting skills? Then it is time to start using ggplot2!\n\n19:00 - 20:30: \"Improve your plots with ggplot2\" workshop by Mireia Ramos-Rodríguez\n20:30 - 21:00: Drinks & Networking\n\n--> Improve your plots with ggplot2\nIn this workshop we will learn the basics of how ggplot2 works and how to easily change the looks of our plots. We will also explore other R packages developed to improve the capabilities of ggplot2: make interactive plots, themes & color palettes, and many more things!\n\n--> About Mireia Ramos-Rodríguez\nMireia is an R-Ladies Barcelona co-organizer. She did a MSc in Bioinformatics and since 2015 is a PhD fellow in Biomedicine and Bioinformatics at IGTP (Badalona, Spain). Mireia studies islet epigenomics in the context of type 1 diabetes but she is also developing and maintaning the Islet Regulome Browser (http://isletregulome.com). She loves cats, videogames, TV shows and - of course - programming!\n\nTwitter: https://twitter.com/mireia_bioinfo\n\n--> Where?\nSala Marie Curie, PRBB, Barcelona\n\n--> What do you need to follow this workshop?\n+ B.Y.O.L. (Bring Your Own Laptop - Remember to charge it before the workshop!).\n+ R (>=3.6.0) & RStudio.\n+ R packages: MORE INFO COMING SOON!\n\n--> Attending the Meetup\nRemember that in the R-Ladies Meetups we expect to have a majority of R-Ladies, so if you are a man you should come with another R-Lady or invite a non-male friend to the Meetup!",
+    "status": "PAST",
+    "dateTime": "2019-10-15T19:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-barcelona/events/264920033/",
+    "featuredEventPhoto": {
+      "id": "485201285",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/1/4/5/highres_485201285.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/1/4/5/600_485201285.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/1/4/5/thumb_485201285.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 53,
+      "waitlistCount": 0,
+      "totalCount": 53
+    },
+    "venues": [
+      {
+        "id": "26634220",
+        "name": "PRBB Parc de Recerca Biomèdica de Barcelona",
+        "address": "C/ del Dr. Aiguader, 88",
+        "city": "Barcelona",
+        "state": "CT",
+        "country": "es",
+        "lat": 41.3852,
+        "lon": 2.1946,
+        "postalCode": "08003",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barcelona",
+      "urlname": "rladies-barcelona"
+    }
+  },
+  {
+    "id": "264502318",
+    "title": "Road to Data Sciece",
+    "description": "Welcome to this new season of R-Ladies Meetups!\n\nAs a inaugural event, we welcome Judit Guimera, an invited R-Lady from London, who will guide is through the Road to Data Science.\n\n19:00 - Introduction to R-Ladies Barcelona\n19:15 - Road to Data Science, by Judit Guimera\n\n--> Road to Data Science\nIn this talk we'll discover what Data Science is and which requirements are needed to get a job in it. We will explore what is like to be a data scientist and how to become one as well as what are the different paths that you can take within data science.\n\n--> About the invited speaker\nJudit Guimera graduated in Aeronautical Engineering at UPC in 2007 and has been working as quality assurance engineer at Bureau Veritas for about 2 years. After moving to London in 2011, she graduated in Air Transport Engineering at City, University of London in 2013 , when she started her PhD in machine learning and data mining applied to air travel forecasting, for which she is pending to submit soon. Judit has worked at Virgin Atlantic Airways for 2 years as a commercial analyst and she has been working as a Data Scientists at Royal Mail for the past year. She loves coding, taking up any challenge and keep learning!\n\n--> Attending the Meetup\nRemember that in the R-Ladies Meetups we expect to have a majority of R-Ladies, so if you are a man you should come with another R-Lady or invite a non-male friend to the Meetup!\n\nHope to see you all there!",
+    "status": "PAST",
+    "dateTime": "2019-09-16T19:00:00+02:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-barcelona/events/264502318/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 27,
+      "waitlistCount": 0,
+      "totalCount": 27
+    },
+    "venues": [
+      {
+        "id": "24608081",
+        "name": "Punt Multimèdia La Casa del Mig",
+        "address": "Casa del Mig, (Parc de la Espanya Industrial), Carrer de Muntadas, 5",
+        "city": "Barcelona",
+        "state": "",
+        "country": "es",
+        "lat": 41.3765,
+        "lon": 2.1403,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barcelona",
+      "urlname": "rladies-barcelona"
+    }
+  },
+  {
+    "id": "259892732",
+    "title": "Introduction to R programming + Version control with Git and RStudio",
+    "description": "Have you always wanted to learn R but never had the chance to do it by yourself? You learned R a long time ago and want to refresh your knowledge? You have some general idea of what is R and how to use some commands but want to have a solid base? This meetup is for all of you!\n\nIf you are already an R guru, our fast talk might interest you: version control with git and RStudio. Because you are not programming unless you git!\n\nPROGRAM\n19:00 -- Welcome and presentations\n\n19:10 -- \"Version control with git and RStudio\", by Maria Noguera (@maria__noguera).\nVersion control is a vital part of the programming and scripting process. Learn how to do it painlessly with git's integration in Rstudio!\n\n19:20 --\" Introduction to R programming\", by Natalia Vilor-Tejedor (@natvilortejedor).\nWe will provide very basic training in preliminary concepts of R programming. R is an open source statistical programming environment that will always be free. It is supported by a worldwide community of statisticians, and generally incorporates the latest developments in statistical methodology. With the knowledge gained in this R-Ladies workshop, you will be ready to undertake your first data analysis. ​ Ready to join this amazing community?\n\nMARIA NOGUERA\nMaria Noguera is a Nanoscientist and Nanotechnologist (UAB) with a MSc in Omics Data Analysis (UVIC-UCC). She works as an editor at MDPI - Open Access (Multidisciplinarity Digital Publishing Institute). Besides, she collaborates at The Scientists Dating Forum (@SciDating) and Pint of science Barcelona (#Pint19BCN).\n\nNATALIA VILOR-TEJEDOR\nNatalia Vilor-Tejedor is a Postdoctoral Research Scientist at the Center for Genomic Regulation (CRG) and BarcelonaBeta Brain Research Center (BBRC). Moreover, Natalia collaborates in teaching activities as an Assistant Professor in the Department of Mathematics at the Autonomous University of Barcelona (UAB), and in the Department of Systems Biology at the University of Vic (UVIC-UCC). She conducted her PhD thesis in the Biomedicine program of Pompeu Fabra University (UPF) at the Barcelona Institute of Global Health (ISGlobal). Her main interests include statistical methods and analytical strategies in Neurogenetics and Imaging Genetics.\n\nLinkedIn: https://www.linkedin.com/in/nat%C3%A0lia-vilor-tejedor-47aa0a66/\n\nREQUIREMENTS\nYou will need to bring:\n- Your own laptop (remember to charge your battery before coming, there are not enough plugs in the room for everyone!).\n- R and RStudio installed (https://cran.r-project.org/ and https://www.rstudio.com/products/rstudio/download/).\n- You can install git in your laptop, but it's not mandatory!\n\nHope to see you all there!",
+    "status": "PAST",
+    "dateTime": "2019-03-28T19:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-barcelona/events/259892732/",
+    "featuredEventPhoto": {
+      "id": "479632446",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/c/d/e/highres_479632446.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/c/d/e/600_479632446.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/c/d/e/thumb_479632446.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 30,
+      "waitlistCount": 0,
+      "totalCount": 30
+    },
+    "venues": [
+      {
+        "id": "24608081",
+        "name": "Punt Multimèdia La Casa del Mig",
+        "address": "Casa del Mig, (Parc de la Espanya Industrial), Carrer de Muntadas, 5",
+        "city": "Barcelona",
+        "state": "",
+        "country": "es",
+        "lat": 41.377,
+        "lon": 2.1405,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barcelona",
+      "urlname": "rladies-barcelona"
+    }
+  },
+  {
+    "id": "258328098",
+    "title": "Relaunch of R-Ladies Barcelona!",
+    "description": "¡Hemos resucitado! ¡Y estamos súper orgullosas de anunciar el primer Meetup de 2019!\n\nEste Meetup tendrá como objetivo tener un primer (o más bien segundo) contacto con la comunidad de R-Ladies Barcelona, para poder planear y organizar los siguientes encuentros. Por ese motivo también hemos creado una pequeña encuesta, para poder recoger las opiniones de todas las R-Ladies, podáis o no asistir a este Meetup. Podéis completarla en el siguiente enlace:\n\nhttps://rladiesbcn1.typeform.com/to/BHpgeS\n\nEl Meetup tendrá lugar el próximo miércoles 13 de febrero a las 19h en nuestra localización habitual, el Espai Multimèdia (Sants). Aquí os dejamos una pequeña descripción de los temas que trataremos:\n\n- Presentación R-Ladies: Qué somos y por qué somos necesarias. Objetivos, ideas y planes para este año.\n- Ideas para este nuevo año: Posibles workshops, fast talks, book clubs, etc.\n- Fast talk: desarrollo de aplicaciones web en Shiny.\n- Turno abierto: preguntas, dudas, comentarios, ideas, etc. ¡Cualquier aportación es bienvenida!\n\nPara esta sesión no será necesario que traigáis vuestro portátil (aunque podéis hacerlo si queréis). Además, repartiremos stickers de R-Ladies para todas las asistentes.\n\n¡Nos vemos en breves!",
+    "status": "PAST",
+    "dateTime": "2019-02-13T19:00:00+01:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-barcelona/events/258328098/",
+    "featuredEventPhoto": {
+      "id": "478474407",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/6/6/7/highres_478474407.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/6/6/7/600_478474407.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/6/6/7/thumb_478474407.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 28,
+      "waitlistCount": 0,
+      "totalCount": 28
+    },
+    "venues": [
+      {
+        "id": "24608081",
+        "name": "Punt Multimèdia La Casa del Mig",
+        "address": "Casa del Mig, (Parc de la Espanya Industrial), Carrer de Muntadas, 5",
+        "city": "Barcelona",
+        "state": "",
+        "country": "es",
+        "lat": 41.3765,
+        "lon": 2.1403,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barcelona",
+      "urlname": "rladies-barcelona"
+    }
+  },
+  {
+    "id": "274527639",
+    "title": "Epidemiología y R - Tributo a Florence Nightingale",
+    "description": "Aunque no es posible reunirnos en persona, la magia de R-Ladies no se detiene y hace posible los encuentros virtuales.\n\nEste meetup-webinar organizado conjuntamente con la Societat Catalana de Estadística (SoCE), y la Sociedad Española de Bioestadística (SEB), quiere homenajear los 200 años del Nacimiento de Florence Nightingale y propone una charla sobre Supervivencia y R.\n\nAl finalizar la sesión se presentarán los equipos ganadores del \"CONCURSO DE ANÁLISIS DE DATOS CON MOTIVO DE LOS 200 AÑOS DEL NACIMIENTO DE FLORENCE NIGHTINGALE\"\n=> https://github.com/rladies/spain_nightingale\n\nOs esperamos!\n\n---\nAgenda:\n\n- Charla \"Supervivencia y R\". PONENTE: Sara Tous. Instituto Catalan de Oncología.\n\n- Entrega de premios \"CONCURSO DE ANÁLISIS DE DATOS CON MOTIVO DE LOS 200 AÑOS DEL NACIMIENTO DE FLORENCE NIGHTINGALE\"\n\n---\n> ORGANIZAN: Rladies, Societat Catalana de Estadística (SoCE), Sociedad Española de Bioestadística (SEB)\n\n> DÓNDE: Evento vía Zoom. Para tener un evento seguro, se debe confirmar la asistencia mediante registro en el siguiente enlace: https://us02web.zoom.us/webinar/register/WN_TFuXp3fvS8aWXT-Llc0xGw\n\n> IDIOMA: El webinario será impartido en español.",
+    "status": "PAST",
+    "dateTime": "2020-11-19T18:30:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-barcelona/events/274527639/",
+    "featuredEventPhoto": {
+      "id": "493490988",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/7/2/c/highres_493490988.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/7/2/c/600_493490988.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/7/2/c/thumb_493490988.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 51,
+      "waitlistCount": 0,
+      "totalCount": 51
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barcelona",
+      "urlname": "rladies-barcelona"
+    }
+  },
+  {
+    "id": "271515495",
+    "title": "Webinario: Cómo hacer una reunión virtual inolvidable (sin morir en el intento)",
+    "description": "Aunque no es posible reunirnos en persona, la magia de R-Ladies no se detiene y hace posible los encuentros virtuales. En este meetup te contaremos algunos trucos y herramientas para que cualquier evento virtual interactivo (por ejemplo, clase, taller o panel online) sea un éxito sin estrés adicional al hacerlo. Si organizas meetups de R-Ladies, encontrarás dónde y cómo acceder a la infraestructura que te permitirá organizar meetups online para tu capítulo. Si no organizas meetups de R-Ladies, también encontrarás material útil para todo tipo de evento online que organices o del que participes.\n\nEstos contenidos nos los traen R-Ladies latinoamericanas, en su mayoría certificadas para enseñar por RStudio Education y The Carpentries. La mayoría también es parte de MetaDocencia, una organización que desde fines de marzo realizó más de 25 talleres interactivos enseñando a enseñar online a más de 300 docentes hispanohablantes con excelentes resultados. Todas tienen vasta experiencia teletrabajando y enseñando online.\n\n> ORADORA: Yanina Bellini Saibene y Paola Corrales.\n> ORGANIZAN: Laura Ación, Yanina Bellini Saibene, Paola Corrales, Patricia Loto y Paloma Rojas.\n> DÓNDE: Evento vía Zoom. Para tener un evento seguro, el link de acceso al evento lo recibirán quienes confirmen su asistencia via RSVP de meetup.com el día del evento.\n> IDIOMA: El webinario será impartido en español.",
+    "status": "PAST",
+    "dateTime": "2020-07-01T19:00:00+02:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-barcelona/events/271515495/",
+    "featuredEventPhoto": {
+      "id": "491011379",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/a/9/3/highres_491011379.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/a/9/3/600_491011379.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/a/9/3/thumb_491011379.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 26,
+      "waitlistCount": 0,
+      "totalCount": 26
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barcelona",
+      "urlname": "rladies-barcelona"
+    }
+  },
+  {
+    "id": "267666359",
+    "title": "Sanofi and Data Science: Forecasting, what and how",
+    "description": "In this talk we will explore what it’s like to be a Statistical Forecaster at Sanofi and how to apply statistical and machine learning methods to timeseries data.\n\n19:00 - 20:30: “Sanofi and Data Science: Forecasting, what and how” workshop by Alexandra Abós\n20:30 - 21:00: Pica-pica & Networking\n\n**WARNING** The registration for this event is done through eventbrite. Please register at the following link or you will not be granted a space: https://www.eventbrite.es/e/entradas-sanofi-and-data-science-forecasting-what-and-how-88399524357\n\n--> About Time Series Forecasting\nTime Series forecasting is a hot topic in the pharma industry. However, what do we understand as time series? What are the most recent trends in the market and requirements to analyze this data? How does a top tier pharmaceutical company use time series for sales forecasting?\n\nIf you’re eager to know the answer to these questions, please join our next meet-up event!\n\n**WARNING** The registration for this event is done through eventbrite. Please register at the following link or you will not be granted a space: https://www.eventbrite.es/e/entradas-sanofi-and-data-science-forecasting-what-and-how-88399524357\n\n--> About Alexandra Abos\nAlexandra graduated in Biomedical Engineering at UB in 2015 and has a PhD in machine learning and graph theory applied to medical imaging. She is currently working as Statistical Forecaster at the pharmaceutical company Sanofi where she focuses on time series forecasting.\n\n--> Where?\nSanofi Offices (Meridian Building, Carrer de Rosselló i Porcel, 21, 08016 Barcelona)\n\n--> What do you need to follow this workshop?\nThis is a talk, not a workshop so you don't need to bring anything more than your curiosity!\n\n--> Attending the Meetup\nRemember that in the R-Ladies Meetups we expect to have a majority of R-Ladies, so if you are a man you should come with another R-Lady or invite a non-male friend to the Meetup!\n\n**WARNING** The registration for this event is done through eventbrite. Please register at the following link or you will not be granted a space: https://www.eventbrite.es/e/entradas-sanofi-and-data-science-forecasting-what-and-how-88399524357\n\nPlaces are limited, book your spot now!!",
+    "status": "PAST",
+    "dateTime": "2020-01-21T19:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-barcelona/events/267666359/",
+    "featuredEventPhoto": {
+      "id": "487903801",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/b/1/9/highres_487903801.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/b/1/9/600_487903801.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/b/1/9/thumb_487903801.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 40,
+      "waitlistCount": 0,
+      "totalCount": 40
+    },
+    "venues": [
+      {
+        "id": "26796307",
+        "name": "Sanofi España",
+        "address": "C/ de Rosselló i Pòrcel, 21",
+        "city": "Barcelona",
+        "state": "CT",
+        "country": "es",
+        "lat": 41.4367,
+        "lon": 2.1808,
+        "postalCode": "08016",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barcelona",
+      "urlname": "rladies-barcelona"
+    }
+  },
+  {
+    "id": "282272114",
+    "title": "Model tasting with Tidymodels",
+    "description": "Hi everyone!\n\nWe are back in December with a virtual talk/workshop called \"Model tasting with Tidymodels\" by Maria Dermit, on Thursday 2nd of December at 18:30!\nYou can install the tidymodels framework packages before the event (install.packages(\"tidymodels\"))\n\nNote that you will receive the password to connect to the event approximately one hour before the session starts.\n\n--------\n\nAbout the speaker:\n\nMaria is a computational biologist at Bitbio (Cambridge, UK). She is a former postdoctoral research scientist in biomedicine at Queen Mary University of London. She uses data science to extract valuable information from big datasets produced in the laboratory, with the aim to advance cancer research. Starting from a biochemistry and bioinformatics background, Maria became passionate about mentoring, promoting the power of R, and using it in creative ways to connect with others.\n\n--------",
+    "status": "PAST",
+    "dateTime": "2021-12-02T18:30:00+01:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-barcelona/events/282272114/",
+    "featuredEventPhoto": {
+      "id": "500417989",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/6/4/5/highres_500417989.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/6/4/5/600_500417989.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/6/4/5/thumb_500417989.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 47,
+      "waitlistCount": 0,
+      "totalCount": 47
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barcelona",
+      "urlname": "rladies-barcelona"
+    }
+  },
+  {
+    "id": "281485131",
+    "title": "Oliver Wyman Digital and Analytics for RLadies.",
+    "description": "Hello everyone!\n\nAfter a long summer break, we will start with a joined meetup with R-ladies Madrid and R-ladies Italy, organized by the company Oliver Wyman.\nOliver Wyman is a consulting company soon starting to recruit in Spain and Italy, looking for feminine talents...\n\nThe event will happen in a few days, on Thursday 21rst of October at 18:30: Description of the event and introduction to the speakers below.\n\nNote that you will need to register using the following link (not only through meetup!) to get the Zoom invite:\nhttps://owg.zoom.us/meeting/register/tJYsf-uqqTojGNQx_Xhh-vdnWyt1q8GynGVN\n\n--------\n\nDESCRIPTION\n\nOliver Wyman Digital&Analytics team will share how they deliver breakthrough impact through advanced analytics.\n\nAgenda:\n\n* 18:30 Opening and Data&Analytics team introduction by Sian Townson (Director)\n* 18:40 Advanced analytics project presentation by Oliver Wyman Data&Analytics team\n* 19:10 Short presentation of Oliver Wyman Data&Analytics open opportunities\n* 19:20 Q&A session\n\nSpeakers:\n\n* Sian Townson is a Director in Data and Analytics, a specialist division of Oliver Wyman’s Digital practice. She has over 20 years of experience in modelling and validation, specialising in machine learning. Sian has led a number of large-scale model build and validation projects, and is particularly in demand for advanced machine learning validation, and addressing bias and fairness.\n\n* Teneeka May is a Senior Analyst in Data and Analytics, a specialist division of Oliver Wyman’s Digital practice. In addition to her work in the Oliver Wyman Digital team, Teneeka founded a new branch of the firm’s women’s network that focusses on developing, inspiring, and building community among the women working in this male-dominated sector.\n\nOutside of work, Teneeka has an interest in social impact and has volunteered her skills with an organisation that supports other charities to generate operational insight from their existing data. In 2021, she was also recognised as a Rising Star in Digital by WeAreTheCity.\n\n--------",
+    "status": "PAST",
+    "dateTime": "2021-10-21T18:30:00+02:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-barcelona/events/281485131/",
+    "featuredEventPhoto": {
+      "id": "499548447",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/d/3/f/highres_499548447.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/d/3/f/600_499548447.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/d/3/f/thumb_499548447.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 13,
+      "waitlistCount": 0,
+      "totalCount": 13
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barcelona",
+      "urlname": "rladies-barcelona"
+    }
+  },
+  {
+    "id": "278040418",
+    "title": "Paseo aleatorio por la programación (en femenino) + El ingenio (in)visible",
+    "description": "¡Bienvenidas al meetup virtual de junio! En esta ocasión tenemos dos charlas por Natàlia Vilor-Tejedor y Núria Salán. No nos hablarán de R, sino de mujeres cientificas!\n\n\"Paseo aleatorio por la programación (en femenino)\" por Natàlia Vilor Tejedor (@natvilortejedor): ~ 15 minutos\n\n\"El ingenio (in)visible\" Núria Salán (@nuriasalann): ~ 45 minutos\n\n*Recordad que para acceder a la charla necesitaréis una contraseña que os enviaremos 1 hora antes del evento.\n\nA continuación os dejamos la descripción de las charlas y las biografías de las speakers. ¡Nos vemos pronto!\n\n--------------------------------------\nNatàlia Vilor Tejedor (@natvilortejedor): \"Paseo aleatorio por la programación (en femenino)\" ~ 15 minutos\n\nBiografía:\n\"\nNatalia Vilor-Tejedor is a Postdoctoral Research Scientist at BarcelonaBeta Brain Research Center (BBRC), the Center for Genomic Regulation (CRG) and the Erasmus University Medical Center (EMC). Moreover, Natalia collaborates in teaching activities as an Assistant Professor in the Department of Mathematics at the Autonomous University of Barcelona (UAB), and in the Department of Systems Biology at the University of Vic (UVIC-UCC). She conducted her PhD thesis in the Biomedicine program of Pompeu Fabra University (UPF) at the Barcelona Institute of Global Health (ISGlobal). Her main interests include statistical methods and analytical strategies in Neurogenetics and Imaging Genetics.\nLinkedIn: https://www.linkedin.com/in/nat%C3%A0lia-vilor-tejedor-47aa0a66/\n\"\n\n----------------------------------------\nNúria Salán (@nuriasalann): \"El ingenio (in)visible\" ~ 45 minutos\n\nInventoras que no salen en los libros de texto, nombres de mujeres que han hecho, consus inventos y descubrimientos, que nuestra vida sea más fácil, más cómoda, más amable... pero siguen siendo desconocidas. En cambio, los nombres de los inventores salen en los libros y son visibles. Charla para dar visibilidad a todas esas ingeniosas/ingenieras/inventoras desconocidas pero que forman parte de nuestra historia.\n\nBiografía:\n\"\nProfesora de metalurgia en la ESEIAAT (UPC-Terrassa), y presidenta de la Societat Catalana de Tecnología, he dedicado las dos últimas décadas a rescatar nombres y viencias de mujeres de todas las épocas y lugares para hacerlas visibles y que puedan tener el reconocimiento que merecen. Así, aunque mantengo mi perfil técnico, mi actividad personal y profesional, últimamente, está más relacionada con mostrar la cara más humana (y femenina) de la tecnología. Curiosidades sobre mi: soy forjadora aficinada, pastelera aficionada y novelista aficionada. Y con aficionada quiero decir que lo hago (creo) bien, pero no me dedico profesionalmente.\n\"",
+    "status": "PAST",
+    "dateTime": "2021-06-29T18:30:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-barcelona/events/278040418/",
+    "featuredEventPhoto": {
+      "id": "496911633",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/9/b/1/highres_496911633.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/9/b/1/600_496911633.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/9/b/1/thumb_496911633.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 30,
+      "waitlistCount": 0,
+      "totalCount": 30
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barcelona",
+      "urlname": "rladies-barcelona"
+    }
+  },
+  {
+    "id": "278040182",
+    "title": "Taller: \"Introducción a targets\"",
+    "description": "¡Bienvenidas al meetup virtual de mayo! En esta ocasión tenemos preparado un taller:\n\n\"Introducción a targets\", por Irene Cruz (@irene_cruzgomez)\n\n*Recordad que para acceder a la charla necesitaréis una contraseña que os enviaremos 1 hora antes del evento.\n\nA continuación os dejamos la descripción del taller. ¡Nos vemos pronto!\n\n-------------------------------------\n\nDescripción del taller:\n\nEn este taller se hace una presentación de las estrategias de canalización de flujos de trabajo (workflow pipelines) usando el paquete targets.\n\nEn la primera parte del taller se explica cómo la estructuración del código en pipelines es el mejor modo de garantizar la reproducibilidad de nuestros resultados y de aliviar la carga mental que supone la organización de un proyecto complejo con diversas piezas interdependientes. Esta metodología de trabajo nos va a permitir reproducir el código sin repetir los pasos ya completados, ejecutar cálculos con computación paralela cuando sea necesario, y guardar un registro ordenado de los distintos objetos creados.\n\nEn la segunda parte del taller se realizará un ejemplo guiado del uso de targets y se presentarán algunos tips para sacarle el máximo partido, como usar branching, introducir revisiones automáticas de resultados, o estrategias para depurar código.\n\nRequisitos: el taller supone cierta familiaridad previa con el código de R y con la definición de funciones.\n\n-------------------------------------\n\nSobre Irene Cruz:\n\nHola! Me llamo Irene Cruz, soy doctora en Sociología por la UAB. Trabajo como metodóloga en el IERMB y como profesora asociada de métodos y técnicas de investigación en la UAB.",
+    "status": "PAST",
+    "dateTime": "2021-05-25T18:00:00+02:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-barcelona/events/278040182/",
+    "featuredEventPhoto": {
+      "id": "496263856",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/f/1/0/highres_496263856.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/f/1/0/600_496263856.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/f/1/0/thumb_496263856.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 35,
+      "waitlistCount": 0,
+      "totalCount": 35
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barcelona",
+      "urlname": "rladies-barcelona"
+    }
+  },
+  {
+    "id": "277703226",
+    "title": "\"Build your portfolio website with R+Shiny\"",
+    "description": "¡Bienvenidas al meetup virtual de abril! En esta ocasión tenemos preparado un taller:\n\n\"Build your portfolio website with R+Shiny\", por Xisca Pericàs (@XiscaPericas).\n\n*Recordad que para acceder a la charla necesitaréis una contraseña que os enviaremos 1 hora antes del evento.\n\nA continuación os dejamos la descripción del taller. ¡Nos vemos pronto!\n\n> \"Build your portfolio website with R+Shiny\"\nThe aim of the talk is to give an overview on how R+Shiny can be used to build your own webpage (or any other app).\nThe talk is splitted in two parts:\nThe first one will be focused on reviewing the basics of Shiny development, sharing resources that I have used to build my own website (and others app) and discussing methods to deploy the apps we build.\nThe second part of the talk is a small demo where we will be building a simple Shiny App (using R+Shiny) and we will deployed it using shinyapps.io\nIf you want to do the practical part, you should have RStudio and the {shiny} package installed\n\n> Sobre Xisca Pericàs\nHi there! I'm Xisca Pe and I'm a Senior Data Scientist from Mallorca (Spain). Currently I'm working as a product researcher in a software company, but I have also been involved in projects related with e-commerce and consultancy.\nDuring the past five years I have joined several data/hackathons around Spain focused on a wide variety of topics such as building a recommender for banks environment or weather prediction.\nBeyond my data-projects, I love books, music and cats.",
+    "status": "PAST",
+    "dateTime": "2021-04-29T18:00:00+02:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-barcelona/events/277703226/",
+    "featuredEventPhoto": {
+      "id": "495980466",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/f/f/2/highres_495980466.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/f/f/2/600_495980466.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/f/f/2/thumb_495980466.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 69,
+      "waitlistCount": 0,
+      "totalCount": 69
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barcelona",
+      "urlname": "rladies-barcelona"
+    }
+  },
+  {
+    "id": "276906568",
+    "title": "Promoviendo el uso de R + Cómo escribir la tesis con R y no morir en el intento",
+    "description": "¡Bienvenidas al meetup virtual de marzo! En esta ocasión tenemos preparadas dos charlas de corta/mediana duración:\n\n1/ \"Promoviendo el uso de R de Buenos Aires a Barcelona\", por Marilina Santero.\n\n2/ \"Cómo escribir tu tesis con R y {bookdown} y no morir en el intento\", por Mireia Ramos.\n\nA continuación os dejamos la descripción de las charlas. ¡Nos vemos pronto!\n\n> \"Promoviendo el uso de R de Buenos Aires a Barcelona\"\nCharla sobre una experiencia personal con R para inspirar a nuevos usuarios y usuarias. Hablaremos sobre comunidades, eventos y oportunidades para construir una red global colaborativa de estudiantes de R que faciliten el progreso individual y colectivo.\nAdemás, profundizaremos sobre cómo hacer para difundir y motivar el uso de R en el ámbito de la epidemiología y la investigación en salud.\n\n> Sobre Marilina Santero\n@SanteroMarilina es médica epidemióloga, magister en Efectividad Clínica por la Universidad de Buenos Aires. Actualmente es investigadora en @CochraneIberoam @iibsantpau y realiza su PhD en Metodología de la Investigación y Salud Pública en @uabbarcelona. Trabaja en un proyecto multicéntrico para mejorar el grado de adecuación de la quimioterapia prescrita al final de la vida. Además, participa en diferentes proyectos de evaluación de procesos y resultados de los servicios sanitarios.\n\n> \"Cómo escribir tu tesis con R y {bookdown} y no morir en el intento\"\nEscribir la tesis doctoral (o cualquier otra) ya es un reto en sí mismo. En esta charla aprenderás como servirte de {rmarkdown} y {bookdown} para hacer el proceso lo más automático y poco doloroso posible.\n\n> Sobre Mireia Ramos\nMireia Ramos (@mireia_bioinfo) es co-organizadora de R-Ladies Barcelona y doctora en biomedicina. Trabaja como investigadora bioinformática en regulación genómica en la Universitat Pompeu Fabra de Barcelona.",
+    "status": "PAST",
+    "dateTime": "2021-03-18T18:00:00+01:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-barcelona/events/276906568/",
+    "featuredEventPhoto": {
+      "id": "495151122",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/9/9/2/highres_495151122.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/9/9/2/600_495151122.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/9/9/2/thumb_495151122.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 45,
+      "waitlistCount": 0,
+      "totalCount": 45
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barcelona",
+      "urlname": "rladies-barcelona"
+    }
+  },
+  {
+    "id": "292722344",
+    "title": "R-Ladies @ BSC |  Tools for Climate Forecasting & AI for Cancer Immunotherapy",
+    "description": "Join us for an amazing workshop, co-organized with BarcelonaR, at the Barcelona Supercomputing Centre!\n\n**Programme**\n*18:30* -> Introduction of R-Ladies Barcelona and BarcelonaR user group.\n18:40 -> \"Collaborative R tools for Climate Forecast Analysis by HPC\" (An-Chi Ho and Eva Rifà)\n19:00 -> \"AI in R: PredIG an explainable XGBoost predictor for cancer immunotherapy\" (Roc Farriol-Duran)\n\n**\"Collaborative R tools for Climate Forecast Analysis by HPC\"** (An-Chi and Eva)\nA large amount of data is used in the study of climate. This is why the use of HPC is necessary to carry out the analysis and processing of climate data. In addition, multidisciplinary workflows require the use of shared tools that originate collaboration between scientists and engineers. The talk presents some R packages developed within the Computational Earth Sciences group of the Barcelona Supercomputing Center (BSC-CNS). It also highlights how collaboration between climate scientists and data engineers using R tools can improve our understanding of climate patterns and lead to better predictions. The use of HPC can speed up calculations and enable the handling of large data sets, making it a valuable tool in climate analysis and prediction.\n\n**\"AI in R: PredIG an explainable XGBoost predictor for cancer immunotherapy\"** (Roc)\nAI in R is (of course) possible. XGBoost is a state-of-the-art algorithm (Kaggle winner, specially working on tabular data) based on gradient boosting and decision trees that is fully implemented in R (R-package: “xgboost”). Here, we will show an implementation on a biomedical research question: how to predict the immune response against a tumor (and its mutations)?. This case will allow us to focus on a binary classification problem with extreme class imbalance (due to the nature of real patient data) and how (re)tuning XGBoost to deal with imbalance can make it work.\n\n*Language*: English\n\n*Requirements*: There are no specific requirements.",
+    "status": "PAST",
+    "dateTime": "2023-04-20T18:30:00+02:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-barcelona/events/292722344/",
+    "featuredEventPhoto": {
+      "id": "511993433",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/4/7/9/highres_511993433.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/4/7/9/600_511993433.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/4/7/9/thumb_511993433.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 35,
+      "waitlistCount": 0,
+      "totalCount": 35
+    },
+    "venues": [
+      {
+        "id": "26056230",
+        "name": "Barcelona Supercomputing Center - Centre Nacional de Supercomputació",
+        "address": "Plaça d'Eusebi Güell, 1-3",
+        "city": "Barcelona",
+        "state": "CT",
+        "country": "es",
+        "lat": 41.3899,
+        "lon": 2.1154,
+        "postalCode": "08034",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barcelona",
+      "urlname": "rladies-barcelona"
+    }
+  },
+  {
+    "id": "290975967",
+    "title": "Re-Launch Event R-Ladies & BarcelonaR |  R for Geospatial Data Sience",
+    "description": "R-Ladies Barcelona is back! And for this re-launch event we are joining forces with the BarcelonaR user group! Join us for an amazing workshop, a fun group dynamic and a networking session over some drinks!\n\n**Programme**\n*18:30* -> Introduction of **R-Ladies Barcelona** and **BarcelonaR** user group. We're back!\n18:45 -> \"R for Geospatial Data Sience\" by Paula Moraga PhD\n20:00 -> Group dynamic & networking over some drinks!\n\n**R for Geospatial Data Science**\nGeospatial health data are essential to inform public health and policy. These data can be used to quantify disease burden, understand geographic and temporal patterns, identify risk factors and measure inequalities. In this tutorial, I will give an overview of statistical methods and R packages for geospatial data analysis and health surveillance. I will demonstrate how to develop spatial models using R-INLA package. I will also show how to create interactive data visualizations and maps, and introduce presentation options such as flexdashboards and Shiny web applications that facilitate the communication of insights to collaborators and policy makers. The tutorial materials are based on the book \"Geospatial Health Data: Modeling and Visualization with R-INLA and Shiny\" by Paula Moraga (2019, Chapman & Hall/CRC Biostatistics Series) which is freely available at [https://paula-moraga.github.io/book-geospatial/…](https://t.co/Ze22PuuiJB)\n*Language*: English\n*Requirements*: Participants should bring their laptops with R and RStudio installed. They should also install the following R packages: install.packages(c(\"sf, \"sp\", \"spdep\", \"raster\", \"rgdal\", \"rgeos\", \"ggplot2\", \"leaflet\", \"dplyr\", \"SpatialEpi\")) install.packages(\"INLA\", repos = \"[https://inla.r-inla-download.org/R/stable](https://t.co/QgtPyEY0x4)\", dep = TRUE)",
+    "status": "PAST",
+    "dateTime": "2023-01-25T18:30:00+01:00",
+    "duration": "PT2H30M",
+    "eventUrl": "https://www.meetup.com/rladies-barcelona/events/290975967/",
+    "featuredEventPhoto": {
+      "id": "509924493",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/d/c/d/highres_509924493.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/d/c/d/600_509924493.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/d/c/d/thumb_509924493.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 22,
+      "waitlistCount": 0,
+      "totalCount": 22
+    },
+    "venues": [
+      {
+        "id": "26634220",
+        "name": "PRBB Parc de Recerca Biomèdica de Barcelona",
+        "address": "C/ del Dr. Aiguader, 88",
+        "city": "Barcelona",
+        "state": "CT",
+        "country": "es",
+        "lat": 41.3854,
+        "lon": 2.1945,
+        "postalCode": "08003",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barcelona",
+      "urlname": "rladies-barcelona"
+    }
+  }
+]

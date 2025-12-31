@@ -1,0 +1,527 @@
+[
+  {
+    "id": "244763763",
+    "title": "Fouille de textes avec R: expression régulier.",
+    "description": "Dans ce meetup le theme est la fouille de textes. Une presentation sur comme manipuler de textes avec le function basic de R (grep, grepl, etc...) et avec le package stringr (https://cran.r-project.org/web/packages/stringr/vignettes/stringr.html) serait fait. Nous verrons comment extraire de valeur numérique et des tables dans un text. La presentation serait fait par Rita Giordano.\n\nFor this meetup will be presented a talk on how to manipulate string with R using the basic function as grep and the packages stringr (https://cran.r-project.org/web/packages/stringr/vignettes/stringr.html). We will see how to extract numerical value and tables from a text file. The presentation will be performed by Rita Giordano.",
+    "status": "PAST",
+    "dateTime": "2017-11-22T18:30:00+01:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-strasbourg/events/244763763/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 7,
+      "waitlistCount": 0,
+      "totalCount": 7
+    },
+    "venues": [
+      {
+        "id": "5560022",
+        "name": "Epitech",
+        "address": "4 rue du Dome",
+        "city": "Strasbourg",
+        "state": "",
+        "country": "fr",
+        "lat": 48.5838,
+        "lon": 7.7496,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Strasbourg",
+      "urlname": "rladies-strasbourg"
+    }
+  },
+  {
+    "id": "243719055",
+    "title": "R-Ladies Strasbourg Introductory meetup",
+    "description": "In this meetup R-Ladies Global will be introduced, which is a global organisation of woman programming in R. I will also talk about the local R-Ladies Strasbourg and we will discuss about what we would like to talk for the future meetings. Before the meeting could you please take 5 minutes to take this survey (https://docs.google.com/forms/d/e/1FAIpQLSenZZnX_Go5gauWlMrc_kjIHs52fq73LsNhY314QggTKkZsww/viewform)?\n\nDans ce meetup nous allons faire une introduction sur R-Ladies Global, une association des femmes dans la programmation R. Une presentation sur l'association locale R-Ladies Strasbourg sera fait. Pourriez vouz completer une questionnaire (https://docs.google.com/forms/d/e/1FAIpQLSenZZnX_Go5gauWlMrc_kjIHs52fq73LsNhY314QggTKkZsww/viewform) avant le meetup, s'il vous plait?",
+    "status": "PAST",
+    "dateTime": "2017-10-30T18:00:00+01:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-strasbourg/events/243719055/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "5560022",
+        "name": "Epitech",
+        "address": "4 rue du Dome",
+        "city": "Strasbourg",
+        "state": "",
+        "country": "fr",
+        "lat": 48.5838,
+        "lon": 7.7496,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Strasbourg",
+      "urlname": "rladies-strasbourg"
+    }
+  },
+  {
+    "id": "255348307",
+    "title": "Fluctuat nec mergitur - comment être un·e utilisateur·rice de R résistant·e",
+    "description": "Travailler avec R peut parfois être douloureux : erreurs dans le code, procédés un peu trop compliqués, etc. Dans cette présentation je donnerai des éléments pour réduire votre frustration liée à R en vous aidant à 1) rester informé·e·s 2) mieux gérer vos questions et bogues. Pendant la présentation je vous montrerai comment utiliser les paquets reprex et gistr pour bien poser vos questions. J'espère aussi partager autour de *vos* stratégies pour être un·e utilisateur·rice de R bien informé·e et résistant·e !\n\nPresentation par Maëlle Salmom: masalmon.eu\n\nWorking with R can involve some pain: errors in scripts, cumbersome workflows, etc. In this talk I shall give tips for reducing your overall frustration with R by helping you 1) stay informed and 2) better deal with your questions&bugs. The talk will feature a live demonstration of the reprex and gistr packages for efficient question asking. I also hope to hear about *your* strategies to be a well-informed, resilient R user!",
+    "status": "PAST",
+    "dateTime": "2018-10-26T18:30:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-strasbourg/events/255348307/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 11,
+      "waitlistCount": 0,
+      "totalCount": 11
+    },
+    "venues": [
+      {
+        "id": "5560022",
+        "name": "Epitech",
+        "address": "4 rue du Dome",
+        "city": "Strasbourg",
+        "state": "",
+        "country": "fr",
+        "lat": 48.5838,
+        "lon": 7.7496,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Strasbourg",
+      "urlname": "rladies-strasbourg"
+    }
+  },
+  {
+    "id": "254660877",
+    "title": "Outils et modèles statistiques pour l'allocation dynamique",
+    "description": "Lorsqu'un utilisateur (par exemple un médecin) doit réaliser un choix entre une ancienne et une nouvelle solution (par exemple un vaccin), il faut déterminer le plus vite possible si le nouveau produit doit être adopté ou l'ancien maintenu. Toute erreur se traduirait en pertes (comme par exemple des pertes humaines). Cette problématique peut également se retrouver dans de nombreux secteurs, comme par exemple la publicité en ligne (où l'utilisateur doit mettre en place deux publicités différentes) ou la finance.\nCependant, il est nécessaire de collecter suffisamment de données pour trouver la meilleure solution (explorer) avant de pouvoir la mettre en production (c'est-à-dire exploiter).\nLes algorithmes de bandits ont été introduits pour répondre à ce genre de problématique : à quel moment dois-je stopper mon exploration pour démarrer mon exploitation?\nAutrement dit : comment trouver la meilleure solution tout en minimisant les pertes?\n\nEmmanuelle Claeys est doctorante à l'Universite de Strasbourg. http://www.emmanuelle-claeys.com/\n\nProgramme de la soirée:\n18:30 Accueil\n18:40 Presentation par Emmanuelle Claeys\n19:10 Discussions",
+    "status": "PAST",
+    "dateTime": "2018-09-24T18:30:00+02:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-strasbourg/events/254660877/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 9,
+      "waitlistCount": 0,
+      "totalCount": 9
+    },
+    "venues": [
+      {
+        "id": "5560022",
+        "name": "Epitech",
+        "address": "4 rue du Dome",
+        "city": "Strasbourg",
+        "state": "",
+        "country": "fr",
+        "lat": 48.5838,
+        "lon": 7.7496,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Strasbourg",
+      "urlname": "rladies-strasbourg"
+    }
+  },
+  {
+    "id": "251266214",
+    "title": "Statistics et analyse de données avec R",
+    "description": "Myriam Maumy-Bertrand, enseignant chercheur à l’IRMA et membre de CEMOSIS, nous parlera de comment elle se sert du logiciel R pour rendre la statistique mathématique vivante (si la statistique peut vivre…)\nA travers des exemples de la vie quotidienne et des jeux de données, elle abordera quelques fonctions de R et quelques packages incontournables si on veut faire de l’analyse de données dans le monde du Big Data.",
+    "status": "PAST",
+    "dateTime": "2018-06-27T18:30:00+02:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-strasbourg/events/251266214/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "5560022",
+        "name": "Epitech",
+        "address": "4 rue du Dome",
+        "city": "Strasbourg",
+        "state": "",
+        "country": "fr",
+        "lat": 48.5838,
+        "lon": 7.7496,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Strasbourg",
+      "urlname": "rladies-strasbourg"
+    }
+  },
+  {
+    "id": "248191826",
+    "title": "Table ronde sur l'experience avec R et presentation sur \"Women in Data science\".",
+    "description": "Une courte presentation sur le conference \"Women in Data Science\" à Zurich (https://www.wids.ch), sera fait par Camille Beluffi docteur en Physique et consultante chez Amaris.\nApres il y aura un table ronde sur la programmation R.\n\nA short presentation about the conference \"Women in Data Science\" in Zurich (https://www.wids.ch), will be presented by Camille Beluffi PhD in Physics and consultant for Amaris.\nAfter there will be a discussion about R programming.",
+    "status": "CANCELLED",
+    "dateTime": "2018-03-28T18:30:00+02:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-strasbourg/events/248191826/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "5560022",
+        "name": "Epitech",
+        "address": "4 rue du Dome",
+        "city": "Strasbourg",
+        "state": "",
+        "country": "fr",
+        "lat": 48.5838,
+        "lon": 7.7496,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Strasbourg",
+      "urlname": "rladies-strasbourg"
+    }
+  },
+  {
+    "id": "265746741",
+    "title": "Modélisation statistique : exemple pratique avec R et RShiny",
+    "description": "L'objectif de cet exposé est de présenter à travers des exemples concrets des méthodes d'analyses exploratoires et de modélisations. De votre menu fast-food à la répartition des tâches domestiques, venez découvrir les secrets cachés des données !",
+    "status": "PAST",
+    "dateTime": "2019-11-08T18:30:00+01:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-strasbourg/events/265746741/",
+    "featuredEventPhoto": {
+      "id": "485834140",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/7/3/c/highres_485834140.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/7/3/c/600_485834140.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/7/3/c/thumb_485834140.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 7,
+      "waitlistCount": 0,
+      "totalCount": 7
+    },
+    "venues": [
+      {
+        "id": "26185979",
+        "name": "Epitech Strasbourg",
+        "address": "4 Rue du Dôme",
+        "city": "Strasbourg",
+        "state": "",
+        "country": "fr",
+        "lat": 48.5836,
+        "lon": 7.7501,
+        "postalCode": "67000",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Strasbourg",
+      "urlname": "rladies-strasbourg"
+    }
+  },
+  {
+    "id": "261714478",
+    "title": "Données en grande dimension et médecine de précision : promesses  et défis.",
+    "description": "Presentation par Chloé-Agathe Azencott\nAbstract :\nDeux patients présentant les mêmes symptômes n'ont pas nécessairement la même maladie, au sens ou celle-ci peut évoluer de manière très différente, et qu'un même traitement peut avoir des effets très différents. De ce constat est née la médecine personalisée, ou médecine de précision, qui vise à aussi adapter la stratégie thérapeutique aux spécificités des patients. Or ces différences entre patients\ns'expliquent en partie par des différences génomiques. Mettre en œuvre\nla médecine de précision requiert donc d'identifier, dans des jeux de\ndonnées génomiques, les variables associées à la présence d'une maladie, à son évolution, ou à une réponse thérapeutique.\n\nCependant, ces jeux de données comportent fréquemment largement plus de variables (pouvant aller jusqu'à la dizaine de millions) que\nd'échantillons (plus classiquement de l'ordre de quelques milliers), ce\nqui pose des problèmes tant calculatoires que statistiques.\n\nDans cet exposé, je présenterai comment utiliser des connaissances a\npriori sur la structure des variables, qu'il s'agisse de contraindre la\nsélection de variables grâce à des réseaux biologiques, ou pour tenir\ncompte des corrélations entre régions du génome, pour répondre à ces\ndifficultés.\n\nChloé-Agathe Azencott est chercheur au Centre for Computational Biology (CBIO) de Mines ParisTech, Institut Curie and INSERM. Elle est aussi co-fondatrice de Woman in Machine Learning and data Science de Paris.\nhttps://cazencott.info\nhttp://wimlds.org/about-the-paris-team/",
+    "status": "PAST",
+    "dateTime": "2019-06-14T18:30:00+02:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-strasbourg/events/261714478/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 8,
+      "waitlistCount": 0,
+      "totalCount": 8
+    },
+    "venues": [
+      {
+        "id": "26185979",
+        "name": "Epitech Strasbourg",
+        "address": "4 Rue du Dôme",
+        "city": "Strasbourg",
+        "state": "",
+        "country": "fr",
+        "lat": 48.5836,
+        "lon": 7.7501,
+        "postalCode": "67000",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Strasbourg",
+      "urlname": "rladies-strasbourg"
+    }
+  },
+  {
+    "id": "261210037",
+    "title": "Analyse en Composant Principal (ACP) et cluster avec le package FactoMineR",
+    "description": "FactoMineR est un package R dédié aux analyses factorielles. Durant ce meet up, Nancy Rebout va nous montrer comment effectuer une analyse en composantes principales (ACP) suivie d'une classification hiérarchique ascendante en utilisant FactoMineR sur une interface tout particulièrement \"user friendly\". Il suffit de cliquer sur les boutons ! Elle nous présentera également les deux packages liés à FactoMineR que sont Factoshiny et FactoInvestigate, deux packages qui valent la peine d'être connus et vous feront gagner un temps non négligeable.\n\nNancy Rebout est doctorante en comportement animal et étudie plus spécifiquement la complexité des vocalisations chez différentes espèces de macaques. Nancy travaille également à mi temps dans une société privée où elle effectue de la modélisation dans le domaine de l'écologie.",
+    "status": "PAST",
+    "dateTime": "2019-05-14T18:30:00+02:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-strasbourg/events/261210037/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 7,
+      "waitlistCount": 0,
+      "totalCount": 7
+    },
+    "venues": [
+      {
+        "id": "5560022",
+        "name": "Epitech",
+        "address": "4 rue du Dome",
+        "city": "Strasbourg",
+        "state": "",
+        "country": "fr",
+        "lat": 48.5838,
+        "lon": 7.7496,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Strasbourg",
+      "urlname": "rladies-strasbourg"
+    }
+  },
+  {
+    "id": "257402278",
+    "title": "Reticulate: interface entre R et Python",
+    "description": "Reticulate c'est un R package utilise pour utiliser Python et R ensemble, https://rstudio.github.io/reticulate/. Camille Beluffi, data scientist chez CASC4DE, nous ferait un retour d'experience sur cette package.\n\n18:30 Accueil\n18:40 Presentation\n18:55 Discussion",
+    "status": "PAST",
+    "dateTime": "2019-01-07T18:30:00+01:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-strasbourg/events/257402278/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [
+      {
+        "id": "5560022",
+        "name": "Epitech",
+        "address": "4 rue du Dome",
+        "city": "Strasbourg",
+        "state": "",
+        "country": "fr",
+        "lat": 48.5838,
+        "lon": 7.7496,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Strasbourg",
+      "urlname": "rladies-strasbourg"
+    }
+  },
+  {
+    "id": "271946857",
+    "title": "Application of graphical models to metabolomics",
+    "description": "Ce tutorial faisait part de la conference useR2020, et à cause du covid-19 le tutorial a été offert à R-Ladies Strasbourg. Il sera fait en Anglais car les intervenants présenteront sur zoom depuis les États-Unis.\n\nFor this tutorial we will give the priority to R-Ladies Strasbourg and the R-community in Strasbourg and surrounding. Thank you for your understanding.\n\nThis tutorial will identify a suite of tools for using network models in applied data analyses. Examples will utilize metabolomics data\nfrom ongoing large-scale health research studies, although techniques are transferrable across multiple domains. This workshop will\nlink network visualizations with statistical analyses of complex metabolomics data and will emphasize detection of network\nsubcomponents that link to health outcomes. Utility of these tools for ‘story telling’ in complex data settings will be illustrated.\nLearning objectives for the workshop are to:\n1) Explain the use of network models in metabolomics and other omics studies\n2) Apply R programming to analyze metabolomics and other omics network data\n3) Visualize network models using R\n\nThe tutorial will include didactic instruction, demonstration of code and hands on work time for provided exercises. All exercises will be constructed in an R markdown format. Example code will be extracted from the .Rmd file for easy copy-and-paste execution during the course.\n\nDidactic introduction to network models and metabolomics (30 min)\nDemonstration of code for creating basic network data objects in R (20 min)\nHands on work time for first set of exercises (40 min)\nBreak (30 min)\nDidactic introduction to graphical lasso and differential network analysis (30 min)\nDemonstration of code for performing graphical lasso and differential network analysis in R (20 min)\nHands on work time for second set of exercises (40 min)\n\nThe course will be co-taught by Raji Balasubramanian, PhD, Associate Professor of Biostatistics at University of Massachusetts at Amherst in Amherst, MA and Denise Scholtens, PhD, Professor of Biostatistics at Northwestern University Feinberg School of Medicine in Chicago, IL.\nDrs. Balasubramanian and Scholtens are long time R users (15+ years) and statistical collaborators on the development of network methods for metabolomics data analysis. They previously co-taught a similar workshop at Metabolomics 2019 in The Hague, Netherlands. They are both regular faculty instructors in the graduate biostatistics degree programs at their respective institutions. Links to their faculty pages are below.\nhttps://www.umass.edu/sphhs/person/faculty/raji-balasubramanian\nhttps://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=16163",
+    "status": "PAST",
+    "dateTime": "2020-09-21T17:00:00+02:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-strasbourg/events/271946857/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 13,
+      "waitlistCount": 0,
+      "totalCount": 13
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Strasbourg",
+      "urlname": "rladies-strasbourg"
+    }
+  },
+  {
+    "id": "268318968",
+    "title": "Comment sont gérer les données manquantes dans une régression PLS ?",
+    "description": "Les données manquantes sont présentes dans beaucoup de domaines de recherche. Plusieurs méthodes ont été développées pour les traiter. La méthode d'imputation est le processus qui permet de gérer les données manquantes avant d'estimer les paramètres d'un modèle. La régression PLS est un modèle qui va permettre de les gérer. C'est une méthode qui est basée sur deux algorithmes (SIMPLS ou NIPALS) qui peuvent être utilisés pour fournir les estimations des paramètres des modèles. La régression PLS est très efficace pour analyser les relations de cause à effet entre les variables réponses et les composantes. L'algorithme NIPALS fournit des estimations sur de données incomplètes sans imputation. Notre objectif est étudier l’influence de la proportion de données manquantes sur l’estimation du nombre de composantes dans une régression PLS pour une hypothèse MCAR.",
+    "status": "PAST",
+    "dateTime": "2020-02-07T18:00:00+01:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-strasbourg/events/268318968/",
+    "featuredEventPhoto": {
+      "id": "488584186",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/0/5/a/highres_488584186.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/0/5/a/600_488584186.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/0/5/a/thumb_488584186.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 6,
+      "waitlistCount": 0,
+      "totalCount": 6
+    },
+    "venues": [
+      {
+        "id": "26185979",
+        "name": "Epitech Strasbourg",
+        "address": "4 Rue du Dôme",
+        "city": "Strasbourg",
+        "state": "",
+        "country": "fr",
+        "lat": 48.5836,
+        "lon": 7.7501,
+        "postalCode": "67000",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Strasbourg",
+      "urlname": "rladies-strasbourg"
+    }
+  },
+  {
+    "id": "276248005",
+    "title": "Les réseaux bayésiens pour la modélisation des toxicités aiguës",
+    "description": "Les réseaux bayésiens pour la modélisation des toxicités aiguës dans le cadre du traitement par radiothérapie du cancer du sein.\n\nCes dernières décennies, l'augmentation considérable du volume de données médicales a fait naître, chez les structures hospitalières, le besoin de s'inscrire dans une démarche Big Data, afin de stocker leurs données mais également d'intégrer leur exploitation au sein des différents projets de recherches qu'elles supportent. À ce titre, la Data Science a fait son entrée dans le monde médical par l'intermédiaire d'algorithmes de Machine Learning et de Deep Learning ainsi que des méthodes d'analyse statistique. Un réseau bayésien est un modèle probabiliste utilisé pour représenter les relations de dépendance conditionnelle (et dans certains cas de causalité) entre différentes variables. Souvent oubliée par la communauté scientifique lors de l'analyse de données, cette méthode présente pourtant de nombreux avantages qui peuvent se révéler être des atouts de taille pour l'analyse de données médicales",
+    "status": "PAST",
+    "dateTime": "2021-03-11T18:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-strasbourg/events/276248005/",
+    "featuredEventPhoto": {
+      "id": "494675776",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/b/c/0/highres_494675776.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/b/c/0/600_494675776.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/b/c/0/thumb_494675776.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 18,
+      "waitlistCount": 0,
+      "totalCount": 18
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Strasbourg",
+      "urlname": "rladies-strasbourg"
+    }
+  },
+  {
+    "id": "296181395",
+    "title": "Watch Party Francophone pour la posit::conf(2023)",
+    "description": "**En collaboration avec R-Ladies Paris je vous présentes le Posit Watch Party!**\n**Nous sommes ravis d'organiser une Watch Party virtuelle pour la Conférence Posit qui va avoir lieu du 17 au 20 septembre 2023 à Chicago 🔗 ​[https://posit.co/conference/ ](https://posit.co/conference/)**\n\n**Durant cette Watch Party, nous regarderons les replays de ces deux présentations sélectionnées de la Conférence Posit, le mardi 3 octobre 2023 à partir de 19h00 CEST :**\n\n1. **GitHub Copilot integration with RStudio, it's finally here!, présenté par**\n\n**Tom Mock, Product Manager, Posit Workbench and RStudio, Posit, PBC**\n\n**“ This talk closes issue #10148, \"Github Copilot integration with RStudio\", the most upvoted feature request in RStudio's history. Code-generating AI tools like Github Copilot™ promise an \"AI pair programmer that offers autocomplete-style suggestions as you code\". For the first time, we'll show a native integration of Copilot into RStudio, helping to build on that promise by providing AI-generated \"ghost text\" autocompletion with R and other languages. I'll also provide a comparison of Copilot's \"ghost text\" to a chat-style interface in RStudio via the {chattr} package from the Posit MLVerse team. To make the most of these new features, I'll share some examples of how sharing additional context, comments, code, and other \"prompt engineering\" can help you go from code-generating AI tools that feel like an annoying backseat driver to an experienced copilot. We'll close with a robust end-to-end example of how these new RStudio integrations and packages can help you be a more productive developer.”**\n\n2. **Unlock the Power of DataViz Animation and Interactivity in Quarto, présenté par**\n\n**Deepsha Menghani, Sr. Data Applied Scientist Manager, Microsoft**\n**“Data visualizations are a key tool in the process of sharing insights with stakeholders in ways that make an impact and are easily understood. Animation and interactivity bring in a key component of analysis that enables one to derive insights that a plot with two dimensions doesn't otherwise allow. Sometimes it can tell a powerful story, and sometimes it can just add some flair to an otherwise low-key story. This talk will showcase packages such as Plotly and Crosstalk that enable this creativity right within Quarto.**\n**Plotly, Crosstalk, and Highcharter are powerful packages that allow interactivity right from within your Quarto markdown report, without the need to create an entire application. Easily have two separate plots interact with each other or add drill-down capabilities within a single plot, whichever adds to the story you are trying to tell.”**\n\n**Mouna Belaid, de R-Ladies Paris, partagera également son expérience personnelle de sa participation à la conférence et ses impressions. Ensuite, nous présenterons chaque talk et tiendrons une discussion ouverte après chaque talk.**\n\n**N'hésitez pas à partager ce meetup avec toute personne susceptible d'être intéressée.**\n\n**Ne manquez pas ce privilège d'être parmi les premiers à avoir accès aux replays de très haute qualité.**\n\n**Nous vous attendons nombreux à cette première Watch Party francophone ! ✨**",
+    "status": "PAST",
+    "dateTime": "2023-10-03T19:00:00+02:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-strasbourg/events/296181395/",
+    "featuredEventPhoto": {
+      "id": "515960638",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/0/9/e/highres_515960638.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/0/9/e/600_515960638.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/0/9/e/thumb_515960638.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Strasbourg",
+      "urlname": "rladies-strasbourg"
+    }
+  },
+  {
+    "id": "291181415",
+    "title": "Comment Programmer sous R avec la Voix",
+    "description": "La programmation mains libres peut sembler magique, mais elle existe bel et bien et elle a un nom : Talon. C'est la solution lorsque des pathologies telles que les tendinites/tendinopathies et l'arthrite vous empêchent de travailler sur l'ordinateur.\nNancy Rebout parlera de son expérience de programmation en R avec une pathologie de tendinite, comment elle a surmonté tous les problèmes et est devenue un codeur R résilient.",
+    "status": "PAST",
+    "dateTime": "2023-02-09T19:00:00+01:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-strasbourg/events/291181415/",
+    "featuredEventPhoto": {
+      "id": "510135276",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/b/a/c/highres_510135276.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/b/a/c/600_510135276.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/b/a/c/thumb_510135276.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Strasbourg",
+      "urlname": "rladies-strasbourg"
+    }
+  }
+]

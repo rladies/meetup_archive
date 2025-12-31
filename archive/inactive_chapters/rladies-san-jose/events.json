@@ -1,0 +1,914 @@
+[
+  {
+    "id": "244770307",
+    "title": "Introducción a R y R Studio",
+    "description": "Curso gratuito organizado por R-ladies San José\n\nRequisitos:\n\n1. Inscribirse en la actividad creada en nuestro meetup https://www.meetup.com/rladies-san-jose/ ​ (cupo límitado por razones de espacio).​\n\n2. Traer laptop con la versión de R y R Studio instalada y actualizada (instrucciones a continuación)\n\n​3. ¡Ganas de aprender!\n\nOtros detalles: El café del lugar está cerrado a las 6PM, pero me han dicho que podemos escoger entre ordenar café o té en grupo o llevar nuestras cosas. Por fa, cuando se inscriban, posteen sus preferencias en el evento de meetup.\n\nVersión de R actualizada: Vamos a trabajar con la version 3.4.1. Para verificar la versión que tiene instalada puede correr en la consola:\nR.Version()$version.string\nLa respuesta debería ser:\n[1] \"R version 3.4.1 (2017-06-30)\"\nSi necesita actualizar por favor visite la página correspondiente de r-project.org\nVersion de RStudio Actualizada: En RStudio busque la opción en el menu Help >About RStudio. Busque si tiene Versión 1.0.153 o mayor. Si es menor instale una versión nueva ya sea con Help > Check for Updates o visitando las páginas de RStudio para bajar una nueva versión compatible con su sistema: ​ ​ https://www.rstudio.com (https://www.rstudio.com/products/rstudio/download/#download)\nSi no sabe cómo hacer esto, por favor escríbanos un correo a sanjoseCR@rladies.org para instrucciones más detalladas o en Slack:",
+    "status": "PAST",
+    "dateTime": "2017-11-14T18:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-san-jose/events/244770307/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 27,
+      "waitlistCount": 5,
+      "totalCount": 27
+    },
+    "venues": [
+      {
+        "id": "25470067",
+        "name": "Creasala Co-working Café",
+        "address": "175m este de la rotonda El Farolito Casa 3361 a mano izquierda, Avenida 13 Barrio Escalante",
+        "city": "San Jose",
+        "state": "",
+        "country": "cr",
+        "lat": 9.9375,
+        "lon": -84.0624,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Jose",
+      "urlname": "rladies-san-jose"
+    }
+  },
+  {
+    "id": "244104644",
+    "title": "Reunámonos para nuestro primer acercamiento.",
+    "description": "Queremos invitarle a nuestro primer acercamiento con todas las interesadas,el objetivo del encuentro es introducirles e informarles de nuestro proyecto. ¡Esperamos verlas pronto!",
+    "status": "PAST",
+    "dateTime": "2017-10-17T17:30:00-06:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-san-jose/events/244104644/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 18,
+      "waitlistCount": 0,
+      "totalCount": 18
+    },
+    "venues": [
+      {
+        "id": "25544928",
+        "name": "Universidad de Costa Rica",
+        "address": "Biblioteca Demetrio Tinoco, sala de Audiovisuales #2",
+        "city": "San José",
+        "state": "",
+        "country": "cr",
+        "lat": 0,
+        "lon": 0,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Jose",
+      "urlname": "rladies-san-jose"
+    }
+  },
+  {
+    "id": "253984063",
+    "title": "Exploremos el paquete dplyr con el conjunto de datos del BID",
+    "description": "• Lo que haremos\nEsta reunión será un poco distinta. El objetivo es que todas tomemos el mismo conjunto de datos: (Datos de test y de train), para leerlos, resumirlos y visualizarlos utilizando el conjunto de paquetes de tidyverse. En los links anteriores pueden bajar los datos, y en este link pueden ver una descripción de cada una de las variables: datos del BID. La idea es que Uds hagan un análisis descriptivo de los datos para luego comparar lo que hicimos durante el meetup. Los datos provienen de una competencia de Kaggle que aunque ya está cerrada, esperamos que sirva de motivación para que puedan entrar en futuros eventos. Durante la reunión hablaremos de lo que cada una pudo hacer con el conjunto de datos y trataremos de establecer un flujo de trabajo idóneo para estos casos.\n\nEn el siguiente link pueden encontrar los links anteriores: https://github.com/malfaro2/RladiesSJO/blob/master/IDB_data.Rmd",
+    "status": "PAST",
+    "dateTime": "2018-09-04T17:30:00-06:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-san-jose/events/253984063/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 9,
+      "waitlistCount": 0,
+      "totalCount": 9
+    },
+    "venues": [
+      {
+        "id": "25544928",
+        "name": "Universidad de Costa Rica",
+        "address": "Biblioteca Demetrio Tinoco, sala de Audiovisuales #2",
+        "city": "San José",
+        "state": "",
+        "country": "cr",
+        "lat": 0,
+        "lon": 0,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Jose",
+      "urlname": "rladies-san-jose"
+    }
+  },
+  {
+    "id": "253365269",
+    "title": "Sesión de preguntas abiertas",
+    "description": "• Lo que haremos\nComentaremos y aclararemos juntas todas las dudas sobre, resúmenes para conferencias, dudas acerca de código o cualquier otra duda sobre R estudio.",
+    "status": "PAST",
+    "dateTime": "2018-08-07T18:00:00-06:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-san-jose/events/253365269/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "25790059",
+        "name": "Impact Hub San José",
+        "address": "Avenida 12, entre calle 35 y calle 37, San José, San Pedro, De la tienda Arenas en Los Yoses 300 metros sur y 250 metros oeste, contiguo al Bufete Stewart.",
+        "city": "San José",
+        "state": "",
+        "country": "cr",
+        "lat": 9.9279,
+        "lon": -84.0621,
+        "postalCode": "meetup106",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Jose",
+      "urlname": "rladies-san-jose"
+    }
+  },
+  {
+    "id": "252366353",
+    "title": "Administración de Datos con R",
+    "description": "Discutiremos juntas los retos que enfrentamos ANTES de analizar los datos, es decir, cuando tenemos que invertir una buena parte de nuestro tiempo leyendo, corrigiendo y formateando los datos con los que trabajaremos.",
+    "status": "PAST",
+    "dateTime": "2018-07-17T18:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-san-jose/events/252366353/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [
+      {
+        "id": "25544928",
+        "name": "Universidad de Costa Rica",
+        "address": "Biblioteca Demetrio Tinoco, sala de Audiovisuales #2",
+        "city": "San José",
+        "state": "",
+        "country": "cr",
+        "lat": 0,
+        "lon": 0,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Jose",
+      "urlname": "rladies-san-jose"
+    }
+  },
+  {
+    "id": "252366349",
+    "title": "Administración de Datos con R",
+    "description": "Discutiremos juntas los retos que enfrentamos ANTES de analizar los datos, es decir, cuando tenemos que invertir una buena parte de nuestro tiempo leyendo, corrigiendo y formateando los datos con los que trabajaremos.\n\nSerá en la facultad de Ciencias Económicas, en el aula 300A",
+    "status": "PAST",
+    "dateTime": "2018-07-17T18:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-san-jose/events/252366349/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 14,
+      "waitlistCount": 0,
+      "totalCount": 14
+    },
+    "venues": [
+      {
+        "id": "25639212",
+        "name": "Universidad de Costa Rica",
+        "address": "9.934584, -84.052560, Auditorio de Arquitectura de la Universidad de Costa Rica, contiguo a canal UCR. San Pedro, San José",
+        "city": "San José",
+        "state": "",
+        "country": "cr",
+        "lat": 9.9359,
+        "lon": -84.0638,
+        "postalCode": "meetup106",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Jose",
+      "urlname": "rladies-san-jose"
+    }
+  },
+  {
+    "id": "251234460",
+    "title": "Seminario Web ",
+    "description": "Lo que haremos\nUsando R para la ciencia de datos 💜\nEn esta sesión vamos a ver un seminario web con el Ingeniero de RStudio, Edgar Ruiz. Vamos a verlo y aprender juntas para así poder ir aclarando las dudas que tengamos en el momento👩🏻‍💻\n\nDescripción del Webinar\nLa extracción de conocimiento mediante el análisis de datos es usualmente una tarea compleja y ardua. Las extensiones de R, llamadas paquetes, que son parte de lo que en inglés llamamos “tidyverse”, permiten que nuestro análisis más eficaz y menos difícil. En este seminario web, vamos a discutir cómo podemos comenzar a utilizar el lenguaje R y el “tidyverse” para poder caer en la “fosa del éxito” (sí, vamos a explicar que es esta fosa y por que queremos caer en ella).\nNos vemos 😊\n\n• Lo que hay que traer\nComputadora con R Studio instalado.\n\n• Información importante\nLa sala donde estaremos es contiguo a la Biblioteca Tinoco, no en las sala dentro de la biblioteca.",
+    "status": "PAST",
+    "dateTime": "2018-06-06T18:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-san-jose/events/251234460/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 23,
+      "waitlistCount": 0,
+      "totalCount": 23
+    },
+    "venues": [
+      {
+        "id": "25544928",
+        "name": "Universidad de Costa Rica",
+        "address": "Biblioteca Demetrio Tinoco, sala de Audiovisuales #2",
+        "city": "San José",
+        "state": "",
+        "country": "cr",
+        "lat": 0,
+        "lon": 0,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Jose",
+      "urlname": "rladies-san-jose"
+    }
+  },
+  {
+    "id": "250581022",
+    "title": "R-Ladies / Dplyr ",
+    "description": "• Lo que haremos\nEl paquete dplyr, es una herramienta alternativa en R que brinda soporte en análsis y depuración de bases de datos. Proporciona herramientas sencillas para las tareas de manipulación de datos más comunes. Está diseñado para trabajar directamente con marcos de datos, con muchas tareas comunes optimizadas al estar escritas en un lenguaje compilado (C ++). Una característica adicional es la capacidad de trabajar directamente con datos almacenados en una base de datos externa. Los beneficios de hacer esto son que los datos se pueden gestionar de forma nativa en una base de datos relacional, las consultas se pueden realizar en esa base de datos y solo se devuelven los resultados de la consulta. Esto resuelve un problema común con R en que todas las operaciones se llevan a cabo en la memoria y, por lo tanto, la cantidad de datos con la que puede trabajar está limitada por la memoria disponible. Las conexiones de la base de datos esencialmente eliminan esa limitación, ya que puede conectarse a una base de datos de muchos cientos de GB, realizar consultas directamente sobre ella y volver a incluir en R solo lo que necesita para el análisis.\n¡Las esperamos! 💜\n\n• Lo que hay que traer\nComputadora con R Studio instalado.",
+    "status": "PAST",
+    "dateTime": "2018-05-15T17:30:00-06:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-san-jose/events/250581022/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 10,
+      "waitlistCount": 0,
+      "totalCount": 10
+    },
+    "venues": [
+      {
+        "id": "25790055",
+        "name": "Impact Hub San José",
+        "address": "Avenida 12, Los Yoses, De la tienda Arenas en Los Yoses 300 metros sur y 250 metros oeste, contiguo al Bufete Stewart.",
+        "city": "San José",
+        "state": "",
+        "country": "cr",
+        "lat": 9.929,
+        "lon": -84.0577,
+        "postalCode": "meetup106",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Jose",
+      "urlname": "rladies-san-jose"
+    }
+  },
+  {
+    "id": "249427547",
+    "title": " R-Ladies / Aplicaciones en Shiny",
+    "description": "• Lo que haremos\nAl igual que en nuestra reunión pasada esperamos a todas las chicas nuevas a partir de las 5:30pm, vamos a ayudarles con la Instalación de R Studio + intro para nuevas R-ladies.\nVamos a dar inicio a la sesión a las 6:00pm donde veremos Shiny; Shiny es un paquete de R que facilita la creación de aplicaciones web interactivas directamente desde R Studio. Será una sesión interactiva y donde esperamos que todas podamos sacarle provecho a esta herramienta que nos brinda R Studio y sobre todo experimentar la creación de las aplicaciones.\nPor último no olvides confirmar asistencia en el meetup de R Ladies para seguir creciendo juntas💜\n\n• Lo que hay que traer\nComputadora con R Studio instalado.\n\n¡IMPORTANTE! La dirección exacta es: de la tienda Arenas en los Yoses, 300 sur y 250 oeste, San Pedro, San José, Costa Rica",
+    "status": "PAST",
+    "dateTime": "2018-04-10T17:30:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-san-jose/events/249427547/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 9,
+      "waitlistCount": 0,
+      "totalCount": 9
+    },
+    "venues": [
+      {
+        "id": "24190820",
+        "name": "Impactico",
+        "address": "Av 12, San Pedro, Costa Rica",
+        "city": "San Jose",
+        "state": "",
+        "country": "CR",
+        "lat": 9.9279,
+        "lon": -84.062,
+        "postalCode": "meetup106",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Jose",
+      "urlname": "rladies-san-jose"
+    }
+  },
+  {
+    "id": "248215076",
+    "title": "Cuarta reunión R-Ladies / shiny",
+    "description": "• Lo que haremos\nAl igual que en nuestra reunión pasada esperamos a todas las chicas nuevas a partir de las 5:30pm, vamos a ayudarles con la Instalación de R Studio + intro para nuevas R-ladies.\nVamos a dar inicio a la sesión a las 6:00pm donde veremos Shiny; Shiny es un paquete de R que facilita la creación de aplicaciones web interactivas directamente desde R Studio. ¡IMPORTANTE!\nEn la sesión queremos que todas creemos nuestras propias aplicaciones por lo que necesitamos que llevés una base de datos con la que estés trabajando o con la que te gustaría trabajar. Será una sesión interactiva y donde esperamos que todas podamos sacarle provecho a esta herramienta que nos brinda R Studio y sobre todo experimentar la creación de las aplicaciones.\nPor último no olvides confirmar asistencia en el meetup de R Ladies para seguir creciendo juntas💜\n\n• Lo que hay que traer\nComputadora con R Studio instalado.\n\n• Información importante\nLa reunión será en la sala de capacitaciones del segundo piso de la biblioteca Demetrio Tinoco.",
+    "status": "PAST",
+    "dateTime": "2018-03-06T17:30:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-san-jose/events/248215076/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 19,
+      "waitlistCount": 0,
+      "totalCount": 19
+    },
+    "venues": [
+      {
+        "id": "25544928",
+        "name": "Universidad de Costa Rica",
+        "address": "Biblioteca Demetrio Tinoco, sala de Audiovisuales #2",
+        "city": "San José",
+        "state": "",
+        "country": "cr",
+        "lat": 0,
+        "lon": 0,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Jose",
+      "urlname": "rladies-san-jose"
+    }
+  },
+  {
+    "id": "247384909",
+    "title": "Tercera reunión R-Ladies / R Markdown",
+    "description": "• Lo que haremos\nR Markdown es una herramienta para trabajar reportes reproducibles en R Studio.\n\n• Lo que hay que traer\nComputadora\n\n• Información importante\nLa agenda para este día será:\n6:00pm - 6:30pm : Instalación de R Studio + intro para nuevas R-ladies (y para cualquiera que esté interesada en repasar)\n6:30pm - 7:30pm : R Markdown\n\nEl lugar de la reunión aparece en Waze como : Impact Hub",
+    "status": "PAST",
+    "dateTime": "2018-02-06T18:00:00-06:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-san-jose/events/247384909/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 10,
+      "waitlistCount": 0,
+      "totalCount": 10
+    },
+    "venues": [
+      {
+        "id": "25716573",
+        "name": "IBM Innovation Hub",
+        "address": "Los Yoses San José, de la tienda Arenas 300 mts Sur y 250 mts Oeste.",
+        "city": "San José",
+        "state": "",
+        "country": "cr",
+        "lat": 9.93,
+        "lon": -84.08,
+        "postalCode": "meetup106",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Jose",
+      "urlname": "rladies-san-jose"
+    }
+  },
+  {
+    "id": "246662797",
+    "title": "Segunda reunión R-Ladies / ggplot2",
+    "description": "• Lo que haremos\nGraficar nuestros datos es una de las mejores maneras para explorarlos y para observar las relaciones que existen entre las variables.\nEn R existen tres sistemas principales encargados de hacer gráficos, el sistema base plotting system, el paquete lattice y el paquete ggplot2.\nEn este taller aprenderemos lo básico acerca del paquete ggplot2. Este sistema es el más efectivo para crear gráficos con calidad para la publicación.\nEste paquete se construyó basándose en la gramática de gráficos, es decir, en la idea de que cualquier gráfico puede expresarse a partir del mismo set de componentes: un set de datos, un sistema coordinado, y un set de geoms -- que corresponden a la representación visual de cada dato.\nLa clave para entender ggplot2 es pensar en una figura como un conjunto de capas. Esta idea podría resultarle familiar si ha usado un programa de edición de imágenes como Photoshop, Illustrator, o Inkscape.\n\n• Lo que hay que traer\nComputadora con R Studio instalado.\n\n• Información importante\nLa reunión será en la sala de capacitaciones del segundo piso de la biblioteca Demetrio Tinoco",
+    "status": "PAST",
+    "dateTime": "2018-01-15T18:00:00-06:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-san-jose/events/246662797/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 9,
+      "waitlistCount": 0,
+      "totalCount": 9
+    },
+    "venues": [
+      {
+        "id": "25544928",
+        "name": "Universidad de Costa Rica",
+        "address": "Biblioteca Demetrio Tinoco, sala de Audiovisuales #2",
+        "city": "San José",
+        "state": "",
+        "country": "cr",
+        "lat": 0,
+        "lon": 0,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Jose",
+      "urlname": "rladies-san-jose"
+    }
+  },
+  {
+    "id": "266575116",
+    "title": "Introducción a Purrr",
+    "description": "Purrr provee herramientas completas y eficientes para manejar funciones y vectores. Permite reemplazar los for-loops para mejor comprensión y eficiencia.\n\n¡Les esperamos para aprender sobre el paquete purr!\n\nMás información sobre el curso próximamente en: https://malfaro2.github.io/RladiesSJO/",
+    "status": "PAST",
+    "dateTime": "2019-12-04T17:30:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-san-jose/events/266575116/",
+    "featuredEventPhoto": {
+      "id": "486778971",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/e/6/5/b/highres_486778971.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/e/6/5/b/600_486778971.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/6/5/b/thumb_486778971.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 10,
+      "waitlistCount": 0,
+      "totalCount": 10
+    },
+    "venues": [
+      {
+        "id": "26739744",
+        "name": "Facultad de Ciencias Económicas",
+        "address": "Aula 300A, Rodrigo Facio, San Pedro",
+        "city": "San José",
+        "state": "",
+        "country": "CR",
+        "lat": 9.9369,
+        "lon": -84.0521,
+        "postalCode": "meetup106",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Jose",
+      "urlname": "rladies-san-jose"
+    }
+  },
+  {
+    "id": "266472192",
+    "title": "Introducción a dplyr",
+    "description": "Será en el Aula 300a de la facultad de ciencias económicas. ¡Les esperamos! https://github.com/malfaro2/RladiesSJO/tree/master/taller_dplyr-master",
+    "status": "PAST",
+    "dateTime": "2019-11-18T17:30:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-san-jose/events/266472192/",
+    "featuredEventPhoto": {
+      "id": "486649832",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/2/a/8/highres_486649832.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/2/a/8/600_486649832.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/2/a/8/thumb_486649832.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 16,
+      "waitlistCount": 0,
+      "totalCount": 16
+    },
+    "venues": [
+      {
+        "id": "26733460",
+        "name": "Universidad de Costa Rica",
+        "address": "Sede Rodrigo Facio, San Pedro",
+        "city": "San José",
+        "state": "",
+        "country": "CR",
+        "lat": 9.937,
+        "lon": -84.051,
+        "postalCode": "meetup106",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Jose",
+      "urlname": "rladies-san-jose"
+    }
+  },
+  {
+    "id": "265925766",
+    "title": "Introducción a Xaringan",
+    "description": "¡En esta sesión nos vemos para hablar sobre presentaciones realizadas con la ayuda de xaringan! Sala 1 de audiovisuales en la biblioteca Luis Demetrio Tinoco en la Universidad de Costa Rica. Las esperamos :)",
+    "status": "PAST",
+    "dateTime": "2019-10-29T17:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-san-jose/events/265925766/",
+    "featuredEventPhoto": {
+      "id": "486033209",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/1/b/9/highres_486033209.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/1/b/9/600_486033209.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/1/b/9/thumb_486033209.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 9,
+      "waitlistCount": 0,
+      "totalCount": 9
+    },
+    "venues": [
+      {
+        "id": "25544928",
+        "name": "Universidad de Costa Rica",
+        "address": "Biblioteca Demetrio Tinoco, sala de Audiovisuales #2",
+        "city": "San José",
+        "state": "",
+        "country": "cr",
+        "lat": 0,
+        "lon": 0,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Jose",
+      "urlname": "rladies-san-jose"
+    }
+  },
+  {
+    "id": "264645822",
+    "title": "Introducción a Bookdown",
+    "description": "Es preferible traer computadora para que el taller sea más didáctico.",
+    "status": "PAST",
+    "dateTime": "2019-09-26T17:00:00-06:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-san-jose/events/264645822/",
+    "featuredEventPhoto": {
+      "id": "484664182",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/c/9/6/highres_484664182.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/c/9/6/600_484664182.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/c/9/6/thumb_484664182.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 23,
+      "waitlistCount": 0,
+      "totalCount": 23
+    },
+    "venues": [
+      {
+        "id": "26392502",
+        "name": "Faculty of Economic Sciences",
+        "address": "",
+        "city": "San Pedro",
+        "state": "Sa",
+        "country": "cr",
+        "lat": 9.9371,
+        "lon": -84.0517,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Jose",
+      "urlname": "rladies-san-jose"
+    }
+  },
+  {
+    "id": "261483130",
+    "title": "Introducción a los Modelos Bayesianos con R",
+    "description": "Carolina Montoya, actuaria del INS nos guiará al cubrir los aspectos básicos de los modelos Bayesianos para estimar un parámetro, y ejemplificará cómo se puede usar R para describir la distribución posterior del parámetro de interés. La charla es introductoria, por lo que no se requiere conocimiento previo en estadística Bayesiana.",
+    "status": "PAST",
+    "dateTime": "2019-05-22T17:30:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-san-jose/events/261483130/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 8,
+      "waitlistCount": 0,
+      "totalCount": 8
+    },
+    "venues": [
+      {
+        "id": "26392502",
+        "name": "Faculty of Economic Sciences",
+        "address": "",
+        "city": "San Pedro",
+        "state": "Sa",
+        "country": "cr",
+        "lat": 9.9371,
+        "lon": -84.0517,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Jose",
+      "urlname": "rladies-san-jose"
+    }
+  },
+  {
+    "id": "260858688",
+    "title": "Programación con R ",
+    "description": "• Lo que haremos\nVeremos juntas el webinar en español de Edgar Ruiz titulado: Programación con R. El enfoque será en como programar iteraciones, o ciclos, con paquete purrr y haremos un ejemplo para ponerlo en práctica.\n\nLes recordamos que las sesiones son gratuitas y que con un conocimiento básico de R ya nos pueden acompañar.\n\nPor último no olvides confirmar asistencia en el meetup de R Ladies para seguir creciendo juntas💜\n\n• Lo que hay que traer\nComputadora con R Studio instalado.\n\n• Información importante\nLa reunión será en el Edificio de Aulas (Antiguo Sociales), UCR. Aula 303",
+    "status": "CANCELLED",
+    "dateTime": "2019-05-22T17:00:00-06:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-san-jose/events/260858688/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 1,
+      "waitlistCount": 0,
+      "totalCount": 1
+    },
+    "venues": [
+      {
+        "id": "25243663",
+        "name": "Universidad de Costa Rica",
+        "address": "Escuala",
+        "city": "San Jose",
+        "state": "",
+        "country": "cr",
+        "lat": 9.9501,
+        "lon": -84.1336,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Jose",
+      "urlname": "rladies-san-jose"
+    }
+  },
+  {
+    "id": "260689099",
+    "title": "Programación con R ",
+    "description": "• Lo que haremos\nVeremos juntas el webinar en español de Edgar Ruiz titulado: Programación con R. El enfoque será en como programar iteraciones, o ciclos, con paquete purrr y haremos un ejemplo para ponerlo en práctica.\n\nLes recordamos que las sesiones son gratuitas y que con un conocimiento básico de R ya nos pueden acompañar.\n\nPor último no olvides confirmar asistencia en el meetup de R Ladies para seguir creciendo juntas💜\n\n• Lo que hay que traer\nComputadora con R Studio instalado.\n\n• Información importante\nLa reunión será en el Edificio de Aulas (Antiguo Sociales), UCR. Aula 303",
+    "status": "PAST",
+    "dateTime": "2019-04-24T17:00:00-06:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-san-jose/events/260689099/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [
+      {
+        "id": "25243663",
+        "name": "Universidad de Costa Rica",
+        "address": "Escuala",
+        "city": "San Jose",
+        "state": "",
+        "country": "cr",
+        "lat": 9.9501,
+        "lon": -84.1336,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Jose",
+      "urlname": "rladies-san-jose"
+    }
+  },
+  {
+    "id": "257940748",
+    "title": "Conferencia: “How to be a resilient R user?”",
+    "description": "• Lo que haremos\nMaëlle Salmon: ingeniera de software de investigación para rOpenSci e ingeniera de software para Locke Data, dará una conferencia en español, con slides en inglés sobre cómo ser una usuaria “resistente” de R.\n\nLas invitamos a visitar el blog de Maëlle: https://masalmon.eu/\n\n• Información importante\nLa reunión será en el aula 220 del edificio de la Facultad de Ciencias Económicas.\n¡Las esperamos!💜",
+    "status": "PAST",
+    "dateTime": "2019-01-21T14:00:00-06:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-san-jose/events/257940748/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 7,
+      "waitlistCount": 0,
+      "totalCount": 7
+    },
+    "venues": [
+      {
+        "id": "25243663",
+        "name": "Universidad de Costa Rica",
+        "address": "Escuala",
+        "city": "San Jose",
+        "state": "",
+        "country": "cr",
+        "lat": 9.9372,
+        "lon": -84.0518,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Jose",
+      "urlname": "rladies-san-jose"
+    }
+  },
+  {
+    "id": "273623491",
+    "title": "Conociendo lubridate y stringr!",
+    "description": "¡Hola!\nEste mes, nuestra compañera Paula Rodríguez les trae dos paquetes sobre manejo de fechas y texto en R.\n\nRecuerden que deben confirmar asistencia para que se les comparta el link.\n\n¡Les esperamos!",
+    "status": "PAST",
+    "dateTime": "2020-10-07T18:00:00-06:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-san-jose/events/273623491/",
+    "featuredEventPhoto": {
+      "id": "492670350",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/8/6/e/highres_492670350.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/8/6/e/600_492670350.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/8/6/e/thumb_492670350.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 41,
+      "waitlistCount": 0,
+      "totalCount": 41
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Jose",
+      "urlname": "rladies-san-jose"
+    }
+  },
+  {
+    "id": "272789111",
+    "title": "Beginner fest! Sesión de tips and tricks de R (reprogramación)",
+    "description": "Ahora sí empezamos con el beginner fest! Estaremos dando sesiones para quienes quieran empezar con R.\n\nEn esta oportunidad nuestra compañera Andrea Vargas nos explicará algunos tips & tricks para la programación en R.\n\nLes esperamos de manera virtual, tenés que darle confirmar para que se habilite el link de la sesión.\n\nDebés tener RStudio instalado.\n\nNos vemos :)",
+    "status": "PAST",
+    "dateTime": "2020-08-26T18:00:00-06:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-san-jose/events/272789111/",
+    "featuredEventPhoto": {
+      "id": "491991492",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/9/2/4/highres_491991492.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/9/2/4/600_491991492.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/9/2/4/thumb_491991492.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 56,
+      "waitlistCount": 0,
+      "totalCount": 56
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Jose",
+      "urlname": "rladies-san-jose"
+    }
+  },
+  {
+    "id": "272456111",
+    "title": "Beginner fest! Sesión de tips and tricks de R",
+    "description": "Empezamos con un beginner fest! Estaremos dando sesiones para quienes quieran empezar con R.\n\nEn esta oportunidad nuestra compañera Andrea Vargas no estará explicando algunos tips and tricks para la programación en R.\n\nLes esperamos de manera virtual, tenés que darle confirmar para que se habilite el link de la sesión.\n\nDebés tener RStudio instalado.\n\nNos vemos :)\n\n**Hemos tenido que cambiar la fecha (al próximo miércoles 19 de agosto) por una situación de fuerza mayor\n¡Esperamos que igual nos puedan acompañar!",
+    "status": "CANCELLED",
+    "dateTime": "2020-08-19T18:00:00-06:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-san-jose/events/272456111/",
+    "featuredEventPhoto": {
+      "id": "491721711",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/4/c/f/highres_491721711.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/4/c/f/600_491721711.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/4/c/f/thumb_491721711.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 50,
+      "waitlistCount": 0,
+      "totalCount": 50
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Jose",
+      "urlname": "rladies-san-jose"
+    }
+  },
+  {
+    "id": "268987672",
+    "title": "Visualización de datos con ggplot.",
+    "description": "Seguimos con el universo de tidyverse! En esta sesión aprenderemos a visualizar datos de una manera muy elegante con ggplot.\n\nSerá en el aula 300 de la facultad de Ciencias Económicas en la Universidad de Costa Rica.\n\nLes esperamos :)",
+    "status": "PAST",
+    "dateTime": "2020-03-03T18:15:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-san-jose/events/268987672/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 34,
+      "waitlistCount": 0,
+      "totalCount": 34
+    },
+    "venues": [
+      {
+        "id": "26392502",
+        "name": "Faculty of Economic Sciences",
+        "address": "",
+        "city": "San Pedro",
+        "state": "Sa",
+        "country": "cr",
+        "lat": 9.9371,
+        "lon": -84.0517,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Jose",
+      "urlname": "rladies-san-jose"
+    }
+  },
+  {
+    "id": "268241555",
+    "title": "Watch party! rstudio::conf",
+    "description": "¡Vení a ver la conferencia de RStudio con nosotras! Estaremos miércoles y jueves de 10am a 7pm en el aula 300A.\nEs gratis, no tenés que estar todo el día y nos encantaría tu compañía para comentar y aprender de las charlas.\n\nLes esperamos :)",
+    "status": "PAST",
+    "dateTime": "2020-01-29T10:00:00-06:00",
+    "duration": "PT8H",
+    "eventUrl": "https://www.meetup.com/rladies-san-jose/events/268241555/",
+    "featuredEventPhoto": {
+      "id": "488516328",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/c/0/8/highres_488516328.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/c/0/8/600_488516328.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/c/0/8/thumb_488516328.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 7,
+      "waitlistCount": 0,
+      "totalCount": 7
+    },
+    "venues": [
+      {
+        "id": "26832478",
+        "name": "Aula 300A",
+        "address": "Aula 300A, Facultad de Ciencias Económicas, Universidad de Costa Rica",
+        "city": "San José",
+        "state": "",
+        "country": "CR",
+        "lat": 9.9371,
+        "lon": -84.0517,
+        "postalCode": "meetup106",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Jose",
+      "urlname": "rladies-san-jose"
+    }
+  },
+  {
+    "id": "280025455",
+    "title": "Programación funcional con {purrr}",
+    "description": "En colaboración con RLadies Barranquilla y Growth Acceleration Partners, les traemos esta sesión en la que aprenderemos sobre el paquete purrr 🐱.\nPhilippe Heymans Smith nos enseñará cómo mejorar la manera en la que programamos con funciones.\n\nEl link de zoom se habilita al reservar su espacio :)\n\nLes esperamos!",
+    "status": "PAST",
+    "dateTime": "2021-08-18T17:30:00-06:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-san-jose/events/280025455/",
+    "featuredEventPhoto": {
+      "id": "498092824",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/0/3/8/highres_498092824.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/0/3/8/600_498092824.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/0/3/8/thumb_498092824.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 43,
+      "waitlistCount": 0,
+      "totalCount": 43
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies San Jose",
+      "urlname": "rladies-san-jose"
+    }
+  }
+]

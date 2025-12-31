@@ -1,0 +1,2170 @@
+[
+  {
+    "id": "236233990",
+    "title": "R-Ladies London 2016 Review & Social",
+    "description": "R-Ladies London would love you to come and celebrate our first year by reviewing this year's events. We really want to hear from you so we can plan some amazing events new year. Also its christmas which is a great time to celebrate so do come along and do feel free to bring some christmasy nibbles and drinks.",
+    "status": "PAST",
+    "dateTime": "2016-12-14T18:30:00Z",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-london/events/236233990/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [
+      {
+        "id": "24850650",
+        "name": "SHACK15 : The Data Science Hub",
+        "address": "67-71 Shoreditch High St",
+        "city": "London",
+        "state": "",
+        "country": "gb",
+        "lat": 51.5246,
+        "lon": -0.077,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London",
+      "urlname": "rladies-london"
+    }
+  },
+  {
+    "id": "235839775",
+    "title": "R-Ladies London 2016 Review & Social",
+    "description": "R-Ladies London would love you to come and celebrate our first year by reviewing this year's events. We really want to hear from you so we can plan some amazing events new year. Also its christmas which is a great time to celebrate so do come along and do feel free to bring some christmasy nibbles and drinks.",
+    "status": "CANCELLED",
+    "dateTime": "2016-12-14T18:30:00Z",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-london/events/235839775/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 25,
+      "waitlistCount": 0,
+      "totalCount": 25
+    },
+    "venues": [
+      {
+        "id": "24850650",
+        "name": "SHACK15 : The Data Science Hub",
+        "address": "67-71 Shoreditch High St",
+        "city": "London",
+        "state": "",
+        "country": "gb",
+        "lat": 51.5246,
+        "lon": -0.077,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London",
+      "urlname": "rladies-london"
+    }
+  },
+  {
+    "id": "235674627",
+    "title": "December Tutorial: Scalable Machine Learning in R & Python with H20",
+    "description": "Presenting R-Ladies London December Tutorial: Scalable Machine Learning in R & Python with H2O!!\n\nREGISTER ON EVENTBRITE: https://www.eventbrite.co.uk/e/r-ladies-dec-tutorial-scalable-machine-learning-in-r-python-with-h20-tickets-29702018537?aff=es2\n\nP.S the meetup RSVP will remain closed as we will be using Eventbrite ONLY to manage registrations - having two sign-up platforms always causes lots of confusion!!\n\nTimings: talk starts at 6.15pm, ends 8pm\n\n-------------------------------------------------------------------------------------\n\nOur speaker is Dr. Erin LeDell (http://www.stat.berkeley.edu/~ledell/), fellow Co-founder of the R-Ladies Global community and an Organiser of R-Ladies San Francisco, who is stopping over in London to give this talk! She is a Statistician & Machine Learning Scientist at H2O.ai (http://www.h2o.ai/), the company that produces the open source machine learning platform, H2O (https://github.com/h2oai/h2o-3). She is the author of a handful of machine learning related software packages (http://www.stat.berkeley.edu/~ledell/software.html), including the h2oEnsemble (https://github.com/h2oai/h2o-3/tree/master)!\n\nThe focus of this talk is scalable machine learning using the H2O R (http://www.h2o.ai/download/h2o/r) and Python (http://www.h2o.ai/download/h2o/python) packages. H2O (https://github.com/h2oai/h2o-3) is an open source, distributed machine learning platform designed for big data, with the added benefit that it's easy to use on a laptop (in addition to a multi-node Hadoop or Spark cluster). The core machine learning algorithms of H2O are implemented in high-performance Java, however, fully-featured APIs are available in R, Python, Scala, REST/JSON, and also through a web interface.\n\nR and Python code with H2O machine learning code examples will be demo-ed live and are available on GitHub ( https://github.com/h2oai/h2o-tutorials#r-tutorials ) for attendees to follow along on their laptops.\n\nSince H2O's algorithm implementations are distributed, this allows the software to scale to very large datasets that may not fit into RAM on a single machine. H2O currently features distributed implementations of Generalized Linear Models, Gradient Boosting Machines, Random Forest, Deep Neural Nets, dimensionality reduction methods (PCA, GLRM), clustering algorithms (K-means), anomaly detection methods, among others. The ability to create stacked ensembles, or \"Super Learners\", from a collection of supervised base learners is provided via the h2oEnsemble (https://github.com/h2oai/h2o-3/tree/master/h2o-r/ensemble) R package.",
+    "status": "PAST",
+    "dateTime": "2016-12-01T18:15:00Z",
+    "duration": "PT1H45M",
+    "eventUrl": "https://www.meetup.com/rladies-london/events/235674627/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 0,
+      "waitlistCount": 0,
+      "totalCount": 0
+    },
+    "venues": [
+      {
+        "id": "24927050",
+        "name": "UCL - Chandler House - Lecture Theatre G10",
+        "address": "2 Wakefield Street, WC1N 1PF",
+        "city": "London",
+        "state": "",
+        "country": "gb",
+        "lat": 51.5258,
+        "lon": -0.1227,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London",
+      "urlname": "rladies-london"
+    }
+  },
+  {
+    "id": "235413122",
+    "title": "November Tutorial: Interactive R flexdashboards!",
+    "description": "Our new Mentor Laura, a super-experienced Director of Analytics with deep Marketing specialisation, will showcase how to use the recently released R flexdashboard package to publish groups of data visualisations into a dashboard!\n\nPlease bring laptops with R & RStudio installed to follow along with Laura's tutorial. There is NO PUBLIC WIFI in this venue (only eduroam), so it is YOUR RESPONSIBILITY to install the following packages that are required for participating:\n\n• flexdashboard\n\n• dplyr\n\n• reshape2\n\n• plotly\n\n• knitr\n\nIf you're not already familiar with R Markdown, then FYI you'll be getting down 'n' dirty with it this session (!), because Flex Dashboards are created by converting an R Markdown document into a grid oriented dashboard layout. The dashboard flexibly adapts the size of it’s plots and htmlwidgets to the containing web page, hence the name :)\n\nFor more info, here's a quick 3min read overview of R Markdown (http://karawoo.com/2015-04-27-wsu/syllabus/Rmarkdown.html).\n\nTimings: Doors Open 6pm, Tutorial Start ~6.30pm\n\nFeel free to bring your own food, it's allowed in this venue!\n\n------------------------------------------------------------------------\n\nCode of Conduct: all participants are expected to adhere to our community Code of Conduct found in the 'About us'.",
+    "status": "PAST",
+    "dateTime": "2016-11-16T18:00:00Z",
+    "duration": "PT2H30M",
+    "eventUrl": "https://www.meetup.com/rladies-london/events/235413122/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 39,
+      "waitlistCount": 0,
+      "totalCount": 39
+    },
+    "venues": [
+      {
+        "id": "24892260",
+        "name": "Room MAL 151, Birkbeck, University of London",
+        "address": "Malet Street, Bloomsbury",
+        "city": "London, WC1E 7HX",
+        "state": "",
+        "country": "gb",
+        "lat": 51.521,
+        "lon": -0.1278,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London",
+      "urlname": "rladies-london"
+    }
+  },
+  {
+    "id": "234918916",
+    "title": "October event for Absolute R Beginners!! (Newbies + Mentors ONLY)",
+    "description": "R-Ladies running an October session for Absolute R Beginners!! There will be a short intro to RStudio and R basics at 6.30pm followed by Q&A time. This is an opportunity for anyone completely new to R to get started :) Female mentors welcome!\n\nBring your (charged) laptop and we'll help you get up and running with the software, walk you through the R programming basics, help with FAQs, point you to relevant learning resources, and any other fundamental R questions you may have!\n\nRegister on Eventbrite to attend:\n\nhttps://www.eventbrite.co.uk/e/october-event-for-absolute-r-beginners-tickets-28659444169\n\nTimings: Clinic opens at 6.30pm and ends at 8.30pm - please drop-in anytime you're free within that timeframe, there'll be mentors hanging out all evening!",
+    "status": "PAST",
+    "dateTime": "2016-10-26T18:30:00+01:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-london/events/234918916/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 37,
+      "waitlistCount": 0,
+      "totalCount": 37
+    },
+    "venues": [
+      {
+        "id": "24850650",
+        "name": "SHACK15 : The Data Science Hub",
+        "address": "67-71 Shoreditch High St",
+        "city": "London",
+        "state": "",
+        "country": "gb",
+        "lat": 51.5246,
+        "lon": -0.077,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London",
+      "urlname": "rladies-london"
+    }
+  },
+  {
+    "id": "233061594",
+    "title": "Whose Scat Is That? An 'Easily Digestible' Intro to Predictive Modeling & caret!",
+    "description": "Max Kuhn, author of the popular caret package (training Regression & Classification models), and Director of Non-Clinical Statistics at Pfizer Global R&D in Connecticut, US will be running a special tutorial especially for R-Ladies whilst visiting the UK for a conference!\n\nThis is a unique opportunity, and will be of particular value to Intermediate R users+ who want to learn about predictive modeling in R in general, and using the caret package specifically. The hands-on tutorial will assume a general level of working ability with R, so please be aware there is a knowledge/skill/interest pre-requisite for gaining maximum benefit from this session!\n\n------------------------------------------------------------------------------\n\nREQUIRED PACKAGES: there will be no public WiFi, therefore you MUST install the required packages beforehand. You can run this code:\n\npkgs <- c(\"caret\", \"nnet\", \"glmnet\", \"RANN\", \"ipred\", \"rpart\")\n\nfor(i in pkgs)\n\ninstall.packages(i, dependencies = c(\"Depends\", \"Imports\", \"Suggests\"))\n\n------------------------------------------------------------------------------\n\nREGISTER ON EVENTBRITE TO ATTEND!!!!\n\nhttps://www.eventbrite.com/e/r-ladies-oct-workshop-intro-to-predictive-modeling-the-caret-package-tickets-27656253599?aff=es2\n\nYou MUST have your free Eventbrite ticket for entry!! Meetup RSVP will NOT give you entry to this event.\n\n------------------------------------------------------------------------------\n\nPLEASE ASSEMBLE BY 6.15pm on Norfolk Place as indicated by the yellow arrow - there will be one-time only batch entry into the building, so you MUST be present at 6.15pm or you won't be let in and will miss the workshop!!\n\nhttp://photos4.meetupstatic.com/photos/event/6/b/a/2/600_454587554.jpeg\n\n------------------------------------------------------------------------------\n\nAs always, all are welcome to attend as learners regardless of gender, R proficiency, or other attribute - we aim to be a fully inclusive, diverse user group, whilst maintaining our commitment to promoting R amongst women.\n\nCode of Conduct: anyone who violates or has previously violated this community's Code of Conduct will be refused entry, expelled, and/or any other action deemed appropriate by the Organiser, regardless of event registration, meetup membership or other condition.",
+    "status": "PAST",
+    "dateTime": "2016-10-03T18:15:00+01:00",
+    "duration": "PT2H45M",
+    "eventUrl": "https://www.meetup.com/rladies-london/events/233061594/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 76,
+      "waitlistCount": 0,
+      "totalCount": 76
+    },
+    "venues": [
+      {
+        "id": "24768159",
+        "name": "St Mary's Campus, Paddington - Imperial College London",
+        "address": "Norfolk Place, W2 1PG",
+        "city": "London",
+        "state": "",
+        "country": "gb",
+        "lat": 51.5173,
+        "lon": -0.1731,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London",
+      "urlname": "rladies-london"
+    }
+  },
+  {
+    "id": "233586620",
+    "title": "Late September Social: R Picnic in the Park!! (St. James's Park)",
+    "description": "R-Ladies London celebrates turning 6-Months Old!!\n\nTo mark our half-year birthday, we're planning to have either a weekend picnic on sun 25th Sep!! We'll have Birthday Cake and booze, and bread, houmous, crudités to enjoy!! Feel free to bring soft drinks/crisps/dips/other savoury or sweet edibles along though :)\n\nPlease meet the group outside the \"Inn The Park\" (https://www.google.co.uk/maps/place/Inn+The+Park/@51.5053948,-0.1287113,16z/data=!4m5!3m4!1s0x487604db8e5d46fd:0xdb3fc1a19d87970!8m2!3d51.5040458!4d-0.1315652!6m1!1e1) restaurant in St. James's Park at 2pm:\n\nhttp://photos2.meetupstatic.com/photos/event/e/3/a/9/600_454318281.jpeg\n\nWe hope to see loads of you at this social so you can get to know other ladies (and gentlemen!) in the R community! We can't stress enough the value of collaborative learning, particularly with a language as 'quirky' as R, so we really encourage you to make friends and contacts within R-Ladies, to build up your personal network of like-minded women who code :)\n\n#LeanInTogether\n\n------------------------------------------------------------------------------------\n\nInclusivity: as always, all are welcome to participate as attendees regardless of gender or any other characteristic!\n\nCode of Conduct: and please abide by our community rules!",
+    "status": "PAST",
+    "dateTime": "2016-09-25T14:00:00+01:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-london/events/233586620/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 32,
+      "waitlistCount": 0,
+      "totalCount": 32
+    },
+    "venues": [
+      {
+        "id": "18469942",
+        "name": "Inn The Park (Restaurant)",
+        "address": "Inn The Park, St. James's Park, London, SW1A 2BJ",
+        "city": "London",
+        "state": "",
+        "country": "gb",
+        "lat": 51.503,
+        "lon": -0.1302,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London",
+      "urlname": "rladies-london"
+    }
+  },
+  {
+    "id": "233894717",
+    "title": "September R Knowledge Share: Build a simple Shiny App displaying ggplot2 graphs!",
+    "description": "In response to interest in learning Shiny & data viz, Chiin is running an informal knowledge sharing session where you'll learn how to develop this simple but functional interactive Shiny App in R!\n\nhttp://photos4.meetupstatic.com/photos/event/5/e/f/c/600_453924316.jpeg\n\nYou can play with it here: http://chiin.shinyapps.io/diamonds/\n\n6.15pm is Session Start!!\n\nRemember YOUR LAPTOP!! And do bring refreshments for yourself as necessary (I'm coming straight from an appointment so can only bring my laptop!!)\n\n------------------------------------------------------------------------------\n\nLEARNING OUTCOMES: how the Shiny package can be used to create data products, for example to showcase and allow exploration of ggplot2 graphs. NOTE: some core knowledge of R is required to benefit from this session!!\n\nAny ladies familiar with Shiny are encouraged to mentor at this session!!\n\nCAPACITY: as this is an informal learning event with a single instructor, space will be limited to a manageable number! Please RSVP (not Eventbrite this time) to register for this Knowledge Share.\n\nFEMALE PRIORITY: similarly due to limited capacity, female members will be given priority to sign-up. Any male learners wanting to attend, please do NOT use the RSVP and instead message Chiin nearer the event to see if there are spaces available.\n\nLOCATION: come to the main Birkbeck building (entrance via Torrington Square), and ask at the reception as you enter the building for instructions to room MAL 402\n\nPRE-REQUISITES: R & RStudio installed + attendees are expected to have basic understanding of core R activities (installing & calling packages & built-in datasets, basic data manipulation, some understanding/ability with ggplot2, awareness of syntax for writing functions). But no prior knowledge of Shiny required :)\n\n----------------------------------------------------------------------------",
+    "status": "PAST",
+    "dateTime": "2016-09-13T18:15:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-london/events/233894717/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 36,
+      "waitlistCount": 0,
+      "totalCount": 36
+    },
+    "venues": [
+      {
+        "id": "24777144",
+        "name": "Room MAL 402, Birkbeck, University of London",
+        "address": "Malet Street, Bloomsbury",
+        "city": "London WC1E 7HX",
+        "state": "",
+        "country": "gb",
+        "lat": 51.521,
+        "lon": -0.1278,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London",
+      "urlname": "rladies-london"
+    }
+  },
+  {
+    "id": "233139778",
+    "title": "August drop-in clinic for Absolute R Beginners!! (Newbies + Mentors ONLY)",
+    "description": "R-Ladies running an August session for Absolute R Beginners!! This informal evening drop-in clinic is an opportunity for anyone completely new to R to get started :) Female mentors welcome!\n\nBring your (charged) laptop and we'll help you get up and running with the software, walk you through the R programming basics, help with FAQs, point you to relevant learning resources, and any other fundamental R questions you may have!\n\nRegister on Eventbrite to attend: https://www.eventbrite.com/e/r-ladies-coding-club-august-drop-in-session-for-absolute-r-beginners-tickets-26956034224?aff=es2\n\nTimings: Clinic opens at 5pm and ends at 9pm - please drop-in anytime you're free within that timeframe, there'll be mentors hanging out all evening!\n\nLAPTOPS REQUIRED\n\nhttps://a248.e.akamai.net/secure.meetupstatic.com/photos/event/1/e/d/2/600_450127890.jpeg\n\n---------------------------------------------------------------------------------\n\nAs always, all are welcome as to learn regardless of gender, R proficiency, or other attribute - we aim to be a fully inclusive, diverse user group, whilst maintaining our commitment to promoting R amongst women. Please refer to & note our Code of Conduct for further info.",
+    "status": "PAST",
+    "dateTime": "2016-08-16T17:00:00+01:00",
+    "duration": "PT4H",
+    "eventUrl": "https://www.meetup.com/rladies-london/events/233139778/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 34,
+      "waitlistCount": 0,
+      "totalCount": 34
+    },
+    "venues": [
+      {
+        "id": "6858902",
+        "name": "Google Campus",
+        "address": "4-5 BONHILL STREET LONDON EC2A 4BX",
+        "city": "London",
+        "state": "",
+        "country": "gb",
+        "lat": 51.5227,
+        "lon": -0.0848,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London",
+      "urlname": "rladies-london"
+    }
+  },
+  {
+    "id": "232782613",
+    "title": "August Event - Transforming a Museum to be Data-Driven using R!",
+    "description": "R-Ladies' August monthly event! As decided by the Community, this event will present Case Studies of applying R to real-world situations, including transforming the British Museum into a data-driven organisation!\n\nAttendance is via Eventbrite only, NOT meetup sign-up!! Register here: http://www.eventbrite.com/e/r-ladies-coding-club-transforming-a-museum-to-be-data-driven-using-r-tickets-26706064558?aff=es2\n\nTimings: 6pm is Doors Open, 6:30pm is Event Start\n\nNO LAPTOPS REQUIRED :)\n\nLogistics: come to the main Birkbeck building (entrance via Torrington Square), and ask at the reception as you enter the building for instructions to room MAL 415\n\nAs always, all are welcome as community members regardless of gender, R proficiency, or other attribute - we aim to be a fully inclusive, diverse user group, whilst maintaining our commitment to promoting R amongst women.\n\n-------------------------------------------------------------------------------------\n\nCode of Conduct: anyone who violates or has previously violated this community's Code of Conduct will be refused entry, expelled, and/or any other action deemed appropriate by the Organiser, regardless of event registration, meetup membership or other conditions.",
+    "status": "PAST",
+    "dateTime": "2016-08-02T18:00:00+01:00",
+    "duration": "PT2H30M",
+    "eventUrl": "https://www.meetup.com/rladies-london/events/232782613/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 1,
+      "waitlistCount": 0,
+      "totalCount": 1
+    },
+    "venues": [
+      {
+        "id": "24675081",
+        "name": "Room MAL 415, Birkbeck, University of London",
+        "address": "Malet Street, Bloomsbury",
+        "city": "London, WC1E 7HX",
+        "state": "",
+        "country": "gb",
+        "lat": 51.521,
+        "lon": -0.1278,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London",
+      "urlname": "rladies-london"
+    }
+  },
+  {
+    "id": "230575211",
+    "title": "June Workshop - The Most Useful R Functions!",
+    "description": "Our June monthly event! We're going to show & teach you our top recommended R functions that all Novice Users should understand and aim to master.\n\nAs always, all are welcome to learn from our All-Female R Mentors regardless of gender and proficiency :)\n\nTimings: 6pm is Doors Open, 6:30pm is Event Start\n\nEvent entry is via Eventbrite Registration ONLY!! Sign-up here: https://www.eventbrite.com/e/r-ladies-coding-club-june-workshop-tickets-24865722044?aff=es2\n\n--------------------------------------------------------------------------------\n\nWorkshop Prerequisites:\n\n• Laptop installed with recent version of R & RStudio\n\n• Minimum ability to enter and execute R code, both single & multiple lines\n\n• Laptop charged with power for 90+ mins of programming\n\nThe above points are solely the responsibility of the Attendee to address and the Organisers will assume these conditions have been met. We therefore warn now of the participation difficulties Attendees will face from not fulfilling the above.\n\n--------------------------------------------------------------------------------\n\nCode of Conduct: anyone who violates or has previously violated this community's Code of Conduct (http://www.meetup.com/R-Ladies-Coding-Club-London/) will be refused entry, expelled, and/or any other action deemed appropriate by the Organiser, regardless of any condition including event registration.\n\n--------------------------------------------------------------------------------\n\nAs the Meetup RSVPs function is not being used to manage workshop entry, this has been closed to prevent further Meetup sign-ups - if you're on the Eventbrite Registration list we'll be expecting you, no problem :)\n\n--------------------------------------------------------------------------------\n\nhttp://photos4.meetupstatic.com/photos/event/1/e/d/2/600_450127890.jpeg",
+    "status": "PAST",
+    "dateTime": "2016-06-15T18:00:00+01:00",
+    "duration": "PT2H30M",
+    "eventUrl": "https://www.meetup.com/rladies-london/events/230575211/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 14,
+      "waitlistCount": 0,
+      "totalCount": 14
+    },
+    "venues": [
+      {
+        "id": "6858902",
+        "name": "Google Campus",
+        "address": "4-5 BONHILL STREET LONDON EC2A 4BX",
+        "city": "London",
+        "state": "",
+        "country": "gb",
+        "lat": 51.5227,
+        "lon": -0.0848,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London",
+      "urlname": "rladies-london"
+    }
+  },
+  {
+    "id": "229700583",
+    "title": "May Event - The Tour de R!! (Novice-level+) + PIZZA",
+    "description": "The R-Ladies Coding Club's May Event is going to take you on a whistlestop Tour of R!!\n\nOur fab Lady Mentors are showcasing a selection of key R functionality, including Shiny, htmlwidgets, tidyr, and markdown, to demonstrate how these packages can be applied to real data/scenarios.\n\nNO LAPTOPS!! Just sit back and enjoy the show.\n\nDoors open 6pm; Event starts promptly at 6.30pm!\n\nCome to the main entrance, get signed-in on the door, then head up to the 3rd floor Classroom!\n\n----------------------------------------------------------------------------\n\nYou'll need to REGISTER on Eventbrite to attend (max venue capacity limits):\n\nhttps://www.eventbrite.com/e/r-ladies-coding-club-may-event-the-tour-de-r-novice-level-tickets-23271714324\n\nDo remind any guests they'll also need to register themselves on Eventbrite.\n\nAs ever, all are welcome to learn regardless of proficiency or gender!\n\n----------------------------------------------------------------------------\n\nAnd guess who's springing for Pizza?! Everyone's favourite IDE!! Many thanks to RStudio for the sponsorship :)\n\nhttp://photos2.meetupstatic.com/photos/event/8/e/a/600_449462282.jpeg",
+    "status": "PAST",
+    "dateTime": "2016-05-17T18:00:00+01:00",
+    "duration": "PT2H30M",
+    "eventUrl": "https://www.meetup.com/rladies-london/events/229700583/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 61,
+      "waitlistCount": 0,
+      "totalCount": 61
+    },
+    "venues": [
+      {
+        "id": "6858902",
+        "name": "Google Campus",
+        "address": "4-5 BONHILL STREET LONDON EC2A 4BX",
+        "city": "London",
+        "state": "",
+        "country": "gb",
+        "lat": 51.5227,
+        "lon": -0.0848,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London",
+      "urlname": "rladies-london"
+    }
+  },
+  {
+    "id": "229597667",
+    "title": "April Monthly R Workshop!! (up to Intermediate-level)",
+    "description": "The R-Ladies Coding Club's monthly April event - get ready for some data.table!! Workshop starts at 6.30pm prompt.\n\nAudience: whilst the event is aimed at R learners from Novice to Intermediate-level, everyone is welcome, regardless of proficiency or gender :)\n\nEntry by Eventbrite ticket only! Get your free entrance here, registration closes midnight Tuesday 19th:\n\nhttps://www.eventbrite.com/e/r-ladies-coding-club-april-r-workshop-up-to-intermediate-level-tickets-23094010808\n\nThis is a public event, so guests are welcome and can procure their own ticket.\n\nLAPTOPS required! Please charge up beforehand and ensure your R & RStudio is working.\n\ndata.table workshop available HERE: http://rpubs.com/rlkirkham/172678\n\nDirections: come to the NAO main gate on Buckingham Palace Rd. to get signed-in at reception, where you should see the Auditorium entrance.",
+    "status": "PAST",
+    "dateTime": "2016-04-20T18:30:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-london/events/229597667/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 46,
+      "waitlistCount": 0,
+      "totalCount": 46
+    },
+    "venues": [
+      {
+        "id": "1603678",
+        "name": "National Audit Office",
+        "address": "157-197 Buckingham Palace Road",
+        "city": "London",
+        "state": "",
+        "country": "gb",
+        "lat": 51.4922,
+        "lon": -0.148,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London",
+      "urlname": "rladies-london"
+    }
+  },
+  {
+    "id": "229934054",
+    "title": "April 5th Drop-In Session for Absolute R Beginners!!",
+    "description": "The R-Ladies Coding Club's first drop-in session for Absolute R Beginners!!\n\nThis informal consultative evening held in Shoreditch is an opportunity for anyone completely new to R to get started. Bring your laptop and we'll help you get up and running with the software, walk you through R programming basics, help with R coding FAQs, point you to relevant learning resources, and any other fundamental R questions you may have.\n\nJust bring yourselves, and your laptop!!\n\nFor this casual event, you can indicate your attendance using Meetup RSVP!\n\n(There is also a public Eventbrite listing (https://www.eventbrite.com/e/r-ladies-coding-club-drop-in-for-absolute-r-beginners-tickets-24231959443), either way of indicating is fine :))\n\nAny Mentors available to help would be fantastic :)\n\nNote: this drop-in session is solely to support general R learning for new or aspiring users. Gatecrashers looking for someone to do their academic or professional R work for them are unequivocally NOT WELCOME!! Thanks for your understanding :)",
+    "status": "PAST",
+    "dateTime": "2016-04-05T17:30:00+01:00",
+    "duration": "PT4H",
+    "eventUrl": "https://www.meetup.com/rladies-london/events/229934054/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 31,
+      "waitlistCount": 0,
+      "totalCount": 31
+    },
+    "venues": [
+      {
+        "id": "23712496",
+        "name": "IDEA London",
+        "address": "69 Wilson St, EC2A 2BB",
+        "city": "London",
+        "state": "",
+        "country": "gb",
+        "lat": 51.522,
+        "lon": -0.0845,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London",
+      "urlname": "rladies-london"
+    }
+  },
+  {
+    "id": "228952059",
+    "title": "Monthly R Coding Workshop!! (Novice-level)",
+    "description": "R-Ladies Coding Club's first hands-on programming meetup!! Get your (free) ticket to attend on Eventbrite here (https://www.eventbrite.com/e/r-ladies-coding-club-march-workshop-for-r-novices-tickets-22670316527).\n\nBringing your own laptops, Novice R users are invited to this hands-on, instructor-led session to work through a selection of R functionality (geocharts, ggplot2, hierarchical clustering). Participants will pick up & take away new coding skills that are relevant & transferable, with direct applications.\n\nWorkshop code-only material now available on RPubs here (http://rpubs.com/crt34/march_workshop-code) - full tutorial provided during the session!\n\n--------------------------------------------------------\n\nSchedule:\n\n6pm: Doors Open\n\n6.30-7.15pm: Workshop (1st half)\n\n7.15-7.30pm: Break\n\n7.30-8.15pm: Workshop (2nd half)\n\n8.15pm+: Q&A, event close\n\n---------------------------------------------------------",
+    "status": "PAST",
+    "dateTime": "2016-03-23T18:30:00Z",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-london/events/228952059/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 67,
+      "waitlistCount": 0,
+      "totalCount": 67
+    },
+    "venues": [
+      {
+        "id": "23712496",
+        "name": "IDEA London",
+        "address": "69 Wilson St, EC2A 2BB",
+        "city": "London",
+        "state": "",
+        "country": "gb",
+        "lat": 51.522,
+        "lon": -0.0845,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London",
+      "urlname": "rladies-london"
+    }
+  },
+  {
+    "id": "228513084",
+    "title": "Launch Event! R-Ladies Coding Club Meetup (London)",
+    "description": "Join us for the launch of London's first R community for Women!!\n\nThis is an open forum evening, with short intro to R, informal discussion, sharing ideas & experiences, networking & pizza!!\n\nKnow other women interested in R? Bring them along as your guests :)\n\nLooking forward to meeting you and developing a new coding community!!\n\n-----------------------------------------------------------------------\n\nSchedule:\n\n• 6:00pm: doors open\n\n• 6:30pm: snacks & drinks & networking\n\n• 7:00pm-8:00pm: Intro to Meetup/R & informal discussion\n\n• 8:00pm onwards: pizza & drinks & networking\n\n-----------------------------------------------------------------------\n\nUPDATE 8.2.16: following fantastic response to this event I've secured a larger venue (thanks Google!) to accommodate everyone more comfortably :) The date has necessarily had to shift to the Friday of the original week, but what better way to relax than with a drink, fresh pizza and R chat!!\n\nhttp://photos4.meetupstatic.com/photos/event/8/1/5/c/600_446913116.jpeg",
+    "status": "PAST",
+    "dateTime": "2016-03-04T18:30:00Z",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-london/events/228513084/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 118,
+      "waitlistCount": 0,
+      "totalCount": 118
+    },
+    "venues": [
+      {
+        "id": "6858902",
+        "name": "Google Campus",
+        "address": "4-5 BONHILL STREET LONDON EC2A 4BX",
+        "city": "London",
+        "state": "",
+        "country": "gb",
+        "lat": 51.5227,
+        "lon": -0.0848,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London",
+      "urlname": "rladies-london"
+    }
+  },
+  {
+    "id": "245754113",
+    "title": "End of Year Social",
+    "description": "Come for a chat with other R-Ladies and/or tell us what you thought of this year's meetups and help shape the next year of R-Ladies London!\n\nCode of Conduct\n\nWe expect all attendees to abide & be governed by our community CoC: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct",
+    "status": "PAST",
+    "dateTime": "2017-12-20T18:30:00Z",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-london/events/245754113/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 17,
+      "waitlistCount": 0,
+      "totalCount": 17
+    },
+    "venues": [
+      {
+        "id": "25602620",
+        "name": "Touch Surgery",
+        "address": "230 City Road, EC1V 2QY",
+        "city": "London",
+        "state": "",
+        "country": "gb",
+        "lat": 51.5285,
+        "lon": -0.0931,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London",
+      "urlname": "rladies-london"
+    }
+  },
+  {
+    "id": "245736068",
+    "title": "End of Year Social",
+    "description": "Come for a chat with other R-Ladies and/or tells us what you thought of this year's meetups and help shape the next year of R-Ladies London!",
+    "status": "CANCELLED",
+    "dateTime": "2017-12-20T18:30:00Z",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-london/events/245736068/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 0,
+      "waitlistCount": 0,
+      "totalCount": 0
+    },
+    "venues": [
+      {
+        "id": "25602620",
+        "name": "Touch Surgery",
+        "address": "230 City Road, EC1V 2QY",
+        "city": "London",
+        "state": "",
+        "country": "gb",
+        "lat": 51.5285,
+        "lon": -0.0931,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London",
+      "urlname": "rladies-london"
+    }
+  },
+  {
+    "id": "244275904",
+    "title": "R Lightening Talks by R-Ladies",
+    "description": "Event timings:\n\n6-6.30 registration. You need to sign into the deliveroo system so please make sure you arrive with enough time to complete this.\n\n6.30-7.30 lightening talks\n\n7.30 onwards- networking with nibbles and drinks provided.\n\nPlease register on eventbrite here (not on meetup): https://www.eventbrite.co.uk/e/r-lightening-talks-by-rladies-tickets-39005518556\n\nCome along to learn tips and new skills in R, talk with other analysts and data scientists, and support our speakers. We have speakers lined up to show case their experience of web-scraping, excel conversions, package building, catastrophe modelling and more- all in easily digestible 5 minute talks!\n\nCome for talks starting at 6.30 and food, drinks and networking after.\nThis event is being hosted by Deliveroo.",
+    "status": "PAST",
+    "dateTime": "2017-11-28T18:30:00Z",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-london/events/244275904/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 1,
+      "waitlistCount": 29,
+      "totalCount": 1
+    },
+    "venues": [
+      {
+        "id": "25500441",
+        "name": "Deliveroo Offices, Cannon Street Station",
+        "address": "1 Cousin Lane, EC4R 3TE",
+        "city": "London",
+        "state": "",
+        "country": "gb",
+        "lat": 51.5101,
+        "lon": -0.0911,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London",
+      "urlname": "rladies-london"
+    }
+  },
+  {
+    "id": "242844772",
+    "title": "R from scratch",
+    "description": "Are you new to R? Do you want to know how to get started and learn the basics of this programming language? If you answered yes to the above questions, then come to our meetup on 19th October 2017 and bring your laptop. We will show you how to install R (and RStudio), do basic operations, use functions, install packages and much more.\n\nInstructors: Claudia Vitolo and Kasia Kulma\n\nVenue: Aviva UK, Digital Garage, 33-35 Hoxton Square, N1 6NN\n\nSponsor: Aviva UK\n\n---------------------------------------------------------------------------\n\nNOTE: Places are limited, to register please get a free ticket on Eventbrite (https://www.eventbrite.co.uk/e/r-from-scratch-tickets-38146926484?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing). Meetup RSVP do not count as registration.\n\nCode of Conduct: We expect all attendees to abide & be governed by our community CoC ( https://github.com/rladies/starter-kit/wiki/Code-of-Conduct ).",
+    "status": "PAST",
+    "dateTime": "2017-10-19T18:30:00+01:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-london/events/242844772/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 56,
+      "waitlistCount": 0,
+      "totalCount": 56
+    },
+    "venues": [
+      {
+        "id": "25507416",
+        "name": "Aviva UK, Digital Garage",
+        "address": "33-35 Hoxton Square, N1 6NN",
+        "city": "London",
+        "state": "",
+        "country": "gb",
+        "lat": 51.5277,
+        "lon": -0.0807,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London",
+      "urlname": "rladies-london"
+    }
+  },
+  {
+    "id": "242844993",
+    "title": "Jenny Bryan: How to find the business end of an R package and improve it",
+    "description": "https://secure.meetupstatic.com/photos/event/3/e/a/7/600_463996039.jpeg\n\nNOTE: Places are limited, to register please get a free ticket on Eventbrite (https://www.eventbrite.co.uk/e/jenny-bryan-how-to-find-the-business-end-of-an-r-package-and-improve-it-tickets-37354605631). Meetup RSVP do not count as registration.\n\nIt can be hard to make your first contribution to open source software. Both for technical and social reasons. This will be a very hands-on session where we learn a bit about the moving parts in an R package and how the R community conducts itself on GitHub. We'll poke around some popular R packages on GitHub and go over how to create a high quality issue, e.g. a feature request or bug report. We'll walk through the process of bringing a package into your local environment, making a small change, and sending a pull request. You're encouraged to bring a laptop that's ready for work with R, RStudio, Git, and GitHub (basically this:\n\nhttp://happygitwithr.com/workshops.html#pre-workshop-set-up\n\n). If that's too daunting, don't be discouraged. Come as you are and you can watch me and a friendly neighbor walk through the steps.\n\nSpeaker: Jenny Bryan\n\nBio: Jenny is a recovering biostatistician who takes special delight in eliminating the small agonies of data analysis. Specific tools and mental models can make it easier for a data analyst to settle into a productive, alpha-to-omega workflow. She's been using R/S for over 20 years and is an Ordinary Member of the R Foundation. Jenny is working as a developer for RStudio and is Associate Professor of Statistics (on leave) at the University of British Columbia. She serves in the leadership of rOpenSci and Forwards.\n\nVenue: Room TBC\n\nSponsor: TBD (want to sponsor this meetup? Contact us!)\n\n---------------------------------------------------------------------------\n\nCode of Conduct\n\n: We expect all attendees to abide & be governed by our community CoC (\n\nhttps://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\n).",
+    "status": "PAST",
+    "dateTime": "2017-09-14T18:30:00+01:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-london/events/242844993/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 42,
+      "waitlistCount": 0,
+      "totalCount": 42
+    },
+    "venues": [
+      {
+        "id": "24768159",
+        "name": "St Mary's Campus, Paddington - Imperial College London",
+        "address": "Norfolk Place, W2 1PG",
+        "city": "London",
+        "state": "",
+        "country": "gb",
+        "lat": 51.5167,
+        "lon": -0.1723,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London",
+      "urlname": "rladies-london"
+    }
+  },
+  {
+    "id": "241269769",
+    "title": "Hadley Wickham: What's new in the dplyr 0.7.0",
+    "description": "In this talk, I'll introduce you to some of the new features in dplyr 0.7.0. To warm up, we'll start of with some of the smaller stuff: new verbs (like pull() and the scoped variants), new data sets, and improved support for case_when(). Next, we'll talk about dplyr and databases and the new dbplyr package. Finally, we'll finish off with the mind-bending tidy evaluation and show how you can write your own\nfunctions that work in the same way as dplyr functions.\n\nTo get the most of this talk, you should be familiar with the basics of dplyr (e.g. the six key verbs)\n\nBio:\nHadley is Chief Scientist at RStudio, a member of the R Foundation, and Adjunct Professor at Stanford University and the University of Auckland. He builds tools (both computational and cognitive) to make data science easier, faster, and more fun. His work includes packages for data science (the tidyverse: including ggplot2, dplyr, tidyr, purrr, and readr) and principled software development (roxygen2,\ntestthat, devtools). He is also a writer, educator, and speaker promoting the use of R for data science. Learn more on his website, http://hadley.nz .\n\nOther events of interest:\nHadley will talk about the tidyverse at the London School of Economics on the 24th July, we highly recommend to attend both events!\nMore info here: https://www.eventbrite.co.uk/e/expressing-yourself-using-r-with-hadley-wickham-tickets-35968638165?aff=es2\n\nSponsor:\nThis event is kindly sponsored by Mango Solutions.\n\n---------------------------------------------------------------------------\n\nNOTE: Places are limited, to register please get a free ticket on Eventbrite: https://www.eventbrite.co.uk/e/hadley-wickham-whats-new-in-the-dplyr-070-tickets-35877882713 . Meetup RSVP do not count as registration.\n\nCode of Conduct: We expect all attendees to abide & be governed by our community CoC ( https://github.com/rladies/starter-kit/wiki/Code-of-Conduct ).",
+    "status": "PAST",
+    "dateTime": "2017-07-25T18:00:00+01:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-london/events/241269769/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 72,
+      "waitlistCount": 0,
+      "totalCount": 72
+    },
+    "venues": [
+      {
+        "id": "25341837",
+        "name": "New Broad Street House",
+        "address": "35 New Broad Street",
+        "city": "London",
+        "state": "",
+        "country": "gb",
+        "lat": 51.5171,
+        "lon": -0.0837,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London",
+      "urlname": "rladies-london"
+    }
+  },
+  {
+    "id": "241285175",
+    "title": "R-Ladies Women in Computing Seminar Series: Bioinformatics",
+    "description": "You are cordially invited to the first seminar of our Women in Computing seminar series. R-Ladies London Researchers & Students are delighted to have Dr Simone Ecker speaking about her research on \"Unraveling DNA Methylation and Gene Expression Variability in Human Blood\".\n\nThis event is open to everyone with an interest, especially gender minorities in academia and industry.\n\nPlease sign up on eventbrite: https://www.eventbrite.com/e/women-in-computing-seminar-series-bioinformatics-tickets-35711318515\n\nAbout Dr Simone Ecker:\n\nSimone Ecker worked as a programmer and team leader in IT industry before she studied Biomedical Informatics at UMIT University, where she received a prize for the best Master’s thesis from the Austrian Society for Biomedical Technology for her work on Acute Lymphoblastic Leukemia. She went on to pursue a PhD under the supervision of Alfonso Valencia at the Spanish National Cancer Research Centre which she finished with highest honours. After completing her doctorate, she joined Stephan Beck’s Medical Genomics group at UCL. Simone Ecker’s research focuses on the analysis of biological variability in health and disease. In particular, she works on epigenetic and transcriptional variability of blood cells in the framework of large consortia like the International Cancer Genome Consortium (ICGC) and the International Human Epigenome Consortium (IHEC) to better understand phenotypic plasticity in the human immune system.",
+    "status": "PAST",
+    "dateTime": "2017-07-13T17:30:00+01:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-london/events/241285175/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 31,
+      "waitlistCount": 0,
+      "totalCount": 31
+    },
+    "venues": [
+      {
+        "id": "25330150",
+        "name": "B4 North Wing",
+        "address": "The Strand Campus, King's College London",
+        "city": "London",
+        "state": "",
+        "country": "gb",
+        "lat": 51.5115,
+        "lon": -0.116,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London",
+      "urlname": "rladies-london"
+    }
+  },
+  {
+    "id": "240716997",
+    "title": "Tutorial: Solving iteration problems with purrr",
+    "description": "The biggest R conference, useR! (https://user2017.brussels/), is coming up! 4 days packed with tutorials and talks - but don't despair if you can't make it:\n\nCharlotte Wickham is visiting us! She will be giving a condensed version of her useR! tutorial (https://user2017.brussels/tutorials) on the purrr package for solving iteration problems.\n\nCharlotte is a part-time Assistant Professor of Statistics at Oregon State University, specialist in R training and course developer for Data Camp. Her DataCamp courses are Writing functions in R (https://www.datacamp.com/courses/writing-functions-in-r) - with her brother, Hadley Wickham - and Working with Geospatial Data in R. (https://www.datacamp.com/courses/working-with-geospatial-data-in-r)\n\nPlease see below for more details on the (standard) purrr tutorial including pre-requisites (hint: beginner/intermediate level and please install some packages beforehand as there is no public wifi):\n\nNote: This a place holder- registration is only through Eventbrite: https://www.eventbrite.co.uk/e/tutorial-solving-iteration-problems-with-purrr-tickets-35443224639\n\nOutline\n\nCode with a lot of duplication is harder to understand, troubleshoot and maintain. The goal of this tutorial is help you remove duplication in your code by using functions that write `for` loops for you.\n\nYou'll learn to use the functions in the `purrr` package to perform iterative tasks: tasks that look like \"for each _____ do _____\".\n\nBy the end of the tutorial you'll be writing code that is more readable and easier to update and you'll be ready to solve new iteration problems faster and with fewer mistakes.\n\nLearning Objectives\n\nBy the end of the tutorial, you'll be able to:\n\n• Move from solving a problem on a single element, to iterating that solution over many elements with `map()`.\n\n• Identify when to use the typed variants of `map()`: `map_lgl()`, `map_int()`, `walk()` etc.\n\n• Iterate over two arguments with `map2()`.\n\n• Leverage `purrr` to get list data into tibbles.\n\n• Use `purrr` to work with list columns in tibbles.\n\nPre-requisites\n\nDon't worry if you have never written a `for` loop, used `lapply()`, written your own function or heard of a `tibble`, this tutorial is designed to be accessible to beginners.\n\nThat said, you should be familiar with exploring and subsetting the basic data structures in R including lists and data frames.\n\nThis is a hands-on tutorial, you'll need your laptop with R installed, as well as a few packages:\n\n```\n\ninstall.packages(\"tidyverse\")\n\n# install.packages(\"devtools\")\n\ndevtools::install_github(\"jennybc/repurrrsive\")\n\n```\n\n---------------------------------------------------------------------------\n\nCode of Conduct: We expect all attendees to abide & be governed by our community CoC (https://github.com/rladies/starter-kit/wiki/Code-of-Conduct).",
+    "status": "PAST",
+    "dateTime": "2017-07-12T18:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-london/events/240716997/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 2,
+      "waitlistCount": 37,
+      "totalCount": 2
+    },
+    "venues": [
+      {
+        "id": "24927050",
+        "name": "UCL - Chandler House - Lecture Theatre G10",
+        "address": "2 Wakefield Street, WC1N 1PF",
+        "city": "London",
+        "state": "",
+        "country": "gb",
+        "lat": 51.5258,
+        "lon": -0.1227,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London",
+      "urlname": "rladies-london"
+    }
+  },
+  {
+    "id": "240605960",
+    "title": "Intro to Machine Learning with Data Scientist Barbara Fusinska!",
+    "description": "https://github.com/BasiaFusinska/RMachineLearning\n\nWe've got the fantastic Barbara Fusinska of Microsoft tech fame presenting an Intro to Machine Learning with R!! Kindly hosted by Oracle Cloud as venue sponsor at their swanky new Moorgate office, part of their generous support of grassroot & diverse tech communities!!\n\nWe have capacity for 50 people, so you will need to register on the Eventbrite page (https://www.eventbrite.co.uk/e/intro-to-machine-learning-with-data-scientist-barbara-fusinska-tickets-35332163452) to attend - MEETUP RSVP WILL NOT GET YOU PAST SECURITY!!!!\n\nhttps://secure.meetupstatic.com/photos/event/b/d/f/7/600_461748631.jpeg\n\nDoors Open/Congregate in the foyer from 6pm, Talk starts at 6:30\n\nLaptops optional: you can follow the talk on your laptop, or just watch - https://github.com/BasiaFusinska/RMachineLearning\n\n-----------------------------------------------------------------------------------\n\nMachine Learning with R\n\nData Science and especially Machine Learning are the topics that recently have gained in popularity. R is a programming language dedicated to working with data. The platform offers numerous libraries and implementations of machine learning algorithms, which makes it a perfect (and free!) tool for exploratory data analysis, presenting the results of inquiries and data science in general.\n\nIn this 50min talk, Barbara will cover:\n\n• An introduction to machine learning and R capabilities in the field of Data Science & R language basics\n\n• Specific data applications built around common problems of supervised and unsupervised learning\n\n• How to prepare data, perform learning computations, & present the results.\n\n-----------------------------------------------------------------------------------\n\nCode of Conduct: as always, we expect all attendees to abide by and be accountable to our community CoC (see About Us)\n\n-----------------------------------------------------------------------------------\n\nDirections:\n\nhttps://secure.meetupstatic.com/photos/event/b/e/7/9/600_461748761.jpeg",
+    "status": "PAST",
+    "dateTime": "2017-06-19T18:00:00+01:00",
+    "duration": "PT2H30M",
+    "eventUrl": "https://www.meetup.com/rladies-london/events/240605960/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 1,
+      "waitlistCount": 64,
+      "totalCount": 1
+    },
+    "venues": [
+      {
+        "id": "25290449",
+        "name": "Oracle",
+        "address": "The Helicon, One South Place",
+        "city": "London EC2M 2RB",
+        "state": "",
+        "country": "gb",
+        "lat": 51.5195,
+        "lon": -0.0871,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London",
+      "urlname": "rladies-london"
+    }
+  },
+  {
+    "id": "240587502",
+    "title": "Data Science Club for Minority Genders: Job Hunting Help!",
+    "description": "UPDATE: Directions to the Structures Lab (G04), Chadwick Building\n\nThe Chadwick building is the first building on the right as soon as you come into the main entrance into the quad on Gower street. Once inside, just go straight ahead to the end of the short corridor, through the glass double doors, down a few steps to get to G04.\n\nThe map: http://www.ucl.ac.uk/maps/chadwick-building\n\n-----------------------------------------------------------------------------------\n\nFor minority gender folk actively looking to move to/explore Data Science careers, we are running a practical session specifically to share recent job applying experiences, review each others' CV, do relevant interview & technical test preparation, develop strategies for kinds of job vacancies to target, as well as discuss SALARY EXPECTATIONS!!!! (P.S if you're not a grad, then £50k is a viable minimum)\n\nWe will leverage the organiser's multiple years of technical hiring experience in industry & track record successfully getting candidates into target jobs, in order to boost your chances :)\n\nRequirements: if you're looking to update your CV, your LinkedIn profile or have other material to review (e.g. a job spec, data exercise), please bring your laptop!!\n\nSome snacks & drinks will be provided, but feel free to bring your own food along!\n\nP.S this is a language agnostic event!! So whether you're an R-Lady, PyLady, SQL-Lady, or any other Lady please do join us :)\n\n---------------------------------------------------------------------------\n\nCode of Conduct: we expect all attendees to abide & be governed by our community CoC (see About Us).",
+    "status": "PAST",
+    "dateTime": "2017-06-12T17:00:00+01:00",
+    "duration": "PT3H30M",
+    "eventUrl": "https://www.meetup.com/rladies-london/events/240587502/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 19,
+      "waitlistCount": 0,
+      "totalCount": 19
+    },
+    "venues": [
+      {
+        "id": "25243426",
+        "name": "Structures Lab, G04",
+        "address": "Chadwick Building, UCL, Gower Street, WC1E 6BT",
+        "city": "London",
+        "state": "",
+        "country": "gb",
+        "lat": 51.5244,
+        "lon": -0.1328,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London",
+      "urlname": "rladies-london"
+    }
+  },
+  {
+    "id": "240013054",
+    "title": "Researchers & Students Community: Introduction to Next Generation Sequencing",
+    "description": "UPDATE: Directions to the Structure Lab (G04), Chadwick Building\n\nThe Chadwick building is the first building on the right as soon as you come into the main entrance into the quad on Gower street. Once inside, just go straight ahead to the end of the short corridor, through the glass double doors, down a few steps to get to G04.\n\nThe map: http://www.ucl.ac.uk/maps/chadwick-building\n\nSee you there! :)\n\n---------------------------------------------------------\n\nThe wonderful Louise Usher will be kicking off our series of R-Ladies Researchers and Students Community talks, with her research on next-generation sequencing!\n\nLouise is completing her PhD in Molecular Biotechnology at the University of Westminster. Her PhD project involves developing a Next Generation Sequencing assay for confirming the activity of a novel class of RNA drugs. She will be presenting on how sequencing works and how next-generation sequencing can be used to measure biological patterns.\n\nWe welcome everybody to this meet up. BUT, gender minorities will be given priority to attend, so please wait your turn! Thanks for your co-operation :)\n\nThere will be plenty of food, snacks and drink to keep us merry and mirthful.",
+    "status": "PAST",
+    "dateTime": "2017-05-25T18:30:00+01:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-london/events/240013054/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 18,
+      "waitlistCount": 0,
+      "totalCount": 18
+    },
+    "venues": [
+      {
+        "id": "25243426",
+        "name": "Structures Lab, G04",
+        "address": "Chadwick Building, UCL, Gower Street, WC1E 6BT",
+        "city": "London",
+        "state": "",
+        "country": "gb",
+        "lat": 51.5244,
+        "lon": -0.1328,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London",
+      "urlname": "rladies-london"
+    }
+  },
+  {
+    "id": "239404233",
+    "title": "Make and host your own blog using R and GitHub",
+    "description": "Have you ever thought of writing a blog? Maybe to tell the world about your R projects?\n\nCome to our session and bring your laptop, we will explore together some options and you will go back home with a new blog that integrates nicely with R/Rstudio and it's hosted live on Github.\n\nWe will look at pros and cons of WordPress, Rmarkdown + HUGO and markdown + Jekyll. To experiment with all of them, please create a GitHub account and install the following software on your machine BEFORE the session:\n\n- R (https://www.r-project.org/)\n- RStudio (https://www.rstudio.com/)\n- git (https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)\n- jekyll (https://jekyllrb.com/) (optional, here some instructions (https://scotch.io/tutorials/getting-started-with-jekyll-plus-a-free-bootstrap-3-starter-theme))\n\nLooking forward to seeing you on Wednesday!\nClaudia",
+    "status": "PAST",
+    "dateTime": "2017-04-26T18:30:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-london/events/239404233/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 25,
+      "waitlistCount": 0,
+      "totalCount": 25
+    },
+    "venues": [
+      {
+        "id": "24850650",
+        "name": "SHACK15 : The Data Science Hub",
+        "address": "67-71 Shoreditch High St",
+        "city": "London",
+        "state": "",
+        "country": "gb",
+        "lat": 51.5246,
+        "lon": -0.077,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London",
+      "urlname": "rladies-london"
+    }
+  },
+  {
+    "id": "238987460",
+    "title": "R-Ladies Researchers Community Launch!! (MINORITY GENDERS ONLY)",
+    "description": "Chiin's been promising our minority gender Academic Researchers this will happen for several months now, but we are FINALLY LAUNCHING this sub-community!!\n\nThis will be both a celebration (with food & drink), a Bioinformatics talk/workshop (see below), and networking all in one, so hopefully something for everyone :)\n\nRemember you must be a STEM minority gender (female/other) & an Academic Researcher (current/ex) or student to participate!!\n\nDo sign-up here on Meetup OR Eventbrite (https://www.eventbrite.co.uk/e/r-ladies-london-researchers-students-community-launch-tickets-33618490811?ref=estw)!\n\nTimings: talk starts at 6pm\n\nCOMPLETE BEGINNERS WELCOME!!\n\nMentor Vicky has prepared a fantastic workshop to encourage early R users/enthusiasts of the benefits of coding - for our more advanced R-Ladies, we'd love if you'd help Mentor the newer/first-time coders during this workshop!! Once we've collected data (!) on the community coding experience, we can organise specific events for the appropriate technical levels :)\n\nWorkshop requirements:\n\n-Laptop with R & RStudio installed\n\n-Packages: dplyr, ggplot2, ggsignif\n\n-Data to download: https://github.com/datacarpentry/R-genomics/blob/gh-pages/data/Ecoli_metadata.csv\n\nWiFi: ONLY eduroam will be available!! If you're doing the workshop & don't have eduroam access, please ensure you've addressed the above requirements in advance.\n\n-------------------------------------------------------------------------\n\nFor the presentation, we are delighted to have Vicky Butt giving us a bioinformatics talk and workshop aimed at R beginners/intermediates, researchers/students in life sciences, and curious individuals! She will be talking about what bioinformaticians do, and how to learn bioinformatics. This will then be followed by a workshop analysing and visualising genomic data in R.\n\nVicky is doing a bioinformatics PhD at King’s College London studying metabolomics of microbiota. Her first degree was in Neuroscience, but then moved into computational biology and did a Masters in Systems Biology after discovering the power of programming for research. She hopes to encourage more researchers to learn to code, especially minority groups in STEM.\n\n-------------------------------------------------------------------------\n\nMandate: as a civil service organisation we believe in the Equality Act 2010's Public Sector Equality Duty of advancing equality of opportunity between people who share a protected characteristic and those who don’t, in this case complying by explicitly promoting the currently underrepresented minority genders in STEM.",
+    "status": "PAST",
+    "dateTime": "2017-04-19T18:00:00+01:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-london/events/238987460/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 31,
+      "waitlistCount": 0,
+      "totalCount": 31
+    },
+    "venues": [
+      {
+        "id": "25166992",
+        "name": "MAL B04, Birkbeck University of London",
+        "address": "Malet St",
+        "city": "London WC1E 7HX",
+        "state": "",
+        "country": "gb",
+        "lat": 51.521,
+        "lon": -0.1278,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London",
+      "urlname": "rladies-london"
+    }
+  },
+  {
+    "id": "238026475",
+    "title": "Data Science CV Skills & UseR! Conference Tips",
+    "description": "We will focus on two topics in this session:\n\n1) Data Science Skills - Grace Meyer\nTips on CV structure, formatting, key words and tailoring to job specs.\n\n2) UseR! Conference Tips - Hannah Frick\nUser! is being held in Brussels in June and we want to support abstract submission. Come and learn about abstract writing and prep.\n\nGrace Meyer is a Senior Data Science Consultant with Mango Solutions. In her last position she led an analytical team at Etihad Airways.\n\nHannah Frick is a statistician and data scientist with a strong background in stats methodology, research practices and R programming. She presented at User! 2016 on the trackeR package which she authored.",
+    "status": "PAST",
+    "dateTime": "2017-03-15T18:00:00Z",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-london/events/238026475/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 35,
+      "waitlistCount": 0,
+      "totalCount": 35
+    },
+    "venues": [
+      {
+        "id": "24850649",
+        "name": "SHACK15 : The Data Science Hub",
+        "address": "67-71 Shoreditch High St,",
+        "city": "London",
+        "state": "",
+        "country": "gb",
+        "lat": 51.5246,
+        "lon": -0.077,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London",
+      "urlname": "rladies-london"
+    }
+  },
+  {
+    "id": "237327713",
+    "title": "February Event: Reproducible R docs in GitHub!! (Intermediate-level­)",
+    "description": "We are over the moon to have Steph Locke, a prominent R lady practitioner on the global tech scene, doing an Intermediate-level session on git/github & Rmarkdown for R-Ladies London!! She is based in Cardiff, hence we are privileged to have her in the big smoke for this session :)\n\nSteph's a super-experienced Data Scientist, a Microsoft Data Platform MVP, founder of satRday conference, who's now running her own consultancy Locke Data https://itsalocke.com/about-us/\n\nTimings: talk STARTS 6pm!! (Steph has to get to the airport afterwards to fly to satRday in Cape Town!!)",
+    "status": "PAST",
+    "dateTime": "2017-02-13T18:00:00Z",
+    "duration": "PT2H30M",
+    "eventUrl": "https://www.meetup.com/rladies-london/events/237327713/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 51,
+      "waitlistCount": 0,
+      "totalCount": 51
+    },
+    "venues": [
+      {
+        "id": "25021517",
+        "name": "Room MAL 152, Birkbeck, University of London",
+        "address": "Malet Street, Bloomsbury",
+        "city": "London WC1E 7HX",
+        "state": "",
+        "country": "gb",
+        "lat": 51.5215,
+        "lon": -0.1303,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London",
+      "urlname": "rladies-london"
+    }
+  },
+  {
+    "id": "236633109",
+    "title": "January Event: Demystifying Data Science!!",
+    "description": "Our first R-Ladies meetup of 2017!! Happy New Year!!\n\nIf you're confused by all the industry buzz around Data Science & Data Scientists and just want some clarity, this event is for you!! R-Ladies London will give you facts, frameworks, and examples from our career experiences within the Data Science field, to explain the realities behind this major trend and demystify the hype.\n\nYou must REGISTER ON EVENTBRITE to attend!! Meetup RSVPs will be ignored, so SIGN-UP HERE: https://www.eventbrite.co.uk/e/r-ladies-london-january-event-demystifying-data-science-tickets-30464902343?aff=es2\n\nTimings: doors open 6pm, talk starts 6.30pm\n\nFormat: talk only, no laptops needed\n\nCode of Conduct: you are expected to abide by & respect R-Ladies' Code of Conduct (https://github.com/rladies/starter-kit/wiki/Code-of-Conduct). Failure to comply is NOT tolerated.",
+    "status": "PAST",
+    "dateTime": "2017-01-25T18:00:00Z",
+    "duration": "PT2H30M",
+    "eventUrl": "https://www.meetup.com/rladies-london/events/236633109/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 52,
+      "waitlistCount": 0,
+      "totalCount": 52
+    },
+    "venues": [
+      {
+        "id": "24974215",
+        "name": "GOR B04, 43 Gordon Square - Birkbeck, University of London",
+        "address": "WC1H 0PD",
+        "city": "London",
+        "state": "",
+        "country": "gb",
+        "lat": 51.5246,
+        "lon": -0.1303,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London",
+      "urlname": "rladies-london"
+    }
+  },
+  {
+    "id": "256553328",
+    "title": "Tidy Tuesday comes to London!",
+    "description": "(Please, ensure that register to this event at our Eventibrite page https://www.eventbrite.co.uk/e/tidy-tuesday-comes-to-london-tickets-52686939053, Meetup registration alone won't be valid!).\n\nTidy Tuesday is in Town!! What do you mean you've never heard about Tidy Tuesdays? It's a brilliant data project developed by R4DS learning community to promote the use of R language in Data Science and link mentors and learners. How?\n\nEvery Tuesday a raw dataset will be posted and an original chart associated with that dataset. The goal is to apply your take on the chart. While the dataset will be “tamed”, it will not always be tidy! As such you might need to apply various R for Data Science techniques to wrangle the data into a true tidy format. The goal of Tidy Tuesday is to apply your R skills, get feedback, explore other’s work, and connect with the greater RStats community! So everyone of all skills should participate!\n\nRemember, done is better than perfect! It's better to show the progression of your skills with something basic but quick than something very sophisticated but tedious!\n\nAt the end of the meetup we will publish our graphs and code on Twitter with #TidyTuesday hashtag (fanfares)!\n\nSo get ready for a fun and hands-on meetup with lots to learn and explore!\n\nAgenda:\n\n5:30pm - doors open (pizza and drinks won't last forever!)\n\n6pm - quick intros and hellos from R-Ladies and hosts\n\n6:15ish pm - start TidyTuesday-ing!!\n\n8:45ish pm - publish our amazing work\n\nSee you all there!\n\nWe would like to say thanks to our sponsor tech recruitment agency RedCat Digital and to our hosts online mortgage broker Habito. Together with them, we are pleased to promote diversity and create a community of minority genders in the data space!",
+    "status": "PAST",
+    "dateTime": "2018-12-11T17:30:00Z",
+    "duration": "PT3H30M",
+    "eventUrl": "https://www.meetup.com/rladies-london/events/256553328/",
+    "featuredEventPhoto": {
+      "id": "476483065",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/a/1/9/highres_476483065.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/a/1/9/600_476483065.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/a/1/9/thumb_476483065.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 17,
+      "waitlistCount": 0,
+      "totalCount": 17
+    },
+    "venues": [
+      {
+        "id": "25727119",
+        "name": "Habito HQ",
+        "address": "14 Gower's Walk, Whitechapel",
+        "city": "London",
+        "state": "",
+        "country": "gb",
+        "lat": 51.5128,
+        "lon": -0.0674,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London",
+      "urlname": "rladies-london"
+    }
+  },
+  {
+    "id": "255579984",
+    "title": "R-Ladies Making a difference in R and Open Source",
+    "description": "Register on Eventbrite here: https://www.eventbrite.co.uk/o/r-ladies-london-12267598254\n\nR-Ladies London have a great pleasure to have four wonderful presenters lined up to show how they are making a difference to the R and open source community.\n\nTsatska Enkhbayar is a Senior Insight Analyst at Hotels.com. She and a colleague will tell us about how they develop and deploy their own internal packages at Hotels.com.\n\nNic Crane is a Data Scientist at Elucidata, a Shiny guru and a tidy verse contributor. She will tell us about how she was inspired to contribute to open source and then what steps she took to put it into action.\n\nJasmine Pengelly is a Data Analyst who has previously worked at Stack Overflow and DAZN. She currently works at General Assembly teaching Data Analytics and Data Science. She loves working in both Python and R and is going to demonstrate some of her personal analysis.\n\nThis event is kindly hosted by Hotels.com!",
+    "status": "PAST",
+    "dateTime": "2018-11-27T18:30:00Z",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-london/events/255579984/",
+    "featuredEventPhoto": {
+      "id": "475498094",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/e/2/e/e/highres_475498094.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/e/2/e/e/600_475498094.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/2/e/e/thumb_475498094.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 33,
+      "waitlistCount": 0,
+      "totalCount": 33
+    },
+    "venues": [
+      {
+        "id": "24234054",
+        "name": "Hotels.com",
+        "address": "Angel Building, 407 St John Street",
+        "city": "EC1V 4AB",
+        "state": "",
+        "country": "gb",
+        "lat": 51.5311,
+        "lon": -0.106,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London",
+      "urlname": "rladies-london"
+    }
+  },
+  {
+    "id": "254581599",
+    "title": "Interpretable Deep Learning with R, Keras and LIME",
+    "description": "Registration via Eventbrite: https://www.eventbrite.co.uk/e/interpretable-deep-learning-with-r-lime-and-keras-tickets-50118369392\n\nRemember, without an Eventbrite ticket your registration won't be valid!\n\nABOUT THE SPEAKER\n\nR-Ladies London have a great pleasure to host Dr Shirin Glander, a data scientist at codecentric in Munster, Germany. If that wasn't enough, she's also an R-blogger, data enthusiast, organiser of MünsteR, animal lover, ballroom and latin dance teacher! You can read her award-winning blog here: https://www.shirin-glander.de/\n\nShirin will talk about using R to build an interpretable imagine recognition models.\n\nABOUT THE TALK\n\nKeras is a high-level open-source deep learning framework that by default works on top of TensorFlow. Keras is minimalistic, efficient and highly flexible because it works with a modular layer system to define, compile and fit neural networks. It has been written in Python but can also be used from within R. Because the underlying backend can be changed from TensorFlow to Theano and CNTK (with more options being developed right now) it is designed to be framework-independent. Models can be trained on CPU or GPU, locally or in the cloud. Shirin will show an example of how to build an image classifier with Keras. We'll be using a convolutional neural net to classify fruits in images. But that's not all! We not only want to judge our black-box model based on accuracy and loss measures - we want to get a better understanding of how the model works. We will use an algorithm called LIME (local interpretable model-agnostic explanations) to find out what part of the different test images contributed most strongly to the classification that was made by our model. Shirin will introduce LIME and explain how it works. And finally, she will show how to apply LIME to the image classifier we built before, as well as to a pre-trained Imagenet model.\n\nMEETUP AGENDA\n\n18.00 - 19.00: Doors open and networking.\n19.00 - 19.15: Intro in the Data Science at Farfetch\n19.15 - 20.30: Shirin's talk + questions\n~20.30 - ~21.00: networking\n\nACKNOWLEDGEMENTS\nWe would like to say thanks to our sponsor; tech recruitment agency RedCat Digital (https://www.redcat-digital.com/), and to our hosts global ecommerce platform Farfetch (https://www.farfetch.com/uk/). Together with them, we are pleased to promote diversity and create a community of minority genders in the data space!",
+    "status": "PAST",
+    "dateTime": "2018-10-16T18:00:00+01:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-london/events/254581599/",
+    "featuredEventPhoto": {
+      "id": "474512176",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/d/b/0/highres_474512176.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/d/b/0/600_474512176.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/d/b/0/thumb_474512176.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 58,
+      "waitlistCount": 0,
+      "totalCount": 58
+    },
+    "venues": [
+      {
+        "id": "25896598",
+        "name": "Farfetch",
+        "address": "211 Old St",
+        "city": "London",
+        "state": "",
+        "country": "gb",
+        "lat": 51.5259,
+        "lon": -0.0887,
+        "postalCode": "EC1V 9NR",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London",
+      "urlname": "rladies-london"
+    }
+  },
+  {
+    "id": "253352011",
+    "title": "Dog hackathon",
+    "description": "Registration via Eventbrite: https://www.eventbrite.com/o/r-ladies-london-17633978793\n\nDo you love dogs? Do you love data? Do you love R? Then this is the perfect event for you.\n\nR ladies London is running a full day hackathon together with Dogs Trust. We will explore data provided by the charity, as well as public data, to help Dogs Trust learn from their data.\n\nQuestions that we will try to answer include:\n\nCan we apply machine learning, to successfully classify visual images of 30 different dog breeds?\nAre particular breeds more likely to be rehomed in particular areas?\nHistorically, are breed popularity trends seen across the whole of the UK, or do specific areas show unique trends?\nAre rehoming rates influenced by breed appearances on film or TV?\n\nJoin us for a day of data analysis and fun.\n\nPlease note that you will need to sign a non-disclosure agreement to access any data from Dogs Trust.\n\nApproximate schedule (this will be confirmed in an email closer to the date):\n\n9-10am Arrival\n\n10am-1pm Hacking\n\n1-2pm Lunch (pizza!)\n\n2-6pm More hacking (there will be some snacks to keep us going)\n\n6-7pm Presentations and wrap up",
+    "status": "PAST",
+    "dateTime": "2018-09-29T09:00:00+01:00",
+    "duration": "PT10H",
+    "eventUrl": "https://www.meetup.com/rladies-london/events/253352011/",
+    "featuredEventPhoto": {
+      "id": "472014904",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/6/7/8/highres_472014904.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/6/7/8/600_472014904.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/6/7/8/thumb_472014904.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 56,
+      "waitlistCount": 0,
+      "totalCount": 56
+    },
+    "venues": [
+      {
+        "id": "25704998",
+        "name": "Microsoft Reactor",
+        "address": "70 Wilson Street, EC2A 2DB",
+        "city": "London",
+        "state": "",
+        "country": "gb",
+        "lat": 51.5218,
+        "lon": -0.0839,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London",
+      "urlname": "rladies-london"
+    }
+  },
+  {
+    "id": "253942113",
+    "title": "Data Science for Social Good: a Presentation by Lisa Green and Rayid Ghani",
+    "description": "A growing number of institutions and companies have moved to a data-driven approach to face increasingly complex research questions. An investigation of social change mechanisms has become particularly important for policy making, and data science provides a great opportunity to Social Good Organizations to work out successful strategies and achieve their goals. But who will bring together Social Good Organizations and data scientists?\n\nLisa Green and Rayid Ghani launched the non-profit organization, Data Science for Social Good (DSSG), whose primary aim is to implement an online marketplace for matching volunteer data scientist with social good projects. The platform combines community-based motivation and expert cooperation, innovative tools and parallel workflow. If you are a data scientist, a worker for social good (or both), but especially a person who cares and developed a curiosity for this topic, you must come and listen to Lisa and Rayid! We are looking forward to seeing you at the talk!\n\nSpeaker: Lisa Green & Rayid Ghani\n\nEssential bio: Lisa is the executive director of the non-profit organization Data Science for Social Good, and advisor of Domino Data Lab. Rayid is a renowned data scientist and started the project Data Science for Social Good Summer Fellowship.\n\nDoors will open and snacks and drinks will be served at 18:30. The talk will start at 19:00.\n\nVenue: BT-Centre HQ office in A1 (1st floor event centre).\n\nIMPORTANT NOTE:\nPlease reserve your ticket on Eventbrite at the link https://www.eventbrite.co.uk/e/data-science-for-social-good-a-presentation-by-lisa-green-tickets-49245085376",
+    "status": "PAST",
+    "dateTime": "2018-08-28T18:30:00+01:00",
+    "duration": "PT2H30M",
+    "eventUrl": "https://www.meetup.com/rladies-london/events/253942113/",
+    "featuredEventPhoto": {
+      "id": "473905994",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/5/8/a/highres_473905994.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/5/8/a/600_473905994.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/5/8/a/thumb_473905994.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 30,
+      "waitlistCount": 0,
+      "totalCount": 30
+    },
+    "venues": [
+      {
+        "id": "20431302",
+        "name": "BT Centre",
+        "address": "81 Newgate Street, London. EC1A 7AJ",
+        "city": "London",
+        "state": "",
+        "country": "gb",
+        "lat": 51.5158,
+        "lon": -0.098,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London",
+      "urlname": "rladies-london"
+    }
+  },
+  {
+    "id": "251728622",
+    "title": "Shiny Dashboard Workshop",
+    "description": "Registration via Eventbrite: https://www.eventbrite.com/e/shiny-dashboard-workshop-tickets-46765574091\n\nWant to level up your data visualisation skills? Transform your charts into interactive tools with Shiny dashboards!\n\nCome to our workshop to get hands-on experience on how to build Shiny dashboards from scratch.\n\nThe workshop will be run by Aylin Agiali and Jessica Van Der Kroef, Data Scientists from King.com\n\nExamples of Shiny dashboards: https://rstudio.github.io/shinydashboard/examples.html\n\nThis workshop will be of most benefit to users who already have some experience with R.",
+    "status": "PAST",
+    "dateTime": "2018-07-27T18:30:00+01:00",
+    "duration": "PT2H30M",
+    "eventUrl": "https://www.meetup.com/rladies-london/events/251728622/",
+    "featuredEventPhoto": {
+      "id": "472014904",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/6/7/8/highres_472014904.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/6/7/8/600_472014904.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/6/7/8/thumb_472014904.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 50,
+      "waitlistCount": 0,
+      "totalCount": 50
+    },
+    "venues": [
+      {
+        "id": "25492647",
+        "name": "King",
+        "address": "The Ampersand Building 178, Wardour Street, WC1B 3AA",
+        "city": "London",
+        "state": "",
+        "country": "gb",
+        "lat": 51.5156,
+        "lon": -0.1353,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London",
+      "urlname": "rladies-london"
+    }
+  },
+  {
+    "id": "250739041",
+    "title": "Shiny 101",
+    "description": "Registration via Eventbrite: https://www.eventbrite.co.uk/e/shiny-101-tickets-46044563529\n\nHave you heard of Shiny?\n\nIt’s a handy framework for building applications in R. If you want to share your analysis with others in an interactive way, Shiny is for you!\n\nCome to a two hour hands on session covering the basics of reactivity, UI and Server scripts and a demo of in production Shiny applications. Run by Rachel Kirkham from the National Audit Office.\n\nSome R experience required.\n\nSponsor: Thomson Reuters",
+    "status": "PAST",
+    "dateTime": "2018-06-20T18:30:00+01:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-london/events/250739041/",
+    "featuredEventPhoto": {
+      "id": "471060530",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/1/2/highres_471060530.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/1/2/600_471060530.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/1/2/thumb_471060530.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 43,
+      "waitlistCount": 0,
+      "totalCount": 43
+    },
+    "venues": [
+      {
+        "id": "25272724",
+        "name": "Thomson Reuters",
+        "address": "30 South Colonnade-Canary Wharf",
+        "city": "E14 5EP",
+        "state": "",
+        "country": "gb",
+        "lat": 51.5043,
+        "lon": -0.0203,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London",
+      "urlname": "rladies-london"
+    }
+  },
+  {
+    "id": "249879856",
+    "title": "Data in London Town",
+    "description": "**registration via eventbrite** at https://www.eventbrite.co.uk/e/data-in-london-town-tickets-45261265664\n\nTalks about London data. Details on Eventbrite.",
+    "status": "PAST",
+    "dateTime": "2018-05-29T18:30:00+01:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-london/events/249879856/",
+    "featuredEventPhoto": {
+      "id": "470270388",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/4/d/4/highres_470270388.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/4/d/4/600_470270388.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/4/d/4/thumb_470270388.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 33,
+      "waitlistCount": 0,
+      "totalCount": 33
+    },
+    "venues": [
+      {
+        "id": "25500441",
+        "name": "Deliveroo Offices, Cannon Street Station",
+        "address": "1 Cousin Lane, EC4R 3TE",
+        "city": "London",
+        "state": "",
+        "country": "gb",
+        "lat": 51.5101,
+        "lon": -0.0911,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London",
+      "urlname": "rladies-london"
+    }
+  },
+  {
+    "id": "248695902",
+    "title": "R-ladies Lightening Talks April 2018",
+    "description": "• What we'll do\n**Please note**: registration for this event is via Eventbrite:\nhttps://www.eventbrite.co.uk/o/r-ladies-london-12267598254\n\nCome along to learn tips and new skills in R, talk with other analysts and data scientists, and support R-Ladies doing great work!\n\nWe have speakers lined up to show case their experience of using Shiny to pick lunch, package building, analysing theatre sales, bioinformatics and more- all in easily digestible 5 minute talks!\n\nThis event is being hosted by Hotels.com.\n\n• What to bring\n\n• Important to know",
+    "status": "PAST",
+    "dateTime": "2018-04-24T18:30:00+01:00",
+    "duration": "PT2H30M",
+    "eventUrl": "https://www.meetup.com/rladies-london/events/248695902/",
+    "featuredEventPhoto": {
+      "id": "469224837",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/1/0/5/highres_469224837.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/1/0/5/600_469224837.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/1/0/5/thumb_469224837.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 50,
+      "waitlistCount": 0,
+      "totalCount": 50
+    },
+    "venues": [
+      {
+        "id": "24843524",
+        "name": "The Angel Building,",
+        "address": "407 St John St, EC1V 4EX",
+        "city": "London",
+        "state": "",
+        "country": "gb",
+        "lat": 51.5312,
+        "lon": -0.106,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London",
+      "urlname": "rladies-london"
+    }
+  },
+  {
+    "id": "247712800",
+    "title": "Dive into dplyr",
+    "description": "**Please note**: registration for this event is via Eventbrite: https://www.eventbrite.co.uk/e/dive-into-dplyr-tickets-43071163008\n\n# Speaker details\n\nGrace Meyer is a commercial analytics expert with proven success in advising business strategy based on data driven insights. She is currently based in London and works for the economics consultancy Oxera where she applies machine learning to strategic projects and is developing the data science and programming team. She is a mentor in the R-Ladies London chapter, uses R on a daily basis to crunch data and problem solve and presented at both UseR! and EARL last year.\n\n# Dive into dplyr\n\nData is seldom already in a tidy format for you to start analysis on straight away. My personal experience confirms that about 80% of the analytics work-flow is massaging and crunching data into a useful state. R is a master of analytics and modelling which would be useless without its strong data manipulation functionality, especially from the tidyverse package dplyr. In this session we will learn the main verbs of dplyr and link them together with the magrittr pipe to create new data sets and get insight from our data. Then we will take a look at the verb extensions and other package functionality.\n\n# What to bring\n\nThe session will be hands on so bring your own laptop with dplyr installed (examples will be based on in-build data sets). If you don't have the set-up, come along anyway to learn about this famous package.\n\n# Important to know\n\nThis meetup will be aimed at all R abilities.\n\nDoors: 6:30pm\nStart: 7:00pm\n**Please note**: registration for this event is via Eventbrite: https://www.eventbrite.co.uk/e/dive-into-dplyr-tickets-43071163008",
+    "status": "PAST",
+    "dateTime": "2018-03-21T18:30:00Z",
+    "duration": "PT2H30M",
+    "eventUrl": "https://www.meetup.com/rladies-london/events/247712800/",
+    "featuredEventPhoto": {
+      "id": "468377550",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/4/8/e/highres_468377550.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/4/8/e/600_468377550.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/4/8/e/thumb_468377550.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 33,
+      "waitlistCount": 0,
+      "totalCount": 33
+    },
+    "venues": [
+      {
+        "id": "25730379",
+        "name": "The Health Foundation",
+        "address": "90 Long Acre",
+        "city": "London",
+        "state": "",
+        "country": "gb",
+        "lat": 51.5142,
+        "lon": -0.1235,
+        "postalCode": "WC2E 9RA",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London",
+      "urlname": "rladies-london"
+    }
+  },
+  {
+    "id": "247492507",
+    "title": "R from Scratch",
+    "description": "Are you new to R? Do you want to know how to get started and learn the basics of this programming language? If you answered yes to the above questions, then come to our meetup on February 21st and bring your laptop. We are repeating our beginner's session from October, and will show you how to install R (and RStudio), do basic operations, use functions, install packages and much more.\n\nInstructor: Kasia Kulma\n\nVenue: SHACK15, 67-71 Shoreditch High Street, E1 6JJ\n\nSponsors: SHACK15 and H2O",
+    "status": "PAST",
+    "dateTime": "2018-02-21T18:30:00Z",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-london/events/247492507/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 32,
+      "waitlistCount": 0,
+      "totalCount": 32
+    },
+    "venues": [
+      {
+        "id": "24850649",
+        "name": "SHACK15 : The Data Science Hub",
+        "address": "67-71 Shoreditch High St,",
+        "city": "London",
+        "state": "",
+        "country": "gb",
+        "lat": 51.5246,
+        "lon": -0.077,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London",
+      "urlname": "rladies-london"
+    }
+  },
+  {
+    "id": "266285115",
+    "title": "2019 Wrap-up Social ",
+    "description": "The final meetup of the year will be a social where we will wrap up the successes of 2019.\n\nPlease drop in to say hi, what you liked over the year and to discuss your work, career, R life, life outside of R (it exists!) and what we should do next year.\n\nFeel welcome even if you didn't come to any meetups through the year!\n\nWe have a table at Ask For Janice which is a lovely venue which serves great beverages (both alc and non), snacks and meals.",
+    "status": "PAST",
+    "dateTime": "2019-12-03T18:00:00Z",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-london/events/266285115/",
+    "featuredEventPhoto": {
+      "id": "486448662",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/f/f/6/highres_486448662.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/f/f/6/600_486448662.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/f/f/6/thumb_486448662.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 30,
+      "waitlistCount": 0,
+      "totalCount": 30
+    },
+    "venues": [
+      {
+        "id": "26443915",
+        "name": "Ask For Janice",
+        "address": "50-52 Long Lane",
+        "city": "London",
+        "state": "",
+        "country": "gb",
+        "lat": 51.5191,
+        "lon": -0.1004,
+        "postalCode": "EC1A 9EJ",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London",
+      "urlname": "rladies-london"
+    }
+  },
+  {
+    "id": "266041371",
+    "title": "Max Kuhn presents \"Totally Tidy Tuning Tools\"",
+    "description": "RLadies London is excited to present Max Kuhn on November 20th.\n\nPlease get yourself a ticket on Eventbrite: https://www.eventbrite.co.uk/e/max-kuhn-presents-totally-tidy-tuning-tools-tickets-79118372181\n\nTotally Tidy Tuning Tools:\nMany machine learning models have hyperparameters whose values cannot be analytically estimated from the data. For example, the number of neighbors in a nearest-neighbor classification model. The tidymodels collection or R packages are a tidyverse interface to modeling. In this talk, the new tune package will be introduced. Examples of the tidy interface to model tuning will be demonstrated.\n\nMax Kuhn is a software engineer with RStudio and formerly of Pfizer. Max is a leader in the R community on predictive modelling. He is the author of the caret package and the book Applied Predictive Modelling. (https://resources.rstudio.com/authors/max-kuhn)",
+    "status": "PAST",
+    "dateTime": "2019-11-20T18:00:00Z",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-london/events/266041371/",
+    "featuredEventPhoto": {
+      "id": "486191378",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/c/7/2/highres_486191378.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/c/7/2/600_486191378.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/c/7/2/thumb_486191378.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 1,
+      "waitlistCount": 38,
+      "totalCount": 1
+    },
+    "venues": [
+      {
+        "id": "26396895",
+        "name": "Aviva",
+        "address": "28-30 Hoxton Square",
+        "city": "London",
+        "state": "",
+        "country": "gb",
+        "lat": 51.5279,
+        "lon": -0.0805,
+        "postalCode": "N1 6NN",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London",
+      "urlname": "rladies-london"
+    }
+  },
+  {
+    "id": "265319212",
+    "title": "Time series forecasting using ARIMA",
+    "description": "(Please, ensure that register to this event at our Eventbrite page\nhttps://www.eventbrite.co.uk/e/time-series-forecasting-using-arima-tickets-74863220909, Meetup registration alone won't be valid!).\n\nIn this workshop, we will be reviewing the basic statistical theory and a straightforward worked example of Autoregressive Integrated Moving Average (ARIMA) models for time series analysis. As one of several alternative approaches to forecasting future trends using past information, ARIMA is a flexible but also powerful ‘semi-parametric’ method for forecasting and fitting longitudinal (aka panel) data, and there is also a user-friendly R implementation. In contrast to more inferential tools like Cox survival models, ARIMA models can make useful, potentially more accurate forward predictions with relatively sparse datasets, and they can be very useful for surfacing initial evidence of causal trends for further validation.\n\nARIMA can be used for everything from forecasting highly seasonal sales trends for food products, to the main example we’ll work through: surfacing a potential link between delayed discharges of hospitalised NHS patients and the unusual increase in English mortality rates since 2015.\n\nThe workshop does not presuppose any prior experience with time series/panel data analysis, but it will be helpful to have some statistical background as well as basic R skills. Bring your laptops! Data and code will be circulated on Github.\n\nThe talk will be given by Jules Shen, who is a statistical consultant with the Health Foundation, working primarily with the Improvement Analytics Unit. She is also a part-time PhD student in public health and policy at the LSHTM, who previously worked in development/health economics and management consultancy. Jules’ wife has worked out that her optimal day is a generalised linear function of pet budgies + ramen noodles.\n\nAgenda:\n\n6pm - snacks and networking for R-Ladies and hosts [lower ground floor downstairs; LSHTM refectory]\n\n6:30ish pm – workshop starts! [upstairs in 1st floor John Snow lecture theatre, please note that no food is allowed in the lecture theatre]\n\n8:00ish pm - end of workshop!",
+    "status": "PAST",
+    "dateTime": "2019-10-24T18:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-london/events/265319212/",
+    "featuredEventPhoto": {
+      "id": "475498094",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/e/2/e/e/highres_475498094.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/e/2/e/e/600_475498094.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/2/e/e/thumb_475498094.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 50,
+      "waitlistCount": 0,
+      "totalCount": 50
+    },
+    "venues": [
+      {
+        "id": "26208314",
+        "name": "London School of Hygiene & Tropical Medicine",
+        "address": "Keppel Street",
+        "city": "London",
+        "state": "",
+        "country": "gb",
+        "lat": 51.5209,
+        "lon": -0.1303,
+        "postalCode": "WC1E 7HT",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London",
+      "urlname": "rladies-london"
+    }
+  },
+  {
+    "id": "261815509",
+    "title": "Text Mining Using Tidy Data Principles",
+    "description": "(Please, ensure that register to this event at our Eventbrite page\nhttps://www.eventbrite.co.uk/e/julia-silge-tickets-62444943507, Meetup registration alone won't be valid!).\n\nR-Ladies London have a great pleasure to host Julia Silge (https://juliasilge.com/about/), a data scientist at Stack Overflow. If this is the first time you have heard about Julia then prepare to be impressed. She has a PhD in Astrophysics, been a keynote speaker a multiple conferences and has written a book about tidy text mining (https://www.tidytextmining.com/) together with David Robinson. You are not going to want to miss this!\n\nAbout the talk\nText data is increasingly important in many domains, and tidy data principles and tidy tools can make text mining easier and more effective. In this talk, learn how to manipulate, summarize, and visualize the characteristics of text using these methods and R packages from the tidy tool ecosystem. These tools are highly effective for many analytical questions and allow analysts to integrate natural language processing into effective workflows already in wide use. Explore how to implement approaches such as measuring tf-idf, topic modeling, and building classification models.\n\nSee you all there!\n\nAcknowledgements\n\nThank you to Mumsnet for hosting us.",
+    "status": "PAST",
+    "dateTime": "2019-09-12T18:00:00+01:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-london/events/261815509/",
+    "featuredEventPhoto": {
+      "id": "475498094",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/e/2/e/e/highres_475498094.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/e/2/e/e/600_475498094.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/2/e/e/thumb_475498094.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 54,
+      "waitlistCount": 0,
+      "totalCount": 54
+    },
+    "venues": [
+      {
+        "id": "26417680",
+        "name": "Mumsnet",
+        "address": "27 Greenwood Place",
+        "city": "London",
+        "state": "",
+        "country": "gb",
+        "lat": 51.5528,
+        "lon": -0.144,
+        "postalCode": "NW5 1LB",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London",
+      "urlname": "rladies-london"
+    }
+  },
+  {
+    "id": "262443695",
+    "title": "R in Health Sector",
+    "description": "!!!! (please, make sure you register for this event at Eventbrite page https://www.eventbrite.co.uk/e/r-in-health-sector-tickets-63754394109. Registrations at Meetup.com page only won't be considered) !!!!\n\nR Ladies London have a pleasure to announce a special meetup that this time will revolve around R in Healthcare. We have some pretty amazing speakers lined up with equally amazing hosts and the venue! So get ready for some serious learning about how R can and is used in the Health sector.\n\nAGENDA\n\n18:00 - 18:30 - Doors open, food, networking.\n\n18:30 - 18:45 - Hotels.com and R-ladies intro.\n\n18:50 - 19:10 - Fiona Grimm, Health Foundation: Using R and Shiny to track winter pressures in the NHS\n\n19:15 - 19:30 - Zoë Turner: NHS Clinical Development Unit: Using R in Mortality Surveillance within a mental and general health secondary care provider\n\n19:35 - 19:50 - Lori Edwards Suarez: NHS Clinical Development Unit: Learning & Using R to support front end staff\n\n19:50 - 20:10 - Ania Kosicka: Department of Health and Social Care: TBA\n\nAbout Fiona\n\nFiona is a Senior Data Analyst at the Health Foundation, where she works on research projects that use linked patient data to get new insight into the quality of health and care. She has a PhD in biochemistry and likes to experiment with data visualisation in R and Shiny.\n\nAbout Zoë\n\nZoë has worked for 6 years as an analyst in the NHS and is currently a Senior Information Analyst at Nottinghamshire Healthcare NHS Foundation Trust, who provide general and mental health services. Her main technical language is SQL but she has been learning R for just over a year. She has a degree in Philosophy and curates the Twitter account @AppliedInfoNott.\n\nAbout Lori\n\nLori has worked as an analyst for nearly 2 years at Nottinghamshire Healthcare Foundation Trust. Her role is to support Liaison Psychiatry across the county. There are two clinical aspects to this. Emergency Liaison for acute trust patients (ED & Wards) and Outpatient appointments for the overlap of Mental & Physical Health. Lori's background is a master’s degree in Bioinformatics with Molecular Genetics, where R was taught alongside Perl, SQL and Java.\n\nAbout Ania\n\nAnia works as Head of Parliamentary Business, Intelligence and Research within the Workforce Directorate at the Department of Health. Prior to this she worked as Head of Health at the Centre of Workforce Intelligence which specialised in long-term NHS workforce planning. Ania has a PhD in endocrinology and her current focus includes looking at best ways, to provide robust evidence to Ministers and, to inform policy decisions.",
+    "status": "PAST",
+    "dateTime": "2019-07-30T18:00:00+01:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-london/events/262443695/",
+    "featuredEventPhoto": {
+      "id": "482388828",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/e/b/c/highres_482388828.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/e/b/c/600_482388828.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/e/b/c/thumb_482388828.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 41,
+      "waitlistCount": 0,
+      "totalCount": 41
+    },
+    "venues": [
+      {
+        "id": "26542024",
+        "name": "The Health Foundation",
+        "address": "8 Salisbury Square",
+        "city": "London",
+        "state": "al",
+        "country": "gb",
+        "lat": 51.5131,
+        "lon": -0.1063,
+        "postalCode": "EC4Y 8BB",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London",
+      "urlname": "rladies-london"
+    }
+  },
+  {
+    "id": "262067769",
+    "title": "Summer social!",
+    "description": "Join us for a summer social! Summer has arrived and we have decided to ditch the hard core coding for some social activities. This is an opportunity for us all to hang out and talk about R, data, dogs, cats or whatever takes our fancy!\n\nWe will bring some blankets and snacks so please RSVP here so that we know how many people are coming. Feel free to bring something to share. In case it rains we will find a pub.\n\nDirections:\nThe closest tube stop is Regents Park (Bakerloo Line) or Great Portland Street (Hammersmith & City, Circle and Metropolitan lines). Enter the park via the entrance next to the Royal College of Physicians and you will see us (we will have a sign). We will also monitor the messages on MeetUp in case you get lost.",
+    "status": "PAST",
+    "dateTime": "2019-06-26T18:00:00+01:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-london/events/262067769/",
+    "featuredEventPhoto": {
+      "id": "475498094",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/e/2/e/e/highres_475498094.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/e/2/e/e/600_475498094.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/2/e/e/thumb_475498094.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 18,
+      "waitlistCount": 0,
+      "totalCount": 18
+    },
+    "venues": [
+      {
+        "id": "26286239",
+        "name": "The Regent's Park",
+        "address": "",
+        "city": "London",
+        "state": "",
+        "country": "gb",
+        "lat": 51.5258,
+        "lon": -0.1467,
+        "postalCode": "NW1 4NR",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London",
+      "urlname": "rladies-london"
+    }
+  },
+  {
+    "id": "261421798",
+    "title": "Bioinformatics, effects of regulation and data.table",
+    "description": "Directions: If you stand in front of Shoreditch Grind on Old St roundabout you are directly infront of the building. Head around to the right to find a set of revelving doors and someone will help you get to WeWork on floor 2.\n\nPlease get yourself a ticket on eventbrite: https://www.eventbrite.co.uk/o/r-ladies-london-12267598254\n\nThis month we have a great mix of topics from excellent speakers and at a convenient venue!\n\nAutomating large-scale bioinformatics analysis over cloud with the Deploit Platform- Dr Maria Chatzou, CEO of Lifebit (https://twitter.com/mariachatzou)\n\nLifebit use Nextflow, a polyglot Domain Specific language that allows us to incorporate bioinformatics tools developed in any programming language in a unified pipeline. We use bioinformatics R packages for the workflows available on the Deploit platform which are available on our github https://github.com/lifebit-ai.\n\nUsing Machine Learning to understand the impact of regulation on mortgage sales- Zanna Iscenko, Senior Data Scientist / Research Economist at the FCA\n\nStart using data.table- Megan Stodel, data scientist at the Ministry of Justice, having shifted career from social research (www.meganstodel.com)\n\nWhen such a large part of data science is data wrangling, it makes a huge difference using the best tools. Megan advocates for the package data.table, which allows users to explore and manipulate datasets in R with great efficiency. As well as extolling its virtues, she'll give an overview of the basic syntax, and hopes to convince you to give it a try!.\n\nAgenda:\n\n18:00 -- Doors open\n\n18:30 -- Talks start\n\n20:15 -- Networking\n\nThis event is kindly hosted by Lifebit in the WeWork Old St Building",
+    "status": "PAST",
+    "dateTime": "2019-05-29T18:00:00+01:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-london/events/261421798/",
+    "featuredEventPhoto": {
+      "id": "481293108",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/1/5/4/highres_481293108.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/1/5/4/600_481293108.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/1/5/4/thumb_481293108.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 2,
+      "waitlistCount": 17,
+      "totalCount": 2
+    },
+    "venues": [
+      {
+        "id": "26086534",
+        "name": "WeWork - Office Space & Coworking",
+        "address": "207 Old Street",
+        "city": "London",
+        "state": "",
+        "country": "gb",
+        "lat": 51.5259,
+        "lon": -0.0887,
+        "postalCode": "EC1V 9NR",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London",
+      "urlname": "rladies-london"
+    }
+  },
+  {
+    "id": "246326623",
+    "title": "Geospatial data and analysis workshop",
+    "description": "This is a joint event between R-Ladies London and the newly established WomenInGeospatial network.\n\n• What we'll do\nClaudia Vitolo and Julia Wagemann will run a hands-on workshop on:\n- how to retrieve open datasets for environmental analyses\n- how to load and use vector and raster data\n- an overview of the most used packages for mapping and spatial analyses.\n\n• What to bring\nLaptop with R and RStudio already installed\n\n• Important to know\nPlaces are limited, to register please get a free ticket on Eventbrite (https://www.eventbrite.co.uk/e/geospatial-analysis-workshop-tickets-60122118876).\nMeetup RSVP do not count as registration.\n\nCode of Conduct:\nWe expect all attendees to abide & be governed by our community CoC (https://github.com/rladies/starter-kit/wiki/Code-of-Conduct ).\n\nImage credits:\nPhoto by NASA on Unsplash\n\nSponsors:\nOxera (for venue) and H20.ai for pizza",
+    "status": "PAST",
+    "dateTime": "2019-04-30T18:30:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-london/events/246326623/",
+    "featuredEventPhoto": {
+      "id": "467214631",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/5/6/7/highres_467214631.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/5/6/7/600_467214631.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/5/6/7/thumb_467214631.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 24,
+      "waitlistCount": 0,
+      "totalCount": 24
+    },
+    "venues": [
+      {
+        "id": "26333334",
+        "name": "Oxera Consulting LLP",
+        "address": "200 Aldersgate Street",
+        "city": "London",
+        "state": "",
+        "country": "gb",
+        "lat": 51.518,
+        "lon": -0.0977,
+        "postalCode": "EC1A 4HD",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London",
+      "urlname": "rladies-london"
+    }
+  },
+  {
+    "id": "259655336",
+    "title": "Linear Mixed models on repeated measurement data",
+    "description": "(Please, ensure that register to this event at our Eventbrite page https://www.eventbrite.co.uk/e/linear-mixed-models-on-repeated-measurement-data-tickets-58573204030 , Meetup registration alone won't be valid!).\n\nIn this workshop we will be exploring how to use linear mixed models when we have data that repeats over time. These kinds of models are often used in longitudinal studies or with time series data. They are powerful as the used maximum likelihood approximations rather than least squares, meaning they can better handle missing data, and competing models can be compared directly. By the end of the workshop you should have a basic grasp of the linear mixed model, how to specify one, how to compare models and how to plot results.\n\nThe workshop is held by Athanasia Monika Mowinckel, or Mo for short, who is a staff scientist at the Center for Lifespan changes in brain and cognition (LCBC: www.oslobrains.no). She has a PhD in psychology, and loves plotting. And cats. She is a co-founder and current head of the R-Ladies Oslo chapter.\n\nAgenda:\n\n6pm - doors open quick intros and hellos from R-Ladies and hosts\n\n6:30ish pm - quick intros and hellos from R-Ladies and hosts\n\n6:40ish pm - workshop starts!!\n\n8:30ish pm - end of workshop!\n\nSee you all there!",
+    "status": "PAST",
+    "dateTime": "2019-03-28T18:00:00Z",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-london/events/259655336/",
+    "featuredEventPhoto": {
+      "id": "475498094",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/e/2/e/e/highres_475498094.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/e/2/e/e/600_475498094.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/2/e/e/thumb_475498094.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 39,
+      "waitlistCount": 0,
+      "totalCount": 39
+    },
+    "venues": [
+      {
+        "id": "26238248",
+        "name": "The Health Foundation",
+        "address": "8 Salisbury Square",
+        "city": "London",
+        "state": "",
+        "country": "gb",
+        "lat": 51.5133,
+        "lon": -0.1063,
+        "postalCode": "WC2E 9RA",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London",
+      "urlname": "rladies-london"
+    }
+  },
+  {
+    "id": "258704426",
+    "title": "R Conference Round-Up! ",
+    "description": "(Please, ensure that register to this event at our Eventbrite page https://www.eventbrite.co.uk/e/r-conference-round-up-tickets-55980965575 , Meetup registration alone won't be valid!).\n\nThere are several R conferences each year where the latest and greatest work and R is presented. Join us on Thursday 21st Feb to hear about what goes on at these conferences and how you can present your work at the next one!\n\niwoca: iwoca is the fast, flexible source of business finance for all UK businesses. That includes retailers, restaurants, hotels, service providers and more. Businesses use iwoca for all sorts of different purposes, from bridging short-term cashflow gaps to investing in stock opportunities. An R Lady from iwoca will give us an insight into how R is a central part of their workflow.\n\nHannah Frick: Earlier this year Hannah from R-Ladies London attended rstudio::conf in Austin, Texas. rstudio::conf is a conference dedicated to all things R and RStudio, join us to hear Hannah's tales and the freshest R news, hot off the press!\n\nR Ladies London Organisers: UseR! conference is another major R conference, this year it will be held in Toulouse, France (July 9-12), the deadline for abstracts is March 1st. Get top tips on getting your abstract accepted from R Ladies who have previously given workshops and spoken at UseR! conferences.\n\nAgenda:\n\n6:30pm - Doors open (food and drinks won't last forever!)\n\n7:00pm - Speaker from iwoca - How iwoca uses R\n\n7:30ish pm - Hannah Frick - rstudio::conf\n\n8:00ish pm - R Ladies - Getting to UseR!\n\nWe would like to say thanks to our sponsor tech recruitment agency RedCat Digital and to our hosts business finance providers iwoca. Together with them, we are pleased to promote diversity and create a community of minority genders in the data space!",
+    "status": "PAST",
+    "dateTime": "2019-02-21T18:30:00Z",
+    "duration": "PT2H30M",
+    "eventUrl": "https://www.meetup.com/rladies-london/events/258704426/",
+    "featuredEventPhoto": {
+      "id": "478432085",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/b/7/5/highres_478432085.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/b/7/5/600_478432085.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/b/7/5/thumb_478432085.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 25,
+      "waitlistCount": 0,
+      "totalCount": 25
+    },
+    "venues": [
+      {
+        "id": "26147716",
+        "name": "iwoca",
+        "address": "101 New Cavendish Street",
+        "city": "London",
+        "state": "",
+        "country": "gb",
+        "lat": 51.5181,
+        "lon": -0.1316,
+        "postalCode": "W1T 7QX",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London",
+      "urlname": "rladies-london"
+    }
+  },
+  {
+    "id": "257657042",
+    "title": "Drop-In Code Clinic",
+    "description": "[Please, make sure you register to this meetup on our Eventbrite website! https://www.eventbrite.co.uk/e/drop-in-code-clinic-tickets-54401135260?aff=ebdssbdestsearch\nRegistrations on Meetup.com only are not valid!! ]\n\nAre you an R developer that would like to discuss your latest project with like-minded people? Whether you're stuck on a problem or simply would like to discuss an alternative approach to your solution, Drop-In Clinic is for you!\n\nJust come with your laptop and have a friendly chat about what you're doing and how you're doing it. Also, there will be food and drinks to accompany lively brainstorming sessions!\n\nWhat if you don't have a project or an R problem you're currently working on? You should still come! We have a long list of projects you may want to give a go: be it TidyTuesday, Advent of Code or maybe your first contribution to existing Open Source projects? Options are endless, you just need to turn up. All R levels are welcome!\n\nAgenda\n\n18:30 - 19:00 Open Door: Mingling & Food\n19:00 - 19:15 Introductions and Presentation by Treatwell\n19:20 - 21:30 Code Clinic: Coding & Brainstorming\n\nWe'd like to thank Treatwell, the largest hair and beauty bookings website in Europe, for hosting and sponsoring this event.",
+    "status": "PAST",
+    "dateTime": "2019-01-22T18:30:00Z",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-london/events/257657042/",
+    "featuredEventPhoto": {
+      "id": "477448632",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/f/d/8/highres_477448632.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/f/d/8/600_477448632.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/f/d/8/thumb_477448632.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 11,
+      "waitlistCount": 0,
+      "totalCount": 11
+    },
+    "venues": [
+      {
+        "id": "24207510",
+        "name": "EIP, Fairfax House",
+        "address": "15 Fulwood Place London WC1V 6HU",
+        "city": "London",
+        "state": "",
+        "country": "gb",
+        "lat": 51.5188,
+        "lon": -0.1134,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London",
+      "urlname": "rladies-london"
+    }
+  },
+  {
+    "id": "270890698",
+    "title": "REMOTE: R Lightening Talks by R-Ladies",
+    "description": "!! Be mindful that only those participants that registered via Eventbrite (https://www.eventbrite.co.uk/e/remote-r-lightening-talks-by-r-ladies-tickets-106819837008) will receive the meetup Zoom link and will be able to join the event. Feel free to RVSP in the Meetup event page but also make sure you register on Eventbrite !!\n\nWelcome to our first remote R-ladies London Meetup this year! After having to cancel our off-line event, now we're back with the same brilliant speakers and the new energy!\n\nJoin us in our remote meetup to learn tips and new skills in R with these easily digestible 15-minute long lightning talks! Also, we're not going to give up on the tradition of after-talks socialising, which will take place in the breakout Zoom rooms. So make sure you have some snacks, drinks and some cool webcam background on (behind) you!\n\nMeetup ProgRam\n19:30 - welcome to Rladies remote lightning talks!\n19:40 - Megan Stodel: \"Alternatives to iris\"\n20:00 - Jyoti Bhogal: \"Exploring R Package: janitor\"\n20:20 - Fiona Tweedie: \"Flexdashboards for understanding communities\"\n20:40-21:30 - Remote Socialising!\n\nABSTRACTS\n\nMegan Stodel, \"Alternatives to iris\"\nThe commonly used iris dataset was first published by eugenicist R A Fisher. Let's use datasets that aren't connected with racists. This talk will offer alternatives, as well as highlighting lots of places to search when you need data for your projects, training and exploration.\n\nJyoti Bhogal, \"Exploring R Package: janitor\"\nMost data projects usually begin with cleaning the data. It can take a lot of efforts, which can otherwise be useful while the acutual analysis. 'janitor' does exactly that when combined with 'here' and 'lintr'.\nLet's explore this further!\n\nFiona Tweedie: \"Flexdashboards for understanding communities\"\nThis talk would introduce the use of Rmarkdown and flexdashboards to make official statistics such as Census or Deprivation data accessible to communities in a visual way. Particularly relevant with Census 2021 in the UK, and other countries, as well as Deprivation statistics just having been released in UK nations.",
+    "status": "PAST",
+    "dateTime": "2020-06-25T19:30:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-london/events/270890698/",
+    "featuredEventPhoto": {
+      "id": "490584565",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/f/f/5/highres_490584565.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/f/f/5/600_490584565.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/f/f/5/thumb_490584565.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 49,
+      "waitlistCount": 0,
+      "totalCount": 49
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London",
+      "urlname": "rladies-london"
+    }
+  },
+  {
+    "id": "268837395",
+    "title": "R-ladies Lightening Talks ",
+    "description": "**Please note**: registration for this event is via Eventbrite:\nhttps://www.eventbrite.co.uk/e/r-lightening-talks-by-r-ladies-tickets-93839148419\n\nThis time it is up to you what is presented! If you have an interesting idea for any kind knowledge sharing related to R, analytics or data science in general, just fill in the form below and we discuss the rest!\nhttps://www.surveymonkey.co.uk/r/RF8NF7L\n\nCome along to learn tips and new skills in R, talk with other analysts and data scientists, and support R-Ladies doing great work!\n\nThis event is being hosted by Deliveroo.",
+    "status": "CANCELLED",
+    "dateTime": "2020-03-26T19:00:00Z",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-london/events/268837395/",
+    "featuredEventPhoto": {
+      "id": "489157007",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/0/8/f/highres_489157007.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/0/8/f/600_489157007.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/0/8/f/thumb_489157007.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 34,
+      "waitlistCount": 0,
+      "totalCount": 34
+    },
+    "venues": [
+      {
+        "id": "26115877",
+        "name": "Deliveroo London",
+        "address": "1 Cousin Lane",
+        "city": "London",
+        "state": "",
+        "country": "gb",
+        "lat": 51.5101,
+        "lon": -0.0911,
+        "postalCode": "EC4R 3TE",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London",
+      "urlname": "rladies-london"
+    }
+  },
+  {
+    "id": "268200556",
+    "title": "Tidy up your data science workflow with the tidyverse",
+    "description": "Registration to the event is required on Eventbrite: https://www.eventbrite.co.uk/e/tidy-up-your-data-science-workflow-with-the-tidyverse-tickets-91446038563\n\nRLadies London is excited to present Mine Çetinkaya-Rundel!\n\nAbout the event\nThe tidyverse is a coherent system of packages for data manipulation, exploration and visualization that share a common design philosophy.\nThere are core tidyverse packages that you're likely to use in everyday data analyses, and these include:\n- ggplot2\n- dplyr\n- tidyr\n- readr\n- purrr\n- tibble\n- stringr\n- forecats\nWe'll be learning a bit about each of these core packages while demonstrating their functionalities!\n\nAbout the speaker\nMine is a Senior Lecturer in the School of Mathematics at University of Edinburgh and Data Scientist and Professional Educator at RStudio. Mine’s work focuses on innovation in statistics and data science pedagogy, with an emphasis on computing, reproducible research, student-centered learning, and open-source education as well as pedagogical approaches for enhancing retention of women and under-represented minorities in STEM. Mine works on integrating computation into the undergraduate statistics curriculum, using reproducible research methodologies and analysis of real and complex datasets. She is a former R-Ladies RTP and a current R-Ladies Edinburgh organizer.\n\nAgenda\n18:00 Opening doors\n18:30 Presentation\n19:30 Networking",
+    "status": "PAST",
+    "dateTime": "2020-02-27T18:00:00Z",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-london/events/268200556/",
+    "featuredEventPhoto": {
+      "id": "488446356",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/5/1/4/highres_488446356.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/5/1/4/600_488446356.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/5/1/4/thumb_488446356.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 36,
+      "waitlistCount": 0,
+      "totalCount": 36
+    },
+    "venues": [
+      {
+        "id": "26829958",
+        "name": "Facebook",
+        "address": "125 Shaftesbury Avenue",
+        "city": "London",
+        "state": "al",
+        "country": "gb",
+        "lat": 51.5139,
+        "lon": -0.1284,
+        "postalCode": "WC2H 8HR",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London",
+      "urlname": "rladies-london"
+    }
+  },
+  {
+    "id": "267138438",
+    "title": "R-Ladies and the FCA: using data science to protect the public",
+    "description": "Get your ticket here: https://cvent.me/XkXWDe\n\nR-Ladies and the Financial Conduct Authority (FCA) are collaborating to host a workshop on 15 January 2020, showcasing data science tools and techniques that help the FCA to protect the public.\n\nJoin us for a panel discussion and technical presentations from inspirational women in data science.\n\nAgenda:\n5.30pm – 6.00pm – Registration and opening remarks\n6.00pm – 6.45pm – Panel discussion “Using data science to protect the public”\n6.45pm – 7.15pm – Technical presentations\n\nEach session will feature an intro to methods used, so attendants less familiar with these techniques can enjoy the talk as much as more experienced professional.\n\nPresentation 1: Using R Shiny to build a user interface for analysing textual information\n\nPresentation 2: Clustering – borrowers’ subgroups and the path into distress\n\n7.15pm – 8.00pm - Networking",
+    "status": "PAST",
+    "dateTime": "2020-01-15T17:30:00Z",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-london/events/267138438/",
+    "featuredEventPhoto": {
+      "id": "487539354",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/9/b/a/highres_487539354.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/9/b/a/600_487539354.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/9/b/a/thumb_487539354.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 2,
+      "waitlistCount": 27,
+      "totalCount": 2
+    },
+    "venues": [
+      {
+        "id": "26770628",
+        "name": "Financial Conduct Authority",
+        "address": "12 Endeavour Square",
+        "city": "London",
+        "state": "",
+        "country": "gb",
+        "lat": 51.5421,
+        "lon": -0.0094,
+        "postalCode": "E20 1JN",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London",
+      "urlname": "rladies-london"
+    }
+  },
+  {
+    "id": "289144153",
+    "title": "HYBRID: Styling {ggplot2} graphics for accessibility",
+    "description": "!! Be mindful that only those participants that registered via Eventbrite (https://www.eventbrite.co.uk/e/hybrid-styling-ggplot-graphics-for-accessibility-tickets-442642013177) will be able to attend the event in person or receive the meetup Zoom link e to join the event. Feel free to RVSP in the Meetup event page but also make sure you register on Eventbrite !!\n\nWe are super excited to run our first hybrid meet-up event! You will be able to join in person in central London (8 Salisbury square) or online. This will be our first hybrid event so please be patient as we figure out what works best. We are incredibly excited to have Nicola Rennie join us to talk about how to style ggplot2 graphics for accessibility. There will be time for some snacks and socialising both before and after the event.\n\nMeetup ProgRam\n18:15 - In person arrivals and socialising!\n18:45 - RLadies introduction\n19:00 - Nicola Rennie: \"**Styling {ggplot2} graphics for accessibility**\"\n19:45-20:00 - Questions!\n20:00-20.30 Socialising\n\nABSTRACTS\n\nNicola Rennie: \"Using Shiny apps for dashboards in the NHS – wrangling and visualising data for tracking patient outcomes.\"\n\nChoosing colours, selecting fonts, and styling your plots isn't just about making them look good, although it's certainly something to keep in mind. It's also about making sure any plots you create are accessible and interpretable to everyone. In this talk, I'll discuss good practices for styling different elements of your plots, demonstrate how you implement these in {ggplot2}, and show you how defining your own theme functions can make the process smoother.",
+    "status": "PAST",
+    "dateTime": "2022-10-26T18:30:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-london/events/289144153/",
+    "featuredEventPhoto": {
+      "id": "507871339",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/a/6/b/highres_507871339.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/a/6/b/600_507871339.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/a/6/b/thumb_507871339.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 11,
+      "waitlistCount": 0,
+      "totalCount": 11
+    },
+    "venues": [
+      {
+        "id": "27437024",
+        "name": "8 Salisbury Square",
+        "address": "8 Salisbury Square",
+        "city": "London",
+        "state": "",
+        "country": "gb",
+        "lat": 51.5134,
+        "lon": -0.1061,
+        "postalCode": "EC4Y 8AE",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London",
+      "urlname": "rladies-london"
+    }
+  },
+  {
+    "id": "288311691",
+    "title": "REMOTE: Using Shiny apps for dashboards in the NHS ",
+    "description": "!! Be mindful that only those participants that registered via Eventbrite (https://www.eventbrite.co.uk/e/using-shiny-apps-for-dashboards-in-the-nhs-wrangling-and-visualising-data-tickets-414891540767) will receive the meetup Zoom link and will be able to join the event. Feel free to RVSP in the Meetup event page but also make sure you register on Eventbrite !!\n\nJoin us in our remote meetup to learn about how shiny is being used for dashboards in the NHS! Also, we're not going to give up on the tradition of after-talks socialising, which will take place in the breakout Zoom rooms. So make sure you have some snacks, drinks and some cool webcam background on (behind) you!\n\nMeetup ProgRam\n18:30 - Welcome to Rladies remote lightning talks!\n18:45 - Lydia Briggs: \"Using Shiny apps for dashboards in the NHS – wrangling and visualising data for tracking patient outcomes.\"\n19:15-20:00 - Remote Socialising!\n\nABSTRACTS\n\nLydia Briggs: \"Using Shiny apps for dashboards in the NHS – wrangling and visualising data for tracking patient outcomes.\"\n\nLydia is a data scientist in the NHS, working in the Digital Research Environment (DRE) at Great Ormond Street Hospital (GOSH). Over the past two years, Lydia has been involved in numerous dashboarding, statistical and analytical projects to aid clinicians with their research and provide insights into hospital operational management and patient care. Lydia has a masters degree from the University of Nottingham in Medicinal and Biological Chemistry and completed her Chemistry PhD in 2019 from the University of Manchester, but decided to change career track in to the world of data using the STEM skills acquired through 5 years of research experience. She is particularly interested in providing training and promoting the benefits of R and coding.",
+    "status": "PAST",
+    "dateTime": "2022-09-28T18:30:00+01:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-london/events/288311691/",
+    "featuredEventPhoto": {
+      "id": "506862777",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/1/9/highres_506862777.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/1/9/600_506862777.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/1/9/thumb_506862777.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 20,
+      "waitlistCount": 0,
+      "totalCount": 20
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London",
+      "urlname": "rladies-london"
+    }
+  },
+  {
+    "id": "286960685",
+    "title": "REMOTE: R Lightening Talks by R-Ladies",
+    "description": "!! Be mindful that only those participants that registered via Eventbrite (https://www.eventbrite.co.uk/e/remote-r-lightening-talks-by-r-ladies-tickets-379968444847) will receive the meetup Zoom link and will be able to join the event. Feel free to RVSP in the Meetup event page but also make sure you register on Eventbrite !!\n\nWelcome to our first R-ladies London Meetup this year! We are back online with two exciting presentations!\n\nJoin us in our remote meetup to learn tips and new skills in R with these easily digestible 15-minute long lightning talks! Also, we're not going to give up on the tradition of after-talks socialising, which will take place in the breakout Zoom rooms. So make sure you have some snacks, drinks and some cool webcam background on (behind) you!\n\nMeetup ProgRam\n18:30 - Welcome to Rladies remote lightning talks!\n18:40 - Hannah Frick: \"Introducing the censored package\"\n19:00 - Emma Vestesson: \"Making reproducible tables in R\"\n19:20-20:00 - Remote Socialising!\n\nABSTRACTS\n\nIntroducing the censored package - Hannah Frick\nThis talk introduces censored, a new tidymodels package for survival models. We will discuss how this package extends parsnip principles for censored regression and which models, engines, and prediction types are available.\n\nHannah Frick is a software engineer and statistician on the tidymodels team at RStudio. The tidymodels framework is a collection of packages for modeling and machine learning using tidyverse principles. She holds a PhD in statistics and has worked in data science consultancy as well as interdisciplinary research at University College London in cooperation with Team GB Hockey.\n\nMaking reproducible tables in R - Emma Vestesson\nHave you ever painstakingly copied results from your R console into a word or excel document? Creating your tables directly in R will save you time and improve the reproducibility of your analysis. This talk will cover how to easily create basic summary statistics and regression tables and how save them in different formats.\n\nEmma Vestesson is a senior data analyst at the Health Foundation. She is also a PhD student at UCL and is currently spending at year at the Alan Turing Institute.",
+    "status": "PAST",
+    "dateTime": "2022-07-12T18:30:00+01:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-london/events/286960685/",
+    "featuredEventPhoto": {
+      "id": "490584565",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/f/f/5/highres_490584565.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/f/f/5/600_490584565.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/f/f/5/thumb_490584565.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [],
+    "group": {
+      "name": "R-Ladies London",
+      "urlname": "rladies-london"
+    }
+  }
+]

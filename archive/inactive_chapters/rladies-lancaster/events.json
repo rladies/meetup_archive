@@ -1,0 +1,431 @@
+[
+  {
+    "id": "265411199",
+    "title": "Dates & times with lubridate",
+    "description": "This is a beginner friendly session. We'll be working through Chapter 16 of the R for Data Science book, which deals with manipulating dates and times. This is available freely online at http://r4ds.had.co.nz . There will be a short presentation and then we'll work through some exercises together.\n\nAfterwards, we will try these out on our own data. So please, if you can, bring along some of your own data. You could be working on this data at the moment, or it could be something you have used in the past. If you don't have any data, this would be a good learning opportunity to try and find some open source data from the internet.\n\nThis will be an interactive session so please bring your laptop. Ideally this should have R and RStudio installed. If you have trouble downloading these, you can use https://rstudio.cloud/. You will also need the lubridate R package. You might want to install this before coming along to the session. You can do this by running install.packages(\"lubridate\") in R.\n\nWe will be in Lancaster University Library - Room C135. The session will run from 6pm - 8pm with a short break in the middle. Snacks and soft drinks will be provided.",
+    "status": "PAST",
+    "dateTime": "2019-11-06T18:00:00Z",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-lancaster/events/265411199/",
+    "featuredEventPhoto": {
+      "id": "485461666",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/8/2/highres_485461666.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/8/2/600_485461666.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/8/2/thumb_485461666.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 14,
+      "waitlistCount": 0,
+      "totalCount": 14
+    },
+    "venues": [
+      {
+        "id": "26026458",
+        "name": "Lancaster University Library",
+        "address": "Library Avenue",
+        "city": "Lancaster",
+        "state": "",
+        "country": "gb",
+        "lat": 54.0099,
+        "lon": -2.7862,
+        "postalCode": "LA1 4YH",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Lancaster",
+      "urlname": "rladies-lancaster"
+    }
+  },
+  {
+    "id": "265069622",
+    "title": "Strings",
+    "description": "This is a beginner friendly session. We'll be working through Chapter 14 of the R for Data Science book, which deals with manipulating strings (text). This is available freely online at http://r4ds.had.co.nz . There will be a short presentation and then we'll work through some exercises together.\n\nAfterwards, we will try these out on our own data. So please, if you can, bring along some of your own data. You could be working on this data at the moment, or it could be something you have used in the past. If you don't have any data, this would be a good learning opportunity to try and find some open source data from the internet.\n\nThis will be an interactive session so please bring your laptop. Ideally this should have R and RStudio installed. If you have trouble downloading these, you can use https://rstudio.cloud/. You will also need the stringr R package. You might want to install this before coming along to the session. You can do this by running install.packages(\"stringr\") in R.\n\nWe will be in Lancaster University Library - Room C130. The session will run from 6pm - 8pm with a short break in the middle. Snacks and soft drinks will be provided.",
+    "status": "PAST",
+    "dateTime": "2019-10-02T18:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-lancaster/events/265069622/",
+    "featuredEventPhoto": {
+      "id": "485113968",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/6/9/0/highres_485113968.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/6/9/0/600_485113968.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/6/9/0/thumb_485113968.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 10,
+      "waitlistCount": 0,
+      "totalCount": 10
+    },
+    "venues": [
+      {
+        "id": "26026458",
+        "name": "Lancaster University Library",
+        "address": "Library Avenue",
+        "city": "Lancaster",
+        "state": "",
+        "country": "gb",
+        "lat": 54.0099,
+        "lon": -2.7862,
+        "postalCode": "LA1 4YH",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Lancaster",
+      "urlname": "rladies-lancaster"
+    }
+  },
+  {
+    "id": "263942029",
+    "title": "Tidy Data",
+    "description": "This is a beginner friendly session. We'll be working through Chapter 12 of the R for Data Science book. This is available freely online at http://r4ds.had.co.nz . There will be a short presentation and then we'll work through some exercises together. This will involve learning about the functions: (spread(), gather(), separate(), unite(), inner_join()).\n\nAfterwards, we will try these out on our own data. So please, if you can, bring along some of your own data. You could be working on this data at the moment, or it could be something you have used in the past. If you don't have any data, this would be a good learning opportunity to try and find some open source data from the internet.\n\nThis will be an interactive session so please bring your laptop. Ideally this should have R and RStudio installed. If you have trouble downloading these, you can use https://rstudio.cloud/. You will also need the tidyverse R package. You might want to install this before coming along to the session. You can do this by running install.packages(\"tidyverse\") in R.\n\nWe are in Lancaster University Library - Room C135 and the session will run from 6pm - 8pm with a short break in the middle. Snacks and soft drinks will be provided.",
+    "status": "PAST",
+    "dateTime": "2019-09-04T18:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-lancaster/events/263942029/",
+    "featuredEventPhoto": {
+      "id": "484529367",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/2/b/7/highres_484529367.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/2/b/7/600_484529367.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/2/b/7/thumb_484529367.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 16,
+      "waitlistCount": 0,
+      "totalCount": 16
+    },
+    "venues": [
+      {
+        "id": "26026458",
+        "name": "Lancaster University Library",
+        "address": "Library Avenue",
+        "city": "Lancaster",
+        "state": "",
+        "country": "gb",
+        "lat": 54.0099,
+        "lon": -2.7862,
+        "postalCode": "LA1 4YH",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Lancaster",
+      "urlname": "rladies-lancaster"
+    }
+  },
+  {
+    "id": "260891157",
+    "title": "Pretty Graphics with ggplot2",
+    "description": "This will a beginner friendly session where we will learn how to create plots with the ggplot2 package. Even if you've never used R before, you'll be able to take part and do some coding.\n\nWe'll be working through Chapter 3 of the R for Data Science book. This is available freely online at http://r4ds.had.co.nz . There will be a short presentation and then we'll work through some exercises together.\n\nIf you're already familiar and comfortable with manipulating data in R, please still come along. It would be great to have some extra helpers, and we can also work through the latest TidyTuesday data set as a challenge.\n\nThis will be an interactive session so please bring your laptop. Ideally this should have R and RStudio installed. If you have trouble downloading these, you can use https://rstudio.cloud/. You will also need the tidyverse R package. You might want to install this before coming along to the session. You can do this by running install.packages(\"tidyverse\") in R.\n\nThe session will run from 6pm - 8pm with a short break in the middle. Snacks and soft drinks will be provided.\n\n---\n\nVenue:\n\nWe're meeting in room C130 in the University Library. The library is located in Alexandra Square, at the centre of the campus. If you need more or advice help finding the location, please get in touch.\n\nhttps://www.lancaster.ac.uk/media/lancaster-university/content-assets/documents/maps/campus-map.pdf\n\nParking:\n\nParking is free on the University campus after 6pm. There are also very frequent buses to the University and an excellent cycle route.\n\n---\n\nR-Ladies Lancaster is part of a global initiative, R-Ladies Global, designed to improve the gender diversity of R users worldwide and in particular, to improve the participation and experience of women in the R community. As part of the initiative, R-Ladies Lancaster will host a number of talks and workshops about the use of R. It doesn't matter if you never used R or if you are an R expert, R-Ladies Lancaster welcomes anyone with an interest in R.\n\nQuestions? E-mail: rhian@rladies.org",
+    "status": "PAST",
+    "dateTime": "2019-07-03T18:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-lancaster/events/260891157/",
+    "featuredEventPhoto": {
+      "id": "481981244",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/d/c/highres_481981244.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/d/c/600_481981244.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/d/c/thumb_481981244.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 20,
+      "waitlistCount": 0,
+      "totalCount": 20
+    },
+    "venues": [
+      {
+        "id": "26026459",
+        "name": "Lancaster University",
+        "address": "",
+        "city": "Lancaster",
+        "state": "",
+        "country": "gb",
+        "lat": 54.0081,
+        "lon": -2.7849,
+        "postalCode": "LA1 4YW",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Lancaster",
+      "urlname": "rladies-lancaster"
+    }
+  },
+  {
+    "id": "260891110",
+    "title": "Data Transformation with Tidyverse",
+    "description": "This will a beginner friendly session where we will learn how to access and transform data. Even if you've never used R before, you'll be able to take part and do some coding.\n\nWe'll be working through Chapter 5 of the R for Data Science book. This is available freely online at http://r4ds.had.co.nz . There will be a short presentation and then we'll work through some exercises together.\n\nIf you're already familiar and comfortable with manipulating data in R, please still come along. It would be great to have some extra helpers, and we can also work through the latest TidyTuesday data set as a challenge.\n\nThis will be an interactive session so please bring your laptop. Ideally this should have R and Rstudio installed. If you have trouble downloading these. You can use https://rstudio.cloud/. You will also need to tidyverse R package. You might want to install this before coming along to the session. You can do this by running install.packages(\"tidyverse\") in R.\n\nThe session will run from 6pm - 8pm with a short break in the middle. Snacks and soft drinks will be provided. Please bring a reusable cup if possible!\n\n---\n\nVenue:\n\nWe're meeting in Room A076 of the Science & Technology building. This might be tricky to find, but there will be plenty of signs up. You can download a campus map:\n\nhttps://github.com/rladies/meetup-presentations_lancaster/blob/master/admin/campus-map.pdf\n\nThe star represents the room we will be in, and I have highlighted the main entrances to the building. Note that building is locked after 6pm. We will be around the main entrances from 6:00pm - 6:20pm to greet you and let you in, so please try to arrive promptly! If you are running late, please ring me (07805 871708) and we'll come and let you in.\nIf you need more or advice help finding the location, please get in touch.\n\nParking:\n\nParking is free on the University campus after 6pm. The closest place to park is Fylde Avenue or George Fox Avenue.\n\nThere are also very frequent buses to the University and an excellent cycle route.\n\n---\n\nR-Ladies Lancaster is part of a global initiative, R-Ladies Global, designed to improve the gender diversity of R users worldwide and in particular, to improve the participation and experience of women in the R community. As part of the initiative, R-Ladies Lancaster will host a number of talks and workshops about the use of R. It doesn't matter if you never used R or if you are an R expert, R-Ladies Lancaster welcomes anyone with an interest in R.\n\nQuestions? E-mail: rhian@rladies.org",
+    "status": "PAST",
+    "dateTime": "2019-06-05T18:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-lancaster/events/260891110/",
+    "featuredEventPhoto": {
+      "id": "481353721",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/3/b/9/highres_481353721.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/3/b/9/600_481353721.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/3/b/9/thumb_481353721.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 22,
+      "waitlistCount": 0,
+      "totalCount": 22
+    },
+    "venues": [
+      {
+        "id": "26026459",
+        "name": "Lancaster University",
+        "address": "",
+        "city": "Lancaster",
+        "state": "",
+        "country": "gb",
+        "lat": 54.0081,
+        "lon": -2.7847,
+        "postalCode": "LA1 4YW",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Lancaster",
+      "urlname": "rladies-lancaster"
+    }
+  },
+  {
+    "id": "260217938",
+    "title": "R-Ladies Lancaster Launch!",
+    "description": "R-Ladies Lancaster is ready to announce our first event!\n\nOur launch event will include a number of talks about R, and there will also be plenty of time for networking over pizza! (Big thank you to H20.ai for sponsoring the pizza at our launch event).\n\nSchedule:\n\n18:00 - 18:20: Registration\n18:20 - 18:30: Introduction to R-Ladies and the local groups\n18:30 - 18:50: Nic Crane: Ten Steps to Becoming a Tidyverse Contributor\n18:50 - 19:20: Pizza break/networking\n19:20 - 19:40: Rhian Davies: A day in the life with R. A whirlwind tour.\n19:40 - 20:00: Lucy Morgan: The rocky road to building my first R package\n20:00 - 20:30 Networking/close\n\nNic Crane (Elucidata): 10 Steps to Becoming a Tidyverse Contributor\nIn 2018 I became a contributor to the tidyverse and realised that you don't have to be an R expert to get involved. In this talk, I will discuss why I was originally hesitant to contribute to open source, but how the R community made me realise my doubts were unfounded. I'll walk you through the stages of making a pull request to a tidyverse package and discuss my experiences of doing so. Whilst the focus of this talk is on contributing code, I conclude with the other valuable ways you can get involved, whether you've been using R for 2 weeks or 20 years. I'd love to make this talk interactive, so please bring any questions you have!\n\nRhian Davies (Jumping Rivers): A day in the life with R.\nI've been using R for many years and at the moment it feels like I basically run my life in the medium of R. I'll give an whirlwind tour of a day in my life as an analyst and all the weird and wonderful ways R helps - and hinders.\n\nLucy Morgan (Lancaster University): The rocky road to building my first R package\nI heard that putting an R package together was simple once you had functions that worked. I must have heard wrong. In this talk I’ll discuss a few of the difficulties I had in starting to build my first R package (you can then avoid these). I’ll also add a few tips from the package building process and demonstrate building a very simple package in R.\n\n*** Venue ***\n\nWe're meeting in Room A076 of the Science & Technology building. This might be tricky to find, but there will be plenty of signs up. You can download a campus map:\n\nhttps://github.com/rladies/meetup-presentations_lancaster/blob/master/admin/campus-map.pdf.\n\nThe star represents the room we will be in, and I have highlighted the main entrances to the building. Note that building is locked after 6pm. We will be around the main entrances from 6:00pm - 6:20pm to greet you and let you in, so please try to arrive promptly! If you are running late, please ring me (07805 871708) and we'll come and let you in.\n\nIf you need more or advice help finding the location, please get in touch.\n\nParking:\nParking is free on the University campus after 6pm. The closest place to park is Fylde Avenue or George Fox Avenue.\n\nThere are also very frequent buses to the University and an excellent cycle route.\n\n---\n\nR-Ladies Lancaster is part of a global initiative, R-Ladies Global, designed to improve the gender diversity of R users worldwide and in particular, to improve the participation and experience of women in the R community. As part of the initiative, R-Ladies Lancaster will host a number of talks and workshops about the use of R. It doesn't matter if you never used R or if you are an R expert, R-Ladies Lancaster welcomes anyone with an interest in R.\n\nQuestions? E-mail: rhian@rladies.org",
+    "status": "PAST",
+    "dateTime": "2019-05-01T18:00:00+01:00",
+    "duration": "PT2H30M",
+    "eventUrl": "https://www.meetup.com/rladies-lancaster/events/260217938/",
+    "featuredEventPhoto": {
+      "id": "479984372",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/d/5/4/highres_479984372.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/d/5/4/600_479984372.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/d/5/4/thumb_479984372.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 19,
+      "waitlistCount": 0,
+      "totalCount": 19
+    },
+    "venues": [
+      {
+        "id": "26026459",
+        "name": "Lancaster University",
+        "address": "",
+        "city": "Lancaster",
+        "state": "",
+        "country": "gb",
+        "lat": 54.008,
+        "lon": -2.7848,
+        "postalCode": "LA1 4YW",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Lancaster",
+      "urlname": "rladies-lancaster"
+    }
+  },
+  {
+    "id": "269212902",
+    "title": "Exploratory Data Analysis",
+    "description": "This is a beginner-friendly session. We'll be working through Chapter 7 of the R for Data Science book, which deals with exploratory data analysis. This is available freely online at http://r4ds.had.co.nz . There will be a short presentation and then we'll work through some exercises together.\n\nAfterwards, there is the opportunity to try this out on our own data. So please, if you can, bring along some of your own data. You could be working on this data at the moment, or it could be something you have used in the past. If you don't have any data, this would be a good learning opportunity to try and find some open-source data from the internet.\n\nThis will be an interactive session so please bring your laptop. Ideally, this should have R and RStudio installed. If you have trouble downloading these, you can use https://rstudio.cloud/. You will also need the tidyverse R package. You should install this before coming along to the session. You can do this by running install.packages(\"tidyverse\") in R.\n\nWe will be in Lancaster University Library - Room C135. The session will run from 6pm - 8pm with a short break in the middle. Snacks will be provided.",
+    "status": "CANCELLED",
+    "dateTime": "2020-04-01T18:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-lancaster/events/269212902/",
+    "featuredEventPhoto": {
+      "id": "489562202",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/6/b/a/highres_489562202.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/6/b/a/600_489562202.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/6/b/a/thumb_489562202.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 10,
+      "waitlistCount": 0,
+      "totalCount": 10
+    },
+    "venues": [
+      {
+        "id": "26026458",
+        "name": "Lancaster University Library",
+        "address": "Library Avenue",
+        "city": "Lancaster",
+        "state": "",
+        "country": "gb",
+        "lat": 54.0099,
+        "lon": -2.7862,
+        "postalCode": "LA1 4YH",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Lancaster",
+      "urlname": "rladies-lancaster"
+    }
+  },
+  {
+    "id": "268805873",
+    "title": "Introduction to Shiny",
+    "description": "Shiny is an R package that makes it easy to build interactive web apps straight from R. In this beginner-friendly session, we'll be working through part one of the RStudio shiny tutorial.\n\nhttps://shiny.rstudio.com/tutorial/\n\nThis will be an interactive session so please bring your laptop. Ideally, this should have R and RStudio installed. If you have trouble downloading these, you can use https://rstudio.cloud/. You will also need the shiny R package. Please, install this before coming along to the session. You can do this by running install.packages(\"shiny\") in R.\n\nWe will be in Lancaster University Library - Room C135. The session will run from 6pm - 8pm with a short break in the middle. Snacks and soft drinks will be provided.",
+    "status": "PAST",
+    "dateTime": "2020-03-04T18:00:00Z",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-lancaster/events/268805873/",
+    "featuredEventPhoto": {
+      "id": "489129098",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/3/8/a/highres_489129098.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/3/8/a/600_489129098.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/3/8/a/thumb_489129098.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 17,
+      "waitlistCount": 0,
+      "totalCount": 17
+    },
+    "venues": [
+      {
+        "id": "26026458",
+        "name": "Lancaster University Library",
+        "address": "Library Avenue",
+        "city": "Lancaster",
+        "state": "",
+        "country": "gb",
+        "lat": 54.0099,
+        "lon": -2.7862,
+        "postalCode": "LA1 4YH",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Lancaster",
+      "urlname": "rladies-lancaster"
+    }
+  },
+  {
+    "id": "267885448",
+    "title": "R Markdown and tips from the RStudio Conference",
+    "description": "For our first meeting of 2020 we have two talks lined up:\n\nRebecca Killick (Lancaster University): R Markdown and why I love it (workshop)\n\nR Markdown is a fantastic tool allowing users to write a huge variety of documents with R code embedded. Rebecca will introduce R Markdown and explain why she loves using it. She'll also teach us how to create a simple R Markdown document. If you want to to participate in the interactive element, please bring a laptop with RStudio and R installed. If you have chance also install the knitr package by running the following command.\n\ninstall.packages(\"knitr\")\n\n---\n\nRhian Davies (Jumping Rivers) : What I learnt at RStudio Conference\n\nI'm lucky to be attending the RStudio Conference this year. I'll give a talk summarising some of the new and exciting things I learnt at the conference to share with you all!\n\n---\nWe will be in Lancaster University Library - Room C135. The session will run from 6pm - 8pm with a short break in the middle. Snacks and soft drinks will be provided.\n\n---\n\nR-Ladies Lancaster is part of a global initiative, R-Ladies Global, designed to improve the gender diversity of R users worldwide and in particular, to improve the participation and experience of women in the R community. As part of the initiative, R-Ladies Lancaster will host a number of talks and workshops about the use of R. It doesn't matter if you never used R or if you are an R expert, R-Ladies Lancaster welcomes anyone with an interest in R.\n\nQuestions? E-mail: lancaster@rladies.org",
+    "status": "PAST",
+    "dateTime": "2020-02-05T18:00:00Z",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-lancaster/events/267885448/",
+    "featuredEventPhoto": {
+      "id": "488133026",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/1/0/2/highres_488133026.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/1/0/2/600_488133026.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/1/0/2/thumb_488133026.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 22,
+      "waitlistCount": 0,
+      "totalCount": 22
+    },
+    "venues": [
+      {
+        "id": "26026458",
+        "name": "Lancaster University Library",
+        "address": "Library Avenue",
+        "city": "Lancaster",
+        "state": "",
+        "country": "gb",
+        "lat": 54.0099,
+        "lon": -2.7862,
+        "postalCode": "LA1 4YH",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Lancaster",
+      "urlname": "rladies-lancaster"
+    }
+  },
+  {
+    "id": "296946034",
+    "title": "R-Ladies Lancaster November 2023 Meetup",
+    "description": "Welcome to R-Ladies Lancaster! We welcome members of all R proficiency levels, whether you're a new or aspiring R user, or an experienced R programmer interested in mentoring, networking & expert upskilling. Our community is designed to develop our members' R skills & knowledge through social, collaborative learning & sharing. A local chapter of R-Ladies Global, R-Ladies Lancaster exists to promote gender diversity in the R community worldwide.\n\nOur meeting place is Fraser House Hub, in the centre of Lancaster at White Cross Business Park.\n\nWe'll have excellent two speakers talking about some of the work they've done using R! More information about speakers and talk topics coming soon!\n\n\\*\\*\\*\nSchedule\n18:00 - Meet and greet. Grab some pizza and something to drink and meet some people!\n18:30 - Introduction to R-Ladies Lancaster\n18:40 - Eleanor D'Arcy: Estimating extreme sea levels with R\n19:10 - Break\n19:20 - Cristine Rauber Oliveira: Never trust summary statistics alone, always visualize your data\n19:50 - Wrap up!\n\\*\\*\\*\n\nThis event is in-person only. Please click \"Attend\" if you are attending in-person so we can organise food!",
+    "status": "PAST",
+    "dateTime": "2023-11-21T18:00:00Z",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-lancaster/events/296946034/",
+    "featuredEventPhoto": {
+      "id": "517166283",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/6/a/b/highres_517166283.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/6/a/b/600_517166283.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/6/a/b/thumb_517166283.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 17,
+      "waitlistCount": 0,
+      "totalCount": 17
+    },
+    "venues": [
+      {
+        "id": "27192120",
+        "name": "Fraser House Hub",
+        "address": "South Road",
+        "city": "Lancaster",
+        "state": "",
+        "country": "gb",
+        "lat": 54.0444,
+        "lon": -2.7976,
+        "postalCode": "LA1 4XQ",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Lancaster",
+      "urlname": "rladies-lancaster"
+    }
+  },
+  {
+    "id": "299789025",
+    "title": "R-Ladies Lancaster April 2024 Meetup",
+    "description": "Welcome to R-Ladies Lancaster! We welcome members of all R proficiency levels, whether you're a new or aspiring R user, or an experienced R programmer interested in mentoring, networking & expert upskilling. Our community is designed to develop our members' R skills & knowledge through social, collaborative learning & sharing. A local chapter of R-Ladies Global, R-Ladies Lancaster exists to promote gender diversity in the R community worldwide.\n\nOur meeting place is Fraser House Hub, in the centre of Lancaster at White Cross Business Park.\n\nWe'll have an excellent speaker talking about some of the work they've done using R! More information about speaker and talk topics coming soon!\n\\*\\*\\*\nSchedule\n18:00 - Meet and greet. Grab some pizza and something to drink and meet some people!\n18:30 - Introduction to R-Ladies Lancaster\n18:40 - Xiaoyun Chen\n19:30 - Wrap up and networking!\n\\*\\*\\*\nThis event is in-person only. Please click \"Attend\" if you are attending in-person so we can organise food!",
+    "status": "PAST",
+    "dateTime": "2024-04-09T18:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-lancaster/events/299789025/",
+    "featuredEventPhoto": {
+      "id": "519729678",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/5/c/e/highres_519729678.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/5/c/e/600_519729678.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/5/c/e/thumb_519729678.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 12,
+      "waitlistCount": 0,
+      "totalCount": 12
+    },
+    "venues": [
+      {
+        "id": "27192120",
+        "name": "Fraser House Hub",
+        "address": "South Road",
+        "city": "Lancaster",
+        "state": "",
+        "country": "gb",
+        "lat": 54.0444,
+        "lon": -2.7976,
+        "postalCode": "LA1 4XQ",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Lancaster",
+      "urlname": "rladies-lancaster"
+    }
+  }
+]

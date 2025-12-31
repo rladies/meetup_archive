@@ -31,7 +31,7 @@ Understanding what topics resonate with the community helps organizers plan rele
 #| label: topic-prep
 # Prepare events data with text analysis
 events_analyzed <- events |>
-  filter(!type %in% c("cancelled", "CANCELLED")) |>
+  filter(!status %in% c("cancelled", "CANCELLED")) |>
   mutate(
     event_date = as.Date(date),
     year = year(event_date),

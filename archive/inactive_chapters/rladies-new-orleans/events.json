@@ -1,0 +1,80 @@
+[
+  {
+    "id": "267993940",
+    "title": "R-Ladies NOLA Launch Party! ",
+    "description": "Greetings Everyone and Happy New Year!\n\nThere are no adequate words or strings of code for how excited we are to launch R-Ladies NOLA with a party fit for the roaring 20's that have just begun.\n\nWhether you're an RStudio aficionado or merely data-curious, come celebrate the official kick-off of our new chapter and meet the techies you'll be bonding with over code in the months to come.\n\nWine, beer, coffee, tea and snacks will be omnipresent but feel free to bring treats of your own for solidarity. Got some friend with an itch for programming? Bring them along. The more the merrier it is as we take our first step in cultivating a community made of NOLA's finest data people.\n\nSincerely,\nYour R-Ladies NOLA Co-Hosts, Danielle and Erin",
+    "status": "PAST",
+    "dateTime": "2020-02-10T18:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-new-orleans/events/267993940/",
+    "featuredEventPhoto": {
+      "id": "488225194",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/4/4/a/highres_488225194.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/4/4/a/600_488225194.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/4/4/a/thumb_488225194.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 10,
+      "waitlistCount": 0,
+      "totalCount": 10
+    },
+    "venues": [
+      {
+        "id": "26137121",
+        "name": "Launch Pad",
+        "address": "400 Poydras St Suite 900",
+        "city": "New Orleans",
+        "state": "LA",
+        "country": "us",
+        "lat": 29.9486,
+        "lon": -90.0679,
+        "postalCode": "70130",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies New Orleans",
+      "urlname": "rladies-new-orleans"
+    }
+  },
+  {
+    "id": "283184404",
+    "title": "Pick Your Package: Data Visualization in R ",
+    "description": "When I hear \"gg\", I admit I don't think \"ggplot\" I think Gossip Girl.\n\nBut the truth is, \"ggplot\" is only one of the many packages available in R for data visualization.\n\nAt this event, the first R-Ladies NOLA event of 2022, we'll be vetting some of these packages and identifying which types of projects for which they work best.\n\nGrab a drink, your notepad, your RStudio console and your powers of discernment and show up for a wonderful evening of learning, networking and random fun.\n\nAny questions?\n\nEmail me, your R-Ladies NOLA organizer, at dikayo@dikayodata.com.\n\nCheers,\nDanielle",
+    "status": "PAST",
+    "dateTime": "2022-03-10T18:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-new-orleans/events/283184404/",
+    "featuredEventPhoto": {
+      "id": "501308192",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/0/0/0/highres_501308192.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/0/0/0/600_501308192.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/0/0/0/thumb_501308192.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 26,
+      "waitlistCount": 0,
+      "totalCount": 26
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies New Orleans",
+      "urlname": "rladies-new-orleans"
+    }
+  }
+]

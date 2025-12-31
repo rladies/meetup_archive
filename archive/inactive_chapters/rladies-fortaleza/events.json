@@ -1,0 +1,80 @@
+[
+  {
+    "id": "275030815",
+    "title": "Introdução ao Git e GitHub no RStudio",
+    "description": "O Git é um software de controle de versões que tem como objetivo gerenciar arquivos texto, principalmente códigos de programação. O funcionamento dessa ferramenta é semelhante aos sistemas de nuvens (Google Drive, Dropbox, Mega, etc), em que podemos compartilhar as edições de um script com uma equipe, além de retomar antigas versões de nossos arquivos.\n\nResumidamente, o Git examina as mudanças realizadas nos arquivos de um diretório e vai guardando essas informações para compartilhar com outros usuários e/ou possibilitar a reversão de alterações realizadas. Além de ser uma ferramenta extremamente útil, o Git se conecta ao serviço de hospedagem e armazenamento de versões chamado GitHub. A partir do GitHub é possível contribuir com projetos de qualquer lugar do mundo, além de compartilhar os nossos próprios códigos com fins de divulgação e/ou colaboração.\n\nA partir do RStudio temos algumas maneiras bem práticas de trabalhar com o Git e o GitHub, o que poderá mudar a sua vida diária nos seus trabalhos com o R!",
+    "status": "PAST",
+    "dateTime": "2020-12-12T09:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-fortaleza/events/275030815/",
+    "featuredEventPhoto": {
+      "id": "493843182",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/8/a/e/highres_493843182.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/8/a/e/600_493843182.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/8/a/e/thumb_493843182.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 25,
+      "waitlistCount": 0,
+      "totalCount": 25
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Fortaleza",
+      "urlname": "rladies-fortaleza"
+    }
+  },
+  {
+    "id": "271839227",
+    "title": "R para iniciantes",
+    "description": "No nosso primeiro encontro, vamos apresentar a linguagem R, conceitos básicos e algumas aplicações práticas.\nEsperamos que ao final do evento os participantes se sintam mais confortáveis com o R e saibam por onde começar suas análises :)",
+    "status": "PAST",
+    "dateTime": "2020-07-27T15:30:00-03:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-fortaleza/events/271839227/",
+    "featuredEventPhoto": {
+      "id": "491265658",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/2/5/a/highres_491265658.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/2/5/a/600_491265658.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/2/5/a/thumb_491265658.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 31,
+      "waitlistCount": 0,
+      "totalCount": 31
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Fortaleza",
+      "urlname": "rladies-fortaleza"
+    }
+  }
+]

@@ -157,25 +157,6 @@
       "Maintainer": "Jeroen Ooms <jeroenooms@gmail.com>",
       "Repository": "CRAN"
     },
-    "base64enc": {
-      "Package": "base64enc",
-      "Version": "0.1-3",
-      "Source": "Repository",
-      "Title": "Tools for base64 encoding",
-      "Author": "Simon Urbanek <Simon.Urbanek@r-project.org>",
-      "Maintainer": "Simon Urbanek <Simon.Urbanek@r-project.org>",
-      "Depends": [
-        "R (>= 2.9.0)"
-      ],
-      "Enhances": [
-        "png"
-      ],
-      "Description": "This package provides tools for handling base64 encoding. It is more flexible than the orphaned base64 package.",
-      "License": "GPL-2 | GPL-3",
-      "URL": "http://www.rforge.net/base64enc",
-      "NeedsCompilation": "yes",
-      "Repository": "CRAN"
-    },
     "cli": {
       "Package": "cli",
       "Version": "3.6.5",
@@ -483,30 +464,45 @@
       "Maintainer": "Winston Chang <winston@posit.co>",
       "Repository": "CRAN"
     },
-    "filelock": {
-      "Package": "filelock",
-      "Version": "1.0.3",
+    "fs": {
+      "Package": "fs",
+      "Version": "1.6.6",
       "Source": "Repository",
-      "Title": "Portable File Locking",
-      "Authors@R": "c( person(\"Gábor\", \"Csárdi\", , \"csardi.gabor@gmail.com\", role = c(\"aut\", \"cre\")), person(\"Posit Software, PBC\", role = c(\"cph\", \"fnd\")) )",
-      "Description": "Place an exclusive or shared lock on a file. It uses 'LockFile' on Windows and 'fcntl' locks on Unix-like systems.",
+      "Title": "Cross-Platform File System Operations Based on 'libuv'",
+      "Authors@R": "c( person(\"Jim\", \"Hester\", role = \"aut\"), person(\"Hadley\", \"Wickham\", , \"hadley@posit.co\", role = \"aut\"), person(\"Gábor\", \"Csárdi\", , \"csardi.gabor@gmail.com\", role = c(\"aut\", \"cre\")), person(\"libuv project contributors\", role = \"cph\", comment = \"libuv library\"), person(\"Joyent, Inc. and other Node contributors\", role = \"cph\", comment = \"libuv library\"), person(\"Posit Software, PBC\", role = c(\"cph\", \"fnd\")) )",
+      "Description": "A cross-platform interface to file system operations, built on top of the 'libuv' C library.",
       "License": "MIT + file LICENSE",
-      "URL": "https://r-lib.github.io/filelock/, https://github.com/r-lib/filelock",
-      "BugReports": "https://github.com/r-lib/filelock/issues",
+      "URL": "https://fs.r-lib.org, https://github.com/r-lib/fs",
+      "BugReports": "https://github.com/r-lib/fs/issues",
       "Depends": [
-        "R (>= 3.4)"
+        "R (>= 3.6)"
+      ],
+      "Imports": [
+        "methods"
       ],
       "Suggests": [
-        "callr (>= 2.0.0)",
         "covr",
-        "testthat (>= 3.0.0)"
+        "crayon",
+        "knitr",
+        "pillar (>= 1.0.0)",
+        "rmarkdown",
+        "spelling",
+        "testthat (>= 3.0.0)",
+        "tibble (>= 1.1.0)",
+        "vctrs (>= 0.3.0)",
+        "withr"
       ],
+      "VignetteBuilder": "knitr",
+      "ByteCompile": "true",
       "Config/Needs/website": "tidyverse/tidytemplate",
       "Config/testthat/edition": "3",
+      "Copyright": "file COPYRIGHTS",
       "Encoding": "UTF-8",
+      "Language": "en-US",
       "RoxygenNote": "7.2.3",
+      "SystemRequirements": "GNU make",
       "NeedsCompilation": "yes",
-      "Author": "Gábor Csárdi [aut, cre], Posit Software, PBC [cph, fnd]",
+      "Author": "Jim Hester [aut], Hadley Wickham [aut], Gábor Csárdi [aut, cre], libuv project contributors [cph] (libuv library), Joyent, Inc. and other Node contributors [cph] (libuv library), Posit Software, PBC [cph, fnd]",
       "Maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
       "Repository": "CRAN"
     },
@@ -750,46 +746,6 @@
       "Author": "Jeroen Ooms [aut, cre] (<https://orcid.org/0000-0002-4035-0289>), Duncan Temple Lang [ctb], Lloyd Hilaiel [cph] (author of bundled libyajl)",
       "Repository": "CRAN"
     },
-    "keyring": {
-      "Package": "keyring",
-      "Version": "1.4.1",
-      "Source": "Repository",
-      "Title": "Access the System Credential Store from R",
-      "Authors@R": "c( person(\"Gábor\", \"Csárdi\", , \"csardi.gabor@gmail.com\", role = c(\"aut\", \"cre\")), person(\"Alec\", \"Wong\", role = \"ctb\"), person(\"Posit Software, PBC\", role = c(\"cph\", \"fnd\"), comment = c(ROR = \"03wc8by49\")) )",
-      "Description": "Platform independent 'API' to access the operating system's credential store. Currently supports: 'Keychain' on 'macOS', Credential Store on 'Windows', the Secret Service 'API' on 'Linux', and simple, platform independent stores implemented with environment variables or encrypted files.  Additional storage back-ends can be added easily.",
-      "License": "MIT + file LICENSE",
-      "URL": "https://keyring.r-lib.org/, https://github.com/r-lib/keyring",
-      "BugReports": "https://github.com/r-lib/keyring/issues",
-      "Depends": [
-        "R (>= 3.5)"
-      ],
-      "Imports": [
-        "askpass",
-        "filelock",
-        "R6",
-        "tools",
-        "utils",
-        "yaml"
-      ],
-      "Suggests": [
-        "callr",
-        "covr",
-        "openssl",
-        "testthat (>= 3.0.0)",
-        "withr"
-      ],
-      "Biarch": "true",
-      "Config/Needs/website": "tidyverse/tidytemplate",
-      "Config/testthat/edition": "3",
-      "Config/usethis/last-upkeep": "2025-04-30",
-      "Encoding": "UTF-8",
-      "RoxygenNote": "7.3.2.9000",
-      "SystemRequirements": "Optional: libsecret on Linux (libsecret-1-dev on Debian/Ubuntu, libsecret-devel on Fedora/CentOS)",
-      "NeedsCompilation": "yes",
-      "Author": "Gábor Csárdi [aut, cre], Alec Wong [ctb], Posit Software, PBC [cph, fnd] (ROR: <https://ror.org/03wc8by49>)",
-      "Maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
-      "Repository": "CRAN"
-    },
     "later": {
       "Package": "later",
       "Version": "1.4.4",
@@ -945,41 +901,47 @@
     },
     "meetupr": {
       "Package": "meetupr",
-      "Version": "0.3.0",
-      "Source": "GitHub",
+      "Version": "0.3.1",
+      "Source": "Repository",
       "Type": "Package",
       "Title": "Access Meetup Data",
       "Authors@R": "c( person(\"Athanasia Mo\", \"Mowinckel\", , \"a.m.mowinckel@psykologi.uio.no\", role = c(\"aut\", \"cre\"), comment = c(ORCID = \"0000-0002-5756-0223\")), person(\"Erin\", \"LeDell\", , \"oss@ledell.org\", role = \"aut\"), person(\"Olga\", \"Mierzwa-Sulima\", , \"olga@rladies.org\", role = \"aut\"), person(\"Lucy\", \"D'Agostino McGowan\", , \"lucy@rladies.org\", role = \"aut\"), person(\"Claudia\", \"Vitolo\", role = \"aut\"), person(\"Gabriela\", \"De Queiroz\", , \"gabriela@rladies.org\", role = \"ctb\"), person(\"Michael\", \"Beigelmacher\", role = \"ctb\"), person(\"Augustina\", \"Ragwitz\", , \"augustina.ragwitz@ibm.com\", role = \"ctb\"), person(\"Greg\", \"Sutcliffe\", , \"github@emeraldverie.org\", role = \"ctb\"), person(\"Rick\", \"Pack\", , \"rickeyhp@gmail.com\", role = \"ctb\"), person(\"Ben\", \"Ubah\", , \"ubah.ben22@gmail.com\", role = \"ctb\"), person(\"Maëlle\", \"Salmon\", , \"maelle.salmon@yahoo.se\", role = \"ctb\", comment = c(ORCID = \"0000-0002-2815-0399\")), person(\"Barret\", \"Schloerke\", , \"barret@rstudio.com\", role = \"ctb\", comment = c(ORCID = \"0000-0001-9986-114X\")), person(\"R-Ladies Global\", role = \"cph\") )",
-      "Description": "Provides programmatic access to the 'Meetup' 'GraphQL' API  (<https://www.meetup.com/api/schema/>), enabling users to retrieve information about groups, events, and members from 'Meetup'  (<https://www.meetup.com/>). Supports authentication via 'OAuth2' and includes functions for common queries and data manipulation tasks.",
+      "Description": "Provides programmatic access to the 'Meetup' 'GraphQL' API (<https://www.meetup.com/graphql/>), enabling users to retrieve information about groups, events, and members from 'Meetup' (<https://www.meetup.com/>). Supports authentication via 'OAuth2' and includes functions for common queries and data manipulation tasks.",
       "License": "MIT + file LICENSE",
       "Depends": [
         "R (>= 4.2)"
       ],
       "Imports": [
-        "base64enc",
         "countrycode",
         "cli",
         "clipr",
         "dplyr",
+        "fs",
         "glue",
         "httr2",
         "jsonlite",
-        "keyring",
         "lifecycle",
         "purrr",
         "rlang",
         "rlist",
         "S7",
         "tools",
-        "withr"
+        "stats",
+        "utils",
+        "withr",
+        "rstudioapi"
       ],
       "Suggests": [
         "covr",
+        "cyphr",
         "ggplot2",
         "ggwordcloud",
         "httpuv",
+        "jose",
         "knitr",
+        "openssl",
         "rmarkdown",
+        "sodium",
         "testthat",
         "tidyr",
         "tidytext",
@@ -990,17 +952,17 @@
       "Config/testthat/parallel": "true",
       "Encoding": "UTF-8",
       "Roxygen": "list(markdown = TRUE)",
-      "RoxygenNote": "7.3.2",
+      "RoxygenNote": "7.3.3",
       "URL": "https://rladies.org/meetupr/",
       "BugReports": "https://github.com/rladies/meetupr/issues",
-      "Author": "Athanasia Mo Mowinckel [aut, cre] (ORCID: <https://orcid.org/0000-0002-5756-0223>), Erin LeDell [aut], Olga Mierzwa-Sulima [aut], Lucy D'Agostino McGowan [aut], Claudia Vitolo [aut], Gabriela De Queiroz [ctb], Michael Beigelmacher [ctb], Augustina Ragwitz [ctb], Greg Sutcliffe [ctb], Rick Pack [ctb], Ben Ubah [ctb], Maëlle Salmon [ctb] (ORCID: <https://orcid.org/0000-0002-2815-0399>), Barret Schloerke [ctb] (ORCID: <https://orcid.org/0000-0001-9986-114X>), R-Ladies Global [cph]",
-      "Maintainer": "Athanasia Mo Mowinckel <a.m.mowinckel@psykologi.uio.no>",
-      "RemoteType": "github",
-      "RemoteHost": "api.github.com",
-      "RemoteUsername": "rladies",
-      "RemoteRepo": "meetupr",
+      "Config/pak/sysreqs": "make libxml2-dev libssl-dev libx11-dev",
+      "Repository": "https://rladies.r-universe.dev",
+      "RemoteUrl": "https://github.com/rladies/meetupr",
       "RemoteRef": "main",
-      "RemoteSha": "d7600773ffa8ab0aca892f317ac944c929e0b770"
+      "RemoteSha": "778d8c1df14936b94db90ee7189fb76476a0e7b1",
+      "NeedsCompilation": "no",
+      "Author": "Athanasia Mo Mowinckel [aut, cre] (ORCID: <https://orcid.org/0000-0002-5756-0223>), Erin LeDell [aut], Olga Mierzwa-Sulima [aut], Lucy D'Agostino McGowan [aut], Claudia Vitolo [aut], Gabriela De Queiroz [ctb], Michael Beigelmacher [ctb], Augustina Ragwitz [ctb], Greg Sutcliffe [ctb], Rick Pack [ctb], Ben Ubah [ctb], Maëlle Salmon [ctb] (ORCID: <https://orcid.org/0000-0002-2815-0399>), Barret Schloerke [ctb] (ORCID: <https://orcid.org/0000-0001-9986-114X>), R-Ladies Global [cph]",
+      "Maintainer": "Athanasia Mo Mowinckel <a.m.mowinckel@psykologi.uio.no>"
     },
     "openssl": {
       "Package": "openssl",
@@ -1447,6 +1409,31 @@
       "NeedsCompilation": "no",
       "Author": "Kirill Müller [aut, cre] (ORCID: <https://orcid.org/0000-0002-1416-3412>)",
       "Maintainer": "Kirill Müller <kirill@cynkra.com>",
+      "Repository": "CRAN"
+    },
+    "rstudioapi": {
+      "Package": "rstudioapi",
+      "Version": "0.17.1",
+      "Source": "Repository",
+      "Title": "Safely Access the RStudio API",
+      "Description": "Access the RStudio API (if available) and provide informative error messages when it's not.",
+      "Authors@R": "c( person(\"Kevin\", \"Ushey\", role = c(\"aut\", \"cre\"), email = \"kevin@rstudio.com\"), person(\"JJ\", \"Allaire\", role = c(\"aut\"), email = \"jj@posit.co\"), person(\"Hadley\", \"Wickham\", role = c(\"aut\"), email = \"hadley@posit.co\"), person(\"Gary\", \"Ritchie\", role = c(\"aut\"), email = \"gary@posit.co\"), person(family = \"RStudio\", role = \"cph\") )",
+      "Maintainer": "Kevin Ushey <kevin@rstudio.com>",
+      "License": "MIT + file LICENSE",
+      "URL": "https://rstudio.github.io/rstudioapi/, https://github.com/rstudio/rstudioapi",
+      "BugReports": "https://github.com/rstudio/rstudioapi/issues",
+      "RoxygenNote": "7.3.2",
+      "Suggests": [
+        "testthat",
+        "knitr",
+        "rmarkdown",
+        "clipr",
+        "covr"
+      ],
+      "VignetteBuilder": "knitr",
+      "Encoding": "UTF-8",
+      "NeedsCompilation": "no",
+      "Author": "Kevin Ushey [aut, cre], JJ Allaire [aut], Hadley Wickham [aut], Gary Ritchie [aut], RStudio [cph]",
       "Repository": "CRAN"
     },
     "stringi": {

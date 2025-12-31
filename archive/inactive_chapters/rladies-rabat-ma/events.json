@@ -1,0 +1,80 @@
+[
+  {
+    "id": "285983615",
+    "title": "Iterating well with purrr!",
+    "description": "We are excited to be hosting the fantastic **Shannon Pileggi** talking about **Iterating well with purrr**! For the re-launch of R-Ladies Rabat ✨\n\n**What this talk is about**\nIn this workshop we discuss approaches to iteration in R. We briefly discuss iterative techniques that do not require loops or purrr::map_ (for example, group_by, vectorized functions, etc.). Then we explore lists as an object to store information of varying types and sizes and explain how to extract elements from a list via the purrr::map_ family.\n\n**More about Shannon**\nShannon Pileggi PhD is a Data Scientist with more than ten years of experience partnering on data analysis with diverse stakeholders in academic, corporate, tech, public health, and clinical research settings. An enthusiastic educator and statistical collaborator, Shannon started her career in academia as a Lecturer with the Institute for Quantitative Theory and Methods at Emory University, and later as an Assistant Professor at California Polytechnic State University, San Luis Obispo. When she transitioned to industry in 2019, Shannon leveraged open source and community resources to adopt modern programming practices and workflows in R. In 2020, Shannon began to give back to the R community through blogging and developing R-Ladies workshops; she currently serves as a member of the R-Ladies Global Team. Shannon spends her days wrangling data, creating reproducible reports, building shiny apps, developing R packages, and mentoring junior Data Scientists at The Prostate Cancer Clinical Trials Consortium, housed under Memorial Sloan Kettering Cancer Center.\nWeb: [pipinghotdata.com](https://www.pipinghotdata.com/) GitHub: [@shannonpileggi](https://github.com/shannonpileggi) Twitter: [@PipingHotData](https://twitter.com/PipingHotData).\n\n**To join the event, sign up on Meetup and RSVP! ✨**\n\\- We will share the zoom link **with the registered participants**.!\n\\- Make sure to follow [@Rladies_Rabat](https://twitter.com/RLadies_Rabat) on Twitter to stay up to date and learn about our newest events.\n\\- The meetup will be recorded and made available on YouTube\\!\\!\n\n**[Social media]**\n\n* **Meetup** :\n[https://www.meetup.com/rladies-rabat-ma/](https://www.meetup.com/rladies-rabat-ma/)\n* **Twitter** :\n[https://twitter.com/RLadies_Rabat](https://twitter.com/RLadies_Rabat)\n* **YouTube** :\n[https://www.youtube.com/channel/UC71A3VDo0iIA9ryWTsbgmug](https://www.youtube.com/channel/UC71A3VDo0iIA9ryWTsbgmug)\n\n**For any comments & questions, contact us on;**\nEmail address: rabat@rladies.org\nTwitter: @RLadies_Rabat",
+    "status": "PAST",
+    "dateTime": "2022-06-08T17:30:00+01:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-rabat-ma/events/285983615/",
+    "featuredEventPhoto": {
+      "id": "504348340",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/c/d/4/highres_504348340.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/c/d/4/600_504348340.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/c/d/4/thumb_504348340.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 54,
+      "waitlistCount": 0,
+      "totalCount": 54
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Rabat",
+      "urlname": "rladies-rabat-ma"
+    }
+  },
+  {
+    "id": "293693622",
+    "title": "Resources to begin your journey with R",
+    "description": "We are happy to collaborate with R-Ladies Gaborone, R-Ladies Abuja, Talarify, and RSSE Africa to organize this meetup with the Carpentries African Capacity Development Manager, Angelique Trusler. She will be taking about\n\n✨ **Resources to begin your journey with R**✨\n\n✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨\n\nThe Carpentries teaches foundational coding and data science skills to researchers worldwide. All our lessons are available under a Creative Commons license, so anyone is welcome to use them as they wish, provided they attribute them back to us. Our curricula range from data organisation with spreadsheets and data cleaning with OpenRefine to some analyses and plotting with R or Python. We have lessons for more advanced users focussing on visualization in R, working with core data structures, using conditionals and loops, writing custom functions and running R programs. Join this session to explore our various resources to begin your journey with R.\n\nIf you’re up for joining us, RSVP here.\n\nTo stay up-to-date with our future events, make sure to also follow us on Twitter (@RLadies_Rabat, @RLadiesGaborone, @RLadies_Abuja) 👩‍💻\n\nWe’re very much looking forward to seeing many of you! ✨✨",
+    "status": "PAST",
+    "dateTime": "2023-06-17T09:00:00+01:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-rabat-ma/events/293693622/",
+    "featuredEventPhoto": {
+      "id": "513063419",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/5/b/highres_513063419.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/5/b/600_513063419.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/5/b/thumb_513063419.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 14,
+      "waitlistCount": 0,
+      "totalCount": 14
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": 0,
+        "lon": 0,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Rabat",
+      "urlname": "rladies-rabat-ma"
+    }
+  }
+]

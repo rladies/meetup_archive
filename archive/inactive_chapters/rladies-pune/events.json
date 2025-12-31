@@ -1,0 +1,302 @@
+[
+  {
+    "id": "267154315",
+    "title": "Meetup 1: Using trees and networks in R",
+    "description": "Note : This event will be live streamed. The link for live streaming : http://webcast.unipune.ac.in\n\nDr. Susan Holmes (Statistics Department, Stanford University) will be joining us for this meetup. She will talk on \"Using trees and networks in R\"\n\nAbstract:\nNetworks and trees are often used to represent both biological data\nand knowledge about a system with nodes and interactions such as social communities.\nPhylogenetic trees were used to represent family relationships between species even before Darwin's famous notebook sketch.\nNetworks are often used to schematize complex interactions between proteins involved in diseases, between community members or between neurons in the brain.\n\nShe will show examples of making effective maps and testing network and tree data using the R packages phyloseq,igraph, ggplot, ggnetwork and ggraph.",
+    "status": "PAST",
+    "dateTime": "2019-12-21T16:00:00+05:30",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-pune/events/267154315/",
+    "featuredEventPhoto": {
+      "id": "487353352",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/2/4/8/highres_487353352.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/2/4/8/600_487353352.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/2/4/8/thumb_487353352.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 55,
+      "waitlistCount": 0,
+      "totalCount": 55
+    },
+    "venues": [
+      {
+        "id": "26724585",
+        "name": "Department of Scientific Computing, Modeling and Simulation",
+        "address": "Vidyapeeth Rd",
+        "city": "Pune",
+        "state": "Ma",
+        "country": "in",
+        "lat": 18.5486,
+        "lon": 73.8293,
+        "postalCode": "411007",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Pune",
+      "urlname": "rladies-pune"
+    }
+  },
+  {
+    "id": "266340313",
+    "title": "Kickoff Meet",
+    "description": "This will be the kickoff meet for R-Ladies Pune chapter. We will be discussing the motive of this group, the way ahead, announce up-coming sessions and gauge the community requirements.\n** The logo for this kickoff meet is created using the R package \"wordcloud\"",
+    "status": "PAST",
+    "dateTime": "2019-11-23T16:00:00+05:30",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-pune/events/266340313/",
+    "featuredEventPhoto": {
+      "id": "486531287",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/8/5/7/highres_486531287.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/8/5/7/600_486531287.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/8/5/7/thumb_486531287.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 22,
+      "waitlistCount": 0,
+      "totalCount": 22
+    },
+    "venues": [
+      {
+        "id": "26724585",
+        "name": "Department of Scientific Computing, Modeling and Simulation",
+        "address": "Vidyapeeth Rd",
+        "city": "Pune",
+        "state": "Ma",
+        "country": "in",
+        "lat": 18.5486,
+        "lon": 73.8293,
+        "postalCode": "411007",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Pune",
+      "urlname": "rladies-pune"
+    }
+  },
+  {
+    "id": "272002433",
+    "title": "[Online] useR2020! Tutorial: Predictive modeling with text- tidy data principles",
+    "description": "(Please note, we are not hosting this event, so to sign up you need to use any ONE of the links given towards the end of this post!)\n\nThis useR! 2020 online tutorial is being hosted by the R-Ladies chapters from Argentina!\n\n----------------\nInstructors:\n----------------\n\nEmil Hvitfeldt and Julia Silge\n\n----------------------------------------------------------\nAbout the Tutorial and expected learning:\n----------------------------------------------------------\n\nHave you ever encountered text data and suspected there was useful insight latent within it but felt frustrated about how to find that insight?\n\nAre you familiar with the basics of predictive modeling, and ready to learn how unstructured text data can be used for prediction within the tidyverse and tidymodels ecosystems?\n\nDo you need a flexible framework for handling text data that empowers you to build supervised predictive models?\n\nText data is increasingly important in many domains, and tidy modeling principles can be applied to natural language processing tasks. This presentation is designed to provide practical guidance and directly applicable knowledge for data scientists and analysts who want to integrate text into their modeling pipelines.\n\nIn this 90-minute tutorial, learn how to preprocess text data for modeling, train models, and evaluate model perform.\n\nSlides and live coding during the tutorial will be used to walk through a realistic case study.\n\nThe tutorial will be streamed, recorded, and captioned, and there will be supporting materials and code on GitHub for you to work through afterward.\n\n-------------------------------------------------------------\nExpected level of audience’s R background:\n-------------------------------------------------------------\n\nIntermediate familiarity with R, RStudio, basics of regression and classification modeling, and tidyverse packages such as dplyr and ggplot2.\n\n------------------------------------------------------\nSign up through any one of these links:\n------------------------------------------------------\n\nR-Ladies Buenos Aires: https://www.meetup.com/rladies-buenos-aires/events/271926360\n\nR-Ladies Santa Rosa: https://www.meetup.com/rladies-santa-rosa/events/271927045/\n\nR-Ladies Ushuaia: https://www.meetup.com/rladies-ushuaia/events/271932849/\n\nR-Ladies Resistencia-Corrientes: https://www.meetup.com/rladies-resistencia-corrientes/events/271931765/\n\nR-Ladies Mendoza: https://www.meetup.com/rladies-mendoza/events/271943468\n\nR-Ladies Santa Fe: https://www.meetup.com/rladies-santa-fe/events/271948618\n\nR-Ladies General Pico: https://www.meetup.com/rladies-general-pico/events/271960751\n\nR-Ladies Córdoba: https://www.meetup.com/rladies-cordoba/events/271984839/\n\n-------------------------\nCode of Conduct:\n-------------------------\n\nAs every R-Ladies event, all participants are required to agree to the Code of Conduct. In addition, we also adopt the useR! 2020 Code of Conduct.\n1. R-Ladies Code of Conduct: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n2. useR! 2020 Code of Conduct: https://user2020.r-project.org/codeofconduct/",
+    "status": "PAST",
+    "dateTime": "2020-07-25T01:30:00+05:30",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-pune/events/272002433/",
+    "featuredEventPhoto": {
+      "id": "491376800",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/f/c/0/highres_491376800.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/f/c/0/600_491376800.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/f/c/0/thumb_491376800.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Pune",
+      "urlname": "rladies-pune"
+    }
+  },
+  {
+    "id": "272002362",
+    "title": "[Online] useR!2020 Tutorial: A ggplot2 crash course",
+    "description": "(Please note, we are not hosting this event, so to register you need to follow the link towards the end of this post!)\n\nThe useR! 2020 conference has gone online this year! This has made the tutorials being conducted as a part of the conference to be accessible remotely.\n\nJoin this online tutorial to learn about creating beautiful data visualizations in R using ggplot2! Use the link at the bottom of this page to register. This tutorial is being jointly hosted by the useR! 2020 team, R-Ladies NYC and R-Ladies DC.\n\nUsers of any subject matter background who are interested in data visualization with R are welcome. New R users (less than 1 year of continual experience) will get the most out of this course. Some basic knowledge, such as understanding of different R data types & structures (character, data frame, etc.) and authoring simple functions & loops, is required. The course, however, is not just for beginners. More advanced R users who have little to no experience with ggplot2 and other packages in the tidyverse will learn many new tools for data visualization in R.\n\n---------------------\nInstructor bio:\n---------------------\n\nDr. Sam Tyner has been using ggplot2 since version 0.9.2 (2012). She co-authored and maintains the ggplot2 extension package geomnet, and has taught ggplot2 to undergraduate students, graduate students, and professionals. Her material for undergraduate students can be found at csafe-isu.github.io/reu18/slides, and a list of all workshops taught is available in her CV. Dr. Tyner also has expertise in the theory of data visualization, acquired through her dissertation research and as a part of the statistical graphics working group at Iowa State University. She has written about her ggplot2 work in The R Journal and on her blog.\n\n------------------------------------\nComputing requirements:\n------------------------------------\n\nHaving R + RStudio installed is recommended, but if this is not possible you may use the RStudio Cloud workspace. Those not using the RStudio Cloud should have the tidyverse suite of packages and the plotly package installed. Or, for the minimalist participant, ggplot2, dplyr, tidyr, and plotly will be sufficient for the bulk of the material.\n\n------------------------------------------------------------------------------------\nUpon completion of this tutorial, participants will be able to:\n------------------------------------------------------------------------------------\n\n1. Identify the appropriate plot types and corresponding ggplot2 geoms to consider when visualizing their data;\n2. Implement the ggplot2 grammar of graphics by using ggplot() and building up plots with the + operator;\n3. Iterate through multiple visualizations of their data by changing the aesthetic mappings, geometries, and other graph properties;\n4. Incorporate custom elements (colors, fonts, etc.) into their visualizations by adjusting ggplot2 theme elements;\n5. Investigate the world of ggplot2 independently to expand upon the skills learned in the course.\n\n----------------------------\nLink for registration:\n----------------------------\n\nhttps://www.eventbrite.com/e/creating-beautiful-data-visualizations-in-r-a-ggplot2-crash-course-tickets-112524126692\n\n-------------------------\nCode of Conduct:\n-------------------------\n\nAs every R-Ladies event, all participants are required to agree to the Code of Conduct. In addition, we also adopt the useR! 2020 Code of Conduct.\n1. R-Ladies Code of Conduct: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n2. useR! 2020 Code of Conduct: https://user2020.r-project.org/codeofconduct/",
+    "status": "PAST",
+    "dateTime": "2020-07-21T23:30:00+05:30",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-pune/events/272002362/",
+    "featuredEventPhoto": {
+      "id": "491376292",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/d/c/4/highres_491376292.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/d/c/4/600_491376292.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/d/c/4/thumb_491376292.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Pune",
+      "urlname": "rladies-pune"
+    }
+  },
+  {
+    "id": "268596683",
+    "title": "Meetup 3: Introduction to Git",
+    "description": "Speaker: Ragini Jain\n\nRagini is a DevOps automation specialist at Strikr.\n----------------------------------------------------------------------------------------------------\nTalk description:\n\nGit is a distributed version control system used extensively in Free or Open Source Software (FOSS) projects. It provides remarkable speed, efficiency and support for non-linear workflows.\n\nIn the introductory Git session, the attendees will learn capabilities of Git. Working with a new repo, dealing with staging and commits, addressing new requirements in branches, sharing the work and multiple models of merging. We will also discuss about 'fetch and merge' vs 'pull'.\n----------------------------------------------------------------------------------------------------\nPlease bring a fully-charged laptop and a setup will be provided to the attendees to explore git concepts and capabilities.\n----------------------------------------------------------------------------------------------------\nTo attend, please RSVP. It would be good to keep your RSVP up to date. Please unRSVP, if you realize you can't make it.",
+    "status": "PAST",
+    "dateTime": "2020-02-22T16:00:00+05:30",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-pune/events/268596683/",
+    "featuredEventPhoto": {
+      "id": "488896456",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/0/4/8/highres_488896456.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/0/4/8/600_488896456.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/0/4/8/thumb_488896456.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 17,
+      "waitlistCount": 0,
+      "totalCount": 17
+    },
+    "venues": [
+      {
+        "id": "26724585",
+        "name": "Department of Scientific Computing, Modeling and Simulation",
+        "address": "Vidyapeeth Rd",
+        "city": "Pune",
+        "state": "Ma",
+        "country": "in",
+        "lat": 18.5486,
+        "lon": 73.8293,
+        "postalCode": "411007",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Pune",
+      "urlname": "rladies-pune"
+    }
+  },
+  {
+    "id": "268264069",
+    "title": "Code and Coffee: A collaboration with PyData Pune",
+    "description": "R-Ladies Pune collaborates with PyData Pune to host a Code and Coffee event!\n\nReady to show your R skills ladies ?\n\nThe concept is simple, bring a laptop and code. Here's how it works:\n\n1. At 09:45 am, everyone introduces themselves.\n2. At 10:00 am, We will share and discuss the problem statements and necessary stuff.\n3. For the rest of the day, folks work in the communal space on their code providing one another help and conversation as needed. Oh, and they usually drink coffee too!.\n---------------------------------------------\nWhat to bring??\n-- Laptop with charged batteries\n-- Adaptor and cord\n\nOthers\n-- Install RStudio\n----------------------------",
+    "status": "PAST",
+    "dateTime": "2020-02-02T09:30:00+05:30",
+    "duration": "PT4H",
+    "eventUrl": "https://www.meetup.com/rladies-pune/events/268264069/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "26834028",
+        "name": "Bharati Vidyapeeth Campus",
+        "address": "",
+        "city": "Pune",
+        "state": "Ma",
+        "country": "in",
+        "lat": 18.4584,
+        "lon": 73.8559,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Pune",
+      "urlname": "rladies-pune"
+    }
+  },
+  {
+    "id": "268030947",
+    "title": "Meetup 2: Vectors and Subsetting in R",
+    "description": "Discussion on a family of datatypes in R: Vectors, and also on how subsetting operators work in R.\n\nReference material: https://adv-r.hadley.nz/index.html\n\nThis is a beginner level session with hands-on practise. Please carry your laptops along.",
+    "status": "PAST",
+    "dateTime": "2020-01-25T16:00:00+05:30",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-pune/events/268030947/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 13,
+      "waitlistCount": 0,
+      "totalCount": 13
+    },
+    "venues": [
+      {
+        "id": "26724585",
+        "name": "Department of Scientific Computing, Modeling and Simulation",
+        "address": "Vidyapeeth Rd",
+        "city": "Pune",
+        "state": "Ma",
+        "country": "in",
+        "lat": 18.5486,
+        "lon": 73.8293,
+        "postalCode": "411007",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Pune",
+      "urlname": "rladies-pune"
+    }
+  },
+  {
+    "id": "277832673",
+    "title": "[ONLINE] Meetup 4: Lightning Talks",
+    "description": "Hello All! This is a lightning talks session with 3 speakers presenting their talks. All speakers will present their talk for 15-minutes followed by a 5-minute question-answer session with the audience.\n\nThe Zoom link for this event will be available only to those who RSVP.\n\nOur Speakers:\n\nJanani Ravi, PhD is an Assistant Professor at the Department of Pathobiology and Diagnostic Investigation, Michigan State University. She is also the founder of R-Ladies East Lansing.\nIn her talk, Janani will discuss \"Making cool publication-quality tables\" in R. She will be giving a snapshot of making elegant and interactive tables with knitr, DT, and GT!\nGitHub Username: jananiravi\n\nKewalin Samart, is an undergraduate student majoring in Computational Mathematics with a minor in Computational Math, Science, and Engineering at Michigan State University. She uses R to perform data analysis in her research project.\nIn her talk, Kewalin will provide \"A sneak peek at Distill-flavored R Markdown for scientific manuscripts\". She will be giving a quick snapshot of how to prepare scientific manuscripts using Distill-flavored R Markdown and how to publish the finished articles using GitHub.\nGitHub Username: KewalinSamart\n\nPraveena Mathews, teaches R and Statistics. She is also the Organizer of R-Ladies Chennai.\nIn her talk, Praveena will discuss how to conduct \"Principal Component Analysis in R\". She will talk about how to do Principal Component Analysis (PCA) in R and visualize the results of the analysis.\nGitHub Username: pjmathews\n\nIf you are interested, please RSVP for this event. We welcome participants from all experience levels with R.\n\nAll participants in this event should strictly observe the code of conduct mentioned here: https://rladies.org/code-of-conduct/\n\nFor any queries/suggestions, you can write an e-mail to us at pune@rladies.org\n\nEvent announcements are also made at our Twitter account: @RladiesPune",
+    "status": "PAST",
+    "dateTime": "2021-05-09T19:00:00+05:30",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-pune/events/277832673/",
+    "featuredEventPhoto": {
+      "id": "495978304",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/7/8/0/highres_495978304.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/7/8/0/600_495978304.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/7/8/0/thumb_495978304.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 17,
+      "waitlistCount": 0,
+      "totalCount": 17
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Pune",
+      "urlname": "rladies-pune"
+    }
+  }
+]
