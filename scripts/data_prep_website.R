@@ -87,7 +87,8 @@ cli::cli_alert_info("Writing events data")
 jsonlite::write_json(
   x = website_events,
   path = here::here("data/events.json"),
-  pretty = TRUE
+  pretty = TRUE,
+  auto_unbox = TRUE
 )
 
 cli::cli_alert_info("Writing update note")
@@ -103,7 +104,8 @@ jsonlite::write_json(
   path = here::here(
     "data/updated.json"
   ),
-  pretty = TRUE
+  pretty = TRUE,
+  auto_unbox = TRUE
 )
 
 # Read in chapters
