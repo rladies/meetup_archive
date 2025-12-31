@@ -1,0 +1,389 @@
+[
+  {
+    "id": "255238563",
+    "title": "R-Ladies! Let's open the ball!",
+    "description": "We could hardly wait to meet again, but now we are back with the 5th RLadies meetup and an interesting lineup of talks. We hope you would benefit from the knowledge shared, so don't miss the event!\n\nWe owe a debt of gratitude to QVARTZ for sponsoring this event!\n\n- What will we do?\n\n5:30-6:10\nFrom single-neuclotide polymorphisms (SNPs) to business students.\nSine Zambach (Specialkonsulent @ CBS, LI: linkedin.com/in/sine-zambach-9a0a801):\n\nWorking with genetics in bioinformatics may seem unfamiliar to students at CBS - but it is not. Sine will talk about the overlapping of analytical fields, and the new possibilities with Power BI which she is exploring right now.\nThe talk will also discuss issues in introducing R in administration work.\n\nLast but not least, Sine will tell us about her new awesome book \"Kvinde kend din kode\" which you can get here: https://filo.systime.dk/index.php?id=171. She will end up with opening the ball for one of our next meet-ups: R workshop for kids!\n\n6:10-6:20\nBreak\n\n6:20-7:00\nPredictive Analytics with R and SQL.\nEva Pardi (Software Dev & Data Analyst @ Leardal Copenhagen, LI: linkedin.com/in/evapardi):\n\nContinuing the event with a coding session, using R and SQL, to build a predictive model. We are going to explore the ins and outs of R services inside SQL, while creating a simple predictive algorithm!\n\n- What should you bring?\nAs usual, your laptop with RStudio installed. If you have issues with the installation drop us a message, we'd be happy to help!\n\nWe are looking forward to seeing you again!\n\nRegards,\nRLadiesCPH\nKristina, Diana, Sine and Eva",
+    "status": "PAST",
+    "dateTime": "2018-10-25T17:30:00+02:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-copenhagen/events/255238563/",
+    "featuredEventPhoto": {
+      "id": "475564049",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/f/d/1/highres_475564049.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/f/d/1/600_475564049.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/f/d/1/thumb_475564049.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 21,
+      "waitlistCount": 0,
+      "totalCount": 21
+    },
+    "venues": [
+      {
+        "id": "25144915",
+        "name": "QVARTZ",
+        "address": "Ryesgade 3",
+        "city": "Copenhagen",
+        "state": "",
+        "country": "dk",
+        "lat": 55.6903,
+        "lon": 12.5638,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Copenhagen",
+      "urlname": "rladies-copenhagen"
+    }
+  },
+  {
+    "id": "250986192",
+    "title": "Spatial visualization in R + business analytics!",
+    "description": "As promised, our fourth meet-up is here, with a nice combination of hands on exercises and lighting talks. We are certain that you will benefit from the knowledge shared, so don't miss the event!.\n\nWe owe a debt of gratitude to Niels Brock Copenhagen Business College (https://nielsbrock.dk/) the GENIE center for sponsoring this event!\n\nWhat will we do?\n\n5:30-5:45 p.m. Sharon B. Pedersen, Dean of Academic Affairs, Niels Brock College.\nIntroduction to Niels Brock College and the (Global Education, Innovation and Entrepreneurship) GENIE center.\n\n5:50-6:35 p.m. Ana Carolina Antunes, PostDoc at the National Veterinary Institute, DTU.\nIntroduction to spatial analysis in R workshop\n- 15-20 min presentation: an introduction to GIS, spatial description and interpolation\n- 25-30 min: Exercises using R.\n\n6:35-6:50 p.m. Break\n\n6:50-7:35 p.m. Frances Luk, Managing Partner, Alpha-Zetta Analytics (https://alphazetta.io/)\nBusiness cases in analytics: what is the market demanding?.\n\n7:35-8:00 p.m. Networking.\n\nWhat should you bring?\nAgain, your laptop with RStudio installed. Packages needed will be rgdal, gstat, RColorBrewer and plotGoogleMaps.\n\nFood and drinks?\nThanks to Niels Brock for allocating funds for juice, cookies and water.\n\nWe are looking forward to seeing you again!\n\nRegards,\nRLadiesCPH\nAna, Frances, Sharon, Kristina & Diana",
+    "status": "PAST",
+    "dateTime": "2018-06-14T17:30:00+02:00",
+    "duration": "PT2H30M",
+    "eventUrl": "https://www.meetup.com/rladies-copenhagen/events/250986192/",
+    "featuredEventPhoto": {
+      "id": "471306028",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/7/8/c/highres_471306028.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/7/8/c/600_471306028.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/7/8/c/thumb_471306028.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 38,
+      "waitlistCount": 0,
+      "totalCount": 38
+    },
+    "venues": [
+      {
+        "id": "25841200",
+        "name": "Niels Brock Copenhagen Business College",
+        "address": "Nørre Volgade 34, Room 420",
+        "city": "Copenhagen",
+        "state": "",
+        "country": "dk",
+        "lat": 55.6808,
+        "lon": 12.5688,
+        "postalCode": "meetup1",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Copenhagen",
+      "urlname": "rladies-copenhagen"
+    }
+  },
+  {
+    "id": "249702082",
+    "title": "From scientist to data scientist +  Level-up your clustering with shape analysis",
+    "description": "Hello R-Ladies!\n\nFor the next awaited meetup, we will have Ciera Martinez, a post-doc from Berkeley Institute of Data Science. She is a data scientist at the Berkeley Institute of Data Science, a biologist in the Cell and Molecular Biology department, and a fellow R-Ladies organizer all the way from San Francisco chapter! :)\n\nSummary:\n1. From scientist to data scientist (My path to data science: A love story)\n\n2. Two part tutorial:\nA. The Data Science of Shape\nB. How to fully explore your clustering results using ggplot.\n\nFeel free to bring a laptop with Rstudio installed. Additional packages we will be using: tidyverse, ggplot2, kohonen, momocs.\n\nWhere?\nPROSA\nVester Farimagsgade 37A · 1606\n\nSee you soon,\nDiana and Kristina",
+    "status": "PAST",
+    "dateTime": "2018-05-03T17:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-copenhagen/events/249702082/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 34,
+      "waitlistCount": 0,
+      "totalCount": 34
+    },
+    "venues": [
+      {
+        "id": "15625982",
+        "name": "PROSA",
+        "address": "Vester Farimagsgade 37A",
+        "city": "1606",
+        "state": "",
+        "country": "dk",
+        "lat": 55.6788,
+        "lon": 12.5627,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Copenhagen",
+      "urlname": "rladies-copenhagen"
+    }
+  },
+  {
+    "id": "247538224",
+    "title": "R vs Python battle, or not? + Customer segmentation using k-MEANS and SOM!",
+    "description": "Dear RLadiesCPH!\n\nSo as promised! It's time for our second meet-up on a very special day (International Women's Day) with two distinguished RLadies. This time we owe a big thanks to Justt for sponsoring the meet-up (http://www.justt.com/). Drinks and food included! :D.\n\nThe program of the day is as follows:\n\n5:00 - 5:45 --- First lighting talk: 'R VS PYTHON, The battlefield', by Eva Pardi, Software Developer and Data Analyst @ Laerdal Copenhagen.\n\nLet’s dive deeper in the infinite sea of programming languages designed for data scientists and analysts. I do not think, that we are supposed to choose one and live with that for the rest of our lives. So how can we decide which one to use for what purpose?.\n\nIn this session, we will talk about the first steps of R and Python, for what tasks can these languages be used in the best way, and how. You will be able to try both languages during the session in different environments. We will build some interesting stuff from basic statistical models to some hardcore deep learning algorithms.\n\n5:45 - 5:55 --- Break.\n\n5:55 - 6:40 --- Second lighting talk: 'Cluster analysis for customer segmentation' by Joselene Marques, Data Scientist @ Justt.\n\nYou will get a short introduction to customer segmentation using RFM (Recency, Frequency and Monetary Value) and a quick start to perform cluster analysis in R.\nWe start by presenting required R packages for data manipulation, cluster analysis and visualization.\nNext, we describe two clustering techniques k-MEANS and SOM (self-organizing map).\nFinally, we present the result with lots of insightful (and easy to code) plots.\n\n6:40 - 7:00 --- Networking.\n\nDon't forget to bring your laptops if you want to experiment a little.\n\nRSVP, a.s.a.p. as we only have 30 places available! Looking forward to seeing you soon!\n\nEva, Joselene, Kristina and Diana\nRLadiesCPH",
+    "status": "PAST",
+    "dateTime": "2018-03-08T17:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-copenhagen/events/247538224/",
+    "featuredEventPhoto": {
+      "id": "468311112",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/b/6/8/highres_468311112.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/b/6/8/600_468311112.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/b/6/8/thumb_468311112.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 35,
+      "waitlistCount": 0,
+      "totalCount": 35
+    },
+    "venues": [
+      {
+        "id": "25722542",
+        "name": "Justt",
+        "address": "Dampfaergevej 10 DK-2100, Copenhagen O",
+        "city": "Copenhagen",
+        "state": "",
+        "country": "dk",
+        "lat": 55.6971,
+        "lon": 12.5948,
+        "postalCode": "meetup1",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Copenhagen",
+      "urlname": "rladies-copenhagen"
+    }
+  },
+  {
+    "id": "245727945",
+    "title": "How to become a real-life data scientist ",
+    "description": "Hello R-Ladies community! We are ready to kick-start our local chapter of R-Ladies! Come along and feel free to bring a friend (or 2!) to find out what R-Ladies is all about and get to know fellow R-enthusiasts in Copenhagen. Big thanks to Prosa (https://www.prosa.dk) for sponsoring our kickoff!!!\n\nUpdated Agenda:\n\n16:00-16:10-; Arrival\n\n16:10 - 16: 40-; Introduction of R-Ladies Global and Copenhagen chapter\n\n16:40 - 17:20 -; Lightning talks\n\nKristina Gregorio, lead data scientist on the story of her life. “How to become a real-life data scientist “\n\nDiana Lucatero, soon-to-be PhD fellow, on how to predict the weather , \"How a 18th century reverend is helping you decide whether you should take your umbrella out! - On the use of the Bayes theorem in meteorology, probabilistic forecasting, verification and R! “\n\n17:20 - 17:30 - Planning for next meetup",
+    "status": "PAST",
+    "dateTime": "2018-01-18T16:00:00+01:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-copenhagen/events/245727945/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 28,
+      "waitlistCount": 0,
+      "totalCount": 28
+    },
+    "venues": [
+      {
+        "id": "15625982",
+        "name": "PROSA",
+        "address": "Vester Farimagsgade 37A",
+        "city": "1606",
+        "state": "",
+        "country": "dk",
+        "lat": 55.6788,
+        "lon": 12.5627,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Copenhagen",
+      "urlname": "rladies-copenhagen"
+    }
+  },
+  {
+    "id": "266589451",
+    "title": "Leverage on Machine Learning for Customer Retention!",
+    "description": "****\nOur venue is close to Norreport St. It is the old KU Law School, which is right across the street from Vor Frue church at Noerregade 8. Our room will be 101 and 106. The stairs to the first floor are to the right, and once on the first floor, walk straight into room 106.\nCall 2247-5196 if you get lost or cannot get in. See you later! :)\n\n***\n\nWe have two great speakers - and they are excited to share their expertise! Come to learn and meet new people in cosy and warm atmosphere :)\n\nFIRST TALK:\nOur first speaker is Shihan Du. She has a PhD in applied econometrics, recently graduated from Copenhagen Business School, and is now working as a part-time researcher at China-Europe Productivity Center.\n\nShihan's presentation is about advanced regression frameworks on decomposition techniques to analyze reasons for customer retention. Shihan will show one of her PhD projects - the Oaxaca-Blinder decomposition and decomposition based on conditional quantiles(non-linear), performed on individual-level data from Statistic Denmark. Principal component analysis (PCA) will also be briefly discussed at the end of the presentation.\n\nSECOND TALK:\nOur second speaker is Peer Christensen, who has a backround in linguistics and cognitive science. While working towards a PhD, he became interested in pursuing a career as a data scientist and spent much time learning R and Python. Peer recently started working at Saxo.com where he finds new ways of leveraging customer and product data to create insights.\n\nPredicting customer churn is a special case of binary classification, where standard measures of predictive accuracy are misleading when true positive predictions (churn = yes) are more important than true negatives (churn = no).\n\nPeer will show some of his ongoing work using R and the H2O autoML framework to train and evaluate multiple models in terms of their usefulness in a real-world use case.\n\nSAVE THE DATE!:\nWhen: December 5\nTime: 17:30 - 19:30\nWhere: Niels Brock\nBispetorvet 3\n1167 Copenhagen\n\nSee you all soon!\n\nRegards,\nRLadies CPH\nIvana, Shihan, Peer, Sharon",
+    "status": "PAST",
+    "dateTime": "2019-12-05T17:30:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-copenhagen/events/266589451/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 34,
+      "waitlistCount": 0,
+      "totalCount": 34
+    },
+    "venues": [
+      {
+        "id": "26752544",
+        "name": "Niels Brock",
+        "address": "Bispetorvet 3 1167",
+        "city": "Copenhagen",
+        "state": "",
+        "country": "dk",
+        "lat": 55.6791,
+        "lon": 12.5714,
+        "postalCode": "meetup1",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Copenhagen",
+      "urlname": "rladies-copenhagen"
+    }
+  },
+  {
+    "id": "264775794",
+    "title": "Exploration of Big Data and Machine Learning in Healthcare",
+    "description": "Feel the cool breeze of Autumn R Ladies. Come and meet us because we have two speakers excited to share their research about the application of Big Data and Machine Learning in their respective field.\n\nOur first speaker is Joji Teves, a current Ph.D. fellow at the University of Copenhagen – iMED program. As a trained cellular biologist in a computational biology group, Joji is currently exploring big data tools to map out genomic marks of healthy and diseased cell states. Prior to moving to Copenhagen, Joji earned her Master’s at the University of Arizona College of Medicine, USA where she studied Patient-derived biospecimens from Parkinson’s disease patients and studied cellular marks related to cellular autophagy and UV damage in comparison to healthy age-match cohorts. As a “data science” noob, she takes on a different perspective on how data science tools can be applied in biology to study health and diseases.\n\nOur second speaker is Jhaz Petersen - a data-savvy Marketer who is a Graduate from Copenhagen Business School. She studied the traditional research methodologies but wanted to challenge that with the current technologies available. Therefore, she applies Machine Learning Algorithms in analyzing Big Data to solve Sales and Marketing case problems. She would like to share her original framework on how businesses in every industry can leverage their existing big data to create a business strategy.\n\nProgram:\n17:00 - 17:15 Welcome\n17:15 - 17:35 Presentation by Joji Marie Teves - \"Exploring Computational\nBiology to study Cellular Health and Disease\"\n17:35 - 17:45 BREAK\n17:45 - 18:05 Presentation by Jhaz Petersen - \"Leveraging Big Data and Machine Learning in Sales & Marketing - Application of Market Basket Analysis, Clustering & 3D Customer Segmentation in R\"\n18:05 - 18:30 Closing and Networking\n\nCoffee and snacks will be served.\n\nStay tuned for more details.\n\n*New info: If you are interested to learn the codes, I can share it after the presentation. Email me at jhazpetersen@hotmail.com. Due to time constraints, I will not be able to explain the codes and the steps line by line but you can practice the code on your own time with your own dataset.\n\nKind regards,\n\nR Ladies CPH",
+    "status": "PAST",
+    "dateTime": "2019-09-26T17:00:00+02:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-copenhagen/events/264775794/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 23,
+      "waitlistCount": 0,
+      "totalCount": 23
+    },
+    "venues": [
+      {
+        "id": "26625347",
+        "name": "Biotech Research and Innovation Centre",
+        "address": "Ole Maaløes Vej 5",
+        "city": "København",
+        "state": "",
+        "country": "dk",
+        "lat": 55.6994,
+        "lon": 12.557,
+        "postalCode": "2200",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Copenhagen",
+      "urlname": "rladies-copenhagen"
+    }
+  },
+  {
+    "id": "262097559",
+    "title": "Approaching Natural Language Processing",
+    "description": "We had such an awesome Meetup with Ivana Hybenova, she deserves a second round! This time we'll be focusing on Python and natural language processing.\n\nWho are our speakers?\nIvana Hybenova is no stranger to the RLadies scene. A strong programmer, she has a masters degree in quantitative methods in Economics. She currently works at Good Monday as a data analyst, where she uses Python for ETL (extract, transform and load) and analyses of companies' data.\n\nDavid Mortensen is currently studying at IT-University in Copenhagen and working as a junior machine learning engineer in Good Monday.\n\nIn this Meetup, Ivana & David will share their experiences working on Natural Language Processing (NLP) in Python from an industry aspect. The main focus will be on Text Classification (sentiment analysis) and Topic Modelling and how these can be powerful tools in the industry.\n\nThe first talk - theory by David Mortensen\n(1) An introduction to NLP and motivation for learning\n(2) A visual and theoretical presentation of how a text classification pipeline could look like, including basic architecture of a suggested neural network.\n\nThe second talk - practical application by Ivana Hyebenova\nBusiness case: A restaurant wants to label the incoming reviews into positive ones and negative ones (complaints) and wants to see what customers are complaining about.\n(1) Introduction to the dataset\n(2) Sentimental analysis\n(3) Topic modelling\n(4) Communicating of the results\n\nAll code will be done in Python and provided in advance, so you can take notes as we will be explaining it line by line. The goal of this Meetup is to introduce you to text mining and give you a blue print example, that you can use in your own projects with some small adjustments!\n\nDetails:\nWhen: June 27\nTime: 17:30 - 19:30\nWhere: Good Monday\nSkelbækgade 2, 6th floor\n1717 Copenhagen.\n* Ring the bell for Founders 5th floor when you arrive.\n\nSandwiches will be served and tea and coffee will be available as well. We are especially grateful to Good Monday for sponsoring this Meetup!\n\nSee you all soon!\n\nRegards,\nRLadies CPH\nKristina, Lei, Diana, Ivana",
+    "status": "PAST",
+    "dateTime": "2019-06-27T17:30:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-copenhagen/events/262097559/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 17,
+      "waitlistCount": 0,
+      "totalCount": 17
+    },
+    "venues": [
+      {
+        "id": "26439448",
+        "name": "Good Monday",
+        "address": "Dirch Passers Allé 76",
+        "city": "Frederiksberg",
+        "state": "",
+        "country": "dk",
+        "lat": 55.6675,
+        "lon": 12.5561,
+        "postalCode": "1717",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Copenhagen",
+      "urlname": "rladies-copenhagen"
+    }
+  },
+  {
+    "id": "259386566",
+    "title": "April is Shiny!",
+    "description": "Spring is here! That means this month is all about all things Shiny (if that makes sense)!\n\nWe have two speakers who are regulars on the R-Ladies Copenhagen circuit, Diana Lucatero and Ivana Hybenova. Special thanks go to Deloitte Risk Advisory for sponsoring this event!\n\nTalk 1: Data science- from academia to industry\nOn this lighting talk, Diana will share her experience deploying advanced analytics in academia & industry with the main focus being the differences in communication & security considerations. The talk will include:\n(1) A very introductory sketch of shiny (what it is and why)\n(2) A hands on demonstration of how you can build & deploy a simple web app.\n(3) A 10 min exploration session of some cool interactive visualizations.\n(4) A demonstration on how you can install R packages in a secure manner (it's all about risk, risk!).\n\nDiana is a data science consultant in Deloitte Risk Advisory. She has experience with advanced analytics in environmental science & now she is applying her knowledge in the field of risk analytics. In the old days, she was a Matlab junkie, but now she has learned her lesson & joined the shiny-dark-R-side!\n\nTalk 2: Using Shiny to troubleshoot machine learning tasks\nIn this talk, Ivana will show us how to use R Shiny to solve a machine learning task quicker!\n\nShe has built an app that loads in a cleaned dataset and train several regression models: linear, support vector machine (SVM), random forest for regression, and generalized boosted regression.\n\nWe will even tune the algorithms from within the app, where Ivana will demonstrate the app and review the code. Even if you have not tried to 'machine-learn' yourself, it is one more reason to join as it will be super easy to perform and understand!\n\nShiny experts: Be aware that this talk is introductory. You're of course welcome to join, you'll have fun anyway!\n\nDetails:\nWhen: April 11th\nWhere: Deloitte Horizon\nTime: 17:30 - 20:00\n\nWhat to bring: laptop with RStudio installed. We will give you more details soon on which packages you will need in case you would like to code during the session.\n\nSnacks, drinks and sandwiches will be provided. See you all soon!\n\nRegards,\nRLadies CPH\nKristina, Lei, Diana",
+    "status": "PAST",
+    "dateTime": "2019-04-11T17:30:00+02:00",
+    "duration": "PT2H30M",
+    "eventUrl": "https://www.meetup.com/rladies-copenhagen/events/259386566/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 35,
+      "waitlistCount": 11,
+      "totalCount": 35
+    },
+    "venues": [
+      {
+        "id": "26274830",
+        "name": "Deloitte Horizon",
+        "address": "Njalsgade 21G, Ground Floor",
+        "city": "Copenhagen",
+        "state": "al",
+        "country": "dk",
+        "lat": 55.6661,
+        "lon": 12.5806,
+        "postalCode": "meetup1",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Copenhagen",
+      "urlname": "rladies-copenhagen"
+    }
+  },
+  {
+    "id": "257778786",
+    "title": "First of 2019!",
+    "description": "Happy new year, everyone! 🎉\n\nAaaand we're back with the first R-Ladies Meetup of the year! We have another great lineup of talks and workshops scheduled for you, so we hope to see you at this event!\n\nOur first speaker is Julie Gerlings - a consultant from KPMG with focus in Infrastructure, Government and Health and new technology solutions such as Natural Language Processing (NLP), Internet of Things (IOT) and the likes. She is also an external lecturer at CBS in the course 'Artificial Intelligence in the Marketplace'.\n\nOur second speaker is Margrit Kasper, also a consultant from KPMG, specializing in management and data visualization of enterprise resource planning (ERP) systems, robotic process automation, among others.\n\nProgram:\n1730 - 1745 Welcome and setup of laptop\n1745 - 1815 Lightning talk by Julie Gerlings: Natural Language Processing (NLP) in asset management\n1815 - 1830 Break\n1830 - 1900 Presentation by Margrit Kasper on the network3D package\n\nVenue: Dampfærgevej 28, KPMG, room G01-G02\n\nWhat to bring: laptop with RStudio installed. We will give you more details soon on which packages you will need in case you would like to code during the session.\nSandwiches, coffee and cola will be available at the event.\n\nIf you are interested in volunteering and/or presenting at future R-Ladies events, please do answer this survey: https://goo.gl/forms/9MajIknM0M1W2Ghs2 We would really appreciate it and thank you in advance!\n\nWe are looking forward to seeing you all again!\n\nRegards,\nRLadies CPH\nKristina, Lei, Julie, Diana",
+    "status": "PAST",
+    "dateTime": "2019-01-31T17:30:00+01:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-copenhagen/events/257778786/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 31,
+      "waitlistCount": 0,
+      "totalCount": 31
+    },
+    "venues": [
+      {
+        "id": "26040943",
+        "name": "KPMG P/S",
+        "address": "Dampfærgevej 28",
+        "city": "København",
+        "state": "",
+        "country": "dk",
+        "lat": 55.7003,
+        "lon": 12.596,
+        "postalCode": "2100",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Copenhagen",
+      "urlname": "rladies-copenhagen"
+    }
+  },
+  {
+    "id": "268986193",
+    "title": "The first of 2020: upskilling and ggplot2",
+    "description": "----------------------------------------------------------------------------------\nPLEASE NOTE\n\nDue to the recent Covid-19 developments & to take care of the safety of the community, we have decided to postpone the event until further notice.\n\n-----------------------------------------------------------------------------------\n\nHello RLadiesCPH!\n\nWe are back to bring you the very best for your upskilling/visualization new years' R-esolutions (pun intended).\n\nPlease set aside 20th of March for an evening of upskilling advice & intro to visualization with ggplot2.\n\nSpace is limited to 30 attendees so hurry up & reserve your post!\n\nA special thanks goes to Carve Consulting (https://www.carve.dk/) for providing us with the venue & sponsoring food/drinks.\n\n**Agenda**\n\n17:30-17:40 Welcome\n\n17:40 - 18:20 Sarah Tomori Oyebo, (Consultant, Carve Consulting, https://www.linkedin.com/in/sarahtomorioyebo/) on her learning experience with professional ML certifications.\n\nSarah Tomori Oyebo has a masters degree in Accounting, Strategy and Control from Copenhagen Business School. She spent majority of the second year of her masters in South Africa and Nigeria, where she mainly focused on the area of finance- and investment. She now works full-time as a management consultant at Carve Consulting.\n\nHer presentation is about her learning experience during the professional certificate program from Harvard that she recently completed. The program contained 9 courses ranging from R Basics, Data Visualisation, Productivity Tools to Machine Learning and final projects where she had to apply the skills obtained through the program.\n\n18:20 - 18:40 Sandwiches and networking.\n\n18:40 - 19:20 Thomas Lin Pedersen (Software Engineer, RStudio, https://twitter.com/thomasp85) Getting Comfortable with ggplot2.\n\nggplot2 is one of the most popular plotting frameworks (both in R and beyond). One of the reasons for its success is the clear and descriptive syntax based on the grammar of graphics. This syntax is quite foreign though, and getting started with ggplot2 can thus feel very daunting. In this talk Thomas hopes to give you the required momentum to get over the initial learning hill, see the reason in the syntax, and learn the underlying logic of the system. The talk will be very practical and take root in a series of code examples where we will talk about different aspects of the API that are in play.\n\n19:20 - 19:30 Wrapping up.\n\nLooking forward to seeing you soon!\n\nRLadiesCPH",
+    "status": "CANCELLED",
+    "dateTime": "2020-03-20T17:30:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-copenhagen/events/268986193/",
+    "featuredEventPhoto": {
+      "id": "489370857",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/a/6/9/highres_489370857.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/a/6/9/600_489370857.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/a/6/9/thumb_489370857.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 26,
+      "waitlistCount": 0,
+      "totalCount": 26
+    },
+    "venues": [
+      {
+        "id": "26886346",
+        "name": "Carve Consulting",
+        "address": "Købmagergade 11",
+        "city": "København",
+        "state": "",
+        "country": "dk",
+        "lat": 55.6831,
+        "lon": 12.5707,
+        "postalCode": "1358",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Copenhagen",
+      "urlname": "rladies-copenhagen"
+    }
+  }
+]

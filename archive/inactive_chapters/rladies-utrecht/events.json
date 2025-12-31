@@ -1,0 +1,584 @@
+[
+  {
+    "id": "263769999",
+    "title": "Kick-Off R-Ladies Utrecht!",
+    "description": "Welcome to R-Ladies Utrecht. We are beyond excited to invite you to our first meetup and kickoff of R-Ladies Utrecht! This will take place on the 29th of August at Dataworkz in Utrecht. Everyone who is interested in the R language and supports inclusion in the community is welcome to join.\n\nDuring the kickoff we would love to get to know you and get your input for upcoming events. There will be some speakers as well, talking about their experience in the R community.\n\nWe made a survey to get to know you upfront, feel free to fill it in via the following link: https://forms.gle/12k59r3AEJa7th2K8\n\n-------------------------------------------------------------------------------------------\nSchedule\n18:00-18:45 Pizza and Socializing\n18:45-19:00 Welcome and Introduction to R-Ladies by Annelies Kers &\nDewi Koning + Introduction to Dataworkz\n19:00-19:45 Getting to know each other & What do you want from R-\nLadies?\n19:45-20:00 Break\n20:00-20:45 Surprise Talks - to be announced\n20:45-21:00 Drinks and Socializing\n-------------------------------------------------------------------------------------------\nSpecial thanks for Dataworkz for hosting us.",
+    "status": "PAST",
+    "dateTime": "2019-08-29T18:00:00+02:00",
+    "duration": "PT3H30M",
+    "eventUrl": "https://www.meetup.com/rladies-utrecht/events/263769999/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 23,
+      "waitlistCount": 0,
+      "totalCount": 23
+    },
+    "venues": [
+      {
+        "id": "26082967",
+        "name": "Dataworkz",
+        "address": "Tractieweg 41",
+        "city": "Utrecht",
+        "state": "UT",
+        "country": "nl",
+        "lat": 52.1047,
+        "lon": 5.0796,
+        "postalCode": "3534 AP",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Utrecht",
+      "urlname": "rladies-utrecht"
+    }
+  },
+  {
+    "id": "274864585",
+    "title": "Debugging in R (Advanced R Ch22, R Ladies Netherlands)",
+    "description": "Hi everyone,\n\nThe R Ladies chapters of the Netherlands are partnering up and are hosting a series of events based on Hadley Wickham's Advanced R book (https://adv-r.hadley.nz/). However, all meet-ups and in particular this one, are very useful even if you didn't follow the ones before.\n\nJoin us for our next meeting, in which Alejandra Hernández Segura will present the key points of the chapter on \"Debugging\" (chapter 22) which is one of the last chapters. After the presentations, we will have some discussion so that we can clear up any doubts :)\n\nYou can find the full schedule and more information here: https://github.com/rladiesnl/book_club\n\nAlso feel free to sign up to discuss one of the chapters there!\n\nABOUT Ale\n----------------------\nOriginally from Mexico, Ale now lives in the Netherlands where she studied Molecular Medicine in Groningen. She now works as a Bioinformatician for the RIVM (National Institute for Public Health\nand the Environment), where she is in charge of doing automatization and ensuring reproducibility of analyses. She has been working through the chapters of Advanced R and now is ready to tell you all about \"Expressions\" in R.\n\nREQUIREMENTS\n----------------------\nUnderstanding basics of R objects. Having at least some experience using Rstudio.\n\nCODE OF CONDUCT\n----------------------------\nWe expect all attendees to abide by our Code of Conduct. Anyone who violates this community's Code of Conduct will be refused entry, expelled, and/or any other action deemed appropriate by the Organizer, regardless of event registration, meetup membership or other condition. We are emphatically queer and trans-friendly. This group was created so those who identify as women have a comfortable place to learn. Please read the Code of Conduct here: https://rladies.org/code-of-conduct/",
+    "status": "PAST",
+    "dateTime": "2020-12-08T18:30:00+01:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-utrecht/events/274864585/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 23,
+      "waitlistCount": 0,
+      "totalCount": 23
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Utrecht",
+      "urlname": "rladies-utrecht"
+    }
+  },
+  {
+    "id": "273984727",
+    "title": "Expressions in R (Advanced R Ch18, R Ladies Netherlands)",
+    "description": "Hi everyone,\n\nThe R Ladies chapters of the Netherlands are partnering up and are hosting a series of events based on Hadley Wickham's Advanced R book (https://adv-r.hadley.nz/).\n\nJoin us for our next meeting, in which Alejandra Hernández Segura will present the key points of the chapter on \"Expressions\" (chapter 18) which is part of the section in Metaprogramming. After the presentations, we will have some discussion and questions/exercises together so that we can clear up any doubts :)\n\nYou can find the full schedule and more information here: https://github.com/rladiesnl/book_club\n\nAlso feel free to sign up to discuss one of the chapters there!\n\nABOUT Ale\n----------------------\nOriginally from Mexico, Ale now lives in the Netherlands where she studied Molecular Medicine in Groningen. She now works as a Bioinformatician for the RIVM (National Institute for Public Health\nand the Environment), where she is in charge of doing automatization and ensuring reproducibility of analyses. She has been working through the chapters of Advanced R and now is ready to tell you all about \"Expressions\" in R.\n\nREQUIREMENTS\n----------------------\nUnderstanding basics of R objects. Preferably understanding concepts like environments and the basics of functions.\n\nCODE OF CONDUCT\n----------------------------\nWe expect all attendees to abide by our Code of Conduct. Anyone who violates this community's Code of Conduct will be refused entry, expelled, and/or any other action deemed appropriate by the Organizer, regardless of event registration, meetup membership or other condition. We are emphatically queer and trans-friendly. This group was created so those who identify as women have a comfortable place to learn. Please read the Code of Conduct here: https://rladies.org/code-of-conduct/",
+    "status": "PAST",
+    "dateTime": "2020-10-27T18:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-utrecht/events/273984727/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 20,
+      "waitlistCount": 0,
+      "totalCount": 20
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Utrecht",
+      "urlname": "rladies-utrecht"
+    }
+  },
+  {
+    "id": "272844106",
+    "title": "R Ladies Netherlands Book Club - Advanced R Chapter 12 and 13",
+    "description": "Hi everyone,\n\nThe R Ladies chapters of the Netherlands are partnering up and are hosting an online book club. As a first book, we chose to read and discuss Hadley Wickham's Advanced R book (https://adv-r.hadley.nz/).\nJoin us for our next meeting, in which Ale Hernández Segura will present the key points of Chapter 12 and 13 on Object-oriented Programming. After that, we'll try some exercises together and help each other clear up any doubts and get over any hurdles :)\n\nYou can find the full schedule and more information here: https://github.com/rladiesnl/book_club\n\nAlso feel free to sign up to discuss one of the chapters there!\n\nABOUT Ale\n----------------------\nOriginally from Mexico, Ale now lives in the Netherlands where she studied Molecular Medicine in Groningen. She now works as a Bioinformatician for the RIVM (National Institute for Public Health\nand the Environment), where she is in charge of doing automatization and reproducibility of analyses. She has been working through the chapters of Advanced R and now is ready to tell you all about the basics of Object-oriented programming and S3 objects in R.\n\nREQUIREMENTS\n----------------------\nUnderstanding basics of R objects. Preferably understanding concepts like environments and the basics of functions.\n\nLINK TO THE MEETING\n----------------------------\nhttps://meet.jit.si/RladiesUtrecht-bookclub-advR-ch12-13-mainroom\n\nCODE OF CONDUCT\n----------------------------\nWe expect all attendees to abide by our Code of Conduct. Anyone who violates this community's Code of Conduct will be refused entry, expelled, and/or any other action deemed appropriate by the Organizer, regardless of event registration, meetup membership or other condition. We are emphatically queer and trans-friendly. This group was created so those who identify as women have a comfortable place to learn. Please read the Code of Conduct here: https://rladies.org/code-of-conduct/",
+    "status": "PAST",
+    "dateTime": "2020-09-01T18:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-utrecht/events/272844106/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 11,
+      "waitlistCount": 0,
+      "totalCount": 11
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Utrecht",
+      "urlname": "rladies-utrecht"
+    }
+  },
+  {
+    "id": "271184555",
+    "title": "R Ladies Netherlands Book Club - Advanced R Chapter 7",
+    "description": "Hi everyone,\n\nThe R Ladies chapters of the Netherlands are partnering up and are hosting an online book club. As a first book, we chose to read and discuss Hadley Wickham's Advanced R book (https://adv-r.hadley.nz/).\nJoin us for our next meeting, in which Ale Hernández Segura will present the key points of Chapter 7: \"Environments\". After that, we'll try some exercises together and help each other clear up any doubts and get over any hurdles :)\n\nYou can find the full schedule and more information here: https://github.com/rladiesnl/book_club\n\nAlso feel free to sign up to discuss one of the chapters there!\n\nABOUT Ale\n----------------------\nOriginally from Mexico, Ale now lives in the Netherlands where she studied Molecular Medicine in Groningen. She now works as a Bioinformatician for the RIVM (National Institute for Public Health\nand the Environment), where she does a lot of data engineering work. She has been working through the chapters of Advanced R and now is ready to tell you all about Environments in R.\n\nREQUIREMENTS\n----------------------\nMake sure to read the chapter in advance!\n\nLINK TO MEETUP\n----------------------\nhttps://videobelpilot.surf.nl/rladieschapter7\n\nCODE OF CONDUCT\n----------------------------\nWe expect all attendees to abide by our Code of Conduct. Anyone who violates this community's Code of Conduct will be refused entry, expelled, and/or any other action deemed appropriate by the Organizer, regardless of event registration, meetup membership or other condition. We are emphatically queer and trans-friendly. This group was created so those who identify as women have a comfortable place to learn. Please read the Code of Conduct here: https://rladies.org/code-of-conduct/",
+    "status": "PAST",
+    "dateTime": "2020-06-23T19:00:00+02:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-utrecht/events/271184555/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 25,
+      "waitlistCount": 0,
+      "totalCount": 25
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Utrecht",
+      "urlname": "rladies-utrecht"
+    }
+  },
+  {
+    "id": "279038266",
+    "title": "Growing into the R community",
+    "description": "The workshop is a joint event with R-Ladies Coventry (UK) and will be led by Dr Shannon Pileggi (https://www.pipinghotdata.com/about.html)! Shannon is currently a Statistician at Adelphi Research in Doylestown, PA.\n\n\"Starting something new in R can be daunting, but there are many community resources that can help! In this presentation, I’ll discuss how I crafted a job interview presentation by making modifications on publicly available TidyTuesday code. This built the technical and confidence-boosting scaffolding I needed for more open-ended projects. The success of this experience inspired me to transition from my role as a consumer and creator to contributor to give back to the R community, which has been incredibly fulfilling. Despite social distancing, I feel more connected to the R community than ever before!\"\n\nPREPARATION AND RESOURCES\nThere is nothing to prepare in advance. The resources for the workshop are available here: https://github.com/shannonpileggi/growing-into-r\n\nONLINE PROGRAMME\nThe event will be held online and will start at 19:00 (Netherlands time). Please join us via the Zoom link (visible to attendees)\n\nCODE OF CONDUCT\nPlease take a minute to read our code of conduct - we are committed to creating a safe and harassment-free environment:\nhttps://github.com/rladies/.github/blob/master/CODE_OF_CONDUCT.md\n\nR-Ladies events are always free and open to anyone who wants to participate as long as they follow the code of conduct. We are pro-actively inclusive of queer, trans, and all minority identities, with additional sensitivity to intersectional identities. Our priority is to provide a safe community space for anyone identifying as a minority gender who is interested in and/or working with R.",
+    "status": "PAST",
+    "dateTime": "2021-09-15T19:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-utrecht/events/279038266/",
+    "featuredEventPhoto": {
+      "id": "497107034",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/b/7/a/highres_497107034.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/b/7/a/600_497107034.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/b/7/a/thumb_497107034.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 45,
+      "waitlistCount": 0,
+      "totalCount": 45
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Utrecht",
+      "urlname": "rladies-utrecht"
+    }
+  },
+  {
+    "id": "276566319",
+    "title": "Manipulating text in R: effective use of Regular Expressions (regex)",
+    "description": "String manipulation is a key tool in data wrangling and yet one that is not often discussed or mentioned. Regular expressions or regex allow us to create patterns that help us find or modify strings/text. Don't you think that such a tool is very valuable?!! Do you want to learn how to use regex effectively in R?\n\nIn this meet-up Barbara Vreede and Tessa Pronk will be introducing us to the use of regular expressions in R and organizing some nice activities where we can practice!\n\nThe program will look like this:\n\n19:30 - Welcome and introduction to regex\n20:00 - Breakout rooms 1: crossword\n20:10 - Discussion of crossword, solution and lessons\n20:20 - Breakout rooms 2: webscrapping\n20:40 - results and lessons\n20:50 - Closing remarks\n\nREQUIREMENTS:\n\n- Basic knowledge in R is assumed.\n- Preferentially having R and RStudio installed and ready to use so you can follow along with the activities.\n\nABOUT THE PRESENTERS:\n\n- Barbara Vreede: https://www.linkedin.com/in/barbara-vreede-69986a1b/?originalSubdomain=nl\n\n- Tessa Pronk: https://www.kwrwater.nl/experts-expertises/experts/tessa-pronk/",
+    "status": "PAST",
+    "dateTime": "2021-03-11T19:30:00+01:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-utrecht/events/276566319/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 30,
+      "waitlistCount": 0,
+      "totalCount": 30
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Utrecht",
+      "urlname": "rladies-utrecht"
+    }
+  },
+  {
+    "id": "290162475",
+    "title": "Boook club “Hands-On Machine Learning with R” - Chp12 - Gradient Boosting",
+    "description": "Join us for our new online boookclub session discussing **‘Hands-On Machine Learning with R**’ by Bradley Boehmke and Brandon Greenwell! On Monday December 5, we will talk about Chapter 12 - Gradient Boosting.\n\nWe learned about decision trees, bagging, and random forests in the previous sessions. But surprise: there's another variant on tree algorithms on the market, and it's called '**Gradient boosting**'.\n\n*\"Whereas random forests build an ensemble of deep independent trees, GBMs build an ensemble of shallow trees in sequence with each tree learning and improving on the previous one. Although shallow trees by themselves are rather weak predictive models, they can be “boosted” to produce a powerful “committee” that, when appropriately tuned, is often hard to beat with other algorithms.\"* (Hands-On Machine Learning)\n\nThe team spirit of this book club is really flowing and so this chapter will also be presented by one of our community members Ece. Our presenter, Ece Ozler, is from Turkey. She has a graduate degree in Economics from the Koc University in Turkey and a master's in Finance from the Netherlands. She has lived in the Netherlands for almost six years now. She works for an analytics company, FI Analytics, in the banking sector. She uses R and ML to build credit scoring models; C# to build apps that use the prediction models made in R to decide to accept a loan application.\n\n**This boook club:**\nFor this boook club we - the Den Bosch and Utrecht chapters of R Ladies - are joining forces. We will alternate hosting the meetups. In +- 10 meetings (probably more :) ) , we will work through all the chapters in the book together. We are doing this boookclub, because we like to learn together. It is not the case presenters are the experts on the matter. To make this a group effort, the idea is that all participants take turns in presenting chapters, as for example Marianna presented chapter 6, and Elena chapter 7 and 8! We are of course available to help. If you’re not comfortable presenting, just listening is also okay.\nIf you cannot make it this time, feel free to join in on one of the subsequent meetings.\n\n**For who:**\n\n* People who want to take their first steps into machine learning\n* Some prior knowledge on R programming will be helpful. As the authors of the book themselves mention: “This book is not meant to be an introduction to R or to programming in general; as we assume the reader has familiarity with the R language to include defining functions, managing R objects, controlling the flow of a program, and other basic tasks.”\n\n**What to expect:**\n\n* Presentations summarising the key points on each topic of the book\n* Putting the theory to practice by going through exercises together\n* Room to discuss questions and other thoughts\n\n**Whereabouts**:\n\n* Meet every 2 weeks via Zoom. The password will be sent to you via e-mail before the meeting.\n* We meet every second Monday, from 7 - 8.30 pm\n* It is not necessary to read the chapters in advance, but feel free to do so.\n\nR-Ladies is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form. See the [code of conduct](https://rladies.org/code-of-conduct/).\nThe book can be found at [https://bradleyboehmke.github.io/HOML/](https://bradleyboehmke.github.io/HOML/). It is also available in print. For the slides of our previous meetings, see [https://github.com/rladiesnl/book_club_handsonML](https://github.com/rladiesnl/book_club_handsonML).",
+    "status": "PAST",
+    "dateTime": "2022-12-19T19:00:00+01:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-utrecht/events/290162475/",
+    "featuredEventPhoto": {
+      "id": "509219274",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/e/7/8/a/highres_509219274.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/e/7/8/a/600_509219274.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/7/8/a/thumb_509219274.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 18,
+      "waitlistCount": 0,
+      "totalCount": 18
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Utrecht",
+      "urlname": "rladies-utrecht"
+    }
+  },
+  {
+    "id": "289773716",
+    "title": "Book Club \"Machine Learning with R\" - Decision trees and Bagging",
+    "description": "Have you heard about decision trees? And do you know the concept of \"bagging\". Join us for another meetup for the online boookclub discussing **‘Hands-On Machine Learning with R**’ by Bradley Boehmke and Brandon Greenwell. On Monday November 21st, we discuss Chapters 9 and 10, ‘**Decision Trees**’ and '**Bagging**'.\n\nThe chapter will be presented by Veerle van Son, one of the R-Ladies Den Bosch organizers! Veerle works as a data scientist at a university of applied sciences. She uses R and Rmarkdown (and soon Quarto?) for data wrangling, visualisation and reporting.\n\nFor this boook club we - the Den Bosch and Utrecht chapters of R Ladies - are joining forces. We will alternate hosting the meetups. In +- 10 meetings (maybe more :) ) , we will work through all the chapters in the book together. We are doing this book club, because we like to learn together. It is not the case presenters are the experts on the matter. To make this a group effort, the idea is that all participants take turns in presenting chapters. If you’re not comfortable presenting, just listening is also okay.\n\nIf you cannot make it this time, feel free to join in on one of the subsequent meetings.\n\n**For who:**\n\n* People who want to take their first steps into machine learning\n* Some prior knowledge on R programming will be helpful. As the authors of the book themselves mention: “This book is not meant to be an introduction to R or to programming in general; as we assume the reader has familiarity with the R language to include defining functions, managing R objects, controlling the flow of a program, and other basic tasks.”\n\n**What to expect:**\n\n* Presentations summarising the key points on each topic of the book\n* Putting the theory to practice by going through exercises together\n* Room to discuss questions and other thoughts\n\n**Whereabouts**:\n\n* Meet every 2 weeks via Zoom. The password will be sent to you via e-mail before the meeting.\n* We meet every second Monday, from 7 - 8.30 pm\n* It is not necessary to read the chapters in advance, but feel free to do so.\n\nR-Ladies is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form. See the [code of conduct](https://rladies.org/code-of-conduct/).\nThe book can be found at [https://bradleyboehmke.github.io/HOML/](https://bradleyboehmke.github.io/HOML/). It is also available in print. For the slides of our previous meetings, see https://github.com/rladiesnl/book_club_handsonML.",
+    "status": "PAST",
+    "dateTime": "2022-11-21T19:00:00+01:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-utrecht/events/289773716/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 25,
+      "waitlistCount": 0,
+      "totalCount": 25
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Utrecht",
+      "urlname": "rladies-utrecht"
+    }
+  },
+  {
+    "id": "289031143",
+    "title": "Book club “Hands-On Machine Learning with R” #4 - Regularised Regression",
+    "description": "Want to know more about **regularisation**? Join us for the FOURTH meetup for the online boookclub discussing **‘Hands-On Machine Learning with R**’ by Bradley Boehmke and Brandon Greenwell. On Monday October 24, we discuss Chapter 6, ‘**Regularised Regression**’.\n\nWe’re delighted to announce that this topic will be presented by Marianna, who is from the R-Ladies community! Marianna is a Ph.D. student in economics, she will be defending her thesis this November after which she will start a post-doc at the University of Barcelona. About R, Marianna says: “I got acquainted with R a couple of years ago, to me first the data-wrangling and data visualization in R was very appealing. Currently, I am using it also for regression analyses, and I am doing my papers in Rmarkdown.” About the topic of this bookclub edition, regularised regression, Marianna says: “I wanted to do a topic that would allow me to learn new things and I hope I can apply it in the future.”\n\nWhen your model contains a lot of predictors, it is likely that your model assumptions, like “no multicollinearity”, will no longer hold. **Regularisation** is a way to deal with this problem by shrinking the model coefficients. During the meeting we will go into more detail on this topic and talk about different kinds of regularised regression.\n\nFor this boook club we - the Den Bosch and Utrecht chapters of R Ladies - are joining forces. We will alternate hosting the meetups. In +- 10 meetings (maybe more :) ) , we will work through all the chapters in the book together. We are doing this boookclub, because we like to learn together. It is not the case presenters are the experts on the matter. To make this a group effort, the idea is that all participants take turns in presenting chapters, as for example Marianna will be presenting chapter 6! If you’re not comfortable presenting, just listening is also okay.\n\nIf you cannot make it this time, feel free to join in on one of the subsequent meetings.\n\n**For who:**\n\n* People who want to take their first steps into machine learning\n* Some prior knowledge on R programming will be helpful. As the authors of the book themselves mention: “This book is not meant to be an introduction to R or to programming in general; as we assume the reader has familiarity with the R language to include defining functions, managing R objects, controlling the flow of a program, and other basic tasks.”\n\n**What to expect:**\n\n* Presentations summarising the key points on each topic of the book\n* Putting the theory to practice by going through exercises together\n* Room to discuss questions and other thoughts\n\n**Whereabouts**:\n\n* Meet every 2 weeks via Zoom. The password will be sent to you via e-mail before the meeting.\n* We meet every second Monday, from 7 - 8.30 pm\n* It is not necessary to read the chapters in advance, but feel free to do so.\n\nR-Ladies is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form. See the [code of conduct](https://rladies.org/code-of-conduct/).\n\nThe book can be found at [https://bradleyboehmke.github.io/HOML/](https://bradleyboehmke.github.io/HOML/). It is also available in print. For the slides of our previous meetings, see https://github.com/rladiesnl/book_club_handsonML.",
+    "status": "PAST",
+    "dateTime": "2022-10-24T19:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-utrecht/events/289031143/",
+    "featuredEventPhoto": {
+      "id": "507700616",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/e/a/8/highres_507700616.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/e/a/8/600_507700616.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/e/a/8/thumb_507700616.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 26,
+      "waitlistCount": 0,
+      "totalCount": 26
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Utrecht",
+      "urlname": "rladies-utrecht"
+    }
+  },
+  {
+    "id": "288441399",
+    "title": "Book club \"Hands-On Machine Learning with R\" - Second meeting! ",
+    "description": "Now that summer is coming to an end, we thought it would be fun to work through another book together. This time, we have chosen **‘Hands-On Machine Learning with R**’ by Bradley Boehmke and Brandon Greenwell.\nNowadays you hear about machine learning all the time. This book is a nice way to get familiar with the basics of machine learning in R without going in too much detail.\n\nFor this book club we - the Den Bosch and Utrecht chapters of R ladies - are joining forces. In +- 10 meetings, we will work through all the chapters in the book together. We are doing this bookclub, because we like to learn together. It is not the case presenters are the experts on the matter. To make this a group effort, the idea is that all participants take turns in presenting chapters. If you’re not comfortable presenting, just listening is also okay.\n\nOn Monday September 26, we do Chapter 3 and 4, ‘**Feature & Target Engineering**’ and ‘**Linear Regression**’. If you cannot make it this time, feel free to join in on one of the subsequent meetings.\n\n**For who:**\n\\- People who want to take their first steps into machine learning\n\\- Some prior knowledge on R programming will be helpful\\. As the authors of the book themselves mention: “This book is not meant to be an introduction to R or to programming in general; as we assume the reader has familiarity with the R language to include defining functions\\, managing R objects\\, controlling the flow of a program\\, and other basic tasks\\.”\n\n**What to expect:**\n\\- Presentations summarising the key points on each topic of the book\n\\- Putting the theory to practice by going through exercises together\n\\- Room to discuss questions and other thoughts\n\n**Whereabouts**:\n\\- Meet every 2 weeks via Zoom\n\\- We meet every second Monday\\, from 7 \\- 8\\.30 pm\n\\- It is not necessary to read the chapters in advance\\, but feel free to do so\\.\n\nR-Ladies is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form. See the [code of conduct](https://rladies.org/code-of-conduct/).\n\nThe book can be found at [https://bradleyboehmke.github.io/HOML/](https://bradleyboehmke.github.io/HOML/). It is also available in print.",
+    "status": "PAST",
+    "dateTime": "2022-09-26T19:00:00+02:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-utrecht/events/288441399/",
+    "featuredEventPhoto": {
+      "id": "482138995",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/8/5/3/highres_482138995.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/8/5/3/600_482138995.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/8/5/3/thumb_482138995.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 23,
+      "waitlistCount": 0,
+      "totalCount": 23
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Utrecht",
+      "urlname": "rladies-utrecht"
+    }
+  },
+  {
+    "id": "288224813",
+    "title": "Book club \"Hands-On Machine Learning with R\" - First meeting! ",
+    "description": "Now that summer is coming to an end, we thought it would be fun to work through another book together. This time, we have chosen **‘Hands-On Machine Learning with R**’ by Bradley Boehme and Brandon Greenwell.\nNowadays you hear about machine learning all the time. This book is a nice way to get familiar with the basics of machine learning in R without going in too much detail.\n\nFor this book club we - the Den Bosch and Utrecht chapters of R ladies - are joining forces. In +- 10 meetings, we will work through all the chapters in the book together. We are doing this bookclub, because we like to learn together. It is not the case presenters are the experts on the matter. To make this a group effort, the idea is that all participants take turns in presenting chapters. If you’re not comfortable presenting, just listening is also okay.\n\nOn Monday September 12, we start with the first two chapters, ‘Introduction to Machine Learning’ and ‘Modeling Process’. If you cannot make it the first time, feel free to join in on one of the subsequent meetings.\n\n**For who:**\n\\- People who want to take their first steps into machine learning\n\\- Some prior knowledge on R programming will be helpful\\. As the authors of the book themselves mention: “This book is not meant to be an introduction to R or to programming in general; as we assume the reader has familiarity with the R language to include defining functions\\, managing R objects\\, controlling the flow of a program\\, and other basic tasks\\.”\n\n**What to expect:**\n\\- Presentations summarising the key points on each topic of the book\n\\- Putting the theory to practice by going through exercises together\n\\- Room to discuss questions and other thoughts\n\n**Whereabouts**:\n\\- Meet every 2 weeks via Zoom\n\\- First meeting is at the 12th of September 2022\\, 7 \\- 8\\.30 pm\n\\- It is not necessary to read the chapters in advance\\, but feel free to do so\\.\n\nR-Ladies is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form. See the [code of conduct](https://rladies.org/code-of-conduct/).\n\nThe book can be found at [https://bradleyboehmke.github.io/HOML/](https://bradleyboehmke.github.io/HOML/). It is also available in print.",
+    "status": "PAST",
+    "dateTime": "2022-09-12T19:00:00+02:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-utrecht/events/288224813/",
+    "featuredEventPhoto": {
+      "id": "506852213",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/d/d/5/highres_506852213.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/d/d/5/600_506852213.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/d/d/5/thumb_506852213.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 26,
+      "waitlistCount": 0,
+      "totalCount": 26
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Utrecht",
+      "urlname": "rladies-utrecht"
+    }
+  },
+  {
+    "id": "292252822",
+    "title": "Boook Club \"Machine Learning with R\" - Clustering",
+    "description": "Join us for our new online boookclub session discussing ‘Hands-On Machine Learning with R’ by Bradley Boehmke and Brandon Greenwell!\n\nMonday March 27, we will talk about pt IV of the book: Clustering! From the book:\n\nIn PART III of this book we focused on methods for reducing the dimension of our feature space (p). The remaining chapters concern methods for reducing the dimension of our observation space (n); these methods are commonly referred to as *clustering*. *K*-means clustering is one of the most commonly used clustering algorithms for partitioning observations into a set of k groups (i.e. k clusters), where k is pre-specified by the analyst. *k*-means, like other clustering algorithms, tries to classify observations into mutually exclusive groups (or clusters), such that observations within the same cluster are as similar as possible (i.e., high intra-class similarity), whereas observations from different clusters are as dissimilar as possible (i.e., low inter-class similarity). In *k*-means clustering, each cluster is represented by its center (i.e, centroid) which corresponds to the mean of the observation values assigned to the cluster. The procedure used to find these clusters is similar to the *k*-nearest neighbor (KNN) algorithm discussed in Chapter [8](https://bradleyboehmke.github.io/HOML/knn.html#knn); albeit, without the need to predict an average response value.\n\nThese chapters (20-22) will be presented by one of the organizers of R Ladies Den Bosch: Martine.\n\nThe attentive reader might notice that we skipped part III of the book: dimension reduction. This part contains chapter 17 Principal Components Analysis, 18 Generalised Low Rank models, and 19 Autoencoders. If you are looking for a fun little challenge and would like to present one or more of these chapters, please send us a message!",
+    "status": "PAST",
+    "dateTime": "2023-03-27T19:00:00+02:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-utrecht/events/292252822/",
+    "featuredEventPhoto": {
+      "id": "511420625",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/e/b/1/highres_511420625.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/e/b/1/600_511420625.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/e/b/1/thumb_511420625.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 23,
+      "waitlistCount": 0,
+      "totalCount": 23
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Utrecht",
+      "urlname": "rladies-utrecht"
+    }
+  },
+  {
+    "id": "291916929",
+    "title": "Book Club \"Machine Learning with R\" - Interpretable Machine Learning",
+    "description": "Join us for our new online boookclub session discussing ‘Hands-On Machine Learning with R’ by Bradley Boehmke and Brandon Greenwell!\n\nMonday March 6, we will talk about interpretable machine learning\nFrom the book:\n\nIn the previous chapters you learned how to train several different forms of advanced ML models. Often, these models are considered “black boxes” due to their complex inner-workings. However, because of their complexity, they are typically more accurate for predicting nonlinear, faint, or rare phenomena. Unfortunately, more accuracy often comes at the expense of interpretability, and interpretability is crucial for business adoption, model documentation, regulatory oversight, and human acceptance and trust. Luckily, several advancements have been made to aid in interpreting ML models over the years and this chapter demonstrates how you can use them to extract important insights.\nThis chapter will be presented by one of the authors of the book: Brandon Greenwell!",
+    "status": "PAST",
+    "dateTime": "2023-03-06T19:00:00+01:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-utrecht/events/291916929/",
+    "featuredEventPhoto": {
+      "id": "510966470",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/9/4/6/highres_510966470.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/9/4/6/600_510966470.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/9/4/6/thumb_510966470.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 25,
+      "waitlistCount": 0,
+      "totalCount": 25
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Utrecht",
+      "urlname": "rladies-utrecht"
+    }
+  },
+  {
+    "id": "291090882",
+    "title": "Boook club “Hands-On Machine Learning with R” - Chp14 - Support Vector Machines",
+    "description": "Join us for our new online boookclub session discussing **‘Hands-On Machine Learning with R**’ by Bradley Boehmke and Brandon Greenwell! On Monday January 23, we will talk about Chapter 14 - Support Vector Machines.\n\nThe team spirit of this book club is really flowing and so this chapter will also be presented by one of our beloved co-organizers from R-Ladies Den Bosch, Martine Jansen.\n\n**This book club:**\nFor this book club we - the Den Bosch and Utrecht chapters of R Ladies - are joining forces. We will alternate hosting the meetups. In +- 10 meetings (probably more :) ) , we will work through all the chapters in the book together. We are doing this book club, because we like to learn together. It is not the case presenters are the experts on the matter. To make this a group effort, the idea is that all participants take turns in presenting chapters, as for example Marianna presented chapter 6, and Elena chapter 7 and 8! We are of course available to help. If you’re not comfortable presenting, just listening is also okay.\nIf you cannot make it this time, feel free to join in on one of the subsequent meetings.\n\n**For who:**\n\n* People who want to take their first steps into machine learning\n* Some prior knowledge on R programming will be helpful. As the authors of the book themselves mention: “This book is not meant to be an introduction to R or to programming in general; as we assume the reader has familiarity with the R language to include defining functions, managing R objects, controlling the flow of a program, and other basic tasks.”\n\n**What to expect:**\n\n* Presentations summarising the key points on each topic of the book\n* Putting the theory to practice by going through exercises together\n* Room to discuss questions and other thoughts\n\n**Whereabouts**:\n\n* Meet every 2 weeks via Zoom. The password will be sent to you via e-mail before the meeting.\n* We meet every second Monday, from 7 - 8.30 pm\n* It is not necessary to read the chapters in advance, but feel free to do so.\n\nR-Ladies is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form. See the [code of conduct](https://rladies.org/code-of-conduct/).\nThe book can be found at [https://bradleyboehmke.github.io/HOML/](https://bradleyboehmke.github.io/HOML/). It is also available in print. For the slides of our previous meetings, see [https://github.com/rladiesnl/book_club_handsonML](https://github.com/rladiesnl/book_club_handsonML).",
+    "status": "PAST",
+    "dateTime": "2023-01-23T19:00:00+01:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-utrecht/events/291090882/",
+    "featuredEventPhoto": {
+      "id": "510017305",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/3/9/9/highres_510017305.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/3/9/9/600_510017305.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/3/9/9/thumb_510017305.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 12,
+      "waitlistCount": 0,
+      "totalCount": 12
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Utrecht",
+      "urlname": "rladies-utrecht"
+    }
+  },
+  {
+    "id": "299191287",
+    "title": "R package Development (in person event)",
+    "description": "Our last meetup has been a while, but that is going to change!\n\nOur upcoming meet-up ( a joined event with RLadies DenBosch) is an actual in-person meet in Utrecht! And we have a very special guest: **Jenny Bryan** will be in the Netherlands, and offered to have a talk for us at a meet about R package development. What a wonderful opportunity to meet in person with Jenny and other R-Ladies!\n\nJenny will be talking about R Package development (https://r-pkgs.org/).\n\nSURF Utrecht kindly offered to host this special occasion. SURF is a cooperative association of Dutch educational and research institutions in which the members work together to acquire or develop the best possible digital services, and to encourage knowledge sharing through continuous innovation ([https://www.surf.nl/en/about](https://www.surf.nl/en/about)). And it is very close to the main train station in Utrecht.\n\nR-Ladies is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form. See the [code of conduct](https://rladies.org/code-of-conduct/).\n\nCome join us in Utrecht!",
+    "status": "PAST",
+    "dateTime": "2024-04-24T17:15:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-utrecht/events/299191287/",
+    "featuredEventPhoto": {
+      "id": "519125375",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/4/f/f/highres_519125375.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/4/f/f/600_519125375.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/4/f/f/thumb_519125375.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 18,
+      "waitlistCount": 2,
+      "totalCount": 18
+    },
+    "venues": [
+      {
+        "id": "27753792",
+        "name": "SURF",
+        "address": "Moreelsepark 48",
+        "city": "Utrecht",
+        "state": "",
+        "country": "nl",
+        "lat": 52.0891,
+        "lon": 5.1135,
+        "postalCode": "3511 EP",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Utrecht",
+      "urlname": "rladies-utrecht"
+    }
+  }
+]

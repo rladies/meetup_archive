@@ -35,7 +35,7 @@ previous_end <- report_start
 
 # Prepare events data
 events_analyzed <- events |>
-  filter(!type %in% c("cancelled", "CANCELLED")) |>
+  filter(!status %in% c("cancelled", "CANCELLED")) |>
   mutate(
     event_date = as.Date(date),
     year = year(event_date),

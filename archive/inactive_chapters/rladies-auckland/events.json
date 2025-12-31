@@ -1,0 +1,1028 @@
+[
+  {
+    "id": "245261565",
+    "title": "R-Ladies Launch with Hadley Wickham",
+    "description": "Hi Everyone!\n\nWe are thrilled to announce our meetup launch with Hadley Wickham. This meetup will aimed at all R abilities. For those very new to R or those who have using the tidyverse for a while, you'll still pick up some new tricks.\n\nPlease arrive at 6:00 for a 6:30 start.\n\n# Data science in the tidyverse\n\nThe talk will begin with a broad overview of the data science process, motivated by a simple, but compelling, example. The bulk of the talk will cover the details of the process, focussing on challenges around data import, tidying, transformation, and visualisation. Along the way you'll learn some of the key principles of the tidyverse, centered around an explicit acknowledgement of the human in the loop.\n\nWhile I'll be showing and talking about lots of code, no programming experience is required. This talk contains no formulas.\n\n# Bio\n\nHadley is Chief Scientist at RStudio, a member of the R Foundation, and Adjunct Professor at Stanford University and the University of Auckland. He builds tools (both computational and cognitive) to make data science easier, faster, and more fun. His work includes packages for data science (the tidyverse: including ggplot2, dplyr, tidyr, purrr, and readr) and principled software development (roxygen2,\ntestthat, devtools). He is also a writer, educator, and speaker promoting the use of R for data science. Learn more on his website, http://hadley.nz (http://hadley.nz/) .\n\nThis meetup is being run in conjunction with the Data Science Discussion group https://www.meetup.com/Data-Science-Discussion-Auckland/\n\nWe look forward to meeting you.\n\nR-Ladies Auckland.\n\nhttps://secure.meetupstatic.com/photos/event/e/8/1/600_466503713.jpeg",
+    "status": "PAST",
+    "dateTime": "2017-12-07T18:00:00+13:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-auckland/events/245261565/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 17,
+      "waitlistCount": 0,
+      "totalCount": 17
+    },
+    "venues": [
+      {
+        "id": "25626143",
+        "name": "SLT1 Lecture Theatre, Room G01, Building 303 Science Building, University of Auckland",
+        "address": "38 Princes Street",
+        "city": "Auckland",
+        "state": "",
+        "country": "nz",
+        "lat": 0,
+        "lon": 0,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Auckland",
+      "urlname": "rladies-auckland"
+    }
+  },
+  {
+    "id": "256011976",
+    "title": "Telling Stories With Data",
+    "description": "Hi All\n\nWe are very excited to have Kate Newton from RNZ at this month's meetup.\n\nA huge thanks to Xero for hosting in their new building and providing drinks and pizza.\n\nTime: 6:00 arrival for a 6:30pm start.\n\nDescription: R has rapidly become a coding language of choice for journalists around the world who create “data journalism”. In this workshop, we’ll explore what data journalism is, how R helps journalists to tell those data stories, and then collectively hack the code behind a recent story published by RNZ that used data analysis and visualisations as part of the reporting process.\n\nBio: Kate Newton has been a journalist for a decade and is currently a reporter for RNZ’s new In Depth team (https://www.radionz.co.nz/news/in-depth/368436/universities-face-a-crisis-of-the-humanities), which focuses on long-form and investigative journalism. Known among her colleagues for being “good at maths” (an extremely low bar in journalism), she has only recently discovered R and its power as a data journalism tool. She is gradually learning and incorporating R into her research and reporting, including publishing her extremely messy code so she can learn from the veterans!\n\nWhat to bring: Laptops. We’ll use Kate’s Github repo (https://github.com/katenewtonnz/humanities) , and for anyone who’s interested in learning more about data journalism, The Data Journalism Handbook (https://datajournalismhandbook.org/) is a great online resource.\n\nAs with all our meetups all levels of R welcome, from beginners to regular users. Our meetups are about sharing knowledge and inspiring others. https://rladies.org/about-us/\n\nPlease read the code of conduct before attending this meetup.",
+    "status": "PAST",
+    "dateTime": "2018-11-29T18:00:00+13:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-auckland/events/256011976/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 56,
+      "waitlistCount": 0,
+      "totalCount": 56
+    },
+    "venues": [
+      {
+        "id": "25976285",
+        "name": "Xero",
+        "address": "96 St. Georges Bay Road, Parnell",
+        "city": "Auckland",
+        "state": "al",
+        "country": "nz",
+        "lat": -36.8524,
+        "lon": 174.7822,
+        "postalCode": "meetup1",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Auckland",
+      "urlname": "rladies-auckland"
+    }
+  },
+  {
+    "id": "255112995",
+    "title": "The power of pixels: Using R to explore and exploit features of images",
+    "description": "Kia ora koutou\n\nAnna Fergusson, one of our R-ladies Auckland co-organisers, will be the speaker at this meetup. We'll explore a range of techniques and R packages for working with images, all at an introductory level.\n\nTime: 6:00 arrival for a 6:30pm start.\n\nWhat to bring: Laptops with R installed, arrive early if you are a beginner and would like help with your R install.\n\nAbstract: In this workshop, we'll learn how to read and manipulate image data in R, and then use this data to do a whole bunch of cool things like creating personalised animated GIFs, classifying and clustering images, and answering super important questions like \"Do ducks quack to the left or right?\"\n\nBio: Anna Fergusson is obsessed with teaching, in particular with developing ways to introduce people to learning statistics and data science (specifically programming) that are inclusive, engaging, accessible, effective and fun! She currently teaches statistics at the University of Auckland and is also completing a PhD with a focus on integrating data science within high school statistics in NZ. Anna also runs a blog for statistics teachers (teaching.statistics-is-awesome.org) and is trying to get better at using Twitter (@annafergussonnz).\n\nAs with all our meetups all levels of R welcome, from beginners to regular users. Our meetups are about sharing knowledge and inspiring others. https://rladies.org/about-us/\n\nPlease read the code of conduct before attending this meetup.",
+    "status": "PAST",
+    "dateTime": "2018-10-18T18:00:00+13:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-auckland/events/255112995/",
+    "featuredEventPhoto": {
+      "id": "474979860",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/d/9/4/highres_474979860.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/d/9/4/600_474979860.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/d/9/4/thumb_474979860.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 41,
+      "waitlistCount": 0,
+      "totalCount": 41
+    },
+    "venues": [
+      {
+        "id": "25707993",
+        "name": "G15, Science Building 303, University of Auckland",
+        "address": "38 Princes Street",
+        "city": "Auckland",
+        "state": "",
+        "country": "nz",
+        "lat": -36.8525,
+        "lon": 174.768,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Auckland",
+      "urlname": "rladies-auckland"
+    }
+  },
+  {
+    "id": "253627396",
+    "title": "Creating Maps In R",
+    "description": "All,\n\nWe are very excited to have Dr Sarah Marshall from AUT as our speaker at this meetup.\n\nA huge thanks to AUT for hosting in their new WZ building.\n\nTime: 6:00 arrival for a 6:30pm start.\n\nWhat to bring: laptops with R installed, arrive early if you are a beginner and would like help with your R install. Code templates to be provided via github on the day.\n\nDescription: Maps provide a powerful way of visualising geographic data. In this session we will explore how R can be used to create maps and gain insights from geographic data. This interactive session will use both global and NZ examples.\n\nBio: Dr Sarah Marshall is a senior lecturer in the Department of Mathematical Sciences at AUT. Sarah joined AUT in February 2014. Sarah completed her undergraduate studies in Economics, Psychology and Operations Research at Victoria University of Wellington. After graduating, she worked in the Australian stockbroking industry before returning to New Zealand to complete a Master of Science in Statistics and Operations Research at Victoria University of Wellington. Sarah completed her PhD in Management Science on the application of deterministic and stochastic models to product recovery systems at the University of Edinburgh in 2012. Sarah taught in the Department of Management Science at the University of Strathclyde in Glasgow for three years before beginning her current position at AUT. Sarah is a member of the Mathematical Sciences Research Group and the Data Science Research Group. Her research focuses on the use of stochastic modelling to address problems of interest to business and industry. Examples of application areas include remanufacturing systems, inventory management and warranty costs analysis. Sarah has a keen interest in analytics is the Industry Liaison for the Master of Analytics. Sarah is a member of the ORSNZ Council and was co-chair of the 2016 Joint NZSA+ORSNZ Conference.\n\nAs with all our meetups all levels of R welcome, from beginners to regular users. Our meetups are about sharing knowledge and inspiring others. https://rladies.org/about-us/\n\nPlease read the code of conduct before attending this meetup.",
+    "status": "PAST",
+    "dateTime": "2018-09-12T18:00:00+12:00",
+    "duration": "PT2H30M",
+    "eventUrl": "https://www.meetup.com/rladies-auckland/events/253627396/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 50,
+      "waitlistCount": 0,
+      "totalCount": 50
+    },
+    "venues": [
+      {
+        "id": "25907243",
+        "name": "Room WZ501, WZ Building, AUT",
+        "address": "6–24 St Paul Street",
+        "city": "Auckland",
+        "state": "",
+        "country": "nz",
+        "lat": -36.8542,
+        "lon": 174.7669,
+        "postalCode": "meetup1",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Auckland",
+      "urlname": "rladies-auckland"
+    }
+  },
+  {
+    "id": "252384345",
+    "title": "Intro to R with Summer of Tech data",
+    "description": "Hi all,\n\nJoin us for a second meetup with Summer of Tech datasets. This informal meetup will consist of intro to R workshop tutorials primarily aimed at beginners, but also welcome and encourage existing R users who would like to help out with mentoring.\n\nAbout Summer of Tech\n- Summer of Tech is a non-profit programme helping students and graduates enter the New Zealand IT industry. We have been finding, growing and matching New Zealand’s tech talent with opportunities, since 2006.\nhttps://summeroftech.co.nz/\n\nAll tutorial outputs and plots to be saved in GitHub for Summer of Tech.\n\nTime\n- 5:30pm arrival for a 6:00pm start.\n\nWhat to bring\n- Bring your laptops\n\nData\n- See the GitHub link to the datasets if you would like to look at the data in advance\nhttps://github.com/R-LadiesAKL/sotdata\n\nA huge thanks to Xero for hosting us and sponsoring the catering for this meetup.\n\nOther\n- As with all our meetups, we welcome all R abilities and support all contributions.\n- Confirm your attendance a week in advance in meetup.com or email lastminute RSVP to auckland@rladies.org to be signed in at Xero\n- Please read the R-Ladies code of conduct before attending.",
+    "status": "PAST",
+    "dateTime": "2018-08-01T18:00:00+12:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-auckland/events/252384345/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 33,
+      "waitlistCount": 0,
+      "totalCount": 33
+    },
+    "venues": [
+      {
+        "id": "17656502",
+        "name": "Xero",
+        "address": "Level 1, Textile Centre, 125 St Georges Bay Road, Parnell",
+        "city": "Auckland",
+        "state": "",
+        "country": "nz",
+        "lat": -36.8506,
+        "lon": 174.7824,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Auckland",
+      "urlname": "rladies-auckland"
+    }
+  },
+  {
+    "id": "251632320",
+    "title": "Dataviz with Summer of Tech",
+    "description": "Hi all,\n\nJoin us for a collaborative meetup, where we will be helping Summer of Tech with data visualisation with one their real datasets.\n\nAbout Summer of Tech\n- Summer of Tech is a non-profit programme helping students and graduates enter the New Zealand IT industry. We have been finding, growing and matching New Zealand’s tech talent with opportunities, since 2006.\nhttps://summeroftech.co.nz/\n\nTime\n- 5:30pm arrival for a 6:00pm start. (Time changed to earlier)\n\nWhat to bring\n- Bring your laptops and R installed.\n- If you would like assistance with R installation and set up, arrive at 5:30 and we we will get you sorted.\n\nData\n- See the link to the datasets if you would like to do advance exploring\nhttps://github.com/R-LadiesAKL/sotdata\n\nA huge thanks to Xero for hosting us and sponsoring the catering for this meetup.\n\nOther\n- As with all our meetups, we welcome all R abilities and all contributions.\n- Please also confirm your attendance in meetup.com by midday or email auckland@rladies.org to be signed in at Xero\n- Read the R-Ladies code of conduct before attending.",
+    "status": "PAST",
+    "dateTime": "2018-06-21T18:00:00+12:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-auckland/events/251632320/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 23,
+      "waitlistCount": 0,
+      "totalCount": 23
+    },
+    "venues": [
+      {
+        "id": "17656502",
+        "name": "Xero",
+        "address": "Level 1, Textile Centre, 125 St Georges Bay Road, Parnell",
+        "city": "Auckland",
+        "state": "",
+        "country": "nz",
+        "lat": -36.8506,
+        "lon": 174.7824,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Auckland",
+      "urlname": "rladies-auckland"
+    }
+  },
+  {
+    "id": "250117268",
+    "title": "Harry Potter and the Rvest of Fanfiction",
+    "description": "Kia ora koutou!\n\nKeeping it super local this time, we are thrilled to announce that our next meetup will be workshop presented by Liza Bolton. If you are new to using R or web scraping, want some ideas for using the R package rvest, or are interested in analysing fan fiction, then get yourself along to this meetup. Arrive at 6pm for a 6:30pm start!\n\nNOTE: The room is G13 not G14 (meetup won't allow adding G13 as a new location).\n\n#Presenter\nLiza Bolton is a PhD student in Statistics at the University of Auckland. Sometimes she is also an introductory stats lecturer and other times she is a Data Ambassador (www.dataembassy.co.nz), which is really just a more fun way of saying \"statistical consultant\". While having 2000 students do Harry Potter Fanfiction exam questions may be Liza's greatest life achievement, her second is, possibly, designing stats t-shirts that people have actually purchased. Make her day by following her on Twitter at @Liza_Bolton.\n\n#Abstract\nThis workshop will introduce web scraping in R through the rvest package, as well as some basics of ethics/things to check before scraping, and basic ideas regarding URLs, HTML and CSS. The example will be based on scraping Harry Potter fanfiction because that was how this all started for Liza - needing a dataset to write a statistics exam for her students. Bringing along a computer with R installed is recommended, though you are still totally welcome to come without one.",
+    "status": "PAST",
+    "dateTime": "2018-05-22T18:00:00+12:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-auckland/events/250117268/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 30,
+      "waitlistCount": 0,
+      "totalCount": 30
+    },
+    "venues": [
+      {
+        "id": "25775791",
+        "name": "G14, Building 303, University of Auckland",
+        "address": "38 Princes st",
+        "city": "Auckland",
+        "state": "",
+        "country": "nz",
+        "lat": -36.8525,
+        "lon": 174.768,
+        "postalCode": "meetup1",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Auckland",
+      "urlname": "rladies-auckland"
+    }
+  },
+  {
+    "id": "248941990",
+    "title": "Is Collaboration in Science split along Gender Lines? Network Analysis in R",
+    "description": "Hi all,\n\nWe are excited to announce our next meetup in April presented by Emma Vitz and hosted by Te Pūnaha Matatini.\nhttp://www.tepunahamatatini.ac.nz\n\nDoors open at 6pm for 6:30 start.\n\nAbstract:\n\nWhen it comes to collaboration in science, who works with whom? The Marsden fund is one of the largest research grants in New Zealand and has been funding research for over 20 years. It provides a glimpse into the networks that produce some of our most groundbreaking scientific research. This talk will look at whether these networks are split along gender lines, and whether this has changed over time.\n\nSpeaker bio:\n\nEmma Vitz is an actuarial analyst at Finity Consulting. She graduated from Victoria University last year with a degree in Statistics and Psychology. Emma loves applying data science and machine learning techniques to all kinds of problems, especially those involving people. She continually pushes herself to learn new aspects of programming and data science, which you can see by following her on Twitter at @EmmaVitz.",
+    "status": "PAST",
+    "dateTime": "2018-04-23T18:00:00+12:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-auckland/events/248941990/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 36,
+      "waitlistCount": 0,
+      "totalCount": 36
+    },
+    "venues": [
+      {
+        "id": "25775791",
+        "name": "G14, Building 303, University of Auckland",
+        "address": "38 Princes st",
+        "city": "Auckland",
+        "state": "",
+        "country": "nz",
+        "lat": -36.8525,
+        "lon": 174.768,
+        "postalCode": "meetup1",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Auckland",
+      "urlname": "rladies-auckland"
+    }
+  },
+  {
+    "id": "247489521",
+    "title": "Lessons and highlights from the rOpenSci project",
+    "description": "Hi All!\n\nWe are very excited to have another speaker visiting Auckland this February. If you are interested in R, whether a beginner or an expert, then put this in your diary!\n\nDoors open at 6pm\nTalk will commence at 6:30pm\n\n# Speaker\nKarthik Ram is a Data Scientist at the Berkeley Institute for Data Science and Berkeley Institute for Global Change Biology. He is a co-founder of rOpenSci, a collective to support the development of R-based tools which facilitate open science and access to open data.\n\n# Full Title\nReproducible data science with R: Lessons and highlights from the rOpenSci project\n\n# Summary\nThe Open Science movement, which promotes sharing all artifacts of scientific research such as data, code, and methods, is becoming increasingly popular among researchers worldwide. This rapid increase in popularity is evidenced in the thriving ecosystem of tools and also numerous training initiatives that have sprung up at various institutions.\n\nOne such effort in this space is the rOpenSci project (https://ropensci.org). Founded as a grassroots effort six years ago, the project works to promote open and reproducible research by enabling discovery of data, code and software, creating the technical and social infrastructure to enable reproducible research, and advocate for a culture of open science in various disciplines. This community driven project builds upon R’s popularity as a scientific research tool and fills in additional gaps in the computational pipeline by providing tools for data acquisition (from APIs and other source), data manipulation (including an emerging suite for spatial data analysis and mapping), data visualization tools, and data publication tools. Beyond tooling, the project has been working towards promoting best practices in scientific computing (beyond the R language itself) by developing a highly successful model for peer review of scientific software, mentorship, and community development.\n\nIn this talk I’ll speak about the history and motivations behind the project, demo some of our recent tools that can streamline your data science workflow, and also talk about our efforts to build community through various initiatives.\n\nThanks to our Sponsors:\n- rOpenSci project for food and drink\n- GridAKL for sponsoring the venue",
+    "status": "PAST",
+    "dateTime": "2018-02-20T18:00:00+13:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-auckland/events/247489521/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 30,
+      "waitlistCount": 0,
+      "totalCount": 30
+    },
+    "venues": [
+      {
+        "id": "24931167",
+        "name": "Tech Cafe @ GridAKL",
+        "address": "101 Pakenham St W",
+        "city": "Auckland",
+        "state": "",
+        "country": "nz",
+        "lat": -36.8434,
+        "lon": 174.7565,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Auckland",
+      "urlname": "rladies-auckland"
+    }
+  },
+  {
+    "id": "247162977",
+    "title": "Dive into dplyr",
+    "description": "Hi Everyone!\n\nWe are very excited to have Grace Meyer from R-Ladies London speaking at R-Ladies Auckland.\n\nArrive at 6pm for a 6:30pm start.\n\n# Speaker details\n\nGrace Meyer is a commercial analytics expert with proven success in advising business strategy based on data driven insights. She is currently based in London and works for the economics consultancy Oxera where she applies machine learning to strategic projects and is developing the data science and programming team. She is a mentor in the R-Ladies London chapter, uses R on a daily basis to crunch data and problem solve and presented at both UseR! and EARL last year.\n\n# Dive into dplyr\n\nData is seldom already in a tidy format for you to start analysis on straight away. My personal experience confirms that about 80% of the analytics work-flow is massaging and crunching data into a useful state. R is a master of analytics and modelling which would be useless without its strong data manipulation functionality, especially from the tidyverse package dplyr. In this session we will learn the main verbs of dplyr and link them together with the magrittr pipe to create new data sets and get insight from our data. Then we will take a look at the verb extensions and other package functionality.\n\n# What to bring\n\nThe session will be hands on so bring your own laptop with dplyr installed (examples will be based on in-build data sets). If you don't have the set-up, come along anyway to learn about this famous package.\n\nThis meetup will be aimed at all R abilities.\n\nSee attached the detailed map to the room.",
+    "status": "PAST",
+    "dateTime": "2018-02-08T18:00:00+13:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-auckland/events/247162977/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 43,
+      "waitlistCount": 0,
+      "totalCount": 43
+    },
+    "venues": [
+      {
+        "id": "25707993",
+        "name": "G15, Science Building 303, University of Auckland",
+        "address": "38 Princes Street",
+        "city": "Auckland",
+        "state": "",
+        "country": "nz",
+        "lat": -36.8525,
+        "lon": 174.768,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Auckland",
+      "urlname": "rladies-auckland"
+    }
+  },
+  {
+    "id": "266714417",
+    "title": "Dungeons and Dragons: Data exploration and visualisation",
+    "description": "R Ladies AKL group started in December 2017 and we are turning 2. To celebrate our birthday, there will be special cake ! Come along to celebrate with us and to hear Lina Berbesi talk about Dungeons and Dragons with R.\n\nArrival and networking: 6pm\nTalk commences: 6.30pm\n\nLina Berbesi is an engineer with a postgraduate degree in Mathematics and is pursuing Masters in Statistics at the moment. She has experience in the field of finance and wind. She is passionate about board games and machine learning.\n\nAt this talk, Lina will showcase a project she has done using Dungeons and Dragons dataset. This piece of work includes data exploration and visualisation with R using ggplot2, tidyr, scatterplot3d and rgl.\n\n------------------------------------------\nA huge thanks to Digitas Affinity ID for hosting the meetup!\n\nAs with all our meetups, please be aware of and read the Code of Conduct before attending.\nhttps://github.com/rladies/starter-kit/wiki/Code-of-Conduct",
+    "status": "PAST",
+    "dateTime": "2019-12-02T18:00:00+13:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-auckland/events/266714417/",
+    "featuredEventPhoto": {
+      "id": "486923264",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/a/e/0/highres_486923264.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/a/e/0/600_486923264.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/a/e/0/thumb_486923264.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 30,
+      "waitlistCount": 0,
+      "totalCount": 30
+    },
+    "venues": [
+      {
+        "id": "26749102",
+        "name": "Digitas Affinity ID",
+        "address": "125 The Strand",
+        "city": "Auckland",
+        "state": "",
+        "country": "nz",
+        "lat": -36.8501,
+        "lon": 174.7814,
+        "postalCode": "1011",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Auckland",
+      "urlname": "rladies-auckland"
+    }
+  },
+  {
+    "id": "265650391",
+    "title": "Signed, sealed, delivered: An introduction to developing R packages",
+    "description": "Kia ora koutou\n\nAnna Fergusson, one of our R-ladies Auckland co-organisers, will be the speaker at this meetup. This introductory-level hands-on workshop will cover some of the key things to consider when developing R packages for other people.\n\nTime: 6:00 arrival for a 6:30pm start and 8:00pm finish.\n\nWhat to bring: Laptops with R installed, arrive early if you are a beginner and would like help with your R install.\n\nAbstract: In this workshop, we'll learn all about the wonderful world of R packages and what you need to know to get started on your package development adventure. Maybe you want to share a new method you've developed? Maybe you've got an interesting set of data that you'd like to others to be able to access? Maybe you've got an idea for a new package but are not sure how to get started? Or maybe you just want a non-scary place to hang out on Halloween? Come along and learn more about R package development within a fun and supportive learning environment.\n\nBio: Anna Fergusson is obsessed with teaching, in particular with developing ways to introduce people to learning statistics and data science that are inclusive, engaging, accessible, effective and fun! She currently teaches at the University of Auckland and is also completing a PhD with a focus on integrating data science within high school statistics in NZ.\n\nAs with all our meetups all levels of R welcome, from beginners to regular users. Our meetups are about sharing knowledge and inspiring others. https://rladies.org/about-us/\n\nPlease read the code of conduct before attending this meetup.",
+    "status": "PAST",
+    "dateTime": "2019-10-31T18:00:00+13:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-auckland/events/265650391/",
+    "featuredEventPhoto": {
+      "id": "485742882",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/8/2/highres_485742882.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/8/2/600_485742882.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/8/2/thumb_485742882.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 24,
+      "waitlistCount": 0,
+      "totalCount": 24
+    },
+    "venues": [
+      {
+        "id": "25707993",
+        "name": "G15, Science Building 303, University of Auckland",
+        "address": "38 Princes Street",
+        "city": "Auckland",
+        "state": "",
+        "country": "nz",
+        "lat": -36.8525,
+        "lon": 174.768,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Auckland",
+      "urlname": "rladies-auckland"
+    }
+  },
+  {
+    "id": "265086293",
+    "title": "Spatial data and making maps in R (using sf and ggplot2)",
+    "description": "Hi All\n\nWe are thrilled to have Emily Harvey back from the lightning talks to present a workshop using the sf package.\n\n**Overview**\n\nHaving started using R for spatial data manipulation and analysis with the old sp package back in 2016, I was blown away by how much easier to use (and consistent with my tidyverse practice/code) the new sf package was, and have become a vocal advocate for it. In this workshop I will go through some examples of manipulating spatial data, and how to use ggplot2 to make pretty maps. This will be easier to follow if you have some familiarity with tidyverse commands (e.g. mutate, summarise, %>%, etc.) but I will explain these as we go for those who don't.\n\n**Time**\n\n6:00 arrival for 6:30 start\n\n**Bio**\n\nEmily spent a bunch of years at university getting a PhD in Applied Maths. After this (and a couple of post-docs) looking at various physiological and biological systems using mathematical modelling techniques she moved to a small research and consulting firm in Takapuna called Market Economics. In the research team at Market Economics she does all sorts of things that could be loosely termed 'Data Science', 'Integrated Modelling', 'Statistics', 'System Dynamics', etc. and uses R when she can (most of her colleagues use Excel, but some are starting to use both).\n\n** What to bring **\n\nLaptops with R, RStudio installed.\nPackages required: sf, tidyverse, here.\nArrive early if you are a beginner and would like help with your R install.\n\nA huge thanks to Te Pūnaha Matatini at the University of Auckland for sponsoring food and drink.\n\nAs with all our meetups all levels of R welcome, from beginners to regular users. Our meetups are about sharing knowledge and inspiring others. https://rladies.org/about-us/\n\nPlease read the code of conduct before attending this meetup.",
+    "status": "PAST",
+    "dateTime": "2019-10-10T18:00:00+13:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-auckland/events/265086293/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 28,
+      "waitlistCount": 0,
+      "totalCount": 28
+    },
+    "venues": [
+      {
+        "id": "25707993",
+        "name": "G15, Science Building 303, University of Auckland",
+        "address": "38 Princes Street",
+        "city": "Auckland",
+        "state": "",
+        "country": "nz",
+        "lat": -36.8525,
+        "lon": 174.768,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Auckland",
+      "urlname": "rladies-auckland"
+    }
+  },
+  {
+    "id": "263599396",
+    "title": "PredictHQ's ranking systems and event impact analysis with R",
+    "description": "Arrival and networking: 6pm\nTalk commences: 6.30pm\n\nDr Xuxu Wang is the Chief Data Officer at PredictHQ. She leads a team of data scientists and analysts that works on complex challenges such as event impact prediction models to make sense of millions of events worldwide. Xuxu brings advanced machine learning and deep learning expertise; as well as industry-leading intelligence product development insights after more than a decade of experience of leading teams at Baidu in Beijing and Workday in California. She has also held leadership roles at Pricewaterhouse Coopers’ data practice.\n\nAt this talk, Xuxu will share about how they built Aviation Rank’s prediction models and the data science that ensures the quality of the core PredictHQ data set. She will dig into how her team uses R to do events impact analysis across three different ranking systems, from general impact rankings to sector-specific rankings such as for airlines.\n\n------------------------------------------\nA huge thanks to PredictHQ for hosting the meetup!\n\nAs with all our meetups, please be aware of and read the Code of Conduct before attending.\nhttps://github.com/rladies/starter-kit/wiki/Code-of-Conduct",
+    "status": "PAST",
+    "dateTime": "2019-08-21T18:00:00+12:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-auckland/events/263599396/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 56,
+      "waitlistCount": 20,
+      "totalCount": 56
+    },
+    "venues": [
+      {
+        "id": "26545434",
+        "name": "PredictHQ",
+        "address": "Level 2, 23 Customs Street East",
+        "city": "Auckland",
+        "state": "",
+        "country": "nz",
+        "lat": -36.8452,
+        "lon": 174.7676,
+        "postalCode": "meetup1",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Auckland",
+      "urlname": "rladies-auckland"
+    }
+  },
+  {
+    "id": "260633292",
+    "title": "Social Get Together and Lightning Talks",
+    "description": "Hi all,\n\nThis month's informal meetup will be a combination of short and fun 5 minute lightning talks and a social get together with pizza.\n\nArrival and networking 6:00\nLightning talks will commence 6:30\n\n**Speakers**\n\nLiza Bolton\nSmita Agrawal\nJenny Pannell\nEmily Harvey\nMegan Guidry\n\n- - - - - - -\n\nA huge thanks to Xero for hosting and providing the catering and soft drinks.\n\nAlso big thanks to Elina Ashimbayeva for being our MC for the evening and to Jacquie Tran for mentoring.\n\nAs with all our meetups, please be aware of and read the Code of Conduct before attending.\nhttps://github.com/rladies/starter-kit/wiki/Code-of-Conduct",
+    "status": "PAST",
+    "dateTime": "2019-06-12T18:00:00+12:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-auckland/events/260633292/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 27,
+      "waitlistCount": 0,
+      "totalCount": 27
+    },
+    "venues": [
+      {
+        "id": "26117635",
+        "name": "XERO LIMITED NZ",
+        "address": "96 Saint Georges Bay Road",
+        "city": "Auckland",
+        "state": "",
+        "country": "nz",
+        "lat": -36.8524,
+        "lon": 174.7822,
+        "postalCode": "1052",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Auckland",
+      "urlname": "rladies-auckland"
+    }
+  },
+  {
+    "id": "260815235",
+    "title": "Working with data in elite sport",
+    "description": "Kia ora koutou!\n\nWe are very privileged to have Jacquie Tran from High Performance Sport NZ presenting at our next meetup!\n\nArrive at 6:00pm for a 6:30pm start.\n\nWe'll be hosted by AUT (City campus) for this meetup, in room WZ421 of the WZ Building, 6-24 St Paul St.\n\n# Speaker bio\n\nJacquie Tran is a sport scientist from Melbourne, Australia. She currently works as a Senior Insights Researcher in the Knowledge Edge for Tokyo team at High Performance Sport New Zealand (HPSNZ), providing learning support to several NZ Olympic and Paralympic sports. In this role, Jacquie uses quantitative and qualitative research approaches to explore the factors that underpin successful preparation for and performance at pinnacle events. Previous to her time at HPSNZ, Jacquie worked as a Research Fellow in a joint appointment with the Geelong Cats Football Club (Australian football) and Deakin University. She completed her PhD with the Australian Institute of Sport, Rowing Australia, and Deakin University, investigating relationships between training loads, athlete well-being, and rowing performance.\n\n# Talk/workshop details\n\nLearn about the ways data can be used solve problems, draw out insights, and inform decisions in elite sport. This meet-up will be part-presentation, part-workshop. You'll get to work with sports data in R, learning how to explore, wrangle, summarise, and plot the data.\n\nBring along laptops with R and RStudio installed, and the following R packages: readr, dplyr, tidyr, and ggplot2 (or install the tidyverse package, which includes all four of these packages).\n\nAs with all our meetups, please be aware of and read the Code of Conduct before attending.\nhttps://github.com/rladies/starter-kit/wiki/Code-of-Conduct",
+    "status": "PAST",
+    "dateTime": "2019-05-15T18:00:00+12:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-auckland/events/260815235/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 37,
+      "waitlistCount": 0,
+      "totalCount": 37
+    },
+    "venues": [
+      {
+        "id": "26339862",
+        "name": "WZ421,  WZ Building, AUT",
+        "address": "6-24 St Paul St",
+        "city": "Auckland",
+        "state": "al",
+        "country": "nz",
+        "lat": -36.8542,
+        "lon": 174.7669,
+        "postalCode": "meetup1",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Auckland",
+      "urlname": "rladies-auckland"
+    }
+  },
+  {
+    "id": "259965943",
+    "title": "Processing large datasets using R",
+    "description": "Kia ora koutou!\n\nWe are very excited to have Elaine Miles from Aeroqual LTD speaking at R-Ladies Auckland.\n\nArrive at 6pm for a 6:30pm start.\n\n# Speaker details\n\nElaine Miles is a data scientist based in Auckland. She works at Aeroqual LTD where she uses machine learning methods to analyse and improve the operation of air quality sensors and networks. She previously worked at the Australian Bureau of Meteorology on large seasonal models to predict extreme sea levels, and to test the impact of observation networks to weather prediction models. Her PhD focused on adapting laser-based methods to monitor artwork (which included watching paint dry).\n\nElaine has recently learnt how to program in R and is going to share some of her insights on working with multiple processors in order to crunch large datasets and execute repetitive tasks in parallel.",
+    "status": "PAST",
+    "dateTime": "2019-04-10T18:30:00+12:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-auckland/events/259965943/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 51,
+      "waitlistCount": 0,
+      "totalCount": 51
+    },
+    "venues": [
+      {
+        "id": "26267115",
+        "name": "G13, Science Building 303, University of Auckland",
+        "address": "38 Princes Street",
+        "city": "Auckland",
+        "state": "al",
+        "country": "nz",
+        "lat": -36.8525,
+        "lon": 174.768,
+        "postalCode": "meetup1",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Auckland",
+      "urlname": "rladies-auckland"
+    }
+  },
+  {
+    "id": "259247749",
+    "title": "Using data science in the wild: My data science journey and current work",
+    "description": "Kia ora koutou!\n\nWe are very excited to have Grace Meyer from Oxera and R-Ladies London speaking at R-Ladies Auckland.\n\nArrive at 5:30pm for a 6:00pm start.\n\n# Speaker details\n\nGrace Meyer is a data scientist based in London and working for the economics consultancy Oxera. She has previous experience implementing advanced analytics in the aviation and water sectors. Grace Meyer is a commercial analytics expert with proven success in advising business strategy based on data driven insights. She is a mentor in the R-Ladies London chapter.\n\nDuring this talk she will discuss her career path to date, how Oxera uses data science techniques and open source technologies and will focus on a case study using data science to help Google Android.",
+    "status": "PAST",
+    "dateTime": "2019-03-04T18:00:00+13:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-auckland/events/259247749/",
+    "featuredEventPhoto": {
+      "id": "478968474",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/d/5/a/highres_478968474.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/d/5/a/600_478968474.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/d/5/a/thumb_478968474.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 20,
+      "waitlistCount": 0,
+      "totalCount": 20
+    },
+    "venues": [
+      {
+        "id": "25707993",
+        "name": "G15, Science Building 303, University of Auckland",
+        "address": "38 Princes Street",
+        "city": "Auckland",
+        "state": "",
+        "country": "nz",
+        "lat": -36.8525,
+        "lon": 174.768,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Auckland",
+      "urlname": "rladies-auckland"
+    }
+  },
+  {
+    "id": "258656556",
+    "title": "Hands-on Intro to SQL and R",
+    "description": "Hi All\n\nWe are very excited to have Steph Locke from https://itsalocke.com/ at this month's meetup.\n\n** Time **\n\n6:00 arrival for a 6:30pm start.\n\n** Bio **\n\nSteph is the founder of a consultancy in the UK. Her talks, blog posts, conferences, and business all have one thing in common – they help people get started with data science. Steph holds the Microsoft MVP award for her community contributions. In her spare time, Steph plays board games with her husband and takes copious pictures of her doggos.\n\nCurrently, Steph organises MSFT Stack which is the SQL group, the .Net group, and more combined, plus CaRdiff, the local R group.\n\nhttps://itsalocke.com/company/steph/#kit-for-event-organisers\n\n** Abstract **\n\nLearn SQL from the comfort of RStudio in this 2.5 hour hands-on workshop. Using SQLite as our database of choice, we’ll learn the fundamentals of good data structures, querying single datasets, and combining multiple datasets for getting answers from across your database.\n\n** What to bring **\n\nLaptops with R, RStudio, and Packages: RSQLite, rmarkdown installed, arrive early if you are a beginner and would like help with your R install.\n\nSoft drinks will be provided.\n\nAs with all our meetups all levels of R welcome, from beginners to regular users. Our meetups are about sharing knowledge and inspiring others. https://rladies.org/about-us/\n\nPlease read the code of conduct before attending this meetup.\n\n** Training Day **\n\nIf anyone would like an intro to R that covers data wrangling, data viz, and data science, my training day can be booked standalone by contacting the organisers contact@difinity.co.nz\n\nDetails at http://difinity.co.nz/pre-conference-workshops-difinity-2019/#R",
+    "status": "PAST",
+    "dateTime": "2019-02-19T18:00:00+13:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-auckland/events/258656556/",
+    "featuredEventPhoto": {
+      "id": "478445095",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/3/e/7/highres_478445095.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/3/e/7/600_478445095.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/3/e/7/thumb_478445095.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 38,
+      "waitlistCount": 0,
+      "totalCount": 38
+    },
+    "venues": [
+      {
+        "id": "25707993",
+        "name": "G15, Science Building 303, University of Auckland",
+        "address": "38 Princes Street",
+        "city": "Auckland",
+        "state": "",
+        "country": "nz",
+        "lat": -36.8525,
+        "lon": 174.768,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Auckland",
+      "urlname": "rladies-auckland"
+    }
+  },
+  {
+    "id": "274521724",
+    "title": "Code-Along with R-Ladies Canberra ",
+    "description": "R-Ladies Canberra has invited R-Ladies Auckland and several other R-Ladies chapters across Australia and New Zealand to join them in their final event of the year! The event will be an online code-along targeted for less experienced users of R, but all users are welcome to attend.\n\nErika Duan will be leading the code-along, introducing data visualisation using ggplot. We'll code for about half an hour, then break out into smaller groups for meet-and-greet, then return to coding for another half hour before closing with a second breakout.\n\nThis meeting will be hosted on Zoom. The meeting link will be sent out to those attending closer to the meetup date. R-Ladies Canberra is looking forward to seeing you there!\n\nIf you have any questions or problems, don't hesitate to contact Izzy Johnson (co-host) through meet-up!\n\nAs with all our meetups, please be aware of and read the Code of Conduct before attending.\nhttps://github.com/rladies/starter-kit/wiki/Code-of-Conduct",
+    "status": "PAST",
+    "dateTime": "2020-12-03T14:00:00+13:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-auckland/events/274521724/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 30,
+      "waitlistCount": 0,
+      "totalCount": 30
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Auckland",
+      "urlname": "rladies-auckland"
+    }
+  },
+  {
+    "id": "272017539",
+    "title": "Lightning Talks",
+    "description": "All,\n\nWe are having lightning talks!\n\nSpeakers:\n\nJacquie Tran\nBelinda Maher\nJenny Sloan\nElvyna Tunggawan\nYi Xue\n\nTalks commence: 7:00pm\n\nThis meetup will be hosted online only.\n\nAs with all our meetups, please be aware of and read the Code of Conduct before attending.\nhttps://github.com/rladies/starter-kit/wiki/Code-of-Conduct",
+    "status": "PAST",
+    "dateTime": "2020-08-18T19:00:00+12:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-auckland/events/272017539/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 45,
+      "waitlistCount": 0,
+      "totalCount": 45
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -36.8524,
+        "lon": 174.7823,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Auckland",
+      "urlname": "rladies-auckland"
+    }
+  },
+  {
+    "id": "271889636",
+    "title": "Me, Myself, and R",
+    "description": "Join us for a virtual meetup this July to hear from Charlotte Jones-Todd about her journey with R!\n\nOverview from Charlotte: In this talk I will talk you through my journey with R. After my undergraduate degree in pure mathematics I used my laptop to answer the odd email and watch the buffering symbol cloud any TV show I attempted to watch. Now, as most of you, I spend my time digging around the guts of R. Here I'll share some of my experiences and show you how and what I use R for. I'll shamelessly admit to \"heavily borrowing\" (stealing) ideas and the many, many, rookie mistakes I make daily. All this whilst, hopefully, teaching others about the wonders of R and stats.\n\nCharlotte's Bio: I've just had my 1 year anniversary as a lecturer in statistics at the University of Auckland. I spend my time teaching stats, coding⁠—then fixing⁠—bugs, pandering to my pets, and making gin.\n\nThis meeting will be hosted on Zoom. The meeting link will be sent out to those attending closer to the meetup date.\n\nIf you have any questions or problems, don't hesitate to contact Izzy Johnson (main host) through meet-up!\n\nAs with all our meetups, please be aware of and read the Code of Conduct before attending.\nhttps://github.com/rladies/starter-kit/wiki/Code-of-Conduct",
+    "status": "PAST",
+    "dateTime": "2020-07-20T19:00:00+12:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-auckland/events/271889636/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 49,
+      "waitlistCount": 0,
+      "totalCount": 49
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Auckland",
+      "urlname": "rladies-auckland"
+    }
+  },
+  {
+    "id": "270599878",
+    "title": "Presenting like a Kunoichi with Xaringan",
+    "description": "All,\n\nWe are thrilled to have Earo Wang speak in June.\n\n**Overview**\n\nKunoichi is a female ninja, and xaringan is a presentation ninja. In this talk, I'll share some lessons and thoughts on how to give a technical talk like a kunoichi. I'll introduce you to the xaringan package and friends to generate stylish and engaging html slides in R Markdown (i.e. reproducible).\n\n**Bio**\n\nEaro Wang is a lecturer in statistics at the University of Auckland. She's interested in statistical computing and graphics, exploratory data analysis, reproducible research, and R. She moved to Auckland this year from Melbourne, where she earned her PhD degree at Monash University. She has been awarded the John M. Chambers Statistical Software Award in 2019 for the R package tsibble.\n\n**Online event**\n\nThis meeting will be hosted on Zoom. The meeting link will be sent out to those attending closer to the meetup date.\n\nIf you have any questions or problems, don't hesitate to contact Kim Fitter (main host) through meet-up!\n\nAs with all our meetups, please be aware of and read the Code of Conduct before attending.\nhttps://github.com/rladies/starter-kit/wiki/Code-of-Conduct",
+    "status": "PAST",
+    "dateTime": "2020-06-16T19:00:00+12:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-auckland/events/270599878/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 70,
+      "waitlistCount": 0,
+      "totalCount": 70
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Auckland",
+      "urlname": "rladies-auckland"
+    }
+  },
+  {
+    "id": "270543249",
+    "title": "Conversation Analytics with R",
+    "description": "Join us for a virtual meetup this May to hear from Jayne Ihaka about conversation analytics!\n\nOverview: What do people say to chatbots and digital assistants? How can we use these data to create a better experience? Jayne will share the lessons she learned using R to extract useful insights from conversations.\n\nJayne’s Bio: With a background in biotechnology, Jayne followed an unconventional path into banking and now AI. Jayne works at ANZ New Zealand raising a digital human called Jamie.\n\nThis meeting will be hosted on Zoom. The meeting link will be sent out to those attending closer to the meetup date.\n\nIf you have any questions or problems, don't hesitate to contact Izzy Johnson (main host) through meet-up!\n\nAs with all our meetups, please be aware of and read the Code of Conduct before attending.\nhttps://github.com/rladies/starter-kit/wiki/Code-of-Conduct",
+    "status": "PAST",
+    "dateTime": "2020-05-19T19:00:00+12:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-auckland/events/270543249/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 63,
+      "waitlistCount": 0,
+      "totalCount": 63
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Auckland",
+      "urlname": "rladies-auckland"
+    }
+  },
+  {
+    "id": "268642999",
+    "title": "SatRdays R Conference ",
+    "description": "The inaugral satRday conference in New Zealand will be held in Auckland on 22 February 2020.\n\nAll satRday events across the globe are community-led, regional conferences to support collaboration, networking and innovation within the R community.\n\n**Registration via the website:**\n\nThe Eventbrite registration can be found in the website.\n\nhttps://auckland2020.satrdays.org/\n\nThe first satRday in Auckland will be a one day event with a mix of invited speakers and contributed talks split across four tracks: applications of R, graphics, teaching and production/infrastructure plus lightning talks.\n\nAbout the invited speakers:\n\nJJ Allaire - RStudio founder\n\nJacqui Tran - Sports Scientist\n\nHarkanwal Singh - Data Visualisation Engineer\n\nAnna Fergusson - Professional Teaching Fellow\n\nSimon Urbanek - Senior Lecturer\n\nA **free** introduction to R workshop will be held on the Friday before. Details to follow separately.",
+    "status": "PAST",
+    "dateTime": "2020-02-22T08:30:00+13:00",
+    "duration": "PT9H",
+    "eventUrl": "https://www.meetup.com/rladies-auckland/events/268642999/",
+    "featuredEventPhoto": {
+      "id": "488943400",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/4/8/highres_488943400.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/4/8/600_488943400.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/4/8/thumb_488943400.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 1,
+      "waitlistCount": 3,
+      "totalCount": 1
+    },
+    "venues": [
+      {
+        "id": "26857495",
+        "name": "MLT1 lecture theatre",
+        "address": "38 Princes Street",
+        "city": "Auckland",
+        "state": "",
+        "country": "nz",
+        "lat": -36.8526,
+        "lon": 174.7685,
+        "postalCode": "1010",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Auckland",
+      "urlname": "rladies-auckland"
+    }
+  },
+  {
+    "id": "268672839",
+    "title": "Intro to R",
+    "description": "NeSI, The Carpentries, and SatRdays are joining forces to offer an intro to R workshop in Auckland!\n\nThe goal of this free workshop is to teach novice programmers to write modular code and best practices for using R for data analysis. R is commonly used in many scientific disciplines, industry, and beyond for statistical analysis and graph generation.\n\n**Registration through Eventbrite**\n\nPlease use the Eventbrite link to register as this being run as part of satRdays conference.\n\nThere is no registration through meetup.com.\n\nhttps://www.eventbrite.co.nz/e/intro-to-r-mini-workshop-registration-94540185239",
+    "status": "PAST",
+    "dateTime": "2020-02-21T09:00:00+13:00",
+    "duration": "PT3H30M",
+    "eventUrl": "https://www.meetup.com/rladies-auckland/events/268672839/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 2,
+      "waitlistCount": 0,
+      "totalCount": 2
+    },
+    "venues": [
+      {
+        "id": "26859310",
+        "name": "Room G10",
+        "address": "70 Symonds St, Grafton",
+        "city": "Auckland",
+        "state": "al",
+        "country": "nz",
+        "lat": -36.8561,
+        "lon": 174.7664,
+        "postalCode": "meetup1",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Auckland",
+      "urlname": "rladies-auckland"
+    }
+  },
+  {
+    "id": "268047317",
+    "title": "Tidy Tuesday: Data exploration and visualisation of Australia fires data ",
+    "description": "Join us for an informal and collaberative meetup to analyse a Tidy Tuesday dataset on Australia fires.\n\n*Venue*\n\nThanks to the Statistics Department at University of Auckland for hosting.\n\nArrival and networking: 6pm\nCommences: 6.30pm\n\n*Dataset*\n\nLink to GitHub repo:\n\nhttps://github.com/rfordatascience/tidytuesday/tree/master/data/2020/2020-01-07\n\n* What to bring*\n\nLaptop with R and tidyverse packages installed.\n\nIf you would like installing R please arrive at 6pm.\n------------------------------------------\n\nAs with all our meetups, please be aware of and read the Code of Conduct before attending.\nhttps://github.com/rladies/starter-kit/wiki/Code-of-Conduct",
+    "status": "PAST",
+    "dateTime": "2020-01-30T18:00:00+13:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-auckland/events/268047317/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 35,
+      "waitlistCount": 0,
+      "totalCount": 35
+    },
+    "venues": [
+      {
+        "id": "26833327",
+        "name": "G16",
+        "address": "Building 303, 36 princes st",
+        "city": "Auckland",
+        "state": "al",
+        "country": "nz",
+        "lat": -36.8527,
+        "lon": 174.7682,
+        "postalCode": "meetup1",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Auckland",
+      "urlname": "rladies-auckland"
+    }
+  },
+  {
+    "id": "282073983",
+    "title": "A jouRney: where R can take you",
+    "description": "Join us for a virtual meetup this November to hear from Emma Vitz!\n\nOverview: Emma will be talking about her jouRney from teaching herself R as a student to using it at work and delving into data journalism using R. She'll make the case for tapping into the R community and sharing your work publicly, and will share some examples of where this has taken her, including her viral maps on the NZ housing market.\n\nEmma's Bio: Emma Vitz is an actuarial analyst working as a consultant in the insurance industry. She also dabbles in some data journalism on the side. Emma is particularly interested in social inequity, climate risk and natural disasters, and enjoys using R across all of her work.\n\nThis meeting will be hosted on Zoom. The meeting link will be sent out to those attending closer to the meetup date.\n\nIf you have any questions or problems, don't hesitate to contact Izzy Johnson (main host) through meet-up!\n\nAs with all our meetups, please be aware of and read the Code of Conduct before attending.\nhttps://github.com/rladies/starter-kit/wiki/Code-of-Conduct",
+    "status": "PAST",
+    "dateTime": "2021-11-25T18:30:00+13:00",
+    "duration": "PT1H15M",
+    "eventUrl": "https://www.meetup.com/rladies-auckland/events/282073983/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 52,
+      "waitlistCount": 0,
+      "totalCount": 52
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Auckland",
+      "urlname": "rladies-auckland"
+    }
+  },
+  {
+    "id": "276942471",
+    "title": "Creating Tables for R Markdown with kableExtra",
+    "description": "Join us for an in-person meetup to learn about creating tables for reports in R Markdown, hosted by Izzy Johnson!\n\nAll levels of R users (including beginners!) are welcome.\n\nTime: 5:30pm arrival for a 6:00pm start and 7:15pm finish.\n\nWhat to bring: Yourself! Optionally you can bring a laptop with R installed if you'd like to code along with the presentation.\n\nPlots are great, but sometimes tables can be a useful way to display data as well. Izzy will talk briefly about a few ways to create tables to display data in R, and then walk though how the kableExtra package can help customise your tables, and make them look cleaner and easier to read when creating reports and summaries in R Markdown.\n\nThis meeting will be hosted by Xero, on Saint Georges Bay Road in Parnell.\n\nIf you have any questions or problems, don't hesitate to contact Izzy Johnson through meet-up!\n\nAs with all our meetups, please be aware of and read the Code of Conduct before attending.\nhttps://github.com/rladies/starter-kit/wiki/Code-of-Conduct",
+    "status": "PAST",
+    "dateTime": "2021-04-08T17:30:00+12:00",
+    "duration": "PT1H45M",
+    "eventUrl": "https://www.meetup.com/rladies-auckland/events/276942471/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 27,
+      "waitlistCount": 0,
+      "totalCount": 27
+    },
+    "venues": [
+      {
+        "id": "26152437",
+        "name": "XERO LIMITED NZ",
+        "address": "96 Saint Georges Bay Road",
+        "city": "Auckland",
+        "state": "",
+        "country": "nz",
+        "lat": -36.8524,
+        "lon": 174.7823,
+        "postalCode": "1052",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Auckland",
+      "urlname": "rladies-auckland"
+    }
+  },
+  {
+    "id": "285031691",
+    "title": "From Me to Team: learning to code collaboratively",
+    "description": "Join us for a virtual meetup this month to hear from Victoria King!\n\nOverview: Writing code can be an isolated, individual pursuit. The prospect of collaborating on code can be daunting, but there's a lot to be gained from participating in group projects. We'll talk a bit about my journey as a self-taught R student, graduating to using it for work projects, and then I'll share some experiences of making the jump from solo work to team environments.\n\nVictoria's Bio: Victoria is a physiology PhD student at the University of Auckland. Her work focusses on the detection of fetal growth restriction, which now crosses laboratory and clinical disciplines. She still loves making pictures with numbers and good coffee.\n\nThis meeting will be hosted on Zoom. The meeting link will be sent out to those attending closer to the meetup date.\n\nIf you have any questions or problems, don't hesitate to contact Izzy Johnson (main host) through meet-up!\n\nAs with all our meetups, please be aware of and read the Code of Conduct before attending.\nhttps://github.com/rladies/starter-kit/wiki/Code-of-Conduct",
+    "status": "PAST",
+    "dateTime": "2022-04-13T19:00:00+12:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-auckland/events/285031691/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 27,
+      "waitlistCount": 0,
+      "totalCount": 27
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Auckland",
+      "urlname": "rladies-auckland"
+    }
+  }
+]

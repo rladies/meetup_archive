@@ -1,0 +1,1208 @@
+[
+  {
+    "id": "245460382",
+    "title": "Data Christmas 2017",
+    "description": "Decemberben kivételesen két eseményünk lesz, ugyanis csatlakozunk az adatos meetup-ok karácsonyi rendezvényéhez is.\n\nJoin us for for the last meetup of the year, where we look back at the most significant and interesting events of 2017.\n\nThis meetup is jointly organized by the data meetups in Budapest. Current participants (in alphabetical order): BI Meetup (https://www.meetup.com/Budapest-BI-Meetup/events/245459960/), Big Data Meetup (https://www.meetup.com/Big-Data-Meetup-Budapest/events/245444973/), Data Science Meetup (https://www.meetup.com/budapest_data_science/events/245460641/), HUG-MSSQL (https://www.meetup.com/HUG-MSSQL/events/245693009/), PyData meetup (https://www.meetup.com/PyData-Budapest/events/245460002/), R meetup (https://www.meetup.com/Budapest-Users-of-R-Network/events/245454475/), R-Ladies (https://www.meetup.com/R-Ladies-Budapest/events/245460382/)\n\nSchedule:\n18:30 Doors open, pizza\n19:00 The evolution of the Data Community in Hungary - Máté Gulyás\n19:30 6 facts you should know about R-Ladies - Windhager-Pokol Eszter\n19:45 Here we R - Gergely Daróczi\n20:10 Machine learning trends in 2017 - Szilárd Pafka\n20:30 Afterparty!\n\nThis is an English speaking event. Due to the parallelly organized, distributed nature of the meetup, RSVPs will be closed when to combined number of RSVPs from all participating meetups hits the limit.",
+    "status": "PAST",
+    "dateTime": "2017-12-20T19:00:00+01:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-budapest/events/245460382/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 19,
+      "waitlistCount": 0,
+      "totalCount": 19
+    },
+    "venues": [
+      {
+        "id": "18100882",
+        "name": "Prezi House of Ideas",
+        "address": "Nagymezo 54-56,",
+        "city": "Budapest",
+        "state": "",
+        "country": "hu",
+        "lat": 47.5057,
+        "lon": 19.0568,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Budapest",
+      "urlname": "rladies-budapest"
+    }
+  },
+  {
+    "id": "245307502",
+    "title": "lightning_talks(R-Ladies)",
+    "description": "Az este folyamán a következő előadásokat hallgathatjátok majd:\n\n1 – Böjte Berta – Személyes Pénzügyek - Shiny Dashboard\n2 – Göndöcs Júlia – A többdimenziós adatstruktúrák értelmezése és ehhez kapcsolódóan az ncdf4 R package alkalmazása\n3 – Kristóf Erzsébet – Statisztikai számítások végrehajtása többdimenziós tömbök adatain\n4 – Zsilinszki Anna – Térképes ábrázolás\n5 – Téglás Szilvia – Web scraping - egy egyszerű példa\n6 – Gál Nóra – R alkalmazása a felszín alatti vizek minőségi értékeléséhez\n7 – Kristóffy Hajnalka – Corpus és szófelhő készítés\n8 – Rita Klein – R, mint alternatív BI tool nagyvállalati környezetben\n9 – Adamecz-Völgyi Anna – Adatelemzés az evidencia alapú szakpolitika-alkotásban\n10 – Eszter Milibák – Variációk idősorelemzésre\n11 – Windhager-Pokol Eszter – Meetup körkép\n\n-------------------------------------------------------------------------------\n\nSzervezési részletek\n\nAz Accenture biztonsági előírásait nekünk is teljesítenünk kell, így kérnénk Benneteket:\n\n• a teljes és pontos nevetekkel iratkozzatok fel\n• legfeljebb december 11. 12:00-ig\n• legyen Nálatok fényképes igazolvány és készítsétek is elő, hogy fennakadás mentes legyen a bejutás.",
+    "status": "PAST",
+    "dateTime": "2017-12-12T18:00:00+01:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-budapest/events/245307502/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 55,
+      "waitlistCount": 0,
+      "totalCount": 55
+    },
+    "venues": [
+      {
+        "id": "25626669",
+        "name": "Accenture (Váci Greens, building B, 3rd floor)",
+        "address": "Bence u. 1.",
+        "city": "Budapest",
+        "state": "",
+        "country": "hu",
+        "lat": 0,
+        "lon": 0,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Budapest",
+      "urlname": "rladies-budapest"
+    }
+  },
+  {
+    "id": "244898543",
+    "title": "introduction <- function(machine_learning){}",
+    "description": "Szervezési részletek\n\nA KSH-s biztonsági előírásokat nekünk is teljesítenünk kell, így most arra kérnénk Benneteket:\n\n• a teljes és pontos nevetekkel iratkozzatok fel\n\n• legfeljebb kedd délig\n\n• legyen Nálatok fényképes igazolvány, hogy a bejáratnál esetleg tudjátok igazolni Magatokat.\n\n----------------------------------------------------------------------------------\n\nMenetrend:\n\n18:00 -- 19:00 Machine learning bevezető (Windhager-Pokol Eszter)\n\n19:00 -- 19:20 Szünet (jól megérdemelt pizzázás, hogy bírjuk szusszal a végéig)\n\n19:20 -- 20:20 Building a recommender system in R (Krisztina Shinkovych)\n\n--------------------------------------------------------------------------------\n\nMachine learning bevezető\n\nAz első előadásban a machine learning fontosabb típusaival, algoritmusaival ismerkedünk meg alapszinten. Bemutatom az egyes típusokhoz tartozó legjellemzőbb üzleti problémákat.\nEz az előadás kivételesen nem workshop jellegű lesz, azaz nem fogunk kódolni. Az előadás célja, hogy mindenkinek legyen egy alapvető képe a különböző machine learning módszerekről és azok használatáról, hogy a későbbi meetupok során alaposabban megismerkedhssünk az egyes algoritmusokkal (akkor már R kódok futtatása mellett).\n\nAz előadás második része angol nyelven lesz megtartva. Ha igény lesz rá, megpróbálunk a fordításban segítséget nyújtani.\n\nBuilding a recommender system in R\nRecommender systems are something we encounter every day from e-commerce websites, booking platforms to streaming services and this is a short introduction to what is happening behind the scenes. Using R's \"recommenderlab\" package we are going to build simple models that make recommendations on Amazon product dataset. This presentation offers insights into:\n\n- what are the types of recommender systems and how do we use them\n- how do we put together a simple recommender system in R using collaborative filtering technique\npreparing the data,\nbuilding the model using recommenderlab,\nevaluating recommender's performance and choosing the best model",
+    "status": "PAST",
+    "dateTime": "2017-11-21T18:00:00+01:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-budapest/events/244898543/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 65,
+      "waitlistCount": 0,
+      "totalCount": 65
+    },
+    "venues": [
+      {
+        "id": "25457489",
+        "name": "KSH Főépület",
+        "address": "1024, Keleti Károly u. 7.",
+        "city": "Budapest",
+        "state": "",
+        "country": "hu",
+        "lat": 47.5119,
+        "lon": 19.0305,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Budapest",
+      "urlname": "rladies-budapest"
+    }
+  },
+  {
+    "id": "243919774",
+    "title": "test_and_connect_th­e_dots()",
+    "description": "Menetrend:\n\n18:00 -- 19:15 Test and learn -- Bevezetés a statisztikai tesztelésbe R használatával (Salánki Ági)\n\n19:15 -- 19:45 Szünet (jól megérdemelt pizzázás, hogy bírjuk szusszal a végéig)\n\n19:45 -- 21:00 Gráfok! (Tajti András)\n\n--------------------------------------------------------------------------------\n\nBevezetés a statisztikai tesztelésbe R használatával\n\nA kezdeti adattranszformációs és felderítő lépések után sok esetben szükség van statisztikai tesztek (próbák, hipotézistesztek) végrehajtására, az alkalom első része ebbe nyújt betekintést:\n\n• szó lesz például arról, mi is az a statisztikai teszt és miért hajtjuk őket egyáltalán végre?\n\n• mik a tipikusan tesztelt problémakörök?\n\n• megnézünk egy-két konkrét példát szimulációval és beépített függvényekkel.\n\nAjánlott előismeret: a ggplot2 és dplyr csomagokat biztosan fogjuk használni, ezek bevezető szintű ismerete sokat segíthet a hatékony munkában. Ha lemaradtatok volna róla tavaly, itt (https://github.com/rladies/meetup-presentations_budapest/blob/master/Meetup_2017_04_19/solution.R)és itt (https://github.com/rladies/meetup-presentations_budapest/blob/master/Meetup_2017_05_17/solutions.R)találtok a felkészüléshez anyagot.\n\nTelepítési előkészület: ggplot2, dplyr, tidyr csomag.\n\nAz adatsorok amivel dolgozunk majd: https://raw.githubusercontent.com/rladies/meetup-presentations_budapest/master/Meetup_2017_04_19/pisa_hun_small.csv és https://raw.githubusercontent.com/rladies/meetup-presentations_budapest/master/Meetup_2017_10_30/teszteles/data/hotels_email.csv\n\nKérünk Benneteket, telepítsétek a környezetet és letöltött adatsorral és szkript vázlattal ( https://raw.githubusercontent.com/rladies/meetup-presentations_budapest/master/Meetup_2017_10_30/teszteles/R/exercises.R ) érkezzetek.\n\n--------------------------------------------------------------------------------\n\nHálózatok az igraph csomagon keresztül\n\nEgy konferencián egy résztvevő azt mondta nekem: \"Magyarországról jöttél, úgyhogy biztos értesz a hálózatokhoz.\" Az előadás során elmondom, hogy miért mondta, hogy mi is a hálózatelmélet, mire jó, hogyan lehet és miért hasznos hálózatokat elemezni.\n\nA hálózatok létrehozásához, vizsgálásához az igraph csomagot fogjuk használni, azzal fogunk\n\n• csúcsokat és éleket létrehozni és a hálózathoz adni\n\n• éllistából hálózatot betölteni\n\n• alapstatisztikákat számolni a gráfról és az egyes csúcsokról\n\n• Egyes csúcsok fontosságát megállapítani\n\n• közösségeket keresni\n\n• valós hálózatok kialakulását modellezni.\n\nNe felejtsétek el telepíteni az igraph és igraphdata csomagokat!\n\nAjánlott előismeret: nincs.\n\nTelepítési előkészület: igraph és igraphdata csomagok.\n\n--------------------------------------------------------------------------------\n\nTermészetesen minden segédanyagot megtaláltok majd utólag a weben, mégis nagyon jó lenne, ha minél többen hoznátok notebookokat, hogy ott helyben ki is tudjátok próbálni a kódrészleteket.\n\nHogyan készüljetek a meetupra?\n\nHárom dologra lesz szükségetek a gépeteken:\n\n• Magára az R interpreterre ( http://cran.rapporter.net/ )\n\n• Egy okos-ügyes fejlesztőkörnyezetre, ami segíti a hatékony munkát, ez a mi esetünkben az RStudio lesz ( https://www.rstudio.com/products/rstudio/download/ )",
+    "status": "PAST",
+    "dateTime": "2017-10-30T18:00:00+01:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-budapest/events/243919774/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 54,
+      "waitlistCount": 0,
+      "totalCount": 54
+    },
+    "venues": [
+      {
+        "id": "25531507",
+        "name": "UP center",
+        "address": "Budapest, Bartók Béla út 29, 1114",
+        "city": "Budapest",
+        "state": "",
+        "country": "hu",
+        "lat": 47.4798,
+        "lon": 19.0511,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Budapest",
+      "urlname": "rladies-budapest"
+    }
+  },
+  {
+    "id": "242934542",
+    "title": "repeat(intro)",
+    "description": "Szervezési részletek\n\nA KSH-s biztonsági előírásokat nekünk is teljesítenünk kell, így most arra kérnénk Benneteket:\n\n• a teljes és ponto nevetekkel iratkozzatok fel\n\n• legfeljebb csütörtök délig\n\n• legyen Nálatok fényképes igazolvány, hogy a bejáratnál esetleg tudjátok igazolni Magatokat.\n\n----------------------------------------------------------------------------------\n\nMenetrend:\n\n18:00 -- 19:15 Bevezetés az R használatába (kezdőknek)\n\n19:15 -- 19:45 Szünet (jól megérdemelt pizzázás, hogy bírjuk szusszal a végéig)\n\n19:45 -- 21:00 Interaktív vizualizációk készítése shiny-val\n\n------------------------------------------------------------------------------\n\nBevezetés az R használatába (kezdőknek) - újratöltve (Windhager-Pokol Eszter)\n\nMivel sok új tag regisztrált a meetup oldalra azzal a reménnyel, hogy be tudnak kapcsolódni R előismeret nélkül is az előadásokba, ez az alkalom egy új bevezetővel kezdődik. Tehát, jó hír, nem maradtatok le semmiről, nincs semmiféle programozási, adatelemzési előismeret követelmény a meetup első részén való részvételhez. Csupán elhatározásra és egy laptopra lesz szükségetek.\n\nA következő területeken vesszük fel a lépést a régebbi tagokkal:\n\n• mi az RStudio és hogyan használjuk segítségével az R-t,\n\n• mi az R csomag, hogyan töltsük be és használjuk,\n\n• hogyan olvassunk be adatokat,\n\n• milyen R objektumok és alap adatípusok vannak,\n\n• bevezetés az adatrendezés és -ábrázolás lehetőségeibe (főképp dplyr és ggplot2 csomagok).\n\nAjánlott előismeret: nincs.\n\nTelepítési előkészület nagyvonalakban:\n\n• A meetup előtt telepítsétek az R-t ( http://cran.rapporter.net/ )\n\n• és az RStudio-t ( https://www.rstudio.com/products/rstudio/download/ ) a gépetekre.\n\n• Nyissátok meg az RStudio-t,\n\n• a felső menüsorban keressétek ki a „Tools”-t, azon belül az „Install Packages” lehetőséget és egyesével telepítsétek a dplyr és ggplot2 csomagokat.\n\nRészletesen lásd lent a \"Hogyan készüljek a meetupra?\" részt\n\n------------------------------------------------------------------------------\n\nInteraktív vizualizációk készítése shiny-val - második rész (Czeller Ildi)\n\nA shiny R csomag lehetővé teszi egyszerűen interaktív weboldalak készítését kizárólag R-ben, bármi html vagy javascript tudás nélkül. Egy interaktív alkalmazás rengeteget segíthet egy adatelemzési folyamat során neked, az elemzőnek is, de kiválóan alkalmas az eredmények kommunikálására nem technikai emberek felé is.\n\nAjánlott előismeret: építünk a júniusi meetupon elhangzottakra, ahol az alábbi linken a negyedik lépésig jutottunk el (https://github.com/rladies/meetup-presentations_budapest/blob/master/Meetup_2017_06_21/shiny_steps.md), de a legfontosabbak felelevenítésével fogjuk kezdeni, így azokat is szeretettel várjuk, akik júniusban nem voltak.\n\nTelepítési előkészület: a shiny csomag.\n\nGithub használatához segítséget Ildi tutorialjában találtok: https://gist.github.com/czeildi/0cb47aa0378c18c363bb4458caef25c3\n\nA kiinduló könyvtárat itt találjátok: https://github.com/rladies/meetup-presentations_budapest/tree/master/Meetup_2017_09_21\n\n---------------------------------------------------------------------------------\n\nTermészetesen minden segédanyagot megtaláltok majd utólag a weben, mégis nagyon jó lenne, ha minél többen hoznátok notebookokat, hogy ott helyben ki is tudjátok próbálni a kódrészleteket.\n\nHogyan készüljetek a meetupra?\n\nHárom dologra lesz szükségetek a gépeteken:\n\n• Magára az R interpreterre ( http://cran.rapporter.net/ )\n\n• Egy okos-ügyes fejlesztőkörnyezetre, ami segíti a hatékony munkát, ez a mi esetünkben az RStudio lesz ( https://www.rstudio.com/products/rstudio/download/ )\n\n• Azokra a speciális csomagokra, amit az adott alkalmon részletesebben megismerünk: a júniusi meetup esetén a dplyr, a ggplot2 és a shiny lesz.\n\nA részletes telepítési lépéseket Windows operációs rendszer fölött itt találjátok (https://github.com/rladies/meetup-presentations_budapest/blob/9dc7f8e35f0467e31a814be5fc1ec033bf593630/Meetup_2017_03_23/03_23_install_guide.pdf). Ebben a data.table telepítését mutatjuk be, de a többi csomagé ugyanúgy működik.\n\nHa bármi gond adódna a telepítéssel/letöltéssel, kezdés előtt még nyugodtan kérdezzetek.",
+    "status": "PAST",
+    "dateTime": "2017-09-21T18:00:00+02:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-budapest/events/242934542/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 75,
+      "waitlistCount": 3,
+      "totalCount": 75
+    },
+    "venues": [
+      {
+        "id": "25457489",
+        "name": "KSH Főépület",
+        "address": "1024, Keleti Károly u. 7.",
+        "city": "Budapest",
+        "state": "",
+        "country": "hu",
+        "lat": 47.5119,
+        "lon": 19.0305,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Budapest",
+      "urlname": "rladies-budapest"
+    }
+  },
+  {
+    "id": "241096277",
+    "title": "Highlights from the useR! 2017 conference",
+    "description": "Változás: Az előadások várhatóan angol nyelven lesznek megtartva.\n\nHUN summary: A brüsszeli useR! 2017 konferencia (https://user2017.brussels/) magyar résztvevői tartanak fényképes élménybeszámolót, amelyet követően sörözünk és kötetlenül beszélgetünk. Előadók: Salánki Ágnes, Dean Attali (http://deanattali.com) (Shiny szakértő), Pafka Szilárd, Tajti András és Daróczi Gergely. A találkozót a BURN (https://www.meetup.com/Budapest-Users-of-R-Network/events/241089389/) tagokkal együtt szervezzük, tehát akármelyik csatornán jelentkezhtek, az jó. Sok szeretettel várunk minden érdeklődőt. :) Az előadások várhatóan angol nyelven lesznek megtartva.\n\nBe prepared to recall some slides of the most inspiring talks of the useR! 2017 conference (https://user2017.brussels/) (Brussels), see featured photos taken at the networking events, hear some backstage stories of the R gurus shared with us in person after the conference hours but not on Twitter yet. Most talks will be in English. Speakers: Salánki Ágnes, Dean Attali (http://deanattali.com/) (Shiny expert), Pafka Szilárd, Tajti András and Daróczi Gergely. This is a joint event with the BURN (https://www.meetup.com/Budapest-Users-of-R-Network/events/241089389/)meetup.\n\nSchedule:\n\n• 18:00 -- door opens\n\n• 18:15 -- 5 talks x 10-15 mins each\n\n• 19:15 -- pizza + soft drinks + beer\n\n• 20:30 -- door closes but we can continue networking in a nearby pub",
+    "status": "PAST",
+    "dateTime": "2017-07-18T18:00:00+02:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-budapest/events/241096277/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 17,
+      "waitlistCount": 0,
+      "totalCount": 17
+    },
+    "venues": [
+      {
+        "id": "25013271",
+        "name": "BME I épület, IB019-es terem",
+        "address": "Magyar Tudósok körútja 2.",
+        "city": "Budapest",
+        "state": "",
+        "country": "hu",
+        "lat": 47.4735,
+        "lon": 19.0592,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Budapest",
+      "urlname": "rladies-budapest"
+    }
+  },
+  {
+    "id": "240631884",
+    "title": "shine(x)",
+    "description": "Menetrend:\n\n18:00 -- 19:00 Adattranszformációs bevezető a tidyverse világba, 2. rész\n\n19:00 -- 19:15 Szünet (gyors pizzázás, hogy bírjuk szusszal a végéig)\n\n19:15 -- 20:15 Interaktív vizualizációk készítése shiny-val\n\n20:15-től kötetlen program, jól megérdemelt pihenés\n\n------------------------------------------------------------------------------\n\nAdattranszformációs bevezető a tydiverse világba, 2. rész\n\nA legutóbbi alkalommal megtanultuk a legfontosabb trükköket, hogyan lehet jobbra-balra-össze-vissza transzformálni a data frame-eket.\n\nNyárindítóként most megnézzük, hogyan lehet kombinálni több adatsort, például megtanuljuk\n\n• mi az a join művelet és milyen típusai vannak\n\n• milyen halmazműveletek értelmezettek a táblázatos adatsorokon\n\n• hogyan tranformálunk hosszúból széles szerkezetbe?\n\nAjánlott előismeret: nincs.\n\nTelepítési előkészület: a tidyverse csomaghalmaz és a maps csomag.\n\nFigyelem: a tidyverse több, egymással kompatibilis csomag összefoglaló neve. A komplett környezet egy kattintással telepíthető a megszokott módon, mintha csak egy tetszőleges package lenne. Mindenesetre ha a szokásosnál kicsit több szöveget láttok a konzolban ne ijedjetek meg, sok mindent telepítetek a háttérben. :)\n\nKét adatsorral dolgozunk majd:\n\n• az egyik a már ismerős PISA adatsorunk : https://raw.githubusercontent.com/rladies/meetup-presentations_budapest/master/Meetup_2017_04_19/pisa_hun_small.csv\n\n• a másik egy, a többi ország hallgatóit is tartalmazó adatsor: https://raw.githubusercontent.com/rladies/meetup-presentations_budapest/master/Meetup_2017_06_21/pisa_small.csv\n\nA kiinduló szkript vázát itt találjátok: https://github.com/rladies/meetup-presentations_budapest/blob/master/Meetup_2017_06_21/dplyr_part2_exercises.R.\n\nKérünk Benneteket, telepítsétek a környezetet és letöltött adatsorral és szkript vázlattal érkezzetek.\n\n------------------------------------------------------------------------------\n\nInteraktív vizualizációk készítése shiny-val\n\nA shiny R csomag lehetővé teszi egyszerűen interaktív weboldalak készítését kizárólag R-ben, bármi html vagy javascript tudás nélkül. Egy interaktív alkalmazás rengeteget segíthet egy adatelemzési folyamat során neked, az elemzőnek is, de kiválóan alkalmas az eredmények kommunikálására nem technikai emberek felé is. Az alkalom során egy reális példán végigmenve tekntjük át a legfontosabb építőelemeket, fogalmakat.\n\nAjánlott előismeret: nincs.\n\nTelepítési előkészület: a shiny csomag.\n\nAz adatsor amivel dolgozunk majd: https://github.com/rladies/meetup-presentations_budapest/blob/master/Meetup_2017_06_21/births_by_mother_age_and_education_raw.csv.zip\n\nA kiinduló szkript vázát itt találjátok: https://github.com/rladies/meetup-presentations_budapest/tree/master/Meetup_2017_06_21/eu_births_shiny_app\n\n---------------------------------------------------------------------------------\n\nTermészetesen minden segédanyagot megtaláltok majd utólag a weben, mégis nagyon jó lenne, ha minél többen hoznátok notebookokat, hogy ott helyben ki is tudjátok próbálni a kódrészleteket.\n\nHogyan készüljetek a meetupra?\n\nHárom dologra lesz szükségetek a gépeteken:\n\n• Magára az R interpreterre ( http://cran.rapporter.net/ )\n\n• Egy okos-ügyes fejlesztőkörnyezetre, ami segíti a hatékony munkát, ez a mi esetünkben az RStudio lesz ( https://www.rstudio.com/products/rstudio/download/ )\n\n• Azokra a speciális csomagokra, amit az adott alkalmon részletesebben megismerünk: a júniusi meetup esetén ez a tydiverse és a shiny lesz.\n\nA részletes telepítési lépéseket Windows operációs rendszer fölött itt találjátok (https://github.com/rladies/meetup-presentations_budapest/blob/9dc7f8e35f0467e31a814be5fc1ec033bf593630/Meetup_2017_03_23/03_23_install_guide.pdf). Ebben a data.table telepítését mutatjuk be, de a többi csomagé ugyanúgy működik.\n\nHa bármi gond adódna a telepítéssel/letöltéssel, kezdés előtt még nyugodtan kérdezzetek.",
+    "status": "PAST",
+    "dateTime": "2017-06-21T18:00:00+02:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-budapest/events/240631884/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 72,
+      "waitlistCount": 0,
+      "totalCount": 72
+    },
+    "venues": [
+      {
+        "id": "24468899",
+        "name": "Mosaik",
+        "address": "Pannónia u. 32",
+        "city": "Budapest",
+        "state": "",
+        "country": "hu",
+        "lat": 47.5156,
+        "lon": 19.053,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Budapest",
+      "urlname": "rladies-budapest"
+    }
+  },
+  {
+    "id": "239534246",
+    "title": "mutate(x)",
+    "description": "Menetrend:\n\n18:00 -- 19:00 Adattranszformációs bevezető a tidyverse világba (kezdőknek)\n\n19:00 -- 19:15 Szünet (gyors pizzázás, hogy bírjuk szusszal a végéig)\n\n19:15 -- 20:15 Szűr, szabdal, olvaszt, átalakul: a data.table csomag (haladóknak)\n\n20:15-től kötetlen program, jól megérdemelt pihenés\n\n------------------------------------------------------------------------------\n\nAdattranszformációs bevezető a tidyverse világba (kezdőknek)\n\nA legutóbbi alkalommal remek ggplot2 ábrákat készítettünk, de még csak a PISA adatsor eredeti változóiból rajzoltunk. De mi történik akkor, ha némileg módosított értékekkel szeretnénk dolgozni?\n\nA májusi alkalmunkon szintet lépünk és kipróbáljuk az alapvető adattranszformációs műveleteket, például megtanuljuk\n\n• mit hívunk széles és hosszú adatszerkezetnek,\n\n• hogyan transzformáljuk egyiket a másikba,\n\n• mi is az az ún. pipe (%>%) operátor és miért szeretik annyira a fejlesztők,\n\n• miért olyan hasznos, hogy a tidyverse csomagok adattípusai (többé-kevésbé) kompatibilisek egymással\n\nAjánlott előismeret: nincs.\n\nTelepítési előkészület: a tidyverse csomaghalmaz.\n\nFigyelem: a tidyverse több, egymással kompatibilis csomag összefoglaló neve. A komplett környezet egy kattintással telepíthető a megszokott módon, mintha csak egy tetszőleges package lenne. Mindenesetre ha a szokásosnál kicsit több szöveget láttok a konzolban ne ijedjetek meg, sok mindent telepítetek a háttérben. :)\n\nTovábbra is a PISA adatsorral dolgozunk: : https://raw.githubusercontent.com/rladies/meetup-presentations_budapest/master/Meetup_2017_04_19/pisa_hun_small.csv ,\n\na kiinduló szkript vázát itt találjátok: https://github.com/rladies/meetup-presentations_budapest/blob/master/Meetup_2017_05_17/exercise.R .\n\nKérünk Benneteket, telepítsétek a környezetet és letöltött adatsorral és szkript vázlattal érkezzetek.\n\n------------------------------------------------------------------------------\n\nSzűr, szabdal, olvaszt, átalakul: a data.table csomag 3. rész (haladóknak)\n\nA data.table mini-kuzus záróakkordjaként a következő témákat fogjuk érinteni:\n\n• Set key, azaz kulcsok beállítása, amitől bizonyos műveletek még hatékonyabbak lesznek\n\n• Rolling join\n\n• Reshaping: melt és dcast\n\n---------------------------------------------------------------------------------\n\nTermészetesen minden segédanyagot megtaláltok majd utólag a weben, mégis nagyon jó lenne, ha minél többen hoznátok notebookokat, hogy ott helyben ki is tudjátok próbálni a kódrészleteket.\n\nHogyan készüljetek a meetupra?\n\nHárom dologra lesz szükségetek a gépeteken:\n\n• Magára az R interpreterre ( http://cran.rapporter.net/ )\n\n• Egy okos-ügyes fejlesztőkörnyezetre, ami segíti a hatékony munkát, ez a mi esetünkben az RStudio lesz ( https://www.rstudio.com/products/rstudio/download/ )\n\n• Azokra a speciális csomagokra, amit az adott alkalmon részletesebben megismerünk: az április meetup esetén ez a ggplot2 és a data.table lesz.\n\nA részletes telepítési lépéseket Windows operációs rendszer fölött itt találjátok (https://github.com/rladies/meetup-presentations_budapest/blob/9dc7f8e35f0467e31a814be5fc1ec033bf593630/Meetup_2017_03_23/03_23_install_guide.pdf). Ebben a data.table telepítését mutatjuk be, de a tidyverse csomagé ugyanúgy működik.\n\nHa bármi gond adódna a telepítéssel/letöltéssel, kezdés előtt még nyugodtan kérdezzetek.",
+    "status": "PAST",
+    "dateTime": "2017-05-17T18:00:00+02:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-budapest/events/239534246/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 60,
+      "waitlistCount": 0,
+      "totalCount": 60
+    },
+    "venues": [
+      {
+        "id": "23371362",
+        "name": "EPAM Meetup Room",
+        "address": "Budapest, Bókay János u. 44-46, Hungary, 1083",
+        "city": "Budapest",
+        "state": "",
+        "country": "hu",
+        "lat": 47.4856,
+        "lon": 19.0789,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Budapest",
+      "urlname": "rladies-budapest"
+    }
+  },
+  {
+    "id": "238676820",
+    "title": "step_forward(x, 1)",
+    "description": "Menetrend:\n\n18:00 -- 19:00 Adatvizualizációs alapok a ggplot2 csomaggal (kezdőknek)\n\n19:00 -- 19:15 Szünet (gyors pizzázás, hogy bírjuk szusszal a végéig)\n\n19:15 -- 20:15 Szűr, szabdal, olvaszt, átalakul: a data.table csomag (haladóknak)\n\n20:00-tól kötetlen program, jól megérdemelt pihenés\n\nAdatvizualizációs alapok a ggplot2 csomaggal (kezdőknek)\n\nMiután a legutóbbi alkalommal igazi RStudio ninják lettünk, áprilisban megpróbáljuk beleásni magunkat a ggplot2 rejtelmeibe.\n\nA tavalyi PISA eredményeket vizualizálva megtanuljuk,\n\n• miket is hívunk “rétegeknek” vizualizáláskor,\n\n• hogyan gyártunk nagyon gyorsan egyszerű pont-pont diagramot és hisztogramot és\n\n• mik az alapvető finomhangolási lehetőségeink, hogy az ábránk ne csak hasznos legyen, de jól is nézzen ki.\n\nAjánlott előismeret: nincs.\n\nTelepítési előkészület: ggplot2 csomag.\n\nAz adatsort itt találjátok: https://raw.githubusercontent.com/rladies/meetup-presentations_budapest/master/Meetup_2017_04_19/pisa_hun_small.csv\n\nA szkript vázát, amivel dolgozni fogunk pedig itt: https://raw.githubusercontent.com/rladies/meetup-presentations_budapest/master/Meetup_2017_04_19/exercises.R\n\nKérünk Benneteket, telepítsétek a csomagot (telepítési útmutató lenn) és letöltött adatsorral és szkript vázlattal érkezzetek.\n\nSzűr, szabdal, olvaszt, átalakul: a data.table csomag 2. rész (haladóknak)\n\nA márciusi meetup-on elkezdett data.table-lel való ismerkedést folytatjuk, a következőkkel:\n\n• Group by, azaz csoportokon definiált műveletek\n\n• Sorbarendezés\n\n• Műveletek megadása egyszerre több oszlopon (.SD)\n\n• Set key, azaz kulcsok beállítása, amitől bizonyos műveletek még hatékonyabbak lesznek\n\n• Rolling join\n\n• Reshaping: melt és dcast\n\nKét input adatot fogunk használni, ebből az elsőt márciusban már megismertük:\nhttps://github.com/hyzhangsf/stat133-1/blob/master/datasets/starwars.csv ­\n\nhttps://raw.githubusercontent.com/rladies/meetup-presentations_budapest/master/Meetup_2017_04_19/sw_friends.csv\n\nTermészetesen minden segédanyagot megtaláltok majd utólag a weben, mégis nagyon jó lenne, ha minél többen hoznátok notebookokat, hogy ott helyben ki is tudjátok próbálni a kódrészleteket.\n\nHogyan készüljetek a meetupra?\n\nHárom dologra lesz szükségetek a gépeteken:\n\n• Magára az R interpreterre ( http://cran.rapporter.net/ )\n\n• Egy okos-ügyes fejlesztőkörnyezetre, ami segíti a hatékony munkát, ez a mi esetünkben az RStudio lesz ( https://www.rstudio.com/products/rstudio/download/ )\n\n• Azokra a speciális csomagokra, amit az adott alkalmon részletesebben megismerünk: az április meetup esetén ez a ggplot2 és a data.table lesz.\n\nA részletes telepítési lépéseket Windows operációs rendszer fölött itt találjátok (https://github.com/rladies/meetup-presentations_budapest/blob/9dc7f8e35f0467e31a814be5fc1ec033bf593630/Meetup_2017_03_23/03_23_install_guide.pdf). Ebben a data.table telepítését mutatjuk be, de a ggplot2 csomagé ugyanúgy működik.\n\nHa bármi gond adódna a telepítéssel/letöltéssel, kezdés előtt még nyugodtan kérdezzetek.",
+    "status": "PAST",
+    "dateTime": "2017-04-19T18:00:00+02:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-budapest/events/238676820/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 70,
+      "waitlistCount": 6,
+      "totalCount": 70
+    },
+    "venues": [
+      {
+        "id": "23371362",
+        "name": "EPAM Meetup Room",
+        "address": "Budapest, Bókay János u. 44-46, Hungary, 1083",
+        "city": "Budapest",
+        "state": "",
+        "country": "hu",
+        "lat": 47.4856,
+        "lon": 19.0789,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Budapest",
+      "urlname": "rladies-budapest"
+    }
+  },
+  {
+    "id": "237926402",
+    "title": "x <- \"Let's start\"",
+    "description": "Menetrend:\n\n18:00 -- 19:00 Bevezetés az R használatába (kezdőknek)\n\n19:00 -- 19:15 Szünet (gyors pizzázás, hogy bírjuk szusszal a végéig)\n\n19:15 -- 20:00 Szűr, szabdal, olvaszt, átalakul: a data.table csomag (haladóknak)\n\n20:00-tól kötetlen program, jól megérdemelt pihenés\n\nBevezetés az R használatába (kezdőknek)\n\nMindazoknak, akik szeretnének megismerkedni az R alapjaival, bemutatjuk az első lépéseket.\n\nKiderül például,\n\n• mi az az RStudio és miért szeretjük,\n\n• mi az az R csomag, mi az a CRAN és mit jelent a gyakorlatban az, hogy “több mint 10 000 R csomag van CRAN-en”,\n\n• hogyan olvassunk be adatokat R-be és dobjuk ki, ami nem kell,\n\n• hogyan és miért definiáljunk például egy “karakter vektort”,\n\n• milyen egyéb R objektumok és alap adatípusok vannak.\n\nAjánlott előismeret: nincs.\n\nSzűr, szabdal, olvaszt, átalakul: a data.table csomag (haladóknak)\n\nValós adatokon történő adatelemzés esetén az idő túlnyomó része (tipikusan 80%) az adatok előkészítésére fordítódik. Éppen ezért nagyon fontos, hogy minél hatékonyabb eszközt válasszunk és azt megfelelően használjuk.\n\nAz R-ben a data.table biztosítja a leghatékonyabb adattranszformációs függvényeket. Használata eleinte nehézkesnek tűnhet, de ha sikerül megbarátkozni vele, később sokszorosan megtérül a tanulására fordított idő. Az első meetup haladó szekciójában ezért a data.table használatába vezetjük be az érdeklődőket.\n\nAjánlott előismeretek: A dataframe adatszerkezet és az alap adattranszformációs függvények ismerete (bármilyen adatelemző szoftverben szerzett tapasztalat elegendő lehet: SQL, SPSS, RapidMinder, SAS, Python - Pandas, etc)\n\nTermészetesen minden segédanyagot megtaláltok majd utólag a weben, mégis nagyon jó lenne, ha minél többen hoznátok notebookokat, hogy ott helyben ki is tudjátok próbálni a kódrészleteket.\n\nHogyan készüljetek a meetupra?\n\nHárom dologra lesz szükségetek a gépeteken:\n\n• Magára az R interpreterre (http://cran.rapporter.net/)\n\n• Egy okos-ügyes fejlesztőkörnyezetre, ami segíti a hatékony munkát, ez a mi esetünkben az RStudio lesz (https://www.rstudio.com/products/rstudio/download/)\n\n• Azokra a speciális csomagokra, amit az adott alkalmon részletesebben megismerünk (a márciusi meetup esetén ez a data.table https://github.com/Rdatatable/data.table/wiki/Installation) (https://github.com/Rdatatable/data.table/wiki/Installation).)\n\nA részletes telepítési lépéseket Windows operációs rendszer fölött itt találjátok (https://github.com/rladies/meetup-presentations_budapest/blob/9dc7f8e35f0467e31a814be5fc1ec033bf593630/Meetup_2017_03_23/03_23_install_guide.pdf) (érdemes lehet a pdf-et le is tölteni, akkor kicsit szebben renderelődik).",
+    "status": "PAST",
+    "dateTime": "2017-03-23T18:00:00+01:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-budapest/events/237926402/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 80,
+      "waitlistCount": 12,
+      "totalCount": 80
+    },
+    "venues": [
+      {
+        "id": "24468899",
+        "name": "Mosaik",
+        "address": "Pannónia u. 32",
+        "city": "Budapest",
+        "state": "",
+        "country": "hu",
+        "lat": 47.5156,
+        "lon": 19.053,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Budapest",
+      "urlname": "rladies-budapest"
+    }
+  },
+  {
+    "id": "237214078",
+    "title": "print(“Hello, Ladies :)”)",
+    "description": "Csodálkozzunk rá együtt arra, milyen összefüggések bányászhatóak ki egy-egy adathalmazból!\n\nElső találkozásunkkor kedvcsinálóként elmeséljük, mi hárman (Eszter adattudósként, Zsuzsi környezetkutatóként és Ági elemzőként) mire használjuk az adatainkat és hogyan segít bennünket az R.\n\nMutatunk néhány érdekes esettanulmányt is: lesz szó arról, mire jó az adatvizualizáció, hogyan lehet egy vásárló ruhaméretét megbecsülni, egy tinédzsert bajba juttatni reklámújság kiküldésével vagy hackereket találni pusztán viselkedési adataik alapján.\n\nA későbbi alkalmakkor egy laptop jól jöhet (hogy ki is próbáljátok, amit lépésről-lépésre megtanultok), de ezzel most még ne foglalkozzatok, csak gyertek el és hozzátok a barátnőiteket is :)",
+    "status": "PAST",
+    "dateTime": "2017-02-16T18:30:00+01:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-budapest/events/237214078/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 82,
+      "waitlistCount": 0,
+      "totalCount": 82
+    },
+    "venues": [
+      {
+        "id": "25013271",
+        "name": "BME I épület, IB019-es terem",
+        "address": "Magyar Tudósok körútja 2.",
+        "city": "Budapest",
+        "state": "",
+        "country": "hu",
+        "lat": 47.4729,
+        "lon": 19.0594,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Budapest",
+      "urlname": "rladies-budapest"
+    }
+  },
+  {
+    "id": "256978614",
+    "title": "Data Christmas 2018",
+    "description": "Join us for the last meetup of the year, where we look back at the most significant and interesting events of 2018 and have a drink together with your fellow data people.\n\nThere will be a talk jam where short, 5-10 min presentations will be given on many different but data-related topic. Current list of talks:\n- Welcome to the Data Christmas! - Gergely Daróczi & Bence Arató\n- Data wisdom we teach to students. Now in Vienna - Gábor Békés, CEU\n- State of the (R) 2018 - Gergely Daróczi, Budapest Users of R Network\n- What happened to Big Data: a year in review - Bence Arató, Big Data Meetup\n- Crowdsourced general intelligence - Andras Lorincz, ELTE\n- Why are you, Julia? - Csaba Hoch, Cursor Insight\n- Gendered behavior as a disadvantage in OSS development - Orsolya Vasarhelyi, CEU\n\nSchedule:\n18:00 Doors open, refreshments\n18:30 Talk Jam!\n20:00 Afterparty in the atrium of CEU\n\nThis is shared community event, jointly organized by the data meetups in Budapest.\n- Budapest BI Meetup http://bit.ly/2EbYtDL\n- Budapest Big Data Meetup http://bit.ly/2DZz9zM\n- Budapest Data Science meetup http://bit.ly/2DXIU1w\n- Budapest Machine Learning Meetup https://bit.ly/2rke8rZ\n- Budapest Julia User Group http://bit.ly/2EjIkfd\n- Budapest Spark Meetup: http://bit.ly/2DZE9o2\n- Budapest Users of R Network http://bit.ly/2DZX1Dk\n- HUG-MSSQL http://bit.ly/2SIliCe\n- PyData Budapest Meetup https://bit.ly/2Qxt3NU\n- R-Ladies Budapest https://bit.ly/2QhWaW7\n\nDue to the parallelly organized, distributed nature of the meetup, RSVPs will be closed when the combined number of RSVPs from all participating meetups hits the limit.\n\nThis is an English speaking event. Venue and catering will be provided by CEU.",
+    "status": "PAST",
+    "dateTime": "2018-12-19T18:00:00+01:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-budapest/events/256978614/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 12,
+      "waitlistCount": 0,
+      "totalCount": 12
+    },
+    "venues": [
+      {
+        "id": "24836538",
+        "name": "CEU Library Building",
+        "address": "1051 Nador utca 15",
+        "city": "Budapest",
+        "state": "",
+        "country": "hu",
+        "lat": 47.5012,
+        "lon": 19.0494,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Budapest",
+      "urlname": "rladies-budapest"
+    }
+  },
+  {
+    "id": "256244385",
+    "title": "RRR: Renitent Rcoholics Reunion",
+    "description": "This is an experimental therapy co-organized with Budapest Users of R Network to help R users speak about their passion -- how they got to know R, how they started to use R, and what are they doing with R, and maybe what they love or hate (duh) about R.\n\nWe will go around, anyone who is willing to contribute their stories is welcome! Please volunteer to share your story by signing up at https://goo.gl/forms/nHPyYU3fEfhbA5DT2. Talks limited to 5 mins each, can be either in English or Hungarian. No expectations or judgment.\n\nThis meetup is hosted at and sponsored by CEU. Food and (soft) drinks will be served after the talks to help networking.\n\n---\n\nRendhagyó kiadással jelentkezik az R Ladies és a BURN decemberi kiadása: R-függő tagjaink arról mesélnek majd, hogy hogyan ismerkedtek meg az R nyelvvel, mióta és miért használják, mit szeretnek és gyűlülnek benne. Az előadások max 5 percesek, és az AA mintájára a hallgatóság elvárásoktól és ítéletektől mentesen érkezik / távozik majd. A magyar vagy angol nyelvű előadásra / vallomásra jelentkezők legyenek kedvesek feliratkozni a https://goo.gl/forms/nHPyYU3fEfhbA5DT2 címen.",
+    "status": "PAST",
+    "dateTime": "2018-12-04T18:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-budapest/events/256244385/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 9,
+      "waitlistCount": 0,
+      "totalCount": 9
+    },
+    "venues": [
+      {
+        "id": "25741703",
+        "name": "Central European University",
+        "address": "Nádor utca 15., Room 103.",
+        "city": "Budapest",
+        "state": "",
+        "country": "hu",
+        "lat": 47.5012,
+        "lon": 19.0494,
+        "postalCode": "meetup1",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Budapest",
+      "urlname": "rladies-budapest"
+    }
+  },
+  {
+    "id": "256279242",
+    "title": "Budapest BI Forum - panel discussion",
+    "description": "For English description, please scroll down.\n\nNovemberi meetup-unkat rendhagyó módon, a Budapest BI Konferencia, és az utána megrendezésre kerülő Data Job Fair-rel összekötve tartjuk. A konferencia helyszínén panelbeszélgetésre invitálunk mindenkit, ahol a konferencia két előadója, Clara Higuera és Emma Vestesson lesznek a beszélgető partnereink.\nClara a BBC-nél Data Scientist, míg Emma a The Health Foundation kutatója.\nA beszélgetés nyelve angol lesz.\n\n*******************************************\n\nOur November meetup will be held together with the Budapest BI Forum conference, and the following Data Job Fair. At the venue of the conference we will have a panel discussion with two of the presenters: Clara Higuera and Emma Vestesson.\nClare is a Data Scientist at BBC, while Emma is a researcher at The Health Foundation.\nThe panel discussion will be in English.",
+    "status": "PAST",
+    "dateTime": "2018-11-15T18:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-budapest/events/256279242/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 18,
+      "waitlistCount": 0,
+      "totalCount": 18
+    },
+    "venues": [
+      {
+        "id": "23783442",
+        "name": "Hotel Mercure Buda",
+        "address": "Krisztina Körút 41-43.",
+        "city": "Budapest",
+        "state": "",
+        "country": "hu",
+        "lat": 47.4989,
+        "lon": 19.0271,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Budapest",
+      "urlname": "rladies-budapest"
+    }
+  },
+  {
+    "id": "254598332",
+    "title": "sep_warmup<-union(Hadley_Wickham, R_Ladies_Budapest)",
+    "description": "*For English description please scroll down.*\n------------------------------------------------------------------------------------------------------\nBeköszöntött az ősz, így itt az ideje, hogy mi is megnyissunk egy újabb évadot - bemelegítésképp egy némileg rendhagyóbb, ámde nem kevésbé izgalmas programmal kezdünk.\n\nReméljük sokatoknak sikerült regisztrálni \"nagytestvérünk\", a BURN meetup szeptember 21-ei születésnapi összejövetelére, ahol Hadley Wickham fog előadást tartani, de ha mégsem, illetve akkor is ha igen, előttevaló este még egy alkalmunk nyílik a Hadley-vel való találkozásra. Egy kötetlenebb beszélgető estét tervezünk, ahol bárki bármilyen kérdését felteheti, illetve mi magunk is készülünk egy-két témafelvetéssel.\n\nHa esetleg egy kicsit elbizonytalanodtál, mert nem hallottál még Hadley-ről, akkor megnyugtatunk, dolgozni már biztosan dolgoztál vele, pontosabban az általa írt R package-ek valamelyikével. Ő alkotta meg többek között a ggplot2 csomagot, szószólója a tidy data koncepciónak a dplyr és tidyr csomagok által, megkönnyíti az életünket a readr, readxl csomagokkal, webscrapelést tesz lehetővé az rvest-en keresztül, és még sokáig sorolhatnánk a hihetetlen mértékű hozzájárulását az R univerzumhoz - nem is véletlen, hogy jelenleg ő az RStudio Chief Scientist-je, illetve emlékezhetünk rá az \"R for Data Science\" fő szerzőjeként is.\n\nIzgalmas estének nézünk tehát elébe - ha valamelyikőtöknek már most tolonganak a kérdések a fejében, akkor arra bíztatunk, hogy osszátok meg velünk őket, így könnyebben tudjuk előre tagolni a felmerülő témákat. Ha magyarul kérdeznétek, egyáltalán nem gond, ez ne tartson vissza senkit, segítünk a fordításban és tolmácsolásban.\n\nA meetupot ezúttal informálisabb módon egy vendéglátóhelyen fogjuk tartani, így a fogyasztás önköltséges lesz.\n\n------------------------------------------------------------------------------------------------------\n\nAutumn has arrived, so it is time to open another season with the R-Ladies group as well - warming up with a somewhat unusual, but nonetheless exciting program.\n\nWe hope that many of you have been able to sign up to the BURN group’s 5 year anniversary meetup on September 21, where Hadley Wickham will be presenting, but if not, or even if yes, you'll have another chance to meet Hadley the day before. We are planning a more informal conversational event, where anyone can ask any questions – though we also try to prepare with few topics to be raised.\n\nIf you are staggering a bit about recalling Hadley’s name, we can help where you might remember him from :) most probably you have already worked with him, or more accurate to say, with one of the R packages he has written. Among many others, he created the ggplot2 package, he is advocating the concept of tidy data through dplyr and tidyr, he facilitates our lives with the readr and readxl packages, and allows us easy webscraping through rvest. On top of it you can also remember his name as the main author of the book \"R for Data Science\". Looking at this incredible contribution to the R universe - it's no coincidence that he is currently the Chief Scientist of RStudio.\n\nSo we are definitely looking forward to a remarkable evening - if questions and topics are already popping up in your mind, then please do not hesitate sharing them with us, so that we can better shape the flow of topics to be discussed.",
+    "status": "PAST",
+    "dateTime": "2018-09-20T19:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-budapest/events/254598332/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 19,
+      "waitlistCount": 0,
+      "totalCount": 19
+    },
+    "venues": [
+      {
+        "id": "23598133",
+        "name": "Szatyor",
+        "address": "Bartók B. út 36",
+        "city": "Budapest",
+        "state": "",
+        "country": "hu",
+        "lat": 47.4791,
+        "lon": 19.0509,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Budapest",
+      "urlname": "rladies-budapest"
+    }
+  },
+  {
+    "id": "251416154",
+    "title": "pipelines, ML <- recap(eRum)",
+    "description": "Jön a nyári szünet!\nDe ne szaladjunk ennyire előre!\n\nMájusban Budapesten tartották az eRum konferenciát, ahol sok hasznosat és érdekeset hallottunk, amit szeretnénk Veletek is megosztani. A Vakációt megelőző utolsó meetupunkon Steiner Johanna és Orbán Erika osztja majd meg a tapasztalatait a konferenciáról, és készülnek workshoppal is:\n\nSteiner Johanna: DataMaid csomag - adatelemzés es adatelőkészítés\nKezdjük az elején! Minden adatelemzési, modellépítési feladat első, és talán legidőigényesebb része az adatminőség ellenőrzése, az adataink validálása, és tisztítása. A dataMaid csomag ehhez nyújt segítséget: a package-el lehetőség van egyéni igényekre igazított leíró statisztikákat és adatminőség ellenőrzéseket definiálni, amikkel az adatminőség problémák, hibák felismerhetők az adatbázisunkban. A csomag előnye, hogy a definiált tesztek, statisztikák eredményeit egy R-független, jól olvasható riportban összegzi, mely a futás paramétereit is rögzíti, ezzel biztosítva a reprodukálhatóságot. A workshop-on kipróbáljuk a dataMaid előre definiált riportját, illetve új, igényeinknek jobban megfelelő riportot is definiálunk majd. Az elemzéseinkhez a package saját adattábláját, az amerikai elnökök adatbázisát fogjuk használni\nElőkészület: dataMaid, lubridate csomagok letöltése.\n\nOrbán Erika: Interpretálható machine learning modellek készítése h2o és lime csomagokkal\nA black box modelleket gyakran éri kritika az értelmezhetőséggel kapcsolatban. A modellek interpretálhatóságát május 25-e óta az EU Általános Adatvédelmi Rendelete (GDPR ) is elvárja. Ehhez kapcsolódóan két csomag használatával fogunk megismerkedni, ezek a h2o és a lime csomagok. A h2o csomag AutoML függvényének segítségével megtanulunk regressziós és klasszifikációs modelleket készíteni gyorsan és egyszerűen. Ezután megnézzük, hogy a lime csomag segítségével hogyan tudjuk értékelni és értelmezni a modellek eredményeit. Az esettanulmányokhoz az mlbench csomag adathalmazai közül a Boston Housing és Diabetes adatokat fogjuk használni.\nElőkészület: h2o, lime és mlbench csomagok letöltése\n\nRészletesebb információkkal majd még jelentkezünk.",
+    "status": "PAST",
+    "dateTime": "2018-06-26T18:00:00+02:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-budapest/events/251416154/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 43,
+      "waitlistCount": 0,
+      "totalCount": 43
+    },
+    "venues": [
+      {
+        "id": "25206536",
+        "name": "Morgan Stanley",
+        "address": "Lechner Ödön fasor 8., Millennium III.",
+        "city": "Budapest",
+        "state": "",
+        "country": "hu",
+        "lat": 47.4729,
+        "lon": 19.0712,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Budapest",
+      "urlname": "rladies-budapest"
+    }
+  },
+  {
+    "id": "250031700",
+    "title": "party_after(erum_2018)",
+    "description": "The most awaited European R conference of this year is almost here! Luckily for us, it happens to be held in Budapest \\o/.\n\nSince more R-Ladies and allies will be in Hungary during these three days than ever before, we would like to make sure that members of our local R-Ladies and BURN chapter have a chance to meet all their peers from abroad.\n\nNOTE: EVERYONE who accepts our code of conduct (https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#english) is welcome with open arms, independently whether being identified as a woman.\n\nThe language of the presentations is English.\n\nSchedule of the event\n5:45 PM -- 6:30 PM -- Registration (pizza and drinks will be served)\n6:30 PM -- 8:30 PM -- Presentations\n8:30 PM -- Networking\n\nSpeakers\n\nEllen Talbot (R-Ladies Manchester & R-Ladies Liverpool): \"Packages for spatial analysis in R and using the Meetup API to find your next hobby\"\n\nErin LeDell (R-Ladies San Francisco, R-Ladies Global): \"Intro to H2O for Machine Learning in R\"\n\nHeather Turner (R Forwards): \"Publishing and Promoting your R Package\"\n\nIsabella Gollini (R Forwards, R-Ladies Dublin): \"Making R attractive for diverse learners\"\n\nOlga Mierzwa-Sulima (R-Ladies Warsaw): \"Hard lessons from data science projects\"\n\nOmayma Said (WUZZUF): \"Stringr Explorer: Tweet Driven Development for a Shiny App!\"",
+    "status": "PAST",
+    "dateTime": "2018-05-16T18:00:00+02:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-budapest/events/250031700/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 84,
+      "waitlistCount": 0,
+      "totalCount": 84
+    },
+    "venues": [
+      {
+        "id": "23225282",
+        "name": "Emarsys Hungary Office",
+        "address": "Kossuth Lajos utca 7-9",
+        "city": "Budapest",
+        "state": "",
+        "country": "hu",
+        "lat": 47.4536,
+        "lon": 19.1514,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Budapest",
+      "urlname": "rladies-budapest"
+    }
+  },
+  {
+    "id": "249456968",
+    "title": "group(data, method=homogeneous)",
+    "description": "Végre földtudományok! :) Ha ez nem hozott még lázba, mert más területen mozogsz, a tanult módszer még lehet, hogy fog!\n\nÖrömmel látjuk köreinkben Kovács József Tanár Urat és Ph.D. hallgatóját, Tanos Pétert az ELTE TTK Általános és Alkalmazott Földtani Tanszékéről. Kovács József nevéről sokunknak talán már eszébe is jutott a \"geomatematika\" szó :) Sok egyéb érdeme, tudományos eredménye és tisztsége mellett az ELTE TTK Kiváló Oktatói közé is választották. Azon kívül, hogy sok-sok ELTE TTK-s hallgató Rá gondol, ha statisztikai feldolgozást érintő kérdése van, egyik nagyszerű hallgatójával, Péterrel karöltve, többedmagukkal egy R csomag létrehozásáért is felelősség terheli.\n\nA szokásoktól eltérően, egy téma öleli fel a következő meetup egész idejét egy szünettel. Amiről szó lesz, arról alább olvashattok.\n\n\"A csoportosítás (klasszifikáció) általánosan használt módszer a modern kutatásokban. Gyakran merül fel a kérdés, hogyan lehetne meghatározni az optimális csoportszámot. További gyakori kérdés az is hogy a csoportok között nemcsak hasonló, hanem a legnagyobb homogén csoportok is meghatározásra kerüljenek. A célok eléréséhez kidolgozásra került két hagyományos eljárást ötvöző technika, a kombinált klaszter- és diszkriminancia analízis (CCDA Kovács et al., 2014), amit olyan több származási helyről elérhető, többdimenziós adatokra fejlesztettünk, ahol minden ilyen származási helyről több megfigyelés történt. A CCDA a lineáris diszkriminancia analízis által helyesen klasszifikált esetek arányát egy véletlen beosztásból adódó- helyesen klasszifikált - arányszámhoz viszonyítja, illetve ezek különbségét nézi. Ezen értékeket tekintve objektív módon meghatározható az optimális csoportszám illetve a hozzá tartozó csoportosítás (Kovács és Erőss, 2017) és páronkénti összehasonlítások alkalmazásával képes egy rendszerben meglévő legnagyobb különbségek kimutatására (Kovács et al., 2015; Tanos et al, 2016). Továbbá a CCDA képes nem csupán a hasonló (Déri–Takács et al., 2015), hanem homogén csoportok keresésére, a csoportok közötti legkisebb különbségek megtalálására is (Kovács et al., 2014; Kovács et al., 2015).\"\n\nKivételesen nagyon pontosan kezdünk, így érkezzetek 10 perccel 6 előtt. Ha hoztok laptopot (hozzatok! ;)), telepítsétek mindenképp a ccda csomagot előre! A datasets-ek közül az iris adatsort fogjuk használni. További infókkal még jelentkezünk!",
+    "status": "PAST",
+    "dateTime": "2018-04-16T18:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-budapest/events/249456968/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 40,
+      "waitlistCount": 0,
+      "totalCount": 40
+    },
+    "venues": [
+      {
+        "id": "25797607",
+        "name": "ELTE TTK, Északi tömb, Kémia épület, III. emelet, 334-es terem",
+        "address": "Pázmány Péter sétány 1A",
+        "city": "Budapest",
+        "state": "",
+        "country": "hu",
+        "lat": 47.474,
+        "lon": 19.0626,
+        "postalCode": "meetup1",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Budapest",
+      "urlname": "rladies-budapest"
+    }
+  },
+  {
+    "id": "248233512",
+    "title": "lapply(1:42, function(timeseries) timeseries^2)",
+    "description": "Márciusban találkozhattok Ágival, aki Londonból látogat haza, valamint Milibák Eszter beszél az idősorelemzésről.\n\n------------------\nNéhány tipp hackeléshez: indexek és iterációk (Salánki Ágnes)\n\nAz R alapcsomagjai nagyszerűen támogatják az összes tipikusan előforduló elemzői tevékenységet: néhány sor kóddal gyorsan tudjuk transzformálni az adatainkat egyik táblázatos formából a másikba esetleg vizualizálni az eredményeinket. Azokban az esetekben viszont, ha az adataink nem ilyen szép, könnyen kezelhető formátumban kerülnek hozzánk, szükségünk lehet némi tudásra arról például, mik azok a listák és hogyan lehet a tartalmukon végigmenni. A márciusi alkalommal így visszatérünk kicsit a nyelv alapköveihez és megtanuljuk:\n* mik a listák, vektorok és data frame-ek közös vonása és kapcsolata egymással,\n* mit csinál a [], [[]] és a $ operátor ezeken az adattípusokon,\n* miért a barátunk a más programozási nyelvekből esetleg ismert for ciklus,\n* mit csinál az sapply, lapply, map függvény és\n* ez a tudás hogyan alkalmazható például annak eldöntésében, hogy legközelebb milyen darabot nézzünk meg a Katonában.\n\nElőkövetelmény nincs, de azok várhatóan kicsit jobban tudnak majd haladni, akik a februári eseményen részt vettek és tudják, mi az a scrape-elés és micsoda az if() else{} kifejezés.\n\nA meetup előtt érdemes a következő két állományt letölteni: https://raw.githubusercontent.com/rladies/meetup-presentations_budapest/master/Meetup_2018_03_09/Data%20structures%20and%20loops/Data%20structures%20and%20loops/R/warmup.R és https://raw.githubusercontent.com/rladies/meetup-presentations_budapest/master/Meetup_2018_03_09/Data%20structures%20and%20loops/Data%20structures%20and%20loops/R/exploratory.R .\nAki teheti, indulás előtt telepítse a purrr és az rvest csomagokat is, de természetesen ezek az előmunkálatok mind megoldhatóak ott helyben is.\n\n------------------\nIdősoros előrejelzések készítése R-ben (Milibák Eszter)\n\nAz üzleti és tudományos életben számos olyan adatsorral találkozhatunk, amelyek alakulása az időben több-kevesebb szabályosságot mutat. Az ezekben rejlő mintázatok felismerésére, előrejelzésekhez történő felhasználására az R számos hasznos csomagot és algoritmust kínál. A workshopon először megismerkedünk az idősoros elemzések alapfogalmaival, az ilyen típusú adatok feltérképezésének módszereivel. Ezután közösen kipróbáljuk az auto.arima, nnetar és hybridModel algoritmusokat az R forecast és forecastHybrid csomagjaiból.",
+    "status": "PAST",
+    "dateTime": "2018-03-09T18:00:00+01:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-budapest/events/248233512/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 54,
+      "waitlistCount": 0,
+      "totalCount": 54
+    },
+    "venues": [
+      {
+        "id": "23371362",
+        "name": "EPAM Meetup Room",
+        "address": "Budapest, Bókay János u. 44-46, Hungary, 1083",
+        "city": "Budapest",
+        "state": "",
+        "country": "hu",
+        "lat": 47.4856,
+        "lon": 19.0789,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Budapest",
+      "urlname": "rladies-budapest"
+    }
+  },
+  {
+    "id": "247584795",
+    "title": "webscraping <- function(x) { }",
+    "description": "Februári meetupunk során elmerülünk majd a webscraping és az R függvények világában, előbbit Orsós Mihály, utóbbit Klein Rita tolmácsolásában.\n(az előadások sorrendje még nem végleges)\n\n------------------\nOrsós Mihály: Webscraping\nA workshopon megismerkedünk a webscraping rejtelmeivel. Megnézzük, hogyan találunk meg elemeket egy weboldalon, majd hogyan mentjük le őket strukturált formában. Ezt követően azt is megnézzük, hogy a weboldal honnan kapja az adatokat (amiket megjelenít), és azt az adatforrást fogjuk direktbe megszólítani az R segítségével és lementeni az adatokat. A workshop folyamán az index.hu-t és az EU-s kifizetéseket ( http://emir.nfu.hu/nyertes/? ) fogjuk scrapelni. A szükséges R csomagok:\n- rvest\n- jsonlite\n- data.table\n- httr\n- request\n\nChrome böngésző\nSelectorGadget extension\n(https://chrome.google.com/webstore/detail/selectorgadget/mhjhnkcfbdhnjickkkdbjoemdmbfginb?utm_source=chrome-app-launcher-info-dialog)\n\n------------------\nKlein Rita: Függvények\nAz előadás a nyitó eseménye egy R for Data Science (írták: Garrett Grolemund és Hadley Wickham) workshop sorozatnak, ahol az említett könyv egyes fejezeteit dolgozzuk fel, ezzel bővítve R tudásunkat.\nEzen az alkalmon a függvényekről esik majd szó: mikor érdemes, hogyan érdemes, miért érdemes függvényeket írnunk az \"egyszerű\" kódok helyett.",
+    "status": "PAST",
+    "dateTime": "2018-02-26T18:00:00+01:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-budapest/events/247584795/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 80,
+      "waitlistCount": 10,
+      "totalCount": 80
+    },
+    "venues": [
+      {
+        "id": "23371362",
+        "name": "EPAM Meetup Room",
+        "address": "Budapest, Bókay János u. 44-46, Hungary, 1083",
+        "city": "Budapest",
+        "state": "",
+        "country": "hu",
+        "lat": 47.4856,
+        "lon": 19.0789,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Budapest",
+      "urlname": "rladies-budapest"
+    }
+  },
+  {
+    "id": "246972981",
+    "title": "boost_and_control()           ",
+    "description": "Évünk első meetup-ján haladó machine learning témát valamint verziókövetést hallhattok és próbálhattok ki két nagyszerű előadó tolmácsolásában: előbbiről Pafka Szilárd, utóbbiról pedig Göbölös-Szabó Julianna fog nekünk workshopot tartani.\n\nTervezett menetrend:\n\n18.00 - 19.00: Pafka Szilárd: Gradient Boosting Machines (GBM) R-ben (az előadás magyar nyelven lesz megtartva, angol segédanyagokkal)\n\nA deep learning és a mesterséges intelligenciával (AI) kapcsolatos hype\nellenére, nem annyira ismert tény, hogy a vállalati alkalmazások\ntöbbségében előforduló struktúrált adatokra általában egy másik\nalgoritmus, a gradient boosting machine (GBM) szokott jobb eredményeket\nnyújtani. Ebben az előadasban/workshopban a GBM-eket vezetjük be több R\ncsomagon keresztül és GBM-eket fogunk tanítani publikusan elérhető adatokon.\n\nAz előadás előtt célszerű átismételni a korábbi novemberi meetupunk anyagát a Machine Learning alapjairól:\n\nhttps://github.com/rladies/meetup-presentations_budapest/blob/master/Meetup_2017_11_21/MachineLearningBevezeto.pdf\n\nAz alábbi csomagokkal fogunk dolgozni: gbm, xgboost, h2o. A csomagok telepítését el lehet kezdeni otthon, de lesz majd lehetőség ott helyben telepíteni is (például Java-t kell telepíteni a h2o-höz, ezzel nem biztos, hogy mindenki foglalkozni akartok otthon).\n\n19.00 - 19.30: Szünet: pihenünk, pizzázunk, beszélgetünk, illetve szponzorunknak hála körbelátogathatunk a Cloudera iroda egyéb tereiben, többek között a nem mindennapi kilátást is megcsodálva :)\n\n19.30 - 20.30: Göbölös-Szabó Julianna: Bevezetés a git-be\n\nA programozás a közhiedelemmel ellentétben egyáltalán nem magányos tevékenység. Gyakran dolgozunk együtt többen ugyanazon a projekten, kódon egyszerre, ebben segít bennünket a git verziókövető rendszer.\nA git segítségével sokkal könnyebb a kollaboráció, nem kell attól félni, hogy egymás lábára lépünk, és ugyanazt a kódot többen, többfélén módosítjuk egyszerre.\nHa egyedül dolgozol, akkor is nyújt hasznos funkciókat: a kódodat checkpointolhatod, es a git segítségével később bármely ilyen pontra visszatérhetsz, soha nem veszik el a régi munkád.\nHa pedig a nagyvilággal is megosztanád a projektedet, akkor ezt megteheted könnyedén git-re épülő webes szolgáltatások segítségével.\nAz előadáson a git használatát fogjuk megtanulni egy R projekten keresztül.\n\nHa van időtök és lehetőségetek, esetleg jöhettek rögtön egy telepített gittel, de lesz majd lehetőség környezetépítésre ott helyben is.\nLinux/Ubuntu:\nterminálban add ki ezt parancsot: sudo apt-get install git-all\n\nLinux egyeb :\nKeresd ki itt a megfelelő parancsot: https://git-scm.com/download/linux\n\nWindows:\nInstaller letölthető innen: https://git-scm.com/download/win . Ha a letöltés befejeződött, futtasd le, hogy ténylegesen feltelepüljön.\n\nMac:\nterminálban gépeld be, hogy git. Ha nincs telepítve a program, akkor (elvileg) felugrik egy ablak, és megkérdezi, hogy szeretnéd-e telepíteni. (Ha ez nem működne, akkor itt egy másik megoldás: https://www.atlassian.com/git/tutorials/install-git)",
+    "status": "PAST",
+    "dateTime": "2018-01-31T18:00:00+01:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-budapest/events/246972981/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 64,
+      "waitlistCount": 0,
+      "totalCount": 64
+    },
+    "venues": [
+      {
+        "id": "24970842",
+        "name": "Cloudera Office",
+        "address": "Széchenyi István tér 7-8, 1051",
+        "city": "Budapest",
+        "state": "",
+        "country": "hu",
+        "lat": 47.5006,
+        "lon": 19.0475,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Budapest",
+      "urlname": "rladies-budapest"
+    }
+  },
+  {
+    "id": "266801353",
+    "title": "Data Christmas 2019",
+    "description": "Join us for the last meetup of the year, where we look back at key events of 2019, listen the fun quick talks and have a drink together with fellow members of the Budapest data community.\n\nProgram and speakers:\n\n1) Welcome Notes - Békés Gábor, CEU\n\n2) Community announcements\n\n3) Opening talk\nBest of 2019 - a look back to an \"average\" year in data and BI\nArató Bence, BI Consulting\n\n4) Data Meetup Showcase\nVery quick intros to the participating meetups, possibly in a fun, data-driven way. Let us know if you would like your meetup included!\n\n5) Talk Jam with fun talks from the community members:\n\nThe Data Scientist's Christmas Dinner\nWindhager-Pokol Eszter, Starschema\n\n\"Baby Yoda\": Sith or Jedi?\nMilan Janosov, Central European University\n\nIt's the most wonderful time to tweet\nKapronczay Mór & Tóth Benedek, Starschema\n\nMore speakers coming soon. Drop us a line if you'd like to give a talk!\n\nSchedule:\n18:00 Doors open, refreshments\n18:30 Talks begin\n20:00 Afterparty in the atrium of CEU\n\nThis is shared community event, jointly organized by the data meetups in Budapest.\n- Budapest Artificial Intelligence Meetup https://bit.ly/36vVtvN\n- Budapest BI Meetup http://bit.ly/2XSQQc6\n- Budapest Big Data Meetup http://bit.ly/34u0ODq\n- Budapest Data Science meetup http://bit.ly/2r0zsXb\n- Budapest Deep Learning Reading Seminar http://bit.ly/346rklc\n- Budapest.py meetup http://bit.ly/34sEHMZ\n- Budapest Users of R Network http://bit.ly/2Oq2rMG\n- PyData Budapest Meetup http://bit.ly/2DpoVHt\n- R-Ladies Budapest http://bit.ly/2DnG0RU\n\nDue to the parallelly organized, distributed nature of the meetup, RSVPs will be closed when the combined number of RSVPs from all participating meetups hits the limit.\n\nThis is an English speaking event. Venue and catering will be provided by CEU.",
+    "status": "PAST",
+    "dateTime": "2019-12-18T18:00:00+01:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-budapest/events/266801353/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 23,
+      "waitlistCount": 0,
+      "totalCount": 23
+    },
+    "venues": [
+      {
+        "id": "26344522",
+        "name": "CEU Nador 15 building",
+        "address": "Nádor utca 15",
+        "city": "Budapest",
+        "state": "",
+        "country": "hu",
+        "lat": 47.5012,
+        "lon": 19.0493,
+        "postalCode": "1051",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Budapest",
+      "urlname": "rladies-budapest"
+    }
+  },
+  {
+    "id": "266577128",
+    "title": "DecembeR",
+    "description": "A novemberi meetup december harmadikára csúszott, de jobb később, mint soha :-)\n\nA helyszín a CEU lesz (Nádor u 15.), azon belül a 101-es terem.\n\nA meetup első részében Pázmándi Eszter folytatja a kezdőknek az R bevezetést, a második részében pedig Daróczi Henriett beszél a vizualizációról.\n\nBevezetés a tidyverse és tidy data univerzumába\n\nKiknek ajánljuk?\n- akik most ismerkednek az R világával\n- akik részt vettek az októberi meetupon és szeretnék tovább bővíteni az ott megszerzett tudásukat\n- akik használják az R-t, de egyelőre csak a base R-t ismerik\n- akik már hallottak a tidyr/tidyverse/dplyr/ggplot2 csomagokról, de nem volt még alkalmuk kipróbálni\n- akik adatelemzéssel foglalkoznak\n- de azokat is szívesen látjuk, akik R tudásukat szeretnék felfrissíteni\n\nMit tervezünk?\n- mi az a tidy data? Ki az a Hadley Wickham?\n- dplyr és ggplot2 csomagok használatának a bemutatása.\n- dplyr: \"Grammar of data manipulation\". Adatmanipulácóra használt csomag.\n- ggplot2: \"Grammar of Graphics\". Adatvizualizációra használt csomag.\n\nMi a teendőtök az előadás előtt?\n- install.packages(c(\"dplyr\", \"ggplot2\",\"RColorBrewer\", \"tidyverse\")) CRAN: https://cran.r-project.org/web/packages/tidyverse/index.html\n\nAdat és R kód: https://github.com/eszterrp/r_ladies_1203\n\n----------------------------\n\nAz előadás az adatvizualizáció fontosságát hangsúlyozza gyakorlati példák bemutatásával.\nAz első részben Justin Matejka és George Fitzmaurice (2017) Same stats, different graphs: Datasets with Varied Appearance and Identical Statistics through Simulated Annealing cikkével ismerkedünk meg, majd kapcsolódó példákat nézünk meg a ggplot2, tweenr és gganimate csomagok segítségével.\n\nMi a teendőtök az előadás előtt? Telepítsétek a szükséges packageket az alábbi parancs segítségével:\ninstall.packages(c(\"ggplot2\", \"tweenr\", \"gganimate\", \"transformr\"))",
+    "status": "PAST",
+    "dateTime": "2019-12-03T18:00:00+01:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-budapest/events/266577128/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 41,
+      "waitlistCount": 0,
+      "totalCount": 41
+    },
+    "venues": [
+      {
+        "id": "26739902",
+        "name": "Central European University, Nádor u. 15, Room 101",
+        "address": "Nádor u 15",
+        "city": "Budapest",
+        "state": "al",
+        "country": "hu",
+        "lat": 47.5012,
+        "lon": 19.0494,
+        "postalCode": "meetup1",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Budapest",
+      "urlname": "rladies-budapest"
+    }
+  },
+  {
+    "id": "265113531",
+    "title": "OktóbeR",
+    "description": "Októberben ismét bátorítunk mindenkit, aki még nem foglalkozott R-rel, hogy kezdjen bele. Ehhez egy kezdő R oktatással indítunk, amit Pázmándi Eszter tart.\nTermészetesen azokra is gondoltunk, akik már gyakorlott R felhasználók, nekik a meetup második felében Tarnói Csegne fog exploratory data analysis workshopot tartani a 2019-es useR! konferencián tanultakról, Di Cook “Visualising High-Dimensional Data” című tutorialja alapján.\n\nPázmándi Eszter: R bevezető / ismétlés az alapokról\n\nA workshopot mindazok számára ajánljuk, akik még nem ismerik, most ismerkednek az R programozási nyelvvel vagy szeretnék átismételni az alapokat.\nElőismeretre nincs szükség, de ha van már tapasztalatod más programnyelvekben vagy foglalkozol adatelemzéssel, az mindenképp előnyt jelent.\n\nA főbb témák, amelyeket érinteni tervezünk:\n- mi az az R Studio és hogyan használjuk az R-t?\n- R csomagok, objektumok, adatok beolvasása\n- adatok rendezése és transzformálása\n- adatvizualizáció\n\nR és RStudio telepítési segédletet a következő linken találtok: https://github.com/rladies/meetup-presentations_budapest/blob/master/Meetup_2019_01_21/R_installation_guide_R_Ladies_Meetup_2019_January_HU.pdf\n\nKérünk titeket, hogy vagy otthon készítsétek elő a környezetet a számítógépeteken, vagy érkezzetek az előadások kezdete előtti sávban, hogy legyen idő megtenni a szükséges lépéseket - személyesen többen is tudunk majd segíteni a helyszínen.\n\n------\n\nTarnói Csenge: Exploratory data analysis\n\nAz exploratory data analysis, röviden EDA az adat megismerésére irányuló módszer, aminek fontos eleme a vizualizáció. Az EDA alapvető fontosságú első lépés, megalapozza az adattisztítást, az adattranszformációt és a hipotézis felállítását. Miért? Mert ahhoz, hogy az adatot megtisztítsuk, tudnunk kell hol „piszkos” és milyen problémák vannak vele, az adatok transzformálása előtt pedig érdemes megismerni, hogy milyen értékekből tudunk dolgozni. A folyamat másik célja mintázatok, összefüggések megfigyelése az adathalmazban, amik mentén az elemzés későbbi lépéseiben tovább haladhatunk.\n\nAz anyag a 2019-es UseR! konferencián, Di Cook által tartott „Visualising High-Dimensional Data” című tutorial alapján állt össze. A workshopon röviden ismertetésre kerül az EDA története és fontosabb eszközei, ezután kódolás következik!",
+    "status": "PAST",
+    "dateTime": "2019-10-29T18:00:00+01:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-budapest/events/265113531/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 72,
+      "waitlistCount": 0,
+      "totalCount": 72
+    },
+    "venues": [
+      {
+        "id": "26646856",
+        "name": "Hungarian Central Statistical Office",
+        "address": "Keleti Károly utca 5",
+        "city": "Budapest",
+        "state": "",
+        "country": "hu",
+        "lat": 47.5117,
+        "lon": 19.0309,
+        "postalCode": "1024",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Budapest",
+      "urlname": "rladies-budapest"
+    }
+  },
+  {
+    "id": "264021758",
+    "title": "Highlights from the useR! 2019 conference",
+    "description": "A useR! 2019 konferencia (http://www.user2019.fr) idén Toulouse-ban került megrendezésre, amely 5 magyarországi résztvevője tart fényképes élménybeszámolót, amelyet követően sörözünk és kötetlenül beszélgetünk. Előadók: Alex Trickey, Bérczi András, Czeller Ildikó, Tarnói Csenge és Daróczi Gergely. A találkozót a Budapest-Users-of-R-Network/BURN meetuppal (https://www.meetup.com/Budapest-Users-of-R-Network/) együtt szervezzük, és sok szeretettel várunk minden érdeklődőt. Az előadások várhatóan vegyesen magyar vagy angol nyelven lesznek megtartva.\n\nEnglish summary: Be prepared to recall some slides of the most inspiring talks of the useR! 2019 conference (http://www.user2019.fr) from Toulouse, see featured photos taken at the networking events, hear some backstage stories of the R gurus shared with us in person after the conference hours but not on Twitter yet. Most talks will be in English. Speakers: Alex Trickey, András Bérczi, Ildikó Czeller, Csenge Tarnói and Gergely Daróczi. This is a joint event with the Budapest-Users-of-R-Network/BURN meetup (https://www.meetup.com/Budapest-Users-of-R-Network/).\n\nKorábbi hasonló meetupok / Previous events on useR! conference retrospects:\n- 2014: https://www.meetup.com/Budapest-Users-of-R-Network/events/185043252\n- 2015: https://www.meetup.com/Budapest-Users-of-R-Network/events/222568646\n- 2016: https://www.meetup.com/Budapest-Users-of-R-Network/events/232088178\n- 2017: https://www.meetup.com/Budapest-Users-of-R-Network/events/241089389\n- 2018: https://www.meetup.com/Big-Data-Meetup-Budapest/events/252743344/\n\nEz a BURN meetuppal közös esemény/This is a joint event with BURN meetup: https://www.meetup.com/Budapest-Users-of-R-Network/events/263996546",
+    "status": "PAST",
+    "dateTime": "2019-09-05T18:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-budapest/events/264021758/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 15,
+      "waitlistCount": 0,
+      "totalCount": 15
+    },
+    "venues": [
+      {
+        "id": "26600514",
+        "name": "BME I. épület, I.B 019. terem",
+        "address": "Magyar tudósok körútja 2",
+        "city": "Budapest",
+        "state": "al",
+        "country": "hu",
+        "lat": 47.4744,
+        "lon": 19.0595,
+        "postalCode": "meetup1",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Budapest",
+      "urlname": "rladies-budapest"
+    }
+  },
+  {
+    "id": "262891215",
+    "title": "Data Summer Night meetup",
+    "description": "Join us for a Data Summer evening and chat with fellow data people!\nNo presentations this time, just free discussions, food and drinks (pay for your own).\n\nThis event is English& Hungarian speaking.",
+    "status": "PAST",
+    "dateTime": "2019-07-17T19:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-budapest/events/262891215/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 8,
+      "waitlistCount": 0,
+      "totalCount": 8
+    },
+    "venues": [
+      {
+        "id": "26497039",
+        "name": "Jégkert",
+        "address": "Bakfark Bálint utca 2",
+        "city": "Budapest",
+        "state": "",
+        "country": "hu",
+        "lat": 47.5091,
+        "lon": 19.0286,
+        "postalCode": "1027",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Budapest",
+      "urlname": "rladies-budapest"
+    }
+  },
+  {
+    "id": "262381722",
+    "title": "$ git init [Tensorflow]",
+    "description": "A júniusi szezonzáró meetup első felében megismerkedhetünk a git verziókezelő használatával Nagy Tamás előadásában.\n\nA git (és a rá épülő Github) jelenleg az egyik legnépszerűbb verziókövetési rendszer. Lehetővé teszi, hogy hozzáférjünk a kódunk korábbi vagy alternatív változataihoz, a felhőben tárolva megosszuk elemzéseinket, közreműködőket vonjunk be, és bejelentsünk vagy számon tartsuk az ismert hibákat transzparens és visszakövethető módon.\nA nyílt tudomány terjedésével a git használata a kutatók számára is megkerülhetetlenné válik. Azonban a szokatlan terminológia és parancsoros vezérlés sokszor elriasztja azokat, akik nem akarnak elmélyedni a git részleteiben. Ez a workshop azoknak szól, akik szeretnék kihasználni a git(hub) előnyeit anélkül, hogy ki kellene lépniük az RStudio nyújtotta kényelemből.\n\nFő témák: verziókövetés, git és github, repository, clone, fork, save/commit/push, diff, stage, remote, pull, branch, pull request, merge\n\nTelepítendő program: git https://git-scm.com/downloads\n\n------------------------------------------------------------------------------------------------------\n\n2018 óta R-ben is elérhető a Google Machine Learning könyvtára a Tensorflow. Az esemény második felében Tóth Árpád fog bevezetni minket a Tensorflow világába.\n\nA wokrshop a következő témákat fogja érinteni:\n- Neurális hálók\n- Tensorflow\n- Neurális hálók implementálása Keras-szal\n- a híres MNIST klasszifikációs modell implemetálása\n- Tensorflow estimators API\n- Tensorflow Base API\n\nA workshop előtt kérjük telepítsétek a Tensorflow-t. A telepítéshez szükséges instrukciókat a következő linken találjátok: https://github.com/arptoth/tensorflow-in-r",
+    "status": "PAST",
+    "dateTime": "2019-06-25T18:00:00+02:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-budapest/events/262381722/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 44,
+      "waitlistCount": 0,
+      "totalCount": 44
+    },
+    "venues": [
+      {
+        "id": "26131126",
+        "name": "Central European University",
+        "address": "Budapest, Nádor utca 15., Room 103.",
+        "city": "Budapest",
+        "state": "al",
+        "country": "hu",
+        "lat": 47.5012,
+        "lon": 19.0494,
+        "postalCode": "meetup1",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Budapest",
+      "urlname": "rladies-budapest"
+    }
+  },
+  {
+    "id": "261344602",
+    "title": "function(May) {Code it clean}",
+    "description": "\"Tiszta\" kódolás R-ben\n\nEgy workshop szerű alkalmon egy kisebb adatelemzési feladaton keresztül arról fogunk tanulni, hogy miért érdemes függvényeket írni, milyen a jó függvény. Jó függvények segítségével könnyebben olvasható, módosítható és újrahasználható kódot kapunk.\n\n---------------------------------------------------------------------------------------------------\n\nA májusi (és egyben valószínűleg szezonzáró) meetupunkon Pál Jenő és Czeller Ildikó fogja a fenti témát bemutatni - nagyszerű alkalom a kódminőségünk fejlesztésére, amit később bármilyen projektünk során kamatoztathatunk (és nem csak R-ben).\n\nTovábbi részletek az esemény kapcsán a következő hetekben érkeznek.",
+    "status": "PAST",
+    "dateTime": "2019-05-30T18:00:00+02:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-budapest/events/261344602/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 55,
+      "waitlistCount": 0,
+      "totalCount": 55
+    },
+    "venues": [
+      {
+        "id": "26390485",
+        "name": "CEU",
+        "address": "Nádor utca 15., Room 101.",
+        "city": "Budapest",
+        "state": "al",
+        "country": "hu",
+        "lat": 47.5012,
+        "lon": 19.0494,
+        "postalCode": "meetup1",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Budapest",
+      "urlname": "rladies-budapest"
+    }
+  },
+  {
+    "id": "260500061",
+    "title": "edit(Google Sheet + Calendar)",
+    "description": "Az áprilisi meetup első felében megismerkedhetünk a Google termékek, egész pontosan a Google Sheet és Google Calendar módosításainak módszerével az R segítségével.\nA mai világban a kollaboratív felületek, megosztott naptárak vagy épp több ember által szerkeszthető táblázatok egyre elterjettebbek, így egyre többször fordulhat elő, hogy az adataink is ilyen formárban érhetőek el. Az R segítségével lehetőség van a Google online táblázataihoz csatlakozni, módisítani, elemezni azt, vagy éppen automatizálni, személyre szabni a naptárunk frissítését.\nA meetupon két csomag segítségével fogunk csatlakozni a Google alkalmazásaihoz, táblázatot létrehozni, módosítani, majd pedig mindezekből egy naptárat készíteni.\nAz adat amit használni fogunk a hétvége folyamán lesz elérhető a lenti linken található mappában.\n\nSzükséges csomagok (telepítési segítség a lenti linken):\n- googlesheets\n- googlecalendar\n\nA meetup második felében folytatjuk tovább a vizualizációs ismereteink gyakorlását az aktuális TudyTuesday kihívás adatainak segítségével, melyet az alábbi linkem már el is érhettek.\n\nMeetup mappája:\n- https://github.com/rladies/meetup-presentations_budapest/tree/master/Meetup_2019_04_29",
+    "status": "PAST",
+    "dateTime": "2019-04-29T18:00:00+02:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-budapest/events/260500061/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 28,
+      "waitlistCount": 0,
+      "totalCount": 28
+    },
+    "venues": [
+      {
+        "id": "26131126",
+        "name": "Central European University",
+        "address": "Budapest, Nádor utca 15., Room 103.",
+        "city": "Budapest",
+        "state": "al",
+        "country": "hu",
+        "lat": 47.5012,
+        "lon": 19.0494,
+        "postalCode": "meetup1",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Budapest",
+      "urlname": "rladies-budapest"
+    }
+  },
+  {
+    "id": "259756093",
+    "title": "barplot(practise)",
+    "description": "A márciusi meetup-on a vizualizáció készítésre fogunk fókuszálni.\nA rendezvény első felében Milibák Eszter mutat érdekes és hasznos vizualizáció készítési tippeket.\n\nAz R-felhasználók körében az adatvizualizáció egyik legnépszerűbb eszköze a ggplot2, melynek segítségével könnyen és rugalmasan készíthetünk áttekinthető, esztétikus ábrákat adatainkból. A meetup első felében tartott workshop keretében egy elképzelt csokoládégyár adatain dolgozva megismerkedünk az adatelőkészítés lépéseivel, a wide és a long adatformátumok közötti váltás módszerével. Ezután áttekintjük a stacked bar chartok és a multiple line charok készítésének és testreszabásának részleteit. Végül a ggplot2 egyik kiegészítő csomagja, a cowplot segítségével mini-dashboardon egyesítjük az elkészült ábrákat.\n\nA workshop előtt telepítendő csomagok:\nplyr\ndplyr\ntidyr\nggplot2\ncowplot\n\nTovábbá ajánlott az alábbi cheat sheet letöltése és használata: https://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf\n\nA szükséges adatokat a githubról tudjátok letölteni:\nhttps://github.com/rladies/meetup-presentations_budapest/tree/master/Meetup_2019_03_28\n\nA meetup második felében pedig egy közös gyakorlásra invitálunk titeket.\nA workshop keretein belül bekapcsolódunk kicsit a nemzetközi R közösségbe, a TidyTuesday aktuális kihívását vesszük alapul. A TidyTuesday mozgalom lényege, hogy minden kedden felkerül egy témakörrel kapcsolatban adat,amelyet a vállalkozó kedvűek megtisztítanak és vizualizálnak R-t használva, lehetőleg a Tidyverse package segítségével.\nA meetupon az épp aktuális adathalmazzal fogunk dolgozni, önállóan vagy csapatban dolgozzuk fel, és a végén megosztjuk egymással a tapasztalatokat.",
+    "status": "PAST",
+    "dateTime": "2019-03-28T18:00:00+01:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-budapest/events/259756093/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 38,
+      "waitlistCount": 0,
+      "totalCount": 38
+    },
+    "venues": [
+      {
+        "id": "26246638",
+        "name": "Oktober Hall, CEU",
+        "address": "Október 6. utca 7.",
+        "city": "Budapest",
+        "state": "al",
+        "country": "hu",
+        "lat": 47.5003,
+        "lon": 19.0512,
+        "postalCode": "meetup1",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Budapest",
+      "urlname": "rladies-budapest"
+    }
+  },
+  {
+    "id": "258537024",
+    "title": "# R Markdown + Machine learning",
+    "description": "Februárban 2 éves az R-Ladies meetup!\n\nEnnek örömére nagyszerű programmal várunk titeket! :-)\n\nKét előadónk lesz szokás szerint. Daróczi Gergely, a magyar és nemzetközi R közösség elismert tagja R markdown-ról fog beszélni, Szabó Zsuzsi pedig machine learning case study-t fog bemutatni. A részleteket és a menetrendet már alább olvashatjátok.\n\n17:45-18:00 Előkészületek\n\n18:00-19:00 Szavakba öntött adatelemzés R markdown-nal - Daróczi Gergely\n\nAz R nyelvet általában a modellező vagy az adatvizualizációs eszközeinek köszönhetően ismerik, pedig azokon túl számos egyéb előnnyel is rendelkezik más adatelemzéssel kapcsolatos programozási nyelvekhez és környezetekhez képest -- ezek egyike a szöveges riportok (pl Word, PDF vagy HTML weblap) készítésének egyszerűsége.\nA workshop a literate programming és reproducible research történetének rövid bemutatásával indul arra fókuszálva, hogy hogyan ágyazhatunk be és futtathatunk programkódot egy szöveges dokumentumba annak elkerülése érdekében, hogy adatokat / eredményeket / táblázatokat / ábrákat copy&paste másolgassunk dokumentumaink között; majd példakódok segítségével ismerkedünk meg a markdown formátummal, továbbá különböző típusú szöveges dokumentumokat készítünk szövegközi eredmények, automatikusan generált táblázatok és ábrák, továbbá interaktív elemek használatával.\n\n19:00-19:30 Szünet\n\n19:30-20:30 Jósoljuk meg a beton szilárdságát gépi tanulással - Szabó Zsuzsanna\n\nÉpített környezetünk egyik fő anyaga a beton. Ennek szilárdsága igen fontos kérdés, hisz biztonságunk függ tőle. Milyen paraméterek befolyásolják a cementből és egyéb összetevőkből kikevert beton szilárdságát? A szilárdságot a receptúra alapján meg tudjuk jósolni? Ezekre és hasonló kérdésekre keressük majd a választ. A workshop során a gépi tanulás (machine learning) gyakorlati alkalmazását próbálhatjátok ki egy esettanulmányon keresztül.\nFile-ok itt: https://drive.google.com/drive/folders/1LLRaT28_l5MTL_09gO1_JtQxH2u45Lsp?usp=sharing\n\n20:30-21:00 Késések behozása :D és networking\n\nFONTOS!\n\nFrissítsétek az R-t (most sajnos tényleg hibát okozhat, ha ez elmarad)\n\nAz alábbi csomagokat telepítsétek:\n\nknitr\nrmarkdown\nshiny\npander\n\ncaret\nrandomForest\nAppliedPredictiveModeling",
+    "status": "PAST",
+    "dateTime": "2019-02-18T18:00:00+01:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-budapest/events/258537024/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 60,
+      "waitlistCount": 0,
+      "totalCount": 60
+    },
+    "venues": [
+      {
+        "id": "26131126",
+        "name": "Central European University",
+        "address": "Budapest, Nádor utca 15., Room 103.",
+        "city": "Budapest",
+        "state": "al",
+        "country": "hu",
+        "lat": 47.5012,
+        "lon": 19.0494,
+        "postalCode": "meetup1",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Budapest",
+      "urlname": "rladies-budapest"
+    }
+  },
+  {
+    "id": "257810170",
+    "title": "renderPrint({ \"Restart and shine some Bitcoins\"})",
+    "description": "Boldog Új Évet minden lelkes R-Ladies tagnak!\n\nÚj energiákkal feltöltődve visszatérünk meetupjaink hagyományosabb formátumához, és két workshop jellegű előadással indítjuk az évet. Az este első felében lehetőséget kínálunk újabb tagjaink számára az R alapok megismerésére illetve felelevenítésére, a második felvonásban pedig interaktív Shiny applikáció építéssel és adatvizualizációval fogunk foglalkozni, egy Bitcoin tranzakciós adatforrást elemezve.\n\n17:30 - 18:00 | Megérkezés, előkészületek\n\n18:00 - 18:45 | Bevezetés / ismétlés az R alapokról (Klein Rita)\n\n18:45 - 19:00 | Szünet, frissítők\n\n19:00 - 20:15 | Blockchain, bitcoin, social networks - ismerkedés a fentiekkel egy Shiny applikáción keresztül (Orsós Mihály)\n\n20:15 - 21:00 | Levezetés, pizzázás, beszélgetés\n\nAz előadások tervezett tartalmát a lentiekben olvashatjátok, a szükséges anyagokat pedig az alábbi linken érhetititek el (folyamtosan kerülnek feltöltésre):\n\nhttps://github.com/rladies/meetup-presentations_budapest/tree/master/Meetup_2019_01_21\n\n--------------------------------------------------------------------------------------------\n\nKlein Rita: Bevezetés / ismétlés az R alapokról\n\nMindazok számára, akik most ismerkednek az R programozás világávál, szeretnénk egy gyors áttekintést adni a legfontosabb funkciókról, amik segíthetik a további elmélyülést, illetve remélhetőleg emészhetőbbé teszik a második előadás témáit is.\nElőismeretekre nincs szükség, de természetesen ha már van tapasztalatod más programnyelvekkel, illetve adatelemzési rutinokkal, az megkönnyíti a helyzetet.:)\n\nA főbb pontok amikkel megismerkedünk:\n- mi az RStudio és hogyan használjuk segítségével az R-t\n- mit tud egy R csomag, hogyan fedezzük fel, töltsük be és használjuk őket\n- milyen R objektumok és alap adatípusok vannak\n- hogyan olvassunk be adatokat különféle formátumokból és forrásokból\n- hogyan rendezzük, transzformáljuk és ábrázoljuk az adatainkat\n\nR és RStudio telepítési segédletet a fenti linken találtok - kérünk titeket, hogy vagy otthon készítsétek elő a környezetet a számítógépeteken, vagy érkezzetek az előadások kezdete előtti sávban, hogy legyen idő megtenni a szükséges lépéseket - személyesen többen is tudunk majd segíteni a helyszínen.\n\n--------------------------------------------------------------------------------------------\n\nOrsós Mihály: Blockchain, bitcoin, social networks - ismerkedés a fentiekkel egy Shiny applikáción keresztül\n\nHallottál már a Blockchainről? Esetleg a bitcoinról? Na és tudod-e, hogy létezik már egy Blockchain technológiára épülő social media network, a steemit.com? A steemit minden egyes tranzakciója publikusan bárki számára elérhető és lekérdezhető.\n\nAz előadás során megismerkedhettek a shiny nagyon egyszerű logikájával. Megtanuljátok mi az a render, reactive value és hogy miért tartom jobbnak a plotly-t a ggplotnál.\nTovábbá tanulmányozunk egy shiny alkalmazást, amely a steem blockchainen található tranzakciókat ábrázolja interaktív grafikonokon és teszi letölthetővé. A google analytics lehetővé teszi, hogy akár realtime monitorozd az alkalmazás nézettségét. Majd megismerhettek egy helyet, ahova ingyen lehet publikálni shiny alkalmazást.\nBeszélünk arról is, hogy miért kell egy kis python tudás is az R-mellé, továbbá hogyan legyen átlátható, könnyen olvasható a shiny/R kódod.\n\nA workshop során az alábbi csomagokat fogjuk használni, ha még nem használtátok őket, akkor érdemes őket előre telepíteni:\n\n“shiny”\n“plotly”\n“DT”\n“data.table”\n“shinythemes”\n“shinycssloaders”\n“shinydashboard”\n--------------------------------------------------------------------------------------------",
+    "status": "PAST",
+    "dateTime": "2019-01-21T17:30:00+01:00",
+    "duration": "PT3H30M",
+    "eventUrl": "https://www.meetup.com/rladies-budapest/events/257810170/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 80,
+      "waitlistCount": 0,
+      "totalCount": 80
+    },
+    "venues": [
+      {
+        "id": "26045049",
+        "name": "AEGON Magyarország Általános Biztosító Zrt.",
+        "address": "Üllői út 1",
+        "city": "Budapest",
+        "state": "",
+        "country": "hu",
+        "lat": 47.4893,
+        "lon": 19.0621,
+        "postalCode": "1091",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Budapest",
+      "urlname": "rladies-budapest"
+    }
+  },
+  {
+    "id": "267086359",
+    "title": "rstudio::conf(2020) Watch Parties Budapest",
+    "description": "\"rstudio::conf, the conference for all things R and RStudio, will take place January 29 and 30, 2020 in San Francisco, California.\" The host is Hadley Wickham, Chief Scientist of RStudio, and the keynote speakers are Hilary Parker (Stitch Fix), Roger Peng (Johns Hopkins), Martin Wattenberg, Fernanda Viegas (Research Scientists, Google), Jenny Bryan (Engineer, RStudio) and JJ Allaire (CEO, RStudio).\n\nWe got invited to join this exciting event together via the so called watch parties where we watch first the pre-game event just before the first keynote. \"This live-streamed pre-game event will feature short interviews with folks from RStudio as well as the wider R-Community. During this event the attendees at the watch parties will have an opportunity to interact with the host and guests in real time. The pre-game event will lead directly into the keynote and session live-streams.\"\n\nYou may find the agenda here: https://web.cvent.com/event/36ebe042-0113-44f1-8e36-b9bc5d0733bf/websitePage:34f3c2eb-9def-44a7-b324-f2d226e25011\n\nWe will be able to pose questions to the speakers as we were in San Francisco.\n\nThis is a joint meetup with Budapest Users of R Network: https://www.meetup.com/Budapest-Users-of-R-Network/events/267086622\n\nMore info about the live stream, session talk Q&A, etc.:\nhttps://community.rstudio.com/t/about-watch-parties-at-rstudio-conference/48790",
+    "status": "PAST",
+    "dateTime": "2020-01-29T17:00:00+01:00",
+    "duration": "PT8H",
+    "eventUrl": "https://www.meetup.com/rladies-budapest/events/267086359/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 25,
+      "waitlistCount": 0,
+      "totalCount": 25
+    },
+    "venues": [
+      {
+        "id": "26811675",
+        "name": "Nádor u. 9.",
+        "address": "Nádor u. 9.",
+        "city": "Budapest",
+        "state": "al",
+        "country": "hu",
+        "lat": 47.5005,
+        "lon": 19.0496,
+        "postalCode": "meetup1",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Budapest",
+      "urlname": "rladies-budapest"
+    }
+  },
+  {
+    "id": "288917708",
+    "title": "tRansfoRmeRs",
+    "description": "R and R-Ladies meetups are back! This time we are focusing on a new topic at a new venue, but having good ol' pizza and beers after the talks :) Come and meet the core and new members of the local R community!\nWe will start with an introductory talk on transformers by Balint, then Misi will download images of famous NFTs, and Gergo will call OpenAI's CLIP model to generate captions for those:\n\n**Bálint Kovács: Transformers are taking over.**\n*Data scientist @ Starschema*\nTransformers are a family of neural networks that achived breakthroughs first in natural language processing, but now are adapted to many other areas. The concepts behind these models will be introduced during the talk, including the attention mechanism and how it can be adapted to different use-cases.\n\n**Mihály Orsós: The $3 billion ape.**\n*Founder @ Bull Ranks*\n\n**Gergely Daróczi: Calling Python from R to generate image captions.**\n*Sr. dir. of data ops @ System1*\nUsing R for image processing might raise a few eyebrows, but since calling Python (or Java, Rust, or C++) has became even easier and less surprising than running C and Fortran code at the end of the day .. we can do everything from R -- sticking to our loved user interface and programming language :) This talk will introduce a company hackathlon project, where we have created tools using R (Shiny) and Python (OpenAI's CLIP model) to auto-generate and manage captions for images.\n\nAgenda:\n18:00 Doors open\n18:15 Talk by Balint Kovacs\n18:45 Talk by Mihaly Orsos\n19:00 Talk by Gergely Daroczi\n19:30 Networking\n\nThis is a joint meetup with [Budapest Users of R Network](https://www.meetup.com/budapest-users-of-r-network/), and kindly hosted by and sponsored by Starschema.",
+    "status": "PAST",
+    "dateTime": "2022-10-11T18:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-budapest/events/288917708/",
+    "featuredEventPhoto": {
+      "id": "507565918",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/5/3/e/highres_507565918.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/5/3/e/600_507565918.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/5/3/e/thumb_507565918.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 6,
+      "waitlistCount": 0,
+      "totalCount": 6
+    },
+    "venues": [
+      {
+        "id": "27346170",
+        "name": "Forgách u. 2",
+        "address": "Forgách utca 2",
+        "city": "Budapest",
+        "state": "",
+        "country": "hu",
+        "lat": 47.5397,
+        "lon": 19.0706,
+        "postalCode": "1139",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Budapest",
+      "urlname": "rladies-budapest"
+    }
+  },
+  {
+    "id": "286540036",
+    "title": "Recovery mixeR powered by Budapest Users of R Network",
+    "description": "Sziasztok!\n\nSzeretnénk mindenkit meginvitálni a [Budapest Users of R Network](https://www.meetup.com/budapest-users-of-r-network/) meetupjára, június 29, szerda 18:00-ra.\n\nA meetup leírását alább találjátok, az esemény linkjét pedig [itt](https://www.meetup.com/Budapest-Users-of-R-Network/events/286460893/):\n\nCurrent list of planned talks:\n\n* **Ágoston Reguly (CEU): Introducing students to data analysis with R**\n\nI have put together an R coding lecture at CEU to introduce students to coding with R. Now it is officially available at github: https://github.com/gabors-data-analysis/da-coding-rstats I would love to share the logic behind the course and would be curious about feedbacks\n\n* **Berta Böjte (Starschema): Q-method - A special kind of Factor Analysis**\n\nDuring my thesis I conducted an analytical study of an e-learning system using the so called Q-method. It's a special case for factor analysis that helps identify opinions about a topic. The language of the analysis was R, building on data.table and the qmethod package, which is created especially to support these kind of analysis. In my talk I would like to briefly introduce this analytical method and how the mentioned R package made it really easy to execute.\n\n* **Gergely Daroczi (Rx Studio Inc): Internationalization of R packages**\n\nQuick demo on r18r (R package to extract terms to be translated from R packages and manage translations along with translator comments) and Weblate (web frontend to translate PO files).\n\n* **Kristof Kelemen: ggprism**\n\nI was challenged recently with a task to produce figures similar to GraphPad Prism output and stumbled upon ggprism package. While this might sound too specific, there is some merit to its functions for all those who want to produce nice-looking graphs with high information content.\n\n* **Dénes Tóth: R in Visual Studio Code**\n\nIn the R world, RStudio IDE is the most beloved development environment tool, whereas outside of it, it is Visual Studio Code which takes the lead. In this talk I will present its R extension (vscode-R) and why (and when) you should consider to switch to it.\n\nAfter a long break, we are rebooting the R meetup and I am really looking forward to meeting you all again in person!\n\nInstead of hosting a longer technical talk, we decided to have multiple shorter talks this time, where any member of the community can share about an R package, an R-based project, or simply about their passion for R.\n\nIf interested in giving a 5 mins talk (freestyle, either in Hungarian or English), please fill out this form: [https://forms.gle/gMXypczqZoLbVaYD7](https://forms.gle/gMXypczqZoLbVaYD7)\n\nIf not willing to speak this time -- no worries, please join us for the talks and the networking event afterwards.\n\nThis meetup is kindly hosted at and sponsored by CEU. Food (pogacsa) and drinks (beer, wine, mineral water) will be served onsite after the talks, and we will also make table reservations in a nearby pub after 8.30 pm.",
+    "status": "PAST",
+    "dateTime": "2022-06-29T18:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-budapest/events/286540036/",
+    "featuredEventPhoto": {
+      "id": "504979545",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/c/5/9/highres_504979545.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/c/5/9/600_504979545.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/c/5/9/thumb_504979545.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "26344522",
+        "name": "CEU Nador 15 building",
+        "address": "Nádor utca 15",
+        "city": "Budapest",
+        "state": "",
+        "country": "hu",
+        "lat": 47.5012,
+        "lon": 19.0493,
+        "postalCode": "1051",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Budapest",
+      "urlname": "rladies-budapest"
+    }
+  },
+  {
+    "id": "296054984",
+    "title": "bioinfoRmatics by Budapest Users of R Network",
+    "description": "## Details\n\nÚj, R témájú meetupot hirdetett a [Budapest Users of R Network](https://www.meetup.com/budapest-users-of-r-network/), amelyet szeretnénk mi is a figyelmetekbe ajánlani. A kiírás szövegét alább találjátok, illetve az [eredeti eseményt itt éritek el](https://www.meetup.com/budapest-users-of-r-network/events/295764622/).\n\nFor full agenda please check out the original event in [this link](https://www.meetup.com/budapest-users-of-r-network/events/295764622/).\n\nThe next R meetup is coming up in October with exciting topics from bioinformatics and life sciences, and I am very much looking forward to meeting you all!\n\n* If you are interested in giving a 5-15 mins talk (freestyle, either in Hungarian or English), please [let us know](https://docs.google.com/forms/d/e/1FAIpQLSf5po7xsO6-lR7xbWca-TZ9XvkVZ01zYaR1qHEVeWwBC48fIA/viewform).\n* If you are not willing to speak this time -- no worries; please join us for the talks and the networking event afterward.\n\nMore details coming soon -- RSVP now to be notified about the related updates :)\nThis is a joint meetup with [R Ladies Budapest](https://www.meetup.com/rladies-budapest/), co-organized with [DS&ME](https://dsandme.com/), and kindly hosted by [CEU](https://ceu.edu/). Food (pizza) and drinks will be served onsite after the talks, and we will also make table reservations in a nearby pub after 9.00 pm.",
+    "status": "PAST",
+    "dateTime": "2023-10-03T18:00:00+02:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-budapest/events/296054984/",
+    "featuredEventPhoto": {
+      "id": "515821940",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/9/4/highres_515821940.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/9/4/600_515821940.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/9/4/thumb_515821940.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 8,
+      "waitlistCount": 0,
+      "totalCount": 8
+    },
+    "venues": [
+      {
+        "id": "26344522",
+        "name": "CEU Nador 15 building",
+        "address": "Nádor utca 15",
+        "city": "Budapest",
+        "state": "",
+        "country": "hu",
+        "lat": 47.5012,
+        "lon": 19.0493,
+        "postalCode": "1051",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Budapest",
+      "urlname": "rladies-budapest"
+    }
+  }
+]

@@ -1,0 +1,251 @@
+[
+  {
+    "id": "255370238",
+    "title": "Hadley Wickham - Presentation at Emory University Oct 16",
+    "description": "** REGISTER AT EMORY LINK BELOW **\n** DO NOT RSVP HERE AT R-LADIES **\n\n================================\nEmory University Rollins School of Public Health Biostatistics Department & Nell Hodgson Woodruff School of Nursing; Georgia Chapter of the ASA and R-Ladies of Atlanta are Excited to Sponsor:\n\nLiving a Reproducible Life\nGUEST SPEAKER: Hadley Wickham\nChief Scientist RStudio\n\nOctober 16, 2018: 4:00 – 5:30 pm\nEmory University\n1440 Clifton Road, Atlanta, GA 30322\nWoodruff Health Sciences Center Administration Building (WHSCAB) Auditorium\n\nBIO: Hadley Wickham is the Chief Scientist at RStudio. He is interested in building tools (computational and cognitive) that make data ingest, preparation, manipulation, visualization and analysis easier. He's developed over 30 R packages, for data analysis (ggplot2, dplyr, tidyr), making frustrating parts of R easier to use (lubridate for dates, stringr for strings, httr for accessing web APIs), and for streamlining the R package development (devtools, roxygen2, and testthat).\n\nSUMMARY: Dr. Wickham will discuss the benefits for reproducibility on the small scale (e.g. a single scientific paper) which are clear: anything that can be reified and made explicit in code, should be made explicit in code. In this talk, he'll discuss how reproducibility has escaped journal articles in his life and influences almost everything he does. He'll discuss three unexpected venues of reproducibility in his life:\n\n1. “Writing reproducible books with bookdown, which allows me to generate html, pdf, and epub versions of the text with a press of a key.”\n2. “Writing reproducible blog posts with blogdown, which makes easy to intermingle code and prose in low-stakes explanations of my work.”\n3. “Generating reproducible emails to track shared water usage and inform my neighbours when they owe me money!”\n\nHe'll also touch on the intersection of reproducibility and software development, highlighting best practices like unit testing, code coverage, and continuous integration.\n\nDirections/Parking: see details at https://melindahiggins2000.github.io/HadleyWickham_Oct2018/\n\nREGISTER AT THIS LINK ONLY https://eventactions.com/eareg.aspx?ea=Rsvp&invite=gwump82y45b2ccrggusxhyp5gcm5v88cn8hdhgkyc4wd1e7whw45",
+    "status": "PAST",
+    "dateTime": "2018-10-16T16:00:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-atlanta/events/255370238/",
+    "featuredEventPhoto": {
+      "id": "475275319",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/b/d/7/highres_475275319.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/b/d/7/600_475275319.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/b/d/7/thumb_475275319.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 10,
+      "waitlistCount": 0,
+      "totalCount": 10
+    },
+    "venues": [
+      {
+        "id": "25144449",
+        "name": "WHSCAB Building",
+        "address": "1440 Clifton Road",
+        "city": "Atlanta",
+        "state": "GA",
+        "country": "us",
+        "lat": 33.7945,
+        "lon": -84.3214,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Atlanta",
+      "urlname": "rladies-atlanta"
+    }
+  },
+  {
+    "id": "253750712",
+    "title": "Learn about Data Wrangling in R",
+    "description": "R Ladies of Atlanta, get ready for our second event and it will be an exciting one!\nWe have the honor of bringing in guest speaker, Rob Stilson who will be introducing us to data wrangling with R.\n\nAt this meetup, you will learn about data wrangling in R via the tidyverse (specifically dplyr) where you will explore the various verbs (slice, select, filter, mutate, etc.) in order to get data into a specific format. Additionally, we will briefly touch on exporting the resulting data frames and tables in to a multi-tab Excel format.\n\nPlease bring a charged laptop and make sure you have R and RStudio downloaded ready to go.\n\nTo download R: https://cloud.r-project.org\n\nTo download RStudio: http://www.rstudio.com/download\n\nFollow the instructions to download and install.\n\nAll R proficiency levels are welcome!\n\nPlease check-in via the Guest Registration Tablet at the Front Desk and select my name \"Emilie Seena\" as your host. Also, please bring a photo ID.\n\nWework do not offer validation for parking but feel free to park in the Tower Place 100 garage, located on Tower Place Drive, just across from the Doubletree Hotel. Once you’ve parked, you’ll want to exit the garage using same front entrance you drove into. The tall glass building (Tower Place 100) should be to your right. Take a right onto the sidewalk towards it. You will pass Buckhead Document Pros & Buckhead Bridal on your right. Keep going, you’re almost there! At this point, you should be in view of our WeWork Tower Place South building. To get to WeWork Tower Place North, veer to your right to continue walking towards the open courtyard area (outside of AMC Fork & Screen). You’re headed in the right direction if you can see a white WeWork sign in the courtyard just in front of a large grey staircase with orange tracks. Follow the orange tracks up the large staircase. The main entrance to WeWork Tower Place North will be on your right.",
+    "status": "PAST",
+    "dateTime": "2018-09-05T18:30:00-04:00",
+    "duration": "PT1H15M",
+    "eventUrl": "https://www.meetup.com/rladies-atlanta/events/253750712/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 15,
+      "waitlistCount": 0,
+      "totalCount": 15
+    },
+    "venues": [
+      {
+        "id": "11924932",
+        "name": "WeWork Tower Place",
+        "address": "3340 Peachtree Rd NE",
+        "city": "Atlanta",
+        "state": "GA",
+        "country": "us",
+        "lat": 33.8474,
+        "lon": -84.3709,
+        "postalCode": "30326",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Atlanta",
+      "urlname": "rladies-atlanta"
+    }
+  },
+  {
+    "id": "250070092",
+    "title": "ATL Chapter First Meeting ",
+    "description": "Introduction to R and RStudio\n\nR-Ladies Atlanta will be running few sessions for Beginners! There will be a short intro to RStudio, R basics and we will have a short workshop on creating a website using blogdown and RStudio. Our co-founder, Melinda Higgins will be leading this workshop!\nThere will be time for Q&A and/or any R questions you may have.\n\nPlease bring a charged laptop and make sure you have R and RStudio downloaded ready to go.\n\nTo download R: https://cloud.r-project.org\n\nTo download RStudio: http://www.rstudio.com/download\n\nFollow the instructions to download and install.\n\nAll R proficiency levels are welcome!\n\nPlease check-in via the Guest Registration Tablet at the Front Desk and select my name \"Emilie Seena\" as your host. Also, please bring a photo ID.\n\nWework do not offer validation for parking but feel free to park in the Tower Place 100 garage, located on Tower Place Drive, just across from the Doubletree Hotel. Once you’ve parked, you’ll want to exit the garage using same front entrance you drove into. The tall glass building (Tower Place 100) should be to your right. Take a right onto the sidewalk towards it. You will pass Buckhead Document Pros & Buckhead Bridal on your right. Keep going, you’re almost there! At this point, you should be in view of our WeWork Tower Place South building. To get to WeWork Tower Place North, veer to your right to continue walking towards the open courtyard area (outside of AMC Fork & Screen). You’re headed in the right direction if you can see a white WeWork sign in the courtyard just in front of a large grey staircase with orange tracks. Follow the orange tracks up the large staircase. The main entrance to WeWork Tower Place North will be on your right.",
+    "status": "PAST",
+    "dateTime": "2018-05-29T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-atlanta/events/250070092/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 48,
+      "waitlistCount": 0,
+      "totalCount": 48
+    },
+    "venues": [
+      {
+        "id": "11924932",
+        "name": "WeWork Tower Place",
+        "address": "3340 Peachtree Rd NE",
+        "city": "Atlanta",
+        "state": "GA",
+        "country": "us",
+        "lat": 33.8474,
+        "lon": -84.3709,
+        "postalCode": "30326",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Atlanta",
+      "urlname": "rladies-atlanta"
+    }
+  },
+  {
+    "id": "266492000",
+    "title": "Sports Analytics and R Shiny",
+    "description": "If you missed our Hawks meeting last time, and want to know more about sports Analytic. Sara Khan will be speaking at Emory this afternoon, Friday November 15\n\nSara Khan will be giving a talk on Sports Analytics and R Shiny. She will lead an overview of how to integrate R with sports analytics. The talk will focus on integrating R Shiny to create an interactive dashboard on viewing Player Efficiency Ratings. A brief tutorial on R Shiny will also be included.\n\nPlease RSVP here: https://emory.campuslabs.com/engage/event/5142090",
+    "status": "PAST",
+    "dateTime": "2019-11-15T15:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-atlanta/events/266492000/",
+    "featuredEventPhoto": {
+      "id": "486664749",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/2/8/d/highres_486664749.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/2/8/d/600_486664749.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/2/8/d/thumb_486664749.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 1,
+      "waitlistCount": 0,
+      "totalCount": 1
+    },
+    "venues": [
+      {
+        "id": "1447426",
+        "name": "Emory University",
+        "address": "205 White Hall, 301 Dowman Drive",
+        "city": "Atlanta",
+        "state": "GA",
+        "country": "us",
+        "lat": 33.7909,
+        "lon": -84.3259,
+        "postalCode": "30322",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Atlanta",
+      "urlname": "rladies-atlanta"
+    }
+  },
+  {
+    "id": "265211260",
+    "title": "Welcome to the Tidyverse: An Introduction to R for Data Science",
+    "description": "R-Ladies Atlanta - you may be interested in attending the following 2-day workshop in October 2019.\n\nRegister now for the “Welcome to the Tidyverse: An Introduction to R for Data Science” on October 14-15, 2019! These one-day workshops will cover the basics of data cleanup, analysis, and visualization. This workshop is aimed squarely at people with little or no previous programming experience.\n\nRegister at\n\nhttps://web.cvent.com/event/d99160b2-4b34-4513-a001-58e0e93e13e2/summary",
+    "status": "PAST",
+    "dateTime": "2019-10-14T09:00:00-04:00",
+    "duration": "PT32H",
+    "eventUrl": "https://www.meetup.com/rladies-atlanta/events/265211260/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 6,
+      "waitlistCount": 0,
+      "totalCount": 6
+    },
+    "venues": [
+      {
+        "id": "26095579",
+        "name": "Loudermilk Conference Center",
+        "address": "40 Courtland St NE",
+        "city": "Atlanta",
+        "state": "GA",
+        "country": "us",
+        "lat": 33.7552,
+        "lon": -84.3847,
+        "postalCode": "30303",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Atlanta",
+      "urlname": "rladies-atlanta"
+    }
+  },
+  {
+    "id": "260448837",
+    "title": "Learn about Sports Analytics",
+    "description": "ATL R-Ladies have this awesome opportunity to collaborate with ATL Hawks Data Analytics! We will have the honor of having Sara Khan present us how to use sports dataset in R. We will also have repsentatives from ATL Hawks and special speakers discuss about how statistics and visualization are used in sports. This is a great networking event! Please bring a charged laptop and make sure you have R and RStudio downloaded, and ready to go! All R proficiency levels are welcome! Location will be at the ATL Hawks office. The address will only be given to those who RSVP. Please only RSVP if you plan to attend. A list of guests attending the meetup will be given to ATL Hawks office for security purposes.",
+    "status": "PAST",
+    "dateTime": "2019-04-30T17:45:00-04:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-atlanta/events/260448837/",
+    "featuredEventPhoto": {
+      "id": "480249759",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/6/1/f/highres_480249759.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/6/1/f/600_480249759.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/6/1/f/thumb_480249759.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 29,
+      "waitlistCount": 0,
+      "totalCount": 29
+    },
+    "venues": [
+      {
+        "id": "26356284",
+        "name": "101 Marietta Street",
+        "address": "101 Marietta St NW",
+        "city": "Atlanta",
+        "state": "GA",
+        "country": "us",
+        "lat": 33.7568,
+        "lon": -84.3921,
+        "postalCode": "30303",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Atlanta",
+      "urlname": "rladies-atlanta"
+    }
+  },
+  {
+    "id": "299014224",
+    "title": "R-Ladies ATL Spring 2024 Meeting - March 7",
+    "description": "**R-Ladies ATL Spring 2024 Meeting - March 7, 2024: 6:30 pm - 8:00 pm**\n\nZOOM LINK: [https://zoom.us/j/98619499368?pwd=bkp6TTdBU2xNWlFwTGtsa0FBdStGdz09](https://zoom.us/j/98619499368?pwd=bkp6TTdBU2xNWlFwTGtsa0FBdStGdz09)\n\n**AGENDA:**\n\n* 6:30-7:00 Welcome and Introductions\n* 7:00-7:45 Rmarkdown Explained and Demo (with brief intro to Quarto)\n* 7:45-8:00 Q&A, Open Discussion - Ideas for Next Meeting(s)\n\n**HELPFUL RESOURCES:**\n\n* [RMarkdown Get Started](https://rmarkdown.rstudio.com/lesson-1.html)\n* [RMarkdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)\n* [Quarto Get Started](https://quarto.org/docs/get-started/)\n* [R Ladies Organization](https://rladies.org/)\n\n**MEETING MATERIALS:**\n\n* [Slides](https://melindahiggins2000.github.io/RLadiesATL_03072024/#/title-slide)\n* [Github Repo](https://github.com/melindahiggins2000/RLadiesATL_03072024)",
+    "status": "PAST",
+    "dateTime": "2024-03-07T18:30:00-05:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-atlanta/events/299014224/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 28,
+      "waitlistCount": 0,
+      "totalCount": 28
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Atlanta",
+      "urlname": "rladies-atlanta"
+    }
+  }
+]

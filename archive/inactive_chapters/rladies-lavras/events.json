@@ -1,0 +1,191 @@
+[
+  {
+    "id": "260759422",
+    "title": "1º Meetup R-Ladies Lavras",
+    "description": "Sexta-feira, 31 de maio de 2019\n8h - O que é o R-Ladies? Com Kelly Lima e Paula Santos\n8h30 - GAMLSS e R por Fernanda de Bastiani da UFPE\n9h30 - Café\n10h - Minha primeira aplicação web com Shiny por Paula Santos\n11h - Relatórios Dinâmicos utilizando o Rmarkdown por Kelly Lima\nEvento gratuito! Inscrições: sig.ufla.br",
+    "status": "PAST",
+    "dateTime": "2019-05-31T08:00:00-03:00",
+    "duration": "PT4H",
+    "eventUrl": "https://www.meetup.com/rladies-lavras/events/260759422/",
+    "featuredEventPhoto": {
+      "id": "481014045",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/3/1/d/highres_481014045.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/3/1/d/600_481014045.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/3/1/d/thumb_481014045.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 6,
+      "waitlistCount": 0,
+      "totalCount": 6
+    },
+    "venues": [
+      {
+        "id": "26335882",
+        "name": "Federal University of Lavras",
+        "address": "",
+        "city": "Lavras",
+        "state": "MG",
+        "country": "br",
+        "lat": -21.2293,
+        "lon": -44.9776,
+        "postalCode": "37200-000",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Lavras",
+      "urlname": "rladies-lavras"
+    }
+  },
+  {
+    "id": "271127428",
+    "title": "[MeetUp Online] Word2vec: um gostinho de um algoritmo para PLN",
+    "description": "Palestrante: Larissa Sayuri Futino Castro dos Santos\nhttps://www.linkedin.com/in/larissa-sayuri-santos/\n\nMini bio: sou Bacharel em Estatística, mestre e Doutora em Estatística. Já trabalhei com dados de fraudes no SUS e fiz parte de um grupo de estudos de alunos da UFMG com participação voluntária (Stats4Good) em que nos dedicamos a compreender e quantificar a sub-notificação dos crimes de estupro em mulheres no Brasil, chamado GESEM. Hoje eu sou Cientista de Dados na maior plataforma de eventos do Brasil -a Sympla. Desde outubro sou colunista do radar Social Good Brasil. Eu adoro comunicar meus aprendizados (e dores, né?), desmistificando IA e me encantando no meio desse processo.\n\nA primeira vez que eu ouvi falar de word2vec fiquei encantada! Era uma mistura de Matemática com Linguística que parecia uma forma intuitiva de modelar palavras e os seus significados. A ideia é criar um embedding para uma palavra. Ou seja, representá-la como um vetor cuja dimensão é definida pelo usuário. O algoritmo concebe esse vetor aprendendo com os termos que estão em uma janela K de cada termo em análise para que a representação vetorial traduza essa concepção de contexto. E isso tudo é feito com uma rede neural simples! Os algoritmos word2vec foram um divisor de águas da literatura porque permitiram mapear relações sintáticas e semânticas entre palavras. Além da apresentação teórica, vou falar sobre como avaliar a qualidade das embeddings obtidas além de mostrar como fazê-lo - facilmente- no R. Eu tenho certeza que estudar as word embeddings é um jeito muito legal de começar a estudar Processamento de Linguagem Natural!\n\nInscrições e transmissão via Sympla no link\nhttps://www.sympla.com.br/3-meetup-r-ladies-lavras__872664",
+    "status": "PAST",
+    "dateTime": "2020-06-15T19:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-lavras/events/271127428/",
+    "featuredEventPhoto": {
+      "id": "490719269",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/9/6/5/highres_490719269.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/9/6/5/600_490719269.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/9/6/5/thumb_490719269.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -21.2293,
+        "lon": -44.9776,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Lavras",
+      "urlname": "rladies-lavras"
+    }
+  },
+  {
+    "id": "278626085",
+    "title": "Relatórios e Apresentações em RMarkdown ",
+    "description": "Quer aprender mais sobre R Markdown? Então não perca o nosso próximo curso online: Relatórios e Apresentações em RMarkdown.\n\n🕓08 e 09/06 de 14h às 16h\n\n✍ ️Inscrições: envie seu nome completo para rladieslavras@gmail.com e aguarde a resposta com a confirmação. A inscrição será efetivada caso existam vagas disponíveis.\n\n💻Vagas disponíveis: 50 (por ser um evento gratuito e com vagas limitadas, só faça a inscrição se você realmente for participar de todas as atividades)\n\n🧭Onde? google meet, o link será enviado aos inscritos antes do início das atividades\n\nDescrição: O RMarkdown é um pacote da linguagem de programação R para criação de documentos dinâmicos. Os documentos R Markdown são escritos em formato de texto de fácil escrita (markdown) e que permite adicionar códigos em R. Neste curso, vamos aprender a criar e modificar cada elemento (código, o texto e o preâmbulo) de um arquivo R Markdown.\n\nPrelecionista: Prof. Elizabeth Mie Hashimoto (UTFPR)",
+    "status": "PAST",
+    "dateTime": "2021-06-08T14:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-lavras/events/278626085/",
+    "featuredEventPhoto": {
+      "id": "496699007",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/a/3/f/highres_496699007.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/a/3/f/600_496699007.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/a/3/f/thumb_496699007.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 2,
+      "waitlistCount": 0,
+      "totalCount": 2
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Lavras",
+      "urlname": "rladies-lavras"
+    }
+  },
+  {
+    "id": "277884321",
+    "title": "Introdução ao GitHub com aplicações em R",
+    "description": "Neste Meetup do R-Ladies Lavras daremos um curso de introdução ao Github. Serão apresentadas as principais funcionalidades, vantagens e os primeiros passos para a utilização da plataforma.",
+    "status": "PAST",
+    "dateTime": "2021-05-06T16:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-lavras/events/277884321/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 7,
+      "waitlistCount": 0,
+      "totalCount": 7
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Lavras",
+      "urlname": "rladies-lavras"
+    }
+  },
+  {
+    "id": "304141911",
+    "title": "Sessão das comunidades R-Ladies e PyLadies no V Workshop em Data Science da UFLA",
+    "description": "O Departamento de Estatística da UFLA realiza o V Workshop em Data Science no período de 21 a 23 de outubro de 2024. Uma das sessões é dedicada às comunidades R-Ladies e PyLadies. O objetivo da atividade, que será presencial, é apresentar as comunidades, convidar novos membros para fazer parte do capítulo R-Ladies Lavras e conectar pessoas interessadas em formar um capítulo do PyLadies na cidade.",
+    "status": "PAST",
+    "dateTime": "2024-10-22T16:30:00-03:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-lavras/events/304141911/",
+    "featuredEventPhoto": {
+      "id": "524233513",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/4/c/9/highres_524233513.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/4/c/9/600_524233513.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/4/c/9/thumb_524233513.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 1,
+      "waitlistCount": 0,
+      "totalCount": 1
+    },
+    "venues": [
+      {
+        "id": "26335882",
+        "name": "Federal University of Lavras",
+        "address": "",
+        "city": "Lavras",
+        "state": "MG",
+        "country": "br",
+        "lat": -21.2318,
+        "lon": -44.9948,
+        "postalCode": "37200-000",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Lavras",
+      "urlname": "rladies-lavras"
+    }
+  }
+]

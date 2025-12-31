@@ -1,0 +1,1022 @@
+[
+  {
+    "id": "244885257",
+    "title": "Linear, Logistic, and Cox Regression: When and How to Run in RStudio",
+    "description": "Join us to learn about regression in RStudio. This month's meet up will be led by Jacqueline Kueper, PhD candidate in Epidemiology and Biostatistics at Western.\n\nNo previous experience with regression or RStudio is required; all abilities are welcome. The main portion of the session will involve step-by-step instructions on how to set up, run, and interpret results from regression models that include one and more than one independent variable. We will also cover some background on three types of regression—linear, logistic, and Cox—including when and why you might want to run each of these models. Sample code and data will be made available so that you can follow along on a personal laptop; sitting back to absorb the conversation in a more hands-off way is also an option.\n\nGet excited! See you in December!",
+    "status": "PAST",
+    "dateTime": "2017-12-05T17:00:00-05:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-ldnont/events/244885257/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 18,
+      "waitlistCount": 0,
+      "totalCount": 18
+    },
+    "venues": [
+      {
+        "id": "19794792",
+        "name": "London Public Library",
+        "address": "251 Dundas St.",
+        "city": "London",
+        "state": "ON",
+        "country": "ca",
+        "lat": 42.9844,
+        "lon": -81.2462,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London, Ontario",
+      "urlname": "rladies-ldnont"
+    }
+  },
+  {
+    "id": "244314493",
+    "title": "Intro to writing scripts in R and RStudio",
+    "description": "At the next R-Ladies #LdnOnt session we'll be delving into the basics of analyses and scripting in R and RStudio. Make sure to have R (https://www.r-project.org/) and RStudio (https://www.rstudio.com/products/rstudio/) downloaded on your computer!\n\nThis event is appropriate for both individuals with and without R experience. Rachael Smyth will be walking us through basic considerations when writing a script to analyze data in R, and demonstrating best practices and techniques.\n\nCome with R and RStudio installed if you'd like to follow along interactively, or just come to watch and listen.\n\nAs usual, we will head to Milo's afterwards for food and drinks. All are invited to join!",
+    "status": "PAST",
+    "dateTime": "2017-11-07T17:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-ldnont/events/244314493/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 22,
+      "waitlistCount": 0,
+      "totalCount": 22
+    },
+    "venues": [
+      {
+        "id": "19794792",
+        "name": "London Public Library",
+        "address": "251 Dundas St.",
+        "city": "London",
+        "state": "ON",
+        "country": "ca",
+        "lat": 42.9844,
+        "lon": -81.2462,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London, Ontario",
+      "urlname": "rladies-ldnont"
+    }
+  },
+  {
+    "id": "243331308",
+    "title": "R & R Studio Basics",
+    "description": "Welcome back, R-Ladies and allies! We will be kicking off the fall session of R-Ladies #LdnOnt with an Introduction to R & R Studio Basics.\n\nWe are thrilled to have local R-Lady and developmental psychologist, Pierina Cheung (https://twitter.com/pierinaski) leading us through a tutorial on navigating R and R Studio interfaces, loading datasets into R, and what your next steps should be.\n\nThis meet up will be held at the London Public Library (central location, right downtown) from 5 - 7 pm. Stay tuned for room location.\n\nIf you'd like to follow along during the tutorial, bring a laptop with R (https://www.r-project.org/) and R Studio (https://www.rstudio.com/products/rstudio/download/) installed.\n\nAs before, following the meet up we will head to Milos' for snacks and drinks - anyone is welcome to join!\n\nHurrah! Welcome back everyone, and welcome to those who are just starting out with us!",
+    "status": "PAST",
+    "dateTime": "2017-10-03T17:00:00-04:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-ldnont/events/243331308/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 17,
+      "waitlistCount": 0,
+      "totalCount": 17
+    },
+    "venues": [
+      {
+        "id": "19794792",
+        "name": "London Public Library",
+        "address": "251 Dundas St.",
+        "city": "London",
+        "state": "ON",
+        "country": "ca",
+        "lat": 42.9844,
+        "lon": -81.2462,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London, Ontario",
+      "urlname": "rladies-ldnont"
+    }
+  },
+  {
+    "id": "240976289",
+    "title": "SPSS to R",
+    "description": "Do you want an open source route to statistical methodology? Are you wanting to make the switch from SPSS to R? Join R-ladies #LdnOnt on Friday July 7 from 1-3!!\n\nWe are super excited to feature R-lady, Daryn Cushnie-Sparrow as she walks us through the SPSS ---> R switch. Daryn has made the switch for her own research in the Speech and Language field.\n\nFor this meet up, make sure to have the following installed if you don't already:\n\n• R\n\n• RStudio (https://www.rstudio.com/products/rstudio/download/)\n\n• RMarkdown (http://rmarkdown.rstudio.com) by entering the following into your console: install.packages(\"rmarkdown\")\n\n• Packrat (https://cran.r-project.org/web/packages/packrat/index.html) - install.packages(\"packrat\")\n\nHead upstairs to 121 Studios of UnLondon for the tutorial and afterwards we'll try to find a patio!\n\nSee you then!",
+    "status": "PAST",
+    "dateTime": "2017-07-07T13:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-ldnont/events/240976289/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 8,
+      "waitlistCount": 0,
+      "totalCount": 8
+    },
+    "venues": [
+      {
+        "id": "25151593",
+        "name": "UnLondon",
+        "address": "211 King St",
+        "city": "London",
+        "state": "ON",
+        "country": "ca",
+        "lat": 42.9829,
+        "lon": -81.2472,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London, Ontario",
+      "urlname": "rladies-ldnont"
+    }
+  },
+  {
+    "id": "240935204",
+    "title": "Co-work drop in session at the London Public Library!",
+    "description": "We have been striving to find a way to not only host official events, but also schedule casual co-work drop-in times. We have partnered with the London Public Library to provide regular evening workspace. Come with your work (it can be R-specific or not!) and settle in to plow through a couple hours of focused work time in the company of other R-Ladies. This is our first co-working session and will be the last for the summer, but we are looking to hold more in the fall. While we won't provide specific tutoring sessions at this point, if you do have questions this setting will also provide opportunity to ask others and brainstorm as a group.\n\nHope to see you there!",
+    "status": "PAST",
+    "dateTime": "2017-06-21T18:00:00-04:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-ldnont/events/240935204/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "19794792",
+        "name": "London Public Library",
+        "address": "251 Dundas St.",
+        "city": "London",
+        "state": "ON",
+        "country": "ca",
+        "lat": 42.9844,
+        "lon": -81.2462,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London, Ontario",
+      "urlname": "rladies-ldnont"
+    }
+  },
+  {
+    "id": "240786093",
+    "title": "Data manipulation & multivariate analyses!",
+    "description": "R-Ladies of London! We are excited to announce our next R-Ladies meet up happening this coming Monday, June 19, hosted by Monica Granados. Monica will be presenting a workshop on data manipulation and multivariate analyses in R. We are SUPER stoked to have her on board as a featured R-Lady, as she brings a wealth of experience and enthusiasm to the table.\n\nCheck her out!\n\nWebsite (http://descienceblog.tumblr.com/) | Twitter (https://twitter.com/Monsauce) | Previous R Workshops (http://qcbs.ca/wiki/r)\n\nAs usual, we'll be meeting in the upstairs space at UnLondon from 4 to 6, and will be headed for beers (probably Milos) afterwards. All are welcome to join!\n\nFor this meet up, make sure to have the following installed if you don't already:\n\n• R (https://cran.r-project.org/mirrors.html)\n\n• RStudio (https://www.rstudio.com/products/rstudio/download/)\n\n• RMarkdown by entering the following into your console: install.packages(\"rmarkdown\")\n\n• MacTex (https://tug.org/mactex/mactex-download.html) (for Mac users to render PDFs)\n\nSee you then!",
+    "status": "PAST",
+    "dateTime": "2017-06-19T16:00:00-04:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-ldnont/events/240786093/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 8,
+      "waitlistCount": 0,
+      "totalCount": 8
+    },
+    "venues": [
+      {
+        "id": "25151593",
+        "name": "UnLondon",
+        "address": "211 King St",
+        "city": "London",
+        "state": "ON",
+        "country": "ca",
+        "lat": 42.9829,
+        "lon": -81.2472,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London, Ontario",
+      "urlname": "rladies-ldnont"
+    }
+  },
+  {
+    "id": "239880563",
+    "title": "2D and 3D Graphics in R!",
+    "description": "Olivia Daub will be presenting some fun tricks you'll need to know in order to make awesome 3D graphics in R! The session will begin with an review/overview of more basic plots in ggplot, then get into more advanced plots.\n\nWhat do I need to bring?\n\n• Ensure you have an updated version of XQuartz (https://www.xquartz.org/) downloaded (you'll need this for the R packages used to generate the 3D plots)\n\n• Install the following R packages by running this code in your R console:\n\n• install.packages(c(\"car\",\"psych\",\"scatterplot3d\",\"Rcmdr\",\"rgl\",\"gvlma\"))\n\nAs usual, we'll make our way to a nearby pub for some beer and food after the session.\n\nSee you then!",
+    "status": "PAST",
+    "dateTime": "2017-06-01T16:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-ldnont/events/239880563/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 10,
+      "waitlistCount": 0,
+      "totalCount": 10
+    },
+    "venues": [
+      {
+        "id": "25151593",
+        "name": "UnLondon",
+        "address": "211 King St",
+        "city": "London",
+        "state": "ON",
+        "country": "ca",
+        "lat": 42.9829,
+        "lon": -81.2472,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London, Ontario",
+      "urlname": "rladies-ldnont"
+    }
+  },
+  {
+    "id": "239330881",
+    "title": "Intro to R & Github",
+    "description": "Hello again!\n\nWe are incredibly excited to now be able to host our meet ups at UnLondon's (http://www.unlondon.ca/) community building downtown, which provides us a more accessible space beyond the walls of the university, as well as access to their awesome community. Our next meet up will be there on May 1st from 3:30 to 5:30 pm.\n\nWe have two topics to present to you this time, led by two awesomewomen:\n\n1) Intro to R: Rachael Smyth will be walking us through some basic introductory material in R and best practices of writing your R scripts.\n\n2) Intro to version control with GitHub: Pauline Barmby will then demonstrate the ins and outs of version control using GitHub (https://github.com/), which can be an incredibly useful way of keeping track of changes you make to your scripts (or other documents).\n\nWe'll head out for beers somewhere nearby after we've wrapped up (potentially Milo's? TBD!).\n\nPlease RSVP if you plan on attending so we have an idea of how many to expect.\n\nSee you all soon! Feel free to post on the discussion board if you have any questions!",
+    "status": "PAST",
+    "dateTime": "2017-05-01T15:30:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-ldnont/events/239330881/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 8,
+      "waitlistCount": 0,
+      "totalCount": 8
+    },
+    "venues": [
+      {
+        "id": "25151593",
+        "name": "UnLondon",
+        "address": "211 King St",
+        "city": "London",
+        "state": "ON",
+        "country": "ca",
+        "lat": 42.9829,
+        "lon": -81.2472,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London, Ontario",
+      "urlname": "rladies-ldnont"
+    }
+  },
+  {
+    "id": "238674300",
+    "title": "Data Visualization and Graphics!",
+    "description": "We are super stoked to have Sinthiya Thavam, who will be presenting on data visualization and creating graphics in R! Come with your laptop (with R (https://www.r-project.org/) andR Studio (https://www.rstudio.com/)installed). Drinks at the Grad Club to follow!\n\nTentative schedule:\n\n4:00-4:15 Welcome intro and sign-up for DataCamp\n\n4:15-5:00 Sinthiya's tutorial on ggplot and ggplot2, a plotting system for R based on the grammar of graphics. It is built for making professional looking plots quickly with minimal code.\n\n5:00-5:15 Monthly check-in, members can introduce themselves and discuss any current R learning goals and projects.\n\n5:15-5:45 DataCamp - Data visualization, practice together\n\n5:45-6:00+ Wrap up and head to Grad club for drinks!\n\nGetting there: North Campus Building is tucked away on Perth Drive, just north of University Drive near the bridge on UWO campus. If you're coming from Richmond Street to the University, you take a right on Perth just after crossing the bridge on University Drive. North Campus Building is not too far up. There is a pay parking lot just a bit further up (entrance on the left side of Perth). Free parking is also available after 4:00 at Elborn College, which is a bit of a hike (20 minute walk?), but any of the University buses will also get you pretty close (get off at Middlesex/Perth Drive and walk about 4 minutes.\n\nhttps://a248.e.akamai.net/secure.meetupstatic.com/photos/event/5/f/3/d/600_459384381.jpeg",
+    "status": "PAST",
+    "dateTime": "2017-04-03T16:00:00-04:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-ldnont/events/238674300/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 16,
+      "waitlistCount": 0,
+      "totalCount": 16
+    },
+    "venues": [
+      {
+        "id": "25129435",
+        "name": "North Campus Building (NCB), Room 293",
+        "address": "Perth Drive, just north of University Drive",
+        "city": "London",
+        "state": "ON",
+        "country": "ca",
+        "lat": 0,
+        "lon": 0,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London, Ontario",
+      "urlname": "rladies-ldnont"
+    }
+  },
+  {
+    "id": "237906159",
+    "title": "Come join our kick-off R-Ladies #LdnOnt event, featuring an R-Markdown tutorial!",
+    "description": "R-Ladies #LdnOnt Kick-Off Event!\n\nCome join us at our first R-Ladies #LdnOnt event! This event will feature a tutorial on RMarkdown (http://rmarkdown.rstudio.com/), led by Cortney Hanna (PhD candidate in HRS). All experience levels welcome to attend!\n\nOur kick-off event will be held on March 4, which coincides with Open Data Day (http://opendataday.org/#what) - an annual celebration of open data all over the world. Drinks downtown at Milos' will follow the event for those interested.\n\nWhen: Saturday, March 4 @ 4 - 6pm\n\nWhere: Health Sciences Building (room 11), Western University (https://goo.gl/maps/zcTHDikkJKH2)\n\nWhat: Kick-off event of R-Ladies, London, Ontario Chapter\n\nTentative schedule:\n\n4:00-4:15: Welcome & intro to the group\n\n4:15-5:00: Tutorial on RMarkdown, a phenomenally useful tool in R that allows you to generate sharable reports from your data\n\n5:00-5:15: Scrum session! Group members introduce themselves and state any learning goals/projects they have related to R.\n\n5:15-6:00: Informal co-working time for attendees to tinker with their new skills, ask questions, and network.\n\n6:00 +: Drinks downtown @ Milos' for all those who are interested!\n\nWhat to bring:\n\nLaptop with R (https://www.r-project.org/) & R Studio (https://www.rstudio.com/products/rstudio/download/) installed\n\nGet excited! Looking forward to seeing you all there!",
+    "status": "PAST",
+    "dateTime": "2017-03-04T16:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-ldnont/events/237906159/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 7,
+      "waitlistCount": 0,
+      "totalCount": 7
+    },
+    "venues": [
+      {
+        "id": "25070023",
+        "name": "Health Sciences Building (room 11)",
+        "address": "University of Western Ontario Faculty of Health Science, 1151 Richmond St, London, ON N6A 5B9",
+        "city": "London",
+        "state": "ON",
+        "country": "ca",
+        "lat": 43.0054,
+        "lon": -81.273,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London, Ontario",
+      "urlname": "rladies-ldnont"
+    }
+  },
+  {
+    "id": "237046275",
+    "title": "We're having an R-ladies #LdnOnt meet-and-greet.",
+    "description": "A social event to kick off R-ladies here in London! It is a low pressure event to meet each other and establish goals/ideals of this chapter over drinks.",
+    "status": "PAST",
+    "dateTime": "2017-01-26T19:00:00-05:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-ldnont/events/237046275/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 6,
+      "waitlistCount": 0,
+      "totalCount": 6
+    },
+    "venues": [
+      {
+        "id": "24857461",
+        "name": "Anderson Craft Ales",
+        "address": "1030 Elias Street",
+        "city": "London",
+        "state": "ON",
+        "country": "ca",
+        "lat": 42.9981,
+        "lon": -81.2178,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London, Ontario",
+      "urlname": "rladies-ldnont"
+    }
+  },
+  {
+    "id": "256182225",
+    "title": "Transitioning from SPSS to R",
+    "description": "Join us for the return of the popular workshop, \"Transitioning from SPSS to R, \" led by Daryn Cushnie-Sparrow. The first time Daryn gave this talk back in summer 2017, she walked us through considerations for using R as an SPSS user from the perspective of a relatively new R user (as she was at the time!). She has since updated the presentation and will be leading it anew on Thursday, November 29th at 6pm. The workshop will involve learning how to think about your data in R as an SPSS user and to use commands for running statistical tests in both programs. She will also walk us through how to manipulate your data in R and output it in a ready-for-SPSS format for those who don't like data wrangling in Excel, but work with supervisors or colleagues who prefer to work with SPSS. Daryn is also a tidyverse fiend, and has a way of sprinkling helpful nuggets of useful tidy syntax throughout. Bottom line: there will be lots to learn, whether you're an SPSS user or not!",
+    "status": "PAST",
+    "dateTime": "2018-11-29T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-ldnont/events/256182225/",
+    "featuredEventPhoto": {
+      "id": "476126915",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/9/2/3/highres_476126915.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/9/2/3/600_476126915.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/9/2/3/thumb_476126915.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 11,
+      "waitlistCount": 0,
+      "totalCount": 11
+    },
+    "venues": [
+      {
+        "id": "19794792",
+        "name": "London Public Library",
+        "address": "251 Dundas St.",
+        "city": "London",
+        "state": "ON",
+        "country": "ca",
+        "lat": 42.9844,
+        "lon": -81.2462,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London, Ontario",
+      "urlname": "rladies-ldnont"
+    }
+  },
+  {
+    "id": "255404190",
+    "title": "Figuring out figures in R with ggplot!",
+    "description": "This workshop, led by Thea Knowles, will focus on learning to make lovely graphics using the ggplot package. We will cover the basics as well as delve into more advanced options for customizing your figures.\n\nWe will also touch on:\n\n- using RProjects for a reproducible workflow\n- reading in and manipulating data\n- saving plots to certain specifications\n\nCome with R and RStudio installed. We will need the package ggplot2 for this workshop, so if you don't have it already, go ahead and install it in R using the line:\n\ninstall.packages(\"ggplot2\")\n\nIf you have trouble, feel free to reach out to us at ldnont@rladies.org.\n\nSee you then! As usual, those who want to head with us to Milos' afterwards are welcome!",
+    "status": "PAST",
+    "dateTime": "2018-10-25T17:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-ldnont/events/255404190/",
+    "featuredEventPhoto": {
+      "id": "475308569",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/d/b/9/highres_475308569.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/d/b/9/600_475308569.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/d/b/9/thumb_475308569.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 22,
+      "waitlistCount": 0,
+      "totalCount": 22
+    },
+    "venues": [
+      {
+        "id": "19794792",
+        "name": "London Public Library",
+        "address": "251 Dundas St.",
+        "city": "London",
+        "state": "ON",
+        "country": "ca",
+        "lat": 42.9844,
+        "lon": -81.2462,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London, Ontario",
+      "urlname": "rladies-ldnont"
+    }
+  },
+  {
+    "id": "254367905",
+    "title": "Intro to R programming and RStudio",
+    "description": "Welcome back for another season of R-Ladies, London ON (#LdnOnt)! Our kickoff event this fall is an introductory crash course to R (i.e., using the R programming language) and RStudio (the integrated developing environment (IDE)/handy user interface for using R). All are welcome, be you a total newbie to R or even if you are a well-seasoned programmer looking to get a refresher on the basics.\n\nWe are extraordinarily excited to welcome back Cortney Hanna-Benson as our workshop leader. Cortney led our very first R-Ladies #LdnOnt workshop back in January 2017, and we have been looking forward to having her again ever since.\n\nIf you can, come with R and RStudio already installed, but if you have trouble or are unable to, don't let that hold you back. The workshop will be a mix of presentation and hands-on exercises. You are welcome to follow along actively or passively.\n\nHelpful links:\n- R-Ladies #LdnOnt website: https://rladiesldnont.netlify.com/\n\n- R download: https://www.r-project.org/\n- RStudio download: https://www.rstudio.com/products/rstudio/\n\n# FAQs\n\nDo I need to be an R expert?\n- No! While some familiarity helps, all levels are welcome! If you want to follow along, come with your laptop and have R and RStudio installed.\n\nI already know R, what's in it for me?\n- Awesome! Come join a community of people interested in STEM research, meet new pals, learn new skills or sharpen old ones, or talk to us about leading a workshop on a topic you're passionate about!\n\nI don't identify as a lady, but I still want to learn R - can I join?\n- Yes! While we prioritize underrepresented genders in leadership positions (including but not limited to cis/trans women, trans men, non-binary, genderqueer, agender), our general membership is fully inclusive. Read more about the global initiative at https://rladies.org/about-us/.\n\nI'm interested in leading a workshop in the future! How do I get in touch?\n- Great! You don't even need to be a full fledged \"expert\" to lead a workshop... this is a group for skill swapping. If you're interested, send us an email at ldnont@rladies.org.",
+    "status": "PAST",
+    "dateTime": "2018-09-25T17:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-ldnont/events/254367905/",
+    "featuredEventPhoto": {
+      "id": "474309358",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/4/8/e/highres_474309358.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/4/8/e/600_474309358.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/4/8/e/thumb_474309358.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 39,
+      "waitlistCount": 0,
+      "totalCount": 39
+    },
+    "venues": [
+      {
+        "id": "19794792",
+        "name": "London Public Library",
+        "address": "251 Dundas St.",
+        "city": "London",
+        "state": "ON",
+        "country": "ca",
+        "lat": 42.9844,
+        "lon": -81.2462,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London, Ontario",
+      "urlname": "rladies-ldnont"
+    }
+  },
+  {
+    "id": "251491870",
+    "title": "Making science open with R!",
+    "description": "Join us for our last meet up until the fall! We are thrilled to have Monica Granados back with us again to close out our second year! Monica comes with a wealth of experience using R and teaching others to use it. She's led numerous tutorials, many of which you can check out via the links below.\n\nThis meet up will focus on Open Science:\n\nFounded on the principle science should not be limited by your occupation, race, nationality or economic status, working in the open makes science more accessible by making methods, code, results and knowledge available to anyone, anywhere in the world. Imagine if every analysis you ever conduct from now on could be reproduced by anyone around the world. Or a method that gives you the power to integrate new data seamlessly complete with figures. In this workshop, we will be covering how to work in the open using R, R Markdown and Google Sheets. These three platforms allow us to host data, analyze, visualize data in one reproducible workflow. At the end of the workshop we will also discuss the wider movement of open science, how it is helping breakdown economic barriers in science and how you can contribute.\n\nLearn more about Monica by checking out her...\nWebsite: http://descienceblog.tumblr.com/\nTwitter: https://twitter.com/monsauce\nR tutorials: http://qcbs.ca/wiki/r\n\nAs per usual, we will head to Milo's afterwards to celebrate, chat, and all in all just enjoy each other's company.\n\n-----\n(open science word cloud from here: https://www.um.edu.mt/library/departments/openscience)",
+    "status": "PAST",
+    "dateTime": "2018-06-26T17:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-ldnont/events/251491870/",
+    "featuredEventPhoto": {
+      "id": "471805068",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/1/e/c/highres_471805068.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/1/e/c/600_471805068.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/1/e/c/thumb_471805068.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 12,
+      "waitlistCount": 0,
+      "totalCount": 12
+    },
+    "venues": [
+      {
+        "id": "19794792",
+        "name": "London Public Library",
+        "address": "251 Dundas St.",
+        "city": "London",
+        "state": "ON",
+        "country": "ca",
+        "lat": 42.9844,
+        "lon": -81.2462,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London, Ontario",
+      "urlname": "rladies-ldnont"
+    }
+  },
+  {
+    "id": "250912832",
+    "title": "R in Industry",
+    "description": "Vicki Cocco will be presenting a whole new perspective for us - using R in industry! Vicki is the founder of 10in6 Inc, a London, Ontario based company that helps businesses improve their productivity and efficiency through data analysis. Vicki is also a long-time R-Ladies, #LdnOnt member, and we are thrilled to have her share her insights with our group!\n\nCome join us at this R-Ladies session if you...\n... want to start or keep learning about R for your own work/research\n... are curious about a career in industry/data science\n... are interested in meeting like-minded people interested in tech, coding, and learning!\n\nThis meet up will be Tuesday, May 29 at 5:00pm in the Wellington Room of the London Public Library (downtown branch). We will finish by 7:00 and head to Milo's as usual.\n\nSee you then!",
+    "status": "PAST",
+    "dateTime": "2018-05-29T17:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-ldnont/events/250912832/",
+    "featuredEventPhoto": {
+      "id": "471209532",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/3/5/c/highres_471209532.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/3/5/c/600_471209532.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/3/5/c/thumb_471209532.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 10,
+      "waitlistCount": 0,
+      "totalCount": 10
+    },
+    "venues": [
+      {
+        "id": "19794792",
+        "name": "London Public Library",
+        "address": "251 Dundas St.",
+        "city": "London",
+        "state": "ON",
+        "country": "ca",
+        "lat": 42.9844,
+        "lon": -81.2462,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London, Ontario",
+      "urlname": "rladies-ldnont"
+    }
+  },
+  {
+    "id": "249155188",
+    "title": "Use R-Shiny to perform interactive data analysis and visualization!",
+    "description": "Join the R-Ladies group for another tutorial on April 3, led by Rhiannon Rose. Rhiannon will show us all about using R-Shiny.\n\nR-Shiny provides a handy interface for performing interactive data analysis and visualization, and automating analysis tasks that are boring and repetitive. Once you have the hang of the added layer of syntax, Shiny is easy and versatile - however, the learning curve can be steep in the beginning. This session covers Shiny basics: what your file setup should look like (UI, server and helper files), different types of reactive variables and when to use them, and basic debugging. Examples of simple and complex Shiny applications will be demonstrated. The \"shiny\" package is required to participate and code a basic Shiny application.",
+    "status": "PAST",
+    "dateTime": "2018-04-03T17:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-ldnont/events/249155188/",
+    "featuredEventPhoto": {
+      "id": "469620210",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/2/highres_469620210.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/2/600_469620210.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/2/thumb_469620210.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 12,
+      "waitlistCount": 0,
+      "totalCount": 12
+    },
+    "venues": [
+      {
+        "id": "19794792",
+        "name": "London Public Library",
+        "address": "251 Dundas St.",
+        "city": "London",
+        "state": "ON",
+        "country": "ca",
+        "lat": 42.9844,
+        "lon": -81.2462,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London, Ontario",
+      "urlname": "rladies-ldnont"
+    }
+  },
+  {
+    "id": "247877477",
+    "title": "Use RMarkdown to generate summary reports and journal articles!",
+    "description": "• What we'll do\nWe will go through a viable workflow for bringing your data into R, generating a summary report, and turning your findings into a full journal article.\n\nAt this meetup we will also touch on:\n- Reference management integration with R Studio\n- Integrating raw .R documents into multiple projects\n- Generating informal summary reports of data to share with colleagues, supervisors\n- Generating publication-ready manuscript drafts\n\n• What to bring\nLaptop with R and RStudio installed\n\n• Important to know\n- While all levels are welcome to attend, some knowledge of R and RStudio may be helpful",
+    "status": "PAST",
+    "dateTime": "2018-03-06T17:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-ldnont/events/247877477/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 16,
+      "waitlistCount": 0,
+      "totalCount": 16
+    },
+    "venues": [
+      {
+        "id": "19794792",
+        "name": "London Public Library",
+        "address": "251 Dundas St.",
+        "city": "London",
+        "state": "ON",
+        "country": "ca",
+        "lat": 42.9844,
+        "lon": -81.2462,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London, Ontario",
+      "urlname": "rladies-ldnont"
+    }
+  },
+  {
+    "id": "245104372",
+    "title": "Lightning Talks",
+    "description": "Come join the R-Ladies in our first ever Lightning Talks event. In this fun, informal setting, participants have approximately 3 to 5 minutes to speak about their research, work, or a puzzle they're trying to solve - anything goes! R-related presentations are a bonus but not necessary! Our goal is to 1) provide a space to learn about the others in our community and 2) exchange ideas about methodologies, interests, and the tools we all are using.\n\nIMPORTANT FOR PRESENTERS:\n\nIn addition to RSVPing on our MeetUp page, please ALSO complete this form (https://goo.gl/forms/LeoSGYLzdgrXthks2) by December 23 to help us with scheduling and to let us know important pieces of information.\n\nThis is not meant to be a high-stakes presentation event - just a chance to share our projects with each other and learn a little about the questions each of us are asking in our own work and the tools we're using to answer them. As usual, we will head out for food and drinks following the event (drinks and apps for presenters are on us!)\n\n-----------------------------------------------------------------------------------------------------------------------------------------------\n\nNB: Please note that, in keeping with the global R-Ladies mission, R-Ladies London, Ontario will prioritize female leadership and participation. All interested people (regardless of gender) are welcome to RSVP to our events. However, in the event that we receive a greater amount of presenter interest than we feel is manageable for the space/time, we will prioritize female presenters.",
+    "status": "PAST",
+    "dateTime": "2018-01-30T17:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-ldnont/events/245104372/",
+    "featuredEventPhoto": {
+      "id": "458602600",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/8/4/8/highres_458602600.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/8/4/8/600_458602600.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/8/4/8/thumb_458602600.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 12,
+      "waitlistCount": 0,
+      "totalCount": 12
+    },
+    "venues": [
+      {
+        "id": "19794792",
+        "name": "London Public Library",
+        "address": "251 Dundas St.",
+        "city": "London",
+        "state": "ON",
+        "country": "ca",
+        "lat": 42.9844,
+        "lon": -81.2462,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London, Ontario",
+      "urlname": "rladies-ldnont"
+    }
+  },
+  {
+    "id": "266728160",
+    "title": "Data Cleaning and Exploration",
+    "description": "On Tuesday, December 3rd at 6 pm, the wonderful Jaky Kueper will be enlightening us on how to go on a data adventure.\n\nJaky has taken us through a cleaning and exploration workshop before, and she’s awesome! Come and join us to learn some common practices and procedures for data cleaning and exploration — how to get data into a ‘usable’ form and start looking at what they can tell you. We will touch on working with multiple datasets (joins) and strategies for when you need to learn more about your data or where they come from. This workshop is appropriate for all skill levels!\n\nThere will be time for the group to skill-share and practice/troubleshoot; if you have new data that you are or will be working with this summer, bring it! Important to remember is that we are back at our home at the London Public Library Central Branch! We’ll be in the Stevenson and Hunt A Room - we’ll have signs! Parking is free if you park in the Citi Plaza lot - entrance on King. Bring your parking pass to the library’s main service desk and tell them you’re with R-Ladies to get your parking validated.\n\nLondon Public Library - Central 251 Dundas St London, Ontario Canada N6A 6H9\n\nAfter we’ve filled our heads with cleaning and exploration knowledge, we’ll explore our way right over to our favourite Milos’ for great beer and better company. See you all very soon!",
+    "status": "PAST",
+    "dateTime": "2019-12-03T18:00:00-05:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-ldnont/events/266728160/",
+    "featuredEventPhoto": {
+      "id": "486943815",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/b/2/7/highres_486943815.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/b/2/7/600_486943815.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/b/2/7/thumb_486943815.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 12,
+      "waitlistCount": 0,
+      "totalCount": 12
+    },
+    "venues": [
+      {
+        "id": "19794792",
+        "name": "London Public Library",
+        "address": "251 Dundas St.",
+        "city": "London",
+        "state": "ON",
+        "country": "ca",
+        "lat": 42.9844,
+        "lon": -81.2462,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London, Ontario",
+      "urlname": "rladies-ldnont"
+    }
+  },
+  {
+    "id": "265754543",
+    "title": "Data Visualization",
+    "description": "Join us on Tuesday, November 12 at 6 pm to learn more about data viz. They say a picture's worth a thousand words... Does that apply to figures?\n\nWell, we think it does. Olivia Daub will be giving us a crash course in the Grammar of Graphics, taking us from the basics of ggplot2 to some fancy vizmagic with 3D graphics. Newbies and veterans alike will come away with new tricks, so don't miss it!\n\nCome with R and R Studio installed, as well as the following packages: ggplot2, scatterplot3d, gvlma, rgl, car, rcmdr, and psych. Mac users may need to have xQuartz installed to render 3D graphics.\n\nWe'll be in Room 2510 again at Elborn College (1201 Western Road). Parking is free after 4! This is our last meetup at Western, as we'll be back in our regular home at London Public Library starting next month (December 3rd)!!! We'll have signs up to guide you, just like last time. Detailed directions are on our website! (https://rladiesldnont.netlify.com/2019/10/17/2019-10-17-data-visualization-basics-to-3d/)\n\nPlease RSVP here, and tweet (https://twitter.com/RLadiesLdnOnt) us if you've got any questions or things you're dying to know that Olivia could try to touch on.",
+    "status": "PAST",
+    "dateTime": "2019-11-12T18:00:00-05:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-ldnont/events/265754543/",
+    "featuredEventPhoto": {
+      "id": "485839161",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/a/d/9/highres_485839161.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/a/d/9/600_485839161.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/a/d/9/thumb_485839161.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 18,
+      "waitlistCount": 0,
+      "totalCount": 18
+    },
+    "venues": [
+      {
+        "id": "26638807",
+        "name": "Elborn College",
+        "address": "1201 Western Rd",
+        "city": "London",
+        "state": "ON",
+        "country": "ca",
+        "lat": 43.0028,
+        "lon": -81.2783,
+        "postalCode": "N6G 1H1",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London, Ontario",
+      "urlname": "rladies-ldnont"
+    }
+  },
+  {
+    "id": "264989455",
+    "title": "Intro to R programming and R Studio ",
+    "description": "We're back for another season of R-ladies in London, Ontario (#LdnOnt)! We’re very excited to have Dr. Cortney Hanna-Benson back to take us through some helpful introductory info! These workshops are always helpful for novice and experience users alike, as you sometimes come across tips you wish you had heard ages ago.\n\nIn this step-by-step workshop, we will go over the basics of R and R Studio. This workshop is geared towards new R users, but there will also be opportunities to explore R beyond the basics at your own pace. It’s a good idea to come prepared with your technology and with R and R Studio downloaded on your device:\n\n- R download: https://www.r-project.org/\n- RStudio download: https://www.rstudio.com/products/rstudio/\n\nHelpful links:\n- R-Ladies LdnOnt website: https://rladiesldnont.netlify.com/\n- R-Ladies LdnOnt Twitter: https://twitter.com/RLadiesLdnOnt",
+    "status": "PAST",
+    "dateTime": "2019-10-01T18:00:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-ldnont/events/264989455/",
+    "featuredEventPhoto": {
+      "id": "485022584",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/6/5/8/highres_485022584.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/6/5/8/600_485022584.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/6/5/8/thumb_485022584.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 18,
+      "waitlistCount": 0,
+      "totalCount": 18
+    },
+    "venues": [
+      {
+        "id": "26638807",
+        "name": "Elborn College",
+        "address": "1201 Western Rd",
+        "city": "London",
+        "state": "ON",
+        "country": "ca",
+        "lat": 43.0028,
+        "lon": -81.2783,
+        "postalCode": "N6G 1H1",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London, Ontario",
+      "urlname": "rladies-ldnont"
+    }
+  },
+  {
+    "id": "261288054",
+    "title": "Data Cleaning and Exploration in R",
+    "description": "Join us for our last R-Ladies #LdnOnt meet up of the season!\n\nThis meetup will be all about sitting down with new data! Jaky Kueper will walk us through common practices and procedures for data cleaning and exploration—essentially how to get data into a ‘usable’ form and start looking at what they contain. We will touch on working with multiple datasets (joins) and strategies for when you need to learn more about your data or where they come from. Previous experience with R is not required.\n\nThere will be time for the group to skill-share and practice/troubleshoot; if you have new data that you are or will be working with this summer, bring it!\n\nJoin us for snacks and drinks at Milos' down the street after the meet up. As always, all are welcome.\n\nPlease note that there will be no summer R-Ladies sessions. Stay tuned for more details to come about future sessions.",
+    "status": "PAST",
+    "dateTime": "2019-05-30T17:30:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-ldnont/events/261288054/",
+    "featuredEventPhoto": {
+      "id": "481145714",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/6/5/2/highres_481145714.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/6/5/2/600_481145714.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/6/5/2/thumb_481145714.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 21,
+      "waitlistCount": 0,
+      "totalCount": 21
+    },
+    "venues": [
+      {
+        "id": "19794792",
+        "name": "London Public Library",
+        "address": "251 Dundas St.",
+        "city": "London",
+        "state": "ON",
+        "country": "ca",
+        "lat": 42.9844,
+        "lon": -81.2462,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London, Ontario",
+      "urlname": "rladies-ldnont"
+    }
+  },
+  {
+    "id": "260560347",
+    "title": "RMarkdown and Bookdown for Dissertating",
+    "description": "This month's meet up, led by Thea Knowles, will be an interactive tutorial on preparing to write a dissertation using RMarkdown and Bookdown.\n\nRMarkdown allows you to seamlessly integrate R code and narrative text as well as specify formatting options across multiple document output types (docx, pdf, html). Bookdown serves as a means to combining multiple RMarkdown files into a final book*.\n\nThis workshop will feature a crash course on RMarkdown and will cover the following: reference management in RMarkdown, tips for a modular workflow, integrating templates (like Western's thesis templates) into RMarkdown/bookdown documents, and more.\n\nAnd yes, yes this can totally count as writing time.\n\n*\"Despite the package name containing the word “book”, bookdown is not only for books. The “book” can be anything that consists of multiple R Markdown documents meant to be read in a linear sequence, such as course handouts, study notes, a software manual, a thesis, or even a diary.\" - Yihui Xie https://bookdown.org/yihui/bookdown/",
+    "status": "PAST",
+    "dateTime": "2019-04-25T17:30:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-ldnont/events/260560347/",
+    "featuredEventPhoto": {
+      "id": "480342532",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/6/2/4/highres_480342532.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/6/2/4/600_480342532.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/6/2/4/thumb_480342532.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 15,
+      "waitlistCount": 0,
+      "totalCount": 15
+    },
+    "venues": [
+      {
+        "id": "19794792",
+        "name": "London Public Library",
+        "address": "251 Dundas St.",
+        "city": "London",
+        "state": "ON",
+        "country": "ca",
+        "lat": 42.9844,
+        "lon": -81.2462,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London, Ontario",
+      "urlname": "rladies-ldnont"
+    }
+  },
+  {
+    "id": "259175996",
+    "title": "Heatmaps and Pointmaps using ggmap",
+    "description": "This workshop, led by Rebecca Henderson, will focus on learning to produce heatmaps and pointmaps using the Google maps platform. Heatmaps can be used to represent population density, per-capita income, social views, and many other geographically important measurements.\n\nThere is some prep work to do beforehand if you'd like to actively follow along at the workshop:\n\nThis workshop requires an API console key. Using Google Maps to a certain degree is free, but you must enable billing.\nMedium wrote a good article explaining the process to help you: https://medium.com/superkoders/ultimate-guide-to-google-maps-d86ad945636a\n\nYou'll also need to install the following packages if you don't have them already. You can do this by running the line\n\ninstall.packages(c(\"gdata\", \"tidyverse\", \"ggmap\", \"viridis\"))\n\nIf you have trouble, feel free to reach out to us at ldnont@rladies.org.\n\nSee you then! As usual, those who want to head with us to Milos' afterwards are welcome!",
+    "status": "PAST",
+    "dateTime": "2019-03-28T17:30:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-ldnont/events/259175996/",
+    "featuredEventPhoto": {
+      "id": "478896569",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/e/d/9/highres_478896569.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/e/d/9/600_478896569.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/e/d/9/thumb_478896569.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 17,
+      "waitlistCount": 0,
+      "totalCount": 17
+    },
+    "venues": [
+      {
+        "id": "19794792",
+        "name": "London Public Library",
+        "address": "251 Dundas St.",
+        "city": "London",
+        "state": "ON",
+        "country": "ca",
+        "lat": 42.9844,
+        "lon": -81.2462,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London, Ontario",
+      "urlname": "rladies-ldnont"
+    }
+  },
+  {
+    "id": "268803657",
+    "title": "Lightning Talks",
+    "description": "Lightning Talks are quick 5-minute presentations on whatever you like. Really - anything. All levels of R proficiency are welcome! All topics are welcome! You can present on something you know well, something you’re in the midst of learning, or something you’d like to do and are just getting started with. These talks are a great way to get to know each other and get to know the work we all do, as well as get advice, support, and validation from your fellow R users. Please present! It’s a lot of fun in a safe space.\n\nYou can choose to have slides (e.g. PowerPoint) or live code in R or talk off the dome if you really want to! We use HDMI to connect to the library computer, and you can choose to send us slides in advance, bring materials on a USB, or connect your own device.\n\nCome! Talk! It’s fun!\n\nIf you’re interested in presenting, please fill out this survey (https://forms.gle/TQWiRGVbj2YxpUd89) so we have a sense of who is presenting and what we’ll hear. If you’re thinking about it but aren’t sure, reach out to us to chat about it! We’re easiest to contact on Twitter or via email.\n\nFor presenters and non-presenters alike, please RSVP on our Meetup. See you there!",
+    "status": "PAST",
+    "dateTime": "2020-03-03T18:00:00-05:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-ldnont/events/268803657/",
+    "featuredEventPhoto": {
+      "id": "489126544",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/9/9/0/highres_489126544.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/9/9/0/600_489126544.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/9/9/0/thumb_489126544.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 10,
+      "waitlistCount": 0,
+      "totalCount": 10
+    },
+    "venues": [
+      {
+        "id": "19794792",
+        "name": "London Public Library",
+        "address": "251 Dundas St.",
+        "city": "London",
+        "state": "ON",
+        "country": "ca",
+        "lat": 42.9844,
+        "lon": -81.2462,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London, Ontario",
+      "urlname": "rladies-ldnont"
+    }
+  },
+  {
+    "id": "268274460",
+    "title": "Intro to Shiny for interactive graphics and data visualization",
+    "description": "Join us on Feb. 11th as Emma Smith introduces us to Shiny.\n\nTired of presenting your research using the same old boring tables and figures? Shiny is a powerful R package that allows you to create interactive applications ranging from infographics and maps to business dashboards. This workshop will start by providing a walkthrough of the basic framework of Shiny applications, including the creation of interactive plots and tables. This will be followed by some tips on how to kick your apps up a notch using only one or two lines of code thanks to libraries such as shinyWidgets, shinydashboard, and plotly. Resources will be provided for those interested in creating more advanced dashboards or making their Shiny creations available online.",
+    "status": "PAST",
+    "dateTime": "2020-02-11T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-ldnont/events/268274460/",
+    "featuredEventPhoto": {
+      "id": "488547411",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/b/1/3/highres_488547411.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/b/1/3/600_488547411.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/b/1/3/thumb_488547411.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 8,
+      "waitlistCount": 0,
+      "totalCount": 8
+    },
+    "venues": [
+      {
+        "id": "19794792",
+        "name": "London Public Library",
+        "address": "251 Dundas St.",
+        "city": "London",
+        "state": "ON",
+        "country": "ca",
+        "lat": 42.9844,
+        "lon": -81.2462,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London, Ontario",
+      "urlname": "rladies-ldnont"
+    }
+  },
+  {
+    "id": "267613624",
+    "title": "RMarkdown and Bookdown for Dissertating",
+    "description": "This month's meet up, Thea Knowles will return to lead us through an interactive tutorial on preparing to write a dissertation using RMarkdown and Bookdown. This month also marks 3 awesome years of R-Ladies London!\n\nRMarkdown allows you to seamlessly integrate R code and narrative text as well as specify formatting options across multiple document output types (docx, pdf, html). Bookdown serves as a means to combining multiple RMarkdown files into a final book*.\n\nThis workshop will feature a crash course on RMarkdown and will cover the following: reference management in RMarkdown, tips for a modular workflow, integrating templates (like Western's thesis templates) into RMarkdown/bookdown documents, and more.\n\n*\"Despite the package name containing the word “book”, bookdown is not only for books. The “book” can be anything that consists of multiple R Markdown documents meant to be read in a linear sequence, such as course handouts, study notes, a software manual, a thesis, or even a diary.\" - Yihui Xie https://bookdown.org/yihui/bookdown/",
+    "status": "PAST",
+    "dateTime": "2020-01-14T18:00:00-05:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-ldnont/events/267613624/",
+    "featuredEventPhoto": {
+      "id": "487847149",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/8/2/d/highres_487847149.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/8/2/d/600_487847149.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/8/2/d/thumb_487847149.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 8,
+      "waitlistCount": 0,
+      "totalCount": 8
+    },
+    "venues": [
+      {
+        "id": "19794792",
+        "name": "London Public Library",
+        "address": "251 Dundas St.",
+        "city": "London",
+        "state": "ON",
+        "country": "ca",
+        "lat": 42.9844,
+        "lon": -81.2462,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London, Ontario",
+      "urlname": "rladies-ldnont"
+    }
+  }
+]

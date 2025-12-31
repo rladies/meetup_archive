@@ -1,0 +1,611 @@
+[
+  {
+    "id": "243587987",
+    "title": "Data Transformation with dplyr Part 2",
+    "description": "R-Ladies Orlando will be running few sessions for Absolute R Beginners!!\n\nThis is the 4th part of the R for Beginners series ,it's an opportunity for anyone completely new to R to get started.\n\nMake sure you have R and R studio ready to go!!\n\nBring your (charged) laptop.\n\nRead chapter 3 of Garrett Grolemund and Hadley Wickham book, \"R for Data Science\" http://r4ds.had.co.nz/\n\nTo download R, go to https://cloud.r-project.org (https://cloud.r-project.org/) ( https://cloud.r-project.org/ )\n\nTo download RStudio http://www.rstudio.com/download\n\nFollow the instructions to download and install.\n\nPlease make sure you installed packages:\n\ntidyverse and nycflights13\n\ninstall.packages(\"tidyverse\")\n\ninstall.packages(\"nycflights13\")\n\nEveryone is welcome!\n\n***************************************************************************\n\nParking at Code School:\n\nParking at GAI garage (accessible from South St and Summerlin St.)\n\nAfter 6:00PM the street entrance on the first floor is locked, and the building can only be accessed through the garage entrances and elevators on levels P2-P4.\n\nAfter 6:00PM you can park anywhere in the garage.",
+    "status": "PAST",
+    "dateTime": "2017-11-02T19:00:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-orlando/events/243587987/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 8,
+      "waitlistCount": 0,
+      "totalCount": 8
+    },
+    "venues": [
+      {
+        "id": "25327304",
+        "name": "Code School",
+        "address": "618 E South St Ste 620",
+        "city": "Orlando",
+        "state": "FL",
+        "country": "US",
+        "lat": 28.5385,
+        "lon": -81.3688,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Orlando",
+      "urlname": "rladies-orlando"
+    }
+  },
+  {
+    "id": "243588119",
+    "title": "Data Transformation with dplyr Part 1",
+    "description": "Data Transformation with dplyr part 1\n\nR-Ladies Orlando will be running few sessions for Absolute R Beginners!!\n\nThis is the 3nd part of the R for Beginners series ,it's an opportunity for anyone completely new to R to get started. If you missed the first workshops, you can still follow along as this session if you can practice on your own. Find our past slides and code/scripts used here: https://github.com/kathy0305/Workshops\n\nPlease make sure you have R , R studio and tidyverse pkg ready to go.\n\nBring your (charged) laptop.\n\nRead chapter 3 of Garrett Grolemund and Hadley Wickham book, \"R for Data Science\" http://r4ds.had.co.nz/\n\nEveryone is welcome!\n\nTo download R, go to https://cloud.r-project.org (https://cloud.r-project.org/)\n\nTo download RStudio http://www.rstudio.com/download\n\nFollow the instructions to download and install.",
+    "status": "PAST",
+    "dateTime": "2017-10-19T19:00:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-orlando/events/243588119/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 13,
+      "waitlistCount": 0,
+      "totalCount": 13
+    },
+    "venues": [
+      {
+        "id": "25327304",
+        "name": "Code School",
+        "address": "618 E South St Ste 620",
+        "city": "Orlando",
+        "state": "FL",
+        "country": "US",
+        "lat": 28.5385,
+        "lon": -81.3688,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Orlando",
+      "urlname": "rladies-orlando"
+    }
+  },
+  {
+    "id": "242971968",
+    "title": "Data Visualization with ggplot2",
+    "description": "Data Visualization with ggplot2\n\nR-Ladies Orlando will be running few sessions for Absolute R Beginners!!\n\nThis is the 2nd part of the R for Beginners series ,it's an opportunity for anyone completely new to R to get started. If you missed the first workshop, you can still follow along as this session doesn't rely on the previous one, but make sure you have R and R studio ready to go!!\n\nBring your (charged) laptop.\n\nRead page 1-35 of Garrett Grolemund and Hadley Wickham book, \"R for Data Science\" http://r4ds.had.co.nz/\n\nEveryone is welcome!\n\nParking at Code School:\n\nParking at GAI garage (accessible from South St and Summerlin St.)\n\nAfter 6:00PM the street entrance on the first floor is locked,and the building can only be accessed through the garage entrances and elevetaors on levels P2-P4.\n\nAfter 6:00PM you can park anywhere in the garage.\n\nTo download R, go to https://cloud.r-project.org (https://cloud.r-project.org/)\n\nTo download RStudio http://www.rstudio.com/download\n\nFollow the instructions to download and install.",
+    "status": "PAST",
+    "dateTime": "2017-09-21T19:00:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-orlando/events/242971968/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 17,
+      "waitlistCount": 0,
+      "totalCount": 17
+    },
+    "venues": [
+      {
+        "id": "25327304",
+        "name": "Code School",
+        "address": "618 E South St Ste 620",
+        "city": "Orlando",
+        "state": "FL",
+        "country": "US",
+        "lat": 28.5385,
+        "lon": -81.3688,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Orlando",
+      "urlname": "rladies-orlando"
+    }
+  },
+  {
+    "id": "242542744",
+    "title": "Introduction to R ( Part of Beginners R Workshops)",
+    "description": "Introduction to R and RStudio\n\nR-Ladies Orlando will be running few sessions for Absolute R Beginners!! There will be a short intro to RStudio and R basics at 7:00, followed by Q&A time. This is an opportunity for anyone completely new to R to get started.\n\nBring your (charged) laptop and we'll help you get up and running with the software, walk you through the R programming basics, help with FAQs, point you to relevant learning resources, and any other fundamental R questions you may have!\n\nPlease make sure you have R and RStudio downloaded ready to go.\n\nTo download R, go to https://cloud.r-project.org (https://cloud.r-project.org/)\n\nTo download RStudio http://www.rstudio.com/download\n\nFollow the instructions to download and install.\n\nAlso please create an account with Kaggle, as we are going to be using a lot of their datasets. I think you can loggin with your gmail, yahoo and even facebook account.\n\nAfter we get comfortable playing with R and RStudio will start a series of workshops that will be based on Garrett Grolemund and Hadley Wickham book, \"R for Data Science\" http://r4ds.had.co.nz/\n\n* Visualization: Base R + ggplot\n\n* Introduction to tidyverse\n\n* Data Science with R\n\n-Import\n\n-Tidy\n\nTransform\n\n-Model and Visualize\n\n-Communicate\n\nEveryone is welcome!\n\nParking at Code School:\n\nParking at GAI garage (accessible from South St and Summerlin St.)\n\nAfter 6:00PM the street entrance on the first floor is locked,and the building can only be accessed through the garage entrances and elevetaors on levels P2-P4.\n\nAfter 6:00PM you can park anywhere in the garage.",
+    "status": "PAST",
+    "dateTime": "2017-08-29T19:00:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-orlando/events/242542744/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 14,
+      "waitlistCount": 0,
+      "totalCount": 14
+    },
+    "venues": [
+      {
+        "id": "25327304",
+        "name": "Code School",
+        "address": "618 E South St Ste 620",
+        "city": "Orlando",
+        "state": "FL",
+        "country": "US",
+        "lat": 28.5385,
+        "lon": -81.3688,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Orlando",
+      "urlname": "rladies-orlando"
+    }
+  },
+  {
+    "id": "240770726",
+    "title": "Launch Meetup",
+    "description": "Hello Everyone,\n\nThanks for joining R-Ladies! We're excited to have you aboard.\n\nOur Launch Meetup will be August 8th, 2017 , 7:00-8:30 PM at the Iron Yard.\n\nThis is an opportunity for us to get to know each other, interact and mingle. Every R level is welcome. If you don't know anything about R programming, but have been hearing about data analysis and data science , this is a great way to start. In this meeting we will help you install R, Rstudio and Github, so that you can be ready to tackle the projects and tutorials coming the next meetups.\n\nIf you are an R expert, please join our chapter and the launch meeting, as you can help better serve our community by setting goals and priorities for our chapter. All of us, at any level of expertise will help shape the goals and direction of this chapter; so please join us!\n\nWe hope this will be a collaborative, supportive space to get to know other folks doing work in R, hear about interesting projects, and find your community and collaborators.\n\nCheck out our website (http://rladies.org/) to learn more about R-Ladies and here is our code of conduct (https://github.com/rladies/starter-kit/wiki/Code-of-Conduct)\n\nThe tentative agenda includes:\n\n7:00 PM - 7:30 PM - Arrive & Enjoy snacks and drinks\n\n7:30 PM - 8:00 PM - Short presentation & discussion\n\n• Intro to R-Ladies\n\n• What is R? why do I need it?\n\n• Open discussion for future Meetup ideas!\n\n8:00 PM - 8:30 PM - Install R, R Studio and Github.\n\nPlease RSVP so that I can plan seating, food and raffle prizes.\n\nAgain, thank you for your support and looking forward to meeting you all.\n\nAnd special thank you to the Iron Yard for giving us a space to use.\n\nKathy\n\nR-Ladies Orlando",
+    "status": "PAST",
+    "dateTime": "2017-08-08T19:00:00-04:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-orlando/events/240770726/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 15,
+      "waitlistCount": 0,
+      "totalCount": 15
+    },
+    "venues": [
+      {
+        "id": "24194786",
+        "name": "The Iron Yard",
+        "address": "101 S Garland Ave, # 104",
+        "city": "Orlando",
+        "state": "FL",
+        "country": "us",
+        "lat": 28.5409,
+        "lon": -81.3812,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Orlando",
+      "urlname": "rladies-orlando"
+    }
+  },
+  {
+    "id": "252101590",
+    "title": "One Year Anniversary ",
+    "description": "R Ladies Orlando is One Year Old 🎂\n\nWhat would you like to do to celebrate this milestone?\n\n1. Let’s go out to dinner and talk about R, Data Science , career advice.\n\n2. Let’s learn more R (coding session).\n\n3. Let’s get together talk about future plans for the group and have some cake.\n\nFeel free to comment below, or email me directly orlando@rladies.org\n\nLooking forward to hearing from you!\n\nUpdate: The verdict is in, we will meet at Chela Tacos (http://chelatacos.com) restaurant for a casual dinner and talk about R, data science in Orlando and career advice. Please be aware that this will be at your own expense. Thank you for your support and we surely hope to see you there.",
+    "status": "PAST",
+    "dateTime": "2018-08-08T18:30:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-orlando/events/252101590/",
+    "featuredEventPhoto": {
+      "id": "472327955",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/f/1/3/highres_472327955.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/f/1/3/600_472327955.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/f/1/3/thumb_472327955.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 14,
+      "waitlistCount": 0,
+      "totalCount": 14
+    },
+    "venues": [
+      {
+        "id": "25721325",
+        "name": "Chela Tacos",
+        "address": "183 S. Orange Ave",
+        "city": "Orlando",
+        "state": "FL",
+        "country": "us",
+        "lat": 28.5406,
+        "lon": -81.3784,
+        "postalCode": "32801",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Orlando",
+      "urlname": "rladies-orlando"
+    }
+  },
+  {
+    "id": "251045925",
+    "title": "Deep Learning with R",
+    "description": "The Orlando Machine Learning and Data Science is hosting a series on Deep Learning using R, June 2,2018. It will be great to see some R-Ladies there!!\n\nMake sure to visit their site and RSVP\nhttps://www.meetup.com/Orlando-MLDS/events/250086544/\n\nDetails\nIn this session we shall cover deep neural networks using R and the Keras package.\n\nThe session will be presented by Dr Anton Antonov, a Doctorate in Applied Mathematics, who has extensive experience with machine learning and data science.\n\nSome of his previous presentations can be found at:\n\nhttps://www.youtube.com/watch?v=GddvdXMJV9Y\n\nhttps://www.youtube.com/watch?v=_PeSgez5dqM\n\nThe Session had to be rescheduled due the availability of the presenter\n\nLooking forward to see you all then.",
+    "status": "PAST",
+    "dateTime": "2018-06-02T15:00:00-04:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-orlando/events/251045925/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 7,
+      "waitlistCount": 0,
+      "totalCount": 7
+    },
+    "venues": [
+      {
+        "id": "23500567",
+        "name": "Melrose Center (inside of Orlando Public Library)",
+        "address": "101 E. Central Blvd",
+        "city": "Orlando",
+        "state": "FL",
+        "country": "us",
+        "lat": 28.5425,
+        "lon": -81.3762,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Orlando",
+      "urlname": "rladies-orlando"
+    }
+  },
+  {
+    "id": "248468976",
+    "title": "Advanced Data Wrangling with dplyr: Part I",
+    "description": "Let's move beyond basic skills and dig deeper into more advanced techniques for data wrangling using dplyr. In this session we will learn about: Selecting columns based on partial column names\nSelecting columns based on regex\nSelecting columns by their data type\nSelecting columns by logical expressions\n\nRe-ordering columns:\nColumn names\nRenaming columns\nReformatting all column names\nRow names to column\n\nMutating several columns at once\nMutate_all\nMutate_if\nMutate_at to change specific columns\n\nWorking with discrete columns\nRecoding discrete columns\nCreating new discrete column (two levels)\nCreating new discrete column (multiple levels)\nSplitting and merging columns\nBringing in columns from other data tables\nSpreading and gathering data\nTurning data into NA\n\nThank you Susan Baert from R-Ladies Brussels for creating this tutorial.\n\n• What to bring\nCharged laptop with R, Rstudio and Tidyverse package ready to go.\n\n• Important to know\nYou must adhere to our code of conduct. https://github.com/rladies/starter-kit/wiki/Code-of-Conduct",
+    "status": "PAST",
+    "dateTime": "2018-04-25T19:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-orlando/events/248468976/",
+    "featuredEventPhoto": {
+      "id": "469032237",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/f/c/d/highres_469032237.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/f/c/d/600_469032237.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/f/c/d/thumb_469032237.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 12,
+      "waitlistCount": 0,
+      "totalCount": 12
+    },
+    "venues": [
+      {
+        "id": "25689819",
+        "name": "Teeps",
+        "address": "30 West Colonial Drive",
+        "city": "Orlando",
+        "state": "fl",
+        "country": "us",
+        "lat": 28.5529,
+        "lon": -81.3799,
+        "postalCode": "32801",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Orlando",
+      "urlname": "rladies-orlando"
+    }
+  },
+  {
+    "id": "247879884",
+    "title": "Patchwork Orlando (GitHub workshop)",
+    "description": "RLadies Orlando and Girls Develop It Orlando are proud to partner with GitHub to bring you hands on workshop for learning Git and GitHub. The event will be open to beginners and mentors who want to help others learn. We will only have 50 seats and we will be opening the event to the Orlando Tech community.\nYou MUST use this link https://ti.to/github-events/patchwork-orlando-2018 to register for the event. You MUST register through the link to reserve your seat. This is a free event and it will be open to the Orlando tech community.\n\n*GitHub 101: Introduction to GitHub\n*GitHub 102: Using the GitHub Desktop\n*GitHub 103: Using the Command Line\n\n• What to bring: your fully charged laptop, and if you do not yet have a GitHub account, we ask that you please signup https://github.com before you attend the event. Its easy , fast and of course free.\n\n• Important to know:\n* Parking: there is an open parking lot across the street from CANVS, but if there is an event at the Amway Center, it fills up quickly. There is also a parking garage on W.Pine St. If there is an event at the Amway center, parking fees may go up to $10-$20.\nIf you can't afford the parking fee, please reach out to me (DM).\n\n*You MUST register using the link (https://ti.to/github-events/patchwork-orlando-2018)\n*You must adhere to our code of conduct. https://github.com/rladies/starter-kit/wiki/Code-of-Conduct",
+    "status": "PAST",
+    "dateTime": "2018-04-11T18:00:00-04:00",
+    "duration": "PT3H30M",
+    "eventUrl": "https://www.meetup.com/rladies-orlando/events/247879884/",
+    "featuredEventPhoto": {
+      "id": "468514718",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/7/9/e/highres_468514718.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/7/9/e/600_468514718.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/7/9/e/thumb_468514718.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 25,
+      "waitlistCount": 0,
+      "totalCount": 25
+    },
+    "venues": [
+      {
+        "id": "24100451",
+        "name": "StarterStudio Downtown",
+        "address": "101 S Garland Ave, Suite 108",
+        "city": "Orlando",
+        "state": "FL",
+        "country": "us",
+        "lat": 28.5409,
+        "lon": -81.3812,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Orlando",
+      "urlname": "rladies-orlando"
+    }
+  },
+  {
+    "id": "248300572",
+    "title": "Women in Data Science @UCF",
+    "description": "• What we'll do\nThis is a great opportunity to participate and be part of the Data Science community right here in Orlando. The event is FREE and ALL are welcome!\n\nThe Global Women in Data Science (WiDS) Conference aims to inspire and educate data scientists worldwide, regardless of gender, and support women in the field. This annual one-day technical conference provides an opportunity to hear about the latest data science related research and applications in a broad set of domains, All genders are invited to participate in the conference, which features exclusively female speakers.\n\nThe University of Central Florida's Master of Science in Data Analytics Program is pleased to host this year's program. We will provide a simulcast of the national event from Stanford, as well as the feature the following local speakers:\n\nAgenda\n\n11-11:30am Brunch and Networking\n\n12:00-12:15pm (@UCF) Welcome and Opening Remarks\n\n12:15-1:00pm (@UCF) Women in Data Science Panel\n\n1:05-1:10pm (@UCF) Regional Event Check-in\n\n1:10-1:50pm Technical Vision Talks\n\n1:10-1:30pm\nMala Anand, EVP, President, SAP Leonardo Data Analytics\n1:30-1:50pm\nLada Adamic, Research Scientist Manager, Facebook\n1:50-2:15pm: Morning break\n\n2:15-2:55pm Technical Vision Talks\n\n2:15-2:35pm\nNathalie Henry Riche, Researcher, Microsoft Research\n2:35-2:55pm\nDaniela Witten, Associate Professor of Statistics and Biostatistics, University of Washington\n2:55 - 3:30pm Keynote Address: Latanya Sweeney, Professor of Government and Technology in Residence, Harvard University\n\n3:30 – 3:35pm Closing Remarks\n\nPlease visit their website for more detailed information:\n\nhttps://www.eventbrite.com/e/women-in-data-science-ucf-tickets-43673579853?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing\n\n• What to bring\n\n• Important to know\nPlease visit the official website and make sure you register\nhttps://www.eventbrite.com/e/women-in-data-science-ucf-tickets-43673579853?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing",
+    "status": "PAST",
+    "dateTime": "2018-03-05T11:00:00-05:00",
+    "duration": "PT5H",
+    "eventUrl": "https://www.meetup.com/rladies-orlando/events/248300572/",
+    "featuredEventPhoto": {
+      "id": "468885794",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/2/e/2/highres_468885794.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/2/e/2/600_468885794.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/2/e/2/thumb_468885794.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 13,
+      "waitlistCount": 0,
+      "totalCount": 13
+    },
+    "venues": [
+      {
+        "id": "18527962",
+        "name": "Morgridge International Reading Center at UCF",
+        "address": "4143 Andromeda Loop",
+        "city": "Orlando",
+        "state": "FL",
+        "country": "us",
+        "lat": 28.5974,
+        "lon": -81.2007,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Orlando",
+      "urlname": "rladies-orlando"
+    }
+  },
+  {
+    "id": "246941188",
+    "title": "Active Data Analysis",
+    "description": "• What we'll do : \"Data doesn’t speak for itself, instead it must be interpreted. This is the process of selecting and obtaining the relevant data, finding the interesting facts or patterns, putting them in context, and explaining what they mean\" This meetup will be an 'Active' data analysis session. We will be looking at students' SAT , GPA scores and try to draw conclusion on their college success. Dr. Kari l Jordan will be discussing the meta data and what questions to ask when presented with new dataset. • What to bring: Charged laptop with R, Rstudio and Tidyverse package ready to go. You can download the dataset before hand here: https://github.com/rladies/meetup-presentations_orlando.git\n\nSampleStudents.csv\n\nIf you are new to R programming, this will be a good session to see the thought process that goes into data analysis. We will be offering more \"beginner friendly\" tutorials in the future, please stay connected!\n\n• Important to know : As always , everyone is welcome, but must adhere to our code of conduct : https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nTEEPS has graciously offered to host our Meetups and it will be our regular home for the year. They are downtown, but have free parking. (www.teeps.org) Please use door facing colonial drive. There are only 20 parking spot designated to TEEPS, make sure you park there. Also please look at photos for directions and parking info.",
+    "status": "PAST",
+    "dateTime": "2018-02-21T19:00:00-05:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-orlando/events/246941188/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 13,
+      "waitlistCount": 0,
+      "totalCount": 13
+    },
+    "venues": [
+      {
+        "id": "25689819",
+        "name": "Teeps",
+        "address": "30 West Colonial Drive",
+        "city": "Orlando",
+        "state": "fl",
+        "country": "us",
+        "lat": 28.5529,
+        "lon": -81.3799,
+        "postalCode": "32801",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Orlando",
+      "urlname": "rladies-orlando"
+    }
+  },
+  {
+    "id": "246241644",
+    "title": "Start 2018 with a bang! ",
+    "description": "• What we'll do\nLet's welcome 2018 together.\n\nJoin us January 24,2018 to welcome the new year and 2 new community partners: R-Consortium and TEEPS.\n\nTEEPS has graciously offered to host our Meetups and it will be our regular home for the year. They are downtown, but have free parking. (www.teeps.org) We couldn't be more excited to finally have Amanda Cesario presenting at this Meetup. Amanda is a Senior Analyst at EA sports, she will share with us some of her educational background and career path, how she uses R at EA, and give us a glimpse of her everyday tasks and responsibilities. She is a great inspiration to launch this new year and keep us motivated to learn R.\n\nThis is a casual meetup where we get the chance to simply socialize and network, so no need to bring your laptop. R-Consortium is kindly sponsoring this event, so we will have food and drinks. If you are new to R , this will be a great introductory meetup so please don't hesitate to attend.\n\nAgenda:\n7:00 - 7:30 Food and Drinks\n7:30 - 8:00 Amanda Cesario's presentation\n8:00 - 8:30 Q&A, chat and socialize.\n\nAs always , everyone is welcome, but must adhere to our code of conduct : https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nLooking forward to seeing you soon!\n\n• What to bring\n\n• Important to know\nhttps://github.com/rladies/starter-kit/wiki/Code-of-Conduct",
+    "status": "PAST",
+    "dateTime": "2018-01-24T19:00:00-05:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-orlando/events/246241644/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 19,
+      "waitlistCount": 0,
+      "totalCount": 19
+    },
+    "venues": [
+      {
+        "id": "25689819",
+        "name": "Teeps",
+        "address": "30 West Colonial Drive",
+        "city": "Orlando",
+        "state": "fl",
+        "country": "us",
+        "lat": 28.5529,
+        "lon": -81.3799,
+        "postalCode": "32801",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Orlando",
+      "urlname": "rladies-orlando"
+    }
+  },
+  {
+    "id": "261676258",
+    "title": "R Beginner series: Introduction to dplyr II",
+    "description": "New Year / New Skills\nLet 2019 be a game changing year for you. Come learn R and Data Science skills with us!!\n\nR-Ladies Orlando will be running few sessions for Absolute R Beginners!! There will be a short intro to RStudio and R basics at 7:00, followed by an intro to R for Data Science, using the tidyverse package, specifically dplyr. This is part 4 of the series, but it is still an opportunity for anyone completely new to R to get started.\n\nBring your (charged) laptop and we'll help you get up and running with the software, walk you through the R programming basics, help with FAQs, point you to relevant learning resources, and any other fundamental R questions you may have!\n\nPlease look over our github page for materials from our last workshop (2019-01-23) and see if you can follow through the examples https://github.com/rladies/meetup-presentations_orlando/tree/master/2019-01-23_Workshop\n\nPlease make sure you have R and RStudio downloaded ready to go.\n\nTo download R, go to https://cloud.r-project.org (https://cloud.r-project.org/)\n\nTo download RStudio http://www.rstudio.com/download\n\nFollow the instructions to download and install.\n\nAlso please create an account with Kaggle, as we are going to be using a lot of their datasets. I think you can loggin with your gmail, yahoo and even facebook account.\n\nThe beginners series will be based on Garrett Grolemund and Hadley Wickham book, \"R for Data Science\" http://r4ds.had.co.nz/\n\nTentative schedule:\n\n* Visualization with ggplot2 (End of February)\n\n* Introduction to tidyverse (End of March)\n\n* Data Science with R (End of April)\n\n-Import\n\n-Tidy\n\n-Transform\n\n-Model and Visualize\n\n-Communicate\n\n• Important to know\nAnyone and everyone interested in R/Data Science should join our group and participate/contribute in any way you can, be they learners, teachers, developers or innovators! We encourage women and minority genders to present/lead most sessions, conversations but we have no restrictions whatsoever when it comes to membership, participation, and discussions. So, please join us and bring your R-family & R-friends!\n\nYou must adhere to our code of conduct. https://github.com/rladies/starter-kit/wiki/Code-of-Conduct",
+    "status": "PAST",
+    "dateTime": "2019-05-29T19:00:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-orlando/events/261676258/",
+    "featuredEventPhoto": {
+      "id": "477737606",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/4/c/6/highres_477737606.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/4/c/6/600_477737606.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/4/c/6/thumb_477737606.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 9,
+      "waitlistCount": 0,
+      "totalCount": 9
+    },
+    "venues": [
+      {
+        "id": "25689819",
+        "name": "Teeps",
+        "address": "30 West Colonial Drive",
+        "city": "Orlando",
+        "state": "fl",
+        "country": "us",
+        "lat": 28.5529,
+        "lon": -81.3799,
+        "postalCode": "32801",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Orlando",
+      "urlname": "rladies-orlando"
+    }
+  },
+  {
+    "id": "259868312",
+    "title": "R Beginner series: Introduction to dplyr",
+    "description": "New Year / New Skills\nLet 2019 be a game changing year for you. Come learn R and Data Science skills with us!!\n\nR-Ladies Orlando will be running few sessions for Absolute R Beginners!! There will be a short intro to RStudio and R basics at 7:00, followed by an intro to R for Data Science, using the tidyverse package, specifically dplyr. This is part 3 of the series, but it is still an opportunity for anyone completely new to R to get started.\n\nBring your (charged) laptop and we'll help you get up and running with the software, walk you through the R programming basics, help with FAQs, point you to relevant learning resources, and any other fundamental R questions you may have!\n\nPlease look over our github page for materials from our last workshop (2019-01-23) and see if you can follow through the examples https://github.com/rladies/meetup-presentations_orlando/tree/master/2019-01-23_Workshop\n\nPlease make sure you have R and RStudio downloaded ready to go.\n\nTo download R, go to https://cloud.r-project.org (https://cloud.r-project.org/)\n\nTo download RStudio http://www.rstudio.com/download\n\nFollow the instructions to download and install.\n\nAlso please create an account with Kaggle, as we are going to be using a lot of their datasets. I think you can loggin with your gmail, yahoo and even facebook account.\n\nThe beginners series will be based on Garrett Grolemund and Hadley Wickham book, \"R for Data Science\" http://r4ds.had.co.nz/\n\nTentative schedule:\n\n* Visualization with ggplot2 (End of February)\n\n* Introduction to tidyverse (End of March)\n\n* Data Science with R (End of April)\n\n-Import\n\n-Tidy\n\n-Transform\n\n-Model and Visualize\n\n-Communicate\n\n• Important to know\nAnyone and everyone interested in R/Data Science should join our group and participate/contribute in any way you can, be they learners, teachers, developers or innovators! We encourage women and minority genders to present/lead most sessions, conversations but we have no restrictions whatsoever when it comes to membership, participation, and discussions. So, please join us and bring your R-family & R-friends!\n\nYou must adhere to our code of conduct. https://github.com/rladies/starter-kit/wiki/Code-of-Conduct",
+    "status": "PAST",
+    "dateTime": "2019-04-03T19:00:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-orlando/events/259868312/",
+    "featuredEventPhoto": {
+      "id": "477737606",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/4/c/6/highres_477737606.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/4/c/6/600_477737606.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/4/c/6/thumb_477737606.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 14,
+      "waitlistCount": 0,
+      "totalCount": 14
+    },
+    "venues": [
+      {
+        "id": "25689819",
+        "name": "Teeps",
+        "address": "30 West Colonial Drive",
+        "city": "Orlando",
+        "state": "fl",
+        "country": "us",
+        "lat": 28.5529,
+        "lon": -81.3799,
+        "postalCode": "32801",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Orlando",
+      "urlname": "rladies-orlando"
+    }
+  },
+  {
+    "id": "259397543",
+    "title": "Women In Data Science (WiDS) Conference -UCF",
+    "description": "UCF is holding it's annual Women in Data Science Conference, featuring Keynote Speaker Daphne Kis, CEO of WorldQuant University and Co-Founder of Litmus Health\n\nhttps://events.ucf.edu/event/1196329/women-in-data-science-conference-hear-from-ucf-stanford-university-and-industry-experts/\n\nNote: this is not hosted by RLadies, but it is a great opportunity to participate and be part of the Data Science community right here in Orlando. The event is FREE and ALL are welcome!",
+    "status": "PAST",
+    "dateTime": "2019-03-04T09:00:00-05:00",
+    "duration": "PT5H",
+    "eventUrl": "https://www.meetup.com/rladies-orlando/events/259397543/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "26213765",
+        "name": "University of Central Florida",
+        "address": "4000 Central Florida Blvd",
+        "city": "Orlando",
+        "state": "FL",
+        "country": "us",
+        "lat": 28.6024,
+        "lon": -81.2001,
+        "postalCode": "32816",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Orlando",
+      "urlname": "rladies-orlando"
+    }
+  },
+  {
+    "id": "258746946",
+    "title": "R Beginner series: Part 2 Visualization with ggplot2",
+    "description": "New Year / New Skills\nLet 2019 be a game changing year for you. Come learn R and Data Science skills with us!!\n\nR-Ladies Orlando will be running few sessions for Absolute R Beginners!! There will be a short intro to RStudio and R basics at 7:00, followed by an intro to R for Data Science: Visualization with ggplot2. This is part 2 of the series, but it is still an opportunity for anyone completely new to R to get started.\n\nBring your (charged) laptop and we'll help you get up and running with the software, walk you through the R programming basics, help with FAQs, point you to relevant learning resources, and any other fundamental R questions you may have!\n\nPlease look over our github page for materials from our last workshop (2019-01-23) and see if you can follow through the examples https://github.com/rladies/meetup-presentations_orlando/tree/master/2019-01-23_Workshop\n\nPlease make sure you have R and RStudio downloaded ready to go.\n\nTo download R, go to https://cloud.r-project.org (https://cloud.r-project.org/)\n\nTo download RStudio http://www.rstudio.com/download\n\nFollow the instructions to download and install.\n\nAlso please create an account with Kaggle, as we are going to be using a lot of their datasets. I think you can loggin with your gmail, yahoo and even facebook account.\n\nThe beginners series will be based on Garrett Grolemund and Hadley Wickham book, \"R for Data Science\" http://r4ds.had.co.nz/\n\nTentative schedule:\n\n* Visualization with ggplot2 (End of February)\n\n* Introduction to tidyverse (End of March)\n\n* Data Science with R (End of April)\n\n-Import\n\n-Tidy\n\n-Transform\n\n-Model and Visualize\n\n-Communicate\n\n• Important to know\nAnyone and everyone interested in R/Data Science should join our group and participate/contribute in any way you can, be they learners, teachers, developers or innovators! We encourage women and minority genders to present/lead most sessions, conversations but we have no restrictions whatsoever when it comes to membership, participation, and discussions. So, please join us and bring your R-family & R-friends!\n\nYou must adhere to our code of conduct. https://github.com/rladies/starter-kit/wiki/Code-of-Conduct",
+    "status": "PAST",
+    "dateTime": "2019-02-27T19:00:00-05:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-orlando/events/258746946/",
+    "featuredEventPhoto": {
+      "id": "477737606",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/4/c/6/highres_477737606.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/4/c/6/600_477737606.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/4/c/6/thumb_477737606.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 10,
+      "waitlistCount": 0,
+      "totalCount": 10
+    },
+    "venues": [
+      {
+        "id": "25689819",
+        "name": "Teeps",
+        "address": "30 West Colonial Drive",
+        "city": "Orlando",
+        "state": "fl",
+        "country": "us",
+        "lat": 28.5529,
+        "lon": -81.3799,
+        "postalCode": "32801",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Orlando",
+      "urlname": "rladies-orlando"
+    }
+  },
+  {
+    "id": "257668446",
+    "title": "R Beginner series: Part 1 Introduction to R and RStudio ",
+    "description": "New Year / New Skills\nLet 2019 be a game changing year for you. Come learn R and Data Science skills with us!!\n\nR-Ladies Orlando will be running few sessions for Absolute R Beginners!! There will be a short intro to RStudio and R basics at 7:00, followed by Q&A time. This is an opportunity for anyone completely new to R to get started.\n\nBring your (charged) laptop and we'll help you get up and running with the software, walk you through the R programming basics, help with FAQs, point you to relevant learning resources, and any other fundamental R questions you may have!\n\nPlease make sure you have R and RStudio downloaded ready to go.\n\nTo download R, go to https://cloud.r-project.org (https://cloud.r-project.org/)\n\nTo download RStudio http://www.rstudio.com/download\n\nFollow the instructions to download and install.\n\nAlso please create an account with Kaggle, as we are going to be using a lot of their datasets. I think you can loggin with your gmail, yahoo and even facebook account.\n\nAfter we get comfortable playing with R and RStudio will start a series of workshops that will be based on Garrett Grolemund and Hadley Wickham book, \"R for Data Science\" http://r4ds.had.co.nz/\n\n* Visualization: Base R + ggplot\n\n* Introduction to tidyverse\n\n* Data Science with R\n\n-Import\n\n-Tidy\n\n-Transform\n\n-Model and Visualize\n\n-Communicate\n\n• Important to know\nAnyone and everyone interested in R/Data Science should join our group and participate/contribute in any way you can, be they learners, teachers, developers or innovators! We encourage women and minority genders to present/lead most sessions, conversations but we have no restrictions whatsoever when it comes to membership, participation, and discussions. So, please join us and bring your R-family & R-friends!\n\nYou must adhere to our code of conduct. https://github.com/rladies/starter-kit/wiki/Code-of-Conduct",
+    "status": "PAST",
+    "dateTime": "2019-01-23T19:00:00-05:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-orlando/events/257668446/",
+    "featuredEventPhoto": {
+      "id": "477737606",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/4/c/6/highres_477737606.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/4/c/6/600_477737606.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/4/c/6/thumb_477737606.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 25,
+      "waitlistCount": 0,
+      "totalCount": 25
+    },
+    "venues": [
+      {
+        "id": "25689819",
+        "name": "Teeps",
+        "address": "30 West Colonial Drive",
+        "city": "Orlando",
+        "state": "fl",
+        "country": "us",
+        "lat": 28.5529,
+        "lon": -81.3799,
+        "postalCode": "32801",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Orlando",
+      "urlname": "rladies-orlando"
+    }
+  }
+]

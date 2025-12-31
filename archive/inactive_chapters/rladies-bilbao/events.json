@@ -1,0 +1,197 @@
+[
+  {
+    "id": "266014306",
+    "title": "Desarrollo de paquetes de R con RStudio",
+    "description": "Kaixo R-Ladies!\n\n¡Volvemos con otro taller! Esta vez vamos a aprender a crear paquetes de R con RStudio, de la mano de Natalia Vilor Tejedor.\n\nDetalles:\nTítulo: Desarrollo de paquetes de R con RStudio\nFecha: Martes, 5 de noviembre\nHora: 18:00\nLugar: Wikitoki, Plaza La Cantera, 5-2º, Bilbao\n\nQué hay que traer:\n- Portátil\n- R instalado (https://cloud.r-project.org/)\n- RStudio instalado (https://rstudio.com/products/rstudio/download/)\n- Rtools instalado: http://cran.r-project.org/bin/windows/Rtools\n- Latex compiler (e.g. MIKTeX) instalado: http://miktex.org/download\n- El paquete devtools instalado: `library(devtools)`\n\nSobre Natalia Vilor Tejedor (@natvilortejedor):\n\nNatalia es investigadora postdoctoral en el Centro de Regulación Genómica y el BarcelonaBeta Brain Research Center de Barcelona, e investigadora externa en el Departamento de Clinical Genetics del Erasmus Medical Center en Rotterdam. Natalia es matemática de formación, tiene un máster en análisis de datos ómicos, y en 2018 se doctoró en el programa de Biomedicina de la Universidad Pompeu Fabra. Su investigación se centra en la integración de datos ómicos y de neuroimagen para estudiar los procesos de neurodesarrollo y neurodegeneración del cerebro. En sus ratos libres co-organiza los eventos de R-Ladies Barcelona (@RladiesBCN), y mucho más... ¡ven a conocerla!",
+    "status": "PAST",
+    "dateTime": "2019-11-05T18:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-bilbao/events/266014306/",
+    "featuredEventPhoto": {
+      "id": "486162566",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/6/4/6/highres_486162566.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/6/4/6/600_486162566.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/6/4/6/thumb_486162566.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 26,
+      "waitlistCount": 0,
+      "totalCount": 26
+    },
+    "venues": [
+      {
+        "id": "26618735",
+        "name": "Wikitoki",
+        "address": "Harrobi Plaza, 5",
+        "city": "Bilbo",
+        "state": "Bi",
+        "country": "es",
+        "lat": 43.2548,
+        "lon": -2.9286,
+        "postalCode": "48003",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bilbao",
+      "urlname": "rladies-bilbao"
+    }
+  },
+  {
+    "id": "264686429",
+    "title": "Visualización de datos: Introducción a ggplot2",
+    "description": "Kaixo R-Ladies!\n\n¡¡Estamos de vuelta!! Para este comienzo hemos preparado un taller acerca de la visualización de datos!!\nSerá un taller práctico, en el que iremos descubriendo la gramática de ggplot2 para hacer gráficos.\n\nDetalles:\nTítulo: Visualización de datos, introducción a ggplot2\nFecha: jueves, 19 de septiembre\nHora: 18:00\nLugar: Wikitoki, Plaza La Cantera, 5 - 2º, Bilbao\n\nQué hay que traer:\n- Portátil\n- R instalado (https://cloud.r-project.org/)\n- RStudio instalado (https://www.rstudio.com/products/rstudio/download/)\n- ggplot2 o tidyverse instalado, preferentemente.\n\nPrograma:\n\n1) Introducción a la visualización de datos\n1.1) Historia de la visualización de datos (Milestones tour)\n\n2) Introducción a ggplot2\n2.1) Qué es\n2.2) Un paquete dentro de Tidyverse\n2.3) Gramática de los gráficos ggplot2\n\n3) Elementos básicos en ggplot2\n3.1) Visualización de aesthetics\n3.2) Geometrías:\n- geom_point\n- geom_line\n- geom_bar\n- geom_boxplot\n- geom_histogram\n- geom_smooth\n3.3) Capas\n3.4) Facets\n3.5) Themes\n\n4) Aspectos avanzados de ggplot2\n4.1) Plotly\n4.2) Ejemplos de gráficos sofisticados\n\n¡Os esperamos el 19 de septiembre!\n\nEl material del taller lo podéis encontrar en nuestro GitHub, aquí: https://github.com/RLadiesBIO/Presentaciones-Aurkezpenak/tree/master/2019-09-19_2Taller",
+    "status": "PAST",
+    "dateTime": "2019-09-19T18:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-bilbao/events/264686429/",
+    "featuredEventPhoto": {
+      "id": "484739612",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/e/8/d/c/highres_484739612.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/e/8/d/c/600_484739612.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/8/d/c/thumb_484739612.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 21,
+      "waitlistCount": 0,
+      "totalCount": 21
+    },
+    "venues": [
+      {
+        "id": "26618735",
+        "name": "Wikitoki",
+        "address": "Harrobi Plaza, 5",
+        "city": "Bilbo",
+        "state": "Bi",
+        "country": "es",
+        "lat": 43.2548,
+        "lon": -2.9286,
+        "postalCode": "48003",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bilbao",
+      "urlname": "rladies-bilbao"
+    }
+  },
+  {
+    "id": "262380220",
+    "title": "Primer evento R-Ladies Bilbao lehen topaketa",
+    "description": "¡El primer evento de R-Ladies Bilbao ya está aquí! Sera el día 27 de junio a las 18:00 en el BCAM (Alameda de Mazarredo, 14, Bilbao).\n\nNos presentaremos y hablaremos sobre:\n- El proyecto R-Ladies\n- La necesidad de este tipo de iniciativas\n- R y sus potencialidades\n- También queremos conoceros y saber como os gustaría ir creando esta comunidad.\n\n¡Si conocéis a más gente que pueda estar interesada no dudéis en difundirlo! ¡Os esperamos! 😊\n\n*Si aún no lo has hecho, puedes rellenar la encuesta (https://docs.google.com/forms/d/e/1FAIpQLSeheFrKIAA3iH51f05mN6IjRoUcU1zcM2MhnXlfpBPdZvsCtA/viewform)\nque hemos preparado para recoger vuestros intereses y preferencias.\n\n----\n\nR-Ladies Bilbo lehen topaketa hemen da! Ekainaren 27an izango da, 18:00etan BCAM en (Mazarredo Zumarkalea 14, Bilbo).\n\nGure burua aurkeztu eta honako gaiei buruz hitz egingo dugu:\n- R-Ladies proiektua\n- Horrelako taldeen beharra\n- R eta honen gaitasunak\n- Zuen berri ere izan nahi dugu eta komunitatea nola eraiki nahi dugun pentsatu.\n\nInteresa izan dezakeen edonor ezagutu ezkero birbidali zalantzarik gabe! Laster arte! 😊\n\n*Oraindik ez baduzu egin, prestatu dugun inkesta (https://docs.google.com/forms/d/e/1FAIpQLSfd2R1yG4bpJKUHH_8skFLM6D4oELRp0vrc76BEF-KmrYperw/viewform) bete dezakezu zuen interes eta lehentasunak jasotzeko.\n\nR-Ladies Bilbao\n\nbilbao@rladies.org\nhttps://twitter.com/RLadiesBIO",
+    "status": "PAST",
+    "dateTime": "2019-06-27T18:00:00+02:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-bilbao/events/262380220/",
+    "featuredEventPhoto": {
+      "id": "482327513",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/9/9/9/highres_482327513.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/9/9/9/600_482327513.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/9/9/9/thumb_482327513.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 15,
+      "waitlistCount": 0,
+      "totalCount": 15
+    },
+    "venues": [
+      {
+        "id": "26460563",
+        "name": "Mazarredo Zumarkalea, 14",
+        "address": "Mazarredo Zumarkalea, 14",
+        "city": "Bilbo",
+        "state": "Bi",
+        "country": "es",
+        "lat": 43.267,
+        "lon": -2.9302,
+        "postalCode": "48009",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bilbao",
+      "urlname": "rladies-bilbao"
+    }
+  },
+  {
+    "id": "267743949",
+    "title": "Testuak prozesatzen eta bisualizatzen R-rekin",
+    "description": "Kaixo R-Ladies!\n\nBueltan gara gu ere urte berriarekin batera! Itziar Gonzalez-Dios-en eskutik \"Testuak prozesatzen eta bisualizatzen R-rekin\" tailerra izango dugu, Azkuna Zentroan, Open Codes. We are Data erakusketaren baitan.\n\nXehetasunak:\nIzenburua: Testuak prozesatzen eta bisualizatzen R-rekin\nData: Asteartea, urtarrilak 14\nOrdua: 18:00\nTokia: Azkuna Zentroa - Alhóndiga Bilbao (2. solairua, Open Space gunea, erakusketa aretoa), Arrikibar Plaza, Bilbo.\n\nZer beharko duzu:\n- Ordenagailua\n- R instalatua (https://cloud.r-project.org/)\n- RStudio instalatua (https://rstudio.com/products/rstudio/download/)\n- Gomendagarria hurrengo R-ko paketeak instalatuta izatea: plyr, dplyr, readr, topicmodels, tidytext, ggplot2, tidyr, tm, wordcloud, udpipe, lattice, igraph, ggraph, textrank.\n\nTailerrari buruz:\n\nSaio honetan R-rekin testuen analisi automatikoa egiten ikasiko dugu eta analisi horietatik abiatuta testuen bisualizazioak egingo ditugu euskarazko eta gaztelaniazko testuekin. Praktika horiekin batera, Hizkuntzaren Prozesamenduan eta Corpus Hizkuntzalaritzan ezinbestekoak diren hainbat kontzeptu azalduko ditugu.\n\nHizlariari buruz: Itziar Gonzalez-Dios (@ItziarGD)\n\nItziar Aleman Filologian lizentziatua (2010) da, Hizkuntzaren Azterketan eta Prozesamenduan masterra du (2011) eta Hizkuntzalaritza Konputazionalean egin du doktoretza (2016). Ixa taldeko ikertzailea da 2010etik eta egun Bilboko Ingeniaritza Eskolako irakaslea da, Euskal Hizkuntza eta Komunikazioa sailekoa. Bere ikerketa-lerro nagusiak testuen konplexutasunaren azterketa, sinplifikazio automatikoa, lexikografia, semantika eta terminologia konputazionala dira.... Etor zaitez bera ezagutzera!\n\n*Tailerraren eta materialaren hizkuntza, printzipioz, euskara izango da. Dena den, biltzen garen jendearen arabera, gaztelaniarekin konbina dezakegu, inor kanpoan gera ez dadin.\n\n*El idioma principal del taller y del material será el euskera. Sin embargo, dependiendo de la gente que nos juntemos, intentaremos combinar idiomas para que todas estemos cómodas.",
+    "status": "PAST",
+    "dateTime": "2020-01-14T18:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-bilbao/events/267743949/",
+    "featuredEventPhoto": {
+      "id": "487981477",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/c/5/highres_487981477.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/c/5/600_487981477.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/c/5/thumb_487981477.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 28,
+      "waitlistCount": 0,
+      "totalCount": 28
+    },
+    "venues": [
+      {
+        "id": "26695282",
+        "name": "Azkuna Zentroa Alhóndiga Bilbao",
+        "address": "Arriquíbar Plaza, 4",
+        "city": "Bilbo",
+        "state": "Bi",
+        "country": "es",
+        "lat": 43.2598,
+        "lon": -2.9368,
+        "postalCode": "48010",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bilbao",
+      "urlname": "rladies-bilbao"
+    }
+  },
+  {
+    "id": "282409755",
+    "title": "Taylor y Sailor: diagramas para comparar simulaciones frente a las observaciones",
+    "description": "Kaixo R-Ladies!\n\nDespués del parón de los últimos meses debido a la pandemia, ¡vuelve R-Ladies Bilbao con un nuevo evento!\n\nEn esta ocasión vamos a aprender a utilizar las herramientas de validación Taylor y Sailor para comparar diferentes simulaciones frente a las observaciones de la mano de Sheila Carreño.\n\nDetalles:\nTítulo: \"Taylor y Sailor: diagramas para comparar diferentes simulaciones frente a las observaciones\"\nFecha: Martes, 14 de diciembre\nHora: 18:00\nLugar: Wikitoki, Plaza La Cantera, 5-2º, Bilbao\n\nCon el objetivo de controlar el aforo, os animamos a enviarnos un email si tenéis intención de asistir.\n\nQué hay que traer:\n- Portátil\n- R instalado (https://cloud.r-project.org/)\n- RStudio instalado (https://rstudio.com/products/rstudio/download/)\n\nSobre Sheila Carreño-Madinabeitia (http://www.ehu.eus/eolo/sheila.html):\n\nSheila es profesora del departamento de Matemáticas en la Facultad de Farmacia de la UPV-EHU en Vitoria-Gasteiz. Anteriormente ha trabajado durante 10 años como investigadora en el área de meteorología del centro tecnológico Tecnalia.\n\nSheila es matemática de formación, tiene un máster en estadística y recientemente se ha doctorado en el programa de Física de la UPV-EHU. Su investigación se centra en el campo de la predicción meteorologíca y las energías renovables. Junto con el grupo de investigación EOLO ha desarrollado la herramienta de validación Sailor que nos presenta en este taller.",
+    "status": "PAST",
+    "dateTime": "2021-12-14T18:00:00+01:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-bilbao/events/282409755/",
+    "featuredEventPhoto": {
+      "id": "500547743",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/c/5/f/highres_500547743.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/c/5/f/600_500547743.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/c/5/f/thumb_500547743.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 11,
+      "waitlistCount": 0,
+      "totalCount": 11
+    },
+    "venues": [
+      {
+        "id": "26618735",
+        "name": "Wikitoki",
+        "address": "Harrobi Plaza, 5",
+        "city": "Bilbo",
+        "state": "Bi",
+        "country": "es",
+        "lat": 43.2548,
+        "lon": -2.9286,
+        "postalCode": "48003",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bilbao",
+      "urlname": "rladies-bilbao"
+    }
+  }
+]

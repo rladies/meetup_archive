@@ -1,0 +1,275 @@
+[
+  {
+    "id": "275260700",
+    "title": "R Markdown: ON YOUR MARKS, GET SET, GO!!",
+    "description": "Hello, R enthusiasts!!!\nWould you like to analyse your data, share and reproduce your results, All in one go?\nLet's do it with R Markdown !!!\n\nCome join us in our upcoming meet-up \"R Markdown: On Your Marks, Get Set, GO!!!\"\n\n> ? What is R Markdown\nR Markdown allows you to generate documents of all types (reports, presentations, books, etc.) with embedded R code and outputs (plots, tables, figures etc.).\n\n> ? Who is this for\nThis introduction is appropriate for anyone with a general interest in R and R Markdown.\n\n>? Prerequisites\nPrior knowledge in R programming language is recommended but not necessary.\nAttendees are expected to have the most recent version of R and RStudio installed on their own computers, along with the following packages and their dependencies.\n\n`install.packages(c(\"tidyverse\",\"knitr\",\"rmarkdown\"))`\n\nHere are links to free downloads for R (https://cran.r-project.org/) and RStudio (https://www.rstudio.com/products/rstudio/download/#download).\n\n> ? When\nMonday, 28 December from 5.00pm - 6.30 pm ( Time Zone - GMT+5.30, India)\n\n> ? Where\nWe'll be live on Zoom.\n\nJoin Zoom Meeting\nhttps://learn.zoom.us/j/66645976860?pwd=MkhQMVhvdWFRdlQ1UWVEUXZDanN2Zz09\n\nMeeting ID: 666 4597 6860\nPasscode: e$%0NKL2\n\n> ? Agenda\n5.00 - 5.15 pm : Who we are? | Meet & Greet | Networking\n5.15 - 6.15 pm : Workshop on \"R Markdown - ON YOUR MARKS, GET SET,\nGO!\"\n6.15 - 6.30 pm : Discussion with audience on questions / resources |\nMore Networking | Wrap up\n\nTo ensure a safe, enjoyable, and friendly experience for everyone who participates, we follow the R-Ladies International Code of Conduct here: https://github.com/rladies/.github/blob/master/CODE_OF_CONDUCT.md\n\n> ? speakers and event organizers\n\nThiyanga S. Talagala\nCheck out her work at: https://thiyanga.netlify.app/\nand\nPriyanga D. Talagala\nCheck out her work at: http://prital.netlify.com/",
+    "status": "PAST",
+    "dateTime": "2020-12-28T17:00:00+05:30",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-colombo/events/275260700/",
+    "featuredEventPhoto": {
+      "id": "494000355",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/f/8/3/highres_494000355.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/f/8/3/600_494000355.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/f/8/3/thumb_494000355.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 49,
+      "waitlistCount": 0,
+      "totalCount": 49
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Colombo",
+      "urlname": "rladies-colombo"
+    }
+  },
+  {
+    "id": "282748888",
+    "title": "Hierarchical Forecasting of Dengue Incidence in Sri Lanka",
+    "description": "Hello, R enthusiasts!!!\nDengue is the most rapidly growing mosquito-borne viral infection in the world. This talk presents a hierarchical approach for time series forecasting using R. This is joint work with Dr Thiyanga S. Talagala\n\n> ? Speaker\nSamudra Madushani, University of Sri Jayewardenepura, Sri Lanka\nCheck out his work at:\nhttps://darecentre.org.au/portfolio_page/samudra-madushani/\n\n> ? Who is this for\nThis introduction is appropriate for anyone with a general interest in R and data science.\n\n>? Prerequisites\nPrior knowledge in R programming language is recommended but not necessary.\n\n> ?when\n22 December, 2021 from 5.00 pm (Time Zone - GMT+5.30, India)\n\n> ?where\nWe'll be live on Zoom.\nZoom link :\n\nTime: Dec 22, 2021 05:00 PM India\n\nJoin Zoom Meeting\nhttps://learn.zoom.us/j/69546828234?pwd=QTV1aG9Hdzd5bjY3dlAwQ1FrZHRNZz09\n\nMeeting ID: 695 4682 8234\nPasscode: WAK1Qv.D\n\n> ?Agenda\n- 10 Min: Meet & Greet | Networking\n- 40 min: Workshop on \"Hierarchical Forecasting of Dengue Incidence in Sri Lanka\"\n- 10 min: Discussion with the audience on questions/resources | More Networking | Wrap up\n\nTo ensure a safe, enjoyable, and friendly experience for everyone who participates, we follow the R-Ladies International Code of Conduct here: https://github.com/rladies/.github/blob/master/CODE_OF_CONDUCT.md\n\n> ?event organizers\nThiyanga S. Talagala: https://thiyanga.netlify.app/ and\nPriyanga D. Talagala: https://prital.netlify.app/",
+    "status": "PAST",
+    "dateTime": "2021-12-22T17:00:00+05:30",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-colombo/events/282748888/",
+    "featuredEventPhoto": {
+      "id": "500895707",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/d/5/b/highres_500895707.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/d/5/b/600_500895707.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/d/5/b/thumb_500895707.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 26,
+      "waitlistCount": 0,
+      "totalCount": 26
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Colombo",
+      "urlname": "rladies-colombo"
+    }
+  },
+  {
+    "id": "277480335",
+    "title": "Data Wrangling with R",
+    "description": "Hello, R enthusiasts!!!\n\nDo you know that data wrangling costs analytics professionals as much as 80% of their time, leaving only 20% for exploration and modeling? Come join us in our upcoming meet-up \"Data wrangling with R\" to learn tools in R that make data wrangling fun and easy!!!\n\n> ? Speaker\nJanith Wanniarachchi, University of Sri Jayewardenepura, Sri Lanka\nCheck out his work at:\nhttps://janithwanni.netlify.app/\n\n> ? Who is this for\nThis introduction is appropriate for anyone with a general interest in R and data science.\n\n>? Prerequisites\nPrior knowledge in R programming language is recommended but not necessary. Attendees are expected to have the most recent version of R and RStudio installed on their own computers.\n\nHere are links to free downloads for R (https://cran.r-project.org/) and RStudio (https://www.rstudio.com/products/rstudio/download/#download).\n\n> ?when\n22 April, 2021 from 5.00 pm (Time Zone - GMT+5.30, India)\n\n> ?where\nWe'll be live on Zoom.\nZoom link :\n\nJoin Zoom Meeting\nhttps://learn.zoom.us/j/67674005766?pwd=VzVXQXpQQ0FNdzBOWW0wTXpTL1d1Zz09\n\nMeeting ID: 676 7400 5766\nPasscode: H@GtVak7\n\n> ?Agenda\n- 10 Min: Meet & Greet | Networking\n- 35 min: Workshop on \"Data wrangling with R\"\n- 15 min: Discussion with the audience on questions/resources | More Networking | Wrap up\n\nTo ensure a safe, enjoyable, and friendly experience for everyone who participates, we follow the R-Ladies International Code of Conduct here: https://github.com/rladies/.github/blob/master/CODE_OF_CONDUCT.md\n\n> ?event organizers\nThiyanga S. Talagala: https://thiyanga.netlify.app/ and\nPriyanga D. Talagala: http://prital.netlify.com/",
+    "status": "PAST",
+    "dateTime": "2021-04-22T17:00:00+05:30",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-colombo/events/277480335/",
+    "featuredEventPhoto": {
+      "id": "495619096",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/a/9/8/highres_495619096.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/a/9/8/600_495619096.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/a/9/8/thumb_495619096.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 51,
+      "waitlistCount": 0,
+      "totalCount": 51
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Colombo",
+      "urlname": "rladies-colombo"
+    }
+  },
+  {
+    "id": "276769775",
+    "title": "Machine Learning in R",
+    "description": "Hello, R enthusiasts!!!\n\nDo you want to do machine learning using R, but you’re having trouble getting started?\n\nCome join us in our upcoming meet-up “Machine Learning in R”\n\n> ? Speaker\nDr. Kasun Bandara, University of Melbourne, Australia\n\n>? Who is this for\nThis introduction is appropriate for anyone with a general interest in R and Machine Learning.\n\n> ? Prerequisites\nPrior knowledge in R programming language and machine learning is recommended but not necessary. Attendees are expected to have the most recent version of R and RStudio installed on their own computers.\n\nHere are links to free downloads for R (https://cran.r-project.org/) and RStudio (https://www.rstudio.com/products/rstudio/download/#download).\n\n> ? when\nMonday, 29 March, 2021 from 12.00 pm - 1.00 pm ( Time Zone - GMT+5.30, India)\n\n> ?where\nWe’ll be live on Zoom.\n\nJoin Zoom Meeting\nhttps://learn.zoom.us/j/65267085753?pwd=TDBNaVlCL1R6SVl0OUcxNXZSNThodz09\n\nMeeting ID: 652 6708 5753\nPasscode: pBS^%9z0\n\n> ?Agenda\n- 12.00 noon - 12.15 pm:Meet & Greet | Networking\n- 12.15 pm - 12.45 pm: Workshop on “Machine Learning in R”\n- 12.45 pm -1.00 pm: Discussion with audience on questions / resources | More Networking | Wrap up\n\nTo ensure a safe, enjoyable, and friendly experience for everyone who participates, we follow the R-Ladies International Code of Conduct here: https://github.com/rladies/.github/blob/master/CODE_OF_CONDUCT. md\n\n> ?event organizers\nThiyanga S. Talagala: https://thiyanga.netlify.app/\nand\nPriyanga Dilini Talagala: https://prital.netlify.app/",
+    "status": "PAST",
+    "dateTime": "2021-03-29T12:00:00+05:30",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-colombo/events/276769775/",
+    "featuredEventPhoto": {
+      "id": "495037279",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/1/9/f/highres_495037279.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/1/9/f/600_495037279.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/1/9/f/thumb_495037279.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 89,
+      "waitlistCount": 0,
+      "totalCount": 89
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Colombo",
+      "urlname": "rladies-colombo"
+    }
+  },
+  {
+    "id": "276103634",
+    "title": "Around the world in 30 minutes (Map Creation with R)",
+    "description": "Hello, R enthusiasts!!!\n\nWould you like to explore and communicate the geographic distribution of your data? Let's do it with choropleths and alternative map creation in R !!!\n\nCome join us in our upcoming meet-up \"Around the world in 30 minutes\"\n\n> ? Speaker\nStephanie Kobakian\nQueensland University of Technology and Monash University, Australia\nCheck out her work at: https://srk.netlify.app/\n\n> ? Who is this for\nThis introduction is appropriate for anyone with a general interest in R and map creation.\n\n> ? Prerequisites\nPrior knowledge in R programming language is recommended but not necessary. Attendees are expected to have the most recent version of R and RStudio installed on their own computers, along with the following packages and their dependencies.\n\nHere are links to free downloads for R (https://cran.r-project.org/) and RStudio (https://www.rstudio.com/products/rstudio/download/#download).\n\n> ? when\nTuesday, 23 February, 2021 from 12.00 noon - 1.00 pm ( Time Zone - GMT+5.30, India)\n\n> ? where\nWe'll be live on Zoom.\nZoom link :\n\nJoin Zoom Meeting\nhttps://learn.zoom.us/j/62922672425?pwd=TDFzd2ZENHZSU21INHRsS0JpalU5Zz09\n\nMeeting ID: 629 2267 2425\nPasscode: 5XcY3N@0\n\n> ? Agenda\n- 12.00 noon - 12.15 pm: Meet & Greet | Networking\n- 12.15 pm - 12.45 pm: Workshop on \"Around the world in 30 minutes\"\n- 12.45 pm -1.00 pm: Discussion with audience on questions / resources | More Networking | Wrap up\n\nTo ensure a safe, enjoyable, and friendly experience for everyone who participates, we follow the R-Ladies International Code of Conduct here: https://github.com/rladies/.github/blob/master/CODE_OF_CONDUCT.md\n\n> ?event organizers\nThiyanga S. Talagala: https://thiyanga.netlify.app/\nand\nPriyanga Dilini Talagala: https://prital.netlify.app/",
+    "status": "PAST",
+    "dateTime": "2021-02-23T12:00:00+05:30",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-colombo/events/276103634/",
+    "featuredEventPhoto": {
+      "id": "494574802",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/6/1/2/highres_494574802.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/6/1/2/600_494574802.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/6/1/2/thumb_494574802.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 49,
+      "waitlistCount": 0,
+      "totalCount": 49
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Colombo",
+      "urlname": "rladies-colombo"
+    }
+  },
+  {
+    "id": "275639176",
+    "title": "Plot a lot with ggplot2 to find plots",
+    "description": "Hello, R enthusiasts!!!\nWould you like to tell your data story with compelling visuals?\nLet's do it with ggplot2 !!!\n\nCome join us in our upcoming meet-up \"Plot a lot with ggplot2 to find plots\"\n\n> ?ggplot2\nR package, ggplot2 is dedicated to data visualization and is based on \"The Grammar of Graphics\".\n\n> ? Who is this for\nThis introduction is appropriate for anyone with a general interest in R and data visualization.\n\n>? Prerequisites\nPrior knowledge in R programming language is recommended but not necessary.\nAttendees are expected to have the most recent version of R and RStudio installed on their own computers, along with the following packages and their dependencies.\n\n`install.packages(c(\"tidyverse\",\"palmerpenguins\"))`\n\nHere are links to free downloads for R (https://cran.r-project.org/) and RStudio (https://www.rstudio.com/products/rstudio/download/#download).\n\n> ?when\nMonday, 27 January, 2021 from 5.00pm - 6.30 pm ( Time Zone - GMT+5.30, India)\n\n> ?where\nWe'll be live on Zoom.\nZoom link:\n\nhttps://learn.zoom.us/j/65870858790?pwd=SEJTckpLN2RxRmk2dEQwRDZBWm04UT09\n\nMeeting ID: 658 7085 8790\nPasscode: $Bct8g$C\n\n> ?Agenda\n- 5.00 - 6.15 pm: Workshop on \"Plot a lot with ggplot2 to find plots\"\n- 6.15 - 6.30 pm: Discussion with audience on questions / resources| Networking| Wrap up\n\nTo ensure a safe, enjoyable, and friendly experience for everyone who participates, we follow the R-Ladies International Code of Conduct here: https://github.com/rladies/.github/blob/master/CODE_OF_CONDUCT.md\n\n> ? speakers and event organizers\n\nPriyanga D. Talagala\nCheck out her work at: http://prital.netlify.com/\n\nand\n\nThiyanga S. Talagala\nCheck out her work at: https://thiyanga.netlify.app/",
+    "status": "PAST",
+    "dateTime": "2021-01-27T17:00:00+05:30",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-colombo/events/275639176/",
+    "featuredEventPhoto": {
+      "id": "494251757",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/c/0/d/highres_494251757.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/c/0/d/600_494251757.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/c/0/d/thumb_494251757.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 59,
+      "waitlistCount": 0,
+      "totalCount": 59
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Colombo",
+      "urlname": "rladies-colombo"
+    }
+  },
+  {
+    "id": "298707771",
+    "title": "From Zero Lines to Endless Code:  Non-Coder to Coder Transformation",
+    "description": "**Who is this for?**\n\nAnyone who has the tiniest interest in a programming language. Especially those who fear taking the first step to write a simple line of code.\n\n**Prerequisites**\n\nPrior knowledge of R programming is not required. This will be a non-technical session to motivate young individuals who are interested in a career related to Statistics, Computer Science, Data Science and Data Analytics.\n\n**Type:**\nThis is a free online event. The Zoom link will be provided to registered participants via Meetup 10 minutes before the scheduled meeting time.\"",
+    "status": "PAST",
+    "dateTime": "2024-01-26T18:00:00+05:30",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-colombo/events/298707771/",
+    "featuredEventPhoto": {
+      "id": "518645040",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/3/b/0/highres_518645040.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/3/b/0/600_518645040.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/3/b/0/thumb_518645040.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 58,
+      "waitlistCount": 0,
+      "totalCount": 58
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Colombo",
+      "urlname": "rladies-colombo"
+    }
+  }
+]

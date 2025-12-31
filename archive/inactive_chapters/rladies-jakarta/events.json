@@ -1,0 +1,524 @@
+[
+  {
+    "id": "266723110",
+    "title": "R-Ladies Jakarta 5th Meetup: Classical tests with R! ",
+    "description": "We're having out fifth meetup, real soon!\n\nSaturday, 30th November 2019 from 14.00-17.00 WIB, at Mozilla Community Space Jakarta, Jl. Kuningan Bar. 1 No.26, Mampang Prapatan, DKI Jakarta 12710\n\nAre you still confused about parametric and non-parametric tests? Assumption of normality, etc? This is the time to be enlightened!! Hahahaha...\n\nWe will learn about the parametric (t-test, ANOVA, ANCOVA) and non-parametric tests (Wilcoxon, Kruskal Wallis), then Chi-squared and correlation tests, and how to run the analysis in R.\n\nSome IMPORTANT stuff:\n1. Our current space can have maximum 25 persons, so hurry up reserve your spot!\n2. Check previous meetups docs here: https://github.com/RLadiesJakarta\n3. E-mail us at jakarta@rladies.org or tweet to \"@rladiesjakarta\" for any inquiries regarding this event!\n4. Don't forget to have RStudio readily installed in your computer\n5. VERY IMPORTANT: If you're very new to R, we need you to go through these two documents BEFORE the meetup:\n1. Intro to R.pdf\n2. Starter Kit R.pdf\nYou can download and read the descriptions here: https://github.com/RLadiesJakarta/starter-kit",
+    "status": "PAST",
+    "dateTime": "2019-11-30T14:00:00+07:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-jakarta/events/266723110/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 16,
+      "waitlistCount": 0,
+      "totalCount": 16
+    },
+    "venues": [
+      {
+        "id": "26697056",
+        "name": "Mozilla Community Space Jakarta",
+        "address": "Jl. Kuningan Bar. 1 No.26, RT.6/RW.1",
+        "city": "Kota Jakarta Selatan",
+        "state": "Da",
+        "country": "id",
+        "lat": -6.2351,
+        "lon": 106.8209,
+        "postalCode": "12710",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Jakarta",
+      "urlname": "rladies-jakarta"
+    }
+  },
+  {
+    "id": "265894398",
+    "title": "R-Ladies Jakarta 4th Meetup: Visualization",
+    "description": "We're having out fourth meetup, real soon!\n\nSaturday, 26th October 2019 from 14.00-17.00 WIB, at Mozilla Community Space Jakarta, Jl. Kuningan Bar. 1 No.26, Mampang Prapatan, DKI Jakarta 12710\n\nThis time we will be venturing into visualization with R using base R and ggplot2. So get ready to create pretty plots!\n\nDon't forget to bring your own laptop and have R software already installed in your computers, and do email us to let us know if this is your first time using R so we can have a short introductory session.\n\nThis meetup is a free entrance, thanks to the support of Komunitas Mozilla Indonesia for providing the place & WCS-Indonesia for providing us some snacks. But you are more than welcomed to bring some snacks and drinks to share with the other attendees!\n\nTo make this mini workshop comfortable for all attendees, we're limiting the number of attendance up to 25 people, so hurry book your spot!\n\nE-mail us at \"jakarta@rladies.org\" or tweet to \"@rladiesjakarta\" (https://twitter.com/RLadiesJakarta) for any inquiries regarding this event!",
+    "status": "PAST",
+    "dateTime": "2019-10-26T14:00:00+07:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-jakarta/events/265894398/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 24,
+      "waitlistCount": 0,
+      "totalCount": 24
+    },
+    "venues": [
+      {
+        "id": "26697056",
+        "name": "Mozilla Community Space Jakarta",
+        "address": "Jl. Kuningan Bar. 1 No.26, RT.6/RW.1",
+        "city": "Kota Jakarta Selatan",
+        "state": "Da",
+        "country": "id",
+        "lat": -6.2351,
+        "lon": 106.8209,
+        "postalCode": "12710",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Jakarta",
+      "urlname": "rladies-jakarta"
+    }
+  },
+  {
+    "id": "265000093",
+    "title": "R-Ladies Jakarta Third Meetup: Data Summary!",
+    "description": "We're having out third meetup, real soon!\n\nSaturday, 21st September 2019 from 13.30-15.30 WIB, at Multipurpose room - Gedung Seameo Recfon. Kompleks UI Salemba, Jln Salemba Raya no 6, Jakarta Pusat.\n\nWe will start with introduction to Data Summary where we will discuss a little about how to check your data type, prepare subset, and how to extract descriptive statistic information from your data. Don't forget to bring your own laptop and have R software already installed in your computers.\n\nThis meetup is a free entrance, thanks to the support of Seameo Recfon for providing the place & WCS-Indonesia for providing us some snacks. But you are more than welcomed to bring some snacks and drinks to share with the other attendees!\n\nTo make this mini workshop comfortable for all attendees, we're limiting the number of attendance up to 25 people, so hurry book your spot!\n\nE-mail us at \"jakarta@rladies.org\" or tweet to \"@rladiesjakarta\" (https://twitter.com/RLadiesJakarta) for any inquiries regarding this event!",
+    "status": "PAST",
+    "dateTime": "2019-09-21T13:30:00+07:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-jakarta/events/265000093/",
+    "featuredEventPhoto": {
+      "id": "485031081",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/7/8/9/highres_485031081.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/7/8/9/600_485031081.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/7/8/9/thumb_485031081.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 18,
+      "waitlistCount": 0,
+      "totalCount": 18
+    },
+    "venues": [
+      {
+        "id": "26582008",
+        "name": "SEAMEO RECFON",
+        "address": "Jl. Utan Kayu Raya No.1A, RT.1/RW.8",
+        "city": "Kota Jakarta Timur",
+        "state": "Da",
+        "country": "id",
+        "lat": -6.1949,
+        "lon": 106.8467,
+        "postalCode": "10430",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Jakarta",
+      "urlname": "rladies-jakarta"
+    }
+  },
+  {
+    "id": "264152015",
+    "title": "R-Ladies Jakarta Second Meetup: R ABSOLUTE BEGINNER!",
+    "description": "Second Jakarta R-Ladies meetup is coming soon!\n\nFor our second meetup, let's start with R absolute beginner mini workshop. Sunday, August 25, 2019 from 09.00-12.00 WIB, at Multipurpose room - Gedung Seameo Recfon. Kompleks UI Salemba, Jln Salemba Raya no 6, Jakarta Pusat.\n\nWe will start with a brief introduction of R, followed by basics on how to use R, and if we have some time left, we'll discuss a bit about some descriptive statistics. Don't forget to bring your own laptop and install R software in your computers.\n\nThis meetup is a free entrance, thanks to the support of Seameo Recfon for providing the place & WCS-Indonesia for providing us some snacks. But you are more than welcomed to bring some snacks and drinks to share with the other attendees!\n\nTo make this mini workshop comfortable for all attendees, we're limiting the number of attendance up to 30 people, so hurry book your spot!\n\nE-mail us at \"jakarta@rladies.org\" or tweet to \"@rladiesjakarta\" (https://twitter.com/RLadiesJakarta) for any inquiries regarding this event!",
+    "status": "PAST",
+    "dateTime": "2019-08-25T09:00:00+07:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-jakarta/events/264152015/",
+    "featuredEventPhoto": {
+      "id": "484161037",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/2/2/d/highres_484161037.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/2/2/d/600_484161037.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/2/2/d/thumb_484161037.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 31,
+      "waitlistCount": 5,
+      "totalCount": 31
+    },
+    "venues": [
+      {
+        "id": "26582008",
+        "name": "SEAMEO RECFON",
+        "address": "Jl. Utan Kayu Raya No.1A, RT.1/RW.8",
+        "city": "Kota Jakarta Timur",
+        "state": "Da",
+        "country": "id",
+        "lat": -6.1949,
+        "lon": 106.8467,
+        "postalCode": "10430",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Jakarta",
+      "urlname": "rladies-jakarta"
+    }
+  },
+  {
+    "id": "263334866",
+    "title": "R-Ladies Jakarta First Meetup",
+    "description": "First Jakarta R-Ladies meetup is coming soon!\n\nR-Ladies is a worldwide organization whose mission is to promote gender diversity in the R community. So, if you want to get to know R better, come join us at Kudoplex Auditorium on 28th of July 2019 from 9 AM to 12 AM to discuss our favorite statistical programming language! We will first introduce the R-Ladies Global initiative and then proceed to discuss general knowledge on how to use R and some of its functions.\n\nTo increase the better experience for each of the attendees, we're limiting our meet up to 50 persons, so sign up quickly before your spot is taken.\n\nThis meetup is a free entrance, and we'll prepare some snacks, thanks to the support of Grab Kudo for providing us a comfortable place to gather. But you still need to bring your own laptop (BYOL).\nIf you intend to come, please fill our survey to help us prepare for the event: https://forms.gle/Qvqo4ixh4K467jjv7\n\nE-mail us at \"jakarta@rladies.org\" or tweet to \"@rladiesjakarta\" (https://twitter.com/RLadiesJakarta) for any inquiries regarding this event!",
+    "status": "PAST",
+    "dateTime": "2019-07-28T09:00:00+07:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-jakarta/events/263334866/",
+    "featuredEventPhoto": {
+      "id": "483318183",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/7/0/7/highres_483318183.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/7/0/7/600_483318183.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/7/0/7/thumb_483318183.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 50,
+      "waitlistCount": 4,
+      "totalCount": 50
+    },
+    "venues": [
+      {
+        "id": "26526744",
+        "name": "Kudoplex 1",
+        "address": "Jl. Yado I No.1, RT.4",
+        "city": "Kota Jakarta Selatan",
+        "state": "Da",
+        "country": "id",
+        "lat": -6.2534,
+        "lon": 106.7898,
+        "postalCode": "12140",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Jakarta",
+      "urlname": "rladies-jakarta"
+    }
+  },
+  {
+    "id": "274133773",
+    "title": "12th Meetup: Hypothesis Testing using R",
+    "description": "Hello again, R enthusiasts!!! Come join us again in our upcoming meet-up.\n\nWHEN?\nSaturday, 24 October 2020 from 2 pm - 4 pm WIB.\n\nWHERE?\nWe'll be live on Zoom. Please fill up this form https://bit.ly/rladiesjkt12 so that we can email you the meeting ID and password.\n\nAGENDA:\nHypothesis Testing using R\n\nSome IMPORTANT stuff:\n1. We can host up to 300 attendances.\n2. Check previous meetups docs here: https://github.com/RLadiesJakarta\n3. E-mail us at jakarta@rladies.org for any inquiries regarding this event!\n4. Follow our social media @rladiesjakarta (twitter) and @rladiesjkt (instagram).\n5. Don't forget to have RStudio readily installed in your computer\n6. If you're very new to R, you can also go through these two documents before the meetup:\n1. Intro to R.pdf\n2. Starter Kit R.pdf\nYou can download and read the descriptions here: https://github.com/RLadiesJakarta/starter-kit",
+    "status": "PAST",
+    "dateTime": "2020-10-24T14:00:00+07:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-jakarta/events/274133773/",
+    "featuredEventPhoto": {
+      "id": "493180932",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/f/e/4/highres_493180932.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/f/e/4/600_493180932.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/f/e/4/thumb_493180932.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Jakarta",
+      "urlname": "rladies-jakarta"
+    }
+  },
+  {
+    "id": "273113017",
+    "title": "11th Meetup: Using R for Time Series & Stock Analysis",
+    "description": "Hello again, R enthusiasts!!! Come join us again in our upcoming meet-up.\n\nWHEN?\nSaturday, 12 September 2020 from 2 pm - 4 pm WIB.\n\nWHERE?\nWe'll be live on Zoom. Please fill up this form https://bit.ly/rladiesjkt11 so that we can email you the meeting ID and password.\n\nAGENDA:\nUsing R for Time Series & Stock Analysis\n\nSome IMPORTANT stuff:\n1. We can host up to 300 attendances.\n2. Check previous meetups docs here: https://github.com/RLadiesJakarta\n3. E-mail us at jakarta@rladies.org for any inquiries regarding this event!\n4. Follow our social media @rladiesjakarta (twitter) and @rladiesjkt (instagram).\n5. Don't forget to have RStudio readily installed in your computer\n6. If you're very new to R, you can also go through these two documents before the meetup:\n1. Intro to R.pdf\n2. Starter Kit R.pdf\nYou can download and read the descriptions here: https://github.com/RLadiesJakarta/starter-kit",
+    "status": "PAST",
+    "dateTime": "2020-09-12T14:00:00+07:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-jakarta/events/273113017/",
+    "featuredEventPhoto": {
+      "id": "492235543",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/8/f/7/highres_492235543.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/8/f/7/600_492235543.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/8/f/7/thumb_492235543.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 31,
+      "waitlistCount": 0,
+      "totalCount": 31
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Jakarta",
+      "urlname": "rladies-jakarta"
+    }
+  },
+  {
+    "id": "272729301",
+    "title": "10th Meetup: Using R Shiny Dashboards to Predict Commerce Traffic",
+    "description": "Hello again, R enthusiasts!!! Come join us again in our upcoming meet-up.\n\nWHEN?\nSaturday, 22nd of August 2020 from 2 pm - 4 pm WIB.\n\nWHERE?\nWe'll be live on Zoom. Please fill up this form https://rladiesjakarta.github.io/#/registration so that we can email you the meeting ID and password.\n\nAGENDA:\nUsing R Shiny Dashboards to Predict Commerce Traffic\n\nSome IMPORTANT stuff:\n1. We can host up to 300 attendances.\n2. Check previous meetups docs here: https://github.com/RLadiesJakarta\n3. E-mail us at jakarta@rladies.org for any inquiries regarding this event!\n4. Follow our social media @rladiesjakarta (twitter) and @rladiesjkt (instagram).\n5. Don't forget to have RStudio readily installed in your computer\n6. If you're very new to R, you can also go through these two documents before the meetup:\n1. Intro to R.pdf\n2. Starter Kit R.pdf\nYou can download and read the descriptions here: https://github.com/RLadiesJakarta/starter-kit",
+    "status": "PAST",
+    "dateTime": "2020-08-22T14:00:00+07:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-jakarta/events/272729301/",
+    "featuredEventPhoto": {
+      "id": "491931594",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/9/8/a/highres_491931594.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/9/8/a/600_491931594.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/9/8/a/thumb_491931594.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Jakarta",
+      "urlname": "rladies-jakarta"
+    }
+  },
+  {
+    "id": "272500886",
+    "title": "9th Meetup: Real world career experience & intro to RMarkdown",
+    "description": "Hello again, R enthusiasts!!! Come join us again in our upcoming meet-up.\n\nWHEN?\nSaturday, 15th of August 2020 from 2 pm - 5 pm WIB.\n\nWHERE?\nWe'll be live on Zoom. Please fill up this form https://rladiesjakarta.github.io/#/registration so that we can email you the meeting ID and password.\n\nAGENDA:\nSpecial agenda today, where we will hear real-world career experience from Septina (Senior data-analyst in Tokopedia) and as usual a hands-on session, this time learning how to use RMarkdown with RLadies's co-organizer, Ulfah.\n\nInterested? Hurry up and register then! It'll be great if you already have a twitter account.\n\nSome IMPORTANT stuff:\n1. We can host up to 300 attendances.\n2. Check previous meetups docs here: https://github.com/RLadiesJakarta\n3. E-mail us at jakarta@rladies.org for any inquiries regarding this event!\n4. Follow our social media @rladiesjakarta (twitter) and @rladiesjkt (instagram).\n5. Don't forget to have RStudio readily installed in your computer\n6. If you're very new to R, you can also go through these two documents before the meetup:\n1. Intro to R.pdf\n2. Starter Kit R.pdf\nYou can download and read the descriptions here: https://github.com/RLadiesJakarta/starter-kit",
+    "status": "PAST",
+    "dateTime": "2020-08-15T14:00:00+07:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-jakarta/events/272500886/",
+    "featuredEventPhoto": {
+      "id": "491766851",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/a/c/3/highres_491766851.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/a/c/3/600_491766851.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/a/c/3/thumb_491766851.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 22,
+      "waitlistCount": 0,
+      "totalCount": 22
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Jakarta",
+      "urlname": "rladies-jakarta"
+    }
+  },
+  {
+    "id": "271893790",
+    "title": "8th Meetup: Intro to Twitter Mining & Visualization for Likert-Scale Survey Data",
+    "description": "Hello again, R enthusiasts!!! After a five-month hiatus, we're finally having out eighth meetup, real soon!\n\nWHEN?\nSaturday, 18th of July 2020 from 2 pm - 5 pm WIB.\n\nWHERE?\nWe'll be live on Zoom. Please RSVP here and also fill up this form https://bit.ly/rladiesjktreg so that we can email you the meeting ID and password.\n\nAGENDA:\nWe'll cover new materials about an introduction to twitter mining in R (by Erika Siregar) and Visualization for Likert-Scale Survey Data (by Ulfah Mardhiah).\n\nInterested? Hurry up and register then! It'll be great if you already have a twitter account.\n\nSome IMPORTANT stuff:\n1. We can only host 90 attendances.\n2. Check previous meetups docs here: https://github.com/RLadiesJakarta\n3. E-mail us at jakarta@rladies.org for any inquiries regarding this event!\n4. Follow our social media @rladiesjakarta (twitter) and @rladiesjkt (instagram).\n5. Don't forget to have RStudio readily installed in your computer\n6. If you're very new to R, you can also go through these two documents before the meetup:\n1. Intro to R.pdf\n2. Starter Kit R.pdf\nYou can download and read the descriptions here: https://github.com/RLadiesJakarta/starter-kit",
+    "status": "PAST",
+    "dateTime": "2020-07-18T14:00:00+07:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-jakarta/events/271893790/",
+    "featuredEventPhoto": {
+      "id": "491318837",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/7/b/5/highres_491318837.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/7/b/5/600_491318837.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/7/b/5/thumb_491318837.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 62,
+      "waitlistCount": 0,
+      "totalCount": 62
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Jakarta",
+      "urlname": "rladies-jakarta"
+    }
+  },
+  {
+    "id": "268768929",
+    "title": "R-Ladies Jakarta 7th Meetup: introduction to dplyr in R.",
+    "description": "Hello again, R enthusiasts!!! We're having out seventh meetup, real soon!\n\nSunday, 23rd of February 2020 from 10.00-12.30 WIB, at Nutrifood Inspiring Centre, Apartemen Menteng Square Tower A No. AR 12\nhttp://www.nutrifood.co.id/nic/, Jl. Matraman no 30E Jakarta Pusat.\n\nWe will show you how R can be used for data cleaning, similar to what you used worksheet for, but this time you can do it with R codes. Interested? Hurry up and register then! as we will together explore a very handy library named 'dplyr'.\n\n\"dplyr in R is a grammar of data manipulation, providing a consistent set of verbs that help you solve the most common data manipulation challenges \"\n\nSome IMPORTANT stuff:\n1. Our current space can have a maximum 25 persons, so hurry up reserve your spot!\n2. Check previous meetups docs here: https://github.com/RLadiesJakarta\n3. E-mail us at jakarta@rladies.org or tweet to \"@rladiesjakarta\" for any inquiries regarding this event!\n4. Don't forget to have RStudio readily installed in your computer\n5. If you're very new to R, you can also go through these two documents before the meetup:\n1. Intro to R.pdf\n2. Starter Kit R.pdf\nYou can download and read the descriptions here: https://github.com/RLadiesJakarta/starter-kit",
+    "status": "PAST",
+    "dateTime": "2020-02-23T10:00:00+07:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-jakarta/events/268768929/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 25,
+      "waitlistCount": 13,
+      "totalCount": 25
+    },
+    "venues": [
+      {
+        "id": "26865053",
+        "name": "Nutrifood Inspiring Center",
+        "address": "Jl. Pramuka No.28, RT.5/RW.6",
+        "city": "Kota Jakarta Pusat",
+        "state": "Da",
+        "country": "id",
+        "lat": -6.201,
+        "lon": 106.8516,
+        "postalCode": "13150",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Jakarta",
+      "urlname": "rladies-jakarta"
+    }
+  },
+  {
+    "id": "268287056",
+    "title": "R-Ladies Jakarta 6th Meetup: introduction to R Shiny.",
+    "description": "Happy new year, R enthusiasts!!! We're having out sixth meetup, real soon!\n\nSunday, 2nd February 2020 from 14.00-17.00 WIB, at Mozilla Community Space Jakarta, Jl. Kuningan Bar. 1 No.26, Mampang Prapatan, DKI Jakarta 12710\n\nWe will have a refreshing topic as we commence our yearlong R-Ladies series of meet-ups, and what better way to start through learning Shiny apps in R with our always awesome Erika Siregar? So, hurry and join us!\n\n\"Shiny is an R package that makes it easy to build interactive web apps straight from R. You can host standalone apps on a webpage or embed them in R Markdown documents or build dashboards. \"\n\nSome IMPORTANT stuff:\n1. Our current space can have maximum 25 persons, so hurry up reserve your spot!\n2. Check previous meetups docs here: https://github.com/RLadiesJakarta\n3. E-mail us at jakarta@rladies.org or tweet to \"@rladiesjakarta\" for any inquiries regarding this event!\n4. Don't forget to have RStudio readily installed in your computer\n5. If you're very new to R, you can also go through these two documents before the meetup:\n1. Intro to R.pdf\n2. Starter Kit R.pdf\nYou can download and read the descriptions here: https://github.com/RLadiesJakarta/starter-kit",
+    "status": "PAST",
+    "dateTime": "2020-02-02T14:00:00+07:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-jakarta/events/268287056/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 17,
+      "waitlistCount": 0,
+      "totalCount": 17
+    },
+    "venues": [
+      {
+        "id": "26697056",
+        "name": "Mozilla Community Space Jakarta",
+        "address": "Jl. Kuningan Bar. 1 No.26, RT.6/RW.1",
+        "city": "Kota Jakarta Selatan",
+        "state": "Da",
+        "country": "id",
+        "lat": -6.2351,
+        "lon": 106.8209,
+        "postalCode": "12710",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Jakarta",
+      "urlname": "rladies-jakarta"
+    }
+  },
+  {
+    "id": "277296829",
+    "title": "13th Meetup: Intro to Data Analytics, Segmentation for Customer Satisfaction",
+    "description": "Hello again, R enthusiasts!!! Come join us again in our upcoming meet-up.\n\nWHEN?\nSaturday, 3 April 2021 from 2 pm - 4 pm WIB.\n\nWHERE?\nWe'll be live on Zoom. Please fill up this form https://bit.ly/rladiesjkt13 so that we can email you the meeting ID and password.\n\nAGENDA:\nIntro to Data Analytics, Segmentation for Customer Satisfaction\n\nSome IMPORTANT stuff:\n1. We can host up to 300 attendances.\n2. Check previous meetups docs here: https://github.com/RLadiesJakarta\n3. E-mail us at jakarta@rladies.org for any inquiries regarding this event!\n4. Follow our social media @rladiesjakarta (twitter) and @rladiesjkt (instagram).\n5. Don't forget to have RStudio readily installed in your computer\n6. If you're very new to R, you can also go through these two documents before the meetup:\n1. Intro to R.pdf\n2. Starter Kit R.pdf\nYou can download and read the descriptions here: https://github.com/RLadiesJakarta/starter-kit",
+    "status": "PAST",
+    "dateTime": "2021-04-03T14:00:00+07:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-jakarta/events/277296829/",
+    "featuredEventPhoto": {
+      "id": "495469858",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/2/c/2/highres_495469858.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/2/c/2/600_495469858.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/2/c/2/thumb_495469858.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 8,
+      "waitlistCount": 0,
+      "totalCount": 8
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Jakarta",
+      "urlname": "rladies-jakarta"
+    }
+  },
+  {
+    "id": "295646982",
+    "title": "18-th Meetup: Data Science Workflow Essentials: A Practical Demonstration in R",
+    "description": "📊 Ready to dive into the world of Data Science? Join us on #rladiesjkt 18th meetup for an exciting session with Rajius Idzalika from UN Global Pulse Asia Pacific as she takes us through \"Data Science Workflow Essentials: A Practical Demonstration in R\" 🚀📊\n\n🗓️ Mark your calendars for Saturday, August 26, 2023, and get ready to unlock the power of R programming for data analysis! Whether you're a beginner or a seasoned pro, this session is packed with insights and practical tips.\n\n🔗 RSVP now through [https://bit.ly/rladiesjkt18](https://bit.ly/rladiesjkt18) in our bio to secure your spot and receive the Zoom link for the event.\n\nDon't miss out on this incredible opportunity to learn and level up your data skills! 🌐📈\n\n#rladies #rladiesjkt #rstats #r #DataScience #RProgramming #OnlineEvent #LearningTogether #DataAnalysis #WomenInSTEM #womenintech #TechCommunity #unglobalpulse",
+    "status": "PAST",
+    "dateTime": "2023-08-26T14:00:00+07:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-jakarta/events/295646982/",
+    "featuredEventPhoto": {
+      "id": "515355885",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/e/0/d/highres_515355885.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/e/0/d/600_515355885.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/e/0/d/thumb_515355885.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 2,
+      "waitlistCount": 0,
+      "totalCount": 2
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Jakarta",
+      "urlname": "rladies-jakarta"
+    }
+  }
+]

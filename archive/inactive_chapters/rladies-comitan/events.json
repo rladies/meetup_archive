@@ -1,0 +1,256 @@
+[
+  {
+    "id": "280907861",
+    "title": "Programadoras mexicanas",
+    "description": "",
+    "status": "PAST",
+    "dateTime": "2021-09-24T17:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-comitan/events/280907861/",
+    "featuredEventPhoto": {
+      "id": "498961564",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/1/c/highres_498961564.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/1/c/600_498961564.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/1/c/thumb_498961564.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 69,
+      "waitlistCount": 25,
+      "totalCount": 69
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Comitán",
+      "urlname": "rladies-comitan"
+    }
+  },
+  {
+    "id": "278287645",
+    "title": "Graficando en ggplot2",
+    "description": "En este meetup aprenderemos la sintaxis de ggplot2 para generar diferentes tipos de gráficos. El nivel al que será presentado será: Nivel básico, por lo tanto el único requisito es tener instalado RStudio y ggplot2.\nEste evento será presentado por la Dra. Tina Godoy Lozano, aquí su semblanza:\nEgresada de la carrera de Químico Farmaco-Biólogo de la facultad de Ciencias Químicas de la Universidad Autónoma de San Luis Potosí. Realizó su maestría en Ciencias Biomédicas Básicas en la facultad de medicina de la Universidad Autónoma de San Luis Potosí. Cuenta con el Doctorado en Ciencias en la Salud Pública con área de concentración en Enfermedades Infecciosas del Instituto Nacional de Salud Pública. Durante el doctorado realizó una estancia pre-Doctoral en la compañía Integral Molecular ubicada en Filadelfia, USA. Y como parte de su tesis doctoral estuvo involucrada en la creación de un software bioinformático capaz de analizar secuencias de anticuerpos obtenidas por medio de secuenciación masiva (Secuencias de 454 FLX Titanium y de Illumina Miseq).\nAl finalizar el doctorado trabajó en el Centro Nacional de Servicios de Constatación en Salud Animal (CENAPA) del Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria de SAGARPA, para coordinar el análisis bioinformático de secuencias generadas por métodos de secuenciación masiva de alta resolución de enfermedades que afectan la salud animal, acuícola y pesquera e inocuidad agroalimentaria para la caracterización genética e investigación de organismos patógenos.\nRealizó una estancia post-doctoral en el Instituto de Biotecnología de la Universidad Nacional Autónoma de México en el Consorcio de Investigación del Golfo de México (CIGoM), en donde se encargaba de la comparación y desarrollo de métodos de asignación taxonómica basados en amplicones del gen ribosomal 16S y datos de secuenciación Whole Metagenome Shotgun, anotación taxonómica y funcional de metagenomas y de genomas de cepas puras, desarrollo de software para la implementación de un pipeline de ensamble y anotación taxonómica de genomas de aislados bacterianos y de la administración del cluster de CIGoM.\nCuenta con varias publicaciones a nivel internacional y actualmente es SNI-1 y es la jefa de la unidad de Bioinformática en Enfermedades Infecciosas que de apoyo transversal al Centro de Investigación Sobre Enfermedades Infecciosas.",
+    "status": "PAST",
+    "dateTime": "2021-05-25T10:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-comitan/events/278287645/",
+    "featuredEventPhoto": {
+      "id": "496392163",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/f/8/3/highres_496392163.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/f/8/3/600_496392163.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/f/8/3/thumb_496392163.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 38,
+      "waitlistCount": 0,
+      "totalCount": 38
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Comitán",
+      "urlname": "rladies-comitan"
+    }
+  },
+  {
+    "id": "288604917",
+    "title": "R-LADIES MEXICO |   3er  ENCUENTRO ANUAL",
+    "description": "Los invitamos a formar parte del 3er. encuentro anual de R-ladies México, para lo cual hemos el taller:\n\n\\- \"Hasta el chisme tiene ciencia\"\\, impartido por nuestra científica de datos Ameyalli de Jesus Perea Carreto\\.\n\n¿De qué se trata?\nLos tiempos han cambiado y la manera en la que nos relacionamos con nuestros seres queridos también; mientras hay personas que continuan disfrutando de una salida o una llamada por teléfono, otros prefieren la comunicación por redes sociales, compartir un emoji o un meme puede significar mucho en las interacciones que tenemos con nuestros seres queridos... ¿Te has puesto a pensar cuánto has texteado con tu mejor amix en la última semana? o ¿cuándo es más común que le escribas a tus padres? Bueno, en este taller podrás hacer un análisis de frecuecia y texto sobre tus mensajes de Whatsapp en R: estadística para las emociones.\nEl taller será de una hora en modalidad virtual y previo a este se necesita hacer estos 2 pasos:\nPASO 1. Se requiere que previamente instales estas librerias: library(rwhatsapp) library(lubridate) library(tidyverse) library(tidytext) library(kableExtra) library(RColorBrewer) library(knitr)\nPASO 2. Exportar el historial del Chat en Whatsapp con tu ser querido, es muy sencillo: Desde tu WhatsApp en cualquier conversación abierta, da clic en el menú de los tres puntos de la parte arriba derecha en Opciones/Más/Exportar chat. e inmediato a esto podrás enviarte el historial completo como archivo de texto con extensión “.txt” a un correo. Preferentemente utiliza la opción sin multimedia, ya que la descarga está restringuida hasta cierta cantidad de información, por lo que, dependediendo de cómo sea tu interacción con la persona podrías ver mensajes de años o apenas de unos meses atrás. Nota: Se debe tener en consideración que para que las gráficas de frecuencia sean más precisas, las pláticas en Whatsapp deberían estar en horario de 24hrs, si tu celular registra la hora con AM y PM, no se verá como en el taller. La dinámica del taller será la siguiente: - Bienvenida - Llamado de las librerias (espacio para dudas, etc). - Gráficas de frecuencias. - Análisis de texto.\n\nNo te lo pierdas! Habrán rifas y regalos para nuestros participantes!\nLos esperamos este sábado 24 de septiembre del 2022, a las 10 a.m. en formato híbrido multisede.\n\nInscripciones y más informes aquí en Meetup!",
+    "status": "PAST",
+    "dateTime": "2022-09-24T10:00:00-05:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-comitan/events/288604917/",
+    "featuredEventPhoto": {
+      "id": "507196494",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/0/6/e/highres_507196494.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/0/6/e/600_507196494.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/0/6/e/thumb_507196494.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 9,
+      "waitlistCount": 0,
+      "totalCount": 9
+    },
+    "venues": [],
+    "group": {
+      "name": "R-Ladies Comitán",
+      "urlname": "rladies-comitan"
+    }
+  },
+  {
+    "id": "284635324",
+    "title": "Introducción a Rstudio",
+    "description": "Rstudio es la herramienta de R que contiene botones, ventanas y elementos interactivos; permitiendo que la experiencia sea más amigable para el usuario.\n\nEn este meetup aprenderás a usar Rstudio.",
+    "status": "PAST",
+    "dateTime": "2022-03-18T18:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-comitan/events/284635324/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 28,
+      "waitlistCount": 0,
+      "totalCount": 28
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Comitán",
+      "urlname": "rladies-comitan"
+    }
+  },
+  {
+    "id": "296777919",
+    "title": "Introducción a R",
+    "description": "Este taller está diseñado para principiantes en el lenguaje de programación estadística por computadora R. Aprenderemos R desde cero. Sin embargo puedes intentar descargar e instalar el software en tu computadora personal, te dejo aquí el link:\nhttps://rstudio.com/products/rstudio/download/\n\nEl programa está basado en el libro:\n\"R para principiantes\" de Emmanuel Paradis, este libro enfoca sus conocimientos y comandos en R base. Los temas que se tocarán son:\n\nRbase y RStudio\nInstalación y paqueterías\nObjetos en R\nImportar tus datos a R\nManipulación de objetos\nOperadores\nFunciones aritméticas\nEjemplo de análisis estadístico\n\nEn cuanto al material que necesitaremos para desarrollar la clase, lo liberaremos 24 horas antes de nuestro evento.\nMuchas gracias a todos por participar!\nDisfruten",
+    "status": "PAST",
+    "dateTime": "2023-10-27T18:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-comitan/events/296777919/",
+    "featuredEventPhoto": {
+      "id": "516617431",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/4/1/7/highres_516617431.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/4/1/7/600_516617431.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/4/1/7/thumb_516617431.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 13,
+      "waitlistCount": 0,
+      "totalCount": 13
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Comitán",
+      "urlname": "rladies-comitan"
+    }
+  },
+  {
+    "id": "295957699",
+    "title": "R-LADIES MEXICO , 4o. Encuentro Anual",
+    "description": "R para todos los niveles, conéctate y disfruta de este evento totalmente gratuito. Expondremos el movimiento de Rladies México con ponentes nacionales e internacionales. Totalmente en español!!!",
+    "status": "PAST",
+    "dateTime": "2023-09-23T10:00:00-06:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-comitan/events/295957699/",
+    "featuredEventPhoto": {
+      "id": "515702886",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/4/6/highres_515702886.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/4/6/600_515702886.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/4/6/thumb_515702886.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 12,
+      "waitlistCount": 0,
+      "totalCount": 12
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Comitán",
+      "urlname": "rladies-comitan"
+    }
+  },
+  {
+    "id": "303611138",
+    "title": "5to Encuentro Anual de R-Ladies México",
+    "description": "¡Acompáñanos al **5to Encuentro Anual de R-Ladies México**! 🎉💜\nEste **sábado 28 de septiembre** a las **11:00 A.M**. (hora CDMX), te invitamos a formar parte de una jornada llena de conocimiento y comunidad, donde exploraremos proyectos innovadores liderados por expertas en el uso de **R**. 👩‍💻👩‍🔬\n🚀 Tendremos 3 charlas imperdibles con ponentes de primer nivel, quienes compartirán sus avances en:\n\n1. **Investigación** de la enfermedad de Parkinson 🧬\n2. Análisis de las **pasadas elecciones democráticas en Méxic**o 🗳️\n3. Cómo y por qué crear tu **primer paquete en R** 📦\n\n**¡No te lo pierdas!**\nRegístrate y únete a esta comunidad diversa, tendremos espacios de networking. 💪✨\n\n**Importante:**\n\n(para unirte a la dinámica de networking llena este [formulario ](https://forms.gle/KM9gEttFohtg8Uh69))",
+    "status": "PAST",
+    "dateTime": "2024-09-28T11:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-comitan/events/303611138/",
+    "featuredEventPhoto": {
+      "id": "523686039",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/7/9/7/highres_523686039.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/7/9/7/600_523686039.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/7/9/7/thumb_523686039.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Comitán",
+      "urlname": "rladies-comitan"
+    }
+  }
+]

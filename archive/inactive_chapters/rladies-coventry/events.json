@@ -1,0 +1,629 @@
+[
+  {
+    "id": "274205126",
+    "title": "Improving your coding practices in R",
+    "description": "TOPIC\nHave you ever looked at a script you wrote two years ago and been totally clueless? Or do you hesitate to share your code with others out of fear that it's too cryptic? Come and join our best coding practices online event and learn how to make your code more readable!\n\nOur speaker for this event is Arushi Garg. She is currently doing a PhD at the Donders Institute for Brain, Cognition and Behaviour at Radboud University (Nijmegen, The Netherlands). Prior to her PhD, Arushi worked in the software industry as a developer for three years, where she was required to follow rigorous coding standards. In this talk, she draws from her experience and will show us how we can employ such practices in science and make reproducibility and sharing a breeze.\n\nPREPARATION\nIn order to get the most out of the meeting, we encourage you to upload a piece of your own code here: https://www.dropbox.com/request/WymCtIPcxZjsJcbPWqE2\n\nArushi can then tailor her examples to your needs. We emphasise that your code does not need to be perfect - if anything, the less perfect it is, the more you will learn from sharing it with Arushi! To also reassure you: if you code appears as an example in Arushi's talk, it will be anonymised.\n\nONLINE PROGRAMME\nThe event will be held online and will start at 14:00 (UK time). Please join us via this Zoom link: https://zoom.us/j/92039823740?pwd=am5SVGFXYzRpWG1oUmhJUVM2YjlZdz09\n\nCODE OF CONDUCT\nPlease take a minute to read our code of conduct -- we are committed to creating a safe and harassment-free environment\nhttps://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nR-Ladies events are always free and open to anyone who wants to participate as long as they follow the code of conduct. We are pro-actively inclusive of queer, trans, and all minority identities, with additional sensitivity to intersectional identities. Our priority is to provide a safe community space for anyone identifying as a minority gender who is interested in and/or working with R.",
+    "status": "PAST",
+    "dateTime": "2020-12-04T14:00:00Z",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-coventry/events/274205126/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 60,
+      "waitlistCount": 0,
+      "totalCount": 60
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Coventry",
+      "urlname": "rladies-coventry"
+    }
+  },
+  {
+    "id": "273429872",
+    "title": "How to get help in R",
+    "description": "TOPIC\nWe are very excited for our first R-Ladies Coventry online event! This session will be led by Ella Kaye - an R enthusiast and statistics PhD researcher at the University of Warwick. In the session, Ella will talk us through different ways to get help when you get stuck on a problem in R. We’ll cover how and where to look for answers and how to ask and post good questions that make it easy for others to help you, including a demo of the excellent `reprex` and `datapasta` packages. So whether you’re an R novice or more experienced R user, hopefully there’ll be some useful tips for you!\n\nONLINE PROGRAMME\nThe event will be held online and will start at 16:30 (UK time). Please join us via this Zoom link:\nhttps://zoom.us/j/92802197133?pwd=YWsrUUJJWldBN0FHNldTbUpjTXRpQT09\n\nCODE OF CONDUCT\nPlease take a minute to read our code of conduct -- we are committed to creating a safe and harassment-free environment\nhttps://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nR-Ladies events are always free and open to anyone who wants to participate as long as they follow the code of conduct. We are pro-actively inclusive of queer, trans, and all minority identities, with additional sensitivity to intersectional identities. Our priority is to provide a safe community space for anyone identifying as a minority gender who is interested in and/or working with R.",
+    "status": "PAST",
+    "dateTime": "2020-10-29T16:30:00Z",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-coventry/events/273429872/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 38,
+      "waitlistCount": 0,
+      "totalCount": 38
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Coventry",
+      "urlname": "rladies-coventry"
+    }
+  },
+  {
+    "id": "280985259",
+    "title": "Introduction to data wrangling with the tidyverse",
+    "description": "SPEAKER\nThis online workshop will be led by Dr Bodo Winter (https://bodowinter.com/). Bodo is a Senior Lecturer at the University of Birmingham, UK, and the author of the leading R book \"Statistics for Linguists: An Introduction Using R\".\n\nWORKSHOP OVERVIEW\nR used to be clunky, but then the tidyverse came along. This collection of packages forms a framework for doing data science that makes things so much more intuitive, and code so much more readable. In this tutorial, Bodo will give you a quick introduction about some of the core aspects of the tidyverse and how you can use it to efficiently do data carpentry. Most of this will be done via a hands-on session in R, so that we can put our knowledge to use right away. This workshop is open to beginners — everybody is welcome!\n\nPREPARATION\nAll you need to bring to this workshop is RStudio with an up-to-date version of R that has the tidyverse installed, i.e., type in install.packages('tidyverse') in the console while being connected to the internet. It may be worth checking that installation was successful by loading the package: library(tidyverse). At the workshop, Bodo will distribute a dataset that we will work on.\n\nONLINE PROGRAMME\nThe workshop will be held online and will start at 17:00 (UK time). Please join us via this Zoom link:\nhttps://us06web.zoom.us/j/88479313628?pwd=R2hDZzAzbXk1bXdlamtPM01zZWMrdz09\n\nCODE OF CONDUCT\nPlease take a minute to read our code of conduct - we are committed to creating a safe and harassment-free environment:\nhttps://github.com/rladies/.github/blob/master/CODE_OF_CONDUCT.md\n\nR-Ladies events are always free and open to anyone who wants to participate as long as they follow the code of conduct. We are pro-actively inclusive of queer, trans, and all minority identities, with additional sensitivity to intersectional identities. Our priority is to provide a safe community space for anyone identifying as a minority gender who is interested in and/or working with R.",
+    "status": "PAST",
+    "dateTime": "2021-11-24T17:00:00Z",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-coventry/events/280985259/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 154,
+      "waitlistCount": 0,
+      "totalCount": 154
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Coventry",
+      "urlname": "rladies-coventry"
+    }
+  },
+  {
+    "id": "281399088",
+    "title": "How to run funnel analyses in R (with a little help from RSQLite)",
+    "description": "SPEAKER\nThis online event will be led by Dr Sara Iacozza (https://www.saraiacozza.com/). Sara is currently a Chief Data Officer and Behavioural Insight Researcher at Digital Attitudes in Milan, Italy, having previously completed her PhD at the Max Planck Institute for Psycholinguistics in The Netherlands. Sara is a data and R enthusiast who also co-founded R-Ladies Italy!\n\nTOPIC OVERVIEW\nEvery time you enter a website there are many flows of events that are initiated and can be followed through by a visitor. Imagine you land on the homepage of an e-commerce or a digital academic journal. You are looking for a specific item, that can be a T-shirt or a published paper, and need to navigate through menus and sub-menus before you land on the page you were looking for. What happens most of the time is that only a small portion of visitors achieve their goal of buying the T-shirt or reading the searched paper. Funnel analysis can help you spot where visitors are leaving your website, so you can optimize it and increase conversions.\n\nIn this event, Sara will explain how you can analyze funnels to identify key traffic sources and spot significant drop-off points. You’ll also learn how to combine funnel reports with more analytics insight, so you can share strategies that can improve the experience of users. We will use R-studio for the analyses, we’ll create a R-markdown file to output a report, and we will get a little help from a friend - RSQLite library- so that we can embed SQL code in our analyses and report.\n\nPREPARATION AND RESOURCES\nThere is nothing to prepare in advance. The resources for the workshop will be made available nearer the time.\n\nONLINE PROGRAMME\nThe event will be held online and will start at 17:30 (GMT) / 18:30 (CET). Please join us via this Zoom link:\nhttps://us06web.zoom.us/j/82503021020?pwd=dUlIeThyOS9DakpaTVh3ellhQThBdz09\n\nCODE OF CONDUCT\nPlease take a minute to read our code of conduct - we are committed to creating a safe and harassment-free environment:\nhttps://github.com/rladies/.github/blob/master/CODE_OF_CONDUCT.md\n\nR-Ladies events are always free and open to anyone who wants to participate as long as they follow the code of conduct. We are pro-actively inclusive of queer, trans, and all minority identities, with additional sensitivity to intersectional identities. Our priority is to provide a safe community space for anyone identifying as a minority gender who is interested in and/or working with R.",
+    "status": "PAST",
+    "dateTime": "2021-11-11T17:30:00Z",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-coventry/events/281399088/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 43,
+      "waitlistCount": 0,
+      "totalCount": 43
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Coventry",
+      "urlname": "rladies-coventry"
+    }
+  },
+  {
+    "id": "278971715",
+    "title": "Growing into the R community",
+    "description": "The workshop is a joint event with R-Ladies Utrecht (The Netherlands) and will be led by Dr Shannon Pileggi (https://www.pipinghotdata.com/about.html)! Shannon is currently a Statistician at Adelphi Research in Doylestown, PA.\n\n\"Starting something new in R can be daunting, but there are many community resources that can help! In this presentation, I’ll discuss how I crafted a job interview presentation by making modifications on publicly available TidyTuesday code. This built the technical and confidence-boosting scaffolding I needed for more open-ended projects. The success of this experience inspired me to transition from my role as a consumer and creator to contributor to give back to the R community, which has been incredibly fulfilling. Despite social distancing, I feel more connected to the R community than ever before!\"\n\nPREPARATION AND RESOURCES\nThere is nothing to prepare in advance. The resources for the workshop are available here: https://github.com/shannonpileggi/growing-into-r\n\nONLINE PROGRAMME\nThe event will be held online and will start at 18:00 (UK time). Please join us via this Zoom link:\nhttps://us06web.zoom.us/j/84573751480?pwd=RjJhSWVLaXFNK3hkbThkRkxzWGMxdz09\n\nCODE OF CONDUCT\nPlease take a minute to read our code of conduct - we are committed to creating a safe and harassment-free environment:\nhttps://github.com/rladies/.github/blob/master/CODE_OF_CONDUCT.md\n\nR-Ladies events are always free and open to anyone who wants to participate as long as they follow the code of conduct. We are pro-actively inclusive of queer, trans, and all minority identities, with additional sensitivity to intersectional identities. Our priority is to provide a safe community space for anyone identifying as a minority gender who is interested in and/or working with R.",
+    "status": "PAST",
+    "dateTime": "2021-09-15T18:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-coventry/events/278971715/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 42,
+      "waitlistCount": 0,
+      "totalCount": 42
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Coventry",
+      "urlname": "rladies-coventry"
+    }
+  },
+  {
+    "id": "277276108",
+    "title": "Improving your data visualisations in R",
+    "description": "TOPIC\nThis event will be led by Dr Sophie Hardy (https://sophiehardy.co.uk/). Sophie is a postdoctoral research fellow at the University of Warwick and is one of the co-founders of R-Ladies Coventry!\n\nClear and transparent data visualisation is essential for the effective interpretation and communication of science, and is a topic that Sophie is passionate about! The talk will begin with a brief overview of the common pitfalls of typical data visualisation methods (e.g., bar plots). Following this, Sophie will show three different types of data visualisations that are effective at showing off the full story of your dataset, and walk you through the code for making these plots in R.\n\nPREPARATION AND RESOURCES\nThere is nothing to prepare in advance. The resources for the workshop (including PowerPoint slides, a R markdown html file and the original R code used to create the tutorial) are freely available to download here: https://osf.io/e63br/\n\nONLINE PROGRAMME\nThe event will be held online and will start at 17:00 (UK time). Please join us via this Zoom link:\nhttps://us06web.zoom.us/j/86518733370?pwd=eDNmM2R1UUlFTXRyRmltRXRxNUdmdz09\n\nCODE OF CONDUCT\nPlease take a minute to read our code of conduct - we are committed to creating a safe and harassment-free environment:\nhttps://github.com/rladies/.github/blob/master/CODE_OF_CONDUCT.md\n\nR-Ladies events are always free and open to anyone who wants to participate as long as they follow the code of conduct. We are pro-actively inclusive of queer, trans, and all minority identities, with additional sensitivity to intersectional identities. Our priority is to provide a safe community space for anyone identifying as a minority gender who is interested in and/or working with R.",
+    "status": "PAST",
+    "dateTime": "2021-05-18T17:00:00+01:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-coventry/events/277276108/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 112,
+      "waitlistCount": 0,
+      "totalCount": 112
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Coventry",
+      "urlname": "rladies-coventry"
+    }
+  },
+  {
+    "id": "275841561",
+    "title": "An introduction to R Markdown",
+    "description": "TOPIC\nOur speaker for this event will be Thea Knowles (https://theaknowles.com). She is currently an assistant professor in the Department of Communicative Disorders & Sciences at the University at Buffalo.\n\nIn this talk, she will introduce RMarkdown, a powerful set of tools to combine code and writing. This hands-on tutorial will walk through the process of using RMarkdown to share results with others, some tricks & tips, and common roadblocks and how to overcome them. She will also briefly show other ways to scale up your use of RMarkdown, for example to write journal articles, dissertations/books, and websites.\n\nPREPARATION\n1. ​​Have R and RStudio installed\n\nIn the console, install the \"tidyverse\" package if you don't already have it by entering: install.packages(\"tidyverse\"). The \"rmarkdown\" and \"knitr\" packages are automatically included in RStudio downloads, so no need to install anything else.\n\n2. Consider updating RStudio\n\nIf you haven't updated RStudio in a few months you may wish to do so, since new integrations have made using RMarkdown even better.\n\n​If you have an older version installed that's okay too - you'll still be able to follow along.\n\nIf you're not sure, or are nervous about updating, you can also use RStudio cloud (https://rstudio.cloud/projects)!\n\n3. Download the materials we'll be using:\n\nhttps://drive.google.com/file/d/1XGtZdakWU7_2gN5NAgCE0RjqvyTszdco/view?usp=sharing\n\n​Note: we will be using simulated data from Politzer-Ahles & Piccinini 2018​\n\nONLINE PROGRAMME\nThe event will be held online and will start at 16:00 (UK time). You can use the following link to join the session: https://zoom.us/j/97481982744?pwd=NnRFYlhKY283R2lpN1pJRGpUZk1Hdz09\n\nCODE OF CONDUCT\nPlease take a minute to read our code of conduct -- we are committed to creating a safe and harassment-free environment\nhttps://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nR-Ladies events are always free and open to anyone who wants to participate as long as they follow the code of conduct. We are pro-actively inclusive of queer, trans, and all minority identities, with additional sensitivity to intersectional identities. Our priority is to provide a safe community space for anyone identifying as a minority gender who is interested in and/or working with R.",
+    "status": "PAST",
+    "dateTime": "2021-03-09T16:00:00Z",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-coventry/events/275841561/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 85,
+      "waitlistCount": 0,
+      "totalCount": 85
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Coventry",
+      "urlname": "rladies-coventry"
+    }
+  },
+  {
+    "id": "274897064",
+    "title": "An introduction to the BayesFactor R package",
+    "description": "TOPIC\nThis event will be lead to Dr Priya Silverstein (https://priyasilverstein.wixsite.com/website). Priya is a postdoctoral researcher at the University of Surrey and a Community Manager at the Journal Editors Discussion Interface (JEDI), who is passionate about open science and reproducibility! One essential component of good open science practice is Bayes Factor Analysis of null results. In this workshop, Priya will give a quick introduction to Bayes Factors, followed by a practical tutorial on how to compute them in R. Then, you’ll get a chance to try out the package on your own data!\n\nPREPARATION\nTo join in with the hands-on part of this workshop, please bring some ready-to-analyse data and install the BayesFactor package [R code: install.packages(\"BayesFactor\")].\n\nONLINE PROGRAMME\nThe event will be held online and will start at 17:00 (UK time). Please join us via this Zoom link:\nhttps://zoom.us/j/98522632342?pwd=b1FYMW1GcmUvdVRtR3Z1QnU4NHlsUT09\n\nCODE OF CONDUCT\nPlease take a minute to read our code of conduct - we are committed to creating a safe and harassment-free environment:\nhttps://github.com/rladies/.github/blob/master/CODE_OF_CONDUCT.md\n\nR-Ladies events are always free and open to anyone who wants to participate as long as they follow the code of conduct. We are pro-actively inclusive of queer, trans, and all minority identities, with additional sensitivity to intersectional identities. Our priority is to provide a safe community space for anyone identifying as a minority gender who is interested in and/or working with R.",
+    "status": "PAST",
+    "dateTime": "2021-01-27T17:00:00Z",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-coventry/events/274897064/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 75,
+      "waitlistCount": 0,
+      "totalCount": 75
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Coventry",
+      "urlname": "rladies-coventry"
+    }
+  },
+  {
+    "id": "283880157",
+    "title": "Keeping track of your R code: Version control with Git, GitHub and RStudio",
+    "description": "**\\*BSL-English interpretation provided\\***\nSPEAKER\nThis online workshop will be led by Freya Watkins (she/her). Freya is a PhD student in Psychology at the University of Birmingham, UK. Her work focuses on the linguistic processing of signed languages, especially in hearing learners of British Sign Language. Freya has been using R since 2017 for data analysis, dataviz, her personal website & now presentations! She also teaches introductory R to colleagues & fellow postgraduates.\nTwitter: https://twitter.com/freya_watkins_\nWebsite: https://freyawatkins.github.io/\n\nWORKSHOP OVERVIEW\nSick of having twenty versions of the same file? Can’t remember why you changed that line of code? Was it 6 weeks or 2 years ago? Did I add that bit or was it my colleague? In this introductory workshop, we’ll learn about using version control via Git and GitHub, two powerful tools for keeping track of file changes and facilitating collaborative coding. We’ll also learn how to integrate version control into our RStudio workflow to keep our R code organised! There will be some basic interactive exercises to practice using Git & GitHub (creating a repository; cloning a repository; collaborating using forks). If you’d like to follow along with the exercises, please make sure to do the below set-up/prep in advance. **This workshop will have British Sign Language-English interpretation.**\n\nPREPARATION AND RESOURCES\n\n1. (Install/)Update R and RStudio to the newest versions available to you.\n2. If you don’t already have one, create a free GitHub account at https://github.com\n\n* Register with an academic email if you have one (more perks)\n* Think carefully about your username: avoid spaces & uncommon characters; a shorter username is better than longer; usually your real name (or related to it) is best\n\n3. Download GitHub Desktop from https://desktop.github.com\n4. Install Git\n\n* It is possible/likely you already have it\n* There are thorough instructions for explaining how to check and what to do if you don't have it at: https://happygitwithr.com/install-git.html\n\nIf you have issues getting set up, or any access requirements, feel free to email Freya and she'll do her best to help:\nf [dot] watkins [at] pgr [dot] bham [dot] ac [dot] uk\n\nONLINE PROGRAMME\nThe event will be held online and will start at 17:00 (GMT).\nPlease join us via this Zoom link:\nhttps://us06web.zoom.us/j/82914984039?pwd=RTNVOWFES3ZCb3Qxb0RsaHovYVhXdz09\n\nCODE OF CONDUCT\nPlease take a minute to read our code of conduct - we are committed to creating a safe and harassment-free environment:\nhttps://github.com/rladies/.github/blob/master/CODE_OF_CONDUCT.md\n\nR-Ladies events are always free and open to anyone who wants to participate as long as they follow the code of conduct. We are pro-actively inclusive of queer, trans, and all minority identities, with additional sensitivity to intersectional identities. Our priority is to provide a safe community space for anyone identifying as a minority gender who is interested in and/or working with R.",
+    "status": "PAST",
+    "dateTime": "2022-03-16T17:00:00Z",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-coventry/events/283880157/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 115,
+      "waitlistCount": 0,
+      "totalCount": 115
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Coventry",
+      "urlname": "rladies-coventry"
+    }
+  },
+  {
+    "id": "282268890",
+    "title": "How to unlock Twitter's hidden meta data: An introduction to the rtweet package",
+    "description": "SPEAKER\nThis online event will be lead by Zane Dax (https://twitter.com/StarTrek_Lt)! Zane has a BHsci in Public Health, started programming in Python but turned avid R user, and is very active on Twitter. She/They make R hexagon logos for R packages and streams on Twitch for data analysis and data visualizations.\n\nTOPIC OVERVIEW\nTwitter is a powerful tool and is part of a plethora of social media platforms. Twitter is widely used in the world for data science and research, as well as communication of various data science topics. Being a user is fine, but each tweet captures a lot of data that the user is unaware of - to unlock this hidden information one usually needs to have a Twitter API key to grab all the meta data on every tweet and Twitter user. In this special event, Zane will explain and walk through the rtweet package documentation (https://cran.r-project.org/web/packages/rtweet/rtweet.pdf). She/They will provide explained and ready to go examples with the data ready for your own data analysis, such as text analysis from word counts from tweets collected. This is the only Twitter API tutorial that you get to fully enjoy and learn from without any worry about being granted a API key for your data analysis!\n\nPREPARATION AND RESOURCES\nThere is nothing to prepare in advance. The tutorial resources are available on GitHub: https://github.com/PythonCoderUnicorn/rtweet-tutorial\n\nONLINE PROGRAMME\nThe event will be held online and will start at 17:30 (GMT).\nPlease join us via this Zoom link:\nhttps://us06web.zoom.us/j/87625213388?pwd=ZjBQMjNINHZsZVRVMHI1L2pMMnZRdz09\n\nCODE OF CONDUCT\nPlease take a minute to read our code of conduct - we are committed to creating a safe and harassment-free environment:\nhttps://github.com/rladies/.github/blob/master/CODE_OF_CONDUCT.md\n\nR-Ladies events are always free and open to anyone who wants to participate as long as they follow the code of conduct. We are pro-actively inclusive of queer, trans, and all minority identities, with additional sensitivity to intersectional identities. Our priority is to provide a safe community space for anyone identifying as a minority gender who is interested in and/or working with R.",
+    "status": "PAST",
+    "dateTime": "2022-01-26T17:30:00Z",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-coventry/events/282268890/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 81,
+      "waitlistCount": 0,
+      "totalCount": 81
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Coventry",
+      "urlname": "rladies-coventry"
+    }
+  },
+  {
+    "id": "296277517",
+    "title": "An basic introduction: Python for R Users",
+    "description": "**SPEAKER:**\nWanyin Li is a research student in Psycholinguistics and examines bilingual reading from the University of Birmingham.\n\n**TOPIC OVERVIEW**\nI decided to repeat this session at the end of November. Due to the link connection and multiple changes of dates, a few people missed the last session.\n\nR is a language made by and for statisticians, whereas Python is a more general-purpose programming language. Regardless of the background, there will be times when a particular algorithm is implemented in one language and not the other; a feature is better documented.\n\nThis workshop helps you cross the R-Python language barrier. Learn about some of the most important data types and data structures in Python and how they compare to the ones in R. We will also cover control flow statements (if-else) for loops and shows you how to write your own functions in Python!\n\nIt will be friendly for Python beginners, but we expect you to have some background knowledge of R.\n\n**PREPARATION AND RESOURCES**\nThere is nothing to prepare in advance.\n\n**ONLINE PROGRAMME**\nThe event will be held online and will start at 15:00 on 30/11/2023 (GMT).\nPlease join us via this Zoom link:\n[https://bham-ac-uk.zoom.us/j/81953714649?pwd=QzNpaXlMcFpmODFpclFrNFgxdTJQdz09](https://bham-ac-uk.zoom.us/j/81953714649?pwd=QzNpaXlMcFpmODFpclFrNFgxdTJQdz09)\n\n**CODE OF CONDUCT**\nPlease take a minute to read our code of conduct - we are committed to creating a safe and harassment-free environment:\nhttps://github.com/rladies/.github/blob/master/CODE_OF_CONDUCT.md\n\nR-Ladies events are always free and open to anyone who wants to participate as long as they follow the code of conduct. We are pro-actively inclusive of queer, trans, and all minority identities, with additional sensitivity to intersectional identities. Our priority is to provide a safe community space for anyone identifying as a minority gender who is interested in and/or working with R.",
+    "status": "PAST",
+    "dateTime": "2023-11-30T15:00:00Z",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-coventry/events/296277517/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 103,
+      "waitlistCount": 0,
+      "totalCount": 103
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Coventry",
+      "urlname": "rladies-coventry"
+    }
+  },
+  {
+    "id": "294305656",
+    "title": "An introduction: Python for R Users",
+    "description": "**SPEAKER:**\nWanyin Li is a research student in Psycholinguistics and examines bilingual reading from the University of Birmingham.\n\n**TOPIC OVERVIEW**\nR is a language made by and for statisticians, whereas Python is a more general-purpose programming language. Regardless of the background, there will be times when a particular algorithm is implemented in one language and not the other; a feature is better documented.\n\nThis workshop helps you cross the R-Python language barrier. Learn about some of the most important data types and data structures in Python and how they compare to the ones in R. We will also cover control flow statements (if-else) for loops and shows you how to write your own functions in Python!\n\nIt will be friendly for Python beginners, but we expect you to have some background knowledge of R.\n\n**PREPARATION AND RESOURCES**\nThere is nothing to prepare in advance.\n\n**ONLINE PROGRAMME**\nThe event will be held online and will start at 15:00 on 22nd September 2023 (GMT).\nPlease join us via this Zoom link:\n[https://bham-ac-uk.zoom.us/j/85814328424?pwd=TkhicHdJaG90dXRQdnVWM1dtU1VYdz09](https://bham-ac-uk.zoom.us/j/85814328424?pwd=TkhicHdJaG90dXRQdnVWM1dtU1VYdz09)\n\n**CODE OF CONDUCT**\nPlease take a minute to read our code of conduct - we are committed to creating a safe and harassment-free environment:\nhttps://github.com/rladies/.github/blob/master/CODE_OF_CONDUCT.md\n\nR-Ladies events are always free and open to anyone who wants to participate as long as they follow the code of conduct. We are pro-actively inclusive of queer, trans, and all minority identities, with additional sensitivity to intersectional identities. Our priority is to provide a safe community space for anyone identifying as a minority gender who is interested in and/or working with R.",
+    "status": "PAST",
+    "dateTime": "2023-09-22T15:00:00+01:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-coventry/events/294305656/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 182,
+      "waitlistCount": 0,
+      "totalCount": 182
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": 0,
+        "lon": 0,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Coventry",
+      "urlname": "rladies-coventry"
+    }
+  },
+  {
+    "id": "291024713",
+    "title": "Introduction to Bayesian GLMs with brms",
+    "description": "**SPEAKER**\nThis online workshop will be led by Dr Bodo Winter (https://bodowinter.com/)(@BodoWinter). Bodo is a Senior Lecturer at the University of Birmingham, UK, and the author of the leading R book \"Statistics for Linguists: An Introduction Using R\". (I Highly recommend getting one🤩.). We are thrilled to have Bodo again!!🥳🥳👏👏\n\n**WORKSHOP OVERVIEW**\nFor this workshop session, Bodo intends to walk people through the core insights of the generalized linear model (GLM) framework, with an emphasis on Poisson regression and logistic regression, two approaches that are incredibly useful when analyzing discrete data. We will work on two examples of experiments involving co-speech gestures and fit both types of GLMs.\n\n**PREPARATION**\nKnitted markdowns will be provided, but attendees who want to run the models themselves should install the packages “tidyverse,” “brms” and “tidybayes” packages. Unfortunately, brms installation can sometimes be tricky. Please attend even if you don’t get it running, as you’ll still be able to benefit!\n\n**ONLINE PROGRAMME**\nThe workshop will be held online, starting on 11th May at 16:00 (UK time). Please join us via this Zoom link:\n[https://bham-ac-uk.zoom.us/j/87984238119?pwd=VDBLSGFsckJBbC9YT08xY05kazZMUT09](https://bham-ac-uk.zoom.us/j/87984238119?pwd=VDBLSGFsckJBbC9YT08xY05kazZMUT09)\n\n**CODE OF CONDUCT**\nPlease take a minute to read our code of conduct - we are committed to creating a safe and harassment-free environment:\nhttps://github.com/rladies/.github/blob/master/CODE_OF_CONDUCT.md\nR-Ladies events are always free and open to anyone who wants to participate as long as they follow the code of conduct. We are pro-actively inclusive of queer, trans, and all minority identities, with additional sensitivity to intersectional identities. Our priority is to provide a safe community space for anyone identifying as a minority gender who is interested in and/or working with R.",
+    "status": "PAST",
+    "dateTime": "2023-05-11T16:00:00+01:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-coventry/events/291024713/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 90,
+      "waitlistCount": 0,
+      "totalCount": 90
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Coventry",
+      "urlname": "rladies-coventry"
+    }
+  },
+  {
+    "id": "291024515",
+    "title": "the Basics of Visualising Map Data in R using ggplot2",
+    "description": "**SPEAKER**\nDana Roemling (she/they) is a Ph.D. student in Applied Linguistics at the University of Birmingham. Their research interests are in forensic linguistics, language and law, sociolinguistics, and lavender linguistics. Their PhD focuses on dialect features in authorship profiling. Although they worked in IT before doing their PhD, they only really started programming during their PhD studies. Now they have grown to enjoy R.\nYou can find Dana on her personal web or on Twitter\nhttps://danaroemling.com/\n@danaroemling\n\n**Topic**\nThis workshop is designed to provide you with the basics of visualising map data in R using ggplot2. The workshop will provide a brief introduction into mapping data, which is useful, for example, in regional dialectology or typology - or generally when your data is regionally distributed. We’ll focus on creating maps from scratch and mapping linguistic variables using R so that we can visualise and identify patterns in the data.\n\n**PREPARATION**\nThe R packages we'll need are: maps, rworldmap, sf, tidyverse, dplyr\nThey can sometimes be tricky to install, so I suggest you try it beforehand.\nThe data and code we'll work with will be available here: [https://github.com/danaroemling/mapping](https://github.com/danaroemling/mapping)\n\n**ONLINE PROGRAMME**\nThe workshop will be held online, starting on 5th April at 16:00 (UK time). Please join us via this Zoom link:\n[https://bham-ac-uk.zoom.us/j/89852185657?pwd=VWRXRFhkWTVqK0FjOG1ZVm83VzhXUT09](https://bham-ac-uk.zoom.us/j/89852185657?pwd=VWRXRFhkWTVqK0FjOG1ZVm83VzhXUT09)\n\nCODE OF CONDUCT\nPlease take a minute to read our code of conduct - we are committed to creating a safe and harassment-free environment:\nhttps://github.com/rladies/.github/blob/master/CODE_OF_CONDUCT.md\nR-Ladies events are always free and open to anyone who wants to participate as long as they follow the code of conduct. We are pro-actively inclusive of queer, trans, and all minority identities, with additional sensitivity to intersectional identities. Our priority is to provide a safe community space for anyone identifying as a minority gender who is interested in and/or working with R.",
+    "status": "PAST",
+    "dateTime": "2023-04-05T16:00:00+01:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-coventry/events/291024515/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 101,
+      "waitlistCount": 0,
+      "totalCount": 101
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Coventry",
+      "urlname": "rladies-coventry"
+    }
+  },
+  {
+    "id": "291002435",
+    "title": "an introduction to Bayesian statistics in R.",
+    "description": "**SPEAKER**\n**Due to the train strike, today's talk is delayed to 4:45 pm. we are sorry!!!**\nDr. Mahmoud Elsherif will lead this online workshop.\nCurrently, Mahmoud is a researcher associate in Psychology at the University of Birmingham. He received the Leverhulme early career grant and will move to the University of Leicester to investigate linguistic predictions in younger and older adults.\nMahmoud has been using R since his Ph.D. for data analysis, modeling, and visualization.\nTo follow him online:\nTwitter: https://twitter.com/MamsMandrill\nHe has many exciting and high-quality publications:\nResearchgate: https://www.researchgate.net/profile/Mahmoud-Elsherif-2\n\n**WORKSHOP OVERVIEW**\nFrequentists dominated statistical practice for many years. However,\nbayesian data analysis is increasingly becoming the tool of choice for many data-analysis problems. Mahmoud will present an introduction to Bayesian statistics in R.\n\n**PREPARATION AND RESOURCES**\nNo, at this moment.\n\n**ONLINE PROGRAMME**\nThe event will be held online and will start at 16:45 (GMT), 16th March 2023\nPlease join us via this Zoom link:\n[https://bham-ac-uk.zoom.us/j/87167989030?pwd=WmpzQmw3UmwxTUhISkJlNmpRWWFwQT09](https://bham-ac-uk.zoom.us/j/87167989030?pwd=WmpzQmw3UmwxTUhISkJlNmpRWWFwQT09)\n\n**CODE OF CONDUCT**\nPlease take a minute to read our code of conduct - we are committed to creating a safe and harassment-free environment:\nhttps://github.com/rladies/.github/blob/master/CODE_OF_CONDUCT.md\n\nR-Ladies events are always free and open to anyone who wants to participate as long as they follow the code of conduct. We are pro-actively inclusive of queer, trans, and all minority identities, with additional sensitivity to intersectional identities. Our priority is to provide a safe community space for anyone identifying as a minority gender who is interested in and/or working with R.",
+    "status": "PAST",
+    "dateTime": "2023-03-16T16:45:00Z",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-coventry/events/291002435/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 111,
+      "waitlistCount": 0,
+      "totalCount": 111
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Coventry",
+      "urlname": "rladies-coventry"
+    }
+  },
+  {
+    "id": "291843836",
+    "title": "Sit down and Write your Personal Website by R",
+    "description": "This time, we have a different session. **It is not a hands-on workshop**.\nNo one will walk us through or present things.\nInstead (more exciting), we will sit down together (either in person or via zoom) and build our website using R. We could help each other out.\n\nWe will mainly follow this tutorial:\nhttps://debruine.github.io/tutorials/webpages.html\n\nIf you are based in Birmingham and would like to join us in person, you could email me at wxl810@student.bham.ac.uk\n\nIf you join us remotely, you can use this link below:\n[https://bham-ac-uk.zoom.us/j/86351402837?pwd=V2JrOGFFcjM3VktHanZqbE9abGV1QT09](https://bham-ac-uk.zoom.us/j/86351402837?pwd=V2JrOGFFcjM3VktHanZqbE9abGV1QT09)",
+    "status": "PAST",
+    "dateTime": "2023-03-11T10:00:00Z",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-coventry/events/291843836/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 26,
+      "waitlistCount": 0,
+      "totalCount": 26
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Coventry",
+      "urlname": "rladies-coventry"
+    }
+  },
+  {
+    "id": "289886315",
+    "title": "Level up your Data Wrangling with Tidyverse",
+    "description": "**SPEAKER:**\nWanyin Li is the new organiser of R-Ladies Coventry.\nShe is a research student in Psycholinguistics and examine bilingual reading from the University of Birmingham. Before she started her PhD, she had zero experience in programming. With support and helps from her colleagues, R-ladies and other R communities, she learnt R language from scratch and has become an enthusiast R user.\n\n**TOPIC OVERVIEW**\nIn this workshop, we will go through the most life-changing data wrangling tips Wanyin learned last year when she was analysing her data. These commands make it easy to get your data in exactly the right format, to summarise your data or make your workflows more reproducible. We will walk you through step by step. It will be friendly for beginners too.\n\n**PREPARATION AND RESOURCES**\nThere is nothing to prepare in advance.\n\n**ONLINE PROGRAMME**\nThe event will be held online and will start at 16:00 19th January 2023 (GMT).\nPlease join us via this Zoom link:\nhttps://bham-ac-uk.zoom.us/j/85782804444?pwd=d0ZET1NjY3dJNlJhZ1Yybk85b1Fvdz09\n\n**CODE OF CONDUCT**\nPlease take a minute to read our code of conduct - we are committed to creating a safe and harassment-free environment:\nhttps://github.com/rladies/.github/blob/master/CODE_OF_CONDUCT.md\n\nR-Ladies events are always free and open to anyone who wants to participate as long as they follow the code of conduct. We are pro-actively inclusive of queer, trans, and all minority identities, with additional sensitivity to intersectional identities. Our priority is to provide a safe community space for anyone identifying as a minority gender who is interested in and/or working with R.",
+    "status": "PAST",
+    "dateTime": "2023-01-19T16:00:00Z",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-coventry/events/289886315/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 108,
+      "waitlistCount": 0,
+      "totalCount": 108
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Coventry",
+      "urlname": "rladies-coventry"
+    }
+  },
+  {
+    "id": "302928794",
+    "title": "Version Control and RStudio",
+    "description": "**WORKSHOP OVERVIEW**\n\nSick of having twenty versions of the same file? Can’t remember why you changed that line of code? Was it 6 weeks or 2 years ago? Did I add that bit or was it my colleague? In this introductory workshop, we’ll learn about using version control via Git and GitHub, two powerful tools for keeping track of file changes and facilitating collaborative coding.\n\nWe’ll also learn how to integrate version control into our RStudio workflow to keep our R code organised! There will be some basic interactive exercises to practice using Git & GitHub (creating a repository; cloning a repository; collaborating using forks). If you’d like to follow along with the exercises, please make sure to do the below set-up/prep in advance.\n\n**PREPARATION AND RESOURCES**\n\n1. (Install/)Update R and RStudio to the newest versions available to you.\n2. If you don’t already have one, create a free GitHub account at https://github.com\n\n* Register with an academic email if you have one (more perks)\n* Think carefully about your username: avoid spaces & uncommon characters; a shorter username is better than longer; usually your real name (or related to it) is best\n\n3. Download GitHub Desktop from https://desktop.github.com\n4. Install Git\n\n* It is possible/likely you already have it\n* There are thorough instructions for explaining how to check and what to do if you don't have it at: https://happygitwithr.com/install-git.html\n\n**ONLINE PROGRAMME**\nThe event will be held online and will start at 16:00 (GMT).\nPlease join us via link:\nhttps://teams.microsoft.com/l/meetup-join/19%3ameeting_N2VlOGVhZjktMTMwYi00MDI4LTg1ZTEtZDcwMTNjZmFiM2Ew%40thread.v2/0?context=%7b%22Tid%22%3a%224ffa3bc4-ecfc-48c0-9080-f5e43ff90e5f%22%2c%22Oid%22%3a%2213d75a48-cddd-4e0a-b31a-9aa858d18c90%22%7d\n\nPlease take a minute to read our code of conduct - we are committed to creating a safe and harassment-free environment:\nhttps://github.com/rladies/.github/blob/master/CODE_OF_CONDUCT.md\nR-Ladies events are always free and open to anyone who wants to participate as long as they follow the code of conduct. We are pro-actively inclusive of queer, trans, and all minority identities, with additional sensitivity to intersectional identities. Our priority is to provide a safe community space for anyone identifying as a minority gender who is interested in and/or working with R.",
+    "status": "PAST",
+    "dateTime": "2024-10-23T16:00:00+01:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-coventry/events/302928794/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 52,
+      "waitlistCount": 0,
+      "totalCount": 52
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Coventry",
+      "urlname": "rladies-coventry"
+    }
+  },
+  {
+    "id": "300939793",
+    "title": "Understanding Mixed-Effects Models through Simulation ",
+    "description": "**WORKSHOP OVERVIEW:**\nIn this talk, we will delve into the increasingly popular mixed-effects models, frequently employed in experimental fields such as psycholinguistics where data are nested within participants and items. These models can often appear opaque, making it challenging to grasp what specific parameters signify and how they are reflected in the data.\nThrough the power of simulation, we aim to demystify these models by constructing and manipulating their parameters from scratch. This approach not only aids in a deeper comprehension of the models but also serves as an invaluable tool for conducting power analysis and refining experimental predictions.\nKey areas we will explore include:\n\n* Simulating data and see whether the model estimates mirror our expectations.\n* Understanding random effects and how to simulate them.\n* Exploring how simulation techniques can be used for power analysis.\n\nThis session is designed to be useful for a wide audience but of course familiarity with the lme4 package and R will help. If you would like to familiarize yourself with data simulation, you can have a look at my blog posts about this topic ([https://julianquandt.com/categories/power-analysis/](https://julianquandt.com/categories/power-analysis/)).\n\n**ONLINE PROGRAMME**\nThe workshop will be held online, starting on 12th July at 12:00 pm (UK Summer time). Please join us via this Zoom link:\n[https://bham-ac-uk.zoom.us/j/84906376457?pwd=alZGSFY4SmJzVjRHb2FJMm9zS0NuQT09](https://bham-ac-uk.zoom.us/j/84906376457?pwd=alZGSFY4SmJzVjRHb2FJMm9zS0NuQT09)\nMeeting ID: 849 0637 6457\nPasscode: 163231\n\n**SPEAKER:**\nJulian Quandt, currently a postdoctoral researcher at WU Vienna University of Economics and Business, completed his PhD studies in Psychology at Radboud University, Nijmegen, focusing on metacognition in value-based decision making. During his doctoral studies, faced with the absence of a standard tool for power analysis for Mixed-Effects Models, he used data simulation instead. Through this process, he discovered the power of data simulation as a tool for learning and enhancing his own understanding of statistical models. Julian authored four blog posts on data simulation, covering both simple and complex statistical models. His intention was to share his intuition that simulation can serve as a valuable tool for comprehending these models, in addition to enabling us to conduct power analysis for (nearly) any statistical model.\n\n**CODE OF CONDUCT**\nPlease take a minute to read our code of conduct - we are committed to creating a safe and harassment-free environment:\nhttps://github.com/rladies/.github/blob/master/CODE_OF_CONDUCT.md\nR-Ladies events are always free and open to anyone who wants to participate as long as they follow the code of conduct. We are pro-actively inclusive of queer, trans, and all minority identities, with additional sensitivity to intersectional identities. Our priority is to provide a safe community space for anyone identifying as a minority gender who is interested in and/or working with R.",
+    "status": "PAST",
+    "dateTime": "2024-07-12T12:00:00+01:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-coventry/events/300939793/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 37,
+      "waitlistCount": 0,
+      "totalCount": 37
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Coventry",
+      "urlname": "rladies-coventry"
+    }
+  }
+]

@@ -1,0 +1,422 @@
+[
+  {
+    "id": "256147656",
+    "title": "ThundeR talks",
+    "description": "*What we'll do*\nThundeR talks are R talks of 10-20 minutes by several people on their favourite topic in R.\n\n*Speakers*\n1. Vittoria Rezzonico: \"High Performance Computers invoices: it's R!\" (https://people.epfl.ch/vittoria.rezzonico)\n2. TBA\n\nInterested in sharing your expeRience?\nGet in touch with us, we are always looking for speakers! ThundeR talks are ideal to discuss the use of a specific function, talk about a package you like, explain how you create a particular type of figure, introduce a book, present some of your recent work using R ...\n\n*Prerequisite*\nBasic knowledge in R, beginners are welcome!\n\n*Schedule*\n12:00 - 12:15 Arrival\n12:15 - 13:00 ThundeR talks\n13:00 - 14:00 Christmas cookies + Networking",
+    "status": "PAST",
+    "dateTime": "2018-12-10T12:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-lausanne/events/256147656/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 20,
+      "waitlistCount": 0,
+      "totalCount": 20
+    },
+    "venues": [
+      {
+        "id": "25985255",
+        "name": "EFPL",
+        "address": "CM 1 113",
+        "city": "Lausanne",
+        "state": "vt",
+        "country": "ch",
+        "lat": 46.5205,
+        "lon": 6.5663,
+        "postalCode": "meetup5",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Lausanne",
+      "urlname": "rladies-lausanne"
+    }
+  },
+  {
+    "id": "254756623",
+    "title": "Creating reproducible analyses and reports with R Markdown",
+    "description": "• Title of talk •\nCreating reproducible analyses and reports with R Markdown\n\n• Speaker •\nClaudia Kasper (https://twitter.com/claudia_kasper)\n\n• Requirements •\n+ A laptop with R and RStudio installed.\n+ R-package RMarkdown (install.packages('rmarkdown’)) and ggplot2 (install.packages(‘ggplot2’) installed.\n+ This is a beginner course. Having used basic commands in R before is sufficient, but no knowledge of markdown, latex or anything similar is required.\n\nThere will be internet access provided by the host.\n\n• Who is Claudia Kasper •\nI am an animal geneticist currently working as a researcher at Agroscope in Posieux, FR, where I work on breeding sustainable pigs. I started my career as an evolutionary biologist, first working on primates, then switching to humans and finally fish and house mice. In all of those systems I was interested in finding out more about cooperation, the social structure enabling it and the genetic basis of this fascinating biological phenomenon. My research is strongly centred on statistics for which I am using R. Having used Mathematica in the beginning, I was missing a neat way to organise my R scripts and to make reports of my findings. After a lot of frustration and literally days of copy-pasting R output into Word documents I discovered RMarkdown a few years ago and I have been using it ever since. Apart from having neater scripts, I ‘knit’ reports of my results as Word or PDF documents, but also presentations and I am trying to do a webpage with RMarkdown. In my free time I play improvisational theatre in Bern in a group which I co-founded.",
+    "status": "PAST",
+    "dateTime": "2018-10-17T18:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-lausanne/events/254756623/",
+    "featuredEventPhoto": {
+      "id": "474905421",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/5/2/d/highres_474905421.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/5/2/d/600_474905421.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/5/2/d/thumb_474905421.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 18,
+      "waitlistCount": 0,
+      "totalCount": 18
+    },
+    "venues": [
+      {
+        "id": "24537954",
+        "name": "Swisscom Digital Lab",
+        "address": "EPFL Innovation Park, Building F, 3rd Floor",
+        "city": "Lausanne",
+        "state": "",
+        "country": "ch",
+        "lat": 46.5168,
+        "lon": 6.5617,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Lausanne",
+      "urlname": "rladies-lausanne"
+    }
+  },
+  {
+    "id": "250462129",
+    "title": "ThundeR talks",
+    "description": "*What we'll do*\nThundeR talks are R talks of 10-20 minutes by several people on their favourite topic in R.\n\n1. \"Talking in Circos - circular visualisation in R\" by Liza Darrous\n2. \"Computational text analysis using 'quanteda' \" by Susan Kamal\n3. “Diving into #tidytuesday - a weekly social data project\" by Andrea and Sina\n\n*Prerequisite*\nBasic knowledge in R and RStudio, beginners are welcome!\n\n*Schedule*\n18:30 - 19:00 Arrival\n19:00 - 20:00 ThundeR talks\n20:00 - 21:00 Apéro + Networking\n\n*Notice*\nDuring Arrival time (18:30 - 19:00), you are welcomed to talk to us about the problems that you have with R, and in case of the bugs, we are happy to help. :)",
+    "status": "PAST",
+    "dateTime": "2018-06-07T18:30:00+02:00",
+    "duration": "PT2H30M",
+    "eventUrl": "https://www.meetup.com/rladies-lausanne/events/250462129/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 15,
+      "waitlistCount": 0,
+      "totalCount": 15
+    },
+    "venues": [
+      {
+        "id": "25823342",
+        "name": "ImpactHub Lausanne",
+        "address": "Rue du Jura 11, 1004 Lausanne",
+        "city": "Lausanne",
+        "state": "",
+        "country": "ch",
+        "lat": 46.5254,
+        "lon": 6.6241,
+        "postalCode": "meetup5",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Lausanne",
+      "urlname": "rladies-lausanne"
+    }
+  },
+  {
+    "id": "248694983",
+    "title": "R and Bayesian statistics ",
+    "description": "• What we'll do\nTitle of talk: R and Bayesian statistics\nSpeaker: Elizaveta Semenova, Swiss Tropical and Public Health Institute, Basel\nhttps://twitter.com/liza_p_semenova,\nhttps://elizavetasemenova.github.io\nRequirements: knowledge of classical (frequentist) statistics\n\n• What to bring:\nIdeally, bring a laptop with installed R and the RStan library:\n- Linux/Mac: https://github.com/stan-dev/rstan/wiki/Installing-RStan-on-Mac-or-Linux\n- Windows: https://github.com/stan-dev/rstan/wiki/Installing-RStan-on-Windows\n\n• Important to know:\nWe have PIZZA for Lunch! offered by Swisscom :)\nhttps://www.meetup.com/Swisscom-Digital-Lab/events/248727509/",
+    "status": "PAST",
+    "dateTime": "2018-04-13T12:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-lausanne/events/248694983/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 24,
+      "waitlistCount": 0,
+      "totalCount": 24
+    },
+    "venues": [
+      {
+        "id": "24537954",
+        "name": "Swisscom Digital Lab",
+        "address": "EPFL Innovation Park, Building F, 3rd Floor",
+        "city": "Lausanne",
+        "state": "",
+        "country": "ch",
+        "lat": 46.5197,
+        "lon": 6.6323,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Lausanne",
+      "urlname": "rladies-lausanne"
+    }
+  },
+  {
+    "id": "247414318",
+    "title": "Building a web application with Shiny",
+    "description": "*What we'll do*\nA tutorial on Shiny package for web application development using only R.\n\n*Speaker*\nElisabeth Dahlqwist (https://ki.se/en/people/elisda)\n\n*Prerequisite*\nBasic knowledge in R and RStudio, beginners are welcome!\n\n*Schedule*\n18:00 - 18:30 Arrival\n18:30 - 19:30 Tutorial\n19:30 - 20:00 Apéro\n\n*Location*\nUniversity of Lausanne, Genopode, Auditorium A (https://goo.gl/maps/Fo8rctLTWgm)\n\n*Apéro*\nWe very much appreciate help with the Apéro. We will have a \"magic hat\" for monetary donations, but we also take eat- or drinkable contributions (please drop us a note below).",
+    "status": "PAST",
+    "dateTime": "2018-03-14T18:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-lausanne/events/247414318/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 25,
+      "waitlistCount": 0,
+      "totalCount": 25
+    },
+    "venues": [
+      {
+        "id": "25740357",
+        "name": "UNIL - Génopode - Auditorium A",
+        "address": "Route de Blévallaire",
+        "city": "Ecublens",
+        "state": "",
+        "country": "ch",
+        "lat": 46.5192,
+        "lon": 6.5753,
+        "postalCode": "meetup124",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Lausanne",
+      "urlname": "rladies-lausanne"
+    }
+  },
+  {
+    "id": "245595598",
+    "title": "Kickoff meeting R-ladies Lausanne",
+    "description": "Please register on eventbrite here (not on meetup): https://www.eventbrite.com/e/r-ladies-lausanne-tickets-40902966875\n\n• What we'll do\n\nHello R-Ladies community!\nWe are ready to kick-start our Lausanne chapter of the R-Ladies!\nCome along to this introductory event where we will discuss the mission of R-Ladies, goals of our chapter and get to know each other. This event is hosted at University of Lausanne!\nSpace is limited so please make sure you RSVP to get your spot.\n\nAgenda:\n\n6:00-6:15 pm - Arriving (from the metro stop Chamberonne, follow the purple arrows)\n\n6:15 pm: Introduction to R-Ladies; a presentation with a discussion on:\n• What is R-Ladies?\n• Why did we start R-Ladies Lausanne?\n• What is your role, and how can you get involved in R-Ladies.\n• Brief introductions of the organisers\n\n6:45 pm - A 5 min lightning talk (*) about \"How to arrange graphics from ggplot2 on multipage pdfs\" by Leonore Wigger.\n\nFrom 7 pm onwards we will have an apero with drinks and some food. * Lightning talks - this is an opportunity to informally introduce ourselves and share what we are using R for or what we are hoping to do with R (~ 5-10 minutes each). If you would like to give a little talk, here's a link to sign up HERE (https://goo.gl/forms/l2TEjOD7rTGem0jw1).There is no need for fancy slides (or any slides), the idea is to share our R interests/backgrounds and for the members to get to know each other.",
+    "status": "PAST",
+    "dateTime": "2018-02-01T18:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-lausanne/events/245595598/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 13,
+      "waitlistCount": 0,
+      "totalCount": 13
+    },
+    "venues": [
+      {
+        "id": "25644312",
+        "name": "UNIL",
+        "address": "Anthropole",
+        "city": "Lausanne",
+        "state": "",
+        "country": "ch",
+        "lat": 46.5237,
+        "lon": 6.5843,
+        "postalCode": "meetup5",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Lausanne",
+      "urlname": "rladies-lausanne"
+    }
+  },
+  {
+    "id": "266555497",
+    "title": "Tidy up your data science workflow with the tidyverse",
+    "description": "• Description •\nThe tidyverse is a coherent system of packages for data manipulation, exploration and visualization that share a common design philosophy.\nThere are core tidyverse packages that you're likely to use in everyday data analyses, and these include:\n- ggplot2\n- dplyr\n- tidyr\n- readr\n- purrr\n- tibble\n- stringr\n- forecats\nWe'll be learning a bit about each of these core packages while demonstrating their functionalities!\n\n• Speaker •\nMine Çetinkaya-Rundel\nMine is a Senior Lecturer in the School of Mathematics at University of Edinburgh and Data Scientist and Professional Educator at RStudio. Mine’s work focuses on innovation in statistics and data science pedagogy, with an emphasis on computing, reproducible research, student-centered learning, and open-source education as well as pedagogical approaches for enhancing retention of women and under-represented minorities in STEM. Mine works on integrating computation into the undergraduate statistics curriculum, using reproducible research methodologies and analysis of real and complex datasets. She is a former R-Ladies RTP and a current R-Ladies Edinburgh organizer.\n\n• Agenda •\n18h15 - 18h30 Arrival (+ bring any questions/problems you might have)\n18h30 Presentation\n19h30 Apéro + Networking\n\n• Prerequisite •\nBasic knowledge in R, beginners are welcome!",
+    "status": "PAST",
+    "dateTime": "2019-12-03T18:30:00+01:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-lausanne/events/266555497/",
+    "featuredEventPhoto": {
+      "id": "486787158",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/b/f/6/highres_486787158.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/b/f/6/600_486787158.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/b/f/6/thumb_486787158.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 19,
+      "waitlistCount": 0,
+      "totalCount": 19
+    },
+    "venues": [
+      {
+        "id": "26740251",
+        "name": "UNIL - Génopode",
+        "address": "Quartier Sorge",
+        "city": "Lausanne",
+        "state": "VD",
+        "country": "ch",
+        "lat": 46.5195,
+        "lon": 6.574,
+        "postalCode": "1015",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Lausanne",
+      "urlname": "rladies-lausanne"
+    }
+  },
+  {
+    "id": "262507407",
+    "title": "ThundeR talks",
+    "description": "*What we'll do*\nThundeR talks are R talks of 10-20 minutes by several people on their favourite topic in R.\n\n*Speakers*\n1. Jenny Sjaarda (@jenny_sjaarda) - 'Parallelize R code on a Slurm cluster'\n2. Liza Darrous (@LizaMGD) - 'Plotting on a bad day'\n3. Ninon Mounier (@Nin0nM) - 'workflowr: what's that all about?'\n\nInterested in sharing your expeRience?\nGet in touch with us, we are always looking for speakers! ThundeR talks are ideal to discuss the use of a specific function, talk about a package you like, explain how you create a particular type of figure, introduce a book, present some of your recent work using R ...\n\n*Prerequisite*\nBasic knowledge in R, beginners are welcome!\n\n*Schedule*\n18:15 - 18:30 Arrival\n18:30 - 19:30 ThundeR talks\n19h30 Apero (outside if the weather allows)",
+    "status": "PAST",
+    "dateTime": "2019-07-02T18:30:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-lausanne/events/262507407/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [
+      {
+        "id": "26484095",
+        "name": "EPFL School of Life Sciences",
+        "address": "SV",
+        "city": "Lausanne",
+        "state": "VD",
+        "country": "ch",
+        "lat": 46.5201,
+        "lon": 6.5639,
+        "postalCode": "1015",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Lausanne",
+      "urlname": "rladies-lausanne"
+    }
+  },
+  {
+    "id": "261037428",
+    "title": "Statistical inference in the tidyverse framework: the Infer package.",
+    "description": "• Description •\nThis talk will be about the infer package which aim is both to perform statistical inference using a syntax coherent with the tidyverse framework and to make the common logic behind statistical inference more apparent and intuitive.\n\n• Speaker •\nElise Dupuis Lozeron\n\n• Agenda •\n18h00 Arrival\n18h15 Presentation\n19h15 Apéro\n\n• Elise Dupuis Lozeron •\n\nStatistician, Division of Clinical Epidemiology and Methodological Support Unit, Clinical Research Center (CRC), University Hospitals of Geneva and University of Geneva, Geneva (CH).\nElise Dupuis Lozeron has a PhD in statistics from the University of Geneva. Before joining her current position she has worked for 5 years as a statistician for the Swiss study on Air Pollution And Lung Disease in Adults (SAPALDIA) and for the Department of Adult Intensive Care Medicine, University Hospital of Lausanne (CHUV). Her own research is related to the statistical estimation of complex models using simulation based bias-correction methods.",
+    "status": "PAST",
+    "dateTime": "2019-05-16T18:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-lausanne/events/261037428/",
+    "featuredEventPhoto": {
+      "id": "480895610",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/9/3/a/highres_480895610.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/9/3/a/600_480895610.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/9/3/a/thumb_480895610.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 12,
+      "waitlistCount": 0,
+      "totalCount": 12
+    },
+    "venues": [
+      {
+        "id": "26358356",
+        "name": "EPFL",
+        "address": "CM 1 113",
+        "city": "Lausanne",
+        "state": "sc",
+        "country": "ch",
+        "lat": 46.5205,
+        "lon": 6.5659,
+        "postalCode": "meetup5",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Lausanne",
+      "urlname": "rladies-lausanne"
+    }
+  },
+  {
+    "id": "260048451",
+    "title": "Collecting Twitter data with R",
+    "description": "In this presentation Elise will show what packages are available in R to collect data on Twitter, along with their main functions. Elise will also discuss the advantages and limits of this kind of data for social sciences.\n\nElise Tancoigne is a post-doctoral fellow at the University of Geneva, where she studies the sociology and history of science volunteering (\"citizen sciences\"). She likes to experiment with, and also criticize, digital humanities methods.\n\nMore about Elise: http://citizensciences.net/elise-tancoigne/\n\nLOCATION\nSalle 120 - Lipari\nRue du Bugnon 27\n\nSCHEDULE\n11:45 - 12:00: Arrival\n12:00 ~ 12:45: Presentation\n12:45 - 13:15: Tea & Coffee\n\nAs this is a lunchtime meet-up, please feel free to bring your food and enjoy it during the talk!",
+    "status": "PAST",
+    "dateTime": "2019-04-16T12:00:00+02:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-lausanne/events/260048451/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [
+      {
+        "id": "26274713",
+        "name": "Rue du Bugnon 27",
+        "address": "Rue du Bugnon 27",
+        "city": "Lausanne",
+        "state": "VD",
+        "country": "ch",
+        "lat": 46.5265,
+        "lon": 6.641,
+        "postalCode": "1005",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Lausanne",
+      "urlname": "rladies-lausanne"
+    }
+  },
+  {
+    "id": "259469870",
+    "title": "Using R to assess Eye-tracking data when investigating Psychological Processes",
+    "description": "• Title of the talk •\nUsing R to assess Eye-tracking data when investigating Psychological Processes\n\n• Speaker •\nSuzannah Stuijfzand ( https://twitter.com/stuijfzandsooz )\n\n• Schedule •\n18h00 Arrival\n18h15 Presentation\n19h30 - 20h30 Apéro + networking\n\n• Who is Suzannah Stuijfzand •\nI am a research psychologist currently working as a post doc within the Lausanne Perinatal Research group led by Prof. Antje Horsch. The group investigates perinatal mental health, specifically we investigate the impact of stress and trauma in the perinatal period (the time before, during and after birth) on mothers and their families.\nMy background is firmly routine in developmental psychology. My research masters in development and socialization in childhood and adolescence and my PhD was on Cognitive processes and their association to Anxiety in young children. My career so far has led me from the UK to the Netherlands for my masters, back to the UK for my PhD and finally my post-doc has brought me here to Lausanne.\nMy research has necessitated an interest in diverse methodologies in an attempt to overcome the limitations in standard measures (i.e. reaction times) when studying children. I have also has to become accustomed to longitudinal data in order to study development. It is through these elements of my research that have brought me into contact with R in an attempt to make the best use of my data to answer my research questions.",
+    "status": "PAST",
+    "dateTime": "2019-03-20T18:00:00+01:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-lausanne/events/259469870/",
+    "featuredEventPhoto": {
+      "id": "479191434",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/a/c/a/highres_479191434.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/a/c/a/600_479191434.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/a/c/a/thumb_479191434.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 12,
+      "waitlistCount": 0,
+      "totalCount": 12
+    },
+    "venues": [
+      {
+        "id": "24537954",
+        "name": "Swisscom Digital Lab",
+        "address": "EPFL Innovation Park, Building F, 3rd Floor",
+        "city": "Lausanne",
+        "state": "",
+        "country": "ch",
+        "lat": 46.5168,
+        "lon": 6.5617,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Lausanne",
+      "urlname": "rladies-lausanne"
+    }
+  },
+  {
+    "id": "258120219",
+    "title": "R conference movie time 🍿",
+    "description": "NOTE: the talk \"Collecting Twitter data with R\" with Elise Tancoigne has unfortunately to be postponed.\n\nInstead, we have pre-selected five conference talks from useR, ERUM and RStudioConf and will let you pick your two favorites.\n\nSCHEDULE\n12:00 - 12:15: Arrival\n12:15 ~ 13:15: Conference talk screening & discussion\n13:15 - 14:00: Tea & Coffee",
+    "status": "PAST",
+    "dateTime": "2019-02-13T12:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-lausanne/events/258120219/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 16,
+      "waitlistCount": 0,
+      "totalCount": 16
+    },
+    "venues": [
+      {
+        "id": "26086060",
+        "name": "EPFL",
+        "address": "CM 1 221",
+        "city": "Lausanne",
+        "state": "al",
+        "country": "ch",
+        "lat": 46.5206,
+        "lon": 6.5669,
+        "postalCode": "meetup5",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Lausanne",
+      "urlname": "rladies-lausanne"
+    }
+  }
+]

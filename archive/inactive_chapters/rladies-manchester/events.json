@@ -1,0 +1,806 @@
+[
+  {
+    "id": "235934219",
+    "title": "fundamental concepts of R & reproducible R Markdown documents",
+    "description": "R-Ladies Manchester is ready to announce our first event!\n\nR-Ladies Manchester is part of a global initiative, R-Ladies Global, designed to improve the gender diversity of R users worldwide and in particular, to improve the participation and experience of women in the R community. As part of the initiative, R-Ladies Manchester will host a number of talks and workshops about the use of R. It doesn't matter if you never used R or if you are an R expert, R-Ladies Manchester welcomes anyone with an interest in R. The goal is to promote R, exchange knowledge and create an R community among women. We are fully inclusive and respectful of LGBT identities - our priority is to provide a safe community space for anyone identifying as female who is interested in and/or working with R.\n\nWe will begin our first workshop by reinforcing the foundations of your data analysis knowledge and R skills, and then move on to creating reproducible reports using R Markdown. The workshop starts with some warm-ups to get your brain in R-mode, and to make sure the basics are covered. Through a series of demonstrations and hands on exercises, you will learn some of the fundamental concepts of R: basic use of the R/RStudio console, inputting and importing different data types, record keeping, graphs etc. It concludes by showing how to create reproducible R Markdown documents. You might wish to bring your own laptop!\n\nTo gain an insight in the members’ competence and interest in R, we kindly ask you to answer our short survey (https://docs.google.com/forms/d/10yy1MouWOCpvrBdygFZZFwg8MoS4xwkLtPeXoGjuNw0/edit?c=0&w=1) and to spread the word about our group.\n\nWe are on Tweeter: @RLadiesManchest and on GitHab: RLadiesManchester\n\nWe hope you will join us!",
+    "status": "PAST",
+    "dateTime": "2016-12-14T17:00:00Z",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-manchester/events/235934219/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 15,
+      "waitlistCount": 0,
+      "totalCount": 15
+    },
+    "venues": [
+      {
+        "id": "24925805",
+        "name": "The University of Manchester",
+        "address": "University Place room 2.218",
+        "city": "Manchester",
+        "state": "",
+        "country": "gb",
+        "lat": 53.467,
+        "lon": -2.2332,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Manchester",
+      "urlname": "rladies-manchester"
+    }
+  },
+  {
+    "id": "245523875",
+    "title": "Let's get together and chat R and eat cake ",
+    "description": "• What we'll do\nGiven it's coming into Xmas party season/end of term we thought we would have a casual meetup to talk R. There will be a couple of talks on:\n\n* Using git with R\n* Getting started with making R packages If there are any topics you'd like to cover or have an interesting talk to give then we'd love to hear from you. In January we will be organising a hackathon so we can also use this session to discuss ideas for this. It's Manchester R ladies 1st birthday! There will be cake. - We have the room booked for a couple of hours but we can move to a cafe/Xmas markets after the talks for a hot chocolate to go with the cake.\n\n• What to bring\nThe sessions will probably be quite interactive so bring a laptop to follow along. Also bring along an R function that can be put into a package (this can be as simple as the HelloWorld function!)",
+    "status": "PAST",
+    "dateTime": "2017-12-06T17:45:00Z",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-manchester/events/245523875/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 10,
+      "waitlistCount": 0,
+      "totalCount": 10
+    },
+    "venues": [
+      {
+        "id": "24464496",
+        "name": "Central Library",
+        "address": "St Peter's Square",
+        "city": "Manchester",
+        "state": "",
+        "country": "gb",
+        "lat": 53.4778,
+        "lon": -2.243,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Manchester",
+      "urlname": "rladies-manchester"
+    }
+  },
+  {
+    "id": "244513964",
+    "title": "Pre Manchester R meetup food and drink ",
+    "description": "Its Manchester R on November 9th. I was thinking we could have an informal R ladies meetup before hand in the restaurant at Home (the food is really yummy!).\n\nIt'll be a chance to meet and chat to everyone without the formal lecture style seating. We can also discuss any R questions and ideas for future events.\n\nRSVP if you'd like to join for food/drinks before the 6th of November and I can book a table for us. https://www.meetup.com/Manchester-R/events/242195021/",
+    "status": "PAST",
+    "dateTime": "2017-11-09T17:30:00Z",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-manchester/events/244513964/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 14,
+      "waitlistCount": 0,
+      "totalCount": 14
+    },
+    "venues": [
+      {
+        "id": "24285127",
+        "name": "Home",
+        "address": "HOME 2 Tony Wilson Place First Street Manchester M15 4FN",
+        "city": "Manchester",
+        "state": "",
+        "country": "gb",
+        "lat": 53.473,
+        "lon": -2.2472,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Manchester",
+      "urlname": "rladies-manchester"
+    }
+  },
+  {
+    "id": "243828813",
+    "title": "tidy your R and get introduced to geospatial analysis",
+    "description": "Agenda:\n• 6:00pm -- Welcome to all R-Ladies Manchester Introduction: Networking and refreshments\n\n• 6:15pm -- Workshop: ‘tidy your R’ by Tatjana Kecojevic (https://twitter.com/Tatjana_Kec)\n\n• 7:00pm -- Short break: drinks and snacks\n\n• 7:15pm -- ‘rgdal, tmap and leaflet: A quick introduction to spatial packages and interactive mapping’ by Ellen Talbot (https://twitter.com/etalbot1291)R-Ladies Liverpool @RLadiesLivUK (https://twitter.com/RLadiesLivUK)\n\n• 8:00pm -- Hang around: drinks and a chance to chat\n\n• 8:30pm -- End\n\nBring your laptop with R (https://cran.r-project.org/) and RStudio (https://www.rstudio.com/products/rstudio/download/#download) installed as in the first hour of our meeting we will run a short workshop on exploratory data analysis: tidy way, where you will be introduced to the tools for data manipulation and visualisation like dplyr and ggplot2. After a short break Ellen (https://twitter.com/etalbot1291) will follow with her introduction to spetial visualisation and R’s key spatial packages.\n\nWe would love you to come and join us, bring a friend or two and share your thoughts and experiences when working on your every-day ds projects.\n\nYou don’t have to be an R user to come and join us, as long as you have interest in learning, doing and getting to know more about data science and R.\n\nAll welcome!\n\nThanks to SpacePortX (https://spaceportx.com) for providing the venue and making this event possible.\n\nFollow us on twitter @RladiesManchest (https://twitter.com/RLadiesManchest) and @RLadiesGlobal (http://twitter.com/RLadiesGlobal), and on Github: at https://github.com/RLadiesManchester",
+    "status": "PAST",
+    "dateTime": "2017-10-17T18:00:00+01:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-manchester/events/243828813/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 21,
+      "waitlistCount": 0,
+      "totalCount": 21
+    },
+    "venues": [
+      {
+        "id": "23945317",
+        "name": "SpacePortX",
+        "address": "24-26 Lever St",
+        "city": "Manchester M1 1DZ",
+        "state": "",
+        "country": "gb",
+        "lat": 53.4821,
+        "lon": -2.2338,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Manchester",
+      "urlname": "rladies-manchester"
+    }
+  },
+  {
+    "id": "243440861",
+    "title": "R-Ladies: Networking and Social",
+    "description": "Agenda:\n\n• 6:00pm -- Doors open and refreshments\n\n• 6:30pm -- Welcome to all R-Ladies Manchester: Introduction, Announcements\n\n• 6:45pm -- Presentation and Discussion: Why R? An illustration through the use of ggplot and magick by Tatjana Kecojevic\n\n• 7:30pm -- Hang around: drinks and a chance to chat\n\n• 8:00pm -- End\n\nWe will talk about what makes R uniquely suitable for doing data science.\n\nWe’ll discuss the tools needed in a typical data science project, which will be illustrated in a small case study. We’ll exchange ideas on how we think about exploring data science and the best ways of communicating the results with the target audience.\n\nWe would love you to come and join us, bring a friend or two and share your thoughts and experiences when working on your every-day DS projects.\n\nYou don’t have to be an R user to come and join our discussion, as long as you have interest in learning, doing and getting to know more about data science and R.\n\nAll welcome!\n\nThanks to SpacePortX (https://spaceportx.com/) for providing the venue and making this event possible.",
+    "status": "PAST",
+    "dateTime": "2017-09-26T18:00:00+01:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-manchester/events/243440861/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 12,
+      "waitlistCount": 0,
+      "totalCount": 12
+    },
+    "venues": [
+      {
+        "id": "23945317",
+        "name": "SpacePortX",
+        "address": "24-26 Lever St",
+        "city": "Manchester M1 1DZ",
+        "state": "",
+        "country": "gb",
+        "lat": 53.4821,
+        "lon": -2.2338,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Manchester",
+      "urlname": "rladies-manchester"
+    }
+  },
+  {
+    "id": "239957984",
+    "title": "blogdown: Creating Websites with R Markdown",
+    "description": "Creating websites/blogs using Blogdown, HUGO, and GitHub\n\nWednesday, 05 July 2017\n\nVenue: Frank Adams 2 on the 1st floor of the Alan Turing building.\n\nThe Schedule:\n\n16:00 Doors open and refreshments\n\n16:15 'R Clinic' to assist with learning R and troubleshooting programming questions\n\n17:00 Welcome break to all R-Ladies Manchester\n\n17:15 Creating Websites/Blogs Using Blogdown (https://github.com/rstudio/blogdown), HUGO (https://gohugo.io/), and GitHub (https://github.com/) by @Tatjana_Kec (https://twitter.com/Tatjana_Kec)\n\n17:45 Hang around: drinks and a chance to chat\n\n18:15 End\n\nWe are looking forward to seeing you all…\n\nFollow us on twitter @RladiesManchest (https://twitter.com/RLadiesManchest) and @RLadiesGlobal (http://twitter.com/RLadiesGlobal), and on Github at github.com/RLadiesManchester",
+    "status": "PAST",
+    "dateTime": "2017-07-05T16:00:00+01:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-manchester/events/239957984/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 9,
+      "waitlistCount": 0,
+      "totalCount": 9
+    },
+    "venues": [
+      {
+        "id": "25057141",
+        "name": "Frank Adams 2 on the 1st floor of the Alan Turing building.",
+        "address": "University of Manchester",
+        "city": "Manchester",
+        "state": "",
+        "country": "gb",
+        "lat": 53.4669,
+        "lon": -2.2339,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Manchester",
+      "urlname": "rladies-manchester"
+    }
+  },
+  {
+    "id": "238699177",
+    "title": "16:00-17:00 'R Clinic'; after 17:00 'Lightening Talks' and ‘Presentations’",
+    "description": "We are happy to announce the date for our next meeting!\n\nWednesday, 10 May 2017\n\nVenue: Frank Adams 2 on the 1st floor of the Alan Turing building.\n\nWe'll reserve 1st hour 16:00-17:00 for 'R Clinic' to assist with learning R and troubleshooting difficult programming questions. We will follow up our meeting with 'Lightening Talks' and 'Presentations' for more advanced users from after 17:00.\n\nThe Schedule:\n\n16:00 Doors open and refreshments\n\n16:15 'R Clinic'\n\n17:00 Welcome break to all R-Ladies Manchester\n\n17:15 'MCMC' by Christiana Charalambous\n\n17:30 Short break: dinks and snacks\n\n17:45 'Shiny App: Bootstrap to Comprehend Statistical Significance' by Tatjana Kecojević\n\n18:00 Hang around: drinks and a chance to chat\n\n18:30 End\n\nWe are looking forward to seeing you all…\n\nFollow us on twitter @RladiesManchest (https://twitter.com/RLadiesManchest) and @RLadiesGlobal (http://twitter.com/RLadiesGlobal), and on Github at github.com/RLadiesManchester",
+    "status": "PAST",
+    "dateTime": "2017-05-10T16:00:00+01:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-manchester/events/238699177/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 13,
+      "waitlistCount": 0,
+      "totalCount": 13
+    },
+    "venues": [
+      {
+        "id": "25057141",
+        "name": "Frank Adams 2 on the 1st floor of the Alan Turing building.",
+        "address": "University of Manchester",
+        "city": "Manchester",
+        "state": "",
+        "country": "gb",
+        "lat": 53.4669,
+        "lon": -2.2339,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Manchester",
+      "urlname": "rladies-manchester"
+    }
+  },
+  {
+    "id": "237782961",
+    "title": "4-5pm R for beginners; after 5pm Lightening Talks and presentations",
+    "description": "We will commemorate International Women's Day\nWednesday, 8 March 2017, by running our 2nd meeting.\n\nWe'll reserve 1st hour 16:00-17:00 for 'beginners R' and follow up our meeting with 'Lightening Talks' and presentations for more advanced users from after 17:00.\n\n16:00 Doors open and refreshments\n\n16:15 R for the beginners\n\n17:00 Welcome break to all R-Ladies Manchester\n\n17:15 “Wind power modelling, fitting and simulation using R” by Angeliki Loukatou\n\n17:30 “Visualising the frequencies of linguistic units in R” by Duygu Candari\n\n17:40 Short break: dinks and snacks\n\n17:50 \"Developing Shiny Apps\" by Tatjana Kecojević\n\n18:15 Hang around: drinks and a chance to chat\n\n18:45 End\n\nWe are looking forward to seeing you all…",
+    "status": "PAST",
+    "dateTime": "2017-03-08T16:00:00Z",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-manchester/events/237782961/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 10,
+      "waitlistCount": 0,
+      "totalCount": 10
+    },
+    "venues": [
+      {
+        "id": "25057141",
+        "name": "Frank Adams 2 on the 1st floor of the Alan Turing building.",
+        "address": "University of Manchester",
+        "city": "Manchester",
+        "state": "",
+        "country": "gb",
+        "lat": 53.4669,
+        "lon": -2.2339,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Manchester",
+      "urlname": "rladies-manchester"
+    }
+  },
+  {
+    "id": "256441398",
+    "title": " Women in Tech Xmas Bonanza",
+    "description": "***NOTE: RSVP is on Eventbrite for this event! Here's the link: https://www.eventbrite.co.uk/e/all-the-women-in-tech-christmas-bonanza-tickets-51544619344***\n\nThis is a Christmas networking mixer with the goal of connecting women in tech, data, and code in Manchester and the North West. The aim of the evening is to enable attendees to expand their network with other women across the STEM space and to support each other.\n\nOur sponsors for the night are CodeNation (https://wearecodenation.com/) and this will be run in conjunction with Digital Gurus and Hello Soda.\n\nThis event is co-hosted by these groups (please reach out if you know of a group that would like to co-host with us!):\n\n* R-LadiesMCR\n\n* PyLadiesNW\n\n* Her+DataMCR\n\n* Women in Technology North\n\nCan't wait to see you all there!",
+    "status": "PAST",
+    "dateTime": "2018-12-04T18:00:00Z",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-manchester/events/256441398/",
+    "featuredEventPhoto": {
+      "id": "476359288",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/b/5/8/highres_476359288.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/b/5/8/600_476359288.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/b/5/8/thumb_476359288.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 2,
+      "waitlistCount": 0,
+      "totalCount": 2
+    },
+    "venues": [
+      {
+        "id": "25766678",
+        "name": "Digital Gurus",
+        "address": "3rd Floor,Tootal House, 19 Spring Gardens",
+        "city": "Manchester",
+        "state": "",
+        "country": "gb",
+        "lat": 53.4813,
+        "lon": -2.2419,
+        "postalCode": "M2 1EN",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Manchester",
+      "urlname": "rladies-manchester"
+    }
+  },
+  {
+    "id": "255667558",
+    "title": "Visualisations in R",
+    "description": "Join us for our next R Ladies event all about visualisations in R.\n\nThe plan for the evening is as follows:\n\n6 - 6:15: welcome\n6:15 - 7: an introduction to visualisation in R.\n7 - 7:30: a break for food and a chance to chat\n7:30 - 8: Short talks on visualisations including plotly, shiny and leaflet\n8 - end",
+    "status": "PAST",
+    "dateTime": "2018-11-28T18:00:00Z",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-manchester/events/255667558/",
+    "featuredEventPhoto": {
+      "id": "476141093",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/0/8/5/highres_476141093.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/0/8/5/600_476141093.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/0/8/5/thumb_476141093.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 30,
+      "waitlistCount": 0,
+      "totalCount": 30
+    },
+    "venues": [
+      {
+        "id": "24334537",
+        "name": "Autotrader Manchester",
+        "address": "1 Tony Wilson Place Manchester M15 4FN",
+        "city": "Manchester",
+        "state": "",
+        "country": "gb",
+        "lat": 53.4728,
+        "lon": -2.2465,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Manchester",
+      "urlname": "rladies-manchester"
+    }
+  },
+  {
+    "id": "250609173",
+    "title": "Bookclub #1 | Data Imports & Tibbles ",
+    "description": "• What we'll do\nWe're starting a new bookclub series where we will work through some chapters from the wonderful \"R for Data Science\" (http://r4ds.had.co.nz/). In this first session we will cover topics on Importing Data and working with Tibbles (chapters 7 & 8).\n\nIf you are completely new to R and would like a hand setting up R on your laptop come chat to us at the beginning of the session and we can help you out.\n\nWe hope these sessions will be a great introduction and development sessions for those of you who are new to R.\n\nFor those more experienced R users we will look to provide some challenges related to the topics or you can help mentor others.\n\nMany thanks to Peak for offering us a space to use for this event. If you can offer us a space for future events please get in touch.\n\nHope to see you there.\n\n• What to bring\nLaptop\n\n• Important to know",
+    "status": "PAST",
+    "dateTime": "2018-05-30T18:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-manchester/events/250609173/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 29,
+      "waitlistCount": 0,
+      "totalCount": 29
+    },
+    "venues": [
+      {
+        "id": "25693947",
+        "name": "Floor 12 Neo",
+        "address": "Charlotte Street",
+        "city": "Manchester",
+        "state": "",
+        "country": "gb",
+        "lat": 53.4791,
+        "lon": -2.2388,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Manchester",
+      "urlname": "rladies-manchester"
+    }
+  },
+  {
+    "id": "249009116",
+    "title": "R over Coffee",
+    "description": "Hi Ladies,\nWe just passed the spring equinox and winter is officially over, we thought it would be great to have a casual meetup.\nLet’s get together for a cup of coffee after easter breaks and chat about R and data. Feel free to bring your R questions.",
+    "status": "PAST",
+    "dateTime": "2018-04-06T18:30:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-manchester/events/249009116/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 9,
+      "waitlistCount": 0,
+      "totalCount": 9
+    },
+    "venues": [
+      {
+        "id": "25570849",
+        "name": "Chapter One Books",
+        "address": "Chatsworth House, 19 Lever St, Manchester, M1 1BY",
+        "city": "Manchester",
+        "state": "",
+        "country": "gb",
+        "lat": 53.4818,
+        "lon": -2.2353,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Manchester",
+      "urlname": "rladies-manchester"
+    }
+  },
+  {
+    "id": "246832095",
+    "title": "Hands on Data Study Evening ",
+    "description": "• What we'll do\nHi Ladies, we hope you have enjoyed your holidays. R-Ladies Manchester is to start 2018 with an exciting workshop including networking and pizza!\nUsing a real-life data set R-Ladies Manchester is hosting a workshop evening that will allow members to learn, and develop, skills and tricks for approaching a new data analysis project. We will split into groups, preferably with each group having a mix of backgrounds and R experience, to give the opportunity of peer learning and support. We envision that the workshop will include:\n\n• Using branches in Github to work on different versions of the project\n• Importing data into R\n• Data analysis and visualisations in R\n• Finding interesting insights from the data which we could present at the Manchester R group.\n\n• What to bring\nPlease bring your laptops.\n\n• Important to know",
+    "status": "PAST",
+    "dateTime": "2018-01-25T18:00:00Z",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-manchester/events/246832095/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 22,
+      "waitlistCount": 0,
+      "totalCount": 22
+    },
+    "venues": [
+      {
+        "id": "25693947",
+        "name": "Floor 12 Neo",
+        "address": "Charlotte Street",
+        "city": "Manchester",
+        "state": "",
+        "country": "gb",
+        "lat": 53.47,
+        "lon": -2.32,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Manchester",
+      "urlname": "rladies-manchester"
+    }
+  },
+  {
+    "id": "265373203",
+    "title": "R-Ladies Manchester Christmas Social",
+    "description": "The last R-Ladies Manchester event of 2019. Join us at Code Computerlove for our Christmas Social!\n\nWhat a year it's been - let's get together one last time and celebrate our successes!\n\nLightning talk spots on the night - get up and shout your successes from the rooftops (okay the front of the room, but still - we all deserve to be celebrated!)\n\nR quiz (with prizes!) and the usual yummy grub also happening!\n\nFollow us on twitter @rladiesmcr and check back here for updates nearer the time!\n\nChristmas jumpers, Santa hats and reindeer antlers actively encouraged.",
+    "status": "PAST",
+    "dateTime": "2019-12-03T18:30:00Z",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-manchester/events/265373203/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 24,
+      "waitlistCount": 0,
+      "totalCount": 24
+    },
+    "venues": [
+      {
+        "id": "26082454",
+        "name": "Code Computerlove",
+        "address": "1 New Quay Street",
+        "city": "Manchester",
+        "state": "",
+        "country": "gb",
+        "lat": 53.4822,
+        "lon": -2.2348,
+        "postalCode": "M1 1JB",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Manchester",
+      "urlname": "rladies-manchester"
+    }
+  },
+  {
+    "id": "265284249",
+    "title": "Manchester Hacktoberfest",
+    "description": "** GET YOUR TICKETS ON EVENTBRITE at https://www.eventbrite.com/e/manchester-hacktoberfest-tickets-73737604159 **\n\nWe're co-hosting a Hacktoberfest (https://hacktoberfest.digitalocean.com) Saturday Hackathon. Organised by PyDataMCR, HER+data MCR, PyLadiesNW, RLadiesMCR, PythonNW, and Django Girls MCR!\n\nLet's celebrate open source over food, learning, and great company!\n\nSo what's Hacktoberfest?\n\nHacktoberfest (https://hacktoberfest.digitalocean.com — brought to you by DigitalOcean in partnership with GitHub and Twilio) is a month-long celebration of open source software. Maintainers are invited to guide would-be contributors towards issues that will help move the project forward, and contributors get the opportunity to give back to both projects they like, and ones they've just discovered. No contribution is too small—bug fixes and documentation updates are valid ways of participating. See more helpful links at the bottom of this page.\n\nYou don't have to use Python, or any Data related languages to participate. In fact we have teamed up with these communities:\n\n* Her+DataMCR (https://www.meetup.com/HER-Data-MCR/)\n\n* PyDataMCR (https://www.meetup.com/PyData-Manchester/, https://twitter.com/PyDataMCR)\n\n* PyLadiesNW (https://twitter.com/PyLadiesNWUK)\n\n* Python North-West (https://twitter.com/pythonnw)\n\n* Django-Girls Manchester (https://twitter.com/DjangoGirlsMcr)\n\n----------\n\n11:00 - Welcome/Intro to Hacktoberfest\n11:15 - Introduction to OpenSource: open source 101 and using GitHub to collaborate (Tania Allard)\n11:30 - Sign up to Hacktoberfest & GitHub\n11:45 - Hack / Tutorial: how to contribute to open source projects\n12:45 - Lunch\n13:45 - Hack\n17:00 - Closing and demos\n----------\n\nThere will be the opportunity to pitch your own or other repositories/projects to contribute to at the beginning of the day.",
+    "status": "PAST",
+    "dateTime": "2019-10-19T11:00:00+01:00",
+    "duration": "PT6H30M",
+    "eventUrl": "https://www.meetup.com/rladies-manchester/events/265284249/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "26163201",
+        "name": "Code Nation",
+        "address": "Brian Statham Way",
+        "city": "Manchester",
+        "state": "",
+        "country": "gb",
+        "lat": 53.457,
+        "lon": -2.287,
+        "postalCode": "M2 1FB",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Manchester",
+      "urlname": "rladies-manchester"
+    }
+  },
+  {
+    "id": "264129519",
+    "title": "R-Ladies MCR at Thoughtworks",
+    "description": "R-Ladies Manchester at Thoughtworks\n\nKeep your eye on this event and follow @rladiesmcr on twitter for updates and announcements!\n\nSpeaker\n\nPhrances Perez (@AyveePhrances)\nTalk synopsis: Phrances will talk about her learnings in R, particularly reactive and dynamic filters in Shiny, as well as some tips on version control and best practises\n\nDiscussion - Post your questions on our twitter page! We want an exciting and lively discussion on whatever you think it means to be an R-Lady! At the previous two events we have got so carried away chatting that we've decided to dedicate a whole hour to it this time.\n\nIntroducing Hacktoberfest! How to get involved in an exciting month of Open Source events (and get a cool free t-shirt too!)\n\nR-Ladies Code of Conduct - https://rladies.org/code-of-conduct/",
+    "status": "PAST",
+    "dateTime": "2019-10-01T18:30:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-manchester/events/264129519/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 39,
+      "waitlistCount": 0,
+      "totalCount": 39
+    },
+    "venues": [
+      {
+        "id": "26179010",
+        "name": "Thoughtworks",
+        "address": "2 Federation Street",
+        "city": "Manchester",
+        "state": "",
+        "country": "gb",
+        "lat": 53.4861,
+        "lon": -2.2397,
+        "postalCode": "M4 4BF",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Manchester",
+      "urlname": "rladies-manchester"
+    }
+  },
+  {
+    "id": "262319624",
+    "title": "R-Ladies Manchester at The Federation",
+    "description": "Speakers\n\nNaomi Ball (@NaomiJBall)\n\nNaomi Ball is a mathematician and operational research professional in the Civil Service. She’s a fan of reproducible workflows, data visualisation and storytelling with data.\n\nTalk synopsis:\nShiny Appy People - build your first interactive dashboard\nTaking you through all the code needed to build a simple app to explore your data using R Shiny.\n\nNic Fox (@NicFoxDS)\n\nNic Fox is a Business Analyst in the midst of a career change to become a Data Scientist. She loves exploring data and creating visualisations to find and share interesting insights.\n\nTalk synopsis:\nJust Do It - How learning R by analysing a real data set that interested me taught me more than I intended to learn. I’ll talk about how I used R, R Markdown, HTML, CSS and GitHub together to analyse the data and share the insights I found.\n\nThis event is supported by Co-op Foundation and The Federation, in partnership with Luminate.\n\nR-Ladies Code of Conduct - https://rladies.org/code-of-conduct/",
+    "status": "PAST",
+    "dateTime": "2019-08-06T18:30:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-manchester/events/262319624/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 64,
+      "waitlistCount": 0,
+      "totalCount": 64
+    },
+    "venues": [
+      {
+        "id": "26021990",
+        "name": "Federation House",
+        "address": "2 Federation Street",
+        "city": "Manchester",
+        "state": "",
+        "country": "gb",
+        "lat": 53.4861,
+        "lon": -2.2401,
+        "postalCode": "M4 4BF",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Manchester",
+      "urlname": "rladies-manchester"
+    }
+  },
+  {
+    "id": "261449349",
+    "title": "Learn to drive R at Autotrader!",
+    "description": "Meet the drivers!\nSocium Recruitment are generously sponsoring this event, so of course, we invited them to come and introduce themselves. They'll be there on the night if you're in the job market.\n\n“With a name taken from the Latin for ‘partner’ – and good solid Northern roots – people are at the heart of everything we do. Sure, qualifications and experiences are vital pieces of the picture – hey with a background in software development, we’re well-versed in the importance of just the right skillset – but ultimately, placing the perfect candidate in the perfect job is also about personality, cultural fit and ambition.\n\nAs such, we’re looking forward to placing people at the heart of every data science project we are involved in. From the people looking for just the right talent to help their team grow, to the people looking for the next digital role to get their teeth into, our approach will be relationship-led, face-to-face wherever possible, and packed with a healthy dose of Northern straight-talking. If you’re searching for the impossible, we’ll tell you. But if you’re just searching for the really, really hard-to-find – well, we’ll be able to help.”\n\nFirst gear!\nFor our first event for a little while, we will be running an introduction to R presentation, covering things like installing R, loading up your first dataset and using your first packages, with hands on help to really get you moving.\n\nRevving up!\nOnce we've whet your appetite, there'll be lightning talks from ladies who use R for some more advanced applications, to really inspire you to keep learning! Here's some more information on them:\n\nRachel Tadd\n\nRachel is an Operational Research Analyst by profession and a data lover by nature. With a background in mathematics, probability and statistics, she enjoys both the theory and the application of data analysis. Rachel has over seven years of R experience and is proud to be a Manchester R-Lady.\n\nTalk synopsis:\nR is for Resources. Rachel Tadd will talk about the wide variety of online resources available to help you learn R, improve your R and troubleshoot your R problems. As well as the usual Q&A, the talk will be followed by an opportunity to share your favourite resources so please bring details with you.\n\nNaomi Ball (@NaomiJBall)\n\nNaomi Ball is a mathematician and operational research professional in the Civil Service. She’s a fan of reproducible workflows, data visualisation and storytelling with data.\n\nTalk synopsis:\nRShiny - build your first interactive dashboard\nTaking you through all the code needed to build a simple app to explore your data.\n\nHit the brakes!\nThere'll be chance to network with some light food and drinks. We will also be providing a quiet space you are welcome to use, to give you the chance to absorb everything you'll have learned and mingle at your own pace.\n\nCongratulations, you've passed!\nAttending this event means that you have read, understand and are happy to adhere to our code of conduct, found here: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct",
+    "status": "PAST",
+    "dateTime": "2019-06-04T18:30:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-manchester/events/261449349/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 31,
+      "waitlistCount": 0,
+      "totalCount": 31
+    },
+    "venues": [
+      {
+        "id": "26090659",
+        "name": "Auto Trader UK",
+        "address": "1 Tony Wilson Place",
+        "city": "Manchester",
+        "state": "",
+        "country": "gb",
+        "lat": 53.4728,
+        "lon": -2.2467,
+        "postalCode": "M15 4FN",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Manchester",
+      "urlname": "rladies-manchester"
+    }
+  },
+  {
+    "id": "269309024",
+    "title": "POSTPONED : R-Ladies Manchester at The Federation",
+    "description": "**We are postponing our April event in order to protect our community and their wider networks as best we can in the wake of the coronavirus19 outbreak.**\n\nR-Ladies at The Federation\n\nThe wonderful Federation have agreed to have us back after the success of previous events here and this time we have Shan showing us her Shiny app as well as a second speaker TBC!\n\nShan will be covering the technical inner workings of her app, the inspiration behind the project, where the data comes from and some cool insights - so come along and find out about your life expectancy - and how your local bus routes affect it!\n\nWe'll confirm a second speaker when we have more details - If you have a cool project you'd like to present send us a message or a tweet and let us know - we'd love to hear about it!",
+    "status": "PAST",
+    "dateTime": "2020-04-07T18:30:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-manchester/events/269309024/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 17,
+      "waitlistCount": 0,
+      "totalCount": 17
+    },
+    "venues": [
+      {
+        "id": "26021990",
+        "name": "Federation House",
+        "address": "2 Federation Street",
+        "city": "Manchester",
+        "state": "",
+        "country": "gb",
+        "lat": 53.4861,
+        "lon": -2.2402,
+        "postalCode": "M4 4BF",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Manchester",
+      "urlname": "rladies-manchester"
+    }
+  },
+  {
+    "id": "267294690",
+    "title": "R-Ladies Manchester Fun with Functions!",
+    "description": "R-Ladies first event of 2020\n\nThe wonderful Autotrader have agreed to have us back for our first event of 2020 and Kaylea is going to be teaching us all how to \"do\" functions after giving several impromptu lessons at previous meet-ups!\n\nThere will be an \"intro to functions\" talk to ease you in, with a short hands on session to try it out.\n\nThen we'll kick things up a notch and do some more advanced function uses; think the apply family, pipes and map, again breaking off into groups to try it out.\n\nThen finally we'll open the floor up to your questions and make sure everybody leaves with at least one function that works!\n\nThis slightly more intermediate level lesson is still perfect for you if you are new to coding - the sooner you start using functions the sooner you can master them - don't be intimidated - bring your laptop along and we'll help you hit the ground running!\n\nAuto Trader, our venue hosts strive to ensure all events are inclusive, accessible and that all those attending feel as comfortable as possible.\nTherefore, whilst signing up, please tell us if you have any of the following requirements:\n- Dietary\n- Allergies\n- Accessibility or specific requirements",
+    "status": "PAST",
+    "dateTime": "2020-02-04T18:30:00Z",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-manchester/events/267294690/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 30,
+      "waitlistCount": 0,
+      "totalCount": 30
+    },
+    "venues": [
+      {
+        "id": "26090659",
+        "name": "Auto Trader UK",
+        "address": "1 Tony Wilson Place",
+        "city": "Manchester",
+        "state": "",
+        "country": "gb",
+        "lat": 53.4732,
+        "lon": -2.2467,
+        "postalCode": "M15 4FN",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Manchester",
+      "urlname": "rladies-manchester"
+    }
+  },
+  {
+    "id": "289162926",
+    "title": "POSTPONED: R-Ladies Mcr at N-Brown",
+    "description": "We have once again postponed our event due to uncertainty around the train services - we want all attendees to be able to get home safely.\n\nWe're finally back with our first in person event in nearly two years and we can't wait to see you all!\n\nSpeakers include Fiona Pye and Jane Baxter from N-Brown, and Ellen and Jasmine from R-Ladies/Pets at Home\n\n17:30 - 17:50 - Networking and Nibbles kindly provided by the team at NBrown\n17:50 - 18:00 - Welcome, Introductions and Thank Yous\n18:00 - 18:20 - Data Science at NBrown\n18:20 - 18:30 - Current Data Vacancies at NBrown\n18:30 - 18:45 - Refreshment Break and a chance to meet the hiring managers\n18:45 - 19:15 - Ellen/Jasmine - Make amazing reports using RMarkdown\n19:15 - 19:30 - Any other business, plans and close\n\nWe are working hard to make our events as inclusive as possible. This event will have a quiet zone for attendees who would prefer not to network during the breaks.\n\nPlease reach out on twitter @rladiesmcr with any questions - or let us know if you've anything you'd like to present at a future event!",
+    "status": "PAST",
+    "dateTime": "2022-11-09T17:30:00Z",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-manchester/events/289162926/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 9,
+      "waitlistCount": 0,
+      "totalCount": 9
+    },
+    "venues": [
+      {
+        "id": "26175687",
+        "name": "N Brown Group Plc",
+        "address": "40 Lever Street",
+        "city": "Manchester",
+        "state": "",
+        "country": "gb",
+        "lat": 53.4832,
+        "lon": -2.2327,
+        "postalCode": "M60 6ES",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Manchester",
+      "urlname": "rladies-manchester"
+    }
+  },
+  {
+    "id": "288325264",
+    "title": "POSTPONED DUE TO RAIL STRIKES: R-Ladies Mcr at N-Brown",
+    "description": "We're back with our first in person event in nearly two years and we can't wait to see you all!\n\nSpeakers are TBC but the running order of the evening will proceed as follows:\n\n17:30 - 17:50 - Networking and Nibbles kindly provided by the team at NBrown\n17:50 - 18:00 - Welcome, Introductions and Thank Yous\n18:00 - 18:20 - Data Science at NBrown\n18:20 - 18:30 - Current Data Vacancies at NBrown\n18:30 - 18:45 - Refreshment Break and a chance to meet the hiring managers\n18:45 - 19:15 - Ellen/Jasmine - Make amazing reports using RMarkdown\n19:15 - 19:30 - Any other business, plans and close\n\nWe are working hard to make our events as inclusive as possible. This event will have a quiet zone for attendees who would prefer not to network during the breaks.\n\nPlease reach out on twitter @rladiesmcr with any questions - or let us know if you've anything you'd like to present at a future event!",
+    "status": "PAST",
+    "dateTime": "2022-10-05T17:30:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-manchester/events/288325264/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 9,
+      "waitlistCount": 0,
+      "totalCount": 9
+    },
+    "venues": [
+      {
+        "id": "26175687",
+        "name": "N Brown Group Plc",
+        "address": "40 Lever Street",
+        "city": "Manchester",
+        "state": "",
+        "country": "gb",
+        "lat": 53.4832,
+        "lon": -2.2327,
+        "postalCode": "M60 6ES",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Manchester",
+      "urlname": "rladies-manchester"
+    }
+  },
+  {
+    "id": "295297310",
+    "title": "R-Ladies at Gravitas - Career Pathways Panel",
+    "description": "Another event for your diaries! We are back and hosted by the brilliant gang at Gravitas to bring you a Career Panel Session and a technical talk TBC, with refreshments provided!\n\n**Running Order**\n18:00 - 18:15 - Event opening, networking and welcome\n18:15 - 19:00 - Career Pathways Panel with guests Tamanna Haque, Ellen Talbot and Elena Stebbings, hosted by our new organiser Jasmine Wilde\n19:00 - 19:15 - Refreshments and Networking\n19:15 - 19:45 - Technical Session\n19:45 - 20:00 - Event close, thank yous and good byes\n\nWe're already looking forward to seeing you and hosting what is shaping up to be a great event!\n\nWe want our events to be as inclusive as possible, so a quiet area for those who would prefer not to network will be made available.",
+    "status": "PAST",
+    "dateTime": "2023-09-14T18:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-manchester/events/295297310/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 24,
+      "waitlistCount": 0,
+      "totalCount": 24
+    },
+    "venues": [
+      {
+        "id": "26219403",
+        "name": "Two St Peter's Square",
+        "address": "Two St Peter's Square",
+        "city": "Manchester",
+        "state": "",
+        "country": "gb",
+        "lat": 53.4774,
+        "lon": -2.245,
+        "postalCode": "M2 3NQ",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Manchester",
+      "urlname": "rladies-manchester"
+    }
+  },
+  {
+    "id": "290832792",
+    "title": "R-Ladies Mcr at N-Brown - third time lucky!",
+    "description": "We're finally back with our first in person event in nearly two years and we can't wait to see you all, especially after rescheduling twice due to train strikes!\n\nSpeakers include Fiona Pye r from N-Brown, and Ellen and Jasmine from R-Ladies/Pets at Home\n\n17:30 - 17:50 - Networking and Nibbles kindly provided by the team at NBrown\n17:50 - 18:00 - Welcome, Introductions and Thank Yous\n18:00 - 18:20 - Data Science at NBrown\n18:20 - 18:30 - Current Data Vacancies at NBrown\n18:30 - 18:45 - Refreshment Break and a chance to meet the hiring managers\n18:45 - 19:15 - Ellen/Jasmine - Make amazing reports using RMarkdown\n19:15 - 19:30 - Any other business, plans and close\n\nWe are working hard to make our events as inclusive as possible. This event will have a quiet zone for attendees who would prefer not to network during the breaks.\n\nPlease reach out on twitter @rladiesmcr with any questions - or let us know if you've anything you'd like to present at a future event!",
+    "status": "PAST",
+    "dateTime": "2023-01-31T17:30:00Z",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-manchester/events/290832792/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 27,
+      "waitlistCount": 0,
+      "totalCount": 27
+    },
+    "venues": [
+      {
+        "id": "26175687",
+        "name": "N Brown Group Plc",
+        "address": "40 Lever Street",
+        "city": "Manchester",
+        "state": "",
+        "country": "gb",
+        "lat": 53.4832,
+        "lon": -2.2327,
+        "postalCode": "M60 6ES",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Manchester",
+      "urlname": "rladies-manchester"
+    }
+  }
+]

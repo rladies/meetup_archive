@@ -1,0 +1,152 @@
+[
+  {
+    "id": "266016148",
+    "title": "dplyr: episode 9, the rise of the vctrs",
+    "description": "RLadies-Lyon would like to welcome Romain François, creator of dplyr to Lyon! He will be introducing new functions in the soon to be released dplyr 0.9 R package.\n\nThe event will start promptly at 7pm and will be followed with a round table of informal questions until 9pm.\n\n!!! AN EVENT NOT TO BE MISSED !!!\n\nFind out more about about open-source software and come and ask all of your questions !! https://purrple.cat/blog/2018/03/22/i-m-not-looking-for-a-job\n\nThe talk will be in english. Questions can be asked in french also.\n\nSummary\nThe future dplyr 0.9.0 has been in development for a few months. It brings\nexciting new developments largely thanks to the vision and implementation\nof underlying packages rlang and vctrs. dplyr is more robust and stable\nbecause of that.\n\nOne of the most important changes is that expressions in mutate() and\nsummarise() can now return tibbles that are either packed or unpacked.\n\nWe'll go through the new proposed functions pick() and across() and how they fit together with other functions from dplyr, i.e. mutate() and summarise(), and beyond, e.g. pack() and unpack() from the newest version of tidyr.",
+    "status": "PAST",
+    "dateTime": "2019-11-04T18:45:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-lyon/events/266016148/",
+    "featuredEventPhoto": {
+      "id": "486164964",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/f/a/4/highres_486164964.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/f/a/4/600_486164964.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/f/a/4/thumb_486164964.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 17,
+      "waitlistCount": 0,
+      "totalCount": 17
+    },
+    "venues": [
+      {
+        "id": "26204767",
+        "name": "EPITECH",
+        "address": "2 Rue du Professeur Charles Appleton",
+        "city": "Lyon",
+        "state": "",
+        "country": "fr",
+        "lat": 45.7463,
+        "lon": 4.8351,
+        "postalCode": "69007",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Lyon",
+      "urlname": "rladies-lyon"
+    }
+  },
+  {
+    "id": "266106442",
+    "title": "*Pre-event*co-learning: dplyr, what happened so far up to episode 8?!",
+    "description": "On Monday, RLadies-Lyon are welcoming Romain François, creator of dplyr to Lyon where will be introducing new functions in the soon to be released dplyr 0.9.0 R package.\n\nUs RLadies-Lyon are planning an informal pre-event on a rainy weekend in a warm coffee shop with a co-learning twist, with the aim to catch up on what we may have missed up to episode 8 :-)\n\nThis plans to be an informal event on a long rainy weekend which uses Monday's event to motivate us to work our way through the online Advanced R textbook,\nFound here:\nhttps://adv-r.hadley.nz/foundations-intro.html\n\nIn particular, Chapter 13 on S3 objects, and the vctrs package, because this paragraph is gobbledegook to me right now!!\n\n<<13.1 Introduction\nS3 is R’s first and simplest OO system. S3 is informal and ad hoc, but there is a certain elegance in its minimalism: you can’t take away any part of it and still have a useful OO system. For these reasons, you should use it, unless you have a compelling reason to do otherwise. S3 is the only OO system used in the base and stats packages, and it’s the most commonly used system in CRAN packages.>>\n\nLadies, come and join us for a relaxed Sunday afternoon of coding fun.\n\nAnyone with experience is HIGHLY ENCOURAGED TO ATTEND <3\n\nÀ dimanche",
+    "status": "PAST",
+    "dateTime": "2019-11-03T13:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-lyon/events/266106442/",
+    "featuredEventPhoto": {
+      "id": "486243018",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/c/a/highres_486243018.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/c/a/600_486243018.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/c/a/thumb_486243018.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 2,
+      "waitlistCount": 0,
+      "totalCount": 2
+    },
+    "venues": [
+      {
+        "id": "26644226",
+        "name": "Le Perko Café",
+        "address": "8 Pl. du Griffon",
+        "city": "Lyon",
+        "state": "",
+        "country": "fr",
+        "lat": 45.7694,
+        "lon": 4.836,
+        "postalCode": "69001",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Lyon",
+      "urlname": "rladies-lyon"
+    }
+  },
+  {
+    "id": "260245977",
+    "title": "Reflections from an R Lady in the Untidyverse of Cancer Research",
+    "description": "Welcome to our first event! It's free!\n\nR-Ladies Lyon is pleased to welcome Dr. Hilary Robbins, scientist at the International Agency for Research on Cancer (IARC/WHO) in Lyon, France.\n\nHer research develops and applies risk-based approaches to cancer screening, with a current focus on lung cancer screening.\n\nDr. Robbins will give a brief overview of her career thus far in cancer research, including how R fits into her profile as a researcher. She will discuss how she came to use R, an application from her current research (predicting risk of lung cancer during CT screening), some tips and tricks with her favorite tidyverse packages, and a few reflections about being an R lady in a male-dominated field.\n\nPresenter: Dr. Hilary Robbins\nTitle: Reflections from an R Lady in the Untidyverse of Cancer Research\nTwitter: @hilaryarobbins\nhttps://www.linkedin.com/in/hilary-robbins-6a840223/\nhttps://scholar.google.com/citations?user=ehL9SRcAAAAJ&hl=en\n\nThe talk will be held in English but you can ask your questions in French and we will help you translate. R-Ladies offers a platform for women to present their work and everyone is welcome to attend! Pizza and drinks will be provided after the presentation.\n\nFollow us on twitter! @RLadiesLyon",
+    "status": "PAST",
+    "dateTime": "2019-04-15T18:30:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-lyon/events/260245977/",
+    "featuredEventPhoto": {
+      "id": "480030264",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/6/3/8/highres_480030264.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/6/3/8/600_480030264.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/6/3/8/thumb_480030264.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 23,
+      "waitlistCount": 0,
+      "totalCount": 23
+    },
+    "venues": [
+      {
+        "id": "26292571",
+        "name": "1 Pl. de l'École",
+        "address": "1 Pl. de l'École",
+        "city": "Lyon",
+        "state": "",
+        "country": "fr",
+        "lat": 45.7301,
+        "lon": 4.828,
+        "postalCode": "69007",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Lyon",
+      "urlname": "rladies-lyon"
+    }
+  },
+  {
+    "id": "259296467",
+    "title": "What R we doing in cancer research?*",
+    "description": "*This event is a collaboration of Lyon Data Science (https://www.meetup.com/Lyon-Data-Science/) with R-Ladies Lyon. Please register for this event at https://www.meetup.com/Lyon-Data-Science/events/259188960/\n\nFor this new session of Lyon Data Science, three cancer researchers from the International Agency for Research on Cancer (IARC) will discuss diverse approaches in studying cancer with applications in R.\n\nFirst, Dr. Virani will present a surveillance method focused on predictions of cancer incidence trends into the future to determine magnitude and burden over time. Next, Dr. Mariosa will discuss how to use genetic information to identify cancer risk factors using Mendelian randomization. Finally, Dr. Lennon will present examples of determining how different weight trajectories throughout lifetime relate to cancer risk.",
+    "status": "PAST",
+    "dateTime": "2019-02-28T18:45:00+01:00",
+    "duration": "PT1H45M",
+    "eventUrl": "https://www.meetup.com/rladies-lyon/events/259296467/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 6,
+      "waitlistCount": 0,
+      "totalCount": 6
+    },
+    "venues": [
+      {
+        "id": "26204767",
+        "name": "EPITECH",
+        "address": "2 Rue du Professeur Charles Appleton",
+        "city": "Lyon",
+        "state": "",
+        "country": "fr",
+        "lat": 45.7463,
+        "lon": 4.8351,
+        "postalCode": "69007",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Lyon",
+      "urlname": "rladies-lyon"
+    }
+  }
+]

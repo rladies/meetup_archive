@@ -19,8 +19,9 @@ jobs:
     name: Archive meetup data
     runs-on: ubuntu-latest
     env:
-      "meetupr:token": ${{ secrets.meetupr_token }}
-      "meetupr:token_file": ${{ secrets.meetupr_token_file}}
+      meetupr_jwt_token: ${{ secrets.JWT_TOKEN }}
+      meetupr_jwt_issuer: ${{ secrets.JWT_ISSUER }}
+      meetupr_client_key: ${{ secrets.CLIENT_KEY }}
       RENV_PATHS_ROOT: ~/.cache/R/renv
       RENV_PROFILE: archive
     steps:
@@ -52,20 +53,20 @@ jobs:
           if (!requireNamespace("renv", quietly = TRUE)) install.packages("renv")
           renv::restore()
 
-      - name: Meetup authentication
-        run: Rscript -e "meetupr::meetup_ci_load()"
+      - name: Meetup authentication status
+        run: Rscript -e "meetupr::meetup_sitrep()"
 
-      - name: Update chapter data
-        run: Rscript scripts/get_chapters.R
+      - name: Archive all meetup data
+        run: Rscript scripts/archive_all.R
 
-      - name: Update event data
-        run: Rscript scripts/get_events.R
+      - name: Update website data
+        run: Rscript scripts/data_prep_website.R
 
       - name: Commit data
         if: github.event_name == 'schedule' || github.event_name == 'push'
         run: |
           git config --local user.email "actions@github.com"	
           git config --local user.name "GitHub Actions"	
-          git add data/	
+          git add data/	archive/
           git commit -m 'Update meetup data' || echo "No meetup data to commit"	
           git push || echo "Nothing to push"

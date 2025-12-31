@@ -1,0 +1,785 @@
+[
+  {
+    "id": "245161189",
+    "title": "Intro to dplyr & ggplot2 with Marieke Jones",
+    "description": "* Updated Location * Please note that we will be meeting at Hemoshear, not VividCortex. Hemoshear is located near the other end of the Downtown Mall at 501 Locust Avenue, Suite 301. There is free parking in the parking lot.\n\nPipes, plots, and more!\n\nJoin us for a two-part workshop led by UVA's Marieke Jones on two core packages in the tidyverse: dplyr and ggplot2. This session is geared towards all proficiency levels in R. Whether you've just started learning and you want to know what piping is or how to make a plot, or if you're a pro and you want a refresher on writing cleaner code, this workshop will be beneficial to you. Also, there will be pizza :)\n\nSchedule:\n\n• 6:00-6:45 Intro to R\n\n• 6:45-7:30 Intro to dplyr\n\nCome to one or both!\n\nPlease bring a laptop with R, RStudio, and the tidyverse package installed before coming to the MeetUp. If you need a short tutorial on getting oriented in R and on installing a package in R, please see this YouTube video (https://www.youtube.com/watch?v=lTTJPRwnONE). We will be available 30min before the session starts to assist anyone with troubles installing R, RStudio, or packages.\n\nPlease download the nhanes.csv (https://docs.google.com/spreadsheets/d/1ipUu6PPQJcX_QwMNWVwG2KJBWju5smrHMd9jcJwb64U/edit?usp=sharing) dataset we will be using during the sessions. Save this file to your Desktop so you can easily find it.\n\nFollow us on twitter for more updates! @RLadiesCville\n\nSee you then!",
+    "status": "PAST",
+    "dateTime": "2017-12-05T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-charlottesville/events/245161189/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 18,
+      "waitlistCount": 0,
+      "totalCount": 18
+    },
+    "venues": [
+      {
+        "id": "25636842",
+        "name": "Hemoshear",
+        "address": "501 Locust Avenue, Suite 301",
+        "city": "Charlottesville",
+        "state": "VA",
+        "country": "us",
+        "lat": 0,
+        "lon": 0,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Charlottesville",
+      "urlname": "rladies-charlottesville"
+    }
+  },
+  {
+    "id": "244690945",
+    "title": "Kickoff Meeting! ",
+    "description": "We're excited to announce the long-anticipated Charlottesville R-Ladies Kickoff Meeting! We will discuss how to install and run R and R-Studio and will give everyone a taste of some of the cool things that you can do with R. Stay tuned for an updated list of speakers, topics, and even a surprise or two.\n\nTentative schedule:\n\n6-6:30: Refreshments & Intros\n\n6:30-7: Why R? (let Samantha know if you want to speak!)\n\n7-7:30: How to install and run R, a beginner's workshop\n\nFollow us on Twitter for updates! @RLadiesCville",
+    "status": "PAST",
+    "dateTime": "2017-11-14T18:00:00-05:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-charlottesville/events/244690945/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 19,
+      "waitlistCount": 0,
+      "totalCount": 19
+    },
+    "venues": [
+      {
+        "id": "25584578",
+        "name": "VividCortex",
+        "address": "300 Preston Avenue (Citizen's Commonwealth Center), 4th Floor",
+        "city": "Charlottesville",
+        "state": "VA",
+        "country": "us",
+        "lat": 0,
+        "lon": 0,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Charlottesville",
+      "urlname": "rladies-charlottesville"
+    }
+  },
+  {
+    "id": "256809524",
+    "title": "December Meetup: Drinks + Data! ",
+    "description": "rladies_cville_events %>%\nfilter (party == 'yes')\n\nNow that we've had over a year(!) of successful RLadies Cville events, let's celebrate!\n\nThis will be a very informal event and everyone is welcome to join. Let's meet outside of VividCortex and head over to the Downtown mall for happy hour and snacks at the Bebedero.\n\nSee you all soon!",
+    "status": "PAST",
+    "dateTime": "2018-12-13T17:30:00-05:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-charlottesville/events/256809524/",
+    "featuredEventPhoto": {
+      "id": "476705967",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/7/4/f/highres_476705967.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/7/4/f/600_476705967.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/7/4/f/thumb_476705967.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 8,
+      "waitlistCount": 0,
+      "totalCount": 8
+    },
+    "venues": [
+      {
+        "id": "25584578",
+        "name": "VividCortex",
+        "address": "300 Preston Avenue (Citizen's Commonwealth Center), 4th Floor",
+        "city": "Charlottesville",
+        "state": "VA",
+        "country": "us",
+        "lat": 0,
+        "lon": 0,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Charlottesville",
+      "urlname": "rladies-charlottesville"
+    }
+  },
+  {
+    "id": "256211152",
+    "title": "Social Media Analysis with R",
+    "description": "After a brief hiatus the monthly R-Ladies Cville Meetup is back in action!\n\nThis Meetup will be an overview of using R for social media analysis. We'll cover interfacing with REST API's, the rtweet package, and we'll do a brief walkthrough of sentiment analysis and generating a predictive model based on someone's social media behavior.\n\nLooking forward to seeing everyone!",
+    "status": "PAST",
+    "dateTime": "2018-11-27T17:30:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-charlottesville/events/256211152/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 16,
+      "waitlistCount": 0,
+      "totalCount": 16
+    },
+    "venues": [
+      {
+        "id": "25584578",
+        "name": "VividCortex",
+        "address": "300 Preston Avenue (Citizen's Commonwealth Center), 4th Floor",
+        "city": "Charlottesville",
+        "state": "VA",
+        "country": "us",
+        "lat": 0,
+        "lon": 0,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Charlottesville",
+      "urlname": "rladies-charlottesville"
+    }
+  },
+  {
+    "id": "252464707",
+    "title": "Summer of Data Science Book Club",
+    "description": "We'd like to challenge you to participate in the Summer of Data Science Twitter initiative started by Data Science Renee (https://twitter.com/BecomingDataSci). While the SoDS18 is open to all programming languages and endeavors related to becoming a (better) data scientist, we wanted to host a space within our Cville R-Ladies community to ask questions, provide support, and work together on group projects! Of course, there will also be snacks. :)\n\nHow do I participate?\n\nWe're going to kick off the book club by working through the first section of R for Data Science by Hadley Wickham and Garrett Grolemund (available for FREE at http://r4ds.had.co.nz/explore-intro.html). We'll start with Data Visualization with ggplot2, and we'll cover a new section, or chapter, every two weeks.\n\nIn each Meetup, we'll work through the exploratory problems, discuss questions that come up in each section, and apply the concepts to real life examples. You should walk away from this experience with a solid grounding in the basics of R tidyverse principles.\n\nWhile it is recommended that everyone read the week's section prior to the Meetup, you should go through the book at a pace you are comfortable with. Don't worry about falling behind or missing a section - you can always skip and come back!\n\nTentative Schedule for July and August (September to come!):\n\nJuly 2: Data Visualization (http://r4ds.had.co.nz/data-visualisation.html)\n\nJuly 16: Workflows: Basics (http://r4ds.had.co.nz/workflow-basics.html), Scripts (http://r4ds.had.co.nz/workflow-scripts.html), and Projects (http://r4ds.had.co.nz/workflow-projects.html) (note: these are three small sections)\n\nJuly 30: Data Transformation Part 1 (http://r4ds.had.co.nz/transform.html)\n\nAug 13: Data Transformation Part 2 (http://r4ds.had.co.nz/transform.html)\n\nAug 27: Exploratory Data Analysis (http://r4ds.had.co.nz/exploratory-data-analysis.html)\n\nSept 10: Tibbles (http://r4ds.had.co.nz/tibbles.html)\n\nIf you have any questions, please reach out to samantha@rladies.org.\n\nFollow us on Twitter @RLadiesCville for updates!\n\nLooking forward to seeing everyone!",
+    "status": "PAST",
+    "dateTime": "2018-09-24T17:30:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-charlottesville/events/252464707/",
+    "featuredEventPhoto": {
+      "id": "473536090",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/e/d/a/highres_473536090.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/e/d/a/600_473536090.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/e/d/a/thumb_473536090.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 6,
+      "waitlistCount": 0,
+      "totalCount": 6
+    },
+    "venues": [
+      {
+        "id": "25584578",
+        "name": "VividCortex",
+        "address": "300 Preston Avenue (Citizen's Commonwealth Center), 4th Floor",
+        "city": "Charlottesville",
+        "state": "VA",
+        "country": "us",
+        "lat": 0,
+        "lon": 0,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Charlottesville",
+      "urlname": "rladies-charlottesville"
+    }
+  },
+  {
+    "id": "252464674",
+    "title": "Summer of Data Science Book Club",
+    "description": "Now that summer is in full swing, it's the perfect time to dive into a longer term project!\n\nWe'd like to challenge you to participate in the Summer of Data Science Twitter initiative started by Data Science Renee (https://twitter.com/BecomingDataSci). While the SoDS18 is open to all programming languages and endeavors related to becoming a (better) data scientist, we wanted to host a space within our Cville R-Ladies community to ask questions, provide support, and work together on group projects! Of course, there will also be snacks. :)\n\nHow do I participate?\n\nWe're going to kick off the book club by working through the first section of R for Data Science by Hadley Wickham and Garrett Grolemund (available for FREE at http://r4ds.had.co.nz/explore-intro.html). We'll start with Data Visualization with ggplot2, and we'll cover a new section, or chapter, every two weeks.\n\nIn each Meetup, we'll work through the exploratory problems, discuss questions that come up in each section, and apply the concepts to real life examples. You should walk away from this experience with a solid grounding in the basics of R tidyverse principles.\n\nWhile it is recommended that everyone read the week's section prior to the Meetup, you should go through the book at a pace you are comfortable with. Don't worry about falling behind or missing a section - you can always skip and come back!\n\nTentative Schedule for July and August (September to come!):\n\nJuly 2: Data Visualization (http://r4ds.had.co.nz/data-visualisation.html)\n\nJuly 16: Workflows: Basics (http://r4ds.had.co.nz/workflow-basics.html), Scripts (http://r4ds.had.co.nz/workflow-scripts.html), and Projects (http://r4ds.had.co.nz/workflow-projects.html) (note: these are three small sections)\n\nJuly 30: Data Transformation Part 1 (http://r4ds.had.co.nz/transform.html)\n\nAug 13: Data Transformation Part 2 (http://r4ds.had.co.nz/transform.html)\n\nAug 27: Exploratory Data Analysis (http://r4ds.had.co.nz/exploratory-data-analysis.html)\n\nSept 10: Tibbles (http://r4ds.had.co.nz/tibbles.html)\n\nIf you have any questions, please reach out to samantha@rladies.org.\n\nFollow us on Twitter @RLadiesCville for updates!\n\nLooking forward to seeing everyone!",
+    "status": "CANCELLED",
+    "dateTime": "2018-09-10T17:30:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-charlottesville/events/252464674/",
+    "featuredEventPhoto": {
+      "id": "473536090",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/e/d/a/highres_473536090.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/e/d/a/600_473536090.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/e/d/a/thumb_473536090.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [
+      {
+        "id": "25584578",
+        "name": "VividCortex",
+        "address": "300 Preston Avenue (Citizen's Commonwealth Center), 4th Floor",
+        "city": "Charlottesville",
+        "state": "VA",
+        "country": "us",
+        "lat": 0,
+        "lon": 0,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Charlottesville",
+      "urlname": "rladies-charlottesville"
+    }
+  },
+  {
+    "id": "252464543",
+    "title": "Summer of Data Science Book Club",
+    "description": "Now that summer is in full swing, it's the perfect time to dive into a longer term project!\n\nWe'd like to challenge you to participate in the Summer of Data Science Twitter initiative started by Data Science Renee (https://twitter.com/BecomingDataSci). While the SoDS18 is open to all programming languages and endeavors related to becoming a (better) data scientist, we wanted to host a space within our Cville R-Ladies community to ask questions, provide support, and work together on group projects! Of course, there will also be snacks. :)\n\nHow do I participate?\n\nWe're going to kick off the book club by working through the first section of R for Data Science by Hadley Wickham and Garrett Grolemund (available for FREE at http://r4ds.had.co.nz/explore-intro.html). We'll start with Data Visualization with ggplot2, and we'll cover a new section, or chapter, every two weeks.\n\nIn each Meetup, we'll work through the exploratory problems, discuss questions that come up in each section, and apply the concepts to real life examples. You should walk away from this experience with a solid grounding in the basics of R tidyverse principles.\n\nWhile it is recommended that everyone read the week's section prior to the Meetup, you should go through the book at a pace you are comfortable with. Don't worry about falling behind or missing a section - you can always skip and come back!\n\nTentative Schedule for July and August (September to come!):\n\nJuly 2: Data Visualization (http://r4ds.had.co.nz/data-visualisation.html)\n\nJuly 16: Workflows: Basics (http://r4ds.had.co.nz/workflow-basics.html), Scripts (http://r4ds.had.co.nz/workflow-scripts.html), and Projects (http://r4ds.had.co.nz/workflow-projects.html) (note: these are three small sections)\n\nJuly 30: Data Transformation Part 1 (http://r4ds.had.co.nz/transform.html)\n\nAug 13: Data Transformation Part 2 (http://r4ds.had.co.nz/transform.html)\n\nAug 27: Exploratory Data Analysis (http://r4ds.had.co.nz/exploratory-data-analysis.html)\n\nSept 10: Tibbles (http://r4ds.had.co.nz/tibbles.html)\n\nIf you have any questions, please reach out to samantha@rladies.org.\n\nFollow us on Twitter @RLadiesCville for updates!\n\nLooking forward to seeing everyone!",
+    "status": "PAST",
+    "dateTime": "2018-08-27T17:30:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-charlottesville/events/252464543/",
+    "featuredEventPhoto": {
+      "id": "473536090",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/e/d/a/highres_473536090.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/e/d/a/600_473536090.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/e/d/a/thumb_473536090.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "25584578",
+        "name": "VividCortex",
+        "address": "300 Preston Avenue (Citizen's Commonwealth Center), 4th Floor",
+        "city": "Charlottesville",
+        "state": "VA",
+        "country": "us",
+        "lat": 0,
+        "lon": 0,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Charlottesville",
+      "urlname": "rladies-charlottesville"
+    }
+  },
+  {
+    "id": "252386784",
+    "title": "Summer of Data Science Book Club",
+    "description": "Now that summer is in full swing, it's the perfect time to dive into a longer term project!\n\nWe'd like to challenge you to participate in the Summer of Data Science Twitter initiative started by Data Science Renee (https://twitter.com/BecomingDataSci). While the SoDS18 is open to all programming languages and endeavors related to becoming a (better) data scientist, we wanted to host a space within our Cville R-Ladies community to ask questions, provide support, and work together on group projects! Of course, there will also be snacks. :)\n\nHow do I participate?\n\nWe're going to kick off the book club by working through the first section of R for Data Science by Hadley Wickham and Garrett Grolemund (available for FREE at http://r4ds.had.co.nz/explore-intro.html). We'll start with Data Visualization with ggplot2, and we'll cover a new section, or chapter, every two weeks.\n\nIn each Meetup, we'll work through the exploratory problems, discuss questions that come up in each section, and apply the concepts to real life examples. You should walk away from this experience with a solid grounding in the basics of R tidyverse principles.\n\nWhile it is recommended that everyone read the week's section prior to the Meetup, you should go through the book at a pace you are comfortable with. Don't worry about falling behind or missing a section - you can always skip and come back!\n\nTentative Schedule for July and August (September to come!):\n\nJuly 2: Data Visualization (http://r4ds.had.co.nz/data-visualisation.html)\n\nJuly 16: Workflows: Basics (http://r4ds.had.co.nz/workflow-basics.html), Scripts (http://r4ds.had.co.nz/workflow-scripts.html), and Projects (http://r4ds.had.co.nz/workflow-projects.html) (note: these are three small sections)\n\nJuly 30: Data Transformation Part 1 (http://r4ds.had.co.nz/transform.html)\n\nAug 13: Data Transformation Part 2 (http://r4ds.had.co.nz/transform.html)\n\nAug 27: Exploratory Data Analysis (http://r4ds.had.co.nz/exploratory-data-analysis.html)\n\nSept 10: Tibbles (http://r4ds.had.co.nz/tibbles.html)\n\nIf you have any questions, please reach out to samantha@rladies.org.\n\nFollow us on Twitter @RLadiesCville for updates!\n\nLooking forward to seeing everyone!",
+    "status": "PAST",
+    "dateTime": "2018-08-13T17:30:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-charlottesville/events/252386784/",
+    "featuredEventPhoto": {
+      "id": "473536090",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/e/d/a/highres_473536090.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/e/d/a/600_473536090.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/e/d/a/thumb_473536090.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 8,
+      "waitlistCount": 0,
+      "totalCount": 8
+    },
+    "venues": [
+      {
+        "id": "25584578",
+        "name": "VividCortex",
+        "address": "300 Preston Avenue (Citizen's Commonwealth Center), 4th Floor",
+        "city": "Charlottesville",
+        "state": "VA",
+        "country": "us",
+        "lat": 0,
+        "lon": 0,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Charlottesville",
+      "urlname": "rladies-charlottesville"
+    }
+  },
+  {
+    "id": "253320495",
+    "title": "More dplyr!",
+    "description": "Let's continue our dplyr discussion! We'll finish working though chapter 5 of R for Data Science (http://r4ds.had.co.nz/transform.html). We can pick up with the section on select() and answer any questions from previous exercises.\n\nAs always, there will be pizza :)",
+    "status": "CANCELLED",
+    "dateTime": "2018-08-06T17:30:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-charlottesville/events/253320495/",
+    "featuredEventPhoto": {
+      "id": "473405685",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/6/3/5/highres_473405685.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/6/3/5/600_473405685.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/6/3/5/thumb_473405685.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 6,
+      "waitlistCount": 0,
+      "totalCount": 6
+    },
+    "venues": [
+      {
+        "id": "25584578",
+        "name": "VividCortex",
+        "address": "300 Preston Avenue (Citizen's Commonwealth Center), 4th Floor",
+        "city": "Charlottesville",
+        "state": "VA",
+        "country": "us",
+        "lat": 0,
+        "lon": 0,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Charlottesville",
+      "urlname": "rladies-charlottesville"
+    }
+  },
+  {
+    "id": "252386831",
+    "title": "Summer of Data Science Book Club",
+    "description": "Now that summer is in full swing, it's the perfect time to dive into a longer term project!\n\nWe'd like to challenge you to participate in the Summer of Data Science Twitter initiative started by Data Science Renee (https://twitter.com/BecomingDataSci). While the SoDS18 is open to all programming languages and endeavors related to becoming a (better) data scientist, we wanted to host a space within our Cville R-Ladies community to ask questions, provide support, and work together on group projects! Of course, there will also be snacks. :)\n\nHow do I participate?\n\nWe're going to kick off the book club by working through the first section of R for Data Science by Hadley Wickham and Garrett Grolemund (available for FREE at http://r4ds.had.co.nz/explore-intro.html). We'll start with Data Visualization with ggplot2, and we'll cover a new section, or chapter, every two weeks.\n\nIn each Meetup, we'll work through the exploratory problems, discuss questions that come up in each section, and apply the concepts to real life examples. You should walk away from this experience with a solid grounding in the basics of R tidyverse principles.\n\nWhile it is recommended that everyone read the week's section prior to the Meetup, you should go through the book at a pace you are comfortable with. Don't worry about falling behind or missing a section - you can always skip and come back!\n\nTentative Schedule for July and August (September to come!):\n\nJuly 2: Data Visualization (http://r4ds.had.co.nz/data-visualisation.html)\n\nJuly 16: Workflows: Basics (http://r4ds.had.co.nz/workflow-basics.html), Scripts (http://r4ds.had.co.nz/workflow-scripts.html), and Projects (http://r4ds.had.co.nz/workflow-projects.html) (note: these are three small sections)\n\nJuly 30: Data Transformation (http://r4ds.had.co.nz/transform.html)\n\nAug 13: Exploratory Data Analysis (http://r4ds.had.co.nz/exploratory-data-analysis.html)\n\nAug 27: Tibbles (http://r4ds.had.co.nz/tibbles.html)\n\nIf you have any questions, please reach out to samantha@rladies.org.\n\nFollow us on Twitter @RLadiesCville for updates!\n\nLooking forward to seeing everyone!",
+    "status": "PAST",
+    "dateTime": "2018-07-30T17:30:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-charlottesville/events/252386831/",
+    "featuredEventPhoto": {
+      "id": "472007567",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/9/c/f/highres_472007567.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/9/c/f/600_472007567.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/9/c/f/thumb_472007567.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 10,
+      "waitlistCount": 0,
+      "totalCount": 10
+    },
+    "venues": [
+      {
+        "id": "25584578",
+        "name": "VividCortex",
+        "address": "300 Preston Avenue (Citizen's Commonwealth Center), 4th Floor",
+        "city": "Charlottesville",
+        "state": "VA",
+        "country": "us",
+        "lat": 0,
+        "lon": 0,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Charlottesville",
+      "urlname": "rladies-charlottesville"
+    }
+  },
+  {
+    "id": "252383342",
+    "title": "Summer of Data Science Book Club",
+    "description": "Now that summer is in full swing, it's the perfect time to dive into a longer term project!\n\nWe'd like to challenge you to participate in the Summer of Data Science Twitter initiative started by Data Science Renee (https://twitter.com/BecomingDataSci). While the SoDS18 is open to all programming languages and endeavors related to becoming a (better) data scientist, we wanted to host a space within our Cville R-Ladies community to ask questions, provide support, and work together on group projects! Of course, there will also be snacks. :)\n\nHow do I participate?\n\nWe're going to kick off the book club by working through the first section of R for Data Science by Hadley Wickham and Garrett Grolemund (available for FREE at http://r4ds.had.co.nz/explore-intro.html). We'll start with Data Visualization with ggplot2, and we'll cover a new section, or chapter, every two weeks.\n\nIn each Meetup, we'll work through the exploratory problems, discuss questions that come up in each section, and apply the concepts to real life examples. You should walk away from this experience with a solid grounding in the basics of R tidyverse principles.\n\nWhile it is recommended that everyone read the week's section prior to the Meetup, you should go through the book at a pace you are comfortable with. Don't worry about falling behind or missing a section - you can always skip and come back!\n\nTentative Schedule for July and August (September to come!):\n\nJuly 2: Data Visualization (http://r4ds.had.co.nz/data-visualisation.html)\n\nJuly 16: Workflows: Basics (http://r4ds.had.co.nz/workflow-basics.html), Scripts (http://r4ds.had.co.nz/workflow-scripts.html), and Projects (http://r4ds.had.co.nz/workflow-projects.html) (note: these are three small sections)\n\nJuly 30: Data Transformation (http://r4ds.had.co.nz/transform.html)\n\nAug 13: Exploratory Data Analysis (http://r4ds.had.co.nz/exploratory-data-analysis.html)\n\nAug 27: Tibbles (http://r4ds.had.co.nz/tibbles.html)\n\nIf you have any questions, please reach out to samantha@rladies.org.\n\nFollow us on Twitter @RLadiesCville for updates!\n\nLooking forward to seeing everyone!",
+    "status": "PAST",
+    "dateTime": "2018-07-16T17:30:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-charlottesville/events/252383342/",
+    "featuredEventPhoto": {
+      "id": "472007567",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/9/c/f/highres_472007567.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/9/c/f/600_472007567.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/9/c/f/thumb_472007567.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 7,
+      "waitlistCount": 0,
+      "totalCount": 7
+    },
+    "venues": [
+      {
+        "id": "25584578",
+        "name": "VividCortex",
+        "address": "300 Preston Avenue (Citizen's Commonwealth Center), 4th Floor",
+        "city": "Charlottesville",
+        "state": "VA",
+        "country": "us",
+        "lat": 0,
+        "lon": 0,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Charlottesville",
+      "urlname": "rladies-charlottesville"
+    }
+  },
+  {
+    "id": "251719886",
+    "title": "Summer of Data Science Book Club",
+    "description": "Now that summer is in full swing, it's the perfect time to dive into a longer term project!\n\nWe'd like to challenge you to participate in the Summer of Data Science Twitter initiative started by Data Science Renee (https://twitter.com/BecomingDataSci). While the SoDS18 is open to all programming languages and endeavors related to becoming a (better) data scientist, we wanted to host a space within our Cville R-Ladies community to ask questions, provide support, and work together on group projects! Of course, there will also be snacks. :)\n\nHow do I participate?\n\nWe're going to kick off the book club by working through the first section of R for Data Science by Hadley Wickham and Garrett Grolemund (available for FREE at http://r4ds.had.co.nz/explore-intro.html). We'll start with Data Visualization with ggplot2, and we'll cover a new section, or chapter, every two weeks.\n\nIn each Meetup, we'll work through the exploratory problems, discuss questions that come up in each section, and apply the concepts to real life examples. You should walk away from this experience with a solid grounding in the basics of R tidyverse principles.\n\nWhile it is recommended that everyone read the week's section prior to the Meetup, you should go through the book at a pace you are comfortable with. Don't worry about falling behind or missing a section - you can always skip and come back!\n\nTentative Schedule for July and August (September to come!):\n\nJuly 2: Data Visualization (http://r4ds.had.co.nz/data-visualisation.html)\n\nJuly 16: Workflows: Basics (http://r4ds.had.co.nz/workflow-basics.html), Scripts (http://r4ds.had.co.nz/workflow-scripts.html), and Projects (http://r4ds.had.co.nz/workflow-projects.html) (note: these are three small sections)\n\nJuly 30: Data Transformation (http://r4ds.had.co.nz/transform.html)\n\nAug 13: Exploratory Data Analysis (http://r4ds.had.co.nz/exploratory-data-analysis.html)\n\nAug 27: Tibbles (http://r4ds.had.co.nz/tibbles.html)\n\nIf you have any questions, please reach out to samantha@rladies.org.\n\nFollow us on Twitter @RLadiesCville for updates!\n\nLooking forward to seeing everyone!",
+    "status": "PAST",
+    "dateTime": "2018-07-02T17:30:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-charlottesville/events/251719886/",
+    "featuredEventPhoto": {
+      "id": "472007567",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/9/c/f/highres_472007567.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/9/c/f/600_472007567.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/9/c/f/thumb_472007567.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 10,
+      "waitlistCount": 0,
+      "totalCount": 10
+    },
+    "venues": [
+      {
+        "id": "25584578",
+        "name": "VividCortex",
+        "address": "300 Preston Avenue (Citizen's Commonwealth Center), 4th Floor",
+        "city": "Charlottesville",
+        "state": "VA",
+        "country": "us",
+        "lat": 0,
+        "lon": 0,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Charlottesville",
+      "urlname": "rladies-charlottesville"
+    }
+  },
+  {
+    "id": "249193218",
+    "title": "Using Git + GitHub with R",
+    "description": "So you've written some awesome code - now what?\n\nInstead of leaving it untouched in local limbo, it's time to push it to an online repository for you to share with the world. Collaboration and version control are the backbone of data science, and regardless of your level of experience being comfortable working with the command line is a valuable tool.\n\nJoin us on Tuesday, May 1st, at VividCortex for a hand-on workshop using Git, GitHub, and R. Whether you're using the command line for the first time or just brushing up on your skills, all programming levels are encouraged to attend.\n\nFollow us on Twitter @RLadiesCville for more updates!\n\n(Above picture courtesy of Jenny Bryan & Heaven King Video)",
+    "status": "PAST",
+    "dateTime": "2018-05-01T17:30:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-charlottesville/events/249193218/",
+    "featuredEventPhoto": {
+      "id": "469644645",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/0/4/5/highres_469644645.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/0/4/5/600_469644645.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/0/4/5/thumb_469644645.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 25,
+      "waitlistCount": 0,
+      "totalCount": 25
+    },
+    "venues": [
+      {
+        "id": "25584578",
+        "name": "VividCortex",
+        "address": "300 Preston Avenue (Citizen's Commonwealth Center), 4th Floor",
+        "city": "Charlottesville",
+        "state": "VA",
+        "country": "us",
+        "lat": 0,
+        "lon": 0,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Charlottesville",
+      "urlname": "rladies-charlottesville"
+    }
+  },
+  {
+    "id": "247189195",
+    "title": "Let's make a website!",
+    "description": "RMarkdown? Wordpress? Blogdown? What is the best way to create a shiny, new RLadiesCville website? What would you like to have showcased?\n\nLet's brainstorm a plan of action!\n\nFor updates follow us on Twitter @RLadiesCville\n\nSee you then!",
+    "status": "PAST",
+    "dateTime": "2018-02-22T18:00:00-05:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-charlottesville/events/247189195/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 15,
+      "waitlistCount": 0,
+      "totalCount": 15
+    },
+    "venues": [
+      {
+        "id": "25584578",
+        "name": "VividCortex",
+        "address": "300 Preston Avenue (Citizen's Commonwealth Center), 4th Floor",
+        "city": "Charlottesville",
+        "state": "VA",
+        "country": "us",
+        "lat": 0,
+        "lon": 0,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Charlottesville",
+      "urlname": "rladies-charlottesville"
+    }
+  },
+  {
+    "id": "244717019",
+    "title": "Lightning Talk Writing Workshop",
+    "description": "Welcome to the R-Ladies New Year Resolution Series: Lightning Talk Writing Workshop!\n\nA lightning talk is a very short presentation lasting only a few minutes given at a conference or similar forum. Lightning talks can be about absolutely anything. The art and practice of crafting these talks is great because it forces you to work on:\n\n• Choosing a topic that you are passionate about enough to share AND realizing that you do have something interesting to say.\n\n• Realizing that questions and challenges can be a good thing - you don't have to know all the answers!\n\n• Developing clear and effective presentation design & fine tuning your verbal presentation skills.\n\nAt this Meetup, we'll cover what a lightning talk is and we'll brainstorm some ways to develop them. We will also discuss how to best format presentations in R, because this is, after all, an R-Ladies Meetup. :)\n\nNo need to come with an idea in mind, however if you would like to rehearse a lightning talk that you have been working on, we are an eager audience.\n\nOf course, there will be pizza.\n\nSee you all then!",
+    "status": "PAST",
+    "dateTime": "2018-01-25T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-charlottesville/events/244717019/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 7,
+      "waitlistCount": 0,
+      "totalCount": 7
+    },
+    "venues": [
+      {
+        "id": "25584578",
+        "name": "VividCortex",
+        "address": "300 Preston Avenue (Citizen's Commonwealth Center), 4th Floor",
+        "city": "Charlottesville",
+        "state": "VA",
+        "country": "us",
+        "lat": 0,
+        "lon": 0,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Charlottesville",
+      "urlname": "rladies-charlottesville"
+    }
+  },
+  {
+    "id": "265288328",
+    "title": "Github for the UseR",
+    "description": "So you've written some awesome code - now what?\n\nInstead of leaving it untouched in local limbo, it's time to push it to an online repository for you to share with the world. Collaboration and version control are the backbone of data science, and regardless of your level of experience being comfortable working with the command line is a valuable tool.\n\nJoin us on Thursday, October 24th, for a hands-on workshop using Git, GitHub, and R. Whether you're using the command line for the first time or just brushing up on your skills, all programming levels are encouraged to attend.\n\nWe will be meeting in the small conference room, at CitySpace, on the Downtown mall. Workshop materials can be found here: http://bit.ly/cville_github\n\nFollow us on Twitter @RLadiesCville for more info!",
+    "status": "PAST",
+    "dateTime": "2019-11-05T17:30:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-charlottesville/events/265288328/",
+    "featuredEventPhoto": {
+      "id": "485361287",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/3/2/7/highres_485361287.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/3/2/7/600_485361287.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/3/2/7/thumb_485361287.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 14,
+      "waitlistCount": 0,
+      "totalCount": 14
+    },
+    "venues": [
+      {
+        "id": "26715827",
+        "name": "CitySpace, Small Conference Room",
+        "address": "100 5th St NE",
+        "city": "Charlottesville",
+        "state": "va",
+        "country": "us",
+        "lat": 38.0298,
+        "lon": -78.4785,
+        "postalCode": "22902",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Charlottesville",
+      "urlname": "rladies-charlottesville"
+    }
+  },
+  {
+    "id": "264555395",
+    "title": "RLadies Cville turns 2! ",
+    "description": "Two years and over 150 members - let's celebrate! All are welcome to join us for drinks and snacks at Kardinal Hall.\n\nBaked goods encouraged. :)\n\nImage from @oleolesko",
+    "status": "PAST",
+    "dateTime": "2019-09-26T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-charlottesville/events/264555395/",
+    "featuredEventPhoto": {
+      "id": "484796617",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/d/2/9/highres_484796617.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/d/2/9/600_484796617.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/d/2/9/thumb_484796617.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "26360523",
+        "name": "Kardinal Hall",
+        "address": "722 Preston Ave #103",
+        "city": "Charlottesville",
+        "state": "VA",
+        "country": "us",
+        "lat": 38.0362,
+        "lon": -78.4879,
+        "postalCode": "22903",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Charlottesville",
+      "urlname": "rladies-charlottesville"
+    }
+  },
+  {
+    "id": "263807287",
+    "title": "Package Development Workshop",
+    "description": "Curious about package development, but not sure where to start? Have a few packages under your belt but unsure of what to do with them? This workshop is for you! Run by R-Ladies Charlottesville, the goal of this workshop is to empower you to start contributing back to the R ecosystem with package development. We’ll be using materials developed by Hadley Wickham, Jenny Bryan, and Di Cook for the R-Forwards teaching team. https://forwards.github.io/edu/\n\nBy the end of this three-hour workshop, you should know how to:\n\n- Make your code into an R package,\n- Do collaborative coding with GitHub,\n- Write a vignette or an article,\n- Write tests, error messages, and documentation, and\n- Submit a package to CRAN.\n\nBring your own code that you want to make into a package, or work with our example.\n\nAngela Li of R-Ladies Chicago and Samantha Toet of R-Ladies Charlottesville will be co-teaching this workshop. Angela is the R Spatial Advocate at the Center for Spatial Data Science and Samantha is the Partner Marketing Specialist for RStudio.\n\nWorkshop materials, including a demo package, can be found here: bit.ly/cville_pkg\n\nWorkshop instructors and participants agree to adhere to the R Consortium and R Community Code of Conduct. https://wiki.r-consortium.org/view/R_Consortium_and_the_R_Community_Code_of_Conduct\n\nWe will be meeting at Hemoshear Theraputics, located on the 3rd floor of 501 Locust Avenue, in downtown Charlottesville. Free parking is available in the lot to the right of the building, in the spaces marked Hemoshear. If you're taking a bus or trolley, the closest stop is E Market St at 10th St NE.\n\nWhen you enter the building, turn left, and take the elevator to the 3rd floor. There will also be signage to guide you to our meeting space.\n\nIf you have any questions or are interested in helping out, please email samantha [at] rladies.org.",
+    "status": "PAST",
+    "dateTime": "2019-09-08T15:00:00-04:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-charlottesville/events/263807287/",
+    "featuredEventPhoto": {
+      "id": "484619157",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/e/7/1/5/highres_484619157.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/e/7/1/5/600_484619157.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/7/1/5/thumb_484619157.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 23,
+      "waitlistCount": 0,
+      "totalCount": 23
+    },
+    "venues": [
+      {
+        "id": "25636842",
+        "name": "Hemoshear",
+        "address": "501 Locust Avenue, Suite 301",
+        "city": "Charlottesville",
+        "state": "VA",
+        "country": "us",
+        "lat": 0,
+        "lon": 0,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Charlottesville",
+      "urlname": "rladies-charlottesville"
+    }
+  },
+  {
+    "id": "264312469",
+    "title": "Intro to RMarkdown & the Tidyverse: a Joint Meetup with RLadies & UvaR",
+    "description": "Flash Meetup Alert!\n\nJoin us Tuesday, August 27th, at the UVA Data Science Institute, Dell 1, as we team up with the Uva UseR Group for a refresher on data wrangling with the Tidyverse and presenting your results with RMarkdown.\n\nBrigitte Hogan will give an overview of some of the most helpful Tidyverse packages, and how to reproduce results with RMarkdown. If time permitting Samantha Toet will talk about functional programming and making your functions purrr.\n\nWe will be meeting in the common area of Dell 1 at the UVA Data Science Institute on Bonnycastle Drive. Parking is available in the Central Grounds Garage at 400 S Emmet Street. Follow us on Twitter @RLadiesCville for updates.\n\nCome with your computer, a hungry stomach, and questions!",
+    "status": "PAST",
+    "dateTime": "2019-08-27T17:30:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-charlottesville/events/264312469/",
+    "featuredEventPhoto": {
+      "id": "484337932",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/6/0/c/highres_484337932.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/6/0/c/600_484337932.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/6/0/c/thumb_484337932.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 7,
+      "waitlistCount": 0,
+      "totalCount": 7
+    },
+    "venues": [
+      {
+        "id": "26592635",
+        "name": "Dell Building #1",
+        "address": "30 Bonnycastle Dr",
+        "city": "Charlottesville",
+        "state": "VA",
+        "country": "us",
+        "lat": 38.0349,
+        "lon": -78.5102,
+        "postalCode": "22904",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Charlottesville",
+      "urlname": "rladies-charlottesville"
+    }
+  },
+  {
+    "id": "270748602",
+    "title": "Building dashboards with flexdashboard and Shiny",
+    "description": "Dashboards are a great, user-friendly way for communicating insights and sharing results. They offer more flexibility than standard reports, and with R and Shiny they can be interactive and deliver complex results.\n\nBut where do you start? For many, grokking a Shiny app is no easy feat. This is where flexdashboard is incredibly valuable - all it needs is a little R code, mixed with some R Markdown, and voila! Flexdashboard also integrates with Shiny, so it's a great on ramp to learning more about reactivity.\n\nThis hands-on virtual workshop will give an overview of building dashboards, starting with RMarkdown and flexdashboard, and will end with some more advanced topics such as Shiny and HTML widgets.\n\nAll are welcome, and no Shiny experience is needed.\n\nDashboard: https://connect.rstudioservices.com/penguins/\n\nSlides: https://docs.google.com/presentation/d/16JtzkVJc2iLoFB_RmtgPhfJwpP0jh0iPOj9Ch4f48vE/edit?usp=sharing\n\nRStudio Cloud Project: https://rstudio.cloud/project/1389836\n\nGithub repo: https://github.com/SamanthaToet/intro-to-flexdashboard",
+    "status": "PAST",
+    "dateTime": "2020-06-16T16:30:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-charlottesville/events/270748602/",
+    "featuredEventPhoto": {
+      "id": "490879890",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/d/b/2/highres_490879890.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/d/b/2/600_490879890.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/d/b/2/thumb_490879890.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 242,
+      "waitlistCount": 0,
+      "totalCount": 242
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Charlottesville",
+      "urlname": "rladies-charlottesville"
+    }
+  },
+  {
+    "id": "299462903",
+    "title": "Joint Meetup! Putting “responsibility” into Responsible AI ",
+    "description": "We're back and we're teaming up with [Charlottesville Data Science](https://www.meetup.com/charlottesvilledatascience/)!\n\nJoin us the evening before the [2024 Charlottesville Women in Data Science Conference](https://datascience.virginia.edu/events/women-data-science-wids-charlottesville-2024/mar-15) for some snacks, beverages, and a discussion on responsible generative AI, from Jill Heinze, Research Director at WillowTree.\n\nYou can learn more here: https://www.meetup.com/charlottesvilledatascience/events/299465742/\n\nAll genders and data science proficiencies welcome!\n\nSee you then!",
+    "status": "PAST",
+    "dateTime": "2024-03-14T18:00:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-charlottesville/events/299462903/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 6,
+      "waitlistCount": 0,
+      "totalCount": 6
+    },
+    "venues": [
+      {
+        "id": "26165725",
+        "name": "Vault Virginia",
+        "address": "300 E Main St",
+        "city": "Charlottesville",
+        "state": "VA",
+        "country": "us",
+        "lat": 38.0299,
+        "lon": -78.4801,
+        "postalCode": "22902",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Charlottesville",
+      "urlname": "rladies-charlottesville"
+    }
+  }
+]

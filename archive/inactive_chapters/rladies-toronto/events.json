@@ -1,0 +1,272 @@
+[
+  {
+    "id": "265028511",
+    "title": "October Event: Working with Text in R!",
+    "description": "We're back from an extended summer break with a Saturday event! Please join us for a talk by Ella Kaye on working with text in R.\n\nDoors will open at 2:00pm and the talk will begin at 2:30pm. There will be light snacks.\n\nThe talk will be held in room 409 in the Stewart Building (149 College). Entry will be through the door on the west side of the building. Entrances to the building and room are wheelchair accessible.\n\nTalk:\nTranscending its origins as a programming language for statistics, R provides excellent tools for working with text. This tidyverse-based talk will provide an overview of some of the fantastic packages available for this, including (but not limited to) `stringr`, `RVerbalExpressions`, `tidytext` and `wordcloud`.\n\nSpeaker:\nElla is a PhD student in Statisitcs at the University of Warwick. She followed her undergraduate degree in Mathematics and Philosophy with Masters degrees in History and Philosophy of Science and then Mathematics Education. Her interest in statistics was first piqued as a secondary school maths teacher when thinking about how to make the subject interesting for teenagers. An MSc in Applied Statistics followed (via a couple of years in working in market research), which lead to the PhD. Ella is an R enthusiast and package author, and the co-organiser of the Oxford R User Group. She also enjoys cooking, cycling and playing the clarinet.\n\nPlease note that by attending you agree to abide by our code of conduct: https://rladies.org/code-of-conduct/",
+    "status": "PAST",
+    "dateTime": "2019-10-05T14:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-toronto/events/265028511/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 42,
+      "waitlistCount": 0,
+      "totalCount": 42
+    },
+    "venues": [
+      {
+        "id": "26641265",
+        "name": "Stewart building",
+        "address": "149 College St",
+        "city": "Toronto",
+        "state": "ON",
+        "country": "ca",
+        "lat": 43.6592,
+        "lon": -79.392,
+        "postalCode": "M5T 1P5",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Toronto",
+      "urlname": "rladies-toronto"
+    }
+  },
+  {
+    "id": "262885065",
+    "title": "July Event: Ethics in Data Products and More",
+    "description": "Our July event will be held on July 18th at Sensibill. The first speaker is Heather Krause, who will talk about how to embed ethics and equity into your data products. The second speaker is Erle Holgersen, who will talk about an analysis in detecting life changes from iPhone step counts.\n\nDoors open at 6:30 pm and talks start at 7 pm. Please note that the venue is not wheelchair accessible, access requires walking up two flights of stairs. There will be light snacks.\n\nTALK DESCRIPTIONS\n\nBias, sexism and racism in data science permeate our systems. They’re hidden in every step of the process; funding, data collection, analysis, and visualization are rife with inequality-causing assumptions, misunderstandings, and blind spots. Ethics and equity in data are a critical issue in the present and will continue to grow in importance in the sector. Understanding how to speak to these issues is fundamental for data professionals. Fairness in machine learning and algorithmic accountability are gaining prominence in the literature - but largely from a theoretical point of view. This talk will present a few practical tools and checklists to address the conceptual issues of ethics and equity in data science.",
+    "status": "PAST",
+    "dateTime": "2019-07-18T18:30:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-toronto/events/262885065/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 32,
+      "waitlistCount": 0,
+      "totalCount": 32
+    },
+    "venues": [
+      {
+        "id": "26367082",
+        "name": "Sensibill Inc.",
+        "address": "2967 Dundas St W #660",
+        "city": "Toronto",
+        "state": "ON",
+        "country": "ca",
+        "lat": 43.6465,
+        "lon": -79.3964,
+        "postalCode": "M5V 1S5",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Toronto",
+      "urlname": "rladies-toronto"
+    }
+  },
+  {
+    "id": "261843524",
+    "title": "R-Ladies Toronto Lightning Talks! ",
+    "description": "Please join us for a night of lightning talks! Lightning talks are five minutes in length and a great way to learn about a variety of #rstats topics from the fantastic R-Ladies in our community!\n\nTalks and speakers:\n* Insights from r/SkincareAddiction - Anna Gebremedhin\n* Machine learning approaches to predict disease - Samantha Wilson\n* Coral reefs, climate change and coding - Emily Darling\n* Interactive data visualization with loon - Alex Wiang\n* R, Sports and Economics - Jennifer Centeno\n* Forecasting with Prophet in R - Elnaz Alinpour\n* Crimes against data sharing in functional genomics - Emma Bell\n\nDoor will open at 6pm with introductions and talks around 6:30pm. Everything will conclude at 8. Please join us!\n\nAll attendees agree to abide by the R-Ladies Code of Conduct (https://github.com/rladies/starter-kit/wiki/Code-of-Conduct).\n\nThe space, refreshments, and food are kindly provided by Intelliware.\n\nPlease note that unfortunately, Intelliware is not a wheelchair accessible space and there are three flights of stairs leading up to the event space. There are two gendered washrooms and one gender neutral washroom.",
+    "status": "PAST",
+    "dateTime": "2019-06-18T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-toronto/events/261843524/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 55,
+      "waitlistCount": 0,
+      "totalCount": 55
+    },
+    "venues": [
+      {
+        "id": "26097633",
+        "name": "Intelliware Development Inc.",
+        "address": "200 Adelaide W",
+        "city": "Toronto",
+        "state": "ON",
+        "country": "ca",
+        "lat": 43.6487,
+        "lon": -79.3871,
+        "postalCode": "M5H 1W7",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Toronto",
+      "urlname": "rladies-toronto"
+    }
+  },
+  {
+    "id": "260888079",
+    "title": "Connecting to Google Cloud in R and Deploying models and Shiny apps with Docker!",
+    "description": "Please join us for talks by Dr. Maria D'Angelo and Hareem Naveed!\n\nMaria will be sharing her experiences interacting with Google Cloud Platform using R. The talk will cover interacting with Google Big Query & Google Cloud Storage using the `bigrquery` and `googleCloudStorageR` packages, highlighting issues encountered and lessons learned as newer user of these packages.\n\nHareem's talk will cover how to deploy R models and Shiny apps using Docker.\n\nAll attendees agree to abide by the R-Ladies Code of Conduct (https://github.com/rladies/starter-kit/wiki/Code-of-Conduct).\n\nThe space, refreshments, and food are kindly provided by Munich Re .\n\nDoor will open at 6pm with introductions and presentations around 6:30pm. Everything will conclude at 8. Please join us!",
+    "status": "PAST",
+    "dateTime": "2019-05-09T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-toronto/events/260888079/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 47,
+      "waitlistCount": 0,
+      "totalCount": 47
+    },
+    "venues": [
+      {
+        "id": "26346450",
+        "name": "Munich Reinsurance Co-Canada",
+        "address": "390 Bay St.",
+        "city": "Toronto",
+        "state": "ON",
+        "country": "ca",
+        "lat": 43.6513,
+        "lon": -79.3818,
+        "postalCode": "M5H 2Y2",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Toronto",
+      "urlname": "rladies-toronto"
+    }
+  },
+  {
+    "id": "258774262",
+    "title": "R-Ladies Toronto Kickoff: gt package and working with new data!",
+    "description": "We're excited to announce our kickoff event, joint with the newly resurrected GTA R User Group!\n\nPlease join us for talks by Rich Iannone and Sharla Gelfand!\n\nRich will discuss the gt package, designed for creating great-looking display tables. He'll introduce the package and jump into an interactive coding session, going through how to preprocess data and make useful presentation tables, including table parts, footnotes, cell styling, and R-Markdown best practices.\n\nSharla's talk, \"Opinionated Strategies for Uncharted Territories“, will focus on methods for working with a new dataset, providing tips to avoid that whole \"yeah I know my data wait this is not what I expected where did I go wrong!?\" thing.\n\nAll attendees agree to abide by the R-Ladies Code of Conduct (https://github.com/rladies/starter-kit/wiki/Code-of-Conduct).\n\nRefreshments and the space are provided by The Jonah Group (map below, come up to the 3rd floor). Pizza will be provided by RStudio.\n\nDoor will open at 6pm with introductions and presentations around 6:30pm. Everything will conclude at 8. Please join us!",
+    "status": "PAST",
+    "dateTime": "2019-03-05T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-toronto/events/258774262/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 25,
+      "waitlistCount": 23,
+      "totalCount": 25
+    },
+    "venues": [
+      {
+        "id": "26155102",
+        "name": "The Jonah Group",
+        "address": "461 King St W 3rd floor",
+        "city": "Toronto",
+        "state": "ON",
+        "country": "ca",
+        "lat": 43.6447,
+        "lon": -79.3962,
+        "postalCode": "M5V 1K4",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Toronto",
+      "urlname": "rladies-toronto"
+    }
+  },
+  {
+    "id": "272230276",
+    "title": "Open data and an interactive dashboard to monitor COVID-19 outbreak in Canada",
+    "description": "We are so excited to be back!\n\nOn August 12, Isha Berry will be talking about be talking about \"Open access epidemiological data and an interactive dashboard to monitor the COVID-19 outbreak in Canada\".\n\nThis meetup is, of course, online, and a link to the Zoom meeting will be shared the day of the event.\n\nApproximate agenda:\n7 - 7:10pm: Welcome and announcements\n7:10 - 7:30pm: Isha's talk\n7:30 - 7:45pm: Q&A and discussion\n7:45 - 8:00pm: Wrap up\n\nTalk description:\nThe COVID-19 Canada Open Data Working Group was founded in March 2020 in response to the need for accurate, up-to-date and accessible data on the COVID-19 epidemic in Canada. Unlike many datasets that provide only aggregate case counts, the working group dataset collects individual-level case data, which are particularly valuable during outbreaks but are seldom made available in real time. This dataset feeds into an interactive dashboard, which enables users to visualize the data and identify key health outcome trends.\n\nThe dataset and dashboard have become a reliable pan-Canadian source for COVID-19 information. Additionally, this has the potential for future linkages with diverse datasets, such as policy interventions, socio-behavioural changes, environmental factors, and other population-level factors. The open access aspect of this work encourages transparency and data sharing, which are crucial for supporting evidence-based control strategies and directing public health response efforts in Canada for the COVID-19 pandemic.\n\nThis talk will provide an overview of the key features associated with the COVID-19 Canada Open Data Working Group datasets and feature a demonstration of the tools available on the R Shiny dashboard. We will also discuss some of the key epidemiological insights that have been\nobserved from this data and dashboard to date.\n\nAbout Isha Berry:\nIsha Berry is a PhD Candidate in Epidemiology at the Dalla Lana School of Public Health and a Fellow in the Emerging Leaders in Biosecurity Initiative at the Johns Hopkins Centre for Health Security. She is a co-founder of the COVID-19 Canada Open Data Working Group, which leads digital surveillance of COVID-19 cases in Canada to curate a publicly available line list and public-facing data dashboard. Isha has expertise in infectious disease epidemiology, geo-spatial methods, and mathematical modelling. Her primary area of research is understanding the socio-behavioral drivers of global emerging infectious diseases. She has experience conducting infectious disease research in low-, middle-, and high-income settings. She holds an MSc in Epidemiology from the London School of Hygiene and Tropical Medicine and a BSc in Environmental Science from McGill University.\n\n---\n\nPlease note that by attending you agree to abide by our code of conduct: https://rladies.org/code-of-conduct/\n\nR-Ladies is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form.",
+    "status": "PAST",
+    "dateTime": "2020-08-12T19:00:00-04:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-toronto/events/272230276/",
+    "featuredEventPhoto": {
+      "id": "491572014",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/b/2/e/highres_491572014.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/b/2/e/600_491572014.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/b/2/e/thumb_491572014.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 64,
+      "waitlistCount": 0,
+      "totalCount": 64
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Toronto",
+      "urlname": "rladies-toronto"
+    }
+  },
+  {
+    "id": "304639230",
+    "title": "R-Ladies Social Hour",
+    "description": "With the busy season upon us, we’re keeping it simple—just a chance to relax, chat, network, and get to know each other. In the new year, we’ll be organizing more focused sessions, but for now, let’s enjoy some good company and a drink. Hope to see you there!\n\n📅 Date: December 2, 2024\n🕒 Time: 6.30pm\n📍 Location: Barhop Brewco - **Peter Street:** 137 Peter St Toronto, ON, M5V 2H3\n\nPlease note that by attending you agree to abide by our code of conduct: https://rladies.org/code-of-conduct/",
+    "status": "PAST",
+    "dateTime": "2024-12-02T18:30:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-toronto/events/304639230/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 18,
+      "waitlistCount": 0,
+      "totalCount": 18
+    },
+    "venues": [
+      {
+        "id": "24201027",
+        "name": "bar hop brewco",
+        "address": "137 Peter Street",
+        "city": "Toronto",
+        "state": "ON",
+        "country": "ca",
+        "lat": 43.6489,
+        "lon": -79.3932,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Toronto",
+      "urlname": "rladies-toronto"
+    }
+  },
+  {
+    "id": "299959799",
+    "title": "Toronto R-Ladies is back: Lightning Talks!",
+    "description": "Toronto R-Ladies is back with an evening of lightning talks and networking! We're excited to learn from 5-minute lightning talks delivered by some of the fantastic R-Ladies in our community, followed by time for connecting and networking!\n\n**Talks and speakers:**\n\nA Stream of Consciousness: Using ggplot2 to visualize how we move through thoughts - Riya Trikha\nEveRything in its right visual place - Charlotte Leferink\nAutomating PowerPoint slide decks with the officeverse - Jenny Rieck\nWastewater Surveillance Laboratory Proficiency - Jane Ho\nMastering Randomness: Setting Seed in R - Wendy Graham\n\nDoors will open at 6pm with introductions and talks around 6:15pm. Everything will conclude at 8. Please join us!All attendees agree to abide by the R-Ladies Code of Conduct ([https://github.com/rladies/starter-kit/wiki/Code-of-Conduct](https://github.com/rladies/starter-kit/wiki/Code-of-Conduct)).",
+    "status": "PAST",
+    "dateTime": "2024-04-02T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-toronto/events/299959799/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 28,
+      "waitlistCount": 0,
+      "totalCount": 28
+    },
+    "venues": [
+      {
+        "id": "26293145",
+        "name": "Toronto Public Library - Palmerston Branch",
+        "address": "560 Palmerston Ave",
+        "city": "Toronto",
+        "state": "ON",
+        "country": "ca",
+        "lat": 43.6651,
+        "lon": -79.4142,
+        "postalCode": "M6G 2P7",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Toronto",
+      "urlname": "rladies-toronto"
+    }
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "id": "268192976",
+    "title": "Introduction to R programming Language ",
+    "description": "Dear all,\n\nThe goal of our first meetup is to become familiar with the basics of R programming language and learn how to use the R Studio environment in order to start your journey with R.\n\nThe workshop will cover:\n*Description of RStudio environment\n* Basic concepts of R language\n* Basic data visualization in R\n\nIf there is still time we will talk about the Rmarkdown package and what R can offer you to produce your work in interactive way.\n\nWe recommend you bring your own laptop where you have\nR and RStudio installed (https://cran.r-project.org/ and https://www.rstudio.com/products/rstudio/download/).\nIn case you want to install Rmarkdown you can follow the instructions at https://bookdown.org/yihui/rmarkdown/installation.html",
+    "status": "PAST",
+    "dateTime": "2020-02-08T11:15:00+04:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-muscat/events/268192976/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 15,
+      "waitlistCount": 0,
+      "totalCount": 15
+    },
+    "venues": [
+      {
+        "id": "26788929",
+        "name": "National Youth Commission",
+        "address": "3017 Way",
+        "city": "Muscat",
+        "state": "",
+        "country": "om",
+        "lat": 23.5826,
+        "lon": 58.3355,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Muscat",
+      "urlname": "rladies-muscat"
+    }
+  },
+  {
+    "id": "267531168",
+    "title": "Introduction to R Language",
+    "description": "In Introduction to R, you will master the basics of this widely used open source language, including factors, lists, and data frames. With the knowledge gained in this workshop, you will be ready to undertake your first very own data analysis and begin your journey with R.",
+    "status": "CANCELLED",
+    "dateTime": "2020-01-11T11:00:00+04:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-muscat/events/267531168/",
+    "featuredEventPhoto": {
+      "id": "487759186",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/a/f/2/highres_487759186.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/a/f/2/600_487759186.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/a/f/2/thumb_487759186.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 25,
+      "waitlistCount": 0,
+      "totalCount": 25
+    },
+    "venues": [
+      {
+        "id": "26788929",
+        "name": "National Youth Commission",
+        "address": "3017 Way",
+        "city": "Muscat",
+        "state": "",
+        "country": "om",
+        "lat": 23.5826,
+        "lon": 58.3355,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Muscat",
+      "urlname": "rladies-muscat"
+    }
+  },
+  {
+    "id": "279447892",
+    "title": "My Stat1 Project With RStudio",
+    "description": "\"My Stat1 Project with RStudio\" is designed to share beginners' experiences in using RStudio. Iman Al-Hasani, a lecturer at the department of statistics at Sultan Qaboos University (SQU) and co-organizer of R-Ladies Muscat introduced RStudio for an introductory Statistics course. She asked students to conduct group-based mini projects and analyze data in RStudio.\n\nIn this meeting, groups of her students are going to share their experiences in basic data analysis using RStudio. The objective of this meet-up is to sensitize the public about role of stat and RStudio in research promotion.\n\nFour projects will be presented and are titled as follows :\n- Cancer around the world.\n- The relation between the hours spent on Social Media and universities students GPA during Fall 2020.\n- Study the impact of the Corona crisis on small shops.\n- The relation between communication companies' packages and promotional advertisements.\n\nThis meeting is organized jointly with the Data Science Analysis Lab (DSAL) and the Statistics Students Group (Stat Group) in SQU.\n\nPREPARATION AND RESOURCE\nThere is nothing to prepare in advance.\n\nONLINE PROGRAMME\nThe event will be held online and will start at 17:00 (Oman time). Please join us via google meet link:\nhttps://meet.google.com/xyx-jkgi-xyu",
+    "status": "PAST",
+    "dateTime": "2021-08-24T17:00:00+04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-muscat/events/279447892/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 17,
+      "waitlistCount": 0,
+      "totalCount": 17
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Muscat",
+      "urlname": "rladies-muscat"
+    }
+  }
+]

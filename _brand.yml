@@ -1,0 +1,40 @@
+color:
+  palette:
+    primary: "#88398A"
+    primary-dark: "#562457"
+    secondary: "#F4A6D7"
+    grey: "#6B7280"
+    grey-dark: "#4B5563"
+    white: "#fEfEfE"
+    black: "#0F172A"
+  background:
+    light: white
+    dark: black
+  foreground:
+    light: black
+    dark: white
+  primary:
+    light: primary
+    dark: primary-dark
+  secondary:
+    light: secondary
+    dark: secondary
+  tertiary:
+    light: grey
+    dark: grey-dark
+  light: white
+  dark: black
+
+logo:
+  small: images/logo_small.png
+  medium: images/logo.png
+  large: images/logo_large.png
+  images:
+    rladies-logo:
+      path: images/logo.png
+      alt: "R-Ladies logo"
+
+meta:
+  name: R-Ladies Global
+  description: "R-Ladies is an organization that promotes gender diversity in the R programming community."
+  link: https://rladies.org

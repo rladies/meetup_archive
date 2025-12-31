@@ -1,0 +1,119 @@
+[
+  {
+    "id": "288610342",
+    "title": "3er. Encuentro Anual RLadies México. Gráficas con ggplot2",
+    "description": "Nota. Programación con horario del centro de México.\n\n**3er Encuentro Anual RLadies México**\n\n* 10:00. Apertura. ¿ Cómo ha crecido R Ladies México?\n* 10:30. Mesa redonda: Multilenguaje (Python, sql, R y su edición en VS Code, RStudio, Posit).\n* 11:00 Talleres simultáneos híbridos\n\nSintaxis de ggplot2 (Cuernavaca /Ciudad Obregón)\nHasta el chisme tiene ciencia (Xalapa, Comitán, San Cristobal)\nHaz tu CV automatizado en Rmarkdown (Querétaro)\n\n* 12:00 Break/ Sesión de convivencia (10 min).\n* 12:10 Mega pláticas ¿Cómo aplican R ciertas especialistas Matemáticas, ciencias sociales, bioinformática, ecología.\n* 12:40 Sesión de networking / Clausura\n\n**TALLER RLadies Cuernavaca/Ciudad Obregón**\nGráficas con ggplot2\n\n**DESCRIPCIÓN**\nEn este taller (que se llevará a cabo en el marco del 3er encuentro anual de RLadies México), mostraremos la estructura general para generar gráficos con ggplot2, en términos de la estética y la geometría, partiendo de un conjunto de datos determinado.\n\n**SOBRE LA PONENTE**\nErnestina Godoy es la Jefa del Departamento de Bioinformática en Enfermedades Infecciosas del Instituto Nacional de Salud Pública, que da apoyo transversal en ámbitos de secuenciación masiva y análisis bioinformático a los investigadores de ese Instituto. Sus líneas de investigación son análisis del repertorio de anticuerpos en condiciones de salud, enfermedad y vacunación, la genómica comparativa de aislados clínicos de importancia en la salud pública, así como Metagenómica aplicada a enfermedades infecciosas. Durante su doctorado formó parte del desarrollo de ImmunediveRsity, un software especializado para el análisis de secuencias de anticuerpos. Sus intereses son la Bioinformática, el Desarrollo de Software, la Visualización de datos y la Enseñanza.\n\n**REQUERIMIENTOS DE SOFTWARE**\n\n* R >=4.0 y RStudio en su versión más actual\n* Paquetes de R: ggplot2, reshape2\n\nPuedes usar la instrucción de instalación:\ninstall.packages(c(\"ggplot2\", \"reshape2\"), dependencies = TRUE)",
+    "status": "PAST",
+    "dateTime": "2022-09-24T08:00:00-07:00",
+    "duration": "PT3H30M",
+    "eventUrl": "https://www.meetup.com/rladies-ciudad-obregon/events/288610342/",
+    "featuredEventPhoto": {
+      "id": "507201479",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/3/e/7/highres_507201479.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/3/e/7/600_507201479.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/3/e/7/thumb_507201479.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 1,
+      "waitlistCount": 0,
+      "totalCount": 1
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Ciudad Obregón",
+      "urlname": "rladies-ciudad-obregon"
+    }
+  },
+  {
+    "id": "296255995",
+    "title": "R-LADIES MÉXICO 4to. Encuentro Anual",
+    "description": "Tendremos nuestro 4to. encuentro anual R-Ladies México, el día 23 de septiembre de 2023, de 10:00 a 13:00 hrs.\n\nAsiste, veremos los logros de los capítulos de R-Ladies, temas de rOpenSci y aplicaciones de R y por supuesto, compartiremos nuestra experiencia en esta gran aventura de aprender en comunidad.",
+    "status": "PAST",
+    "dateTime": "2023-09-23T10:00:00-07:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-ciudad-obregon/events/296255995/",
+    "featuredEventPhoto": {
+      "id": "516028075",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/d/a/b/highres_516028075.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/d/a/b/600_516028075.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/d/a/b/thumb_516028075.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 1,
+      "waitlistCount": 0,
+      "totalCount": 1
+    },
+    "venues": [
+      {
+        "id": "27665953",
+        "name": "Ciudad Obregón",
+        "address": "",
+        "city": "Ciudad Obregón",
+        "state": "",
+        "country": "mx",
+        "lat": 27.4828,
+        "lon": -109.9304,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Ciudad Obregón",
+      "urlname": "rladies-ciudad-obregon"
+    }
+  },
+  {
+    "id": "303485001",
+    "title": "5to. Encuentro Anual de R-Ladies México",
+    "description": "¡Acompáñanos al **5to. Encuentro Anual de R-Ladies México! 🎉💜**\n\nEste **sábado 28 de septiembre** a las **11:00 A.M. (hora CDMX)**, te invitamos a formar parte de una jornada llena de conocimiento y comunidad, donde exploraremos proyectos innovadores liderados por expertas en el uso de R**. 👩‍💻👩‍🔬**\n\n**🚀** Tendremos 3 charlas imperdibles con ponentes de primer nivel, quienes compartirán sus avances en:\n\n1. **Investigación** de la enfermedad de Parkinson 🧬\n2. Análisis de las **pasadas elecciones democráticas en México** 🗳️\n3. Cómo y por qué crear tu **primer paquete en R** **📦**\n\n**¡No te lo pierdas!**\nRegístrate y únete a esta comunidad diversa, tendremos espacios de networking. **💪✨**",
+    "status": "PAST",
+    "dateTime": "2024-09-28T10:00:00-07:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-ciudad-obregon/events/303485001/",
+    "featuredEventPhoto": {
+      "id": "523562506",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/c/a/highres_523562506.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/c/a/600_523562506.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/c/a/thumb_523562506.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 1,
+      "waitlistCount": 0,
+      "totalCount": 1
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Ciudad Obregón",
+      "urlname": "rladies-ciudad-obregon"
+    }
+  }
+]

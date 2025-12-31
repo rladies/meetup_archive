@@ -1,0 +1,602 @@
+[
+  {
+    "id": "266387592",
+    "title": "Tercera Reunion R-Ladies Puebla!",
+    "description": "Hola a tod@s! L@s invitamos a nuestra tercer reunión de R-Ladies Puebla. En esta ocasión nos acompañará Elizabeth Valles, estudiante del doctorado en Ciencias Biomédicas del Instituto de Neurobiología de la UNAM. Eli impartirá un taller de introducción a los paquetes ggplot y tidyverse y nos platicará de su experiencia con R y la utilidad del programa en su campo de estudio. Nuestra reunión se llevará a cabo el sábado 23 de noviembre en horario de las 12:30 a 2:30 horas en la Workósfera Coworking - La Paz\n\nRecuerda traer tu laptop y aunque no es necesario saber R es conveniente instalar R (https://cran.r-project.org), RStudio (https://www.rstudio.com/products/rstudio/download/).\n\nAgradeceremos confirmen su asistencia lo más pronto posible.\n\nL@s esperamos!",
+    "status": "PAST",
+    "dateTime": "2019-11-23T12:30:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-puebla/events/266387592/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 10,
+      "waitlistCount": 0,
+      "totalCount": 10
+    },
+    "venues": [
+      {
+        "id": "26240125",
+        "name": "Workósfera Coworking @ Cerro de La Paz, Puebla",
+        "address": "Cholula 35",
+        "city": "Puebla",
+        "state": "Pu",
+        "country": "mx",
+        "lat": 19.0539,
+        "lon": -98.2273,
+        "postalCode": "72160",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Puebla",
+      "urlname": "rladies-puebla"
+    }
+  },
+  {
+    "id": "265262925",
+    "title": "Segunda Reunion R-Ladies Puebla!",
+    "description": "Hola a tod@s! L@s invitamos a nuestra segunda reunión de R-Ladies Puebla la cual consistirá en un taller de R para principiantes. Nuestra reunión se llevará a cabo este viernes 4 de octubre en horario de las 16:00 a 18:00 horas en el Centro de Computo del Instituto de Física “Ing. Luis Rivera Terrazas” de la BUAP.\n\nEn esta ocasión no es necesario que lleves tu laptop ya que el salón cuenta con computadoras disponibles para usar o si gustas puedes traerla.\n\nEl centro de computo cuenta con capacidad para 35 personas, por lo que les agradeceremos confirmen su asistencia lo más pronto posible.\n\nL@s esperamos!",
+    "status": "PAST",
+    "dateTime": "2019-10-04T16:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-puebla/events/265262925/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 12,
+      "waitlistCount": 0,
+      "totalCount": 12
+    },
+    "venues": [
+      {
+        "id": "26656193",
+        "name": "Institute of Physics Ing. Luis Rivera Terrazas",
+        "address": "",
+        "city": "Puebla",
+        "state": "Pu",
+        "country": "mx",
+        "lat": 19.0034,
+        "lon": -98.2019,
+        "postalCode": "72570",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Puebla",
+      "urlname": "rladies-puebla"
+    }
+  },
+  {
+    "id": "264012243",
+    "title": "Primera reunión de R-Ladies Puebla!",
+    "description": "AVISO IMPORTANTE: Por motivos ajenos a los organizadores de la reunión nos vemos en la necesidad de modificar la hora y el lugar de nuestra primer reunión. Nos vemos este sábado 24 de agosto a la 1 pm en Workósfera Coworking ubicados en Ave. 5 Oriente # 612, Barrio de los Sapos\n\nNo olvides llevar tu laptop !!\n\n¿Conoces R? ¿Lo has utilizado o tienes ganas de aprender a usarlo? Únete a la primer reunión de R-Ladies Puebla, donde charlaremos sobre temas generales como la aplicación de R en diferentes ámbitos profesionales.\n\nEl principal objetivo es formar una comunidad de apoyo para aprender a programar y a compartir conocimientos en R en un ambiente tranquilo y amigable.\n\n¿Qué haremos en esta reunión?\n\n-Bienvenida e introducción general acerca de R-Ladies Global\n\n-Breve introducción sobre R\n\n-Brainstorming para próximas reuniones.\n\nUnete con tu laptop. Aunque no es necesario saber R es conveniente instalar R (https://cran.r-project.org) y RStudio (https://www.rstudio.com/products/rstudio/download/) antes del taller.\n\nAmbos son gratis y este es tu primer paso para aprender R! Todos son bienvenidos!",
+    "status": "PAST",
+    "dateTime": "2019-08-24T13:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-puebla/events/264012243/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 13,
+      "waitlistCount": 0,
+      "totalCount": 13
+    },
+    "venues": [
+      {
+        "id": "26553537",
+        "name": "Workósfera Coworking Centro Histórico",
+        "address": "Av 5 Ote 612",
+        "city": "Puebla",
+        "state": "Pu",
+        "country": "mx",
+        "lat": 19.0405,
+        "lon": -98.1949,
+        "postalCode": "72000",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Puebla",
+      "urlname": "rladies-puebla"
+    }
+  },
+  {
+    "id": "273492185",
+    "title": "Importando datos desde hojas de cálculo",
+    "description": "A partir de LatinR nuestra próximo reunión: Importando datos desde hojas de cálculo.\n\nDescripción del taller:\nA menudo se comparten hojas de cálculo con información poco estructurada, o codificada como formato del texto y/o de las celdas que no se trasladan directamente a un objeto de R (ej. celdas de colores para denotar categorías). Ésto resulta en pérdida de información potencialmente relevante, o bien, pérdida de tiempo al tener que interpretar y limpiar manualmente los valores de las celdas. En este taller se enseñará a importar y manejar este tipo de datos a R. Además, se demostrará la lectura y escritura de archivos .xls y .xlsx (paquetes readxl y writexl), el manejo de archivos con múltiples pestañas (paquete purrr), celdas con formato (paquetes tidyxl y unheadr), y la nueva funcionalidad del paquete googlesheets4 que permite leer y escribir en hojas de cálculo en línea, facilitando la colaboración de manera reproducible. Al final del taller, los asistentes serán capaces de compatibilizar el uso de R con las hojas de cálculo en sus flujos de trabajo y colaboraciones.\n\nRequerimientos:\nPara este taller es necesario tener instalado R igual o superior a 3.6 y los paquetes dplyr, readxl, purrr, writexl, tidyxl, googlesheets4, y unheadr (versiones de CRAN).\n\nPonente:\nDr. Luis D. Verde Arregoitia: Biólogo, especialista en mamíferos. Autor de los paquetes unheadr y annotater, que se utilizan para manejar datos desordenados y añadir información sobre librerías externas a código existente. Interesado en la resolución de problemas usando R, en áreas como análisis espacial, deportes, biología evolutiva y videojuegos.\n\nPara más información: https://latin-r.com/",
+    "status": "PAST",
+    "dateTime": "2020-10-01T14:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-puebla/events/273492185/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 50,
+      "waitlistCount": 0,
+      "totalCount": 50
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Puebla",
+      "urlname": "rladies-puebla"
+    }
+  },
+  {
+    "id": "272988011",
+    "title": "Rladies México",
+    "description": "R-Ladies Global es una organización mundial cuya principal misión es promover la diversidad de género en la comunidad del lenguaje de programación R. A mediados de 2017 el primer capítulo de R-Ladies en México se integró a la creciente lista de capítulos de R-Ladies alrededor del mundo. Tres años después, 8 capítulos más se han formado y ahora somos casi 3,000 participantes.\n\nEste año, deseamos unir fuerzas y estrechar lazos reuniendo a las y los miembros de R-Ladies de todo el país en el Primer Encuentro Anual R-Ladies México.\n\nEste jueves 24 de septiembre a las 5:00 pm (Centro de México) te esperamos para crecer y fortalecer la comunidad.\n\nPrograma:\n\n17:00-17:05\nBienvenida\n\n17:05-17:15\nPresentación de la organización R-Ladies\n\n17:15-17:45\nConferencia 1: Estadísticas e historia de los capítulos en México\n\n17:45-18:45\nPanel de discusión: Retos y Perspectivas\n\n18:45-19:00\nCoffee break y networking\n\n19:00-19:30\nSesión de pláticas cortas: Aplicaciones de R\n\n19:30-19:55\nConferencia 2: Cómo crear un nuevo capítulo.\n\n19:55-20:00\nCierre\n\nEste evento se llevará a cabo mediante Zoom, el link para conectarse al evento será enviado por correo electrónico a los asistentes registrados 60 minutos antes de iniciar. Por seguridad de todos, no compartas el link con personas no registradas en el evento.\n\nLes pedimos conectarse 15 minutos antes de la hora de inicio para corroborar su inscripción.\n\nRecuerda leer y atender el código de conducta disponible en https://rladies.org/code-of-conduct/",
+    "status": "PAST",
+    "dateTime": "2020-09-24T17:00:00-05:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-puebla/events/272988011/",
+    "featuredEventPhoto": {
+      "id": "492135605",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/c/f/5/highres_492135605.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/c/f/5/600_492135605.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/c/f/5/thumb_492135605.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 24,
+      "waitlistCount": 0,
+      "totalCount": 24
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Puebla",
+      "urlname": "rladies-puebla"
+    }
+  },
+  {
+    "id": "279331639",
+    "title": "Análisis de Redes con Dra. María Ramos",
+    "description": "Hola a tod@s! L@s invitamos a nuestra reunión de septiembre por Zoom. En esta ocasión nos acompañará Dra. María Ramos, es socióloga y científica de redes. Utiliza la ciencia de las redes para estudiar una amplia gama de temas, incluidas las redes de colaboración, los sistemas socioecológicos, el análisis de textos, los contactos personales y la salud, y los modelos mentales de creencias. Ella es consultora independiente y instructora de RStudio Certificada.\n\nDra. Maria nos impartirá una taller de análisis de redes. Puedes seguirla en Twitter, @mariacramosf o por su página de web: https://mariacramos.com/\n\nNuestra reunión se llevará a cabo el sábado 25 de septiembre a las 11:00 horas (GMT-6 hora de la Ciudad de México) por Zoom.",
+    "status": "PAST",
+    "dateTime": "2021-09-25T11:00:00-05:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-puebla/events/279331639/",
+    "featuredEventPhoto": {
+      "id": "497714295",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/7/d/7/highres_497714295.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/7/d/7/600_497714295.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/7/d/7/thumb_497714295.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 299,
+      "waitlistCount": 13,
+      "totalCount": 299
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Puebla",
+      "urlname": "rladies-puebla"
+    }
+  },
+  {
+    "id": "280699085",
+    "title": "Programadoras Mexicanas: Segundo Encuentro Anual R-Ladies México",
+    "description": "A mediados de 2017 el primer capítulo de R-Ladies en México se integró a la creciente lista de capítulos de R-Ladies alrededor del mundo. En 2021, somos más de 7,000 integrantes en R-Ladies México en 12 capítulos en diferentes ciudades a lo largo de todo el país. Creemos que la visibilización de minorías de género dentro de la comunidad de R es necesario para llegar a una representación significativa, que facilite el desarrollo individual y global en la programación.\n\nEs por eso que por segundo año consecutivo volvemos a unir fuerzas y estrechamos lazos, reuniendo a las/los/les integrantes de R-Ladies en México en nuestro Segundo Encuentro Anual. El objetivo de este año se enfoca en la visibilización de mujeres programadoras. A través de una sesión intensiva, esperamos mostrar y aplaudir el trabajo de diversas mujeres en R como desarrolladoras de paquetes dentro de la comunidad.\n\nSin embargo, también sabemos que estamos en crecimiento y el nivel de los usos de R varían. Por lo anterior, estamos diseñando un programa en el que puedan participar aquellas personas que se integran de manera reciente al mundo de R. De esta manera, se podrá generar una comunidad R en México diversa, donde se busca dar voz a aquellas personas con falta de representación y el apoyo colaborativo persista como la regla más que la excepción.\n\nObjetivos\n\n- Compartir experiencias y retos enfrentados.\n- Escuchar la experiencia de mujeres en el desarrollo de paquetes de R.\n- Empoderar a más mujeres para crear nuevos capítulos.\n- Unir fuerzas para generar conferencias y talleres conjuntos que hagan crecer aún más la comunidad de usuarias y usuarios de R.\n\nPrograma\n\n5:00-5:10 pm: ¿Quiénes somos? R-Ladies México\n5:10-6:10 pm: Talleres:\nVisualización de Datos en R\nDesarrollo de Paquetes en R\n6:10-6:20: Toma de Foto y Break\n6:20-7:30: Perspectivas en el Desarrollo de Paquetes en R\n7:30-8:00 pm:\n¿Cómo abrir un capítulo de R en mi ciudad?\nEvento Social & Trivia",
+    "status": "PAST",
+    "dateTime": "2021-09-24T17:00:00-05:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-puebla/events/280699085/",
+    "featuredEventPhoto": {
+      "id": "498779816",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/e/9/a/8/highres_498779816.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/e/9/a/8/600_498779816.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/9/a/8/thumb_498779816.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 171,
+      "waitlistCount": 20,
+      "totalCount": 171
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Puebla",
+      "urlname": "rladies-puebla"
+    }
+  },
+  {
+    "id": "278050443",
+    "title": "Gráficos animados en R con datos de Netflix ",
+    "description": "Hola a tod@s! L@s invitamos a nuestra reunión de julio por Zoom. En esta ocasión nos acompañará Dra. Ariadna Angulo-Burnet, es\ndoctora en Psicología por la Universitat Autònoma de Barcelona. Profesora Lectora en Universitat Oberta de Catalunya en los Estudios de Psicologia y Ciencias de la Educación y profesora asociada en Universitat Autònoma de Barcelona en Psicometría y Modelos Estadísticos y Psicométricos. Sus principales intereses de investigación están relacionados con la aplicación de psicometría en diversos contextos aplicados (psicología de los medios, psicología de la salud).\n\nDra. Ariadna nos impartirá una taller de gráficos animados con datos de Netflix. Puedes seguirla en Twitter, @AnguloBrunet o por su página de GitHub: https://github.com/angulob.\n\nNuestra reunión se llevará a cabo el sábado 24 de julio a las 12:00 horas (GMT-6 hora de la Ciudad de México) por Zoom.",
+    "status": "PAST",
+    "dateTime": "2021-07-24T12:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-puebla/events/278050443/",
+    "featuredEventPhoto": {
+      "id": "496307081",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/7/e/9/highres_496307081.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/7/e/9/600_496307081.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/7/e/9/thumb_496307081.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 299,
+      "waitlistCount": 313,
+      "totalCount": 299
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Puebla",
+      "urlname": "rladies-puebla"
+    }
+  },
+  {
+    "id": "277634772",
+    "title": "Taller Introductorio de Rmarkdown",
+    "description": "Hola a tod@s! L@s invitamos a nuestra reunión de mayo por Zoom. En esta ocasión nos acompañará María Paula, es economista, utilizadora e instructora certificada de R. Tiene experiencia usando R y Shiny para analizar datos, automatizar flujos de trabajo y producir reportes sobre diferentes temas de economía y políticas públicas. Trabaja actualmente como analista de políticas públicas en la OCDE, después de un par de años trabajando en como consultora en el sector privado. Originaria de Colombia, nos acompaña virtualmente el 8 de mayo desde Paris, Francia.\n\nMaría Paula nos impartirá una taller introductorio de R-Markdown. Puedes seguirla en Twitter, @mapaulacaldas o por su página web mpaulacaldas.com\n\nNuestra reunión se llevará a cabo el sábado 8 de mayo a las 11:00 horas (GMT-6 hora de la Ciudad de México) por Zoom.",
+    "status": "PAST",
+    "dateTime": "2021-05-08T11:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-puebla/events/277634772/",
+    "featuredEventPhoto": {
+      "id": "495949021",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/f/7/d/highres_495949021.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/f/7/d/600_495949021.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/f/7/d/thumb_495949021.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 235,
+      "waitlistCount": 0,
+      "totalCount": 235
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Puebla",
+      "urlname": "rladies-puebla"
+    }
+  },
+  {
+    "id": "276548779",
+    "title": "Análisis de texto y visualización de datos con canciones de Taylor Swift",
+    "description": "Hola a tod@s! L@s invitamos a nuestra reunión de abril por Zoom. En esta ocasión nos acompañará la Ariane Aumaitre Balado, estudiante de doctorado en Ciencias Políticas y Sociales de la European University Institute. Su investigación enfoca en la sustentebilidad de programas sociales desde una perspectiva generacional.\n\nAriane nos impartirá una tutorial de Análisis de texto y visualización de datos con canciones de Taylor Swift. Puedes seguirla en Twitter, @ariamsita o por su página web https://arianeaumaitre.com/\n\nNuestra reunión se llevará a cabo el domingo 25 de abril a las 12:00 horas (GMT-6 hora de la Ciudad de México) por Zoom.",
+    "status": "PAST",
+    "dateTime": "2021-04-25T12:00:00-05:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-puebla/events/276548779/",
+    "featuredEventPhoto": {
+      "id": "494898336",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/7/a/0/highres_494898336.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/7/a/0/600_494898336.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/7/a/0/thumb_494898336.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 298,
+      "waitlistCount": 628,
+      "totalCount": 298
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Puebla",
+      "urlname": "rladies-puebla"
+    }
+  },
+  {
+    "id": "276569770",
+    "title": "Club de Lectura: Advanced R Capítulo 5: \"Control Flow\"",
+    "description": "¡Primer club de lectura de RLadies Mx!\n\nNos entusiasma mucho crear este espacio de lectura, ¡esperamos verles!\n\nEl libro que leeremos será Advanced R de Hadley Wickham (https://adv-r.hadley.nz).\n\nEste libro es ideal si te interesa saber porqué R funciona de la manera que funciona.\n\nEn cada sesión haremos énfasis en los puntos importantes del capítulo en turno, resolveremos algunos ejercicios de este, y entre todxs aclararemos dudas.\n\nLas sesiones serán cada dos semanas, Jueves a las 6:30pm hora central de México.",
+    "status": "PAST",
+    "dateTime": "2021-03-25T18:30:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-puebla/events/276569770/",
+    "featuredEventPhoto": {
+      "id": "494898297",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/7/7/9/highres_494898297.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/7/7/9/600_494898297.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/7/7/9/thumb_494898297.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 53,
+      "waitlistCount": 0,
+      "totalCount": 53
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Puebla",
+      "urlname": "rladies-puebla"
+    }
+  },
+  {
+    "id": "275850449",
+    "title": "Conociendo rOpenSci con la Dra. Melina Vidoni",
+    "description": "Hola a tod@s! L@s invitamos a nuestra primera reunión de R-Ladies Puebla por Zoom. En esta ocasión nos acompañará la Dra. Melina Vidoni, fundadora de R-Ladies Santa Fe y profesora en RMIT University, School of Computing Technologies en Melbourne, Australia. La Dra. Melina es graduada de la Universidad Tecnológica Nacional Regional Santa Fe (UTN FRSF) como Ingeniera en Sistemas de Información, donde también obtuvo su doctorado con máxima calificación. Su area de investigación es ingeniería de software para programación en R.\n\nLa Dra. Vidoni nos impartirá una charla sobre rOpenSci donde actualmente es Editor Asociado. Puedes seguirla en Twitter, @melvidoni o por su página web melvidoni.rbind.io.\n\nNuestra reunión se llevará a cabo el miércoles 24 de febrero a las 18:00 horas (GMT-6 hora de la Ciudad de México) por Zoom.\n\nAgradecemos confirmen su asistencia lo más pronto posible.\n\nL@s esperamos!",
+    "status": "PAST",
+    "dateTime": "2021-02-24T18:00:00-06:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-puebla/events/275850449/",
+    "featuredEventPhoto": {
+      "id": "494414620",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/9/1/c/highres_494414620.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/9/1/c/600_494414620.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/9/1/c/thumb_494414620.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 35,
+      "waitlistCount": 0,
+      "totalCount": 35
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Puebla",
+      "urlname": "rladies-puebla"
+    }
+  },
+  {
+    "id": "284386229",
+    "title": "Usando R y Python",
+    "description": "Hola a tod@s! L@s invitamos a nuestra reunión de abril por Zoom. En esta ocasión nos acompañará **Karina Bartolomé**, es economista y actualmente trabaja como Data Scientist en Ualá. Tiene experiencia usando R y Python para el análisis exploratorio, estadística y modelos de machine learning.\n\nOriginaria de Argentina, nos acompaña virtualmente el 30 de abril desde Argentina. Karina nos impartirá una taller sobre el vínculo entre Python y R y como usarlos juntos. Puedes seguirla en Twitter, @karbartolome o por su página web https://karbartolome-blog.netlify.app/\n\nNuestra reunión se llevará a cabo el sábado 30 de abril a las 12:00 horas (GMT-6 hora de la Ciudad de México) por Zoom.",
+    "status": "PAST",
+    "dateTime": "2022-04-30T12:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-puebla/events/284386229/",
+    "featuredEventPhoto": {
+      "id": "502582898",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/9/7/2/highres_502582898.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/9/7/2/600_502582898.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/9/7/2/thumb_502582898.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 247,
+      "waitlistCount": 0,
+      "totalCount": 247
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Puebla",
+      "urlname": "rladies-puebla"
+    }
+  },
+  {
+    "id": "284386215",
+    "title": "SagemakeR: Machine Learning en R",
+    "description": "Hola a tod@s! L@s invitamos a nuestra reunión de mayo por Zoom. En esta ocasión nos acompañará Bea Hernandez, actualmente trabaja en Paradigma Digital como ML Engineer y es instructora certificada de R. Tiene experiencia usando R, Python, y TensorFlow para codificar inteligencia artificial.\n\nOriginaria de Madrid, España, nos acompaña virtualmente el 26 de marzo desde Madrid.\n\nBea nos impartirá una demostración de como usar Sagemaker con R. Puedes seguirla en Twitter, @chucheria o en GitHub: [https://github.com/chucheria/](https://github.com/chucheria/)\n\nNuestra reunión se llevará a cabo el sábado 26 de marzo a las 11:00 horas (GMT-6 hora de la Ciudad de México) por Zoom.",
+    "status": "PAST",
+    "dateTime": "2022-03-26T11:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-puebla/events/284386215/",
+    "featuredEventPhoto": {
+      "id": "502582734",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/8/c/e/highres_502582734.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/8/c/e/600_502582734.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/8/c/e/thumb_502582734.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 147,
+      "waitlistCount": 0,
+      "totalCount": 147
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Puebla",
+      "urlname": "rladies-puebla"
+    }
+  },
+  {
+    "id": "303569507",
+    "title": "R-Ladies México Encuentro Anual ",
+    "description": "**¡Acompáñanos al 5to Encuentro Anual de R-Ladies México! 🎉💜**\n**Este sábado 28 de septiembre a las 11:00 A.M. (hora CDMX), te invitamos a formar parte de una jornada llena de conocimiento y comunidad, donde exploraremos proyectos innovadores liderados por expertas en el uso de R. 👩‍💻👩‍🔬**\n**🚀 Tendremos 3 charlas imperdibles con ponentes de primer nivel, quienes compartirán sus avances en:**\n\n1. **Investigación de la enfermedad de Parkinson 🧬**\n2. **Análisis de las pasadas elecciones democráticas en México 🗳️**\n3. **Cómo y por qué crear tu primer paquete en R 📦**\n\n**¡No te lo pierdas!**\n**Regístrate y únete a esta comunidad diversa, tendremos espacios de networking. 💪✨**\n(para unirte a la dinámica de networking llena [este formulario](https://forms.gle/KM9gEttFohtg8Uh69) )",
+    "status": "PAST",
+    "dateTime": "2024-09-28T11:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-puebla/events/303569507/",
+    "featuredEventPhoto": {
+      "id": "523628886",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/2/b/6/highres_523628886.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/2/b/6/600_523628886.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/2/b/6/thumb_523628886.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 15,
+      "waitlistCount": 0,
+      "totalCount": 15
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Puebla",
+      "urlname": "rladies-puebla"
+    }
+  },
+  {
+    "id": "300314600",
+    "title": "Taller de R-Ladies: csv,conf pre-conference workshop",
+    "description": "Únete a nosotros para un evento previo de R-Ladies con csv,conf. Organizaremos un taller de 2.5 horas y una charla sobre análisis de datos con R y generación de gráficos usando ggplot2, cómo involucrarse con R-Ladies y un adelanto de lo que ofrece csv,conf.\n\nCome Join R-Ladies Puebla for a pre-even with the csv,conf,v8. We will have a 2.5-hour workshop and talk on how to analyze data using R and how to generate graphics using ggplot2, as well as how to get involved with R-Ladies.\n\nMore information about the conference can be found here: https://csvconf.com/\n\n> Más información sobre la conferencia aquí: https://csvconf.com/",
+    "status": "PAST",
+    "dateTime": "2024-05-28T12:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-puebla/events/300314600/",
+    "featuredEventPhoto": {
+      "id": "520311199",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/7/f/f/highres_520311199.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/7/f/f/600_520311199.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/7/f/f/thumb_520311199.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 29,
+      "waitlistCount": 0,
+      "totalCount": 29
+    },
+    "venues": [
+      {
+        "id": "27789514",
+        "name": "Ciudad Universitaria",
+        "address": "",
+        "city": "Puebla",
+        "state": "",
+        "country": "mx",
+        "lat": 19.0027,
+        "lon": -98.198,
+        "postalCode": "72592",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Puebla",
+      "urlname": "rladies-puebla"
+    }
+  }
+]

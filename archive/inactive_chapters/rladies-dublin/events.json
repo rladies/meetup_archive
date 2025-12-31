@@ -1,0 +1,857 @@
+[
+  {
+    "id": "244001325",
+    "title": "R-Ladies November Meetup - My 1st Shiny App",
+    "description": "Plan of the evening\n\n18:00 - 18:30 Networking\n18:30 - 19:30 Shiny App mini-workshop (Jo Niec)\n19:30 - 20:00 Wrap up and questions\n\nLooking forward to seeing you!",
+    "status": "PAST",
+    "dateTime": "2017-11-29T18:00:00Z",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-dublin/events/244001325/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 28,
+      "waitlistCount": 0,
+      "totalCount": 28
+    },
+    "venues": [
+      {
+        "id": "24361428",
+        "name": "Bank of Ireland",
+        "address": "Bank of Ireland, 1 Grand Canal Square, Grand Canal Quay, Dublin, Ireland",
+        "city": "Dublin",
+        "state": "",
+        "country": "ie",
+        "lat": 53.3498,
+        "lon": -6.2603,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Dublin",
+      "urlname": "rladies-dublin"
+    }
+  },
+  {
+    "id": "243768403",
+    "title": "Linear regression with R",
+    "description": "We hope you can join us next Thursday (26th Oct).\n\nPlan of the evening:\n\n6:30-7:00 Light refreshments and networking\n\n7:00-7:10 R-Ladies update (Jo Niec)\n\n7:10-8:00 Linear regression with R (Nina Jensen)\n\n8:00-8:30 Questions and wrap-up\n\nNina Jensen (https://www.linkedin.com/in/ninacjensen/) is a physicist turned quantitative analyst and currently works at AA Ireland. She has frequently used linear regression models in her work on insurance discounting and other analytical problems over the past 18 months and will give a brief and basic introduction to linear regression in R. It will consist of a short initial talk that introduces the subject and a few hands-on examples for everyone to try it out themselves. Bring your laptop with an installation of RStudio if you’d like to take part in the workshop.\n\nThanks to Udemy for providing the meeting space and refreshments.\n\nSee you there!",
+    "status": "PAST",
+    "dateTime": "2017-10-26T18:30:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-dublin/events/243768403/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 40,
+      "waitlistCount": 0,
+      "totalCount": 40
+    },
+    "venues": [
+      {
+        "id": "24791710",
+        "name": "Udemy",
+        "address": "1 Lower Grand Canal Street, Dublin 2, The One Building, Level 3",
+        "city": "Dublin",
+        "state": "",
+        "country": "ie",
+        "lat": 53.34,
+        "lon": -6.2431,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Dublin",
+      "urlname": "rladies-dublin"
+    }
+  },
+  {
+    "id": "242816873",
+    "title": "Unravelling census data",
+    "description": "We are delighted to announce our next meet up. Marian Keane will demystify Census data for us.\n\nCensus Small Area Population Statistics provide hugely useful data for each of the 18,600 small areas in Ireland. We can combine this small area data with national two-way tables, using structure preserving estimation techniques, to estimate even more interesting patterns at small area level. In this talk we will look at the estimation of “highest level of education completed” for parents of children aged 0-14, by small area. This type of analysis might support decisions on where to locate homework clubs or other educational supports.\n\nMarian Keane is an actuary whose work is mostly in the health sector. Marian has been using R for the past 3-4 years and has learnt much from meetups of DublinR and, more recently, RLadies.",
+    "status": "PAST",
+    "dateTime": "2017-09-28T18:30:00+01:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-dublin/events/242816873/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 29,
+      "waitlistCount": 0,
+      "totalCount": 29
+    },
+    "venues": [
+      {
+        "id": "24091179",
+        "name": "Nitro EMEA HQ, 4th Floor, 1 Burlington Plaza",
+        "address": "Burlington Road, Dublin",
+        "city": "Dublin",
+        "state": "",
+        "country": "ie",
+        "lat": 53.3312,
+        "lon": -6.2471,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Dublin",
+      "urlname": "rladies-dublin"
+    }
+  },
+  {
+    "id": "240997795",
+    "title": "R-Ladies Dublin - Hands-on knowledge-sharing workshop in R",
+    "description": "We hope you are having a nice summer.\n\nIf you are in Dublin, come to our next meetup.\n\nBased on an idea of one of the participants we are going to hold a hands-on knowledge-sharing workshop. We’ll work in small groups with dublinbikes API data. It’ll be a great learning curve for beginners, as they will get to work with more advanced users and those who have a good level of R skills, will get to work on real life data problems. Let me know if you have any comments or ideas, all welcome.\n\nAlso, if you can think of a catchier title for this sort of a workshop, please shout :)\n\nSee you next Wednesday\n\nBig thanks to Bank of Ireland Grand Canal for hosting us.",
+    "status": "PAST",
+    "dateTime": "2017-07-26T18:30:00+01:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-dublin/events/240997795/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 28,
+      "waitlistCount": 0,
+      "totalCount": 28
+    },
+    "venues": [
+      {
+        "id": "24361428",
+        "name": "Bank of Ireland",
+        "address": "Bank of Ireland, 1 Grand Canal Square, Grand Canal Quay, Dublin, Ireland",
+        "city": "Dublin",
+        "state": "",
+        "country": "ie",
+        "lat": 53.3437,
+        "lon": -6.2393,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Dublin",
+      "urlname": "rladies-dublin"
+    }
+  },
+  {
+    "id": "240739148",
+    "title": "Storytelling based on Gravity Anomaly Data - Thursday 29th June",
+    "description": "Sonya Abbas, Data Scientist at AdaptiveMobile, will tell an interesting story about gravity based on NASA data. Storytelling with data is essential for communicating findings effectively. We will use R to accomplish this task. The meetup will not be coding heavy, we will focus more on the process of getting from raw data to findings.\n\nBig thanks to AIB - Grafton Street branch for hosting our meetup.",
+    "status": "PAST",
+    "dateTime": "2017-06-29T18:30:00+01:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-dublin/events/240739148/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 28,
+      "waitlistCount": 0,
+      "totalCount": 28
+    },
+    "venues": [
+      {
+        "id": "25299869",
+        "name": "AIB  Grafton St",
+        "address": "Grafton St",
+        "city": "Dublin",
+        "state": "",
+        "country": "ie",
+        "lat": 53.3429,
+        "lon": -6.2596,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Dublin",
+      "urlname": "rladies-dublin"
+    }
+  },
+  {
+    "id": "240057256",
+    "title": "R-Ladies May Meetup",
+    "description": "https://secure.meetupstatic.com/photos/event/7/d/6/2/event_461492098.jpeg\n\nWe are going to use NASA landslide data for exploratory analysis and spatial visualisations.\nBring your laptop.\n\nAon Ireland - ACIA are the host of this meetup\n\nhttps://data.nasa.gov/dataset/Global-Landslide-Catalog-Export/dd9e-wu2v/data",
+    "status": "PAST",
+    "dateTime": "2017-05-31T18:30:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-dublin/events/240057256/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 30,
+      "waitlistCount": 0,
+      "totalCount": 30
+    },
+    "venues": [
+      {
+        "id": "24250630",
+        "name": "ACIA - Aon Ireland",
+        "address": "Metropolitan Building, James Joyce Street",
+        "city": "Dublin",
+        "state": "",
+        "country": "ie",
+        "lat": 53.3524,
+        "lon": -6.2542,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Dublin",
+      "urlname": "rladies-dublin"
+    }
+  },
+  {
+    "id": "238614951",
+    "title": "Web scraping with R",
+    "description": "Mihai Todor, Senior Software Engineer at Nitro, Inc., will give us a talk on web crawling with R. It will be a hands-on workshop, you will have a chance to crawl a website and look at the extracted data, so please bring your laptop.",
+    "status": "PAST",
+    "dateTime": "2017-04-26T18:30:00+01:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-dublin/events/238614951/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 37,
+      "waitlistCount": 0,
+      "totalCount": 37
+    },
+    "venues": [
+      {
+        "id": "24718406",
+        "name": "Zalando Ltd.",
+        "address": "3 Grand Canal Quay, Dublin, Irland",
+        "city": "Dublin",
+        "state": "",
+        "country": "ie",
+        "lat": 53.3413,
+        "lon": -6.2397,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Dublin",
+      "urlname": "rladies-dublin"
+    }
+  },
+  {
+    "id": "237924579",
+    "title": "Data Import into R - workshop",
+    "description": "We will look into importing data from various types of files. It will be a hands-on workshop. We will also summarise the data, practice subsetting and look at how to handle missing values.\n\nPlease bring your laptop.",
+    "status": "PAST",
+    "dateTime": "2017-04-05T18:30:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-dublin/events/237924579/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 32,
+      "waitlistCount": 0,
+      "totalCount": 32
+    },
+    "venues": [
+      {
+        "id": "24091179",
+        "name": "Nitro EMEA HQ, 4th Floor, 1 Burlington Plaza",
+        "address": "Burlington Road, Dublin",
+        "city": "Dublin",
+        "state": "",
+        "country": "ie",
+        "lat": 53.3312,
+        "lon": -6.2471,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Dublin",
+      "urlname": "rladies-dublin"
+    }
+  },
+  {
+    "id": "236949368",
+    "title": "R-Ladies Dublin - Introduction to R",
+    "description": "Baby steps to begin with.\n\nYou will need a laptop to attend this workshop.\n\nPrior to the workshop, please install:\n\nR ( https://ftp.heanet.ie/mirrors/cran.r-project.org/) and\n\nR Studio ( https://www.rstudio.com/products/rstudio/download/) .\n\nOn the night we will give you an overview of RStudio, R syntax, data types and basic functions.\n\nPlease answer the question about your familiarity with R to help us prepare the workshop.\n\nBig thanks to nitro (https://www.gonitro.com/) for hosting us!",
+    "status": "PAST",
+    "dateTime": "2017-02-22T18:30:00Z",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-dublin/events/236949368/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 24,
+      "waitlistCount": 0,
+      "totalCount": 24
+    },
+    "venues": [
+      {
+        "id": "24091179",
+        "name": "Nitro EMEA HQ, 4th Floor, 1 Burlington Plaza",
+        "address": "Burlington Road, Dublin",
+        "city": "Dublin",
+        "state": "",
+        "country": "ie",
+        "lat": 53.3312,
+        "lon": -6.2471,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Dublin",
+      "urlname": "rladies-dublin"
+    }
+  },
+  {
+    "id": "235938730",
+    "title": "Inaugural Meetup of R-Ladies Dublin",
+    "description": "See you at our first Meetup this Wednesday.\n\nFirstly, we would like to get to know each other and set plans for the year, so it would be great if all of you could join and share your ideas. Please arrive at 7pm.\n\n7:15 Jo Niec will present the history and mission of R-Ladies as well as the plans for R-Ladies Dublin.\n\n7:30 Sonya Abbas (Data Scientist at AdaptiveMobile) will give you a 'Tour of R'\n\nPlease RSVP and fill in this form as soon as you can to help us tailor the content of the introductory presentation: https://goo.gl/forms/TvZGKQiesvJMh1gB2\n\nWe are looking forward to seeing you all there!\n\nBig thanks to our host Zalando for providing state-of-the-art venue and refreshments.",
+    "status": "PAST",
+    "dateTime": "2017-01-25T19:00:00Z",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-dublin/events/235938730/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 25,
+      "waitlistCount": 0,
+      "totalCount": 25
+    },
+    "venues": [
+      {
+        "id": "24718406",
+        "name": "Zalando Ltd.",
+        "address": "3 Grand Canal Quay, Dublin, Irland",
+        "city": "Dublin",
+        "state": "",
+        "country": "ie",
+        "lat": 53.3413,
+        "lon": -6.2397,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Dublin",
+      "urlname": "rladies-dublin"
+    }
+  },
+  {
+    "id": "256525049",
+    "title": "R-Ladies Dublin December meetup",
+    "description": "R-Ladies Dublin next meetup is kindly hosted by Aon's Centre for Innovation and Analytics. Join us for an evening of networking and two exciting talks. We will hear from Chiara Cotroneo on data visualisation with R and Marian Keane on R code efficiencies.\n\nWhen & Where\n\nTuesday, 4th December\nAon's Centre for Innovation and Analytics, Metropolitan Building, James Joyce Street, Dublin 1\n\nThe Agenda\n\n6:00-6:30 Light refreshments & networking\n6:30-7:15 Chiara Cotroneo, Replace Venn diagrams with UpSetR\n7:15-8:00 Marian Keane, How to write efficient R code and reduce run times\n\nThe Speakers & Talks\n\nChiara Cotroneo, PhD Student, Computational Biology at University College Dublin\nChiara is working on the development of statistical methods for the analysis of bacterial genomes. Chiara had previously worked at Instituto dei Tumori di Milano, one of the main Italian institutions for cancer research and therapy. She was in charge of interpreting genomic and clinical patient data. Chiara has been using R for data analysis since 2010. In recent years she has mainly focused on R as a tool to produce beautiful (and informative!) data visualisations.\n\nReplace Venn diagrams with UpSetR\nOne of the common issues in data analysis is to efficiently represent overlap between various classes of objects. The most widespread tool for the task, Venn diagrams, often have poor informative value or are hard to interpret. In this talk, Chiara will introduce UpSetR, originally developed for the analysis of genomic datasets, that provides a great alternative to Venn diagrams.\n\nMarian Keane, Senior Consultant Analyst at Presidion, Version 1 Company\nMarian works with public and commercial organisations to leverage the power of data in order to realise business goals. Marian had previously worked as an independent consultant, data scientist, and actuary.\n\nHow to write efficient R code and reduce run times\nIn this talk, Marian will look at techniques to make R code more efficient and reduce run times. We will try out different algorithms on the same data set to see the difference in run times.\n\nBring your laptop if you want to try out yourself what the speakers will talk about.",
+    "status": "PAST",
+    "dateTime": "2018-12-04T18:00:00Z",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-dublin/events/256525049/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 39,
+      "waitlistCount": 0,
+      "totalCount": 39
+    },
+    "venues": [
+      {
+        "id": "24250630",
+        "name": "ACIA - Aon Ireland",
+        "address": "Metropolitan Building, James Joyce Street",
+        "city": "Dublin",
+        "state": "",
+        "country": "ie",
+        "lat": 53.3524,
+        "lon": -6.2542,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Dublin",
+      "urlname": "rladies-dublin"
+    }
+  },
+  {
+    "id": "254801839",
+    "title": "Diversity in Data R workshop",
+    "description": "In cooperation with other tech meetup groups from Dublin we are organising an R workshop.\n\nR Beginners workshop will be brought to you by Dr Isabella Gollini.\n\nRSVP and more details: https://ti.to/coding-grace/diversity-in-data-workshop-2018/en\n\nTickets cost 10 euro and there’s a limit of 25 attendees",
+    "status": "PAST",
+    "dateTime": "2018-09-22T09:30:00+01:00",
+    "duration": "PT8H30M",
+    "eventUrl": "https://www.meetup.com/rladies-dublin/events/254801839/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 1,
+      "waitlistCount": 0,
+      "totalCount": 1
+    },
+    "venues": [
+      {
+        "id": "24070932",
+        "name": "DCU Innovation Campus",
+        "address": "Old Finglas Road,  Glasnevin",
+        "city": "Dublin",
+        "state": "",
+        "country": "ie",
+        "lat": 53.377,
+        "lon": -6.2738,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Dublin",
+      "urlname": "rladies-dublin"
+    }
+  },
+  {
+    "id": "251053336",
+    "title": "How to create choropleth maps in R",
+    "description": "Our next meetup will be on Tuesday 19th June. It would be great if you could join us.\n\nThe plan for the evening:\n18:00-18:30 Refreshments & networking\n18:30-18:45 Intro and shout outs\n18:45-20:00 Presentation/workshop - How to create choropleth maps in R - Jillian Delaney (feel free to bring your laptops to reproduce Jillian's code)\n20:00-20:15 Q&A and wrap up\n\nOur guest speaker Jillian Delaney will explain what choropleth maps are, when to use them and how to create them in R. She is currently working on a project on tourism in Ireland where choropleth maps have proved invaluable. They are a very efficient data visualisation technique. Here are some examples: https://www.r-graph-gallery.com/chloropleth-map/ (don't mind the typo in the link! it is c-h-o-r-o-p-l-e-t-h :)\n\nJillian is a statistician in the Methodology Division of the Central Statistics Office. Prior to that she was a programmer. Jillian studied Mathematics and Philosophy at University College Cork. She has a master's degree in Official Statistics from the University of Southampton and currently is undertaking a part time PhD in Social Statistics. Her research topic is small area estimation methods that are a powerful way to bridge gaps in data. Jillian works with tools such as R, SAS, SPSS and previously Python.\nOutside of work, she enjoys travelling in Ireland and abroad, yoga, meditation, theatre and music, including playing the Irish harp.\n\nBig thanks to ACIA for hosting and sponsoring the meetup!",
+    "status": "PAST",
+    "dateTime": "2018-06-19T18:00:00+01:00",
+    "duration": "PT2H30M",
+    "eventUrl": "https://www.meetup.com/rladies-dublin/events/251053336/",
+    "featuredEventPhoto": {
+      "id": "471370774",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/a/1/6/highres_471370774.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/a/1/6/600_471370774.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/a/1/6/thumb_471370774.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 26,
+      "waitlistCount": 0,
+      "totalCount": 26
+    },
+    "venues": [
+      {
+        "id": "24250630",
+        "name": "ACIA - Aon Ireland",
+        "address": "Metropolitan Building, James Joyce Street",
+        "city": "Dublin",
+        "state": "",
+        "country": "ie",
+        "lat": 53.3524,
+        "lon": -6.2542,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Dublin",
+      "urlname": "rladies-dublin"
+    }
+  },
+  {
+    "id": "250552987",
+    "title": "Women in Tech Meet Up Summit",
+    "description": "This is a shout out for Women in Tech Meetup Sumit.\n\nAll Dublin meetup groups, that have made diversity in tech their main focus, get together this May 15th at Workday.\n\nMore details and RSVP via eventbrite: https://bit.ly/2K1pCYQ",
+    "status": "PAST",
+    "dateTime": "2018-05-15T18:30:00+01:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-dublin/events/250552987/",
+    "featuredEventPhoto": {
+      "id": "470903940",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/d/8/4/highres_470903940.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/d/8/4/600_470903940.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/d/8/4/thumb_470903940.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 1,
+      "waitlistCount": 0,
+      "totalCount": 1
+    },
+    "venues": [
+      {
+        "id": "24120954",
+        "name": "Workday",
+        "address": "Kings Building, May Lane, Smithfield, Dublin 7",
+        "city": "Dublin",
+        "state": "",
+        "country": "ie",
+        "lat": 53.3498,
+        "lon": -6.2603,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Dublin",
+      "urlname": "rladies-dublin"
+    }
+  },
+  {
+    "id": "249718844",
+    "title": "How to do Sentiment Analysis in R? ",
+    "description": "We will manage RSVP to the May meetup via eventbrite. The number of tickets is limited to 20, so please update us if you can no longer attend so others could take part in the event.\nhttps://www.eventbrite.ie/e/r-ladies-dublin-may-meet-up-tickets-45629041692\n\nR-Ladies Dublin May Meet-up is in partnership with Quantcast Women Network.\n\nJoin us for an evening of networking and presentations on analysis with R. We will have two guest speakers:\n\nMeabh Stranney will share how she uses R in her role of Senior Data Analyst at Quantcast.\n\nAnna Szabelska will demystify sentiment analysis in R. Anna will share a couple of exaples where sentiment analysis can be used. She will also demo how to prepare the textual data, how to read it into R and how to cleanse it, what R packages and dictionaries to use. Lastly she will explain how to best visualise the results and interpret them.\nAnna is in the last year of her PhD in Cognitive Science. She is also a method consultant in the Psychological Science Accelerator, youth STEM ambassador, an instructor for Code First: Girls, and Code Club Holywood.\n\nSchedule\n18:00-18:30 Networking and light refreshments\n\n18:30-19:45 Presentations\n\n19:45-20:00 Q&A and wrap up",
+    "status": "PAST",
+    "dateTime": "2018-05-10T18:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-dublin/events/249718844/",
+    "featuredEventPhoto": {
+      "id": "470637541",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/e/0/c/5/highres_470637541.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/e/0/c/5/600_470637541.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/0/c/5/thumb_470637541.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 1,
+      "waitlistCount": 0,
+      "totalCount": 1
+    },
+    "venues": [
+      {
+        "id": "25817899",
+        "name": "Quantcast",
+        "address": "Beaux Lane House, Lower Mercer Street",
+        "city": "Dublin",
+        "state": "",
+        "country": "ie",
+        "lat": 53.3402,
+        "lon": -6.2643,
+        "postalCode": "meetup1",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Dublin",
+      "urlname": "rladies-dublin"
+    }
+  },
+  {
+    "id": "248971667",
+    "title": "Reproduce your analysis with R Markdown",
+    "description": "Join us at Bank of Ireland, Grand Canal next Tuesday:\n\n18:00-18:30 tea & coffee, networking\n18:30-19:30 Presentation/workshop R Markdown https://rmarkdown.rstudio.com/\n19:30-20:00 Q&A and wrap up\n\nWe will have a guest speaker, Dr Ilaria Torre, who is a researcher in Human-Machine Interaction. Her research focuses on machines that make us trust them and engage with them with our voices, accents, and facial expressions. Ilaria learnt R on her own during her PhD and wrote most of her thesis in R Markdown.\n\nAnd another cool thing is that her research experiment is currently being shown at the Science Gallery, check it out: https://dublin.sciencegallery.com/fake/?page=virtual-human\n\nYou can find out more about Ilaria's research here: http://edge-research.eu/fellows/ilaria-torre/\n\nNext week's slide deck will be available here: https://github.com/pistac/R-ladies_RMarkdown",
+    "status": "PAST",
+    "dateTime": "2018-03-27T18:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-dublin/events/248971667/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 19,
+      "waitlistCount": 0,
+      "totalCount": 19
+    },
+    "venues": [
+      {
+        "id": "24361428",
+        "name": "Bank of Ireland",
+        "address": "Bank of Ireland, 1 Grand Canal Square, Grand Canal Quay, Dublin, Ireland",
+        "city": "Dublin",
+        "state": "",
+        "country": "ie",
+        "lat": 53.3498,
+        "lon": -6.2603,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Dublin",
+      "urlname": "rladies-dublin"
+    }
+  },
+  {
+    "id": "248235415",
+    "title": "Learn to write packages in R",
+    "description": "• What we'll do\nI am really excited about our next meetup and seeing you all again!\n\nLearn to write packages in R\n\n6:30-7pm - networking and light refreshments\n7pm-8:30 - presentation and workshop\n8:30-9pm - Q&A, wrap-up\n\nWe will have a guest speaker, Cormac Nolan, whose background is in software development, data analytics, and teaching.\n\nBig thanks to Tenable https://www.tenable.com/ for hosting our meetup.\n\n• What to bring\nIt's fine if you just want to see the demo, but if you want to participate bring your laptop with the latest versions of R, RStudio installed. Run this command in the RStudio console: install.packages(c(\"devtools\", \"roxygen2\", \"testthat\")). A github account would be a bonus for the more advanced students.\n\n• After you install the packages\nYou’ll need a set of development tools. On Windows, download and install Rtools, and devtools takes care of the rest. On Mac, install the Xcode command line tools. On Linux, install the R development package, usually called r-devel or r-base-dev.\n\n• Tenable offices\nhttps://www.google.ie/maps/dir//53.3465938,-6.2452115/@53.3465609,-6.2448102,20z/data=!4m2!4m1!3e2?hl=en",
+    "status": "PAST",
+    "dateTime": "2018-03-13T18:30:00Z",
+    "duration": "PT2H30M",
+    "eventUrl": "https://www.meetup.com/rladies-dublin/events/248235415/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 26,
+      "waitlistCount": 0,
+      "totalCount": 26
+    },
+    "venues": [
+      {
+        "id": "25766009",
+        "name": "Tenable",
+        "address": "81A Campshires, Sir John Rogerson’s Quay",
+        "city": "Dublin",
+        "state": "",
+        "country": "ie",
+        "lat": 53.3464,
+        "lon": -6.2461,
+        "postalCode": "meetup1",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Dublin",
+      "urlname": "rladies-dublin"
+    }
+  },
+  {
+    "id": "261637456",
+    "title": "An introduction to Random Forests using R - RLadies June meetup",
+    "description": "Our next meetup is on Monday, 24th June, kicking off at 6:30pm.\n\nThe folks at NewsWhip are hosting us again at their offices on 47 Merrion Square. Massive thanks to NewsWhip for your on-going support!\n\nWe will get stuck into random forests. I am delighted that Bruna Wundervald offered to give a talk-workshop.\nBruna is a Ph.D. candidate in Bayesian Machine Learning at the Hamilton Institute, in the National University of Ireland Maynooth. She is a member and co-organiser of the Curitiba and São Paulo R-Ladies chapters in Brazil. She's also active in the worldwide R community. Her current work is focused primarily on developing new machine learning methods following the Bayesian paradigm, variational inference, and multivariate statistics, as well as implementing the methods in different programming languages. She's awesome!\n\nAgenda:\n18:30 Networking - ask another participant about their latest project in R and if they don't use R, ask why they'd like to learn R.\n19:00 Welcome, Jo Niec, R-Ladies Dublin\n19:05 Tech stack at NewsWhip, Damien Marshall, Head Of Engineering at NewsWhip\n19:15 An introduction to Random Forests using R, Bruna Wunderwald, NUI Maynooth\nThis talk-workshop is suited to all levels of R. What you can expect from it?\n- an overview of the theory of tree based models: decision trees and random forests\n- you will learn how to implement and interpret random forests in R",
+    "status": "PAST",
+    "dateTime": "2019-06-24T18:30:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-dublin/events/261637456/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 52,
+      "waitlistCount": 0,
+      "totalCount": 52
+    },
+    "venues": [
+      {
+        "id": "26180835",
+        "name": "NewsWhip",
+        "address": "47 Merrion Square",
+        "city": "Dublin",
+        "state": "al",
+        "country": "ie",
+        "lat": 53.3383,
+        "lon": -6.248,
+        "postalCode": "meetup1",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Dublin",
+      "urlname": "rladies-dublin"
+    }
+  },
+  {
+    "id": "258645583",
+    "title": "Deep Learning in R",
+    "description": "!!! PLEASE NOTE -- CHANGE OF DATE -- Thursday, March 21st !!!\n\nI look forward to seeing you at the next MeetUp. We will dive into deep learning for the first time! Our presenter, Anjali Karimpil, is passionate about machine learning and I am very grateful that she kindly offered to share her knowledge and experience with us.\n\nAgenda\n6:30-7:00 Networking\n7:00-7:15 Welcome & set-up (you'll have time to set up your laptop)\n7:15-9:00 Deep Learning in R, Anjali Karimpil\n\nAnjali is an Analytics professional with 6 years experience, and currently works at KPMG in Risk Consulting. She also loves all things food, books, and running. You can follow her on Twitter @anjalisebastian.\n\nAnjali's presentation will be divided into two parts. In the first part she will give an overview of Deep Learning, its applications and neural networks. In the second part, you will get a first-hand experience of building a neural network using R. Basic stats knowledge is assumed of the audience.\n\nThis MeetUp will be hands-on and workshop-style. Bring your laptops if you want to build your first machine learning model in R.\n\nVenue\nIntercom\nStephen Court\n18-21 St. Stephen's Green\nDublin 2\n\nHuge thanks to Intercom for hosting our Meetup <3",
+    "status": "PAST",
+    "dateTime": "2019-03-21T18:30:00Z",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-dublin/events/258645583/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 60,
+      "waitlistCount": 7,
+      "totalCount": 60
+    },
+    "venues": [
+      {
+        "id": "26091589",
+        "name": "Intercom",
+        "address": "18-21 Saint Stephen's Green",
+        "city": "Dublin 2",
+        "state": "D",
+        "country": "ie",
+        "lat": 53.3394,
+        "lon": -6.2577,
+        "postalCode": "D02 N960",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Dublin",
+      "urlname": "rladies-dublin"
+    }
+  },
+  {
+    "id": "258645562",
+    "title": "Create great data visualisations with ggplot ",
+    "description": "R-Ladies Dublin next meetup is kindly hosted by NewsWhip.\n\nJoin us for an evening of networking and super-interesting talks.\n\nWhen & Where\n\nThursday, 21st February\nNewsWhip - 47 Merrion Square, Dublin 2\n\nThe Agenda\n\n6:30-7:00 Networking\n7:00-7:15 John Flynn - Demo - Use R to analyse media coverage\n7:15-8:30 Ilaria Torre - Create great data visualisations with ggplot (talk & hands-on programming)\n\nThe Speakers\n\nIlaria Torre - Postdoctoral Research Fellow at Trinity College Dublin\n\nIlaria's research is focused on trust in Human-Machine Interaction. Ilaria has a PhD from the University of Plymouth, during which she learned R and used it on a daily basis to run statistical analyses, create plots, and even write her dissertation. You can find out more about Ilaria's research here: http://edge-research.eu/fellows/ilaria-torre/\n\nIn her talk Ilaria will go through the main concepts behind ggplot and will show us how to create some cool plots. This talk is suitable for beginners of both R and ggplot, but there will be plenty of handy tricks for more advanced users.\n\nJohn Flynn - Insights Analyst at NewsWhip\n\nJohn will demo how he uses R in a production environment to analyse media coverage of candidates for the 2020 American presidential election.\n\n---\n\nIf you want to follow along Ilaria's talk on your laptop, it would be good if you had the latest version of R and ggplot already installed. Ilaria will be using the R Studio interface, but it's optional.\n\nDownload R: https://cran.r-project.org/\n(Optional) download R Studio: https://www.rstudio.com/products/rstudio/download/\n\nTo install ggplot, type the following into the R console and press ENTER after each line:\ninstall.packages(\"ggplot2\")\nlibrary(ggplot2)",
+    "status": "PAST",
+    "dateTime": "2019-02-21T18:30:00Z",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-dublin/events/258645562/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 44,
+      "waitlistCount": 0,
+      "totalCount": 44
+    },
+    "venues": [
+      {
+        "id": "26180835",
+        "name": "NewsWhip",
+        "address": "47 Merrion Square",
+        "city": "Dublin",
+        "state": "al",
+        "country": "ie",
+        "lat": 53.3383,
+        "lon": -6.248,
+        "postalCode": "meetup1",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Dublin",
+      "urlname": "rladies-dublin"
+    }
+  },
+  {
+    "id": "273931447",
+    "title": "Mixed effect models in R",
+    "description": "Join us for a practical session on mixed-effects models in R\n\nThe talk will cover techniques used to implement and run mixed-effects models, specifically Linear Mixed Models (LMM) and Generalized Linear Mixed Models (GLMM) in R. It will also detail assumptions of the tests and common pitfalls in application. You’ll learn about the models in the context of common research examples from the areas of Psychology and Psycholinguistics.\n\nGrab a snack and a drink and dial in on Monday, 23rd November, at 5:15PM (GMT)\n\n5:15-5:20 Welcome\n5:20-5:30 Introductions\n5:30-7:00 Talk and tutorial: Mixed-effects models in R by Natalia Resende\n\nOur speaker Natalia Resende is a Marie Skłodowska-Curie research fellow at Adapt Centre, School of Computing, Dublin City University. Her expertise is in the domains of Psycholinguistics, Natural Language Processing and Machine Translation. More recently, her work focuses on investigating how machine translation systems (such as the popular Google Translate system) impact the processing of English as a second language in the human brain. Natália Resende graduated in English teaching from Federal University of Minas Gerais, Brazil. She has received her PhD in Psycholinguistics from the Federal University of Santa Catarina, Brazil in 2015 and her masters in Natural Language Processing from Wolverhampton University, United Kingdom, in 2009.\n\nThis is a practical session. You’ll need to install RStudio or use R Studio Cloud https://rstudio.cloud/.\n\nWe'll be recording the event for future reference, we hope that’s ok with you.\n\nSee you on the Internet :)\nJo, Paola and Sapna",
+    "status": "PAST",
+    "dateTime": "2020-11-23T17:15:00Z",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-dublin/events/273931447/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 59,
+      "waitlistCount": 0,
+      "totalCount": 59
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Dublin",
+      "urlname": "rladies-dublin"
+    }
+  },
+  {
+    "id": "273875118",
+    "title": "Web scraping using rvest",
+    "description": "Join us for a practical session on web scraping using rvest. Web scraping is a brilliant addition to your data scientist toolbox - it enables you to get large amounts of data for projects with many applications: price comparisons, weather predictions, natural language processing to name a few.\n\nWe have a guest speaker from Chile - Riva Quiroga who is a PhD student in Linguistics and a co-organiser of RLadies Santiago, RLadies Valparaíso and LatinR Conf.\n\nGrab a snack or a drink and dial in on Monday, 19th October, at 5:15PM (GMT+1)\n\n5:15-5:20 Welcome\n5:20-5:30 Introductions\n5:30-7:00 Talk and tutorial: Web scraping using rvest by Riva Quiroga\n\nThis is a practical session. You’ll need to install RStudio and the following packages: tidyverse, janitor, robotstxt, polite and tidytext. Post a question below if you need help installing it.\n\nWe'll be recording the event for future reference, we hope that’s ok with you.\n\nSee you on the Internet :)\nJo, Paola and Sapna",
+    "status": "PAST",
+    "dateTime": "2020-10-19T17:15:00+01:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-dublin/events/273875118/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 52,
+      "waitlistCount": 0,
+      "totalCount": 52
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Dublin",
+      "urlname": "rladies-dublin"
+    }
+  },
+  {
+    "id": "272560752",
+    "title": "R at RTÉ - Network Visualisation and Association Rules",
+    "description": "!!! You'll need to download zoom before the event !!!\nHead over to zoom.us and scroll down to the bottom, you'll see Download in the footer. You want to install the Meetings Client.\n\nTune in for a talk on Network Visualisation and Association Rules.\nThis is our first virtual meetup which we're very excited about and we hope you will be too.\n\nGrab a snack or a drink and join us on Thursday, 20th August, at 5:15PM (GMT+1)\n\n5:15-5:20 Welcome\n5:20-5:30 Introductions\n5:30-6:00 Talk: R at RTÉ - Network Visualisation and Association Rules, Ben Norland, Analytics Lead at RTE\n6:00-6:15 Q&A\n\nAbout Ben Norland\nBen Norland is Analytics Lead in the Insights team at RTÉ Ireland's National Television and Radio Broadcaster.\nBen’s objective is developing data-driven solutions, which solve challenges for decision-makers across the organisation. R is his core analytics tool, and he has been using it for 6 years.\n\nAbout the talk\nA few months ago, Ben was confronted with the exciting challenge to use his data analytics knowledge to increase viewer engagement and retention on the RTÉ Player platform.\nThe solution he and the Team provided had impressive outcomes in terms of both operational improvements and a shift to a data-led business approach.\nThe project has also secured a Finalist ticket for the next Analytics Institute Awards in the ‘Analytics Innovation’ category to RTÉ.\nDuring our meeting, Ben will introduce us to his innovative model, which is based on network graph visualisations highlighting key overlaps between programme titles available in the RTÉ Player. He will also discuss the ongoing ‘phase 2’ of his project, which deploys Association Rules modelling.\nFinally, Ben will run a demo to show how network maps are built, updated and how their results can be easily interpreted by non-technical users.\n\nWe'll be recording the event for future reference.\n\nSee you on the Internet :)\nJo, Paola and Sapna",
+    "status": "PAST",
+    "dateTime": "2020-08-20T17:15:00+01:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-dublin/events/272560752/",
+    "featuredEventPhoto": {
+      "id": "491805899",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/3/4/b/highres_491805899.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/3/4/b/600_491805899.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/3/4/b/thumb_491805899.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 46,
+      "waitlistCount": 0,
+      "totalCount": 46
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Dublin",
+      "urlname": "rladies-dublin"
+    }
+  },
+  {
+    "id": "268730134",
+    "title": "I'm a Data Scientist, Git me out of here!",
+    "description": "Hello lovely people\n\nWe're back! Our first Meetup of 2020 is next Thursday.\nShout out to our amazing hosts Women@Workday! <3\n\nWe're welcoming back Bruna Wundervald as our speaker. Some of you may remember her great talk on random forests she gave last year.\n\nBruna and I will give a talk on how data scientists work with Git. You can bring your laptop and follow along, because there will be hands-on elements.\n\nThis meetup is aimed at intro/mid-level Data Scientists and Students. You do not need to know R programming to follow along.\nWe prepared material especially for folks who:\n- want to share their work for collaboration with others or to showcase their work\n- want to make their results reproducible (especially for science-related cases)\n- want to learn R from lots of great resources available on GitHub\n\nWe are looking forward to seeing you.\n\nAgenda\n6:00-6:30 arrival and networking\n6:30-6:45 welcome and announcements\n6:45-8:45 talk and demo 'I'm a Data Scientist, Git me out of here!\n\nREAD ON IF YOU WANT TO PARTICIPATE IN THE HANDS-ON PART OF THE MEETUP.\nPrior to the meetup:\n- install git (here are instructions for Mac https://rafalab.github.io/dsbook/accessing-the-terminal-and-installing-git.html and Windows https://rafalab.github.io/dsbook/accessing-the-terminal-and-installing-git.html#terminal-on-windows)\n- create a GitHub account (https://github.com/join)",
+    "status": "PAST",
+    "dateTime": "2020-02-20T18:00:00Z",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-dublin/events/268730134/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 45,
+      "waitlistCount": 0,
+      "totalCount": 45
+    },
+    "venues": [
+      {
+        "id": "26166823",
+        "name": "Workday - Dublin",
+        "address": "Church Street",
+        "city": "Dublin 7",
+        "state": "D",
+        "country": "ie",
+        "lat": 53.3479,
+        "lon": -6.2758,
+        "postalCode": "D07 W310",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Dublin",
+      "urlname": "rladies-dublin"
+    }
+  },
+  {
+    "id": "276245838",
+    "title": "Intro to machine learning",
+    "description": "Join us for an intro session to machine learning.\n\nMachine Learning is a branch of artificial intelligence focussed on building algorithms that learn from previous data in order to make predictions and decisions based on new data. This talk will cover the basic theory of machine learning and introduce both supervised methods and unsupervised methods such as K-means clustering, KNN classification, logistic regression, decision trees and random forests.\n\nGrab a snack and a drink and dial in on Monday, 15th February, at 5:15PM (GMT)\n\n5:15-5:20 Welcome\n5:20-5:30 Introductions\n5:30-7:00 Talk and QA: Intro to machine learning by Fiona Murphy\n\nOur speaker Fiona has been working in data analytics for 3 years, starting off her career in a consulting analytics role at EY and about to begin her next chapter as a customer data analyst at Conjura. She graduated from University College Dublin in 2017 with a Bachelor of Science in Statistics and is currently completing a part time master's in Data Analytics with UCD. Fiona specialises in extracting meaningful insights from data using predictive analytics and machine learning methods.\n\nSee you on the Internet :)\nJo, Paola and Sapna",
+    "status": "PAST",
+    "dateTime": "2021-02-15T17:15:00Z",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-dublin/events/276245838/",
+    "featuredEventPhoto": {
+      "id": "494690782",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/6/5/e/highres_494690782.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/6/5/e/600_494690782.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/6/5/e/thumb_494690782.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 80,
+      "waitlistCount": 0,
+      "totalCount": 80
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Dublin",
+      "urlname": "rladies-dublin"
+    }
+  }
+]

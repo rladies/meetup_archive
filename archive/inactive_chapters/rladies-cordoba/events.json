@@ -1,0 +1,166 @@
+[
+  {
+    "id": "253907903",
+    "title": "Taller de visualización de datos",
+    "description": "Te invitamos al segundo encuentro de R-Ladies Córdoba , el martes 28 de agosto a las 14 hs.\n\nEl tema principal será el uso de ggplot2 para visualizacion de datos. La principal fuente del Taller será el libro R for Data Science (http://r4ds.had.co.nz/) (Grolemund & Wickham, 2017).\n\nEs necesario traer laptop con R y RStudio instalado, y los siguientes paquetes instalados: ggplot2, GGally, ggsci, ggfortify\ninstall.packages(\"tidyverse\")\ninstall.packages(\" GGally \")\ninstall.packages(\" ggsci \")\ninstall.packages(\" ggfortify\")\n\nEs muy importante que des RSVP únicamente si podés asistir porque los lugares son limitados. Si confirmás asistencia pero luego no podés asistir, te pedimos por favor que dejes tu lugar disponible para otra persona. Tenés tiempo de confirmar tu asistencia hasta dos horas antes del comienzo del meetup.\n\nEste encuentro será en la Sala de Reuniones del CICTERRA, Av. Velez Sarsfield 1611 - Ciudad Universitaria\n\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2018-08-28T14:00:00-03:00",
+    "duration": "PT2H30M",
+    "eventUrl": "https://www.meetup.com/muhq_deleted%409919%40notopic%40508502/events/253907903/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 12,
+      "waitlistCount": 0,
+      "totalCount": 12
+    },
+    "venues": [],
+    "group": {
+      "name": "R-Ladies Córdoba",
+      "urlname": "muhq_deleted@9919@notopic@508502"
+    }
+  },
+  {
+    "id": "251063386",
+    "title": "Primera Reunión de R-Ladies Córdoba",
+    "description": "Invitamos a la primera reunión de R-Ladies Córdoba\n\n\"Taller introductorio a R\", para quienes quieran empezar a aprender R o formalizar un poco más los conocimientos sobre este lenguaje.\n\nLas que puedan, traigan sus compus. Si nunca usaste R no hay problema, podemos instalar el software en la reunión.\n\nEste encuentro será en la Incubadora de Empresas de la UNC, Haya de la Torre casi esquina Vélez Sarsfield - Ciudad Universitaria\n\nPor favor, contestá el RSVP! Nos vemos !",
+    "status": "PAST",
+    "dateTime": "2018-06-07T18:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/muhq_deleted%409919%40notopic%40508502/events/251063386/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 27,
+      "waitlistCount": 4,
+      "totalCount": 27
+    },
+    "venues": [
+      {
+        "id": "24142312",
+        "name": "Incubadora de Empresas UNC",
+        "address": "Ciudad Universitaria (atrás de F@MAF)",
+        "city": "Córdoba",
+        "state": "",
+        "country": "ar",
+        "lat": -31.4373,
+        "lon": -64.1946,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Córdoba",
+      "urlname": "muhq_deleted@9919@notopic@508502"
+    }
+  },
+  {
+    "id": "275006376",
+    "title": "Cierre de año!",
+    "description": "¡Se viene el último meetup del año y estamos felices porque lo co-organizamos en conjunto entre los capítulos de Buenos Aires, Bariloche, Mendoza, Ushuaia y Rcia. Ctes!\n\nVamos a aprovechar este último encuentro para repasar lo que hicimos durante este año tan particular. ¡Queremos celebrar el habernos encontrado a distancia con muchísimas personas que forman parte de la comunidad en Argentina, Latinoamérica y el mundo! Si te perdiste algún meetup durante el año, aprovechá para ponerte al día sobre lo que hicimos y los videos y materiales que generamos!\n\n¡También habrá código de R! Ana Laura Diedrichs de R-Ladies Mendoza nos contará sobre Tidymodels\n\nSi te interesa machine learning o ya lo venís usando, {tidymodels} es un conjunto de paquetes que puede ayudarte en tu experimento de aprendizaje automático supervisado. Así sea clasificar imágenes o predecir el precio en el mercado inmobiliario, puedes usar este paquete desde R para implementar tus modelos de aprendizaje automático: desde dejar volar la cabeza con redes neuronales, hasta acampar en bosques aleatorios. {tidymodels} permite implementar un flujo de trabajo ordenado para el entrenamiento y evaluación de tus modelos.\n\nLa charla se titula: “Un tour por tidymodels” y mostraremos algunos ejemplos en código. Está dirigida a quienes:\n\nConocen sobre ML (machine learning) y están buscando una librería para usar.\nHan usado caret u otras librerías de ML en R.\nUsan ML en otros lenguajes y quieren saber de las librerías en R.\nQuieren entender el ecosistema de {tidymodels}.\nO son personas curiosas y quieren tener un vistazo de {tidymodels} y de qué trata.\n\n***IMPORTANTE***\nPara participar poné \"Asistiré\" en este evento y asegurate de tener también instalado Zoom en tu computadora (https://zoom.us/download).\n\nPor razones de seguridad no compartiremos el link para ingresar a Zoom de manera pública. El mismo lunes a las 17:30 hs. vamos a mandar un mail a través de Meetup a todas las personas que confirmaron asistencia con el link para que puedas unirte a la videollamada.",
+    "status": "PAST",
+    "dateTime": "2020-12-07T18:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-cordoba/events/275006376/",
+    "featuredEventPhoto": {
+      "id": "493817712",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/5/3/0/highres_493817712.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/5/3/0/600_493817712.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/5/3/0/thumb_493817712.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 2,
+      "waitlistCount": 0,
+      "totalCount": 2
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Cordoba",
+      "urlname": "rladies-cordoba"
+    }
+  },
+  {
+    "id": "271984839",
+    "title": "Predictive modeling with text using tidy data principles - useR! 2020",
+    "description": "Los capítulos de R-Ladies en Argentina estamos felices de anunciar que Emil Hvitfeldt y Julia Silge se unirán a nosotras para traernos su tutorial \"Predictive modeling with text using tidy data principles\".\n\n¿Alguna vez encontraste datos de texto y sospechaste que había información útil en esos datos?, ¿ Te sentiste con frustración al intentan ver cómo encontrar esa información? ¿Estás familiarizade con los conceptos básicos del modelado predictivo y estás liste para aprender cómo se pueden usar los datos de texto no estructurados para la predicción dentro de los ecosistemas tidyverse y tidymodels?\n\n¿Necesitas un marco flexible para manejar datos de texto que te permitan construir modelos predictivos supervisados?\nLos datos de texto son cada vez más importantes en muchos dominios, y los principios de tidymodels se pueden aplicar a las tareas de procesamiento del lenguaje natural. Esta presentación está diseñada para proporcionar orientación práctica y conocimiento directamente aplicable para científiques de datos y analistas que desean integrar texto en sus proyectos de modelado.\n\nEn este tutorial de 90 minutos, aprende a preprocesar datos de texto para modelar, entrenar modelos y evaluar el rendimiento del modelo. Usaremos diapositivas y codificación en vivo durante el tutorial para recorrer un estudio de caso realista. El tutorial se transmitirá, grabará y tendrá subtítulos en inglés. También habrá materiales de apoyo y código en GitHub para que puedas trabajar después.\n\nEl tutorial está pensando para personas con familiaridad intermedia con R, RStudio, conceptos básicos de modelos de regresión y clasificación y paquetes de tidyverse como dplyr y ggplot2.\n\nComo en todos los eventos de R-Ladies, las personas que participan deben aceptar nuestro Código de Conducta. Para este evento, además adoptamos el Código de Conducta de useR! 2020.\n\n****** IMPORTANTE ******\nPara participar y acceder al link de Zoom que publicaremos media hora antes del evento es necesario que hagas click en el botón \"ASISTIRÉ\".\n\n- English versión\n\nThis useR! 2020 online tutorial is coming Friday, July 24, 2020 at 20:00 UTC The R-Ladies chapters from Argentina are happy to announce that Emil Hvitfeldt and Julia Silge will be joining us to run their tutorial \"Predictive modeling with text using tidy data principles\".\n\nHave you ever encountered text data and suspected there was useful insight latent within it but felt frustrated about how to find that insight?\nAre you familiar with the basics of predictive modeling, and ready to learn how unstructured text data can be used for prediction within the tidyverse and tidymodels ecosystems?\nDo you need a flexible framework for handling text data that empowers you to build supervised predictive models?\nText data is increasingly important in many domains, and tidy modeling principles can be applied to natural language processing tasks. This presentation is designed to provide practical guidance and directly applicable knowledge for data scientists and analysts who want to integrate text into their modeling pipelines.\n\nIn this 90-minute tutorial, learn how to preprocess text data for modeling, train models, and evaluate model performance. We will use slides and live coding during the tutorial to walk through a realistic case study. The tutorial will be streamed, recorded, and captioned, and there will be supporting materials and code on GitHub for you to work through afterward.\n\nThe tutorial is intended for people with intermediate familiarity with R, RStudio, basics of regression and classification modeling, and tidyverse packages such as dplyr and ggplot2.\n\nAs every R-Ladies event, all participants are required to agree to the Code of Conduct. In addition, we also adopt the useR! 2020 Code of Conduct.\n\n****** NOTICE ******\nTo participate and accesses to the Zoom link that will be published 30 minutes before the meetup, you have to click on the ATTEND button.",
+    "status": "PAST",
+    "dateTime": "2020-07-24T17:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-cordoba/events/271984839/",
+    "featuredEventPhoto": {
+      "id": "491365684",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/4/5/4/highres_491365684.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/4/5/4/600_491365684.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/4/5/4/thumb_491365684.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 16,
+      "waitlistCount": 0,
+      "totalCount": 16
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Cordoba",
+      "urlname": "rladies-cordoba"
+    }
+  },
+  {
+    "id": "271568343",
+    "title": "Cómo hacer una reunión virtual inolvidable (sin morir en el intento)",
+    "description": "Aunque no es posible reunirnos en persona, la magia de R-Ladies no se detiene y hace posible los encuentros virtuales. En este meetup te contaremos algunos trucos y herramientas para que cualquier evento virtual interactivo (por ejemplo, clase, taller o panel online) sea un éxito sin estrés adicional al hacerlo. Si organizas meetups de R-Ladies, encontrarás dónde y cómo acceder a la infraestructura que te permitirá organizar meetups online para tu capítulo. Si no organizas meetups de R-Ladies, también encontrarás material útil para todo tipo de evento online que organices o del que participes.\n\nEstos contenidos nos los traen R-Ladies latinoamericanas, en su mayoría certificadas para enseñar por RStudio Education y The Carpentries. La mayoría también es parte de MetaDocencia, una organización que desde fines de marzo realizó más de 25 talleres interactivos enseñando a enseñar online a más de 300 docentes hispanohablantes con excelentes resultados. Todas tienen vasta experiencia teletrabajando y enseñando online.\n\nOradoras: Yanina Bellini Saibene y Paola Corrales.\n\nOrganizan: Laura Ación, Yanina Bellini Saibene, Paola Corrales, Patricia Loto y Paloma Rojas\n\nPara tener un evento seguro, el link de acceso al evento lo recibirán quienes confirmen su asistencia via RSVP de meetup.com el día del evento",
+    "status": "PAST",
+    "dateTime": "2020-07-01T14:00:00-03:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-cordoba/events/271568343/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 6,
+      "waitlistCount": 0,
+      "totalCount": 6
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Cordoba",
+      "urlname": "rladies-cordoba"
+    }
+  }
+]

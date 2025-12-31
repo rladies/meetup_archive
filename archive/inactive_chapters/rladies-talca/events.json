@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "273486730",
+    "title": "“Expresiones regulares para la limpieza y transformación de datos”  ",
+    "description": "¡Hola!\n\n¡Te damos la bienvenida al taller de LatinR 2020 a través de R-Ladies Talca! Es un agrado contar con tu participación. El taller corresponderá a “Expresiones regulares para la limpieza y transformación de datos”, y estará a cargo de Riva Quiroga de RLadies Valparaíso y Santiago y Stephanie Orellana de RLadies Santiago.\n\nDescripción del taller:\nEste taller tiene por objetivo que sus participantes se familiaricen con el uso de expresiones regulares (conocidas también como \"regex\"). Específicamente, abordaremos el potencial que tienen como parte del proceso de limpieza y transformación de datos usando paquetes del Tidyverse.\nLos ejemplos prácticos se enfocarán en el trabajo con dataframes y archivos de texto, y en cómo utilizar expresiones regulares en conjunto con funciones de los paquetes {stringr}, {dplyr} y {tidyr}.\nPara este taller es necesario tener una versión de R igual o superior a 3.6 y tener instalados RStudio y los paquetes {tidyverse}, {janitor} y la versión en desarrollo de {datos}. Esta última se puede instalar desde GitHub con: remotes::install_github(\"cienciadedatos/datos\").\n\nRequerimientos:\nPara este taller es necesario tener una versión de R igual o superior a 3.6 y tener instalados RStudio y los paquetes {tidyverse}, {janitor} y la versión en desarrollo de {datos}. Esta última se puede instalar desde GitHub con: remotes::install_github(\"cienciadedatos/datos\").\n\nNos vemos el próximo lunes 28 de septiembre a las 10:00 horas. Ésta es una reunión más para aprender sobre R en un ambiente seguro y amigable. Recuerda que R-Ladies se dedica a proporcionar una experiencia libre de acoso para todas las personas participantes, así no es tolerada ninguna forma de acoso. Infórmate más en Código de Conducta\nhttps://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\nTambién debes aceptar el Código de Conducta de LatinR\nhttps://latin-r.com/cdc/\n\n¡¡¡Hasta pronto!!!\n\nR-Ladies Talca\n\nSíguenos en:\n\nWebsite LatinR: https://latin-r.com/\nTwitter: @LatinR_Conf, @RLadiesTalca\nInstagram: @rladiestalca\nFacebook: @RLadiesTalcaChile",
+    "status": "PAST",
+    "dateTime": "2020-09-28T10:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-talca/events/273486730/",
+    "featuredEventPhoto": {
+      "id": "492511105",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/9/8/1/highres_492511105.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/9/8/1/600_492511105.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/9/8/1/thumb_492511105.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 34,
+      "waitlistCount": 0,
+      "totalCount": 34
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Talca",
+      "urlname": "rladies-talca"
+    }
+  },
+  {
+    "id": "271996309",
+    "title": "¡Lanzamiento R-Ladies Talca! ¡Conócenos y participa!",
+    "description": "¡Hola!\n\n¡Te damos la bienvenida al lanzamiento de R-Ladies Talca! Es un agrado contar con tu participación. Nos vemos el miércoles 19 de agosto a las 19:00 horas. Ésta es la primera de muchas reuniones más para aprender sobre R en un ambiente seguro y amigable.\n\nRecuerda que R-Ladies se dedica a proporcionar una experiencia libre de acoso para todas las personas participantes, así no es tolerada ninguna forma de acoso. Infórmate más en Código de Conducta\nhttps://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\n\n¡¡¡Hasta pronto!!!\n\nR-Ladies Talca\n\nSíguenos en:\n\nWebsite RLadies: https://rladies.org/\nTwitter: @RLadiesGlobal, @RLadiesTalca\nInstagram: @rladiesglobal @rladiestalca\nFacebook: @RLadiesTalcaChile",
+    "status": "PAST",
+    "dateTime": "2020-08-19T19:00:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-talca/events/271996309/",
+    "featuredEventPhoto": {
+      "id": "491879610",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/e/8/d/a/highres_491879610.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/e/8/d/a/600_491879610.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/8/d/a/thumb_491879610.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 36,
+      "waitlistCount": 0,
+      "totalCount": 36
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Talca",
+      "urlname": "rladies-talca"
+    }
+  },
+  {
+    "id": "282294983",
+    "title": " Club de Lectura del libro \"Data Feminism\" (Sesión 6)",
+    "description": "¡Hola!\n\nEl próximo jueves 25 de noviembre nos reuniremos para nuestra sexta sesión del club de lectura sobre libro \"Data Feminism\", de Catherine D'Ignazio y Lauren F. Klein. Este libro muestra una nueva forma de abordar la ciencia de datos y la ética de datos basada en ideas del feminismo interseccional. Se puede acceder de forma gratuita en: https://data-feminism.mitpress.mit.edu/\n\n- ¿Cómo funciona el club de lectura?\nDividiremos la lectura del libro en siete sesiones. En cada una de ellas abordaremos un capítulo del libro.\nEsta sexta sesión estará a cargo de Stephanie Orellana (https://twitter.com/sporella). Steph es Ingeniera Agrónoma y Magíster en Recursos Naturales de la PUC, y trabaja en consultoría ambiental. Su área de especialización es la Ciencia de Datos Espaciales. Durante la sesión comentaremos el capítulo 6, \"The Numbers Don't Speak for Themselves\", en el que se presenta el sexto principio del feminismo de datos: considerar el contexto.\n\n- ¿Qué pasa si no puedo leer en inglés?\n¡Puedes participar igual! La persona encargada de cada sesión hará una síntesis de los puntos más importantes, así que incluso si no puedes revisar el libro, podrás aprender sobre este tema :)\n\n- CÓDIGO DE CONDUCTA\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\nEl evento se realizará a través de la plataforma Zoom. El día del taller compartiremos la contraseña en los comentarios del evento.\n\n- HORA\nEl evento se realizará a las 18:00 horas de la zona horaria UTC-3. Puedes revisar a qué hora corresponde en tu zona en el siguiente enlace: https://everytimezone.com/s/2137585e/\n\n¡Te esperamos!\n\n<3",
+    "status": "PAST",
+    "dateTime": "2021-11-25T18:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-talca/events/282294983/",
+    "featuredEventPhoto": {
+      "id": "500437083",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/0/d/b/highres_500437083.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/0/d/b/600_500437083.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/0/d/b/thumb_500437083.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Talca",
+      "urlname": "rladies-talca"
+    }
+  },
+  {
+    "id": "281660592",
+    "title": "Club de lectura del libro \"Data Feminism\" (sesión 5)",
+    "description": "¡Hola !\n\nEl próximo miércoles 27 de octubre nos reuniremos para nuestra quinta sesión del club de lectura sobre libro \"Data Feminism\", de Catherine D'Ignazio y Lauren F. Klein. Este libro muestra una nueva forma de abordar la ciencia de datos y la ética de datos basada en ideas del feminismo interseccional. Se puede acceder de forma gratuita en: https://data-feminism.mitpress.mit.edu/\n\n- ¿Cómo funciona el club de lectura?\nDividiremos la lectura del libro en seis sesiones. En cada una de ellas abordaremos un capítulo del libro. Cada sesión la liderará alguien de nuestra comunidad.\nEsta cuarta sesión estará a cargo de Macarena Valenzuela, Doctora en Ciencia Política. Durante la sesión comentaremos el capítulo 5, \"Unicorns, Janitors, Ninjas, Wizards, and Rock Stars\", en el que se presenta el quinto principio del feminismo de datos: acoger el pluralismo.\n\n- ¿Qué pasa si no puedo leer en inglés?\n¡Puedes participar igual! La persona encargada de cada sesión hará una síntesis de los puntos más importantes, así que incluso si no puedes revisar el libro, podrás aprender sobre este tema :)\n\n- CÓDIGO DE CONDUCTA\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\nEl evento se realizará a través de la plataforma Zoom. El día del taller compartiremos la contraseña en los comentarios del evento.\n\n- HORA\nEl evento se realizará a las 15:00 horas de la zona horaria UTC-3. Puedes revisar a qué hora corresponde en tu zona en el siguiente enlace: https://everytimezone.com/s/256c2958\n\n¡Te esperamos!\n\nR-Ladies <3",
+    "status": "PAST",
+    "dateTime": "2021-10-27T15:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-talca/events/281660592/",
+    "featuredEventPhoto": {
+      "id": "499756153",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/f/1/9/highres_499756153.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/f/1/9/600_499756153.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/f/1/9/thumb_499756153.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Talca",
+      "urlname": "rladies-talca"
+    }
+  },
+  {
+    "id": "281049563",
+    "title": "Club de lectura del libro \"Data Feminism\" (sesión 4)",
+    "description": "¡Hola! ¡Estamos de vuelta!\n\nEl próximo jueves 30 de septiembre nos reuniremos para nuestra cuarta sesión del club de lectura sobre libro \"Data Feminism\", de Catherine D'Ignazio y Lauren F. Klein. Este libro muestra una nueva forma de abordar la ciencia de datos y la ética de datos basada en ideas del feminismo interseccional. Se puede acceder de forma gratuita en: https://data-feminism.mitpress.mit.edu/\n\n- ¿Cómo funciona el club de lectura?\nDividiremos la lectura del libro en seis sesiones. En cada una de ellas abordaremos un capítulo del libro. Cada sesión la liderará alguien de nuestra comunidad. Esta cuarta sesión estará a cargo de Francesca Rosales (https://www.linkedin.com/in/francesca-danae-rosales-rojas-314457b6/), cientista política y estudiante del magíster en Pensamiento Contemporáneo. Durante la sesión comentaremos el capítulo 4, \"4. \"What Gets Counted Counts\", en el que se presenta el cuarto principio del feminismo de datos: repensar los binarismos y las jerarquías.\n\n- ¿Qué pasa si no puedo leer en inglés?\n¡Puedes participar igual! La persona encargada de cada sesión hará una síntesis de los puntos más importantes, así que incluso si no puedes revisar el libro, podrás aprender sobre este tema :)\n\n- CÓDIGO DE CONDUCTA\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\nEl evento se realizará a través de la plataforma Zoom. El día del taller compartiremos la contraseña en los comentarios del evento.\n\n- HORA\nEl evento se realizará a las 17:00 horas de la zona horaria UTC-3. Puedes revisar a qué hora corresponde en tu zona en el siguiente enlace: https://everytimezone.com/s/7ac3db47\n\n¡Te esperamos!\n\n<3",
+    "status": "PAST",
+    "dateTime": "2021-09-30T17:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-talca/events/281049563/",
+    "featuredEventPhoto": {
+      "id": "499119660",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/a/e/c/highres_499119660.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/a/e/c/600_499119660.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/a/e/c/thumb_499119660.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Talca",
+      "urlname": "rladies-talca"
+    }
+  },
+  {
+    "id": "279734988",
+    "title": "Club de lectura del libro \"Data Feminism\" (sesión 3)",
+    "description": "¡Hola!\n\nEl próximo jueves 29 de julio nos reuniremos para nuestra tercera sesión del club de lectura sobre libro \"Data Feminism\", de Catherine D'Ignazio y Lauren F. Klein. Este libro muestra una nueva forma de abordar la ciencia de datos y la ética de datos basada en ideas del feminismo interseccional. Se puede acceder de forma gratuita en: https://data-feminism.mitpress.mit.edu/\n\n- ¿Cómo funciona el club de lectura?\nDividiremos la lectura del libro en seis sesiones. En cada una de ellas abordaremos un capítulo del libro. Cada sesión la liderará alguien de nuestra comunidad.\nEsta primera sesión estará a cargo de Francisca Ortiz (https://twitter.com/FranciscaOrtizR), candidata a Doctora en Sociología por la Universidad de Manchester. Durante la sesión comentaremos el capítulo 3, \"On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints\", en el que se presenta el segundo principio del feminismo de datos: elevar la emoción y la corporalidad (embodiment).\n\n- ¿Qué pasa si no puedo leer en inglés?\n¡Puedes participar igual! La persona encargada de cada sesión hará una síntesis de los puntos más importantes, así que incluso si no puedes revisar el libro, podrás aprender sobre este tema :)\n\n- CÓDIGO DE CONDUCTA\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\nEl evento se realizará a través de la plataforma Zoom. El día del taller compartiremos la contraseña en los comentarios del evento.\n\n- HORA\nEl evento se realizará a las 16:00 horas de la zona horaria UTC-4. Puedes revisar a qué hora corresponde en tu zona en el siguiente enlace: https://everytimezone.com/s/7cb284f2\n\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2021-07-29T16:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-talca/events/279734988/",
+    "featuredEventPhoto": {
+      "id": "497810552",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/5/7/8/highres_497810552.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/5/7/8/600_497810552.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/5/7/8/thumb_497810552.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Talca",
+      "urlname": "rladies-talca"
+    }
+  },
+  {
+    "id": "279466828",
+    "title": "R para Humanidades - sesión 2: de PDF a texto plano",
+    "description": "¡Hola!\n\nEste jueves 15 de julio es el segundo episodio de nuestra serie de talleres sobre R para Humanidades que organizaremos de forma colaborativa los capítulos de RLadies de Ciudad de México, Santiago, Valparaíso, Concepción y Talca. La sesión estará a cargo de Silvia Gutiérrez (https://twitter.com/espejolento) y Riva Quiroga (https://twitter.com/rivaquiroga)\n\nEsta vez nos reuniremos para aprender sobre procesamiento de archivos en pdf. Específicamente, veremos como extraer y limpiar datos en documentos de este tipo.\n\n- ¿Qué necesito para participar?\nPodrás aprovechar mejor este taller si ya tienes un conocimiento básico de R: sabes cómo crear un script, cómo ejecutar el código, cómo instalar paquetes.\n\nAdemás de una versión reciente de R y RStudio, necesitas tener los siguientes paquetes (todos disponibles en CRAN):\n- tidyverse\n- pdftools\n- tesseract\n\n- Horario\nEl evento se realizará a las 11:00 horas de la zona horaria UTC-4. Puedes revisar a qué hora corresponde en tu zona en el siguiente enlace: https://everytimezone.com/s/10c85ce4\n\n- Código de conducta\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\nEl evento se realizará a través de la plataforma Zoom. El día del taller compartiremos la contraseña en los comentarios del evento.\n\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2021-07-15T11:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-talca/events/279466828/",
+    "featuredEventPhoto": {
+      "id": "497524504",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/1/9/8/highres_497524504.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/1/9/8/600_497524504.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/1/9/8/thumb_497524504.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 2,
+      "waitlistCount": 0,
+      "totalCount": 2
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Talca",
+      "urlname": "rladies-talca"
+    }
+  },
+  {
+    "id": "279173339",
+    "title": "Serie de talleres sobre R para humanidades: Sesión 1: Web scraping",
+    "description": "¡Hola!\n\nEste viernes 2 de julio comienza una serie de talleres sobre R para Humanidades que organizaremos de forma colaborativa los capítulos de RLadies de Ciudad de México, Santiago, Valparaíso, Concepción y Talca. Las sesiones estarán a cargo de Riva Quiroga (https://twitter.com/rivaquiroga) y Silvia Gutiérrez (https://twitter.com/espejolento).\n\nEn esta primera sesión aprenderemos a hacer \"web scraping\" (\"raspado web\") utilizando el paquete {rvest}. Durante el taller introduciremos esta técnica y mostraremos paso a paso cómo implementarla.\n\n- ¿Qué necesito para participar?\nPodrás aprovechar mejor este taller si ya tienes un conocimiento básico de R: sabes cómo crear un script, cómo ejecutar el código, cómo instalar paquetes.\n\nAdemás de una versión reciente de R y RStudio, necesitas tener los siguientes paquetes (todos disponibles en CRAN):\n- tidyverse\n- robotstxt\n- janitor\n\n- Horario\nEl evento se realizará a las 11:00 horas de la zona horaria UTC-4. Puedes revisar a qué hora corresponde en tu zona en el siguiente enlace: https://everytimezone.com/s/6eb97481\n\n- Código de conducta\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\nEl evento se realizará a través de la plataforma Zoom. El día del taller compartiremos la contraseña en los comentarios del evento.\n\n¡Te esperamos!\n\nRLadies de Ciudad de México, Santiago, Valparaíso, Concepción y Talca.",
+    "status": "PAST",
+    "dateTime": "2021-07-02T11:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-talca/events/279173339/",
+    "featuredEventPhoto": {
+      "id": "497239163",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/a/d/b/highres_497239163.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/a/d/b/600_497239163.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/a/d/b/thumb_497239163.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Talca",
+      "urlname": "rladies-talca"
+    }
+  },
+  {
+    "id": "279138544",
+    "title": "Club de lectura del libro \"Data Feminism\" (sesión 2)",
+    "description": "¡Hola!\n\nEl próximo jueves 1 de julio nos reuniremos para nuestra segunda sesión del club de lectura sobre libro \"Data Feminism\", de Catherine D'Ignazio y Lauren F. Klein. Este libro muestra una nueva forma de abordar la ciencia de datos y la ética de datos basada en ideas del feminismo interseccional. Se puede acceder de forma gratuita en: https://data-feminism.mitpress.mit.edu/\n\n¿Cómo funciona el club de lectura?\nDividiremos la lectura del libro en seis sesiones. En cada una de ellas abordaremos un capítulo del libro. Cada sesión la liderará alguien de nuestra comunidad.\n\nEsta primera sesión estará a cargo de Sara Acevedo (https://twitter.com/saryace), candidata a Doctora en Ciencias de la Ingeniería. Durante la sesión comentaremos el capítulo 2, \"Collect, Analyze, Imagine, Teach\", en el que se presenta el segundo principio del feminismo de datos: desafiar al poder.\n\n- ¿Qué pasa si no puedo leer en inglés?\n¡Puedes participar igual! La persona encargada de cada sesión hará una síntesis de los puntos más importantes, así que incluso si no puedes revisar el libro, podrás aprender sobre este tema :)\n\n- CÓDIGO DE CONDUCTA\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\n\nEl evento se realizará a través de la plataforma Zoom. El día del taller compartiremos la contraseña en los comentarios del evento.\n\n- HORA\nEl evento se realizará a las 16:00 horas de la zona horaria UTC-4. Puedes revisar a qué hora corresponde en tu zona en el siguiente enlace: https://everytimezone.com/s/50ee54a0\n\n¡Te esperamos!\n\nR-Ladies Talca\nR-Ladies Chile",
+    "status": "PAST",
+    "dateTime": "2021-07-01T16:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-talca/events/279138544/",
+    "featuredEventPhoto": {
+      "id": "497213023",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/f/1/f/highres_497213023.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/f/1/f/600_497213023.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/f/1/f/thumb_497213023.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 7,
+      "waitlistCount": 0,
+      "totalCount": 7
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Talca",
+      "urlname": "rladies-talca"
+    }
+  },
+  {
+    "id": "278343465",
+    "title": "Club de lectura del libro \"Data Feminism\" (sesión 1)",
+    "description": "¡Hola!\n\nEste jueves 3 de junio nos reuniremos para nuestra primera sesión del club de lectura del libro \"Data Feminism\", de Catherine D'Ignazio y Lauren F. Klein. Este libro muestra una nueva forma de abordar la ciencia de datos y la ética de datos basada en ideas del feminismo interseccional. Se puede acceder de forma gratuita en: https://data-feminism.mitpress.mit.edu/\n\n¿Cómo funciona el club de lectura?\nDividiremos la lectura del libro en seis sesiones. En cada una de ellas abordaremos un capítulo del libro. Cada sesión la liderará alguien de nuestra comunidad.\n\nEsta primera sesión estará a cargo de Natalia Riquelme (@NatyRiquelmeS), Administradora Pública, estudiante de Magíster en Estadística y Coordinadora de proyectos del Centro de Estudios de Conflicto y Cohesión Social. Durante la sesión comentaremos el capítulo 1, \"The Power Chapter\", en el que se se presenta el primer principio del feminismo de datos: examinar el poder.\n\n- ¿Qué pasa si no leo en inglés?\n¡Puedes participar igual! La persona encargada de cada sesión hará una síntesis de los puntos más importantes, así que incluso si no puedes revisar el libro, podrás aprender sobre este tema :)\n\n- CÓDIGO DE CONDUCTA\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\nEl evento se realizará a través de la plataforma Zoom. El día del taller compartiremos la contraseña en los comentarios del evento.\n\n¡Nos vemos!\n\nR-Ladies Talca",
+    "status": "PAST",
+    "dateTime": "2021-06-03T16:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-talca/events/278343465/",
+    "featuredEventPhoto": {
+      "id": "496433037",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/f/2/d/highres_496433037.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/f/2/d/600_496433037.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/f/2/d/thumb_496433037.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 8,
+      "waitlistCount": 0,
+      "totalCount": 8
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Talca",
+      "urlname": "rladies-talca"
+    }
+  },
+  {
+    "id": "278343363",
+    "title": "Análisis de encuestas de diseño complejo con R",
+    "description": "¡Hola!\n\nEn nuestra próxima sesión hablaremos de las principales variables que definen un diseño de encuestas complejo, para luego mostrar cómo se analizan en R a través de ejemplos aplicados a los datos de CASEN 2017 y de las encuestas CEP. El taller estará a cargo de Carmen Le Foulon, investigadora del CEP e integrante de la Red de Politólogas.\n\n- REQUERIMIENTOS\nEs necesario tener instalados los paquetes tidyverse, survey y srvyr.\nEste evento se realizará a través de la plataforma Zoom. Unos minutos antes de la reunión compartiremos la clave de acceso en los comentarios del evento.\n\n- CÓDIGO DE CONDUCTA\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\n\n¡Nos vemos!\n\nR-Ladies Talca",
+    "status": "PAST",
+    "dateTime": "2021-05-27T13:00:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-talca/events/278343363/",
+    "featuredEventPhoto": {
+      "id": "496432780",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/e/2/c/highres_496432780.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/e/2/c/600_496432780.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/e/2/c/thumb_496432780.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 7,
+      "waitlistCount": 0,
+      "totalCount": 7
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Talca",
+      "urlname": "rladies-talca"
+    }
+  },
+  {
+    "id": "277841434",
+    "title": " Funciones de R que hacen nuestra vida más simple + LatinR 2021",
+    "description": "¡Hola!\n\nEste viernes 30 de abril nos volvemos a juntar, ahora para hablar de algunas funciones que amamos porque hacen nuestra vida más fácil. Durante la sesión, Sara Acevedo, Stephanie Orellana, Javiera Riffo, Alejandra Tapia Silva y Riva Quiroga nos presentarán algunas funciones no tan conocidas que las ayudan en su trabajo diario. Nos enseñarán a utilizarlas y nos mostrarán algunos casos en los que podrían ser útiles.\nAdemás, hablaremos sobre el llamado a presentación de trabajos de LatinR (https://latin-r.com/), la conferencia latinoamericana sobre R que este año se realizará en modalidad virtual. Revisaremos cuáles son los formatos de presentación y los temas, y resolveremos dudas sobre el proceso de envío de propuestas.\n\n- SOBRE LA ESTRUCTURA DE LA SESIÓN\nEsta sesión está organizada en torno a \"charlas relámpago\" en las que se presentarán las distintas funciones. Los materiales utilizados en cada una de las demostraciones quedará disponible en nuestra cuenta de GitHub una vez terminado el meetup: https://github.com/rladieschile.\nEste evento se realizará a las 17:00 (UTC-4) a través de la plataforma Zoom. Unos minutos antes de la reunión compartiremos la clave de acceso.\n\n- CÓDIGO DE CONDUCTA\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\nEsta es una actividad conjunta de los capítulos de RLadies de Chile (Santiago, Valparaíso, Concepción y Talca).\n\n¡Te esperamos!\n\nR-Ladies Talca",
+    "status": "PAST",
+    "dateTime": "2021-04-30T17:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-talca/events/277841434/",
+    "featuredEventPhoto": {
+      "id": "495975539",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/c/b/3/highres_495975539.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/c/b/3/600_495975539.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/c/b/3/thumb_495975539.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 12,
+      "waitlistCount": 0,
+      "totalCount": 12
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Talca",
+      "urlname": "rladies-talca"
+    }
+  },
+  {
+    "id": "277554926",
+    "title": "Manejo de tablas con {dplyr}",
+    "description": "¡Hola!\n\nSi tienes un manejo básico de R y dplyr, y quieres comenzar a trabajar uniendo tablas de datos, este taller es para ti. Repasaremos las principales funciones de dplyr y utilizaremos inner_join, left_join, full-join y otros más para el manejo de tablas. Esta primera sesión estará a cargo de Javiera Riffo (https://twitter.com/JavieraRiffoTo1), Analista de Inteligencia de Negocios y Magíster en Ciencias de la Ingeniería.\n\n- REQUERIMIENTOS\nAntes del taller es necesario que instales los paquetes {tidyverse}:\n\n> install.packages(\"tidyverse\")\n\nLuego cargar las librerías a utilizar.\n\n> library(tidyverse)\n> library(readr)\n> library(dplyr)\n\nEl conjunto de datos con el que trabajaremos se encuentra en:\nwww.kaggle.com/rtatman/lego-database. Pero, la opción recomendada es exportar el proyecto en donde trabajarás, a partir del siguiente link:\nhttps://rstudio.cloud/project/2432177, el cual incluye los datos a utilizar y los paquetes que debes instalar.\n\n- CÓDIGO DE CONDUCTA\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\n\n¡Te esperamos!\n\nR-Ladies Talca",
+    "status": "PAST",
+    "dateTime": "2021-04-16T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-talca/events/277554926/",
+    "featuredEventPhoto": {
+      "id": "495701392",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/1/b/0/highres_495701392.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/1/b/0/600_495701392.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/1/b/0/thumb_495701392.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 11,
+      "waitlistCount": 0,
+      "totalCount": 11
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Talca",
+      "urlname": "rladies-talca"
+    }
+  },
+  {
+    "id": "276956741",
+    "title": " Introducción a Tidymodels (parte 2): modelos mixtos",
+    "description": "¡Hola!\n\nEsta segunda parte del taller de introducción a Tidymodels estará a cargo de Alejandra Tapia Silva y estará dirigida a personas nuevas en el modelado con efectos mixtos. Cubrirá aspectos introductorios de este tema esperando que sea un punto de partida para el uso de estos modelos con R y {tidymodels}. No se utilizan fórmulas matemáticas, en un intento de hacerlo amigable e intuitivo y así poder dar atención a una audiencia más amplia.\nPara aprovechar mejor este taller, es necesario tener algo de experiencia con análisis exploratorio de datos y modelos lineales, de tal manera de poder transitar sin mucho obstáculo teórico por cada una de las etapas del modelamiento con efectos mixtos. Además, es necesario contar con conocimientos iniciales de algunos paquetes del tidyverse (como {readr} y {dplyr}).\n\n- REQUERIMIENTOS\n\nAdemás de {tidyverse} y {tidymodels}, que utilizamos en la primera parte de este taller, es necesario instalar los siguientes paquetes:\n\n> install.packages(c(\"broom.mixed\",\"lme4\",\"lmerTest\"))\n\nLuego del taller se dejarán referencias para quienes tengan interés en una explicación más detallada sobre modelos mixtos y {tidymodels}, de tal manera que cuando comiencen a usar estas herramientas con sus propios datos dispongan de mayor información. El material del taller quedará disponible en https://github.com/alejandraandrea/slides-xaringan-mixed-models\n\n- CÓDIGO DE CONDUCTA\n\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\n\n¡Te esperamos!\n\nR-Ladies Talca",
+    "status": "PAST",
+    "dateTime": "2021-03-19T18:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-talca/events/276956741/",
+    "featuredEventPhoto": {
+      "id": "495204216",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/e/9/8/highres_495204216.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/e/9/8/600_495204216.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/e/9/8/thumb_495204216.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 15,
+      "waitlistCount": 0,
+      "totalCount": 15
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Talca",
+      "urlname": "rladies-talca"
+    }
+  },
+  {
+    "id": "276847675",
+    "title": "Introducción a Tidymodels",
+    "description": "¡Hola!\n\nSi tienes un manejo básico de R y tidyverse, y quieres comenzar a generar modelos predictivos de regresión o clasificación, este taller es para ti. Veremos las funciones principales del paquete tidymodels y desarrollaremos un modelo lineal de regresión. Esta primera sesión estará a cargo de Sara Acevedo (https://twitter.com/saryace), estudiante de Doctorado en Ciencias de la Ingeniería.\n\n- REQUERIMIENTOS\nAntes del taller es necesario que instales los paquetes {tidyverse} y {tidymodels}, junto con sus dependencias:\n\n> install.packages(c(\"tidyverse\", \"tidymodels\"), dependencies = TRUE)\nAsimismo, es necesario tener los paquetes {remotes} y {ggsignif}, junto con sus dependencias:\n\n> install.packages(c(\"remotes\", \"ggsignif\"), dependencies = TRUE)\n\nAdemás, debes instalar desde GitHub los paquete {datos} y {corrr} (ojo que tienes que tener instalado el paquete {remotes} para que funcionen las siguientes líneas de código):\n\n> remotes::install_github(\"cienciadedatos/datos\")\n\n> remotes::install_github(\"tidymodels/corrr\")\n\n- CÓDIGO DE CONDUCTA\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta:\n\nhttps://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\n\n¡Te esperamos!\n\nR-Ladies Talca",
+    "status": "PAST",
+    "dateTime": "2021-03-12T18:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-talca/events/276847675/",
+    "featuredEventPhoto": {
+      "id": "495113174",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/f/b/6/highres_495113174.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/f/b/6/600_495113174.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/f/b/6/thumb_495113174.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 19,
+      "waitlistCount": 0,
+      "totalCount": 19
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Talca",
+      "urlname": "rladies-talca"
+    }
+  },
+  {
+    "id": "276426201",
+    "title": "¡Expresiones regulares para la limpieza y transformación de datos! ",
+    "description": "¡Hola!\n\nEste viernes 19 de febrero realizaremos la segunda sesión del taller \"Expresiones regulares para la limpieza y transformación de datos\". El taller estará a cargo de Stephanie Orellana (https://twitter.com/sporella) y Riva Quiroga (https://twitter.com/rivaquiroga).\n\n- SOBRE EL TALLER\nEste taller tiene por objetivo que sus participantes se familiaricen con el uso de expresiones regulares (conocidas también como \"regex\"). Específicamente, abordaremos el potencial que tienen como parte del proceso de limpieza y transformación de datos usando paquetes del Tidyverse.\nEn esta segunda sesión, profundizaremos en los contenidos vistos en la primera sesión y además veremos cómo podemos utilizar expresiones regulares para limpiar un archivo PDF.\n\n- REQUERIMIENTOS\nSi no participaste en la primera parte del taller, te sugerimos revisar el video y los materiales, ya que los ejercicios que realizaremos son una continuación de lo visto en esa sesión: https://github.com/rladieschile/taller-regex-2021/blob/main/README.md\nPara este taller es necesario tener una versión de R igual o superior a 3.6 y tener instalados RStudio y los paquetes {tidyverse}, {pdftools}, {janitor} y la versión en desarrollo de {datos}. Esta última se puede instalar desde GitHub con: remotes::install_github(\"cienciadedatos/datos\").\nEl taller se dictará a través de la plataforma Zoom. Media hora antes del evento enviaremos la clave de acceso a la reunión.\n\n- CÓDIGO DE CONDUCTA\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\n\n¡Te esperamos!\n\nR-Ladies Talca",
+    "status": "PAST",
+    "dateTime": "2021-02-19T19:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-talca/events/276426201/",
+    "featuredEventPhoto": {
+      "id": "494794764",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/7/c/c/highres_494794764.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/7/c/c/600_494794764.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/7/c/c/thumb_494794764.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 6,
+      "waitlistCount": 0,
+      "totalCount": 6
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Talca",
+      "urlname": "rladies-talca"
+    }
+  },
+  {
+    "id": "276273207",
+    "title": "¡Expresiones regulares para la limpieza y transformación de datos!",
+    "description": "¡Hola!\n\nTal como prometimos el año pasado, este viernes repetiremos el taller sobre expresiones regulares para la limpieza y transformación de datos que realizamos el año pasado en el marco de LatinR (https://latin-r.com), la conferencia Latinoamericana sobre uso de R en investigación y desarrollo. En esta ocasión, se llevará a cabo en dos sesiones (los viernes 12 y 19 de febrero), para poder cubrir los contenidos con mayor profundidad. El taller estará a cargo de Stephanie Orellana (https://twitter.com/sporella) y Riva Quiroga (https://twitter.com/rivaquiroga).\n\n- SOBRE EL TALLER\nEste taller tiene por objetivo que sus participantes se familiaricen con el uso de expresiones regulares (conocidas también como \"regex\"). Específicamente, abordaremos el potencial que tienen como parte del proceso de limpieza y transformación de datos usando paquetes del Tidyverse.\nLos ejemplos prácticos se enfocarán en el trabajo con dataframes y archivos de texto, y en cómo utilizar expresiones regulares en conjunto con funciones de los paquetes {stringr}, {dplyr} y {tidyr}.\n\n- REQUERIMIENTOS\nPara este taller es necesario tener una versión de R igual o superior a 3.6 y tener instalados RStudio y los paquetes {tidyverse}, {janitor} y la versión en desarrollo de {datos}. Esta última se puede instalar desde GitHub con: remotes::install_github(\"cienciadedatos/datos\").\nEl taller se dictará a través de la plataforma Zoom. Media hora antes del evento enviaremos la clave de acceso a la reunión.\n\n- SOBRE LA SEGUNDA SESIÓN\nLa segunda sesión de este taller se llevará a cabo el viernes 19 de febrero. Para asistir, debes inscribirte en el evento correspondiente, que quedará publicado acá en Meetup a principios de la próxima semana.\n\n- CÓDIGO DE CONDUCTA\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\n\n¡Te esperamos!\n\nR-Ladies Talca",
+    "status": "PAST",
+    "dateTime": "2021-02-12T18:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-talca/events/276273207/",
+    "featuredEventPhoto": {
+      "id": "494692503",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/d/1/7/highres_494692503.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/d/1/7/600_494692503.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/d/1/7/thumb_494692503.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 17,
+      "waitlistCount": 0,
+      "totalCount": 17
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Talca",
+      "urlname": "rladies-talca"
+    }
+  },
+  {
+    "id": "275830025",
+    "title": "Usos de R durante una pandemia",
+    "description": "Estos últimos meses no han sido fáciles :( Por ello, los distintos capítulos de RLadies Chile (Santiago, Valparaíso, Concepción y Talca) decidimos reunirnos para compartir distintas experiencias acerca de cómo R nos ha ayudado a sobrellevar este período: nos permitió concluir proyectos importantes, nos ayudó a desconectarnos de todo lo que estaba pasando al explorar nuevos desafíos, encontramos nuevas formas de colaborar y compartir en nuestros espacios de trabajo y comunidad.\n\n> El programa de esta sesión:\n\n- Stephanie Orellana: \"30 días con R\"\n- Alejandra Tapia Silva: \"Explorando algunas funciones sonoras con R\"\n- Riva Quiroga: \"Cómo certificarse como instructora de RStudio y hacer amigas en el intento\"\n- Sara Acevedo: \"Una Shiny app en reemplazo de pizarra\"\n- Macarena Valenzuela: \"Usando R para terminar una tesis de doctorado en pandemia\"\n\nLuego de las presentaciones tendremos un espacio para preguntas y comentarios. Aprovecharemos este evento para presentar también nuestra programación de actividades del primer semestre.\n\n> ¿Qué necesito para participar?\n\nLo primero, es leer nuestro nuestro código de conducta. Es requisito para asistir estar de acuerdo con él: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\nLo segundo, es asegurarte de que puedes utilizar la aplicación Zoom en tu computador. El día del taller te enviaremos la contraseña para unirte (chequea ese día que el mensaje no se haya ido a la carpeta de spam).\n\n¡Nos vemos!",
+    "status": "PAST",
+    "dateTime": "2021-01-22T18:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-talca/events/275830025/",
+    "featuredEventPhoto": {
+      "id": "494388303",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/c/a/f/highres_494388303.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/c/a/f/600_494388303.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/c/a/f/thumb_494388303.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 10,
+      "waitlistCount": 0,
+      "totalCount": 10
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Talca",
+      "urlname": "rladies-talca"
+    }
+  },
+  {
+    "id": "289426479",
+    "title": "Cosas terroríficas que pasan al trabajar con datos y cómo perderles el miedo",
+    "description": "```\n¡Hola!\nEste lunes 31 retomamos nuestras actividades con una charla y un serie de minitalleres acerca de cómo enfrentar situaciones del terror al trabajar con datos, o cómo abordar datos terroríficos usando R.\nPartiremos la jornada con una charla invitada, que estará a cargo de Silvia Gutiérrez, de RLadies Ciudad de México. Silvia nos contará cómo los métodos más sofisticados y de moda no necesariamente son la mejor solución para resolver problemas de minería de texto, y cómo aprendió esto lidiando con los datos de la investigación doctoral que realiza en el grupo de Humanidades Computacionales de la Universidad de Leipzig.\nA continuación, Alejandra Tapia, profesora del Departamento de Estadística UC, nos mostrará cómo aplicar modelos mixtos a un set de datos sobre arañas usando el paquete {broom.mixed}.\nLuego, Sara Acevedo, investigadora doctoral del Laboratorio de Biofísica de Suelos UC, introducirá el paquete {janitor}, un amuleto protector contra los horrores que a veces nos encontramos al trabajar con archivos Excel.\nEn el siguiente minitaller, Riva Quiroga intentará exorcizar en vivo un archivo Excel con un formato terrorífico, pero muy habitual, para poder hacer accesibles datos terribles que de otro modo no podrían ser analizados.\nFinalmente, Stephanie Orellana, Científica de Datos Espaciales, nos ayudará a perderle el miedo a la terminal y conocer sus poderes mágicos.\n\nCÓDIGO DE CONDUCTA\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\n\nDATOS PRÁCTICOS\nLa actividad comenzará a las 15:00 horas de la zona horaria UTC-3. Puedes revisar a qué hora corresponde eso en tu zona en el siguiente enlace: https://everytimezone.com/s/c5531caa\nEl evento se realizará a través de la plataforma Zoom. El mismo lunes enviaremos a través de Meetup la contraseña para unirse a la sesión.\n\n¡Nos vemos!\n\nR-Ladies\n```",
+    "status": "PAST",
+    "dateTime": "2022-10-31T15:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-talca/events/289426479/",
+    "featuredEventPhoto": {
+      "id": "508182799",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/2/f/highres_508182799.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/2/f/600_508182799.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/2/f/thumb_508182799.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Talca",
+      "urlname": "rladies-talca"
+    }
+  },
+  {
+    "id": "283269422",
+    "title": "Club de lectura del libro \"Data Feminism\" (sesión 7)",
+    "description": "¡Hola!\n\nEl próximo martes 18 de enero nos reuniremos para nuestra última sesión del club de lectura sobre libro \"Data Feminism\", de Catherine D'Ignazio y Lauren F. Klein. Este libro muestra una nueva forma de abordar la ciencia de datos y la ética de datos basada en ideas del feminismo interseccional. Se puede acceder de forma gratuita en: https://data-feminism.mitpress.mit.edu/\n\nEsta sexta sesión estará a cargo de Alejandra Tapia Silva (https://twitter.com/aleants). Alejandra es Doctora en Estadística y fundadora de RLadies Talca. Durante la sesión comentaremos el capítulo 7, \"Show your work\", en el que se presenta el séptimo principio del feminismo de datos: hacer el trabajo visible.\n\n- ¿Qué pasa si no puedo leer en inglés?\n¡Puedes participar igual! La persona encargada de cada sesión hará una síntesis de los puntos más importantes, así que incluso si no puedes revisar el libro, podrás aprender sobre este tema :)\n\n- CÓDIGO DE CONDUCTA\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\nEl evento se realizará a través de la plataforma Zoom. El día del taller compartiremos la contraseña en los comentarios del evento.\n\n- HORA\nEl evento se realizará a las 17:00 horas de la zona horaria UTC-3. Puedes revisar a qué hora corresponde en tu zona en el siguiente enlace: https://everytimezone.com/s/abc5d3de\n\n¡Este es el último capítulo! ¡No te lo pierdas!\n\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2022-01-18T17:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-talca/events/283269422/",
+    "featuredEventPhoto": {
+      "id": "501368883",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/2/b/3/highres_501368883.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/2/b/3/600_501368883.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/2/b/3/thumb_501368883.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Talca",
+      "urlname": "rladies-talca"
+    }
+  },
+  {
+    "id": "293740364",
+    "title": "¿Qué hay de nuevo en el Tidyverse?",
+    "description": "¡Hola!\n\nEl próximo viernes 26 de mayo nos volvemos a juntar, esta vez para aprender sobre las actualizaciones que han tenido algunos de los paquetes del Tidyverse. Nos enfocaremos en los cambios más recientes en tidyr, ggplot2, dplyr y stringr. ¿Todavía no has utilizado la función **pick()**? ¿Quieres aprender más sobre la nueva familia de funciones **separate_\\*()** o saber para qué sirve **guide_axis()**? Entonces no te pierdas este evento :) La sesión estará a cargo de [Sara Acevedo](https://saryace.github.io/), [Stephanie Orellana ](https://sporella.xyz/) y [Riva Quiroga](https://rivaquiroga.cl/).\n\nREQUERIMIENTOS\nPara la sesión solo necesitas tener instalada la última versión del Tidyverse:\n\n\\> install\\.packages\\(\"tidyverse\"\\)\n\nACCESO\nMedia hora antes del inicio publicaremos la contraseña de acceso a Zoom como comentario acá en Meetup.\n\nCÓDIGO DE CONDUCTA\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: [https://guide.rladies.org/about/coc/#spanish](https://guide.rladies.org/about/coc/#spanish)\n\n¡Te esperamos!\n\nR-Ladies",
+    "status": "PAST",
+    "dateTime": "2023-05-26T17:00:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-talca/events/293740364/",
+    "featuredEventPhoto": {
+      "id": "513111851",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/a/8/b/highres_513111851.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/a/8/b/600_513111851.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/a/8/b/thumb_513111851.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 2,
+      "waitlistCount": 0,
+      "totalCount": 2
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": 0,
+        "lon": 0,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Talca",
+      "urlname": "rladies-talca"
+    }
+  },
+  {
+    "id": "293431043",
+    "title": "Introducción al Tidyverse",
+    "description": "¡Hola!\n\nEl próximo viernes 12 de mayo nos reunimos nuevamente para aprender sobre el [Tidyverse](https://www.tidyverse.org/), el universo de paquetes diseñados para hacer ciencia de datos con R. La sesión estará a cargo de [Natalia Riquelme](https://github.com/nataliariquelme), Administradora Pública UdeC y Estudiante de Magíster en Estadística Universidad Católica, y de [Camila Molina](https://www.linkedin.com/in/camila-molina-fern%C3%A1ndez/), Ingeniera Estadística de la Universidad del Bío-Bío.\n\nREQUERIMIENTOS\nPara la sesión solo necesitas tener instalado el Tidyverse:\n\\> install\\.packages\\(\"tidyverse\"\\)\n\nCÓDIGO DE CONDUCTA\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://guide.rladies.org/about/coc/#spanish\n\n¡Te esperamos!\n\nR-Ladies",
+    "status": "PAST",
+    "dateTime": "2023-05-12T19:00:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-talca/events/293431043/",
+    "featuredEventPhoto": {
+      "id": "512745319",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/1/0/7/highres_512745319.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/1/0/7/600_512745319.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/1/0/7/thumb_512745319.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 2,
+      "waitlistCount": 0,
+      "totalCount": 2
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Talca",
+      "urlname": "rladies-talca"
+    }
+  },
+  {
+    "id": "293107685",
+    "title": "Introducción a Tidymodels. Parte 2: modelos mixtos",
+    "description": "¡Hola!\n\nEsta segunda parte del taller de introducción a Tidymodels estará a cargo de Alejandra Tapia Silva y estará dirigida a personas nuevas en el modelado con efectos mixtos. Cubrirá aspectos introductorios de este tema esperando que sea un punto de partida para el uso de estos modelos con R y {tidymodels}. No se utilizan fórmulas matemáticas, en un intento de hacerlo amigable e intuitivo y así poder dar atención a una audiencia más amplia.\n\nPara aprovechar mejor este taller, es necesario tener algo de experiencia con análisis exploratorio de datos y modelos lineales, de tal manera de poder transitar sin mucho obstáculo teórico por cada una de las etapas del modelamiento con efectos mixtos. Además, es necesario contar con conocimientos iniciales de algunos paquetes del tidyverse (como {readr} y {dplyr}).\n\nREQUERIMIENTOS\n\nAdemás de {tidyverse} y {tidymodels}, que utilizamos en la primera parte de este taller, es necesario instalar los siguientes paquetes:\n\\> install\\.packages\\(c\\(\"broom\\.mixed\"\\,\"lme4\"\\,\"lmerTest\"\\)\\)\nLuego del taller se dejarán referencias para quienes tengan interés en una explicación más detallada sobre modelos mixtos y {tidymodels}, de tal manera que cuando comiencen a usar estas herramientas con sus propios datos dispongan de mayor información.\n\nCÓDIGO DE CONDUCTA\n\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://guide.rladies.org/about/coc/#spanish\n\n¡Te esperamos!\n\nR-Ladies",
+    "status": "PAST",
+    "dateTime": "2023-04-28T17:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-talca/events/293107685/",
+    "featuredEventPhoto": {
+      "id": "512363248",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/a/d/0/highres_512363248.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/a/d/0/600_512363248.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/a/d/0/thumb_512363248.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Talca",
+      "urlname": "rladies-talca"
+    }
+  },
+  {
+    "id": "292371239",
+    "title": "Introducción a Tidymodels. Parte 1: modelos lineales",
+    "description": "¡Hola!\n\n¡Volvimos!\n\nSi tienes un manejo básico de R y tidyverse, y quieres comenzar a generar modelos predictivos de regresión o clasificación, este taller es para ti. Veremos las funciones principales del paquete tidymodels y desarrollaremos un modelo lineal de regresión. Esta sesión estará a cargo de Sara Acevedo, Doctora en Ciencias de la Ingeniería.\n\nREQUERIMIENTOS\n\nAntes del taller es necesario que instales los paquetes {tidyverse} y {tidymodels}, junto con sus dependencias:\n\\> install\\.packages\\(c\\(\"tidyverse\"\\, \"tidymodels\"\\)\\, dependencies = TRUE\\)\nAsimismo, es necesario tener los paquetes {remotes} y {ggsignif}, junto con sus dependencias:\n\\> install\\.packages\\(c\\(\"remotes\"\\, \"ggsignif\"\\)\\, dependencies = TRUE\\)\nAdemás, debes instalar desde GitHub los paquete {datos} y {corrr} (ojo que tienes que tener instalado el paquete {remotes} para que funcionen las siguientes líneas de código):\n\\> remotes::install_github\\(\"cienciadedatos/datos\"\\)\n\\> remotes::install_github\\(\"tidymodels/corrr\"\\)\n\nCÓDIGO DE CONDUCTA\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://guide.rladies.org/about/coc/#spanish\n\n¡Te esperamos!\n\nRLadies",
+    "status": "PAST",
+    "dateTime": "2023-03-24T17:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-talca/events/292371239/",
+    "featuredEventPhoto": {
+      "id": "511458141",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/6/d/d/highres_511458141.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/6/d/d/600_511458141.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/6/d/d/thumb_511458141.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Talca",
+      "urlname": "rladies-talca"
+    }
+  },
+  {
+    "id": "302551842",
+    "title": "Cómo preparar tu propuesta de presentación para LatinR 2024",
+    "description": "¡Hola!\n\n¡Ya está abierto el envío de trabajos para [LatinR 2024](https://latinr.org/)! Este año la conferencia latinoamericana sobre R se llevará a cabo en línea, entre el 18 y el 22 de noviembre. Esta modalidad la hace una excelente oportunidad para compartir lo que has estado haciendo con R con el resto de la comunidad, sin tener que moverte de tu casa.\nPero ¿cómo preparar una propuesta de presentación?\n¿Qué debiese incluir el abstract?\n¿La idea que tengo es suficiente como para proponer algo?\n¿Qué pasa si recién estoy empezando a usar R?\n¿Es lo mismo escribir un abstract para una conferencia de R que para una conferencia académica de mi disciplina?\n¿Qué tengo que tener en cuenta si quiero presentar sobre un paquete o una Shiny app que desarrollé?\nPara responder estas y otras preguntas nos reuniremos el próximo jueves 1 de agosto. Durante la sesión, compartiremos recomendaciones para diseñar una propuesta y revisaremos algunos ejemplos de años anteriores para que te hagas una idea de la variedad de temas que es posible presentar.\n\n**¿Y si todavía no tengo una idea concreta para una presentación?**\nNo importa. Durante la sesión hablaremos también sobre cómo generar ideas. Si usas R, seguro que tienes algo para compartir con la comunidad.\n\n**Preparación**\nSi aún no tienes una cuenta en OpenReview (la plataforma que usa LatinR para envíos) te sugerimos hacerte una cuenta ahora, incluso si todavía no tienes claro si vas a enviar una propuesta. OpenReview a veces se demora hasta dos semana en aprobar las cuentas nuevas que se crean con correos personales, así que es mejor no dejar este paso para última hora.\n\n**Acceso**\nMedia hora antes del inicio publicaremos la contraseña de acceso a Zoom como comentario acá en Meetup. El enlace te aparecerá a la derecha, debajo de la fecha del evento, cuando te registres.\n\n**Código de conducta**\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://guide.rladies.org/about/coc/\n\n¡Te esperamos!\n\nR-Ladies",
+    "status": "PAST",
+    "dateTime": "2024-08-01T19:00:00-04:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-talca/events/302551842/",
+    "featuredEventPhoto": {
+      "id": "522646704",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/6/7/0/highres_522646704.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/6/7/0/600_522646704.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/6/7/0/thumb_522646704.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 1,
+      "waitlistCount": 0,
+      "totalCount": 1
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Talca",
+      "urlname": "rladies-talca"
+    }
+  },
+  {
+    "id": "301279050",
+    "title": "Taller de familiarización con R/RStudio",
+    "description": "¡Hola!\n\n## Detalles\n\nEste taller está dirigido a personas que han oído sobre R y que aún no se han adentrado de forma autónoma a explorarlo. Durante el taller nos familiarizaremos con esta herramienta para que puedas iniciar tu camino en el trabajo con este lenguaje de programación.\nAsumiremos cierta familiaridad con otros software de análisis estadístico, aunque este no será en lo absoluto un taller orientado a la ejecución de análisis, sino de demostración de las posibilidades y forma de trabajo del programa.\n\n**Preparación**\nNo es necesario que traigas nada previamente instalado. Durante la sesión mostraremos cómo preparar tu computadora para utilizar R y RStudio.\n\n**Acceso**\nMedia hora antes del inicio publicaremos la contraseña de acceso a Zoom como comentario acá en Meetup.\n\n**Código de conducta**\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://guide.rladies.org/about/coc/\n\n¡Te esperamos!\n\nR-Ladies",
+    "status": "PAST",
+    "dateTime": "2024-05-31T16:00:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-talca/events/301279050/",
+    "featuredEventPhoto": {
+      "id": "521343331",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/0/3/highres_521343331.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/0/3/600_521343331.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/0/3/thumb_521343331.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 2,
+      "waitlistCount": 0,
+      "totalCount": 2
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Talca",
+      "urlname": "rladies-talca"
+    }
+  },
+  {
+    "id": "300074245",
+    "title": "¿Tu código demora tres días en ejecutarse? ¡Es hora de paralelizar!",
+    "description": "¡Hola!\n\n¿Tu código demora mucho tiempo en ejecutarse? Quizás sea la señal que estabas esperando para aprender acerca de paralelizar procesos con el paquete {furrr}. Con este paquete puedes combinar las capacidades de programación funcional de {purrr} con las de procesamiento paralelo de {futures} (**f**utures + p**urrr** = **furrr**).\nLa sesión estará a cargo de Stephanie Orellana, Científica de Datos.\n¡Próximamente agregaremos detalles sobre cómo prepararte para el taller!\n\n**Código de conducta**\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando [nuestro código de conducta](https://guide.rladies.org/about/coc/#spanish).\n\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2024-04-05T17:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-talca/events/300074245/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 1,
+      "waitlistCount": 0,
+      "totalCount": 1
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Talca",
+      "urlname": "rladies-talca"
+    }
+  },
+  {
+    "id": "298630664",
+    "title": "¿Escribiste el mismo código tres veces? ¡Mejor crea una función!",
+    "description": "¡Hola!\nEn este taller aprenderemos a crear funciones para no tener que repetir nuestro código y a usarlas en conjunto con el paquete {purrr} para simplificar flujos de trabajo que requieren iterar. Si nunca has creado una función, este taller es para ti.\nLa sesión estará a cargo de Sara Acevedo, Doctora en Ciencias de la Ingeniería y Académica de la carrera de Ingeniería en Recursos Naturales FASNA-UC.\n¡Próximamente agregaremos detalles sobre cómo prepararte para el taller!\n\n**Código de conducta**\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando [nuestro código de conducta](https://guide.rladies.org/about/coc/#spanish).\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2024-03-22T17:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-talca/events/298630664/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 6,
+      "waitlistCount": 0,
+      "totalCount": 6
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Talca",
+      "urlname": "rladies-talca"
+    }
+  }
+]

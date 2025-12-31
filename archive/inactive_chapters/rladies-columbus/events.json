@@ -1,0 +1,1915 @@
+[
+  {
+    "id": "235763148",
+    "title": "Introduction to R",
+    "description": "Based on the survey results and the recommendations during the inaugural meeting, we decided to make our next meeting a workshop for a basic introduction to R.\n\nBring your laptop, extension cord (if you have battery issues), and your enthusiasm. You are welcome to come if you have NEVER used R before, and you are welcome to come if you use R every day. Advanced users will have plenty of opportunities to help beginners with debugging. We will be learning collaboratively.\n\nPrior to the meetup, please download the latest version of R and RStudio on your laptop (in that order). Below are the links for downloads\n\nhttps://cran.rstudio.com/\n\nhttps://www.rstudio.com/products/rstudio/download/\n\nSince we plan to have refreshments at this meetup, we kindly ask you to RSVP only if you are *sure* that you will be coming. At the last meetup, we ended up with too much food because fewer people came than RSVPed, and we’d prefer not to have the same problem this time.",
+    "status": "PAST",
+    "dateTime": "2016-12-12T17:00:00-05:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-columbus/events/235763148/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 18,
+      "waitlistCount": 0,
+      "totalCount": 18
+    },
+    "venues": [
+      {
+        "id": "24881881",
+        "name": "School of Physical Activity and Educational Services, Room #A143",
+        "address": "305 W. Anne & John Glenn Avenue",
+        "city": "Columbus",
+        "state": "OH",
+        "country": "us",
+        "lat": 39.8269,
+        "lon": -82.9383,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Columbus",
+      "urlname": "rladies-columbus"
+    }
+  },
+  {
+    "id": "235327218",
+    "title": "Inaugural Meeting",
+    "description": "We are excited to launch our first meetup. Please join us to\n\n• hear more about R-Ladies,\n\n• be part of R-Ladies community\n\n• share your own stories with R,\n\n• learn about R (from a woman who works for R Studio),\n\n• have some food and snacks,\n\n• get some R stickers\n\nWe would greatly appreciate if you can fill out a (REALLY short) survey. https://goo.gl/forms/KqRdA98iG6fpuqXu1 This will help us know more about you.",
+    "status": "PAST",
+    "dateTime": "2016-11-17T17:00:00-05:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-columbus/events/235327218/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 17,
+      "waitlistCount": 0,
+      "totalCount": 17
+    },
+    "venues": [
+      {
+        "id": "24881881",
+        "name": "School of Physical Activity and Educational Services, Room #A143",
+        "address": "305 W. Anne & John Glenn Avenue",
+        "city": "Columbus",
+        "state": "OH",
+        "country": "us",
+        "lat": 39.8269,
+        "lon": -82.9383,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Columbus",
+      "urlname": "rladies-columbus"
+    }
+  },
+  {
+    "id": "244126292",
+    "title": "Machine Learning with R",
+    "description": "UPDATES: Materials are now up on my git repo https://github.com/ksasso/MLmodels_inR_GDG2017\n\ngit clone to make a copy OR download a zip of all the files by navigating to the green \"Clone or Download\" button in the right hand corner and selecting \"Download Zip\"\n\nTHERE WILL BE PIZZA thanks to the Columbus Collaboratory!\n\nAt this meet up Katie Sasso will provide a crash course on implementing some of the most popular machine learning algorithms and techniques. Specific topics may include Decision Trees, ensemble methods (gradient boosting vs. bagging/bootstrapping), Random Forests, and Neural Networks. Attendees can expect a very high-level overview of techniques, a review of the circumstances under which they are and aren't appropriate for use, and a brief crash course on how to implement each using R!\n\nPlease note:\n\nThis meetup is not appropriate for very beginner level R users, we expect you to be familiar with fundamental R objects and functions.\n\nParking: Park in any spot marked \"Reserved for the Columbus Collaboratory\". There should be more than enough available- all are free. If you find that these spots are filled - park anywhere in surrounding lots and Katie will give you a day pass for your dashboard.\n\nCall Katie if any issues finding it (440-452-6423).\nDirections and map also available here:\nhttp://columbuscollaboratory.com/Contact",
+    "status": "PAST",
+    "dateTime": "2017-11-16T18:00:00-05:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-columbus/events/244126292/",
+    "featuredEventPhoto": {
+      "id": "466204826",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/2/d/a/highres_466204826.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/2/d/a/600_466204826.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/2/d/a/thumb_466204826.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 39,
+      "waitlistCount": 0,
+      "totalCount": 39
+    },
+    "venues": [
+      {
+        "id": "25330302",
+        "name": "Columbus Collaboratory",
+        "address": "1375 Perry Street",
+        "city": "Columbus",
+        "state": "OH",
+        "country": "US",
+        "lat": 39.9888,
+        "lon": -83.0195,
+        "postalCode": "43201",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Columbus",
+      "urlname": "rladies-columbus"
+    }
+  },
+  {
+    "id": "242163774",
+    "title": "R-Ladies Columbus Meet & Greet",
+    "description": "Let's celebrate the end of our introductory workshop, meet other R enthusiasts and network! Come, grab a drink with us and let's talk about R!",
+    "status": "PAST",
+    "dateTime": "2017-08-09T19:00:00-04:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-columbus/events/242163774/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 10,
+      "waitlistCount": 0,
+      "totalCount": 10
+    },
+    "venues": [
+      {
+        "id": "1621658",
+        "name": "Watershed Distillery",
+        "address": "1145 Chesapeake ave. Suite D",
+        "city": "Columbus",
+        "state": "OH",
+        "country": "us",
+        "lat": 39.9921,
+        "lon": -83.0366,
+        "postalCode": "43212",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Columbus",
+      "urlname": "rladies-columbus"
+    }
+  },
+  {
+    "id": "242163652",
+    "title": "Last and extra week of 4-Week Introduction to R Workshop!",
+    "description": "Hi all!\n\nBecause we were unable to go over the dplyr package in the last session, I decided to do an extra session. Because I will be having my candidacy exam on Wednesday August 9th morning, I decided we can do our last session the same day in the afternoon and get drinks afterwards to celebrate the completion of the workshop (and hopefully my successful candidacy exam) and for networking!\n\nParking\n\nFor folks that don’t have normal OSU parking, there is a guest garage located directly across the street from Parks Hall that is open to all visitors: North Cannon Garage (http://osu.campusparc.com/home/garages/wexner-medical-center/north-cannon-garage - 1640 Cannon Drive). You could also extend the parking to the 12th Ave Garage (http://osu.campusparc.com/home/garages/wexner-medical-center/12th-avenue-garage - 340 W 12th Ave). For those who have OSU parking, there's a parking lot for A, B and C class permits at the intersection of Cannon Dr and John H Herrick Dr.\n\nSee you all in class!",
+    "status": "PAST",
+    "dateTime": "2017-08-09T16:00:00-04:00",
+    "duration": "PT122H30M",
+    "eventUrl": "https://www.meetup.com/rladies-columbus/events/242163652/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 16,
+      "waitlistCount": 0,
+      "totalCount": 16
+    },
+    "venues": [
+      {
+        "id": "25309718",
+        "name": "Room 111 Parks Hall, College of Pharmacy",
+        "address": "500 West 12th Avenue",
+        "city": "Columbus",
+        "state": "OH",
+        "country": "us",
+        "lat": 39.9965,
+        "lon": -83.0209,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Columbus",
+      "urlname": "rladies-columbus"
+    }
+  },
+  {
+    "id": "242164136",
+    "title": "Introduction to Shiny App",
+    "description": "Jim Hughes, a visiting PhD student from University of South Australia offered to give a Shiny App workshop. Join us to learn more about Shiny apps!\n\nGet materials here:\n\nhttps://www.dropbox.com/sh/o5zgygc5aoor36z/AABI0oDi8ObIa18cziV5-Q4sa?dl=0\n\nWith the use of the Shiny package for the R programming language, users are able to make interactive web applications that can be a powerful tool for sharing and communication of research. The package provides tools for shaping a user-interface and providing reactive elements dependent on user input. This is all achieved while maintaining the functionality and flexibility of R. This 2 hour workshop will serve as an introduction to the Shiny framework, demonstrating some of its uses. It will include hands-on coding, so feel free to bring a charged laptop with R and RStudio installed.",
+    "status": "PAST",
+    "dateTime": "2017-08-02T16:00:00-04:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-columbus/events/242164136/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 12,
+      "waitlistCount": 0,
+      "totalCount": 12
+    },
+    "venues": [
+      {
+        "id": "25398325",
+        "name": "Room 250 Parks Hall, College of Pharmacy",
+        "address": "500 West 12th Avenue",
+        "city": "Columbus",
+        "state": "OH",
+        "country": "us",
+        "lat": 39.9965,
+        "lon": -83.0209,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Columbus",
+      "urlname": "rladies-columbus"
+    }
+  },
+  {
+    "id": "240942250",
+    "title": "4-Week Introduction to R Workshop",
+    "description": "Hi all!\n\nI'm leading a 4-session Introduction to R workshop!\n\nThis workshop is designed for the absolute beginners and does not require any programming experience!\n\nProgram\n\nI will start with R basics in the first two sessions and move on to data visualization with ggplot2 for the last two. However, the content of the last session can be changed depending on the class preference.\n\nSession 1 – Setting up R and R Studio (if necessary), R programming basics (R objects, data types (classes))\n\nSession 2 – Subsetting datasets\n\nSession 3 – Data visualization 1\n\nSession 4 – Data visualization 2 (subject to change)\n\nWhere & When\n\nFrom July 11th to August 1st, we will meet every Tuesday from 4 PM to 7 PM in 111 Parks Hall, College of Pharmacy, OSU\n\nSee on Google Maps: goo.gl/maps/r16Z29xBjuS2\n\nI am expecting each session to be about 2 and half hours (but it's always a good idea to be a little flexible to allow some extra time for Q & A or issue solving).\n\nThe spots in this class are limited to 90 and the registration will be closed automatically after 90 RSVPs.\n\nParking\n\nFor folks that don’t have normal OSU parking, there is a guest garage located directly across the street from Parks Hall that is open to all visitors: North Cannon Garage (http://osu.campusparc.com/home/garages/wexner-medical-center/north-cannon-garage - 1640 Cannon Drive). You could also extend the parking to the 12th Ave Garage (http://osu.campusparc.com/home/garages/wexner-medical-center/12th-avenue-garage - 340 W 12th Ave). For those who have OSU parking, there's a parking lot for A, B and C class permits at the intersection of Cannon Dr and John H Herrick Dr.\n\nI would like to collect information on prospective students in terms of level programming experience. Don't worry if you have no experience with coding. The course is designed for absolute beginners, however I might potentially have different suggestions for you if you are experienced with other programming languages. So please fill out this form (https://goo.gl/forms/fFD8c8HWPN7aiMY32) to give some information about yourself.\n\nSee you all in class!",
+    "status": "PAST",
+    "dateTime": "2017-08-01T16:00:00-04:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-columbus/events/240942250/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 41,
+      "waitlistCount": 0,
+      "totalCount": 41
+    },
+    "venues": [
+      {
+        "id": "25309718",
+        "name": "Room 111 Parks Hall, College of Pharmacy",
+        "address": "500 West 12th Avenue",
+        "city": "Columbus",
+        "state": "OH",
+        "country": "us",
+        "lat": 39.9965,
+        "lon": -83.0209,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Columbus",
+      "urlname": "rladies-columbus"
+    }
+  },
+  {
+    "id": "241114776",
+    "title": "Text Mining/Topic Modelling",
+    "description": "Katie Sasso will be talking about text mining with R.\nMore details on the subject can be found here:\nhttp://tidytextmining.com/\n\nKatie started working at the Collaboratory in January 2017 before finishing her Ph.D. from OSU in Spring '17. She got her Ph.D. in Experimental Psychology with a minor in Quantitative Psychology. At the Collaboratory she works on data analytics projects across the many industries the Collaboratory's member companies span.\n\nParking: Park in any spot marked \"Reserved for the Columbus Collaboratory\". There should be more than enough available- all are free. If you find that these spots are filled - park anywhere in surrounding lots and Katie will give you a day pass for your dashboard.\n\nCall Katie if any issues finding it (440-452-6423).\nDirections and map also available here:\nhttp://columbuscollaboratory.com/Contact\n\nMaterials are now available.\n\nOn Git: https://github.com/ColumbusCollaboratory/text_mining\n\nAnd on Dropbox:\n\nhttps://www.dropbox.com/sh/g9smbekd8feyzrj/AADO_2ipcM1yfM0cOuNdF6Afa?dl=0",
+    "status": "PAST",
+    "dateTime": "2017-07-26T18:00:00-04:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-columbus/events/241114776/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 33,
+      "waitlistCount": 0,
+      "totalCount": 33
+    },
+    "venues": [
+      {
+        "id": "25330302",
+        "name": "Columbus Collaboratory",
+        "address": "1375 Perry Street",
+        "city": "Columbus",
+        "state": "OH",
+        "country": "US",
+        "lat": 39.9888,
+        "lon": -83.0195,
+        "postalCode": "43201",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Columbus",
+      "urlname": "rladies-columbus"
+    }
+  },
+  {
+    "id": "240942254",
+    "title": "4-Week Introduction to R Workshop",
+    "description": "Hi all!\n\nI'm leading a 4-session Introduction to R workshop!\n\nThis workshop is designed for the absolute beginners and does not require any programming experience!\n\nProgram\n\nI will start with R basics in the first two sessions and move on to data visualization with ggplot2 for the last two. However, the content of the last session can be changed depending on the class preference.\n\nSession 1 – Setting up R and R Studio (if necessary), R programming basics (R objects, data types (classes))\n\nSession 2 – Subsetting datasets\n\nSession 3 – Data visualization 1\n\nSession 4 – Data visualization 2 (subject to change)\n\nWhere & When\n\nFrom July 11th to August 1st, we will meet every Tuesday from 4 PM to 7 PM in 111 Parks Hall, College of Pharmacy, OSU\n\nSee on Google Maps: goo.gl/maps/r16Z29xBjuS2\n\nI am expecting each session to be about 2 and half hours (but it's always a good idea to be a little flexible to allow some extra time for Q & A or issue solving).\n\nThe spots in this class are limited to 90 and the registration will be closed automatically after 90 RSVPs.\n\nParking\n\nFor folks that don’t have normal OSU parking, there is a guest garage located directly across the street from Parks Hall that is open to all visitors: North Cannon Garage (http://osu.campusparc.com/home/garages/wexner-medical-center/north-cannon-garage - 1640 Cannon Drive). You could also extend the parking to the 12th Ave Garage (http://osu.campusparc.com/home/garages/wexner-medical-center/12th-avenue-garage - 340 W 12th Ave). For those who have OSU parking, there's a parking lot for A, B and C class permits at the intersection of Cannon Dr and John H Herrick Dr.\n\nI would like to collect information on prospective students in terms of level programming experience. Don't worry if you have no experience with coding. The course is designed for absolute beginners, however I might potentially have different suggestions for you if you are experienced with other programming languages. So please fill out this form (https://goo.gl/forms/fFD8c8HWPN7aiMY32) to give some information about yourself.\n\nSee you all in class!",
+    "status": "PAST",
+    "dateTime": "2017-07-25T16:00:00-04:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-columbus/events/240942254/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 42,
+      "waitlistCount": 0,
+      "totalCount": 42
+    },
+    "venues": [
+      {
+        "id": "25309718",
+        "name": "Room 111 Parks Hall, College of Pharmacy",
+        "address": "500 West 12th Avenue",
+        "city": "Columbus",
+        "state": "OH",
+        "country": "us",
+        "lat": 39.9965,
+        "lon": -83.0209,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Columbus",
+      "urlname": "rladies-columbus"
+    }
+  },
+  {
+    "id": "240942246",
+    "title": "4-Week Introduction to R Workshop",
+    "description": "Hi all!\n\nI'm leading a 4-session Introduction to R workshop!\n\nThis workshop is designed for the absolute beginners and does not require any programming experience!\n\nProgram\n\nI will start with R basics in the first two sessions and move on to data visualization with ggplot2 for the last two. However, the content of the last session can be changed depending on the class preference.\n\nSession 1 – Setting up R and R Studio (if necessary), R programming basics (R objects, data types (classes))\n\nSession 2 – Subsetting datasets\n\nSession 3 – Data visualization 1\n\nSession 4 – Data visualization 2 (subject to change)\n\nWhere & When\n\nFrom July 11th to August 1st, we will meet every Tuesday from 4 PM to 7 PM in 111 Parks Hall, College of Pharmacy, OSU\n\nSee on Google Maps: goo.gl/maps/r16Z29xBjuS2\n\nI am expecting each session to be about 2 and half hours (but it's always a good idea to be a little flexible to allow some extra time for Q & A or issue solving).\n\nThe spots in this class are limited to 90 and the registration will be closed automatically after 90 RSVPs.\n\nParking\n\nFor folks that don’t have normal OSU parking, there is a guest garage located directly across the street from Parks Hall that is open to all visitors: North Cannon Garage (http://osu.campusparc.com/home/garages/wexner-medical-center/north-cannon-garage - 1640 Cannon Drive). You could also extend the parking to the 12th Ave Garage (http://osu.campusparc.com/home/garages/wexner-medical-center/12th-avenue-garage - 340 W 12th Ave). For those who have OSU parking, there's a parking lot for A, B and C class permits at the intersection of Cannon Dr and John H Herrick Dr.\n\nI would like to collect information on prospective students in terms of level programming experience. Don't worry if you have no experience with coding. The course is designed for absolute beginners, however I might potentially have different suggestions for you if you are experienced with other programming languages. So please fill out this form (https://goo.gl/forms/fFD8c8HWPN7aiMY32) to give some information about yourself.\n\nSee you all in class!",
+    "status": "PAST",
+    "dateTime": "2017-07-18T16:00:00-04:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-columbus/events/240942246/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 49,
+      "waitlistCount": 0,
+      "totalCount": 49
+    },
+    "venues": [
+      {
+        "id": "25309718",
+        "name": "Room 111 Parks Hall, College of Pharmacy",
+        "address": "500 West 12th Avenue",
+        "city": "Columbus",
+        "state": "OH",
+        "country": "us",
+        "lat": 39.9965,
+        "lon": -83.0209,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Columbus",
+      "urlname": "rladies-columbus"
+    }
+  },
+  {
+    "id": "240942038",
+    "title": "4-Week Introduction to R Workshop",
+    "description": "Hi all!\n\nI'm leading a 4-session Introduction to R workshop!\n\nThis workshop is designed for the absolute beginners and does not require any programming experience!\n\nProgram\n\nI will start with R basics in the first two sessions and move on to data visualization with ggplot2 for the last two. However, the content of the last session can be changed depending on the class preference.\n\nSession 1 – Setting up R and R Studio (if necessary), R programming basics (R objects, data types (classes))\n\nSession 2 – Subsetting datasets\n\nSession 3 – Data visualization 1\n\nSession 4 – Data visualization 2 (subject to change)\n\nWhere & When\n\nFrom July 11th to August 1st, we will meet every Tuesday from 4 PM to 7 PM in 111 Parks Hall, College of Pharmacy, OSU\n\nSee on Google Maps: goo.gl/maps/r16Z29xBjuS2\n\nI am expecting each session to be about 2 and half hours (but it's always a good idea to be a little flexible to allow some extra time for Q & A or issue solving).\n\nThe spots in this class are limited to 90 and the registration will be closed automatically after 90 RSVPs.\n\nParking\n\nFor folks that don’t have normal OSU parking, there is a guest garage located directly across the street from Parks Hall that is open to all visitors: North Cannon Garage (http://osu.campusparc.com/home/garages/wexner-medical-center/north-cannon-garage - 1640 Cannon Drive). You could also extend the parking to the 12th Ave Garage (http://osu.campusparc.com/home/garages/wexner-medical-center/12th-avenue-garage - 340 W 12th Ave). For those who have OSU parking, there's a parking lot for A, B and C class permits at the intersection of Cannon Dr and John H Herrick Dr.\n\nI would like to collect information on prospective students in terms of level programming experience. Don't worry if you have no experience with coding. The course is designed for absolute beginners, however I might potentially have different suggestions for you if you are experienced with other programming languages. So please fill out this form (https://goo.gl/forms/fFD8c8HWPN7aiMY32) to give some information about yourself.\n\nSee you all in class!",
+    "status": "PAST",
+    "dateTime": "2017-07-11T16:00:00-04:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-columbus/events/240942038/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 66,
+      "waitlistCount": 0,
+      "totalCount": 66
+    },
+    "venues": [
+      {
+        "id": "25309718",
+        "name": "Room 111 Parks Hall, College of Pharmacy",
+        "address": "500 West 12th Avenue",
+        "city": "Columbus",
+        "state": "OH",
+        "country": "us",
+        "lat": 39.9965,
+        "lon": -83.0209,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Columbus",
+      "urlname": "rladies-columbus"
+    }
+  },
+  {
+    "id": "239149639",
+    "title": "Easy data cleaning and manipulation with tidyverse",
+    "description": "We will be talking about tidyr & dplyr packages, and show how these packages make data cleaning much less painful & provide easy to use functions for the first steps of data exploration. After a short presentation about \"tidy data\" and tidyr & dplyr, we will do practical examples and go over the vignettes provided by Hadley Wickham (the creator of the tidyverse).\n\nBring your laptop, extension cord (if you have battery issues), and your enthusiasm! Although tidyverse doesn't require much R experience, we expect you to be familiar with R, RStudio, loading data & packages into R and basic understanding of base R class types.\n\ntidyr examples require certain data files so:\n\n- Please download them via dropbox from here (https://www.dropbox.com/sh/nkhrhcgx6ogg24j/AACKLaJq5_8VDQHmlhZfluCOa?dl=0)\n\n- Or if you're familiar with GitHub get it from the tidy repo (https://github.com/tidyverse/tidyr) under vignettes.\n\nSince we plan to have refreshments at this meetup, we kindly ask you to RSVP only if you are sure that you will be coming.\n\nLinks to Google maps locations: College of Pharmacy, Parks Hall (https://goo.gl/maps/BXHrWseC3wq), Closest parking (https://goo.gl/maps/vp4jypHympS2)",
+    "status": "PAST",
+    "dateTime": "2017-05-09T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-columbus/events/239149639/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 20,
+      "waitlistCount": 0,
+      "totalCount": 20
+    },
+    "venues": [
+      {
+        "id": "25170473",
+        "name": "Room 257 Parks Hall, College of Pharmacy",
+        "address": "500 West 12th Avenue",
+        "city": "Columbus",
+        "state": "OH",
+        "country": "us",
+        "lat": 39.9965,
+        "lon": -83.0209,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Columbus",
+      "urlname": "rladies-columbus"
+    }
+  },
+  {
+    "id": "238150858",
+    "title": "Introduction to Shiny Apps",
+    "description": "",
+    "status": "PAST",
+    "dateTime": "2017-04-04T17:00:00-04:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-columbus/events/238150858/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 17,
+      "waitlistCount": 0,
+      "totalCount": 17
+    },
+    "venues": [
+      {
+        "id": "25086488",
+        "name": "136 Ramseyer Hall",
+        "address": "29 W Woodruff Avenue",
+        "city": "Columbus",
+        "state": "OH",
+        "country": "us",
+        "lat": 40.0033,
+        "lon": -83.0095,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Columbus",
+      "urlname": "rladies-columbus"
+    }
+  },
+  {
+    "id": "237405637",
+    "title": "Using web APIs in R",
+    "description": "How to get data into R via web APIs quickly and easily, and what to do with it next. Suitable for ladies with all levels of R experience",
+    "status": "PAST",
+    "dateTime": "2017-02-27T17:00:00-05:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-columbus/events/237405637/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 6,
+      "waitlistCount": 0,
+      "totalCount": 6
+    },
+    "venues": [
+      {
+        "id": "25027442",
+        "name": "School of Physical Activity and Educational Services, Room #412",
+        "address": "305 W. Anne & John Glenn Avenue",
+        "city": "Columbus",
+        "state": "OH",
+        "country": "us",
+        "lat": 0,
+        "lon": 0,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Columbus",
+      "urlname": "rladies-columbus"
+    }
+  },
+  {
+    "id": "256975017",
+    "title": "Tech Holiday Party!",
+    "description": "Help RLadies represent at the best Tech Holiday party in town! It's free to attend and a ton of fun. This will replace our regular monthly meetup for December. NOTE: this is not at our usual location, but rather, Hopewell downtown. For more information and to register to attend please visit this site:\n\nhttps://www.eventbrite.com/e/columbus-tech-community-holiday-celebration-2018-tickets-52241840752?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing",
+    "status": "PAST",
+    "dateTime": "2018-12-13T18:00:00-05:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-columbus/events/256975017/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [
+      {
+        "id": "25540792",
+        "name": "130 E Chestnut St",
+        "address": "130 East Chestnut Street",
+        "city": "Columbus",
+        "state": "OH",
+        "country": "US",
+        "lat": 39.9683,
+        "lon": -82.998,
+        "postalCode": "43215",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Columbus",
+      "urlname": "rladies-columbus"
+    }
+  },
+  {
+    "id": "255644068",
+    "title": "stackoverflow: R-Ladies edition!",
+    "description": "We are back with a super exciting meet up! November's meetup will be a live stackoverflow session.\n\nPrior to the session please upload a PROBLEM AND REPRODUCIBLE EXAMPLE you've been struggling to wrangle in R via https://goo.gl/forms/xGlZxuujqdKjxea02\n\nDon't have a problem you are or recently struggled with (seriously who doesn't)? That's okay - still come and help with/learn from the troubleshooting. This could be a wide range of problems (i.e., data cleaning, regex, visualizations, model fitting conundrums, parralelization). Basically if it's something you might find on stackoverflow and it involves R, it's appropriate for this session. Then during the session we will, together, work through as many of the posted problems as we can to generate a (or multiple) solutions.\n\nWe will be abiding by stack overflow posting rules as posted here: https://stackoverflow.com/help/how-to-ask, so please follow to avoid rejection! Organizers will come with 1-2 examples of some gnarly R issues we recently tackled. Pizza will be provided courtesy of the Columbus Collaboratory.\n\nThis session is appropriate for R users of all levels, just please come with R already installed.\n\nSee you there!\n\nParking: Park in any spot marked \"Reserved for the Columbus Collaboratory\". There should be more than enough available- all are free. If you find that these spots are filled - park anywhere in surrounding lots and Katie will give you a day pass for your dashboard.\n\nDirections and map also available here:\nhttp://columbuscollaboratory.com/Contact",
+    "status": "PAST",
+    "dateTime": "2018-11-13T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-columbus/events/255644068/",
+    "featuredEventPhoto": {
+      "id": "475549409",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/1/0/1/highres_475549409.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/1/0/1/600_475549409.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/1/0/1/thumb_475549409.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 20,
+      "waitlistCount": 0,
+      "totalCount": 20
+    },
+    "venues": [
+      {
+        "id": "25330301",
+        "name": "1375 Perry St",
+        "address": "1375 Perry Street",
+        "city": "Columbus",
+        "state": "OH",
+        "country": "US",
+        "lat": 39.9891,
+        "lon": -83.0189,
+        "postalCode": "43201",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Columbus",
+      "urlname": "rladies-columbus"
+    }
+  },
+  {
+    "id": "253561966",
+    "title": "useR2018! Conference Recap and Highlights",
+    "description": "Details\nPlease bring your laptop and have R and RStudio (and the tidyverse package) installed and working. But if things don't work and you're having issues, don't worry! We're here to help (◕‿◕✿)\n\nCouldn't make it to Australia for this year's #useR2018 Conference? No worries! RLadies Columbus has got you covered. At this meet up I (Katie) am going to share some of the \"best\" content from useR. We will cover several of the session talks and a few of the paid tutorials at a super high-level; with my goal being at the end to take a vote of attendees and pick one of the topics to dive deeper on at an upcoming RLadies. I hope to cover (~5 mins each) most of the following: gganimate package and keynote talk, glue package and talk, Roger Peng Beyond Syntax keynote talk, Fable and Fasster forecasting packages and talks, SEER package and talk, Jenny Bryan's Code Smells and Feels talk and key functions learned, MGCV/Beyond Linearity tutorial and content, Max Kuhn recipes package tutorial and content. Goal is to give attendees enough info such that they could go home, watch talk, and walk through any associated materials and tutorials on their own. Other goal: choose one of the packages associated with a talk or tutorial to dive deeper on together at a future RLadies.",
+    "status": "PAST",
+    "dateTime": "2018-08-16T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-columbus/events/253561966/",
+    "featuredEventPhoto": {
+      "id": "473548617",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/f/c/9/highres_473548617.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/f/c/9/600_473548617.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/f/c/9/thumb_473548617.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 13,
+      "waitlistCount": 0,
+      "totalCount": 13
+    },
+    "venues": [
+      {
+        "id": "25330302",
+        "name": "Columbus Collaboratory",
+        "address": "1375 Perry Street",
+        "city": "Columbus",
+        "state": "OH",
+        "country": "US",
+        "lat": 39.9888,
+        "lon": -83.0195,
+        "postalCode": "43201",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Columbus",
+      "urlname": "rladies-columbus"
+    }
+  },
+  {
+    "id": "252596760",
+    "title": "Using Git with RStudio Projects",
+    "description": "Please bring your laptop and have R and RStudio installed and working. But if things don't work and you're having issues, don't worry! We're here to help (◕‿◕✿)\n\nAbout this meetup:\n\nWe will talk about the basics of version control with Git, and how this sometimes painful looking process can be made easy with RStudio projects.\n\nAlthough anything you'll learn in this class can be used with any Git web repository, I'll mainly show examples via GitHub. If you don't have one yet please create an account on https://github.com/\n\nPlease make sure that you have git installed by typing\n\ngit\n\non your terminal and executing it. I hear git installation can be quite painful on Windows machines, but we will try to help you if you can't figure it out.\n\nHere are some introductory articles/links about Git:\nhttps://medium.com/@garstep/osn-what-the-hell-is-git-6afbe634c4e8\nhttp://rogerdudler.github.io/git-guide/\nhttp://happygitwithr.com/\nhttps://git-scm.com/docs/gittutorial\n\nI don't yet have materials for this class, but it will be posted on my GitHub page: https://github.com/karaesmen and I will let you know which repository we will be using during class.\n\nParking: If you do not have campus parking there are paid parking spots available here: https://goo.gl/maps/JoRNVdZ7fTF2 and here: https://goo.gl/maps/GcqVQRG6NQT2\n\nUnfortunately, there's a lot of construction going on on Cannon Dr and it is closed between King Ave and John H Herrick Dr.",
+    "status": "PAST",
+    "dateTime": "2018-07-19T18:00:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-columbus/events/252596760/",
+    "featuredEventPhoto": {
+      "id": "472761668",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/4/a/4/highres_472761668.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/4/a/4/600_472761668.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/4/a/4/thumb_472761668.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 22,
+      "waitlistCount": 0,
+      "totalCount": 22
+    },
+    "venues": [
+      {
+        "id": "25398325",
+        "name": "Room 250 Parks Hall, College of Pharmacy",
+        "address": "500 West 12th Avenue",
+        "city": "Columbus",
+        "state": "OH",
+        "country": "us",
+        "lat": 39.9965,
+        "lon": -83.0209,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Columbus",
+      "urlname": "rladies-columbus"
+    }
+  },
+  {
+    "id": "250694824",
+    "title": "Shiny meets Electron:  Turn your Shiny app into a standalone desktop app! ",
+    "description": "Please bring your laptop and have R and RStudio (and the tidyverse package) installed and working. But if things don't work and you're having issues, don't worry! We're here to help (◕‿◕✿)\n\nAbout this meetup:\n\nUsing Shiny in consulting can be challenging, as all deployment options involve either sending intellectual property and data to the cloud or IT involvement. When providing consultative like services to extremely large, risk-averse, enterprises this can greatly restrict one’s ability to quickly get Shiny apps into users’ hands, as engagement of IT can take months if approved at all. We’ll share how the Columbus Collaboratory team overcame these barriers to rapid deployment by coupling R Portable and Electron, a framework for creating native applications with a variety of web technologies. All the tools needed to use Electron for desktop deployment of Shiny apps will be reviewed. We’ll highlight a specific example in which these technologies were used within a large enterprise to completely automate a weekly report. We’ll also share how the app used R Packages such as openxlsx, shinydashboard, RODBC, and Zoo to query an internal database, cleanse data, calculate key metrics, and create a downloadable excel file for dissemination. The best part? This Shiny app was delivered to the end business user as a stand-alone executable.\n\nParking: Park in any spot marked \"Reserved for the Columbus Collaboratory\". There should be more than enough available- all are free. If you find that these spots are filled - park anywhere in surrounding lots and Katie will give you a day pass for your dashboard.\n\nCall Katie if any issues finding it (440-452-6423).\nDirections and map also available here:\nhttp://columbuscollaboratory.com/Contact",
+    "status": "PAST",
+    "dateTime": "2018-06-14T18:00:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-columbus/events/250694824/",
+    "featuredEventPhoto": {
+      "id": "471013867",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/6/2/b/highres_471013867.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/6/2/b/600_471013867.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/6/2/b/thumb_471013867.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 23,
+      "waitlistCount": 0,
+      "totalCount": 23
+    },
+    "venues": [
+      {
+        "id": "25330302",
+        "name": "Columbus Collaboratory",
+        "address": "1375 Perry Street",
+        "city": "Columbus",
+        "state": "OH",
+        "country": "US",
+        "lat": 39.9888,
+        "lon": -83.0195,
+        "postalCode": "43201",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Columbus",
+      "urlname": "rladies-columbus"
+    }
+  },
+  {
+    "id": "249434632",
+    "title": "Data visualization with ggplot2 📊📈",
+    "description": "Please bring your laptop and have R and RStudio (and the tidyverse package) installed and working. But if things don't work and you're having issues, don't worry! We're here to help (◕‿◕✿)\n\nAnd we'll have pizza too! 🍕\n\nAlso as organizers, we would like to have a discussion about future meetups after talking about the wonders of ggplot2. If you are already familiar with ggplot2 and not interested in the meetup but want to give some suggestions about future meetups, come by around 7 pm.\n\nParking: Park in any spot marked \"Reserved for the Columbus Collaboratory\". There should be more than enough available- all are free. If you find that these spots are filled - park anywhere in surrounding lots and Katie will give you a day pass for your dashboard.\n\nCall Katie if any issues finding it (440-452-6423).\nDirections and map also available here:\nhttp://columbuscollaboratory.com/Contact",
+    "status": "PAST",
+    "dateTime": "2018-05-10T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-columbus/events/249434632/",
+    "featuredEventPhoto": {
+      "id": "469865021",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/3/9/d/highres_469865021.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/3/9/d/600_469865021.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/3/9/d/thumb_469865021.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 45,
+      "waitlistCount": 0,
+      "totalCount": 45
+    },
+    "venues": [
+      {
+        "id": "25330302",
+        "name": "Columbus Collaboratory",
+        "address": "1375 Perry Street",
+        "city": "Columbus",
+        "state": "OH",
+        "country": "US",
+        "lat": 39.9888,
+        "lon": -83.0195,
+        "postalCode": "43201",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Columbus",
+      "urlname": "rladies-columbus"
+    }
+  },
+  {
+    "id": "246728508",
+    "title": "Debugging in RStudio",
+    "description": "• What we'll do\nWhen you are building R scripts and documents, it can be challenging to figure out what went wrong when the code behaves in unexpected ways. Fortunately, there are excellent tools built into R and RStudio that can make debugging easier. This talk will explore those tools, including: using base R functions for debugging, tracing techniques, setting breakpoints in RStudio, understanding debug mode, and troubleshooting more complicated sources like packages and Shiny applications.\n\n• What to bring\nCharged laptop and your enthusiasm!\n\n• Important to know\n\nThis meetup is not appropriate for very beginner level R users, we expect you to be familiar with fundamental R objects and functions.\n\nParking: Park in any spot marked \"Reserved for the Columbus Collaboratory\". There should be more than enough available- all are free. If you find that these spots are filled - park anywhere in surrounding lots and Katie will give you a day pass for your dashboard.\n\nCall Katie if any issues finding it (440-452-6423).\nDirections and map also available here:\nhttp://columbuscollaboratory.com/Contact",
+    "status": "PAST",
+    "dateTime": "2018-01-25T18:00:00-05:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-columbus/events/246728508/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 18,
+      "waitlistCount": 0,
+      "totalCount": 18
+    },
+    "venues": [
+      {
+        "id": "25330302",
+        "name": "Columbus Collaboratory",
+        "address": "1375 Perry Street",
+        "city": "Columbus",
+        "state": "OH",
+        "country": "US",
+        "lat": 39.9888,
+        "lon": -83.0195,
+        "postalCode": "43201",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Columbus",
+      "urlname": "rladies-columbus"
+    }
+  },
+  {
+    "id": "266753762",
+    "title": "Tech Holiday Party! ",
+    "description": "Help R-Ladies represent at the best Tech Holiday party in town! This will replace our regular monthly meetup for December. NOTE: this is not at our usual location, but rather, Root Insurance downtown. For more information and to register to attend please visit this site.\n\nhttps://www.eventbrite.com/e/columbus-tech-community-holiday-celebration-2019-tickets-81895063339?aff=eac2\n\nIf you are a regular R-Ladies attendee, please check our slack channel for a special registration link.",
+    "status": "PAST",
+    "dateTime": "2019-12-11T18:00:00-05:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-columbus/events/266753762/",
+    "featuredEventPhoto": {
+      "id": "486964755",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/2/9/3/highres_486964755.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/2/9/3/600_486964755.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/2/9/3/thumb_486964755.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 10,
+      "waitlistCount": 0,
+      "totalCount": 10
+    },
+    "venues": [
+      {
+        "id": "26245802",
+        "name": "Root Insurance",
+        "address": "80 E Rich St Suite 500",
+        "city": "Columbus",
+        "state": "OH",
+        "country": "us",
+        "lat": 39.958,
+        "lon": -82.9975,
+        "postalCode": "43215",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Columbus",
+      "urlname": "rladies-columbus"
+    }
+  },
+  {
+    "id": "265924083",
+    "title": " Spatial Data and Mapping in R",
+    "description": "Please join us for an excellent presentation by R-Ladies regular and R wiz Caitlin Clary! Caitlin is a PhD Political Science grad from OSU and a Data Scientist at Biostat Global Consulting LLC. Caitlin will cover the fundamentals of working with spatial data and shapefiles in R. Then we’ll dive into visualizing spatial data with ggplot2 and ggmap and creating dynamic, interactive maps with leaflet.\n\nUnfortunately we had to deviate a bit from our second Thursday of the month regular schedule due to, well, life :)\n\nTypical info below - specifics on the way!\n___________________________________________________________________________________\nPlease come with a machine that can access rstudio.cloud. We will share link to project prior to session.\n\nAs always pizza and soft drinks will be available courtesy of our great local supporter, the Columbus Collaboratory.\n\nParking: Park in any spot marked \"Reserved for the Columbus Collaboratory\". There should be more than enough available- all are free. If you find that these spots are filled - park anywhere in surrounding lots See pics below for directions.",
+    "status": "PAST",
+    "dateTime": "2019-11-13T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-columbus/events/265924083/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 32,
+      "waitlistCount": 0,
+      "totalCount": 32
+    },
+    "venues": [
+      {
+        "id": "25330302",
+        "name": "Columbus Collaboratory",
+        "address": "1375 Perry Street",
+        "city": "Columbus",
+        "state": "OH",
+        "country": "US",
+        "lat": 39.9888,
+        "lon": -83.0195,
+        "postalCode": "43201",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Columbus",
+      "urlname": "rladies-columbus"
+    }
+  },
+  {
+    "id": "265314344",
+    "title": "Experience the power of version control! - Use Git with RStudio",
+    "description": "About this meetup and prep before meetup:\n\nWe will talk about the basics of version control with Git, and how this sometimes painful looking process can be made easy with RStudio and RStudio projects. This will be a repetition of a previous session, because this is a very crucial step for package development. So before we get into package dev, it would be nice to have these things set up first.\n\nPlease bring your laptop and have R and RStudio installed and working.\nYou can do everything we will do in this session on RStudio Cloud as well. But if you want to join us for a package development meetup later on you should have R, RStudio and Git installed on your computer. So we can connect these and it will be ready when the time comes for package dev. But if things don't work and you're having issues, don't worry! We're here to help (◕‿◕✿)\n\nAlthough anything you'll learn in this session can be used with any Git web repository, I'll mainly show examples via GitHub. If you don't have one yet please DON'T FORGET to create an account on https://github.com/ -- it's free!\n\nPlease make sure that you have git installed by typing\n\ngit\n\non your terminal and executing it. Git installation can be quite painful on Windows machines, but we will try to help you if you can't figure it out. If you're using a work laptop and don't have permissions to install things check with your IT department to make sure you can install all the software.\n\nHere are some introductory articles/links about Git:\nhttps://medium.com/@garstep/osn-what-the-hell-is-git-6afbe634c4e8\nhttp://rogerdudler.github.io/git-guide/\nhttp://happygitwithr.com/\nhttps://git-scm.com/docs/gittutorial\n\nI would suggest looking at Installation chapter in happygitwithr if you have no idea how to install R, RStudio or Git: https://happygitwithr.com/install-intro.html\n\nWe won't really have materials for this meetup, but I will ask you to potentially fork a repo from my github account: https://github.com/karaesmen/git_and_Rprojects\nYou can find a quick readme in there too.\n\nAs always pizza and soft drinks will be available courtesy of our great local supporter, the Columbus Collaboratory.\n\nParking: Park in any spot marked \"Reserved for the Columbus Collaboratory\". There should be more than enough available- all are free. If you find that these spots are filled - park anywhere in surrounding lots and Katie will give you a day pass for your dashboard. See pics below for directions.",
+    "status": "PAST",
+    "dateTime": "2019-10-10T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-columbus/events/265314344/",
+    "featuredEventPhoto": {
+      "id": "485387951",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/b/4/f/highres_485387951.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/b/4/f/600_485387951.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/b/4/f/thumb_485387951.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 37,
+      "waitlistCount": 0,
+      "totalCount": 37
+    },
+    "venues": [
+      {
+        "id": "25330302",
+        "name": "Columbus Collaboratory",
+        "address": "1375 Perry Street",
+        "city": "Columbus",
+        "state": "OH",
+        "country": "US",
+        "lat": 39.9888,
+        "lon": -83.0195,
+        "postalCode": "43201",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Columbus",
+      "urlname": "rladies-columbus"
+    }
+  },
+  {
+    "id": "264223774",
+    "title": "New advancements to tidyr package: Good riddance Gather and Spread! ",
+    "description": "We've had a lot of sessions on the very important steps of tidying data (what some call \"denormalized\" data in database land). Tidy data is essential for all things modeling and visualization. The tidyr package offers several functions for reproducible and fast tidying, but two of the main ones (gather and spread) were a bit tricky to use!\n\nJoin us as we walk through key updates to the tidyr package, namely the new pivot_longer and pivot_wider functions. These functions are designed to be far more user friendly and robust than their old counter parts.\n\nPlease come with a machine that can access rstudio.cloud. Katie will share link to project prior to session.\n\nMisc update: this meet up will be the first that puts us back on our intended schedule, of the second Thursday of every month.\n\nAs always pizza and soft drinks will be available courtesy of our great local supporter, the Columbus Collaboratory.\n\nParking: Park in any spot marked \"Reserved for the Columbus Collaboratory\". There should be more than enough available- all are free. If you find that these spots are filled - park anywhere in surrounding lots and Katie will give you a day pass for your dashboard. See pics below for directions.",
+    "status": "PAST",
+    "dateTime": "2019-09-12T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-columbus/events/264223774/",
+    "featuredEventPhoto": {
+      "id": "484217148",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/2/f/c/highres_484217148.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/2/f/c/600_484217148.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/2/f/c/thumb_484217148.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 40,
+      "waitlistCount": 0,
+      "totalCount": 40
+    },
+    "venues": [
+      {
+        "id": "26549085",
+        "name": "1375 Perry St",
+        "address": "1375 Perry St",
+        "city": "Columbus",
+        "state": "OH",
+        "country": "us",
+        "lat": 39.9888,
+        "lon": -83.0195,
+        "postalCode": "43201",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Columbus",
+      "urlname": "rladies-columbus"
+    }
+  },
+  {
+    "id": "263652710",
+    "title": "useR2019! Recap and overview of the latest and greatest",
+    "description": "Couldn't make it to Toulouse, France for useR2019!? No worries, we've got you covered! After a brief hiatus R-Ladies Columbus is back. Katie & Ezgi will be recapping learnings from the conference on all the latest and greatest in tidy data, shiny, modeling, and more. Katie will make an RStudio cloud link available ahead of the meet-up with a link to the presentation and demos. We will do our best to cover some talks and content that may be harder to find online (like awesome posters and lightning talks).\nOne goal of the session will be to vote on one topic featured in order to dive into deeper in a future workshop style meet up (hate gather and spread? learn about pivot_longer and pivot_wider and vote for that to be covered in a future meet-up)!\n\nAs always pizza and soft drinks will be available courtesy of our great local supporter, the Columbus Collaboratory.\n\nParking: Park in any spot marked \"Reserved for the Columbus Collaboratory\". There should be more than enough available- all are free. If you find that these spots are filled - park anywhere in surrounding lots and Katie will give you a day pass for your dashboard. See pics below for directions.",
+    "status": "PAST",
+    "dateTime": "2019-08-15T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-columbus/events/263652710/",
+    "featuredEventPhoto": {
+      "id": "483641297",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/1/5/1/highres_483641297.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/1/5/1/600_483641297.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/1/5/1/thumb_483641297.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 36,
+      "waitlistCount": 0,
+      "totalCount": 36
+    },
+    "venues": [
+      {
+        "id": "26549085",
+        "name": "1375 Perry St",
+        "address": "1375 Perry St",
+        "city": "Columbus",
+        "state": "OH",
+        "country": "us",
+        "lat": 39.9888,
+        "lon": -83.0195,
+        "postalCode": "43201",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Columbus",
+      "urlname": "rladies-columbus"
+    }
+  },
+  {
+    "id": "261615462",
+    "title": "Introduction to RMarkdown",
+    "description": "We will go over the RMarkdown introduction on the RStudio website.\nSimply go to https://rmarkdown.rstudio.com/lesson-1.html to see the material. If you don't know what RMarkdown is, just watch the introductory video in the link!\n\nPlease bring your laptop and sign up to RStudio Cloud at https://rstudio.cloud/ if you haven't done so already. Simply sign in to RStudio Cloud on the day of the meetup, then links containing example code throughout the introduction will open easily on your browser! Since we will be working with the cloud, everything should go smoothly but we're here to help! (◕‿◕✿)\n\nAnd we'll have pizza! 🍕\n\nParking: Park in any spot marked \"Reserved for the Columbus Collaboratory\". There should be more than enough available- all are free. If you find that these spots are filled - park anywhere in surrounding lots and Katie will give you a day pass for your dashboard.\n\nCall Katie if any issues finding it (440-452-6423).\nDirections and map also available here:\nhttp://columbuscollaboratory.com/Contact",
+    "status": "PAST",
+    "dateTime": "2019-06-12T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-columbus/events/261615462/",
+    "featuredEventPhoto": {
+      "id": "481500463",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/c/f/highres_481500463.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/c/f/600_481500463.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/c/f/thumb_481500463.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 36,
+      "waitlistCount": 0,
+      "totalCount": 36
+    },
+    "venues": [
+      {
+        "id": "25330302",
+        "name": "Columbus Collaboratory",
+        "address": "1375 Perry Street",
+        "city": "Columbus",
+        "state": "OH",
+        "country": "US",
+        "lat": 39.9888,
+        "lon": -83.0195,
+        "postalCode": "43201",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Columbus",
+      "urlname": "rladies-columbus"
+    }
+  },
+  {
+    "id": "261233096",
+    "title": "R-Ladies Columbus  & RStudio Mixer!",
+    "description": "Please join us for a casual mixer between RLadies-Columbus attendees and members from the RStudio team! Enjoy casual networking and discussion of all things RStudio with the dev team that brings us many of the great packages and products we know and love.\n\nPlease register for the event waitlist here: https://forms.gle/ehaw2urb1cvzSdmw9\n\nCapacity is limited at this event. Given this, we are prioritizing non-male identifying R-Ladies members for initial spots prior to opening it up to all attendees. We appreciate the support and understanding of all of our wonderful regular male RLadies attendees and we will strive to include as many registrants as possible.\n\nApps will be provided and drinks available for purchase. Location information will be provided via calendar invite & email once your spot has been confirmed. Note this will NOT be at our regular location.\n\nBe on the look out for a more traditional RLadies Columbus meet up in the month of June!",
+    "status": "PAST",
+    "dateTime": "2019-05-22T17:30:00-04:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-columbus/events/261233096/",
+    "featuredEventPhoto": {
+      "id": "481092415",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/0/7/f/highres_481092415.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/0/7/f/600_481092415.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/0/7/f/thumb_481092415.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 32,
+      "waitlistCount": 0,
+      "totalCount": 32
+    },
+    "venues": [],
+    "group": {
+      "name": "R-Ladies Columbus",
+      "urlname": "rladies-columbus"
+    }
+  },
+  {
+    "id": "260030730",
+    "title": "Hierarchical and Partitioning clustering in R",
+    "description": "Blythe Moreland will go through some of the faster methods for hierarchical and partitioning clustering and then spend some time on network visualization, such as igraph or visNetwork.\n\nBlythe is a post-doctoral scientist working in the translational bioinformatics group at the Institute for Genomic Medicine at Nationwide Children's Hospital. She works with biologists, informatics analysts, and computer scientists, in part to study how genetic variants can indirectly affect protein formation or protein binding, and be linked to human diseases.\n\nMaterials will be available on R-Ladies github under meetup presentations repo of our chapter (https://github.com/rladies/meetup-presentations_columbus) on the day of the meetup.\n\nCan access the RStudio Cloud portion here: https://rstudio.cloud/project/312108\n\nPlease bring your laptop and have R and RStudio (and the tidyverse package) installed and working. But if things don't work and you're having issues, don't worry! We're here to help (◕‿◕✿)\n\nAnd we'll have pizza! 🍕\n\nParking: Park in any spot marked \"Reserved for the Columbus Collaboratory\". There should be more than enough available- all are free. If you find that these spots are filled - park anywhere in surrounding lots and Katie will give you a day pass for your dashboard.\n\nCall Katie if any issues finding it (440-452-6423).\nDirections and map also available here:\nhttp://columbuscollaboratory.com/Contact",
+    "status": "PAST",
+    "dateTime": "2019-04-18T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-columbus/events/260030730/",
+    "featuredEventPhoto": {
+      "id": "479775251",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/b/9/3/highres_479775251.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/b/9/3/600_479775251.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/b/9/3/thumb_479775251.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 27,
+      "waitlistCount": 0,
+      "totalCount": 27
+    },
+    "venues": [
+      {
+        "id": "25330302",
+        "name": "Columbus Collaboratory",
+        "address": "1375 Perry Street",
+        "city": "Columbus",
+        "state": "OH",
+        "country": "US",
+        "lat": 39.9888,
+        "lon": -83.0195,
+        "postalCode": "43201",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Columbus",
+      "urlname": "rladies-columbus"
+    }
+  },
+  {
+    "id": "259570284",
+    "title": "Data visualization with ggplot2 📊📈- Vol 2",
+    "description": "Since no one came forward to host this meetup (yes ladies, this time I am totally fine being the bad cop, and will pick someone... 😈) I will present some ggplot2 material I had from before.\n\nFor those who are less familiar with ggplot2:\nIt is a wonderful and very popular data visualization package in R. It provides all sorts of functions to customize any bits and pieces you can imagine in a plot.\n\nBeginners are welcome, although some familiarity with R is needed. And if you are used to plotting with base R plot, I'd say it's time to spice things up with ggplot2!\n\nIn our last ggplot2 meetup we mainly talked about point (scatter) plots. I will pick up from there, show a more customized example and move on to plotting:\n- histograms\n- barplots\n- boxplots\n- doxplots\n- errorbars\n\nI know it's a little ambitious, so please let's all try to get there in time. (I'll try to do my best too 😅)\n\nMaterials will be available on R-Ladies github under meetup presentations repo of our chapter (https://github.com/rladies/meetup-presentations_columbus) on the day of the meetup.\n\nPlease bring your laptop and have R and RStudio (and the tidyverse package) installed and working. But if things don't work and you're having issues, don't worry! We're here to help (◕‿◕✿)\n\nAnd we'll have pizza! 🍕\n\nParking: Park in any spot marked \"Reserved for the Columbus Collaboratory\". There should be more than enough available- all are free. If you find that these spots are filled - park anywhere in surrounding lots and Katie will give you a day pass for your dashboard.\n\nCall Katie if any issues finding it (440-452-6423).\nDirections and map also available here:\nhttp://columbuscollaboratory.com/Contact",
+    "status": "PAST",
+    "dateTime": "2019-03-14T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-columbus/events/259570284/",
+    "featuredEventPhoto": {
+      "id": "479276691",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/d/7/3/highres_479276691.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/d/7/3/600_479276691.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/d/7/3/thumb_479276691.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 16,
+      "waitlistCount": 0,
+      "totalCount": 16
+    },
+    "venues": [
+      {
+        "id": "25330302",
+        "name": "Columbus Collaboratory",
+        "address": "1375 Perry Street",
+        "city": "Columbus",
+        "state": "OH",
+        "country": "US",
+        "lat": 39.9888,
+        "lon": -83.0195,
+        "postalCode": "43201",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Columbus",
+      "urlname": "rladies-columbus"
+    }
+  },
+  {
+    "id": "258157595",
+    "title": "RStudio conference Highlights",
+    "description": "RStudio conference took place last week in Austin TX.\nBut don't worry if you missed it!\nGenelle Denzin, one of our members, is attending the conference and will be sharing the highlights with us -- you're the best Genelle!\nAmanda Gadrow, software engineer at RStudio, who gave a presentation on \"Debugging techniques in RStudio\" at rstudio:conf will also be joining us.\nCome meet us to find out about the newest trends & packages in the R world and hear the highlights from this year's conference!\n\nParking: Park in any spot marked \"Reserved for the Columbus Collaboratory\". There should be more than enough available- all are free. If you find that these spots are filled - park anywhere in surrounding lots and Katie will give you a day pass for your dashboard.\n\nCall Katie if any issues finding it (440-452-6423).\nDirections and map also available here:\nhttp://columbuscollaboratory.com/Contact",
+    "status": "PAST",
+    "dateTime": "2019-02-21T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-columbus/events/258157595/",
+    "featuredEventPhoto": {
+      "id": "477898631",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/e/5/0/7/highres_477898631.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/e/5/0/7/600_477898631.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/5/0/7/thumb_477898631.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 27,
+      "waitlistCount": 0,
+      "totalCount": 27
+    },
+    "venues": [
+      {
+        "id": "25330302",
+        "name": "Columbus Collaboratory",
+        "address": "1375 Perry Street",
+        "city": "Columbus",
+        "state": "OH",
+        "country": "US",
+        "lat": 39.9888,
+        "lon": -83.0195,
+        "postalCode": "43201",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Columbus",
+      "urlname": "rladies-columbus"
+    }
+  },
+  {
+    "id": "274102387",
+    "title": "Harmonizing Docker and R",
+    "description": "This month we will take a short break from tidymodels and talk about containerization with Docker!\n\nDr. Stephanie LaHaye will introduce us to the world of Docker and will highlight the key reasons why Docker is an excellent and integral tool for anyone aiming to make their code more reproducible and shareable, and why it is essential when sharing to users in outside environments. We will learn how to launch Docker, check for images on our local systems, push and pull from Docker Hub, create a basic Dockerfile, and finally use it to run an Rscript.\n\nBefore the presentation, please install Docker by following the instructions for\n- mac (https://docs.docker.com/mac/step_one/)\n- linux (https://docs.docker.com/linux/step_one/)\n- windows (https://docs.docker.com/get-started/)\n\nStephanie will be presenting from her Mac and she will be using Mac Docker Desktop (https://docs.docker.com/docker-for-mac/install/).\n\nYou can find the meetup materials at: https://github.com/sdl002/R_Docker_Intro\n\nStephanie is a Senior Bioinformatics Scientist at the Institute for Genomic Medicine at Nationwide Children’s Hospital in Columbus, Ohio. She attended Michigan State University for her undergraduate work where she received a bachelor of science in Genomics and Molecular Genetics and a bachelor of science in Human Biology. She then attended the Ohio State University for her PhD in Molecular Genetics, where she focused on cardiovascular genomics research. After graduate school Stephanie did a postdoc at the Institute for Genomic Medicine, focusing on the development of automated pipelines using serverless technology to handle next generation sequencing data for pediatric cancer patients.\n___________________________________________________________________________________\n\nR-Ladies provides a harassment-free space to all who are interested to share and learn about R!*\n\nAre you a woman or gender-non-conforming person interested in speaking? Please message the organizers!\n___________________________________________________________________________________\n\nWe are holding our meetups remotely until further notice.\n\n* R-Ladies Global Code of Conduct: https://rladies.org/code-of-conduct",
+    "status": "PAST",
+    "dateTime": "2020-12-10T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-columbus/events/274102387/",
+    "featuredEventPhoto": {
+      "id": "493883951",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/d/8/f/highres_493883951.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/d/8/f/600_493883951.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/d/8/f/thumb_493883951.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 53,
+      "waitlistCount": 0,
+      "totalCount": 53
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Columbus",
+      "urlname": "rladies-columbus"
+    }
+  },
+  {
+    "id": "273807485",
+    "title": "R-Ladies Columbus Monthly Meetup",
+    "description": "In this session, Ezgi will talk about the tidymodels framework is a collection of packages for modeling and machine learning using tidyverse principles.\n\nWe will continue with the second get started article on tidymodels.org: https://www.tidymodels.org/start/recipes/\n\nThis will be a virtual even please see the meeting information below:\nPassword: rladies\n\nR-Ladies provides a harassment-free space to all who are interested to share and learn about R!*\n\nAre you a woman or gender-non-conforming person interested in speaking? Please message the organizers!\n___________________________________________________________________________________\n\nWe are holding our meetups remotely until further notice.\n\n* R-Ladies Global Code of Conduct: https://rladies.org/code-of-conduct",
+    "status": "PAST",
+    "dateTime": "2020-11-12T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-columbus/events/273807485/",
+    "featuredEventPhoto": {
+      "id": "492877402",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/2/1/a/highres_492877402.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/2/1/a/600_492877402.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/2/1/a/thumb_492877402.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 43,
+      "waitlistCount": 0,
+      "totalCount": 43
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Columbus",
+      "urlname": "rladies-columbus"
+    }
+  },
+  {
+    "id": "273675293",
+    "title": "R-Ladies Columbus Monthly Meetup",
+    "description": "In this session, Genelle will talk about Shiny Apps.\nShe will share and walk us through several Shiny apps she built.\n\nThis will be a virtual even please see the meeting information below:\n\nJoin Zoom Meeting\nhttps://osu.zoom.us/j/92667422116?pwd=MnZzVVE3NEZvenV4cmp4d2pOQndCZz09\n\nMeeting ID: 926 6742 2116\nPassword: rladies\n\nJoin by SIP\n92667422116@zoomcrc.com\n\nR-Ladies provides a harassment-free space to all who are interested to share and learn about R!*\n\nAre you a woman or gender-non-conforming person interested in speaking? Please message the organizers!\n___________________________________________________________________________________\n\nWe are holding our meetups remotely until further notice.\n\n* R-Ladies Global Code of Conduct: https://rladies.org/code-of-conduct",
+    "status": "CANCELLED",
+    "dateTime": "2020-11-12T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-columbus/events/273675293/",
+    "featuredEventPhoto": {
+      "id": "492269388",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/2/c/c/highres_492269388.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/2/c/c/600_492269388.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/2/c/c/thumb_492269388.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Columbus",
+      "urlname": "rladies-columbus"
+    }
+  },
+  {
+    "id": "273101367",
+    "title": "R-Ladies Columbus Monthly Meetup",
+    "description": "In this session, Ezgi will talk about the tidymodels framework is a collection of packages for modeling and machine learning using tidyverse principles.\n\nThis will be a virtual even please see the meeting information below:\n\nJoin Zoom Meeting\nhttps://osu.zoom.us/j/95152180846?pwd=V1o3eXZSRjVFTkhJU2FJejFQL1ZEdz09\n\nMeeting ID: 951 5218 0846\nPassword: rladies\n\nR-Ladies provides a harassment-free space to all who are interested to share and learn about R!*\n\nAre you a woman or gender-non-conforming person interested in speaking? Please message the organizers!\n___________________________________________________________________________________\n\nWe are holding our meetups remotely until further notice.\n\n* R-Ladies Global Code of Conduct: https://rladies.org/code-of-conduct",
+    "status": "PAST",
+    "dateTime": "2020-10-08T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-columbus/events/273101367/",
+    "featuredEventPhoto": {
+      "id": "492877402",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/2/1/a/highres_492877402.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/2/1/a/600_492877402.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/2/1/a/thumb_492877402.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 20,
+      "waitlistCount": 0,
+      "totalCount": 20
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": 39.9888,
+        "lon": -83.0195,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Columbus",
+      "urlname": "rladies-columbus"
+    }
+  },
+  {
+    "id": "272563697",
+    "title": "R-Ladies Columbus Monthly Meetup",
+    "description": "In this session, Genelle will talk about Shiny Apps.\nShe will share and walk us through several Shiny apps she built.\n\nThis will be a virtual even please see the meeting information below:\n\nJoin Zoom Meeting\nhttps://osu.zoom.us/j/92667422116?pwd=MnZzVVE3NEZvenV4cmp4d2pOQndCZz09\n\nMeeting ID: 926 6742 2116\nPassword: rladies\n\nJoin by SIP\n92667422116@zoomcrc.com\n\nR-Ladies provides a harassment-free space to all who are interested to share and learn about R!*\n\nAre you a woman or gender-non-conforming person interested in speaking? Please message the organizers!\n___________________________________________________________________________________\n\nWe are holding our meetups remotely until further notice.\n\n* R-Ladies Global Code of Conduct: https://rladies.org/code-of-conduct",
+    "status": "PAST",
+    "dateTime": "2020-09-10T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-columbus/events/272563697/",
+    "featuredEventPhoto": {
+      "id": "492269388",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/2/c/c/highres_492269388.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/2/c/c/600_492269388.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/2/c/c/thumb_492269388.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 23,
+      "waitlistCount": 0,
+      "totalCount": 23
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": 39.9888,
+        "lon": -83.0195,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Columbus",
+      "urlname": "rladies-columbus"
+    }
+  },
+  {
+    "id": "271947889",
+    "title": "R-Ladies Columbus Monthly Meetup",
+    "description": "Social Hour- Intros and R-Ladies Check-ins\n\nR-Ladies provides a harassment-free space to all who are interested to share and learn about R!*\n\nAre you a woman or gender-non-conforming person interested in speaking? Please message the organizers!\n___________________________________________________________________________________\nThis meetup will be different than usual! We plan to offer the space for local Columbus R-Ladies participants to (optionally!) introduce themselves, describe what kinds of things they use R for. We plan to keep it lively so everyone can feel more connected in these times!\n\nTime: Aug 13, 2020 06:00 PM Eastern Time (US and Canada)\nJoin Zoom Meeting\nhttps://osu.zoom.us/j/97533825271?pwd=aHlhR3NqdUZXQVh3c2JyT2t1V292QT09\nMeeting ID: 975 3382 5271\nPassword: rladies08\n\n* R-Ladies Global Code of Conduct: https://rladies.org/code-of-conduct",
+    "status": "PAST",
+    "dateTime": "2020-08-13T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-columbus/events/271947889/",
+    "featuredEventPhoto": {
+      "id": "491742520",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/6/1/8/highres_491742520.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/6/1/8/600_491742520.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/6/1/8/thumb_491742520.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 18,
+      "waitlistCount": 0,
+      "totalCount": 18
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": 39.9888,
+        "lon": -83.0195,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Columbus",
+      "urlname": "rladies-columbus"
+    }
+  },
+  {
+    "id": "271113318",
+    "title": "R-Ladies Columbus Monthly Meetup: Web Analytics Wednesdays Crossover Event!",
+    "description": "A Crossover Event with Web Analytics Wednesdays (WAW)!: R Meets Digital Analytics (Hands-on!)\n\nThis month’s event will be a crossover with the WAW meetup! We will be mostly following the R-Ladies format, which means you can easily follow along with the speaker (Katie) she works through some code exploring a digital analytics data set. The WAW crew will bring the expertise on all things digital attribution and analytics to add some color to this particular business problem.\n\nNo previous coding experience is required in order for you to follow along! We will be using RStudio Cloud, which is a free, browser-based environment, so be sure to sign up for an account prior to the meetup.\n\nLink to RStudio Cloud project: https://rstudio.cloud/project/1443232\n\nAbout Web Analytics Wednesdays\nWeb Analytics Wednesdays are an opportunity for digital analysts, digital marketers, and anyone who is interested in learning more about digital analytics to get together and share their experiences. And strengthen the central Ohio digital marketing community in the process!\nAll of our Columbus WAWs are free of charge thanks to the generosity of our sponsors: Clarivoy, TeamBuilder Search, InfoTrust, and Claravine. While lately events have been online - be sure to follow WAW closely as there in-person events offer great opportunities for networking and connecting with digital analytics practitioners and leaders (plus - tasty food and beverages!)\n\nfor more info please visit cbuswaw.com",
+    "status": "PAST",
+    "dateTime": "2020-07-15T18:30:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-columbus/events/271113318/",
+    "featuredEventPhoto": {
+      "id": "491013591",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/3/3/7/highres_491013591.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/3/3/7/600_491013591.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/3/3/7/thumb_491013591.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 49,
+      "waitlistCount": 0,
+      "totalCount": 49
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": 39.9888,
+        "lon": -83.0195,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Columbus",
+      "urlname": "rladies-columbus"
+    }
+  },
+  {
+    "id": "270660291",
+    "title": "Shiny Enterprise Applications",
+    "description": "This month we are thrilled to have Dr. Connie Brett!\n\nShe will be talking about Shiny Enterprise Applications - considerations for success and tools to get it done right.\n\nThis will be a virtual meetup, so please scroll down to see the details about how to join the call!\n\nConnie will present in detail the challenges of designing and developing shiny applications for larger scaling and sharing (for example in an enterprise setting). She will talk in detail about scoping, planning, and tools for meeting these needs. The periscope R package will be introduced and used in a demonstration to show you how to start a shiny application that makes meeting these challenges easier so you can focus on the content of your application.\n\nConnie is the CEO, Founder, and Principal Data Scientist of Aggregate Genius Inc. located in British Columbia, Canada. She is responsible for analytics oversight as well as delivering on the corporate vision backing the \"Know what you KNOW\" philosophy of the company. She delivers demonstrations, concept proofs, statistical models, feasibility studies, and productionalized architectures centered around big-data and analytics products.\n\nBefore founding Aggragate Genius, she received her B.A from Knox College followed by an M.S. and Ph.D. from The Ohio State University in computational chemistry. So even though she's now settled in Canada, she has some roots in Columbus, OH! After 20 years focusing on producing solid analytical models, software and visualization tools, as well as custom IT solutions architecture, she also became an entrepreneur with Aggragate Genius. We asked her to also talk a little bit about her career path as well and will provide some time for career related questions from the audience.\n\nZoom information\n\nTopic: R-Ladies June Meetup\nTime: Jun 11, 2020 06:00 PM Eastern Time (US and Canada)\n\nJoin Zoom Meeting\nhttps://osu.zoom.us/j/91659975178?pwd=NFNVRmVyK0l3MldmdU1abkxmS1NQdz09\n\nPassword: rladies\n\nOne tap mobile\n+16468769923,,91659975178# US (New York)\n+16513728299,,91659975178# US (St. Paul)\n\nDial by your location\n+1 646 876 9923 US (New York)\n+1 651 372 8299 US (St. Paul)\n+1 301 715 8592 US (Germantown)\n+1 312 626 6799 US (Chicago)\n+1 408 638 0968 US (San Jose)\n+1 669 900 6833 US (San Jose)\n+1 253 215 8782 US (Tacoma)\n+1 346 248 7799 US (Houston)\nMeeting ID: 916 5997 5178\nPassword: 738583\nFind your local number: https://osu.zoom.us/u/adEVVVE5Fm\n\nJoin by SIP\n91659975178@zoomcrc.com\n\nJoin by H.323\n162.255.37.11 (US West)\n162.255.36.11 (US East)\n115.114.131.7 (India Mumbai)\n115.114.115.7 (India Hyderabad)\n213.19.144.110 (EMEA)\n103.122.166.55 (Australia)\n64.211.144.160 (Brazil)\n69.174.57.160 (Canada)\n207.226.132.110 (Japan)\nMeeting ID: 916 5997 5178\nPassword: 738583",
+    "status": "PAST",
+    "dateTime": "2020-06-11T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-columbus/events/270660291/",
+    "featuredEventPhoto": {
+      "id": "490609149",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/f/f/d/highres_490609149.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/f/f/d/600_490609149.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/f/f/d/thumb_490609149.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 52,
+      "waitlistCount": 0,
+      "totalCount": 52
+    },
+    "venues": [
+      {
+        "id": "25330302",
+        "name": "Columbus Collaboratory",
+        "address": "1375 Perry Street",
+        "city": "Columbus",
+        "state": "OH",
+        "country": "US",
+        "lat": 39.9888,
+        "lon": -83.0195,
+        "postalCode": "43201",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Columbus",
+      "urlname": "rladies-columbus"
+    }
+  },
+  {
+    "id": "268782650",
+    "title": "R-Ladies Columbus Monthly Meetup - Tidymodels!!!",
+    "description": "Let's get started with the tidymodels ecosystem together!! We will all learn how to get started with tidymodels, by working together through their 5 \"starter\" articles https://www.tidymodels.org/start/\n\nThe tidymodels framework is a collection of packages for modeling and machine learning using tidyverse principles. The tidymodels team has been hard at work over the past year plus building packages that building and training models easier and more streamlined. We've been super excited about it for a while and the great documentation we are so lucky to have from the tidyverse is now hitting the press - so let's learn about it together!\n\nBe patient with us - we are learning :) Katie will open up RStudio Cloud, and work through tutorials 1-5 linked above. We encourage you all to do the same on your machines and let's just bring up questions and dive deeper as we go! Ezgi, our resident expert will be standing by to jump in when Katie goes off the rails ;)\n\nScript content on RStudio Cloud here\n\nhttps://rstudio.cloud/project/1276162\n\n___________________________________________________________________________________\nPlease come with a machine that can access rstudio.cloud or RStudio on your local machine.\n\nThis will be an online meeting. Instructions are posted below:\n\nJoin Zoom Meeting\nhttps://osu.zoom.us/j/93932786172?pwd=eG9VVGVzVVFyWi9SUThHTE41ZDFHZz09\n\nPassword: RLadies\n\nOne tap mobile\n+13017158592,,93932786172# US (Germantown)\n+13126266799,,93932786172# US (Chicago)\n\nDial by your location\n+1 301 715 8592 US (Germantown)\n+1 312 626 6799 US (Chicago)\n+1 646 876 9923 US (New York)\n+1 651 372 8299 US (St. Paul)\n+1 253 215 8782 US (Tacoma)\n+1 346 248 7799 US (Houston)\n+1 408 638 0968 US (San Jose)\n+1 669 900 6833 US (San Jose)\nMeeting ID: 939 3278 6172\nPassword: 421529\nFind your local number: https://osu.zoom.us/u/abHMZn6iIF\n\nJoin by SIP\n93932786172@zoomcrc.com\n\nJoin by H.323\n162.255.37.11 (US West)\n162.255.36.11 (US East)\n115.114.131.7 (India Mumbai)\n115.114.115.7 (India Hyderabad)\n213.19.144.110 (EMEA)\n103.122.166.55 (Australia)\n64.211.144.160 (Brazil)\n69.174.57.160 (Canada)\n207.226.132.110 (Japan)\nMeeting ID: 939 3278 6172\nPassword: 421529",
+    "status": "PAST",
+    "dateTime": "2020-05-14T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-columbus/events/268782650/",
+    "featuredEventPhoto": {
+      "id": "490369491",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/1/5/3/highres_490369491.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/1/5/3/600_490369491.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/1/5/3/thumb_490369491.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 60,
+      "waitlistCount": 0,
+      "totalCount": 60
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": 39.9888,
+        "lon": -83.0195,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Columbus",
+      "urlname": "rladies-columbus"
+    }
+  },
+  {
+    "id": "268782608",
+    "title": "R-Ladies Columbus Monthly Meetup",
+    "description": "Sentiment Analysis!\n___________________________________________________________________________________\nThe Objective is to create a neural network that can predict if a given movie review is positive or negative. This type of computation is also called Sentiment Analysis.\n\nI will be working with “IMDB data-set”, a set of 50,000 reviews from the Internet Movie Database. They are split into 25,000 reviews for training and 25,000 reviews for testing, each set consisting in 50% negative and 50% positive reviews.\n\nI will use Keras library to build neural network and walk you through building and training model, model tuning with different hyper-parameter (Optimizer, Loss Function, No. of layers, epoch, batch_size ). I will try and improve the accuracy of model by experimenting with different hyper-parameters.\n\nThis will be an online meeting. Instructions to join the meeting are given below:\n\nJoin Zoom Meeting\nhttps://osu.zoom.us/j/970489211?pwd=a2JZNE1wc2Y3UDZmWDkxVm9JTDBiZz09\n\nPassword: RLadies\n\nOne tap mobile\n+16468769923,,970489211# US (New York)\n+13126266799,,970489211# US (Chicago)\n\nDial by your location\n+1 646 876 9923 US (New York)\n+1 312 626 6799 US (Chicago)\n+1 301 715 8592 US\n+1 346 248 7799 US (Houston)\n+1 408 638 0968 US (San Jose)\n+1 651 372 8299 US\n+1 669 900 6833 US (San Jose)\n+1 253 215 8782 US\nMeeting ID: 970 489 211\nPassword: 852767\nFind your local number: https://osu.zoom.us/u/ac6pFqRxh7\nJoin by SIP\n970489211@zoomcrc.com",
+    "status": "PAST",
+    "dateTime": "2020-04-09T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-columbus/events/268782608/",
+    "featuredEventPhoto": {
+      "id": "490039715",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/d/0/3/highres_490039715.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/d/0/3/600_490039715.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/d/0/3/thumb_490039715.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 33,
+      "waitlistCount": 0,
+      "totalCount": 33
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": 39.9888,
+        "lon": -83.0195,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Columbus",
+      "urlname": "rladies-columbus"
+    }
+  },
+  {
+    "id": "268540502",
+    "title": "R-Ladies Columbus Monthly Meetup",
+    "description": "Sentiment Analysis!\n___________________________________________________________________________________\nThe Objective is to create a neural network that can predict if a given movie review is positive or negative. This type of computation is also called Sentiment Analysis.\n\nI will be working with “IMDB data-set”, a set of 50,000 reviews from the Internet Movie Database. They are split into 25,000 reviews for training and 25,000 reviews for testing, each set consisting in 50% negative and 50% positive reviews.\n\nI will use Keras library to build neural network and walk you through building and training model, model tuning with different hyper-parameter (Optimizer, Loss Function, No. of layers, epoch, batch_size ). I will try and improve the accuracy of model by experimenting with different hyper-parameters.\n\nPlease come with a machine that can access rstudio.cloud. We will share link to project prior to session.\n\nAs always pizza and soft drinks will be available courtesy of our great local supporter, the Columbus Collaboratory.\n\nParking: Park in any spot marked \"Reserved for the Columbus Collaboratory\". There should be more than enough available- all are free. If you find that these spots are filled - park anywhere in surrounding lots See pics below for directions.",
+    "status": "CANCELLED",
+    "dateTime": "2020-03-12T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-columbus/events/268540502/",
+    "featuredEventPhoto": {
+      "id": "489332423",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/e/a/7/highres_489332423.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/e/a/7/600_489332423.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/e/a/7/thumb_489332423.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 30,
+      "waitlistCount": 0,
+      "totalCount": 30
+    },
+    "venues": [
+      {
+        "id": "25330302",
+        "name": "Columbus Collaboratory",
+        "address": "1375 Perry Street",
+        "city": "Columbus",
+        "state": "OH",
+        "country": "US",
+        "lat": 39.9888,
+        "lon": -83.0195,
+        "postalCode": "43201",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Columbus",
+      "urlname": "rladies-columbus"
+    }
+  },
+  {
+    "id": "268540456",
+    "title": "RStudio Conf Recap and learnR!",
+    "description": "Couldn't make it to RStudio Conference in San Francisco? R-Ladies Columbus has you covered! We will sure our specific highlights from the latest news to all of the coolest packages and functions we learned about. Ezgi will also review some amazing materials she's created for teaching R to the next generation, using the learnR package. Pizza will be provided\n\nTypical info below\n___________________________________________________________________________________\nPlease come with a machine that can access rstudio.cloud. We will share link to project prior to session.\n\nAs always pizza and soft drinks will be available courtesy of our great local supporter, the Columbus Collaboratory.\n\nParking: Park in any spot marked \"Reserved for the Columbus Collaboratory\". There should be more than enough available- all are free. If you find that these spots are filled - park anywhere in surrounding lots See pics below for directions.",
+    "status": "PAST",
+    "dateTime": "2020-02-13T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-columbus/events/268540456/",
+    "featuredEventPhoto": {
+      "id": "488810033",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/3/7/1/highres_488810033.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/3/7/1/600_488810033.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/3/7/1/thumb_488810033.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 8,
+      "waitlistCount": 0,
+      "totalCount": 8
+    },
+    "venues": [
+      {
+        "id": "26549085",
+        "name": "1375 Perry St",
+        "address": "1375 Perry St",
+        "city": "Columbus",
+        "state": "OH",
+        "country": "us",
+        "lat": 39.9888,
+        "lon": -83.0195,
+        "postalCode": "43201",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Columbus",
+      "urlname": "rladies-columbus"
+    }
+  },
+  {
+    "id": "267747964",
+    "title": "Help Analyze Australian Wildfires!",
+    "description": "This month we are excited to talk a bit about Tidy Tuesday and the Australian fires! We are going to break into groups of 3 or 4 and work together on using the Tidy Tuesday Australian fires dataset to create a data visualization using R. We can dig into the data, hopefully create some cool visualizations, and gain some experience working to create something together.\n\nAt the end of the time, we can each show some results and maybe put them on Twitter to share with the broader R community. If at the end of the meetup, groups are not done and want to continue to work toward something more final, attendees are welcome to use the Slack channel to communicate and post questions and results.\n\nGo here to explore the Tidy Tuesday GitHub page about this week's dataset: https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-01-07/readme.md\n___________________________________________________________________________________\nPlease come with a machine that can access rstudio.cloud. We will share link to project prior to session.\n\nAs always pizza and soft drinks will be available courtesy of our great local supporter, the Columbus Collaboratory.\n\nParking: Park in any spot marked \"Reserved for the Columbus Collaboratory\". There should be more than enough available- all are free. If you find that these spots are filled - park anywhere in surrounding lots See pics below for directions.\n\nLink to the RStudio Cloud workspace:\nhttps://rstudio.cloud/project/824735",
+    "status": "PAST",
+    "dateTime": "2020-01-16T18:00:00-05:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-columbus/events/267747964/",
+    "featuredEventPhoto": {
+      "id": "487984806",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/2/c/6/highres_487984806.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/2/c/6/600_487984806.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/2/c/6/thumb_487984806.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 22,
+      "waitlistCount": 0,
+      "totalCount": 22
+    },
+    "venues": [
+      {
+        "id": "25330302",
+        "name": "Columbus Collaboratory",
+        "address": "1375 Perry Street",
+        "city": "Columbus",
+        "state": "OH",
+        "country": "US",
+        "lat": 39.9888,
+        "lon": -83.0195,
+        "postalCode": "43201",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Columbus",
+      "urlname": "rladies-columbus"
+    }
+  },
+  {
+    "id": "282583319",
+    "title": "Tech Holiday Party! ",
+    "description": "Help R-Ladies represent at the best Tech Holiday party in town! I know we've been a bit off the grid - what better way to reconnect than over tech chat and fun! This will replace our regular monthly meetup for December. NOTE: this is an in-person event at CoverMyMeds downtown. For more information and to register to attend please visit this site.\n\nYou must register for this event. Please note vaccine requirements set forth by CoverMyMeds that MUST be complied with in order to attend.\n\nRegister here :\nhttps://www.eventbrite.com/e/columbus-tech-community-holiday-celebration-2021-registration-211834281037",
+    "status": "PAST",
+    "dateTime": "2021-12-17T18:00:00-05:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-columbus/events/282583319/",
+    "featuredEventPhoto": {
+      "id": "500726199",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/6/5/7/highres_500726199.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/6/5/7/600_500726199.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/6/5/7/thumb_500726199.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 9,
+      "waitlistCount": 0,
+      "totalCount": 9
+    },
+    "venues": [
+      {
+        "id": "26127199",
+        "name": "CoverMyMeds",
+        "address": "910 John St",
+        "city": "Columbus",
+        "state": "OH",
+        "country": "us",
+        "lat": 39.9641,
+        "lon": -83.0256,
+        "postalCode": "43215",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Columbus",
+      "urlname": "rladies-columbus"
+    }
+  },
+  {
+    "id": "279455671",
+    "title": "R-Ladies Columbus Happy Hour!",
+    "description": "Hello everyone!\n\nIt has been a long long time since we met in person!\nLet's enjoy the nice weather and each other's company in real life!\nJoin us for a Happy Hour at Seventh Son Brewing Co. in Columbus!",
+    "status": "PAST",
+    "dateTime": "2021-07-28T17:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-columbus/events/279455671/",
+    "featuredEventPhoto": {
+      "id": "497516455",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/c/8/7/highres_497516455.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/c/8/7/600_497516455.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/c/8/7/thumb_497516455.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 16,
+      "waitlistCount": 0,
+      "totalCount": 16
+    },
+    "venues": [
+      {
+        "id": "26079538",
+        "name": "Seventh Son Brewing Co.",
+        "address": "1101 N 4th St",
+        "city": "Columbus",
+        "state": "OH",
+        "country": "us",
+        "lat": 39.9854,
+        "lon": -82.9997,
+        "postalCode": "43201",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Columbus",
+      "urlname": "rladies-columbus"
+    }
+  },
+  {
+    "id": "278735262",
+    "title": "R-Ladies Columbus Monthly Meetup",
+    "description": "We are at the end of our tidymodels start article saga!\nIn this session, Ezgi will be back to talking about the tidymodels framework, which is a collection of packages for modeling and machine learning using tidyverse principles.\n\nWe will continue with the 5th get started article on tidymodels.org:\nA predictive modeling case study\nhttps://www.tidymodels.org/start/case-study/\n\nWe will try fitting two models to predict if hotels guests had accompanied with children or babies with them using lasso and random forest!\n\nIf you never worked with tidymodels before or did not attend any of our previous meetups where we covered tidymodels, you can prime yourself with the first four start articles: https://www.tidymodels.org/start/\n\nR-Ladies provides a harassment-free space to all who are interested to share and learn about R!*\n___________________________________________________________________________________\n\nWe are holding our meetups remotely until further notice.\n\n* R-Ladies Global Code of Conduct: https://rladies.org/code-of-conduct",
+    "status": "PAST",
+    "dateTime": "2021-06-10T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-columbus/events/278735262/",
+    "featuredEventPhoto": {
+      "id": "495119498",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/e/8/6/a/highres_495119498.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/e/8/6/a/600_495119498.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/8/6/a/thumb_495119498.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 13,
+      "waitlistCount": 0,
+      "totalCount": 13
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Columbus",
+      "urlname": "rladies-columbus"
+    }
+  },
+  {
+    "id": "276735319",
+    "title": "R-Ladies Columbus Monthly Meetup",
+    "description": "This month we will be hearing about a wide range of practical applications of R in the agronomy field!\n\nDr. Marin Harbur will be introduce her work with machine learning and Shiny applications. She will then provide an introduction to the use of spatial statistics in R. This will include map projections, the spatial features (sf) package, and kriging (interpolating) data using stars datasets. She will also show how to present spatial data using the leaflet package.\n\nMarin is a Senior Data Analyst at Winfield United, the crop inputs division of Land O Lakes. She is also an Assistant Teaching Professor in the Department of Agronomy at Iowa State University, where she teaches Agronomy 513, Quantitative Methods in Agronomy. She graduated from Iowa State in 2003, where she co-majored in Crop Production and Physiology and Ecology and Evolutionary Biology. Marin lives in Lima Ohio with her wife, Kathleen, and two sons.\n\nR-Ladies provides a harassment-free space to all who are interested to share and learn about R!*\n\nAre you a woman or gender-non-conforming person interested in speaking? Please message the organizers!\n___________________________________________________________________________________\n\nWe are holding our meetups remotely until further notice.\n\n* R-Ladies Global Code of Conduct: https://rladies.org/code-of-conduct",
+    "status": "PAST",
+    "dateTime": "2021-04-08T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-columbus/events/276735319/",
+    "featuredEventPhoto": {
+      "id": "495590677",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/5/f/5/highres_495590677.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/5/f/5/600_495590677.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/5/f/5/thumb_495590677.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 17,
+      "waitlistCount": 0,
+      "totalCount": 17
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Columbus",
+      "urlname": "rladies-columbus"
+    }
+  },
+  {
+    "id": "275178977",
+    "title": "R-Ladies Columbus Monthly Meetup",
+    "description": "In this session, Ezgi will be back to talking about the tidymodels framework, which is a collection of packages for modeling and machine learning using tidyverse principles.\n\nWe will continue with the 4th get started article on tidymodels.org:\nTune model parameters\nhttps://www.tidymodels.org/start/tuning/\n\nIf you never worked with tidymodels before or did not attend any of our previous meetups where we covered tidymodels, you can prime yourself with the first three start articles: https://www.tidymodels.org/start/\n\nR-Ladies provides a harassment-free space to all who are interested to share and learn about R!*\n___________________________________________________________________________________\n\nWe are holding our meetups remotely until further notice.\n\n* R-Ladies Global Code of Conduct: https://rladies.org/code-of-conduct",
+    "status": "PAST",
+    "dateTime": "2021-03-11T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-columbus/events/275178977/",
+    "featuredEventPhoto": {
+      "id": "495119498",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/e/8/6/a/highres_495119498.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/e/8/6/a/600_495119498.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/8/6/a/thumb_495119498.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 17,
+      "waitlistCount": 0,
+      "totalCount": 17
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Columbus",
+      "urlname": "rladies-columbus"
+    }
+  },
+  {
+    "id": "275756252",
+    "title": "R-Ladies Columbus Monthly Meetup",
+    "description": "Subject: Set up your own blog with RStudio and the R package blogdown\n\nR-Ladies provides a harassment-free space to all who are interested to share and learn about R!*\n\nAre you a woman or gender-non-conforming person interested in speaking? Please message the organizers!\n___________________________________________________________________________________\n\nWe are holding our meetups remotely until further notice.\n\nGenelle will walk us through the steps she took to move her existing blog into a blogdown site using RStudio, blogdown, and GitHub.\n\nSome resources:\n\nBasic instructions: https://bookdown.org/yihui/blogdown/\nFind a theme you like: https://themes.gohugo.io/\nIf you're using Netlify: https://docs.netlify.com/configure-builds/common-configurations/\n\nFurther Reading:\n\nWhat to know before you adopt Hugo/blogdown, by Maëlle Salmon: https://masalmon.eu/2020/02/29/hugo-maintenance/\n\nUp & running with blogdown in 2021, by Alison Hill: https://alison.rbind.io/post/new-year-new-blogdown/\n\nChanging your blogdown workflow, by Dr. Mowinckel: https://drmowinckels.io/blog/2020-05-25-changing-you-blogdown-workflow/\n\nWriting a blogdown post for the ages, by Claus Wilke: https://clauswilke.com/blog/2020/09/08/a-blogdown-post-for-the-ages/\n\nR-Ladies Columbus blogdown\nThu, Feb 11, 2021 6:00 PM - 8:00 PM (EST)\nPlease join my meeting from your computer, tablet or smartphone.\nhttps://global.gotomeeting.com/join/861878989\nYou can also dial in using your phone.\n(For supported devices, tap a one-touch number below to join instantly.)\nUnited States: +1 (786) 535-3211\n- One-touch: tel:+17865353211,,861878989#\n\nAccess Code: 861-878-989\n\n* R-Ladies Global Code of Conduct: https://rladies.org/code-of-conduct",
+    "status": "PAST",
+    "dateTime": "2021-02-11T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-columbus/events/275756252/",
+    "featuredEventPhoto": {
+      "id": "494712597",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/1/3/5/highres_494712597.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/1/3/5/600_494712597.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/1/3/5/thumb_494712597.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 18,
+      "waitlistCount": 0,
+      "totalCount": 18
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Columbus",
+      "urlname": "rladies-columbus"
+    }
+  },
+  {
+    "id": "275110165",
+    "title": "R-Ladies Columbus Monthly Meetup",
+    "description": "Subject: TBD\n\nR-Ladies provides a harassment-free space to all who are interested to share and learn about R!*\n\nAre you a woman or gender-non-conforming person interested in speaking? Please message the organizers!\n___________________________________________________________________________________\n\nWe are holding our meetups remotely until further notice.\n\n* R-Ladies Global Code of Conduct: https://rladies.org/code-of-conduct",
+    "status": "CANCELLED",
+    "dateTime": "2021-02-11T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-columbus/events/275110165/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 8,
+      "waitlistCount": 0,
+      "totalCount": 8
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Columbus",
+      "urlname": "rladies-columbus"
+    }
+  },
+  {
+    "id": "274361157",
+    "title": "R-Ladies Columbus Monthly Meetup",
+    "description": "In this session, Ezgi will talk about the tidymodels framework is a collection of packages for modeling and machine learning using tidyverse principles.\n\nWe will continue with the third get started article on tidymodels.org: Evaluate your model with resampling\nhttps://www.tidymodels.org/start/resampling/\n\nR-Ladies provides a harassment-free space to all who are interested to share and learn about R!*\n\nAre you a woman or gender-non-conforming person interested in speaking? Please message the organizers!\n___________________________________________________________________________________\n\nWe are holding our meetups remotely until further notice.\n\n* R-Ladies Global Code of Conduct: https://rladies.org/code-of-conduct",
+    "status": "PAST",
+    "dateTime": "2021-01-14T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-columbus/events/274361157/",
+    "featuredEventPhoto": {
+      "id": "494331463",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/9/0/7/highres_494331463.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/9/0/7/600_494331463.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/9/0/7/thumb_494331463.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 24,
+      "waitlistCount": 0,
+      "totalCount": 24
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Columbus",
+      "urlname": "rladies-columbus"
+    }
+  }
+]

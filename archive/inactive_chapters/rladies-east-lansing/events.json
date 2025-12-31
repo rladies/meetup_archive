@@ -1,0 +1,1634 @@
+[
+  {
+    "id": "256555781",
+    "title": "2018 Holiday DataViz Challenge",
+    "description": "WHAT we are planning!\nJoin us for the R-Ladies East Lansing holiday Dessert Potluck.\nBring your data wrangling w/ R chops, a dessert to pass, and come prepared to tackle a data visualization challenge!\n* All R-users across all experience levels are welcome.\n\nSome #TidyTuesday challenges for your reference: https://github.com/rfordatascience/tidytuesday\n\nWe will follow up the challenge with visualization & code-related discussions as pertaining to Results, Issues, and Questions!\n\nAGENDA\n5:45–6:00 Doors open | Set-up & questions\n6:00–6:15 Meet & Greet\n6:15–6:20 Who we are | Announcements | What's next\n6:20–7:20 Work on the #TidyTuesday challenge\n7:20–7:30 Volunteers present their outcome!\n7:30–8:00 For those who can't stop working on the challenge!\n\n~ Join & continue the conversation on our Slack channel #20181203-challenge (https://rladies-eastlansing.slack.com)!\n\n*To benefit most from this event*\n1. please bring your laptop w/ pre-installed R & RStudio (https://www.rstudio.com/products/rstudio/) + tidyverse package (https://www.tidyverse.org/)\n2. Look through some previous #tidytuesday challenges to be mentally prepared! https://github.com/rfordatascience/tidytuesday\n* Having trouble with installation & set-up? Ping us on Slack (#20181203-challenge)!\n\n*Useful Resources*\n1. Past DataViz & TidyData workshop material from Oct & Nov ‘18: https://bit.ly/rlel-gdrive-20181008 & https://bit.ly/rlel-gdrive-20181105\n2. Relevant R (incl. tidyverse & ggplot2) & Slack cheatsheets: https://bit.ly/rlel-gdrive-cheatsheets\n3. Hands-On Programming with R by G Grolemund (https://rstudio-education.github.io/hopr/) & R for Data Science by H Wickham & G Grolemund (https://r4ds.had.co.nz/)\n* Start the discussion on Slack: https://rladies-eastlansing.slack.com OR http://bit.ly/rlel-joinslack-201811 (if you are a new member) #20181203-tidytuesday channel\n** Not on Slack? Email us: eastlansing@rladies.org\n\n💰Sponsor: Crowd-sourced! Dessert Potluck! :)",
+    "status": "PAST",
+    "dateTime": "2018-12-03T18:00:00-05:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-east-lansing/events/256555781/",
+    "featuredEventPhoto": {
+      "id": "476509548",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/1/8/c/highres_476509548.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/1/8/c/600_476509548.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/1/8/c/thumb_476509548.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 12,
+      "waitlistCount": 0,
+      "totalCount": 12
+    },
+    "venues": [
+      {
+        "id": "24436328",
+        "name": "Biomedical & Physical Sciences Building",
+        "address": "567 Wilson Road",
+        "city": "East Lansing",
+        "state": "MI",
+        "country": "us",
+        "lat": 42.7232,
+        "lon": -84.476,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies East Lansing",
+      "urlname": "rladies-east-lansing"
+    }
+  },
+  {
+    "id": "255404969",
+    "title": "Intro to Tidy Data w/ R",
+    "description": "WHO is this for?\n- If you are new to R & are short-budgeted on time!\n- If you'd like to start working with data in R w/o learning all the programming details first!!\n- If you have a neat data set you'd like to explore and visualize!\n- If you are a current R user but only familiar w/ base R!\n- If you are unfamiliar with pipes\n- If you have heard of tidyverse/dplyr/tidyr/tibble/ggplot but haven't had the chance to get started!\n\n*If any/all of this is true, this workshop might be for you!*\n\nWHAT we are planning!\n- basics of tidyverse & ’tidy data’\n- reshaping data with tidyr: gather, spread, separate, unite\n- exploring data with dplyr: filter, select, mutate, transmute, arrange, summarise, group_by\n- how tidy data talks to ggplot\n- a quick summary of ggplot2\n- finally, publication quality figures w/ R!\n\nAGENDA\n6:00–6:15 Meet & Greet | 🍕| Set-up\n6:15–6:25 Who we are | Announcements | What's next\n6:25–7:25 Workshop: Intro to Tidy Data w/ R\n7:25–7:30 Any more Qs? How to reach us to continue this conversation!\n\n*To benefit most from this workshop*\n1. please bring your laptop w/\n2. pre-installed R & RStudio (https://www.rstudio.com/products/rstudio/)\n3. tidyverse package (https://www.tidyverse.org/)\n4. gapminder dataset package (installation: https://cran.r-project.org/web/packages/gapminder/; about gapminder: https://www.gapminder.org/data/)\n* Having trouble with installation & set-up? Ping us on Slack!\n\n*Useful Resources*\n1. Past DataViz workshop material from Oct 8 ‘18: https://bit.ly/rlel-gdrive-20181008\n2. Relevant R (incl. tidyverse & ggplot2) & Slack cheatsheets: http://bit.ly/rlel-gdrive-cheatsheets\n3. Hands-On Programming with R by G Grolemund (https://rstudio-education.github.io/hopr/) & R for Data Science by H Wickham & G Grolemund (https://r4ds.had.co.nz/)\n* Start the discussion on Slack: https://rladies-eastlansing.slack.com OR http://bit.ly/rlel-joinslack-201811 (if you are a new member) #20181105-tidydata channel\n** Not on Slack? Email us: eastlansing@rladies.org\n\n💰Sponsor: Business Analytics, MSU (https://broad.msu.edu/)\nLittle Miss Tidyverse photo credit: Dani Navarro & Jen Richmond from R-Ladies Sydney!",
+    "status": "PAST",
+    "dateTime": "2018-11-05T18:00:00-05:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-east-lansing/events/255404969/",
+    "featuredEventPhoto": {
+      "id": "475326657",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/a/0/1/highres_475326657.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/a/0/1/600_475326657.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/a/0/1/thumb_475326657.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 78,
+      "waitlistCount": 0,
+      "totalCount": 78
+    },
+    "venues": [
+      {
+        "id": "24436328",
+        "name": "Biomedical & Physical Sciences Building",
+        "address": "567 Wilson Road",
+        "city": "East Lansing",
+        "state": "MI",
+        "country": "us",
+        "lat": 42.7232,
+        "lon": -84.476,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies East Lansing",
+      "urlname": "rladies-east-lansing"
+    }
+  },
+  {
+    "id": "255007030",
+    "title": "Intro to Data Visualization w/ R",
+    "description": "WHAT TO EXPECT\nThis workshop will provide a practical introductory overview (with hands-on practice) with making data visualizations in R using ggplot2 (https://ggplot2.org/).\n\nTOPICS\n- why everyone talks about data visualization!\n- how to pick the right visualization for your data\n- overview of visualization packages: ggplot2, ggvis, leaflet, plotly\n- why use ggplot2 in R for visualization\n- the basics of 'aesthetics'\n- the basics of 'geoms'\n- other ways to customize the layout of your visualization\n- publication quality figures w/ R\n\nAGENDA\n6:00–6:10 Meet & Greet | 🍕\n6:10–6:20 Future Meetup planning + Set-up\n6:20–7:20 Workshop: Intro to Data Visualization w/ R\n7:20–7:30 Q&A\n\n* To benefit most from this workshop, please bring your laptop with pre-installed RStudio (https://www.rstudio.com/products/rstudio/).\nPlease ping us on Slack (https://rladies-eastlansing.slack.com) or email us (eastlansing@rladies.org) with questions, if any.\n\nSponsor: Social Science Data Analytics, MSU https://ssda.msu.edu/",
+    "status": "PAST",
+    "dateTime": "2018-10-08T18:00:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-east-lansing/events/255007030/",
+    "featuredEventPhoto": {
+      "id": "475123713",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/a/c/1/highres_475123713.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/a/c/1/600_475123713.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/a/c/1/thumb_475123713.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 74,
+      "waitlistCount": 0,
+      "totalCount": 74
+    },
+    "venues": [
+      {
+        "id": "24436328",
+        "name": "Biomedical & Physical Sciences Building",
+        "address": "567 Wilson Road",
+        "city": "East Lansing",
+        "state": "MI",
+        "country": "us",
+        "lat": 42.7232,
+        "lon": -84.476,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies East Lansing",
+      "urlname": "rladies-east-lansing"
+    }
+  },
+  {
+    "id": "253348462",
+    "title": "Lightning Talks!",
+    "description": "We are hosting a series of special events: lightning talks from the R-Ladies community! Come out to hear a variety of R & Data Science talks!\n\nAgenda:\n6:00–6:15 — Food & Networking\n6:15–6:30 — Intro & Welcome back\n6:30–6:40 — Kick-Off by Hosts\n6:40–7:20 — Lightning talks\n7:20–7:30 — Questions & Networking\n\nTopics could include:\n- Cool R tips & tricks\n- My favorite R package is …\n- I use R in my work to …\n- The most useful/fun thing I have learned in R recently\n- My favorite R learning resource is …\n- Why I ditched excel and learned R (and changed my life forever)\n\nTalks will be informal (~5+1min); slides are optional. We encourage participation from everyone (beginners through experts; people who speak about R all the time and those don’t love to speak in public about anything).\n\nLet us know that you would like to present by completing this form: https://bit.ly/rlel-lightning\n* If you are a new member, please fill out the Pre-meeting Survey: https://bit.ly/rlel-gettingstarted\n* Pizza dinner + Coffee/Soda will be served! Please RSVP on Meetup.\n\nContact: eastlansing@rladies.org\nJoin us: https://bit.ly/rladies-elansing\n\nDoors will open at 5:45p for a 6p start. R-babies in arms welcome! :)\n\nMeetup sponsor: Krishnan Lab, CMSE & BMB, Michigan State University.\nhttps://thekrishnanlab.org",
+    "status": "PAST",
+    "dateTime": "2018-09-24T18:00:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-east-lansing/events/253348462/",
+    "featuredEventPhoto": {
+      "id": "474515001",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/8/b/9/highres_474515001.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/8/b/9/600_474515001.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/8/b/9/thumb_474515001.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 34,
+      "waitlistCount": 0,
+      "totalCount": 34
+    },
+    "venues": [
+      {
+        "id": "24436328",
+        "name": "Biomedical & Physical Sciences Building",
+        "address": "567 Wilson Road",
+        "city": "East Lansing",
+        "state": "MI",
+        "country": "us",
+        "lat": 42.7232,
+        "lon": -84.476,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies East Lansing",
+      "urlname": "rladies-east-lansing"
+    }
+  },
+  {
+    "id": "253348396",
+    "title": "Lightning Talks!",
+    "description": "We are hosting a series of special events: lightning talks from the R-Ladies community! Come out to hear a variety of R & Data Science talks!\n\nAgenda:\n6:00–6:15 — Food & Networking\n6:15–6:30 — Intro & Welcome back\n6:30–7:15 — Lightning talks\n7:15–7:30 — Questions & Networking\n\nTopics could include:\n- Cool R tips & tricks\n- My favorite R package is …\n- I use R in my work to …\n- The most useful/fun thing I have learned in R recently\n- My favorite R learning resource is …\n- Why I ditched excel and learned R (and changed my life forever)\n\nTalks will be informal (~5+1min); slides are optional. We encourage participation from everyone (beginners through experts; people who speak about R all the time and those don’t love to speak in public about anything).\n\nLet us know that you would like to present by completing this form: https://bit.ly/rlel-lightning\n* If you are a new member, please fill out the Pre-meeting Survey: https://bit.ly/rlel-gettingstarted\n* Pizza dinner + Coffee/Soda will be served! Please RSVP on Meetup.\n\nContact: eastlansing@rladies.org\nJoin us: https://bit.ly/rladies-elansing\n\nDoors will open at 5:45p for a 6p start. R-babies in arms welcome! :)\n\nMeetup sponsor: College of Veterinary Medicine, Michigan State University. (https://cvm.msu.edu/)",
+    "status": "PAST",
+    "dateTime": "2018-09-10T18:00:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-east-lansing/events/253348396/",
+    "featuredEventPhoto": {
+      "id": "473904329",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/f/0/9/highres_473904329.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/f/0/9/600_473904329.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/f/0/9/thumb_473904329.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 32,
+      "waitlistCount": 0,
+      "totalCount": 32
+    },
+    "venues": [
+      {
+        "id": "24436328",
+        "name": "Biomedical & Physical Sciences Building",
+        "address": "567 Wilson Road",
+        "city": "East Lansing",
+        "state": "MI",
+        "country": "us",
+        "lat": 42.7232,
+        "lon": -84.476,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies East Lansing",
+      "urlname": "rladies-east-lansing"
+    }
+  },
+  {
+    "id": "253306148",
+    "title": "Lightning Talks!",
+    "description": "We are hosting a series of special events: lightning talks from the R-Ladies community! Come out to hear a variety of R & Data Science talks!\n\nAgenda:\n6:00–6:15 — Food & Networking\n6:15–6:30 — Intro & Welcome back\n6:30–6:45 — Kick-Off by Hosts\n6:45–7:15 — Lightning talks\n7:15–7:30 — Questions & Networking\n\nTopics could include:\n- Cool R tips & tricks\n- My favorite R package is …\n- I use R in my work to …\n- The most useful/fun thing I have learned in R recently\n- My favorite R learning resource is …\n- Why I ditched excel and learned R (and changed my life forever)\n\nTalks will be informal (~5+1min); slides are optional. We encourage participation from everyone (beginners through experts; people who speak about R all the time and those don’t love to speak in public about anything).\n\nLet us know that you would like to present by completing this form: https://bit.ly/rlel-lightning\n* If you are a new member, please fill out the Pre-meeting Survey: https://bit.ly/rlel-gettingstarted\n* Pizza dinner + Coffee/Soda will be served! Please RSVP on Meetup.\n\nContact: eastlansing@rladies.org\nJoin us: https://bit.ly/rladies-elansing\n\nDoors will open at 5:45p for a 6p start. R-babies in arms welcome! :)\n\nMeetup sponsor: BEACON, Michigan State University.",
+    "status": "PAST",
+    "dateTime": "2018-08-13T18:00:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-east-lansing/events/253306148/",
+    "featuredEventPhoto": {
+      "id": "473593473",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/4/a/1/highres_473593473.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/4/a/1/600_473593473.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/4/a/1/thumb_473593473.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 32,
+      "waitlistCount": 0,
+      "totalCount": 32
+    },
+    "venues": [
+      {
+        "id": "24436328",
+        "name": "Biomedical & Physical Sciences Building",
+        "address": "567 Wilson Road",
+        "city": "East Lansing",
+        "state": "MI",
+        "country": "us",
+        "lat": 42.7232,
+        "lon": -84.476,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies East Lansing",
+      "urlname": "rladies-east-lansing"
+    }
+  },
+  {
+    "id": "252882658",
+    "title": "Kick-off meeting",
+    "description": "*Agenda*\n– Who we are & what we do\n– Meet & Greet\n– Pick your topics, activities, roles\n– Snapshot: Data Visualization w/ R\n\n* Please fill out the Pre-meeting Survey: https://bit.ly/rlel-gettingstarted\n* Pizza dinner will be served! Please RSVP on Meetup.\n\nContact: eastlansing@rladies.org\nJoin us: https://bit.ly/rladies-elansing\n\nDoors will open at 5:45p for a 6p start. R-babies in arms welcome! :)\n\nMeetup sponsor: Institute for Cyber Enabled Research, Michigan State University.",
+    "status": "PAST",
+    "dateTime": "2018-07-25T18:00:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-east-lansing/events/252882658/",
+    "featuredEventPhoto": {
+      "id": "472997531",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/4/7/b/highres_472997531.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/4/7/b/600_472997531.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/4/7/b/thumb_472997531.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 29,
+      "waitlistCount": 0,
+      "totalCount": 29
+    },
+    "venues": [
+      {
+        "id": "24436328",
+        "name": "Biomedical & Physical Sciences Building",
+        "address": "567 Wilson Road",
+        "city": "East Lansing",
+        "state": "MI",
+        "country": "us",
+        "lat": 42.724,
+        "lon": -84.4764,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies East Lansing",
+      "urlname": "rladies-east-lansing"
+    }
+  },
+  {
+    "id": "266211805",
+    "title": "Shutup & Code",
+    "description": "WhAt is this??? Stack overflow -- LIVE! Bring your own R-coding project to work on. We'll have a few R-Users floating around to take questions and give advice as you troubleshoot your R code\n\nAGENDA\n5:45–6:00 Doors open | Set-up & questions\n6:00–6:15 Meet & Greet\n6:15–7:20 Shutup & Code\n7:20–7:30 More discussion!\n\nTO BENEFIT THE MOST FROM THIS EVENT\n1. Bring your laptop w/ pre-installed R & RStudio\n2. Come with a well-defined, hour-long task\n3. Join R-Ladies East Lansing Slack (https://rladies-eastlansing.slack.com) so that you can ask questions in advance, during and after the meeting.\n\nUSEFUL RESOURCES\n1. Past workshop material: https://github.com/nguyens7/Rworkshop\n2. Hands-On Programming with R by G Grolemund (https://rstudio-education.github.io/hopr/) & R for Data Science by H Wickham & G Grolemund (https://r4ds.had.co.nz/)\n\n** Questions? Find us on slack: rladies-eastlansing.slack.com OR\n** Email us: eastlansing@rladies.org",
+    "status": "PAST",
+    "dateTime": "2019-12-02T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-east-lansing/events/266211805/",
+    "featuredEventPhoto": {
+      "id": "476509548",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/1/8/c/highres_476509548.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/1/8/c/600_476509548.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/1/8/c/thumb_476509548.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 15,
+      "waitlistCount": 0,
+      "totalCount": 15
+    },
+    "venues": [
+      {
+        "id": "24436328",
+        "name": "Biomedical & Physical Sciences Building",
+        "address": "567 Wilson Road",
+        "city": "East Lansing",
+        "state": "MI",
+        "country": "us",
+        "lat": 42.7232,
+        "lon": -84.476,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies East Lansing",
+      "urlname": "rladies-east-lansing"
+    }
+  },
+  {
+    "id": "265769574",
+    "title": "Version Control: GIT with R",
+    "description": "Learn how to use GIT (version control software) to manage your R scripts and other collaborative coding projects.\n\nWHO is this for?\n- If you are new to GIT & are short-budgeted on time!\n- If you'd like to start using version control w/o learning all the command line details first!!\n- If you've ever wished there was a way to \"track changes\" or collaborate on a single script just like you can for google docs.\n* If any of this is true, this workshop might be for you!\n\nAGENDA\n6:00–6:15 Meet & Greet | 🍕| Set-up\n6:15–7:25 Workshop: Use GIT & GITHUB\n7:25–7:30 Q&A| How to reach us to continue this conversation!\n\nSETUP INSTRUCTIONS (Before the workshop)\n*This is a hands-on workshop. Please bring your laptop\n*Install or update R & RStudio,\n*Create a GitHub account (if you don't already have one)\n*Install Git\n*Install sourcetree (sourcetree is the GIT GUI used in this workshop)\n\nSee full instructions for installing or updating software required for this workshop: https://github.com/rladies-eastlansing/2019-workshop-git/blob/master/Setup-instructions.md\n\nHaving trouble with installation & set-up? Ping us on Slack (https://rladies-eastlansing.slack.com) in the #howto-vc channel! Or come 15 minutes early.\n\nUSEFUL REFERENCES:\n*Git Cheetsheet: https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf\n*https://happygitwithr.com/\n\n** Questions? Find us on slack: rladies-eastlansing.slack.com OR\n** Email us: eastlansing@rladies.org\n\nMany thanks to MSU's Center for Statistical Training & Consulting (CSTAT) https://cstat.research.msu.edu/ for sponsoring this event!",
+    "status": "PAST",
+    "dateTime": "2019-11-11T18:00:00-05:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-east-lansing/events/265769574/",
+    "featuredEventPhoto": {
+      "id": "485849892",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/4/c/4/highres_485849892.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/4/c/4/600_485849892.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/4/c/4/thumb_485849892.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 46,
+      "waitlistCount": 0,
+      "totalCount": 46
+    },
+    "venues": [
+      {
+        "id": "24436328",
+        "name": "Biomedical & Physical Sciences Building",
+        "address": "567 Wilson Road",
+        "city": "East Lansing",
+        "state": "MI",
+        "country": "us",
+        "lat": 42.7232,
+        "lon": -84.476,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies East Lansing",
+      "urlname": "rladies-east-lansing"
+    }
+  },
+  {
+    "id": "265147577",
+    "title": "Data Wrangling & Visualization in R",
+    "description": "Learn to visualize data with ggplot2.\n\nWHO is this for?\n- If you are new to R & are short-budgeted on time!\n- If you'd like to start working with data in R w/o learning all the programming details first!!\n- If you have a neat data set you'd like to explore w/ basic statistics!\n- If you are getting started with base R and want to learn more!\n\n* If any of this is true, this workshop might be for you!\n\nAGENDA\n6:00–6:15 Meet & Greet | 🍕| Set-up\n6:15–7:25 Workshop: Data Wrangling & Visualization\n7:25–7:30 Q&A| How to reach us to continue this conversation!\n\nSETUP INSTRUCTIONS\n*This is a hands-on workshop. Please bring your laptop\n* Before the Workshop: install or update R & RStudio OR use RStudio Cloud. See full instructions for installing or updating your software: https://docs.google.com/document/d/1VfD0bGUJBEzliW4C9Xbmk0_Kvx1aUiwY1A7TzY_B7_s/edit?usp=sharing\n\nHaving trouble with installation & set-up? Ping us on Slack! Or come 15min early.\n\nUSEFUL RESOURCES\nSoftware Carpentry's Video Tutorial for installing R and R Studio:\n* For Windows Users: https://www.youtube.com/watch?v=q0PjTAylwoU\n* For Mac Users: https://www.youtube.com/watch?v=5-ly3kyxwEg\n\n** Questions? Find us on slack: rladies-eastlansing.slack.com OR\n** Email us: eastlansing@rladies.org",
+    "status": "PAST",
+    "dateTime": "2019-10-21T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-east-lansing/events/265147577/",
+    "featuredEventPhoto": {
+      "id": "485189691",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/3/f/b/highres_485189691.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/3/f/b/600_485189691.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/3/f/b/thumb_485189691.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 36,
+      "waitlistCount": 0,
+      "totalCount": 36
+    },
+    "venues": [
+      {
+        "id": "24436328",
+        "name": "Biomedical & Physical Sciences Building",
+        "address": "567 Wilson Road",
+        "city": "East Lansing",
+        "state": "MI",
+        "country": "us",
+        "lat": 42.7232,
+        "lon": -84.476,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies East Lansing",
+      "urlname": "rladies-east-lansing"
+    }
+  },
+  {
+    "id": "265128052",
+    "title": "Importing & Tidying Data w/ R",
+    "description": "Learn to import, explore and clean up raw data with tidyr and dplyr.\n\nWHO is this for?\n- If you are new to R & are short-budgeted on time!\n- If you'd like to start working with data in R w/o learning all the programming details first!!\n- If you have a neat data set you'd like to explore w/ basic statistics!\n- If you are getting started with base R and want to learn more!\n\n* If any of this is true, this workshop might be for you!\n\nAGENDA\n6:00–6:15 Meet & Greet | 🍕| Set-up\n6:15–7:25 Workshop: Importing & Tidying Data w/R\n7:25–7:30 Q&A| How to reach us to continue this conversation!\n\nSETUP INSTRUCTIONS\n*This is a hands-on workshop. Please bring your laptop\n* Before the Workshop: install or update R & RStudio OR use RStudio Cloud. See full instructions for installing or updating your software: https://docs.google.com/document/d/1VfD0bGUJBEzliW4C9Xbmk0_Kvx1aUiwY1A7TzY_B7_s/edit?usp=sharing\n\nHaving trouble with installation & set-up? Ping us on Slack! Or come 15min early.\n\nUSEFUL RESOURCES\nSoftware Carpentry's Video Tutorial for installing R and R Studio:\n* For Windows Users: https://www.youtube.com/watch?v=q0PjTAylwoU\n* For Mac Users: https://www.youtube.com/watch?v=5-ly3kyxwEg\n\n** Questions? Find us on slack: rladies-eastlansing.slack.com OR\n** Email us: eastlansing@rladies.org",
+    "status": "PAST",
+    "dateTime": "2019-10-07T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-east-lansing/events/265128052/",
+    "featuredEventPhoto": {
+      "id": "485189691",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/3/f/b/highres_485189691.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/3/f/b/600_485189691.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/3/f/b/thumb_485189691.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 41,
+      "waitlistCount": 0,
+      "totalCount": 41
+    },
+    "venues": [
+      {
+        "id": "24436328",
+        "name": "Biomedical & Physical Sciences Building",
+        "address": "567 Wilson Road",
+        "city": "East Lansing",
+        "state": "MI",
+        "country": "us",
+        "lat": 42.7232,
+        "lon": -84.476,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies East Lansing",
+      "urlname": "rladies-east-lansing"
+    }
+  },
+  {
+    "id": "264340414",
+    "title": "Introduction to R/RStudio",
+    "description": "WHO is this for?\n- If you are new to R & are short-budgeted on time!\n- If you'd like to start working with data in R w/o learning all the programming details first!!\n- If you have a neat data set you'd like to explore w/ basic statistics!\n- If you are getting started with base R and want to learn more!\n\n* If any of this is true, this workshop might be for you!\n\nAGENDA\n6:00–6:15 Meet & Greet | 🍕| Set-up\n6:15–7:25 Workshop: Intro to R/RStudio\n7:25–7:30 Q&A| How to reach us to continue this conversation!\n\nSETUP INSTRUCTIONS\n*This is a hands-on workshop. Please bring your laptop\n* Before the Workshop: install R & RStudio OR use RStudio Cloud. See full installation instructions: https://docs.google.com/document/d/1VfD0bGUJBEzliW4C9Xbmk0_Kvx1aUiwY1A7TzY_B7_s/edit?usp=sharing\n\nHaving trouble with installation & set-up? Ping us on Slack! Or come 15min early.\n\nUSEFUL RESOURCES\nSoftware Carpentry's Video Tutorial for installing R and R Studio:\n* For Windows Users: https://www.youtube.com/watch?v=q0PjTAylwoU\n* For Mac Users: https://www.youtube.com/watch?v=5-ly3kyxwEg\n\n** Questions? Find us on slack: rladies-eastlansing.slack.com OR\n** Email us: eastlansing@rladies.org",
+    "status": "PAST",
+    "dateTime": "2019-09-23T18:00:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-east-lansing/events/264340414/",
+    "featuredEventPhoto": {
+      "id": "484369222",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/0/4/6/highres_484369222.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/0/4/6/600_484369222.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/0/4/6/thumb_484369222.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 53,
+      "waitlistCount": 0,
+      "totalCount": 53
+    },
+    "venues": [
+      {
+        "id": "24436328",
+        "name": "Biomedical & Physical Sciences Building",
+        "address": "567 Wilson Road",
+        "city": "East Lansing",
+        "state": "MI",
+        "country": "us",
+        "lat": 42.7232,
+        "lon": -84.476,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies East Lansing",
+      "urlname": "rladies-east-lansing"
+    }
+  },
+  {
+    "id": "263808693",
+    "title": "Data Science Journeys",
+    "description": "We're very excited to announce that R-Ladies East Lansing is officially one year old! We hope you'll join us to hear stories from a few R-Ladies about how they got started in their data science careers and enjoy some birthday cake with us too. Shoutout to R-Ladies NYC for this terrific idea!\n\nAgenda\n6:00p – Arrival & Networking\n6:15p – R-Ladies East Lansing 2019-2020 plans & audience feedback\n6:30p – Talks (details coming soon)\n7:15p – Networking\n\nWant to share your data science journey? Contact us at eastlansing@rladies.org\n\n* Pizza dinner & Cake will be served! Please RSVP on Meetup.\nDoors will open at 5:45p for a 6p start. R-babies in arms welcome! :)\n\nMeetup sponsor: Department of Computational Mathematics, Science & Engineering, Michigan State University.",
+    "status": "PAST",
+    "dateTime": "2019-09-16T18:00:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-east-lansing/events/263808693/",
+    "featuredEventPhoto": {
+      "id": "472997531",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/4/7/b/highres_472997531.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/4/7/b/600_472997531.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/4/7/b/thumb_472997531.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 48,
+      "waitlistCount": 0,
+      "totalCount": 48
+    },
+    "venues": [
+      {
+        "id": "26559448",
+        "name": "Biomedical and Physical Sciences",
+        "address": "567 Wilson Rd",
+        "city": "East Lansing",
+        "state": "MI",
+        "country": "us",
+        "lat": 42.7239,
+        "lon": -84.4762,
+        "postalCode": "48824",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies East Lansing",
+      "urlname": "rladies-east-lansing"
+    }
+  },
+  {
+    "id": "259967954",
+    "title": "2019 Women in Data Science East Lansing @MSU",
+    "description": "R-Ladies East Lansing invites you to join us for the inaugural *2019 Women in Data Science East Lansing Symposium* at Michigan State University!\n\n____________________________________\n**Connect. Discover. Inspire.**\n____________________________________\n\nWhen: April 12, 2019 from 11:30a - 5:00p\nWhere: Natural Sciences Building, Room 326\nOur webpage: https://github.com/rladies-eastlansing/WiDS2019/wiki\n\n**REGISTER HERE** http://bit.ly/rlel-wids2019\nto attend, present a poster and/or give a ⚡️Lightning Talk!\n* Lunch will be provided for registered attendees only.\n\n______________________________\n**What we are Planning**\n______________________________\nAgenda: //github.com/rladies-eastlansing/WiDS2019/wiki/Agenda\nConfirmed Speakers: //github.com/rladies-eastlansing/WiDS2019/wiki/Confirmed-Speakers\n\n*Keynote address*\nRobin Buell, PLB, MSU\nJenny Bryan, virtually from University of British Columbia\n\n*Technical Vision Talks*\nLiz Munch (CMSE)\nJulie Winkler (Geography)+\n\n*Career Panel featuring*\nSonja Fritzsche (German Studies)\nYue Qi (CSE)\nAshley Shade (MMG)\nAngela Wilson (Chemistry)+\n\n*Posters and Lightning Talks*\nYou, if you register! http://bit.ly/rlel-wids2019\n(see details below)\n_________________________\n**Who can present?**\n_________________________\nPoster/Lightning Talk: http://bit.ly/rlel-wids2019\nIn addition to attending, you have two other ways to participate via a lightning talk and/or poster presentation.\nWe invite women and underrepresented gender minorities to apply for poster/lightning talk presentations. The gender criterion applies only to presenting authors, not other co-authors. Faculty/staff, postdocs, graduate and undergraduate researchers are especially invited to apply.\n\nSee Poster/Lightning Talk guidelines here\nhttps://github.com/rladies-eastlansing/WiDS2019/wiki/Poster-and-Lightning-Talk-Guidelines\n\n_____________________________\n**Who can participate?**\n_____________________________\nEveryone is invited to attend, make connections and contribute to the discussion, regardless of gender.\nThe WiDS Conference aims to inspire and educate data scientists worldwide, regardless of gender, and to support women in the field.\nThis technical conference provides an opportunity to hear about the latest data science-related research and applications in a number of domains, and connect with others in the field.\n\n_______________________\n**Event Sponsors**\n_______________________\nhttps://github.com/rladies-eastlansing/WiDS2019/wiki/Sponsors\nCollege of Natural Sciences | BEACON Center | Microbiology and Molecular Genetics |\nCMSE | Digital Humanities | Social Science Data Analytics | Business Analytics\n\n_________________\n**Organizers**\n_______________________\nhttps://github.com/rladies-eastlansing/WiDS2019/wiki/Organizers\n\nJanani Ravi & Camille Archer\nOn behalf of R-Ladies East Lansing\nEmail: eastlansing@rladies.org (for any questions, sponsorship interest)\nWebsite: //rladies-eastlansing.github.io | www.rladies.org\nJoin us: //meetup.com/rladies-eastlansing | Tw: //twitter.com/RLadiesELansing | FB: //facebook.com/RLadiesEastLansing\n\n~ WiDS East Lansing @MSU (https://github.com/rladies-eastlansing/WiDS2019/wiki/)",
+    "status": "PAST",
+    "dateTime": "2019-04-12T11:30:00-04:00",
+    "duration": "PT5H30M",
+    "eventUrl": "https://www.meetup.com/rladies-east-lansing/events/259967954/",
+    "featuredEventPhoto": {
+      "id": "479694493",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/4/d/d/highres_479694493.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/4/d/d/600_479694493.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/4/d/d/thumb_479694493.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 24,
+      "waitlistCount": 0,
+      "totalCount": 24
+    },
+    "venues": [
+      {
+        "id": "26267273",
+        "name": "Natural Science Building",
+        "address": "288 Farm Ln",
+        "city": "East Lansing",
+        "state": "MI",
+        "country": "us",
+        "lat": 42.7311,
+        "lon": -84.4769,
+        "postalCode": "48823",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies East Lansing",
+      "urlname": "rladies-east-lansing"
+    }
+  },
+  {
+    "id": "258964763",
+    "title": "RStats Workshop Series: Part III",
+    "description": "____________________\n*WHO is this for?*\n____________________\n- If you are new to R & are short-budgeted on time!\n- If you'd like to start working with data in R w/o learning all the programming details first!!\n- If you have a neat data set you'd like to explore w/ basic statistics!\n- If you are getting started with base R and want to learn more #rstats!\n* If any of this is true, this workshop might be for you!\n\nPlease note:\n_______________\n* View set-up instructions, past workshop material and other useful resources below. We *will assume* that you are up to speed with the past material & set the pace accordingly.\n* Need help? Come EARLY (545p) for help with set-up, questions reg. tidyverse and/or contact us on Slack (https://rladies-eastlansing.slack.com; #howto-r channel).\n\n______________________________\n*WHAT are we planning?*\n______________________________\n*RStats Workshop: Part III*\n- Handling missing & duplicate data (see R packages ‘mixRasch’, ‘mice’, others)\n- Review power tests/analyses\n- Hypothesis testing using parametric/nonparametric tests; chi-square tests, t-tests, Wilcoxon, ANOVA; corrected p-values & effect sizes\n- Hands-on exercises w/ the gapminder dataset\n- Excel/SAS/SPSS vs R?\n\n- Parts IV, V (Ch 11–13) of 'Learning Statistics with R' by Dani Navarro (https://learningstatisticswithr.com/book).\n- Statistical exploration of the gapminder dataset w/ R\n\n* For 'RStats Workshop: Part I & II' material, check out the material on Google Drive (http://bit.ly/rlel-meetup-presentations-gd), GitHub (http://bit.ly/rlel-meetup-presentations-gh) or our Slack channels (https://rladies-eastlansing.slack.com; #workshop-rstats #2019-workshop-rstats).\n\n____________\n*AGENDA*\n____________\n5:45–6:00 Questions based on past workshops, Help w/ set-up\n6:00–6:10 Meet & Greet | 🍕| Set-up\n6:10–6:20 Who we are | Announcements | What's next\n6:20–7:25 Workshop: Intro to Statistics w/ R\n7:25–7:30 Any more Qs? How to reach us to continue this conversation!\n\n_____________________________\n*SET-UP INSTRUCTIONS*\n_____________________________\n1. please bring your laptop w/\n2. pre-installed R (3.5+) & RStudio (1.1.4+)(https://www.rstudio.com/products/rstudio/)\nOR use RStudio Cloud (https://rstudio.cloud) w/ Google/GitHub login\n3. Install packages: tidyverse, gapminder, psych\n* Having trouble with installation & set-up? Ping us on Slack! Or come 15min early!\n\n_______________________\n*Useful Resources*\n_______________________\n1. Past workshop and meetup materials from 2018 & 2019:\nGoogle Drive: http://bit.ly/rlel-meetup-presentations-gd & GitHub: http://bit.ly/rlel-meetup-presentations-gh\n2. Relevant R (incl. tidyverse & ggplot2) & Slack cheatsheets: http://bit.ly/rlel-gdrive-cheatsheets\n3. Learning Statistics with R by Danielle Navarro (https://learningstatisticswithr.com/book/)\n4. Hands-On Programming with R by G Grolemund (https://rstudio-education.github.io/hopr/) & R for Data Science by H Wickham & G Grolemund (https://r4ds.had.co.nz/)\n\n____________________________________\n* Start the discussion on Slack:\nhttps://rladies-eastlansing.slack.com OR\nhttp://bit.ly/rlel-slack-signup (if you are a new member)\nUse the #2019-workshop-rstats OR #howto-r channel\n** Questions reg. joining/using Slack or the workshop?\nEmail us: eastlansing@rladies.org\n____________________________________\n\n💰Sponsor: ???\nInterested in sponsoring? Email us!\n\nSpecial credit: Dani Navarro, R-Ladies Sydney!",
+    "status": "PAST",
+    "dateTime": "2019-03-25T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-east-lansing/events/258964763/",
+    "featuredEventPhoto": {
+      "id": "477699668",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/a/f/4/highres_477699668.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/a/f/4/600_477699668.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/a/f/4/thumb_477699668.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 32,
+      "waitlistCount": 0,
+      "totalCount": 32
+    },
+    "venues": [
+      {
+        "id": "24436328",
+        "name": "Biomedical & Physical Sciences Building",
+        "address": "567 Wilson Road",
+        "city": "East Lansing",
+        "state": "MI",
+        "country": "us",
+        "lat": 42.7232,
+        "lon": -84.476,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies East Lansing",
+      "urlname": "rladies-east-lansing"
+    }
+  },
+  {
+    "id": "257789874",
+    "title": "Introduce a Girl to Engineering",
+    "description": "R-Ladies East Lansing will have a booth with activities for middle school girls!\n\nWho: 4th-8th graders\n\nWhat: Attendees will get the opportunity to rotate through 5 different hands-on Engineering activities led by students, graduate students, and faculty. The format will be similar to an Open House. You get to pick what you want to see!\n\nCost: FREE\n\nHosted by MSU's Women in Engineering\nhttps://www.egr.msu.edu/wie/k-12/programs-outreach\n\n##################################################################\nInterested in volunteering, pitching ideas, and/or setting up the booth?\nPlease reach us out on Slack: #20190216-girlday OR\nEmail us: eastlansing@rladies.org\n##################################################################\n\n** Interested in sponsoring one of our monthly meetups (~$70)? Please contact us at eastlansing@rladies.org Thank you!",
+    "status": "PAST",
+    "dateTime": "2019-02-16T13:00:00-05:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-east-lansing/events/257789874/",
+    "featuredEventPhoto": {
+      "id": "477557951",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/6/1/f/highres_477557951.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/6/1/f/600_477557951.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/6/1/f/thumb_477557951.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 8,
+      "waitlistCount": 0,
+      "totalCount": 8
+    },
+    "venues": [
+      {
+        "id": "26042428",
+        "name": "Engineering Building",
+        "address": "428 S Shaw Ln # 3115",
+        "city": "East Lansing",
+        "state": "MI",
+        "country": "us",
+        "lat": 42.7245,
+        "lon": -84.4801,
+        "postalCode": "48824",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies East Lansing",
+      "urlname": "rladies-east-lansing"
+    }
+  },
+  {
+    "id": "257935706",
+    "title": "RStats Workshop Series: Part II",
+    "description": "WHO is this for?\n- If you are new to R & are short-budgeted on time!\n- If you'd like to start working with data in R w/o learning all the programming details first!!\n- If you have a neat data set you'd like to explore w/ basic statistics!\n- If you are getting started with base R and want to learn more #rstats!\n\n* If any of this is true, this workshop might be for you!\n* Come EARLY (545p) for help with set-up, questions reg. tidyverse.\n\nWHAT are we planning?\n*RStats Workshop: Part II*\n- Using Existing Data OR Loading Yours\n- Viewing the Structure of your Data\n- Transforming your Data: Basic transformations: z-score, log\n- Intro to Probability Distributions: Skewness, Kurtosis\n- Checking Normality of Distributions: Shapiro-Wilk vs Kolmogorov-Smirnov, Descriptive stats\n- (Intro to) Association Tests: Correlations\n- Excel/SAS/SPSS vs R?\n\n* If time permits (if not, part III):\n- Hypothesis testing using chi-square tests, t-tests, ANOVAs\n- Power analyses\n- Handling missing & duplicate data (see R packages ‘mixRasch’, ‘mice’, others)\n\n- Parts III, IV of 'Learning Statistics with R' by Dani Navarro (https://learningstatisticswithr.com/book).\n- Statistical exploration of the gapminder dataset w/ R\n\n* For 'RStats Workshop: Part I' material, check out the material on Google Drive (http://bit.ly/rlel-meetup-presentations-gd), GitHub (http://bit.ly/rlel-meetup-presentations-gh) or our Slack channels (https://rladies-eastlansing.slack.com; #workshop-rstats #20190128-rstats).\n\nAGENDA\n6:00–6:10 Meet & Greet | 🍕| Set-up\n6:10–6:20 Who we are | Announcements | What's next\n6:20–7:25 Workshop: Intro to Statistics w/ R\n7:25–7:30 Any more Qs? How to reach us to continue this conversation!\n\n*SET-UP INSTRUCTIONS*\n1. please bring your laptop w/\n2. pre-installed R & RStudio (https://www.rstudio.com/products/rstudio/) OR use RStudio Cloud (https://rstudio.cloud)\n3. Install packages: tidyverse, gapminder, psych\n* Having trouble with installation & set-up? Ping us on Slack! Or come 15min early!\n\n*Useful Resources*\n1. Past workshop and meetup materials from 2018: http://bit.ly/rlel-meetup-presentations-gd & http://bit.ly/rlel-meetup-presentations-gh\n2. Relevant R (incl. tidyverse & ggplot2) & Slack cheatsheets: http://bit.ly/rlel-gdrive-cheatsheets\n3. Learning Statistics with R by Danielle Navarro (https://learningstatisticswithr.com/book/)\n4. Hands-On Programming with R by G Grolemund (https://rstudio-education.github.io/hopr/) & R for Data Science by H Wickham & G Grolemund (https://r4ds.had.co.nz/)\n* Start the discussion on Slack: https://rladies-eastlansing.slack.com OR http://bit.ly/rlel-slack-signup (if you are a new member) #workshop-rstats channel\n** Questions reg. Slack/workshop? Email us: eastlansing@rladies.org\n\n💰Sponsor: Early Language and Literacy Investigations Laboratory, MSU (ELLI lab https://ellilab.com; https://facebook.com/ellilab)\n\nSpecial credit: Dani Navarro, R-Ladies Sydney!",
+    "status": "PAST",
+    "dateTime": "2019-02-11T18:00:00-05:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-east-lansing/events/257935706/",
+    "featuredEventPhoto": {
+      "id": "477699668",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/a/f/4/highres_477699668.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/a/f/4/600_477699668.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/a/f/4/thumb_477699668.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 49,
+      "waitlistCount": 0,
+      "totalCount": 49
+    },
+    "venues": [
+      {
+        "id": "24436328",
+        "name": "Biomedical & Physical Sciences Building",
+        "address": "567 Wilson Road",
+        "city": "East Lansing",
+        "state": "MI",
+        "country": "us",
+        "lat": 42.7232,
+        "lon": -84.476,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies East Lansing",
+      "urlname": "rladies-east-lansing"
+    }
+  },
+  {
+    "id": "257794877",
+    "title": "RStats Workshop Series: Part I (Jan28—>Feb04!)",
+    "description": "WHO is this for?\n- If you are new to R & are short-budgeted on time!\n- If you'd like to start working with data in R w/o learning all the programming details first!!\n- If you have a neat data set you'd like to explore w/ basic statistics!\n- If you are getting started with base R and want to learn more #rstats!\n\n* If any of this is true, this workshop might be for you!\n* Come EARLY (545p) for set-up, questions reg. tidyverse\n\nWHAT are we planning?\n*RStats Workshop: Part I*\n- getting started with R\n- exploratory statistics: measures of central tendency & variability, correlations, multi-variate stats\n- visualizing statistical analyses: histograms, boxplots/violin plots, scatterplots, bar graphs, saving plots\n- Excel/SAS/SPSS vs R?\n\n- Parts II, III of 'Learning Statistics with R' by Dani Navarro (https://learningstatisticswithr.com/book).\n- Statistical exploration of the gapminder dataset w/ R\n\n*RStats Workshop: Coming up next*\n- Probability Distributions & skew, kurtosis\n- Inferential Statistics: hypothesis testing, p-value, confidence intervals\n- Handling Missing data: imputation\n- Parametric (e.g., ANOVA) & Non-parametric statistical tests\n- Principal Component Analysis (PCA) using ggbiplot\n\nAGENDA\n6:00–6:15 Meet & Greet | 🍕| Set-up\n6:15–6:25 Who we are | Announcements | What's next\n6:25–7:25 Workshop: Intro to Statistics w/ R\n7:25–7:30 Any more Qs? How to reach us to continue this conversation!\n\n*SET-UP INSTRUCTIONS (before the workshop)*\n1. please bring your laptop w/\n2. pre-installed R & RStudio (https://www.rstudio.com/products/rstudio/) OR use RStudio Cloud (https://rstudio.cloud)\n3. Install packages: tidyverse, gapminder\n* Having trouble with installation & set-up? Ping us on Slack! Or come 15min early.\n\n*Useful Resources*\n1. Past workshop and meetup materials from 2018: http://bit.ly/rlel-meetup-presentations-gd & http://bit.ly/rlel-meetup-presentations-gh\n2. Relevant R (incl. tidyverse & ggplot2) & Slack cheatsheets: http://bit.ly/rlel-gdrive-cheatsheets\n3. Learning Statistics with R by Danielle Navarro (https://learningstatisticswithr.com/book/)\n4. Hands-On Programming with R by G Grolemund (https://rstudio-education.github.io/hopr/) & R for Data Science by H Wickham & G Grolemund (https://r4ds.had.co.nz/)\n* Start the discussion on Slack: https://rladies-eastlansing.slack.com OR http://bit.ly/rlel-slack-signup (if you are a new member) #workshop-rstats channel\n** Questions reg. Slack/Workshop? Email us: eastlansing@rladies.org\n\n💰Sponsor: ICER, MSU (https://icer.msu.edu)\nSpecial credit: Dani Navarro, R-Ladies Sydney!",
+    "status": "PAST",
+    "dateTime": "2019-02-04T18:00:00-05:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-east-lansing/events/257794877/",
+    "featuredEventPhoto": {
+      "id": "477699668",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/a/f/4/highres_477699668.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/a/f/4/600_477699668.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/a/f/4/thumb_477699668.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 70,
+      "waitlistCount": 0,
+      "totalCount": 70
+    },
+    "venues": [
+      {
+        "id": "24436328",
+        "name": "Biomedical & Physical Sciences Building",
+        "address": "567 Wilson Road",
+        "city": "East Lansing",
+        "state": "MI",
+        "country": "us",
+        "lat": 42.7232,
+        "lon": -84.476,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies East Lansing",
+      "urlname": "rladies-east-lansing"
+    }
+  },
+  {
+    "id": "273671226",
+    "title": "InspiRing InstRuction: A panel on teaching #rstats for all audiences w/ RLC",
+    "description": "Someone in your department, company, or class comes to you and says: \"I want to learn R; where do I start?\" Or, \"how do I take my R skills to the next level?\"\n\nCome hear from 3 R-Ladies on how to make R pedagogy work for different groups of people! :-)\n\nR-Ladies Chicago and R-Ladies East Lansing will be a hosting a joint November virtual meetup featuring 3 panelists:\n\n**Alison Hill** is a Data Scientist & Professional Educator at RStudio. Prior to joining RStudio, Dr. Hill was an Associate Professor and Center Assistant Director at Oregon Health & Science University in Portland, Oregon, where she was an NIH-funded Principal Investigator. Her work has been published in Pediatrics, Autism Research, and other peer-reviewed journals. She has developed and taught several advanced courses and workshops on data visualization and communicating with data. Dr. Hill is also an international keynote speaker, award-winning educator, and co-author of the book blogdown: Creating Websites with R Markdown.\n\n**Marynia Kolak** is an Assistant Director of Health Informatics at the Center for Spatial Data Science at University of Chicago, where she also teaches full time as a Lecturer in Geographic Information Science. Dr. Kolak is interested in Social Determinants of Health (SDOH) and using open science tools as an exploratory data analytic approach to investigate issues of equity across space and time.\n\n**Katie Fitzgerald** is a PhD Candidate in Statistics at Northwestern University. Her research is in statistical methods for social policy, including work in meta-analysis, data visualization, and statistical cognition. She is passionate about statistics education and pedagogy and is pursuing a career at a liberal arts university. When she's not doing statistics, you can find her at Northwestern’s gorgeous lakefront, biking, hammocking, reading, or indulging in good food.\n\nAgenda\n===================\nTimes are in EST\n\n7:00-7:10 Meet and Greet!\n7:10-7:25 Introduction from the panelists\n7:25-7:50 Moderated panel\n7:50-8:00 Questions from the audience\n\n** Questions? Find us on slack: rladies-eastlansing.slack.com OR\n** Email us: eastlansing@rladies.org",
+    "status": "PAST",
+    "dateTime": "2020-11-12T19:00:00-05:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-east-lansing/events/273671226/",
+    "featuredEventPhoto": {
+      "id": "492712862",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/e/7/e/highres_492712862.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/e/7/e/600_492712862.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/e/7/e/thumb_492712862.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 38,
+      "waitlistCount": 0,
+      "totalCount": 38
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies East Lansing",
+      "urlname": "rladies-east-lansing"
+    }
+  },
+  {
+    "id": "272642631",
+    "title": "Getting Started w/ your first Computational Project",
+    "description": "Learn key principles and practices for ensuring that your computational project is reproducible.\n\nTentative Agenda\n-----------------------------\n3:30p – Introductions & Announcements\n3:40p – Main Event\n4:15p – Examples/Practice\n4:45p – Networking\n\nRegistration\n--------------------------\nCompletion of the google form below is REQUIRED to receive zoom link by email: https://forms.gle/729JWJNG9urH5gNt5\n\nMeetup sponsor: Department of Computational Mathematics, Science & Engineering, Michigan State University.\n\n** Questions? Find us on slack: rladies-eastlansing.slack.com OR\n** Email us: eastlansing@rladies.org",
+    "status": "CANCELLED",
+    "dateTime": "2020-11-12T15:30:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-east-lansing/events/272642631/",
+    "featuredEventPhoto": {
+      "id": "476509548",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/1/8/c/highres_476509548.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/1/8/c/600_476509548.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/1/8/c/thumb_476509548.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 9,
+      "waitlistCount": 0,
+      "totalCount": 9
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies East Lansing",
+      "urlname": "rladies-east-lansing"
+    }
+  },
+  {
+    "id": "272642612",
+    "title": "rOpenSci - open tools for open science",
+    "description": "Learn about the rOpenSci community effort to foster open R software and transparent research practices among users and developers. You’ll also learn about the rOpenSci process of package peer-review and learn tips for getting your own R package ready for peer-review.\n\nAGENDA\n========\nOct 22, 2020 | 3.30–5p EST\n\n3:30: Welcome & Introductions\n3:35: What is rOpenSci & how to contribute?\n4:00: rOpenSci package peer- review process\n4:40: Networking\n5:00: Wrap up\n\nREGISTRATION\n===============\n*Completion of the Google form below is REQUIRED to receive the Zoom link by email: https://forms.gle/729JWJNG9urH5gNt5\n\nSPEAKERS\n==========\n*Stefanie Butland, rOpenSci Community Manager (https://stefaniebutland.netlify.app/)\n*Brooke Anderson, Associate Professor, Colorado State University, and Editor, rOpenSci Software Peer Review\n(https://vetmedbiosci.colostate.edu/erhs/member/?id=35248)\n\nRESOURCES\n============\n* rOpenSci Community Contributing Guide: https://contributing.ropensci.org/\n* rOpenSci Packages: Development, Maintenance, and Peer Review: https://devguide.ropensci.org/\n\n** Questions? Find us on slack: rladies-eastlansing.slack.com OR\n** Email us: eastlansing@rladies.org",
+    "status": "PAST",
+    "dateTime": "2020-10-22T15:30:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-east-lansing/events/272642612/",
+    "featuredEventPhoto": {
+      "id": "476509548",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/1/8/c/highres_476509548.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/1/8/c/600_476509548.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/1/8/c/thumb_476509548.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 29,
+      "waitlistCount": 0,
+      "totalCount": 29
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies East Lansing",
+      "urlname": "rladies-east-lansing"
+    }
+  },
+  {
+    "id": "272641171",
+    "title": "W+DS: Data Science Methodology",
+    "description": "Michigan State University & University of Michigan invite you to their joint monthly webinar & meetup series for Fall 2020!\n\nAgenda\n===========\n3:30: Keynote: Teaching computers to discover scientific knowledge by reading papers\n4:15: Lightning Talks: Data Science Methodology\n* Alyssa Travitz (UM)\n* Yiqi Wang (MSU)\n* Danielle Barnes (MSU)\n* Sarah Tymochko (MSU)\"\n4:45: Networking + Q&A\n5:00: Wrap-up\n\nRegistration\n============\nPlease complete the form below to receive Zoom meeting details: https://forms.gle/j6psmyVFRBBdAVDV8\n\nAbout the Keynote\n======================\nEnormous amounts of ever-changing knowledge are available online in diverse emergent textual styles (e.g., news vs. science text). This talk presents some of the H2Lab @UW's recent efforts to address the problem of textual comprehension and reasoning about scientific text, including knowledge extraction and claim verification given scientific articles.\nMore information: https://women-plus-datascience.github.io/\n\nKeywords\n==========\nNatural Language Processing, NLP for bio-medicine, Deep Learning, Knowledge extraction\n\nAbout the Keynote Speaker\n===================\nHanna Hajishirzi is an Assistant Professor in the Paul G. Allen School of Computer Science & Engineering at the University of Washington and a Research Fellow at the Allen Institute for AI. Her research spans different areas in NLP and AI, focusing on developing machine learning algorithms that represent, comprehend, and reason about diverse forms of data at large scale. Applications for these algorithms include question answering, reading comprehension, representation learning, knowledge extraction, and conversational dialogue. Honors include the Sloan Fellowship, Allen Distinguished Investigator Award, multiple best paper and honorable mention awards, and several industry research faculty awards. Hanna received her PhD from University of Illinois and spent a year as a postdoc at Disney Research and CMU.\n\nPlanning Committee\n===========\n*Dr. Janani Ravi, Pathobiology and Diagnostic Investigation, MSU, R-Ladies East Lansing\n*Dr. Jing Liu, Michigan Institute for Data Science (MIDAS), U-M\n*Dr. Elizabeth Munch, Department of Computational Mathematics, Science & Engineering, MSU\n*Dr. Parisa Kordjamshidi, Department of Computer Science & Engineering, MSU\n*Dr. Dola Pathak, Department of Statistics, MSU\n\nQuestions, sponsorship interests, email is at:\nwomen.plus.datascience@gmail.com",
+    "status": "PAST",
+    "dateTime": "2020-09-24T15:30:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-east-lansing/events/272641171/",
+    "featuredEventPhoto": {
+      "id": "491875222",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/7/b/6/highres_491875222.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/7/b/6/600_491875222.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/7/b/6/thumb_491875222.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 23,
+      "waitlistCount": 0,
+      "totalCount": 23
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies East Lansing",
+      "urlname": "rladies-east-lansing"
+    }
+  },
+  {
+    "id": "272642592",
+    "title": "Getting Help w/R: Connecting w/ virtual R-communities",
+    "description": "Learn about community resources for getting help with R. We’ll also cover how to prepare a minimum reproducible example of your code (reprex) for posting questions to GitHub issues, StackOverflow, or Slack snippets. You’ll have an opportunity to network with other R users and learn more about domain-specific resources.\n\nTentative Agenda\n––––––––––––––\n3:30 – Welcome & Introductions\n3:35 – Overview: where to ask for help?\n4:50 – Demo: How to ask for help + How to prepare a reprex\n4:10 – Co-work: Your turn\n4:30 – Break: Q&A + feedback\n4:40 – Networking: know thy neighbor (by field of study)\n4:50 – Questions + what’s coming up next\n5:00 – Wrap up\n\nRegistration\n------------------\nCompletion of the google form below is REQUIRED to receive zoom link by email: https://forms.gle/729JWJNG9urH5gNt5\n\nContact us at eastlansing@rladies.org\n\nMeetup sponsor: Department of Computational Mathematics, Science & Engineering, Michigan State University.",
+    "status": "PAST",
+    "dateTime": "2020-09-17T15:30:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-east-lansing/events/272642592/",
+    "featuredEventPhoto": {
+      "id": "472997531",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/4/7/b/highres_472997531.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/4/7/b/600_472997531.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/4/7/b/thumb_472997531.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 24,
+      "waitlistCount": 0,
+      "totalCount": 24
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": 42.7239,
+        "lon": -84.4762,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies East Lansing",
+      "urlname": "rladies-east-lansing"
+    }
+  },
+  {
+    "id": "271969821",
+    "title": "(virtual) Getting the most of Git w/ UseR",
+    "description": "=====================================================\nTopic: Getting the most of Git\nSpeakers: Colin Gillespie, Rhian Davies (Jumping Rivers)\nCo-Hosted by: UseR, R-Ladies East Lansing and R-Ladies Chicago\nTime: July 31, 2020 09:00 AM EST\nContact: eastlansing@rladies.org; chicago@rladies.org\n\n**Must SIGN UP to register:\nhttps://forms.gle/PRp26658f66BA3vW8\n- Zoom meeting link will be provided to confirmed attendees\n\nLog into Slack:\n[RLEL] https://rladies-eastlansing.slack.com\n[RLC] https://rladies-chicago.slack.com\n(Shared Channel: #2020-gitmore)\n=====================================================\n\nFor detailed onboarding: https://github.com/rladies-eastlansing/2020-gitmore/\n\n####################\nAssumed knowledge\n####################\nParticipants should be familiar with\n- writing basic R functions\n- basic git, e.g push, pull, commit. The initial task will be to\n- fork a repo\n- Clone the repo onto your machine\n- basic GitHub\n- writing a simple R package\n\n#################\nBefore the meetup\n#################\nPlease create accounts on the following websites:\n- https://travis-ci.org\n- https://codecov.io/\n- https://hub.docker.com/\n- https://www.pushbullet.com/\n\nPlease remember that this is a hands-on co-work/Q&A session.\n- Make sure you have updated/working versions of R/RStudio; Git/GitHub (optional: GitHub Desktop)\n- Join via Zoom + Slack with your laptops\n- Post your questions in the shared Slack channel #2020-gitmore (for R-Ladies East Lansing/Chicago)\n\n##################\nDuring the meetup\n##################\nGetting the most of Git\nhttps://www.jumpingrivers.com/t/2019-user-git/#1 (2019 tutorial)\n\nPart 1: Introduction to CI and Git\nPart 2: Travis Part 1\nPart 3: GitHub Pat\nPart 4: Travis Part 2\nPart 5: The pkgdown website\n\nWe will discuss widely applicable Q's via Zoom for everyone's benefit.\nWe will answer additional Q's via Slack.\n\n###########\nResources\n###########\nGITHUB\n- Getting Started: https://gist.github.com/csgillespie/447e4ebed711199a320c97a65f71da84\n- Repo for this meetup w/ setup instructions, slides, and other useful preparatory material: https://github.com/rladies-eastlansing/2020-gitmore\n\nZOOM\n- Zoom meeting link will be provided to confirmed attendees [Zoom desktop would be preferable]\n\nOther Useful References\n- Git Novice from Software Carpentry: https://swcarpentry.github.io/git-novice/\n- Git Cheatsheets: https://github.com/jananiravi/cheatsheets/tree/master/git-md\n- Happy Git with R: https://happygitwithr.com/\n- How to create a package from Scratch: https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/\n\nQuestions? Having trouble with installation & set-up?\n- Find us on Slack: rladies-eastlansing.slack.com OR rladies-chicago.slack.com (channel: #2020-gitmore)\n- Email us: eastlansing@rladies.org OR chicago@rladies.org",
+    "status": "PAST",
+    "dateTime": "2020-07-31T09:00:00-04:00",
+    "duration": "PT2H30M",
+    "eventUrl": "https://www.meetup.com/rladies-east-lansing/events/271969821/",
+    "featuredEventPhoto": {
+      "id": "485849892",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/4/c/4/highres_485849892.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/4/c/4/600_485849892.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/4/c/4/thumb_485849892.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 34,
+      "waitlistCount": 14,
+      "totalCount": 34
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": 42.7018,
+        "lon": -84.4822,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies East Lansing",
+      "urlname": "rladies-east-lansing"
+    }
+  },
+  {
+    "id": "268096076",
+    "title": "Shutup & Code (virtual meeting)",
+    "description": "=====================================================\nTopic: RLEL: ShutUp&Code\nTime: Mar 23, 2020 06:00 PM EST\n\nLog into Slack: https://rladies-eastlansing.slack.com\n(Channels: #howto-r & #2020-shutupncode)\nJoin Zoom Meeting | On Slack, visible once you RSVP.\n=====================================================\n\n###############\nWHO is this for?\n###############\nWhat is this??? Stack overflow -- LIVE! Bring your own R-coding project to work on. We'll have a few R-Users floating around (via Zoom+Slack) to take questions and give advice as you troubleshoot your R code.\n\n#####\nPLAN\n#####\nBefore the meetup:\n- Post your R questions in the Slack channels #howto-R & #2020-shutupncode (https://rladies-eastlansing.slack.com)\n\nDuring the meetup:\n- We will answer the Qs via Slack\n- Discuss widely applicable Qs via Zoom for everyone's benefit\n- Moderators can demonstrate specific problem areas via screen-sharing\n- Participants can stop and share progress/Qs every 20-30min\n\n###########\nMATERIALS\n###########\nTO BENEFIT THE MOST FROM THIS EVENT\n1. Bring your laptop w/ pre-installed R & RStudio\n2. Come with a well-defined, hour-long task\n3. Join R-Ladies East Lansing Slack (https://rladies-eastlansing.slack.com) so that you can ask questions in advance, during and after the meeting.\n\nGITHUB\nRepo for this meetup w/ setup instructions, slides, and other useful preparatory material: https://github.com/rladies-eastlansing/2020-git\n\nSLACK\nSlack channels + Zoom for Q&A; live interaction\nhttps://rladies-eastlansing.slack.com | #howto-r & #2020-shutupncode | Free signup to Slack possible with msu.edu email ID.\n\nZOOM\nLink below\n\nSETUP INSTRUCTIONS (** Before the meetup)\n*This is a hands-on co-work/Q&A session. Please join via Zoom + Slack with your laptops.\n*Install or update R & RStudio.\n*Create a GitHub account (if you don't already have one) & Git\n*(Optional) Install GitHub Desktop -- the Git GUI version\n\nHaving trouble with installation & set-up? Ping us on Slack (https://rladies-eastlansing.slack.com) in the #howto-r channel.\n\nUSEFUL RESOURCES\n1. Past workshop material: https://github.com/rladies-eastlansing\n2. R for Data Science by H Wickham & G Grolemund (https://r4ds.had.co.nz/)\n3. Hands-On Programming with R by G Grolemund (https://rstudio-education.github.io/hopr/)\n\n** Questions? Find us on slack: rladies-eastlansing.slack.com OR\n** Email us: eastlansing@rladies.org",
+    "status": "CANCELLED",
+    "dateTime": "2020-04-20T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-east-lansing/events/268096076/",
+    "featuredEventPhoto": {
+      "id": "476509548",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/1/8/c/highres_476509548.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/1/8/c/600_476509548.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/1/8/c/thumb_476509548.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 7,
+      "waitlistCount": 0,
+      "totalCount": 7
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": 42.7018,
+        "lon": -84.4822,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies East Lansing",
+      "urlname": "rladies-east-lansing"
+    }
+  },
+  {
+    "id": "268096208",
+    "title": "2020 Women+ Data Science",
+    "description": "Michigan State University & the University of Michigan invite you to their joint Women+ Data Science Symposium, 2020.\n\nWhen: April 17, 2019 from 9a–5:00p\nWhere: MSU Union, Lake Huron\n\nWebpage: http://bit.ly/2020-wpds\n\nTo attend, present a poster/talk,\nREGISTER HERE http://bit.ly/2020-wpds-reg (*** Required)\n\nOrganizers\n===========\n\nCamille Archer & Janani Ravi\nOn behalf of R-Ladies East Lansing\n\nJing Liu\nOn behalf of Michigan Institute for Data Science\n\nFor any questions, sponsorship interests, email is at:\nwomen.plus.datascience@gmail.com",
+    "status": "CANCELLED",
+    "dateTime": "2020-04-17T09:00:00-04:00",
+    "duration": "PT8H",
+    "eventUrl": "https://www.meetup.com/rladies-east-lansing/events/268096208/",
+    "featuredEventPhoto": {
+      "id": "488878782",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/e/5/9/e/highres_488878782.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/e/5/9/e/600_488878782.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/5/9/e/thumb_488878782.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [
+      {
+        "id": "26823697",
+        "name": "MSU Union",
+        "address": "49 Abbot Rd",
+        "city": "East Lansing",
+        "state": "MI",
+        "country": "us",
+        "lat": 42.7342,
+        "lon": -84.4828,
+        "postalCode": "48824",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies East Lansing",
+      "urlname": "rladies-east-lansing"
+    }
+  },
+  {
+    "id": "268096029",
+    "title": "#HowTo Version Control/Git (virtual meeting)",
+    "description": "=====================================================\nTopic: RLEL: #HowTo Version Control/Git\nTime: Mar 23, 2020 06:00 PM EST\n\nLog into Slack: https://rladies-eastlansing.slack.com\n(Channels: #howto-vc & #2020-git)\nJoin Zoom Meeting: https://msu.zoom.us/j/460485077\n=====================================================\n\nLearn how to use Git (version control software) to manage your R scripts and other collaborative coding projects.\n\n###############\nWHO is this for?\n###############\n- If you are new to Git & are short-budgeted on time!\n- If you'd like to start using version control w/o learning all the command line details first!!\n- If you've ever wished there was a way to \"track changes\" or collaborate on a single script just like you can for google docs.\n* If any of this is true, this help session might be for you!\n\n#####\nPLAN\n#####\nBefore the meetup:\n- Go through the slides and the tutorial included (See MATERIALS section)\n- Post your VC/Git questions in the Slack channels #howto-vc & #2020-git (https://rladies-eastlansing.slack.com)\n\nDuring the meetup:\n- We will answer the Qs via Slack\n- Discuss widely applicable Qs via Zoom for everyone's benefit\n- Moderators can demonstrate specific problem areas via screen-sharing\n\n###########\nMATERIALS\n###########\nGITHUB\nRepo for this meetup w/ setup instructions, slides, and other useful preparatory material: https://github.com/rladies-eastlansing/2020-git\n\nSLACK\nSlack channels + Zoom for Q&A; live interaction\nhttps://rladies-eastlansing.slack.com | #howto-vc & #2020-git | Free signup to Slack possible with msu.edu email ID.\n\nZOOM\nhttps://msu.zoom.us/j/460485077 (Zoom desktop would be preferable)\n\nSETUP INSTRUCTIONS (** Before the meetup)\n*This is a hands-on co-work/Q&A session. Please join via Zoom + Slack with your laptops.\n*Install or update R & RStudio.\n*Create a GitHub account (if you don't already have one) & Git\n*(Optional) Install GitHub Desktop -- the Git GUI version\n\nHaving trouble with installation & set-up? Ping us on Slack (https://rladies-eastlansing.slack.com) in the #howto-vc channel.\n\nUSEFUL REFERENCES:\n*Git Novice from Software Carpentry: https://swcarpentry.github.io/git-novice/\n*Git Cheatsheet: https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf\n*Happy Git with R: https://happygitwithr.com/\n\n** Questions? Find us on slack: rladies-eastlansing.slack.com OR\n** Email us: eastlansing@rladies.org",
+    "status": "PAST",
+    "dateTime": "2020-03-23T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-east-lansing/events/268096029/",
+    "featuredEventPhoto": {
+      "id": "485849892",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/4/c/4/highres_485849892.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/4/c/4/600_485849892.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/4/c/4/thumb_485849892.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 27,
+      "waitlistCount": 0,
+      "totalCount": 27
+    },
+    "venues": [
+      {
+        "id": "26900025",
+        "name": "Virtual Meeting",
+        "address": "MSU Zoom",
+        "city": "East Lansing",
+        "state": "mi",
+        "country": "us",
+        "lat": 42.7018,
+        "lon": -84.4822,
+        "postalCode": "48824",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies East Lansing",
+      "urlname": "rladies-east-lansing"
+    }
+  },
+  {
+    "id": "268427679",
+    "title": "Intro to RMarkdown for Reproducible Research",
+    "description": "Learn to integrate metadata, text, and code with RMarkdown. This workshop follows the outline from RStudio Education: https://ysc-rmarkdown.netlify.com/materials/\n\nWHO is this for?\n- If you are new to R & are short-budgeted on time!\n- If you'd like to start working with data in R w/o learning all the programming details first!!\n- If you are interested in reproducible research and learning to integrate your code, documentation, and output\n\n* If any of this is true, this workshop might be for you!\n\nAGENDA\n6:00–6:15 Meet & Greet | 🍕| Set-up\n6:15–7:25 Workshop: Intro to RMarkdown for Reproducible Research\n7:25–7:30 Q&A| How to reach us to continue this conversation!\n\nSETUP INSTRUCTIONS\n*This is a hands-on workshop. Please bring your laptop\n* Before the Workshop: install R & RStudio OR use RStudio Cloud. See full installation instructions:\n- Gdoc: https://docs.google.com/document/d/1VfD0bGUJBEzliW4C9Xbmk0_Kvx1aUiwY1A7TzY_B7_s/edit?usp=sharing\n- GitHub: https://github.com/rladies-eastlansing/meetup-presentations/blob/master/presentations/R_Rstudio_setup_instructions.md\n\nHaving trouble with installation & set-up?\nPing us on Slack! Or come 15min early!\n\nUSEFUL RESOURCES\n- Past workshops: https://github.com/rladies-eastlansing\n- Cheatsheets: https://github.com/rladies-eastlansing/cheatsheets\n- Software Carpentry's Video Tutorial for installing R and R Studio:\n* For Windows Users: https://www.youtube.com/watch?v=q0PjTAylwoU\n* For Mac Users: https://www.youtube.com/watch?v=5-ly3kyxwEg\n\n** Questions? Find us on slack: rladies-eastlansing.slack.com OR\n** Email us: eastlansing@rladies.org",
+    "status": "PAST",
+    "dateTime": "2020-02-24T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-east-lansing/events/268427679/",
+    "featuredEventPhoto": {
+      "id": "488714082",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/7/0/2/highres_488714082.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/7/0/2/600_488714082.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/7/0/2/thumb_488714082.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 43,
+      "waitlistCount": 0,
+      "totalCount": 43
+    },
+    "venues": [
+      {
+        "id": "24436328",
+        "name": "Biomedical & Physical Sciences Building",
+        "address": "567 Wilson Road",
+        "city": "East Lansing",
+        "state": "MI",
+        "country": "us",
+        "lat": 42.7232,
+        "lon": -84.476,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies East Lansing",
+      "urlname": "rladies-east-lansing"
+    }
+  },
+  {
+    "id": "268095971",
+    "title": "Data Visualization 2.0",
+    "description": "Moving ahead with ggplot2!\n\nWHO is this for?\n- If you are new to R & are short-budgeted on time!\n- If you'd like to start working with data in R w/o learning all the programming details first!!\n- If you have a neat data set you'd like to explore w/ basic statistics!\n- If you are getting started with base R and want to learn more!\n\n* If any of this is true, this workshop might be for you!\n\nAGENDA\n6:00–6:15 Meet & Greet | 🍕| Set-up\n6:15–7:25 Workshop: Data Visualization 2.0\n7:25–7:30 Q&A| How to reach us to continue this conversation!\n\nSETUP INSTRUCTIONS\n*This is a hands-on workshop. Please bring your laptop\n* Before the Workshop: install or update R & RStudio OR use RStudio Cloud. See full instructions for installing or updating your software: https://docs.google.com/document/d/1VfD0bGUJBEzliW4C9Xbmk0_Kvx1aUiwY1A7TzY_B7_s/edit?usp=sharing\n\nHaving trouble with installation & set-up? Ping us on Slack! Or come 15min early.\n\nUSEFUL RESOURCES\n- Past workshops: https://github.com/rladies-eastlansing\n- Cheatsheets: https://github.com/rladies-eastlansing/cheatsheets\n- Software Carpentry's Video Tutorial for installing R and R Studio:\n* For Windows Users: https://www.youtube.com/watch?v=q0PjTAylwoU\n* For Mac Users: https://www.youtube.com/watch?v=5-ly3kyxwEg\n\n** Questions? Find us on slack: rladies-eastlansing.slack.com OR\n** Email us: eastlansing@rladies.org",
+    "status": "PAST",
+    "dateTime": "2020-02-10T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-east-lansing/events/268095971/",
+    "featuredEventPhoto": {
+      "id": "485189691",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/3/f/b/highres_485189691.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/3/f/b/600_485189691.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/3/f/b/thumb_485189691.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 43,
+      "waitlistCount": 0,
+      "totalCount": 43
+    },
+    "venues": [
+      {
+        "id": "24436328",
+        "name": "Biomedical & Physical Sciences Building",
+        "address": "567 Wilson Road",
+        "city": "East Lansing",
+        "state": "MI",
+        "country": "us",
+        "lat": 42.7232,
+        "lon": -84.476,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies East Lansing",
+      "urlname": "rladies-east-lansing"
+    }
+  },
+  {
+    "id": "282099126",
+    "title": "Coffee and Co-work",
+    "description": "Have an R project you're dying to work on, but just can't seem to find the time or motivation? Whether it's finally sitting down to plot all of that data you collected or getting started on that Shiny app you've been meaning to build, get it done alongside your fellow R users at our Coffee and Co-work session!\n\nWhat:\nA two-hour co-work session, where we'll work on independent projects in the same space and keep each other accountable.\n\n- At the beginning we'll go around the room and tell everyone what we're planning to work on.\n\n- After 40 mins, we'll take a 5-10 min break and discuss successes and setbacks.\n\n- We'll work for another 40 mins, then wrap up and see how far we got.\nRLEL will bring the coffee!\n\nWhere:\nIn-person: MSU Biomedical and Physical Sciences building (BPS) room 1425\n\nVirtual: RSVP here and we'll send you the Zoom link.\n\nWhen:\nThursday, Nov. 18, 5:10–7:00 pm\n\nAll R users are welcome! Hope to see you there!",
+    "status": "PAST",
+    "dateTime": "2021-11-18T17:10:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-east-lansing/events/282099126/",
+    "featuredEventPhoto": {
+      "id": "500245259",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/2/a/b/highres_500245259.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/2/a/b/600_500245259.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/2/a/b/thumb_500245259.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 16,
+      "waitlistCount": 0,
+      "totalCount": 16
+    },
+    "venues": [
+      {
+        "id": "24436328",
+        "name": "Biomedical & Physical Sciences Building",
+        "address": "567 Wilson Road",
+        "city": "East Lansing",
+        "state": "MI",
+        "country": "us",
+        "lat": 42.7232,
+        "lon": -84.476,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies East Lansing",
+      "urlname": "rladies-east-lansing"
+    }
+  },
+  {
+    "id": "281304639",
+    "title": "Ice Cream Social outside of the MSU Dairy Store",
+    "description": "Before it gets too cold, come hang out with fellow R-Ladies outside of the MSU Dairy Store! The Dairy Store is closed, but we can still get to know one another and talk about our goals for the rest of the year over free, RLEL provided, ice cream!",
+    "status": "PAST",
+    "dateTime": "2021-10-18T16:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-east-lansing/events/281304639/",
+    "featuredEventPhoto": {
+      "id": "499344752",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/0/b/0/highres_499344752.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/0/b/0/600_499344752.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/0/b/0/thumb_499344752.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 17,
+      "waitlistCount": 0,
+      "totalCount": 17
+    },
+    "venues": [
+      {
+        "id": "27193643",
+        "name": "MSU Dairy Store",
+        "address": "474 S Shaw Ln",
+        "city": "East Lansing",
+        "state": "MI",
+        "country": "us",
+        "lat": 42.7244,
+        "lon": -84.4784,
+        "postalCode": "48824",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies East Lansing",
+      "urlname": "rladies-east-lansing"
+    }
+  },
+  {
+    "id": "280798211",
+    "title": "Intro to Shiny Apps ",
+    "description": "Want an easy way for users to interact with your data without using any html? Shiny is an R package that makes it easy to build interactive web apps straight from R. In this tutorial we'll show you how to build a basic shiny app and host it online. You'll also get to see examples of apps built by RLEL members! For a preview of the types of apps you can build with Shiny see https://shiny.rstudio.com/gallery/ .\n\nPlease fill out this form to register and receive the zoom information: https://forms.gle/6g1nQaHqgJJG2Rmy6",
+    "status": "PAST",
+    "dateTime": "2021-09-30T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-east-lansing/events/280798211/",
+    "featuredEventPhoto": {
+      "id": "498843811",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/e/e/3/highres_498843811.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/e/e/3/600_498843811.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/e/3/thumb_498843811.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 62,
+      "waitlistCount": 0,
+      "totalCount": 62
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies East Lansing",
+      "urlname": "rladies-east-lansing"
+    }
+  },
+  {
+    "id": "278595419",
+    "title": "First Steps in Spatial Data visualization w/ R-Ladies Chicago",
+    "description": "The tutorial is designed for R users from a variety of fields who are interested in working with spatial data and creating maps with R.\n\nNo knowledge of cartography is required.\n\nPrior knowledge of (non-spatial) graphic making and data handling with the {tidyverse} in R is recommended.\n\nSpeaker Bio:\n\nDorris Scott is the GIS Librarian and Social Science Data Curator at Washington University – St. Louis, where she provides consultation on projects that use geospatial data along with providing training in various GIS software, programming applications of geospatial data, and data management. She also serves as a liaison between Washington University Libraries and social science departments assisting faculty with their data needs such as data management and data curation. Dorris received her PhD in Geography from the University of Georgia, with a specialization in GIS applications for public health.\n\n[Zoom Link will be emailed 3 days before the event.]",
+    "status": "PAST",
+    "dateTime": "2021-06-15T19:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-east-lansing/events/278595419/",
+    "featuredEventPhoto": {
+      "id": "496679071",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/e/6/b/f/highres_496679071.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/e/6/b/f/600_496679071.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/6/b/f/thumb_496679071.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 30,
+      "waitlistCount": 7,
+      "totalCount": 30
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies East Lansing",
+      "urlname": "rladies-east-lansing"
+    }
+  },
+  {
+    "id": "277740776",
+    "title": "RLadies+ feat. useR! meetup",
+    "description": "This year useR! (https://user2021.r-project.org/) will be a global and entirely remote conference. One of the main goals is to encourage the participation of diverse people (considering diversity in all its forms and all its intersectionalities). The useR! global team is committed to providing inclusive and accessible spaces during the conference, along with extensive waivers, events in different languages (English, Spanish, and French), real-time English captions, and events across different time zones.\n\nIn this meetup, you will have the opportunity to meet RLadies+ from all over the globe. Our panelists will share their useR! experiences to inspire people with different backgrounds, occupations, and paths to participate in this year’s conference. The meetup will be trilingual with a few spots per organizing chapter.\n\nCome join us!\n\n#########\nSchedule\n#########\n- Welcome + Intro\n- Panel discussion with:\n- Janani Ravi (East Lansing)\n- Jonelle Villar (Bergen)\n- Haifa Ben Messaoud (Tunis)\n- Beatriz Milz (São Paulo)\n- Zulemma Bazurto Blacio (Guayaquil)\n- Pre-prepared questions\n- Questions from the audience\n\nSee you soon at useR!\n\n######################\nCo-organizing chapters\n######################\n- R-Ladies+ Vitória\n- RLadies+ Bangalore\n- RLadies+ Tunis\n- RLadies+ East Lansing\n- RLadies+ Guayaquil\n- RLadies+ Santa Rosa\n- RLadies+ Cuernavaca\n- RLadies+ Den Bosch",
+    "status": "PAST",
+    "dateTime": "2021-04-28T16:00:00-04:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-east-lansing/events/277740776/",
+    "featuredEventPhoto": {
+      "id": "495866830",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/8/c/e/highres_495866830.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/8/c/e/600_495866830.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/8/c/e/thumb_495866830.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 22,
+      "waitlistCount": 0,
+      "totalCount": 22
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies East Lansing",
+      "urlname": "rladies-east-lansing"
+    }
+  },
+  {
+    "id": "276152415",
+    "title": "Fun w/ R",
+    "description": "R-Ladies East Lansing and R-Ladies Chicago are co-hosting \"Fun with R,\" where members share fun R packages! Talks can include topics such as chess w/ R, music w/ R, Rcade games, and other fun packages.\n\n======================================\nRegister to receive the event Zoom link\n======================================\nSpring 2021 RLEL/RLC event registration link:\nhttps://forms.gle/ZLo6XEUVrz9eCLrQ8\n\n========\nAGENDA\n========\n- Intro\n- Lightning Talks by:\n\n🎵Andrea Sanchez-Tapia on sambaR\n\nAndrea will present her package, sambaR. sambaR is a simple R package that downloads song lyrics from the Genius database and translates them into the language of your choice using functions from packages genius and googleLanguageR. It has a built-in shiny app and saves results to a disk. It was written to show sambas to our English and Spanish-speaking friends, and a way to practice package writing and shiny, and to learn about APIs.\n\n🎉Stephanie Hickey on BRRR (by Brooke Watson Madubuonwu)\n\n“Have you ever wanted to know - and celebrate - when your scripts are finally done running in R? Have you ever been so proud of pulling off a tricky bit of code that you wanted Flavor Flav to yell \"yeaaahhhh, boi!!\" as soon as it successfully completes? Have you ever gotten an error message that felt like DJ Khaled yelling, \"They don't wanna see us win!\" Probably not, but you might now. And with BRRR, you can.”\n\n🗺️Kayla Johnson on personalized map art\n\nMap art makes beautiful posters. You can find them all over the internet and buy them even framed for your favorite city, area or country. In this tutorial, inspired by Esteban Moro’s “Personal Art Map with R”, you’ll learn how to create those street maps for your city.\n\n♟️Sneha Sundar on chess (by Niklas Fiekas)\n\nSneha will present the chess package. chess is a wrapper for R around python-chess, an amazing library created by Niklas Fiekas. It allows users to read and write PGN files as well as create and explore game trees such as the ones seen in chess books.\n\n- Q&A | Discussion\n\n=====\nTIME\n=====\nhttps://www.timeanddate.com/worldclock/fixedtime.html?msg=RLEL%2FRLC%3A+Fun+with+R&iso=20210423T13&p1=77&ah=1&am=30",
+    "status": "PAST",
+    "dateTime": "2021-04-23T13:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-east-lansing/events/276152415/",
+    "featuredEventPhoto": {
+      "id": "495737455",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/4/2/f/highres_495737455.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/4/2/f/600_495737455.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/4/2/f/thumb_495737455.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 50,
+      "waitlistCount": 0,
+      "totalCount": 50
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies East Lansing",
+      "urlname": "rladies-east-lansing"
+    }
+  },
+  {
+    "id": "275631302",
+    "title": "R-package development",
+    "description": "“Develop an R package”, they said… What does this even mean?\n\nIn this session with a live demo, we shall demystify the creation of an R package. R packages are mostly well-organized folders, and there are automatic tools to help. Let’s dive into the wonders of usethis! We shall also see why to create a package (or not). We shall furthermore explain how to improve your R package and your own package development skills. And how to solve the specific new challenges you will encounter! Last but not least we will discuss how to find your happy place in the world of R package development.\n\nDo you want to be more of a devoted maintainer of one single package? Or perhaps a valued contributor to dozens of packages?\n\n==================\nAbout the Speaker\n==================\nMaelle Salmon is a R(esearch) Software Engineer & Blogger based in Nancy, France. She is also the associate editor for rOpenSci’s Software Peer Review (peer-review system of R packages), and the main manager of R-Ladies Global Twitter account (@RLadiesGlobal).\nhttps://masalmon.eu\n\n======================================\nRegister to receive the event Zoom link\n======================================\nSpring 2021 RLEL/RLC event registration link:\nhttps://forms.gle/ZLo6XEUVrz9eCLrQ8\n\n========\nAGENDA\n========\n- Intro\n- Demo\n- Tips to improve packages & oneself as a package developer\n- Ways to get involved in open source\n- Q&A | Discussion\n\n=====\nTIME\n=====\nhttps://www.timeanddate.com/worldclock/fixedtime.html?msg=R-Ladies+East+Lansing+R+package+development&iso=20210326T13&p1=179&ah=2",
+    "status": "PAST",
+    "dateTime": "2021-03-26T13:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-east-lansing/events/275631302/",
+    "featuredEventPhoto": {
+      "id": "494603856",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/d/3/0/highres_494603856.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/d/3/0/600_494603856.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/d/3/0/thumb_494603856.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 60,
+      "waitlistCount": 0,
+      "totalCount": 60
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies East Lansing",
+      "urlname": "rladies-east-lansing"
+    }
+  },
+  {
+    "id": "276267920",
+    "title": "Writing R functions (w/ RL-Chicago)",
+    "description": "Stephanie Kirmer will be giving a workshop about writing functions. We'll discuss when you need to write a function, how they're written, documenting and writing tests for your functions.\n\nSpeaker Info:\nStephanie Kirmer is a Senior Data Scientist at Saturn Cloud, a company making large scale Python easy and accessible to the data community using Dask. She has used R as well as Python for machine learning and data science throughout her career, including as a DS Tech Lead at a travel data startup, and as a Senior Data Scientist at Uptake, an industrial data science company. She holds Master's degrees in sociology and education and was formerly an adjunct faculty member at DePaul University in Chicago.\nhttps://skirmer.github.io\n\n======================================\nRegister to receive the event Zoom link\n======================================\nSpring 2021 RLEL/RLC event registration link:\nhttps://forms.gle/ZLo6XEUVrz9eCLrQ8\n\n========\nAGENDA\n========\nIntroduction\n- from RL\n- from Speaker, Stephanie Kirmer\n\nOverview\n- What we’re going to discuss today\n\nWhy Functions?\n- What purpose do they serve?\n- When do you need to use one?\n\nBasic Structure\n- Share an example and talk through the pieces\n\n[* hands-on, beginner: take the example and run it, see what it does, and make sure you know why it does that\n* hands-on, advanced: take a snippet of code you have used in the past that produces a result, and wrap it up to be a function without any input or return just yet.]\n\nWhat Goes In\n- How you shape inputs to functions, knowing what objects and types you want to accept\n- Accepting lists of objects\n* hands-on, beginner: take a new example, try passing in a single obj versus a list\n* hands-on, advanced: add an input argument to your new function, decide what it should be, and see how it works.\n\nWhat Comes Out\n- What to return, what types and objects you can give back\n- Giving back lists of objects\n\n[* hands-on, beginner: change the example so it returns a list\n* hands-on, advanced: decide what kind of result your function should return, and add this element]\n\nSetting Guardrails\n- Documentation\n- Typing\n- Testing inputs and returning errors\n- Writing tests for your functions\n\n[* hands-on, beginner: given an example function, write your own docstring\n* hands-on, beginner: given an example function, write your own test\n* hands-on, advanced: add a docstring to your function\n* hands-on, advanced: add a chunk of code to your function to test an attribute of the input]\n\nCombining Functions\n- Multiple functions to get to the end result\nConclusions\n\nMore Info: https://nicercode.github.io/guides/functions/\n\n=====\nTIME\n=====\nhttps://www.timeanddate.com/worldclock/fixedtime.html?msg=RLC+%26+RLEL%3A+Writing+R+Functions&iso=20210226T13&p1=77&ah=2",
+    "status": "PAST",
+    "dateTime": "2021-02-26T13:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-east-lansing/events/276267920/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 37,
+      "waitlistCount": 0,
+      "totalCount": 37
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies East Lansing",
+      "urlname": "rladies-east-lansing"
+    }
+  },
+  {
+    "id": "284104809",
+    "title": "Design principles for data analysis",
+    "description": "+++++++++++++++++++++++++++++++++++\n**RSVP to see the Zoom registration link.**\n+++++++++++++++++++++++++++++++++++\n\n**SYNOPSIS**\n[Dr. Stephanie Hicks](https://www.stephaniehicks.com/) will join us to talk about *design thinking* – the problem-solving process to understand the people for whom a data analysis product is being designed – and how the choices a data analyst makes affect the experience of the consumer.\n\n**Title**: Design Principles for Data Analysis\n**Abstract**: The data revolution has led to an increased interest in the practice of data analysis. While much has been written about statistical thinking, a complementary form of thinking that appears in the practice of data analysis is design thinking -- the problem-solving process to understand the people for whom a solution is being designed. For a given problem, there can be significant or subtle differences in how a data analyst (or *producer* of a data analysis) constructs, creates, or designs a data analysis, including differences in the choice of methods, tooling, and workflow. These choices can affect the data analysis products themselves and the experience of the *consumer* of the data analysis. Therefore, the role of a producer can be thought of as designing the data analysis with a set of design principles. Here, we introduce *design principles for data analysis* and discuss some case studies where they were used in the classroom to characterize data analyses.\n\nRelevant preprint: [https://arxiv.org/abs/2103.05689](https://urldefense.com/v3/__https://arxiv.org/abs/2103.05689__;!!HXCxUKc!htOZS1uCBo-VVA0L8WNW0s9jv2GJW74ggOL2QKX3UkkfIOWFpVim9jpHPGMPg6gP$)\n\n**PRESENTER**\n[Dr. Stephanie Hicks](https://urldefense.com/v3/__https://www.stephaniehicks.com/projects/__;!!HXCxUKc!g-4YGCinsYGNxMnNswvZMCPosWVu8U4U3dTMh1Ms9NhbsnINdMmL5iWEb2ofv-TN$), assistant professor in the Department of Biostatistics at Johns Hopkins Bloomberg School of Public Health, is *also* giving a virtual seminar titled: \"**Scalable statistical methods and software for single-cell data science**\" in the Department of Biochemistry and Molecular Biology on **Thursday, April 14, at 11a** (email janani[AT]msu[DOT]edu for this Zoom link). One of the focuses of Dr. Hicks’ group is the analysis of high-throughput biological data, including single-cell RNA-seq data.\n\n**About RLEL**\nR-Ladies East Lansing (RLEL) is a chapter of [R-Ladies Global](https://rladies.org), an organization whose mission is to promote gender diversity in the R programming community. All genders are welcome at RLEL meetups, and participants must follow the R-Ladies [code of conduct](https://guide.rladies.org/about/coc/).",
+    "status": "PAST",
+    "dateTime": "2022-04-14T16:00:00-04:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-east-lansing/events/284104809/",
+    "featuredEventPhoto": {
+      "id": "503351413",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/c/9/5/highres_503351413.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/c/9/5/600_503351413.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/c/9/5/thumb_503351413.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 101,
+      "waitlistCount": 0,
+      "totalCount": 101
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies East Lansing",
+      "urlname": "rladies-east-lansing"
+    }
+  },
+  {
+    "id": "284808514",
+    "title": "Coffee and Co-work",
+    "description": "Have an R project you're dying to work on, but just can't seem to find the time or motivation? Whether it's finally sitting down to plot all of that data you collected or getting started on that Shiny app you've been meaning to build, get it done alongside your fellow R users at our Coffee and Co-work session!\n\n**What**:\nA two-hour co-work session, where we'll work on independent projects in the same space and keep each other accountable.\n\n* At the beginning we'll go around the room and tell everyone what we're planning to work on.\n* After 40 mins, we'll take a 5-10 min break and discuss successes and setbacks.\n* We'll work for another 40 mins, then wrap up and see how far we got.\nRLEL will bring the coffee!\n\n**When**:\nWednesday, March 30, 5:10–7:00 pm\n\n**Where**:\n*In-person*: MSU Biomedical and Physical Sciences building (BPS) room 1425\n\n*Virtual*: RSVP here by **4pm on Wednesday, March 30** and we'll email you the zoom link and password.\n\nAll R users are welcome! Hope to see you there!",
+    "status": "PAST",
+    "dateTime": "2022-03-30T17:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-east-lansing/events/284808514/",
+    "featuredEventPhoto": {
+      "id": "500245259",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/2/a/b/highres_500245259.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/2/a/b/600_500245259.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/2/a/b/thumb_500245259.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 10,
+      "waitlistCount": 0,
+      "totalCount": 10
+    },
+    "venues": [
+      {
+        "id": "24436328",
+        "name": "Biomedical & Physical Sciences Building",
+        "address": "567 Wilson Road",
+        "city": "East Lansing",
+        "state": "MI",
+        "country": "us",
+        "lat": 42.7232,
+        "lon": -84.476,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies East Lansing",
+      "urlname": "rladies-east-lansing"
+    }
+  },
+  {
+    "id": "283684999",
+    "title": "Three reasons to use tidymodels",
+    "description": "Modeling and machine learning in R involve a bewildering array of heterogeneous packages, and establishing good statistical practice is challenging in any language. The tidymodels collection of packages offers a consistent, flexible framework for your modeling and machine learning work to address these problems. In this talk, speaker Julia Silge will focus on three specific reasons to consider using tidymodels. She will start with model characteristics themselves, move to the wise management of your data budget, and finish with feature engineering.\n\nCheck out tidymodels here: https://www.tidymodels.org/\n\n*About the speaker*\nJulia Silge is a data scientist and software engineer at RStudio PBC where she works on open-source modeling tools. She is an author, an international keynote speaker, and a real-world practitioner focusing on data analysis and machine learning. Julia loves text analysis, making beautiful charts, and communicating about technical topics with diverse audiences.\n\nWebsite: https://juliasilge.com/\nTwitter: https://twitter.com/juliasilge\n\n*Registration*\nFill out this Google Form to register, and you'll receive the Zoom link by email: https://forms.gle/GiuFfHmGv8fy2Eph9",
+    "status": "PAST",
+    "dateTime": "2022-02-17T18:00:00-05:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-east-lansing/events/283684999/",
+    "featuredEventPhoto": {
+      "id": "501783082",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/0/a/highres_501783082.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/0/a/600_501783082.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/0/a/thumb_501783082.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 121,
+      "waitlistCount": 0,
+      "totalCount": 121
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies East Lansing",
+      "urlname": "rladies-east-lansing"
+    }
+  },
+  {
+    "id": "283341877",
+    "title": "Accessible DataViz",
+    "description": "Data visualizations and presentations are often unintentionally designed in a way that makes them inaccessible to a few participants. Come learn how to make your data visualizations and presentations accessible to everyone!\n\nFill out this Google Form to register, and you'll receive the Zoom link by email: https://forms.gle/RnR2jfqbWqGH7qWXA\n\nOur first speaker, *Keke Wu* (PhD student at Univ of Colorado, Boulder) will talk about her research, Understanding Data Accessibility for People with Intellectual and Developmental Disabilities (IDD), giving us concrete ideas about how to make better figures and reach the IDD community.\n\nKeke is a filmmaker, a storyteller, a designer, a developer, and a researcher. She has degrees in Digital Media Technology and Japanese Language and Literature, a Master of Fine Arts in Film and Television Production, and is currently working on her PhD in Creative Technology & Design at the University of Colorado Boulder. Her research focuses on visualization and accessibility through the lens of multimedia design and storytelling.\n\nWebsite: https://www.kekewu.me/\nTwitter: https://twitter.com/kekewu728\n\nOur second speaker, *Andrea Gomez Vargas* (one of the winners of the 'most accessible presentation' award at useR! 2021), will talk about how to make an accessible presentation in R, using packages such as RMarkdown.\n\nAndrea studied sociology at the University of Buenos Aires and is currently a sociologist, teacher, and researcher with a focus on gender studies and human rights. She is also a co-organizer of R Ladies Buenos Aires and a part of LatinR.\n\nWebsite: https://soyandrea.netlify.app/\nTwitter: https://twitter.com/me_andre",
+    "status": "PAST",
+    "dateTime": "2022-01-31T17:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-east-lansing/events/283341877/",
+    "featuredEventPhoto": {
+      "id": "501469511",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/1/6/7/highres_501469511.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/1/6/7/600_501469511.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/1/6/7/thumb_501469511.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 92,
+      "waitlistCount": 0,
+      "totalCount": 92
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies East Lansing",
+      "urlname": "rladies-east-lansing"
+    }
+  },
+  {
+    "id": "302185529",
+    "title": "BioC 2024 | R-Ladies+ meet & greet",
+    "description": "Hi,\nWe invite all bioinformatics + computational biologists who self-identify as R-Ladies+ (women and gender minorities) to join us at this mini-meetup at Grand Rapids!\n\nVirtual registration for BioC is still open: https://www.bioc2024.bioconductor.org/registration\n\nSchedule:\nhttps://www.bioc2024.bioconductor.org/schedule",
+    "status": "PAST",
+    "dateTime": "2024-07-25T12:45:00-04:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-east-lansing/events/302185529/",
+    "featuredEventPhoto": {
+      "id": "522281667",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/2/c/3/highres_522281667.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/2/c/3/600_522281667.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/2/c/3/thumb_522281667.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 11,
+      "waitlistCount": 0,
+      "totalCount": 11
+    },
+    "venues": [
+      {
+        "id": "23603681",
+        "name": "Van Andel Institute",
+        "address": "333 Bostwick Ave Ne",
+        "city": "Grand Rapids",
+        "state": "MI",
+        "country": "US",
+        "lat": 42.9696,
+        "lon": -85.6665,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies East Lansing",
+      "urlname": "rladies-east-lansing"
+    }
+  }
+]

@@ -1,0 +1,197 @@
+[
+  {
+    "id": "273547213",
+    "title": "Generando tutoriales interactivos con el paquete learnr",
+    "description": "En este tutorial presentamos al paquete learnr para generar tutoriales interactivos. La idea de un documento rmarkdown que permita recorrer un contenido, contestar preguntas y ejecutar código para recibir feedback inmediato es muy poderosa. Especialmente si ese tutorial puede estar disponible como un paquete o como un sitio web o en RStudio. Si tenes clases remotas o asincrónicas, si tenes un paquete y queres llevar la ayuda a otro nivel, si tenes alumnos iniciales y no queres que sufran la instalación de las herramientas un tutorial interactivo te puede ayudar.\n\nTenes que tener instalados los siguientes paquetes: {rmarkdown}, {learnr}, {gapminder} y vamos a necesitar RStudio.",
+    "status": "PAST",
+    "dateTime": "2020-10-03T11:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-general-pico/events/273547213/",
+    "featuredEventPhoto": {
+      "id": "492579742",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/b/3/e/highres_492579742.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/b/3/e/600_492579742.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/b/3/e/thumb_492579742.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 25,
+      "waitlistCount": 0,
+      "totalCount": 25
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies General Pico",
+      "urlname": "rladies-general-pico"
+    }
+  },
+  {
+    "id": "273509840",
+    "title": "Introducción al ABC para enseñar on-line",
+    "description": "Organizado por LatinR, R-Ladies Santa Rosa, R-Ladies General Pico y MetaDocencia.\n\nTaller a cargo de Yanina Bellini Saibene, Mariela Rajngewerc y Celeste Molina Favero.\n\nVamos a introducir buenas prácticas básicas para manejo del aula presencial online. Cada detalle del taller, empezando por el formulario de pre-inscripción hasta el pedido de devolución finalizado el taller, pasando por la ejecución del mismo, son una demostración de estrategias que pueden ser adoptadas o adaptadas a cualquier tarea docente que sucede interactuando en simultáneo con estudiantes. Durante el taller tendremos una demostración de cómo contactar y preparar estudiantes para sumarse a la clase sincrónica, cómo manejar un aula virtual de 20 personas usando Zoom, veremos ejemplos para crear un ambiente positivo y tendremos una introducción a conceptos pedagógicos de diseño de clases con foco en la audiencia, esquematización de contenidos con mapas conceptuales, evaluación formativa con poder diagnóstico, participación en un documento colaborativo para tomar notas y resolver evaluaciones formativas y otras herramientas pedagógicas basadas en evidencia y fáciles de implementar.\n\nPuedes inscribirte a través de este formulario (https://docs.google.com/forms/d/e/1FAIpQLSddnptIAMdRgJYH0Vm6cNrk63x5f969Rd4pbuoGKmDgN02xFw/viewform?usp=send_form) usando la palabra clave LatinR en los comentarios del formulario.",
+    "status": "PAST",
+    "dateTime": "2020-10-02T09:00:00-03:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-general-pico/events/273509840/",
+    "featuredEventPhoto": {
+      "id": "492524010",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/b/e/a/highres_492524010.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/b/e/a/600_492524010.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/b/e/a/thumb_492524010.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 14,
+      "waitlistCount": 0,
+      "totalCount": 14
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies General Pico",
+      "urlname": "rladies-general-pico"
+    }
+  },
+  {
+    "id": "271960751",
+    "title": "Predictive modeling with text using tidy data principles - useR! 2020 tutorial",
+    "description": "Los capítulos de R-Ladies en Argentina estamos felices de anunciar que Emil Hvitfeldt y Julia Silge se unirán a nosotras para traernos su tutorial \"Predictive modeling with text using tidy data principles\".\n\n¿Alguna vez encontraste datos de texto y sospechaste que había información útil en esos datos?, ¿ Te sentiste con frustración al intentan ver cómo encontrar esa información? ¿Estás familiarizade con los conceptos básicos del modelado predictivo y estás liste para aprender cómo se pueden usar los datos de texto no estructurados para la predicción dentro de los ecosistemas tidyverse y tidymodels?\n\n¿Necesitas un marco flexible para manejar datos de texto que te permitan construir modelos predictivos supervisados?\nLos datos de texto son cada vez más importantes en muchos dominios, y los principios de tidymodels se pueden aplicar a las tareas de procesamiento del lenguaje natural. Esta presentación está diseñada para proporcionar orientación práctica y conocimiento directamente aplicable para científiques de datos y analistas que desean integrar texto en sus proyectos de modelado.\n\nEn este tutorial de 90 minutos, aprende a preprocesar datos de texto para modelar, entrenar modelos y evaluar el rendimiento del modelo. Usaremos diapositivas y codificación en vivo durante el tutorial para recorrer un estudio de caso realista. El tutorial se transmitirá, grabará y tendrá subtítulos en inglés. También habrá materiales de apoyo y código en GitHub para que puedas trabajar después.\n\nEl tutorial está pensando para personas con familiaridad intermedia con R, RStudio, conceptos básicos de modelos de regresión y clasificación y paquetes de tidyverse como dplyr y ggplot2.\n\nComo en todos los eventos de R-Ladies, las personas que participan deben aceptar nuestro Código de Conducta. Para este evento, además adoptamos el Código de Conducta de useR! 2020.\n\n****** IMPORTANTE ******\nPara participar y acceder al link de Zoom que publicaremos media hora antes del evento es necesario que hagas click en el botón \"ASISTIRÉ\".\n\n- English versión\n\nThis useR! 2020 online tutorial is coming Friday, July 24, 2020 at 14:00 UTC The R-Ladies chapters from Argentina are happy to announce that Emil Hvitfeldt and Julia Silge will be joining us to run their tutorial \"Predictive modeling with text using tidy data principles\".\n\nHave you ever encountered text data and suspected there was useful insight latent within it but felt frustrated about how to find that insight?\nAre you familiar with the basics of predictive modeling, and ready to learn how unstructured text data can be used for prediction within the tidyverse and tidymodels ecosystems?\nDo you need a flexible framework for handling text data that empowers you to build supervised predictive models?\nText data is increasingly important in many domains, and tidy modeling principles can be applied to natural language processing tasks. This presentation is designed to provide practical guidance and directly applicable knowledge for data scientists and analysts who want to integrate text into their modeling pipelines.\n\nIn this 90-minute tutorial, learn how to preprocess text data for modeling, train models, and evaluate model performance. We will use slides and live coding during the tutorial to walk through a realistic case study. The tutorial will be streamed, recorded, and captioned, and there will be supporting materials and code on GitHub for you to work through afterward.\n\nThe tutorial is intended for people with intermediate familiarity with R, RStudio, basics of regression and classification modeling, and tidyverse packages such as dplyr and ggplot2.\n\nAs every R-Ladies event, all participants are required to agree to the Code of Conduct. In addition, we also adopt the useR! 2020 Code of Conduct.\n\n****** NOTICE ******\nTo participate and accesses to the Zoom link that will be published 30 minutes before the meetup, you have to click on the ATTEND button.",
+    "status": "PAST",
+    "dateTime": "2020-07-24T17:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-general-pico/events/271960751/",
+    "featuredEventPhoto": {
+      "id": "491351274",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/c/0/a/highres_491351274.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/c/0/a/600_491351274.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/c/0/a/thumb_491351274.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 18,
+      "waitlistCount": 0,
+      "totalCount": 18
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies General Pico",
+      "urlname": "rladies-general-pico"
+    }
+  },
+  {
+    "id": "271561969",
+    "title": "Cómo hacer una reunión virtual inolvidable (sin morir en el intento)",
+    "description": "Aunque no es posible reunirnos en persona, la magia de R-Ladies no se detiene y hace posible los encuentros virtuales. En este meetup te contaremos algunos trucos y herramientas para que cualquier evento virtual interactivo (por ejemplo, clase, taller o panel online) sea un éxito sin estrés adicional al hacerlo. Si organizas meetups de R-Ladies, encontrarás dónde y cómo acceder a la infraestructura que te permitirá organizar meetups online para tu capítulo. Si no organizas meetups de R-Ladies, también encontrarás material útil para todo tipo de evento online que organices o del que participes.\n\nEstos contenidos nos los traen R-Ladies latinoamericanas, en su mayoría certificadas para enseñar por RStudio Education y The Carpentries. La mayoría también es parte de MetaDocencia, una organización que desde fines de marzo realizó más de 25 talleres interactivos enseñando a enseñar online a más de 300 docentes hispanohablantes con excelentes resultados. Todas tienen vasta experiencia teletrabajando y enseñando online.\n\nOradoras: Yanina Bellini Saibene y Paola Corrales.\n\nOrganizan: Laura Ación, Yanina Bellini Saibene, Paola Corrales, Patricia Loto y Paloma Rojas\n\nPara tener un evento seguro, el link de acceso al evento lo recibirán quienes confirmen su asistencia via RSVP de meetup.com el día del evento",
+    "status": "PAST",
+    "dateTime": "2020-07-01T14:00:00-03:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-general-pico/events/271561969/",
+    "featuredEventPhoto": {
+      "id": "491038875",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/e/5/f/b/highres_491038875.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/e/5/f/b/600_491038875.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/5/f/b/thumb_491038875.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies General Pico",
+      "urlname": "rladies-general-pico"
+    }
+  },
+  {
+    "id": "270669670",
+    "title": " Primeros pasos con GIT",
+    "description": "¡Se viene una nueva reunión virtual: Charlar con R, Toma 4! y en esta ocasión lo organizamos R-Ladies Buenos Aires, R-Ladies Santa Rosa y R-Ladies General Pico.\n\nVamos a dar los primeros pasos con GIT. Qué es, para que sirve y como puedo usarlo desde RStudio.¿Te sumás?\n\nSerá el lunes 18 de Mayo a las 17:30PM, por Zoom.¡Acordate, tenelo ya instalado!\n\n***IMPORTANTE***\nPara participar poné \"Asistiré\" en este evento y asegurate de tener también instalado Zoom en tu computadora (https://zoom.us/download).\n\nPor razones de seguridad no compartiremos el link para ingresar a Zoom de manera pública. El mismo lunes vamos a mandar un mail a través de Meetup a todas las personas que confirmaron asistencia con el link para que puedas unirte a la videollamada.\n\n¡Nos vemos!",
+    "status": "PAST",
+    "dateTime": "2020-05-18T17:30:00-03:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-general-pico/events/270669670/",
+    "featuredEventPhoto": {
+      "id": "490450670",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/9/a/e/highres_490450670.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/9/a/e/600_490450670.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/9/a/e/thumb_490450670.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies General Pico",
+      "urlname": "rladies-general-pico"
+    }
+  }
+]

@@ -1,0 +1,416 @@
+[
+  {
+    "id": "288606175",
+    "title": "R-Ladies México | 3er Encuentro Anual",
+    "description": "Los invitamos a formar parte del 3er. encuentro anual de R-ladies México, para lo cual hemos el taller:\n\n***\"Hasta el chisme tiene ciencia\", impartido por nuestra científica de datos Ameyalli de Jesus Perea Carreto.***\n\n¿De qué se trata\nLos tiempos han cambiado y la manera en la que nos relacionamos con nuestros seres queridos también; mientras hay personas que continuan disfrutando de una salida o una llamada por teléfono, otros prefieren la comunicación por redes sociales, compartir un emoji o un meme puede significar mucho en las interacciones que tenemos con nuestros seres queridos... ¿Te has puesto a pensar cuánto has texteado con tu mejor amix en la última semana? o ¿cuándo es más común que le escribas a tus padres? Bueno, en este taller podrás hacer un análisis de frecuecia y texto sobre tus mensajes de Whatsapp en R: estadística para las emociones.\nEl taller será de una hora en modalidad virtual y previo a este se necesita hacer estos 2 pasos:\n\n* Se requiere que previamente instales estas librerias: library(rwhatsapp)\nlibrary(lubridate)\nlibrary(tidyverse)\nlibrary(tidytext)\nlibrary(kableExtra)\nlibrary(RColorBrewer)\nlibrary(knitr)\n\n* Exportar el historial del Chat en Whatsapp con tu ser querido, es muy sencillo: Desde tu WhatsApp en cualquier conversación abierta, da clic en el menú de los tres puntos de la parte arriba derecha en Opciones/Más/Exportar chat e inmediato a esto podrás enviarte el historial completo como archivo de texto con extensión “.txt” a un correo. Preferentemente utiliza la opción sin multimedia, ya que la descarga está restringuida hasta cierta cantidad de información, por lo que, dependediendo de cómo sea tu interacción con la persona podrías ver mensajes de años o apenas de unos meses atrás.\n\n* **Nota**: Se debe tener en consideración que para que las gráficas de frecuencia sean más precisas, las pláticas en Whatsapp deberían estar en horario de 24hrs, si tu celular registra la hora con AM y PM, no se verá como en el taller.\n\n**La dinámica del taller será la siguiente:**\n\\- Bienvenida\n\\- Llamado de las librerias \\(espacio para dudas\\, etc\\)\\.\n\\- Gráficas de frecuencias\\.\n\\- Análisis de texto\\.\n\nNo te lo pierdas! Habrán rifas y regalos para nuestros participantes!\nLos esperamos este sábado 24 de septiembre del 2022, a las 10 a.m. en formato híbrido multisede.\nInscripciones y más informes aquí en Meetup",
+    "status": "PAST",
+    "dateTime": "2022-09-24T10:00:00-05:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-sancristobal/events/288606175/",
+    "featuredEventPhoto": {
+      "id": "507197376",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/3/e/0/highres_507197376.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/3/e/0/600_507197376.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/3/e/0/thumb_507197376.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 7,
+      "waitlistCount": 0,
+      "totalCount": 7
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies | SanCristóbalMX | Villahermosa |",
+      "urlname": "rladies-sancristobal"
+    }
+  },
+  {
+    "id": "296693484",
+    "title": "Introducción a R",
+    "description": "Este meetup está dirigido a personas que deseen aprender los principios básicos del lenguaje R.\n**Imparte**\nCristina Alejandra Domínguez Mendoza\n\n**Requerimientos**\n\n* Tener instalado R >= 4.0\n* Tener instalado RStudio >= 1.4\n\n**Para instalar R y RStudio**\nIngresa a [https://posit.co/download/rstudio-desktop/](https://posit.co/download/rstudio-desktop/) y descarga el paquete de R (Paso 1) y RStudio (Paso 2) que corresponda a tu sistema.\nTe dejamos un pequeño video de los pasos para descargar: [https://youtu.be/35UBaDNR8u4?si=iVSYNkum1n5llS0U](https://youtu.be/35UBaDNR8u4?si=iVSYNkum1n5llS0U)\n**Código de conducta**\nRecuerda leer y atender nuestro código de conducta disponible en [https://rladies.org/code-of-conduct/](https://rladies.org/code-of-conduct/) o [https://rladiesmx.netlify.app/codigo_de_conducta/](https://rladiesmx.netlify.app/codigo_de_conducta/)",
+    "status": "PAST",
+    "dateTime": "2023-10-27T18:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-sancristobal/events/296693484/",
+    "featuredEventPhoto": {
+      "id": "516506585",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/7/d/9/highres_516506585.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/7/d/9/600_516506585.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/7/d/9/thumb_516506585.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 60,
+      "waitlistCount": 0,
+      "totalCount": 60
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies | SanCristóbalMX | Villahermosa |",
+      "urlname": "rladies-sancristobal"
+    }
+  },
+  {
+    "id": "295981594",
+    "title": "RLadies Mexico. 4to encuentro Anual",
+    "description": "Como cada año, en el mes patrio, llevamos a cabo nuestra reunión Anual de RLadies Mexico, que es una gran fiesta que reúne a todos los capítulos en México.\n\n**Programa**\n\n**10:00 am** Bienvenida\n**10:15 am** Sesión Plenaria\nPonente: Yanina Bellini\nTema: ROpenSci.\n**11:15 am.** Los capítulos de RLadies en Mexico\n**12:00 am** Platicas cortas:\nUso de las Shiny apps para el desarrollo de plataformas.\nGráficación para el análisis de Datos\nHaciendo presentaciones con R. (Xaringan)\n**12:45** Socialización, Networkig, rifas",
+    "status": "PAST",
+    "dateTime": "2023-09-23T10:00:00-06:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-sancristobal/events/295981594/",
+    "featuredEventPhoto": {
+      "id": "515719399",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/b/c/7/highres_515719399.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/b/c/7/600_515719399.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/b/c/7/thumb_515719399.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 8,
+      "waitlistCount": 0,
+      "totalCount": 8
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies | SanCristóbalMX | Villahermosa |",
+      "urlname": "rladies-sancristobal"
+    }
+  },
+  {
+    "id": "294671033",
+    "title": "\"Del Laboratorio a mi compu con R\"",
+    "description": "## Detalles\n\nPrimer evento en línea del capítulo de R Ladies San Cristóbal\n\n## **En este meetup aprenderemos:**\n\n* Preparar la estructura de datos provenientes de mediciones realizadas de un experimento de laboratorio y escribir un data frame para su análisis en R.\n* Revisaremos funciones básicas para explorar data frames con R.\n* Realizar gráficas exploratorias de un data frame (gŕafico de barras, boxplot).\n\n**Fecha: Jueves 20 de junio de 2023**\n\n**Materiales**\nDurante el evento compartiremos el link a los materiales.\nPara descargar el repositorio, da click en el botón\n\\> Code \\> Download zip\\.\nSi lo prefieres, puedes clonar el repositorio desde tu terminal con el comando:\n$ git clone < url_repositorio >\n\n**Requerimientos de software**\nTener instalado R >= 4.0\nTener instalado RStudio >= 1.4\nNivel de experiencia: Principiantes\n\n**Código de Conducta**\nRecuerda leer y atender nuestro código de conducta disponible en\n[https://rladies.org/code-of-conduct/](https://rladies.org/code-of-conduct/)\n[https://rladiesmx.netlify.app/codigo_de_conducta/](https://rladiesmx.netlify.app/codigo_de_conducta/)",
+    "status": "PAST",
+    "dateTime": "2023-07-20T17:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-sancristobal/events/294671033/",
+    "featuredEventPhoto": {
+      "id": "514229055",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/1/7/f/highres_514229055.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/1/7/f/600_514229055.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/1/7/f/thumb_514229055.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 22,
+      "waitlistCount": 0,
+      "totalCount": 22
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": 0,
+        "lon": 0,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies | SanCristóbalMX | Villahermosa |",
+      "urlname": "rladies-sancristobal"
+    }
+  },
+  {
+    "id": "304991456",
+    "title": "Graficando con R base",
+    "description": "**Detalles**\n\nAlguna vez has querido mejorar el diseño de tus graficos unicamente con las paqueterias base de R?\n\nCuando queremos hacer un grafico para presumirlo en nuestra tesis y articulos lo primero que pensamos es en el sin fin de herramientas que nos brinda la libreria ggplot2. Sin embargo, cuando uno empieza a dar sus primeros pasos en R, los graficos base de R proporcionan una variedad de funciones que facilitan y resaltan el diseño de graficos coloridos y ordenados. Además una vez comprendido el uso de algunas funciones de graficos R base facilita el uso de otras librerias con mayor numero de funciones para el diseño de graficos.\n\nLa finalidad de este meetup es realizar cuatro tipos de graficos con R base y explorar algunas funciones basicas para mejorar el diseño de nuestros gráficos. R base maneja una variedad de graficos por lo que para este taller se explicará brevemente como hacer graficos de barra, histogramas, cajas de bigote y regresiones lineales.\n\n**Imparte**\nKatia Hernández Bolaños\nMaría José Mondragón\n\n**Requerimientos**\n\nTener instalado R >= 4.0\nTener instalado RStudio >= 1.4\nTener git instalado\n\n**Código de conducta**\nRecuerda leer y atender nuestro código de conducta disponible en https://rladiesmx.netlify.app/codigo_de_conducta/",
+    "status": "PAST",
+    "dateTime": "2024-12-12T14:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-sancristobal/events/304991456/",
+    "featuredEventPhoto": {
+      "id": "525110201",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/4/1/9/highres_525110201.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/4/1/9/600_525110201.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/4/1/9/thumb_525110201.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "27930444",
+        "name": "ECOSUR",
+        "address": "Sala Esperanza Tuñon",
+        "city": "Villahermosa",
+        "state": "",
+        "country": "mx",
+        "lat": 17.9895,
+        "lon": -92.9475,
+        "postalCode": "meetup41",
+        "venueType": ""
+      },
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": 17.9895,
+        "lon": -92.9475,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies | SanCristóbalMX | Villahermosa |",
+      "urlname": "rladies-sancristobal"
+    }
+  },
+  {
+    "id": "304831247",
+    "title": "Creación de proyectos en R",
+    "description": "***Detalles***\n*¿Te has olvidado dònde guardaste tus bases de datos y no sabes que path() darle a tu script en R?*\n*¿Te has confundido de \"version_final.csv\", \"version_final_fianal.csv\", \"version_esta_si_es.csv\" ?*\n**¡ Olvidate de eso!**\nEn este meetup aprenderemos a trabajar de forma ordenada en R y Rstudio con la finalidad de tener código reproducible y evitar perder nuestros archivos:\n\n* Crear proyectos con Rstudio\n* Organizar tus archivos y carpteas\n\n**Imparte**\nAnahí Canedo Téxon\n\n**Requerimientos**\n\n* Tener instalado R >= 4.0\n* Tener instalado RStudio >= 1.4\n* Crear una cuenta en Git: [https://github.com](https://github.com/)\n* Instalar Git, descarga desde aquí: https://gitforwindows.org/\n* Instalar paqueterías:\n* install.packages(\"usethis\", dependencies = TRUE)\n* install.packages(\"here\", dependencies = TRUE)\n* install.packages(\"devtools\", dependencies = TRUE)\n* install.packages(\"swirl\", dependencies = TRUE)\n\n**Código de conducta**\nRecuerda leer y atender nuestro código de conducta disponible en [https://rladiesmx.netlify.app/codigo_de_conducta/](https://rladiesmx.netlify.app/codigo_de_conducta/)",
+    "status": "PAST",
+    "dateTime": "2024-12-05T14:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-sancristobal/events/304831247/",
+    "featuredEventPhoto": {
+      "id": "524943089",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/1/1/highres_524943089.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/1/1/600_524943089.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/1/1/thumb_524943089.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 9,
+      "waitlistCount": 0,
+      "totalCount": 9
+    },
+    "venues": [
+      {
+        "id": "27930444",
+        "name": "ECOSUR",
+        "address": "Sala Esperanza Tuñon",
+        "city": "Villahermosa",
+        "state": "",
+        "country": "mx",
+        "lat": 17.9895,
+        "lon": -92.9475,
+        "postalCode": "meetup41",
+        "venueType": ""
+      },
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies | SanCristóbalMX | Villahermosa |",
+      "urlname": "rladies-sancristobal"
+    }
+  },
+  {
+    "id": "304662977",
+    "title": "¿Qué hay en mi data frame?",
+    "description": "## Detalles\n\nEn este meetup revisaremos algunas fucniones de Rbase para extraer información de una dataframe, con la intención de practicar ejercicios cortos para ganar más habilidad en R:\n\n* Función concatenar: c()\n* Crear listas y acceder a sus elementos\n* Cargar un dataframe y acceder a sus elementos\n* Extraer información con funciones de Rbase: ncol(), str(), colMean(),max(), min()\n* ¿Podemos graficar mi dataframe?\n\n**Imparte**\nAnahí Canedo Téxon\n**Requerimientos**\n\n* Tener instalado R >= 4.0\n* Tener instalado RStudio >= 1.4\n\n**Código de conducta**\nRecuerda leer y atender nuestro código de conducta disponible en [https://rladiesmx.netlify.app/codigo_de_conducta/](https://rladiesmx.netlify.app/codigo_de_conducta/)",
+    "status": "PAST",
+    "dateTime": "2024-11-21T15:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-sancristobal/events/304662977/",
+    "featuredEventPhoto": {
+      "id": "524809357",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/0/c/d/highres_524809357.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/0/c/d/600_524809357.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/0/c/d/thumb_524809357.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 8,
+      "waitlistCount": 0,
+      "totalCount": 8
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies | SanCristóbalMX | Villahermosa |",
+      "urlname": "rladies-sancristobal"
+    }
+  },
+  {
+    "id": "304438902",
+    "title": "¿Qué onda con el R? ",
+    "description": "En este meetup abordaremos temas para principiantes de R desde un enfoque amigable y relajado:\n\n* Visibilizar la comunidad de RLadies a nivel mundial\n* Lógica de la programación con Scratch (Imparte: María José Mondragón).\n* Te contamos en 60 minutos todo lo que necesitas saber la primera vez que abres R: Creación de objetos, Instalación de paquetes que viven en CRAN, Establecer directorios de trabajo, Cargar un archivo csv.\n\n**Imparte**\nAnahí Canedo Téxon\n**Requerimientos**\n\n* Tener instalado R >= 4.0\n* Tener instalado RStudio >= 1.4\n\n**Código de conducta**\nRecuerda leer y atender nuestro código de conducta disponible en [https://rladiesmx.netlify.app/codigo_de_conducta/](https://rladiesmx.netlify.app/codigo_de_conducta/)",
+    "status": "PAST",
+    "dateTime": "2024-11-14T15:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-sancristobal/events/304438902/",
+    "featuredEventPhoto": {
+      "id": "524570039",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/3/7/7/highres_524570039.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/3/7/7/600_524570039.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/3/7/7/thumb_524570039.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 11,
+      "waitlistCount": 0,
+      "totalCount": 11
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies | SanCristóbalMX | Villahermosa |",
+      "urlname": "rladies-sancristobal"
+    }
+  },
+  {
+    "id": "304105828",
+    "title": "Descarga y gestión de datos del Sistema Meteorológico Nacional",
+    "description": "## Detalles\n\nEste taller abordará el uso de rvest y stringr en R, centrado en la extracción y manipulación de datos textuales. Utilizaremos la página del Sistema Meteorológico Nacional para extraer información con rvest y procesarla con stringr, lo que permitirá a los participantes automatizar la recopilación y limpieza de datos web. Al finalizar, los asistentes tendrán las herramientas para realizar web scraping y análisis de datos textuales de manera eficiente en R.\n**Imparte**\nJessica Daniela Ocaña Falcon\n**Requerimientos**\n\n* Tener instalado R >= 4.0\n* Tener instalado RStudio >= 1.4\n* Instalar los paquetes rvest y stringr.\n\n**Código de conducta**\nRecuerda leer y atender nuestro código de conducta disponible en [https://rladies.org/code-of-conduct/](https://rladies.org/code-of-conduct/) o [https://rladiesmx.netlify.app/codigo_de_conducta/](https://rladiesmx.netlify.app/codigo_de_conducta/)",
+    "status": "PAST",
+    "dateTime": "2024-10-28T17:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-sancristobal/events/304105828/",
+    "featuredEventPhoto": {
+      "id": "524175410",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/c/3/2/highres_524175410.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/c/3/2/600_524175410.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/c/3/2/thumb_524175410.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 11,
+      "waitlistCount": 0,
+      "totalCount": 11
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies | SanCristóbalMX | Villahermosa |",
+      "urlname": "rladies-sancristobal"
+    }
+  },
+  {
+    "id": "303591959",
+    "title": "RLadies México. 5to encuentro anual",
+    "description": "¡Acompáñanos al 5to Encuentro Anual de R-Ladies México! 🎉💜\nEste sábado 28 de septiembre a las 11:00 A.M. (hora CDMX), te invitamos a formar parte de una jornada llena de conocimiento y comunidad, donde exploraremos proyectos innovadores liderados por expertas en el uso de R. 👩‍💻👩‍🔬\n🚀 Tendremos 3 charlas imperdibles con ponentes de primer nivel, quienes compartirán sus avances en:\nInvestigación de la enfermedad de Parkinson 🧬\nAnálisis de las pasadas elecciones democráticas en México 🗳️\nCómo y por qué crear tu primer paquete en R 📦\n¡No te lo pierdas!\nRegístrate y únete a esta comunidad diversa, tendremos espacios de networking. 💪✨\n(para unirte a la dinámica de networking llena [este formulario](https://forms.gle/KM9gEttFohtg8Uh69) )",
+    "status": "PAST",
+    "dateTime": "2024-09-28T11:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-sancristobal/events/303591959/",
+    "featuredEventPhoto": {
+      "id": "523663912",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/b/8/8/highres_523663912.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/b/8/8/600_523663912.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/b/8/8/thumb_523663912.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies | SanCristóbalMX | Villahermosa |",
+      "urlname": "rladies-sancristobal"
+    }
+  }
+]

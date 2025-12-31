@@ -1,0 +1,554 @@
+[
+  {
+    "id": "266388300",
+    "title": "Extension of linear regression using R (part 1, maybe)",
+    "description": "Hello again!!\n\nThe next Bogor R-Ladies meetup is coming soon!\n\nFor our seventh meetup (wow, 7 already!), let's dive even further into the various extension of linear regression! The subject will be a bit tough than usual, so we'll see how far we'll finished this time. We will discuss cases where we need to extent the simple linear regression into something else and go directly into GLM.\n\nOur mini-workshop will be held on Sunday, November 17, 2019 at 10.00-13.00 at WCS's office (Jalan Malabar 1 No. 11, Kota Bogor, see the map).\n\nSome IMPORTANT stuff:\n1. Our current space can have maximum 25 persons, so hurry up reserve your spot!\n2. Check previous meetups docs here: https://github.com/bogoRladies\n3. E-mail us at bogor@rladies.org for any inquiries regarding this event! 4. Don't forget to have RStudio readily installed in your computer\n5. VERY IMPORTANT: If you're very new to R, we need you to go through these two documents BEFORE the meetup:\n1. Intro to R.pdf\n2. Starter Kit R.pdf\nYou can download and read the descriptions here: https://github.com/bogoRladies/starter-kit\n\nHope to see you all really soon!!",
+    "status": "PAST",
+    "dateTime": "2019-11-17T10:00:00+07:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-bogor/events/266388300/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 18,
+      "waitlistCount": 0,
+      "totalCount": 18
+    },
+    "venues": [
+      {
+        "id": "26569385",
+        "name": "Wildlife Conservation Society - Indonesia Program",
+        "address": "Jl. Malabar 1 No.11, RT.01/RW.01",
+        "city": "Kota Bogor",
+        "state": "Ja",
+        "country": "id",
+        "lat": -6.5952,
+        "lon": 106.8056,
+        "postalCode": "16128",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bogor",
+      "urlname": "rladies-bogor"
+    }
+  },
+  {
+    "id": "265495694",
+    "title": "Linear regression using R!!",
+    "description": "Hello again!!\n\nThe next Bogor R-Ladies meetup is coming soon!\n\nFor our sixth meetup, let's dive into linear regression! We'll discuss including related assumptions of linear regression and how to conduct analysis using this approach in R.\n\nOur mini-workshop will be held on Saturday, September 12, 2019 at 09.30-12.30 at WCS's office (Jalan Malabar 1 No. 11, Kota Bogor, see the map).\n\nOur current space can have maximum 25 persons, so hurry up reserve your spot!\n\nE-mail us at bogor@rladies.org for any inquiries regarding this event! If you're very new to R, please let us know in advance. Don't forget to have RStudio readily installed in your computer as well :)",
+    "status": "PAST",
+    "dateTime": "2019-10-12T09:30:00+07:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-bogor/events/265495694/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 25,
+      "waitlistCount": 0,
+      "totalCount": 25
+    },
+    "venues": [
+      {
+        "id": "26569385",
+        "name": "Wildlife Conservation Society - Indonesia Program",
+        "address": "Jl. Malabar 1 No.11, RT.01/RW.01",
+        "city": "Kota Bogor",
+        "state": "Ja",
+        "country": "id",
+        "lat": -6.5952,
+        "lon": 106.8056,
+        "postalCode": "16128",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bogor",
+      "urlname": "rladies-bogor"
+    }
+  },
+  {
+    "id": "264713296",
+    "title": "Classical tests in R (part 2)!",
+    "description": "Hello again!!\n\nThe next Bogor R-Ladies meetup is coming soon!\n\nAre you still confused when dealing with categorical data? Curious about conducting correlation tests? This is the time to be enlightened!!\n\nFor our fifth meetup, let's dive into the realm of classical tests, part II.\n\nFirst, to make sure that everyone can follow the mini workshop properly, we'd start with intro to R (with Sheherazade). Then, continuing last month's theme on parametric & non-parametric tests, we will now learn about Chi-squared and correlation tests, and how to run the analysis in R (with Ulfah).\n\nOur mini-workshop will be held on Sunday, August 18, 2019 at 09.00-12.00 at WCS's office (Jalan Malabar 1 No. 11, Kota Bogor, see the map).\n\nOur current space can have maximum 25 persons, so hurry up reserve your spot!\n\nE-mail us at bogor@rladies.org for any inquiries regarding this event!",
+    "status": "PAST",
+    "dateTime": "2019-09-14T09:00:00+07:00",
+    "duration": "PT4H",
+    "eventUrl": "https://www.meetup.com/rladies-bogor/events/264713296/",
+    "featuredEventPhoto": {
+      "id": "484765487",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/3/8/f/highres_484765487.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/3/8/f/600_484765487.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/3/8/f/thumb_484765487.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 21,
+      "waitlistCount": 0,
+      "totalCount": 21
+    },
+    "venues": [
+      {
+        "id": "26569385",
+        "name": "Wildlife Conservation Society - Indonesia Program",
+        "address": "Jl. Malabar 1 No.11, RT.01/RW.01",
+        "city": "Kota Bogor",
+        "state": "Ja",
+        "country": "id",
+        "lat": -6.5952,
+        "lon": 106.8056,
+        "postalCode": "16128",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bogor",
+      "urlname": "rladies-bogor"
+    }
+  },
+  {
+    "id": "263962349",
+    "title": "Classical tests in R!",
+    "description": "Hello again!!\n\nThe next Bogor R-Ladies meetup is coming soon!\n\nAre you still confused about parametric and non-parametric tests? assumption of normality etc.? This is the time to be enlightened!! hahahaha...\n\nFor our fourth meetup, let's dive into the realm of classical tests.\n\nWe will learn about the parametric (t-test, ANOVA, ANCOVA) and non-parametric tests (Wilcoxon, Kruskal Wallis), then Chi-squared and correlation tests, and how to run the analysis in R.\n\nOur mini-workshop will be held on Sunday, August 18, 2019 at 10.00-13.00 at WCS's NEW office (Jalan Malabar 1 No. 11, Kota Bogor, see the map).\n\nOur current space can have maximum 25 persons, so hurry up reserve your spot!\n\nE-mail us at bogor@rladies.org for any inquiries regarding this event!",
+    "status": "PAST",
+    "dateTime": "2019-08-18T10:00:00+07:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-bogor/events/263962349/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 25,
+      "waitlistCount": 1,
+      "totalCount": 25
+    },
+    "venues": [
+      {
+        "id": "26569385",
+        "name": "Wildlife Conservation Society - Indonesia Program",
+        "address": "Jl. Malabar 1 No.11, RT.01/RW.01",
+        "city": "Kota Bogor",
+        "state": "Ja",
+        "country": "id",
+        "lat": -6.5952,
+        "lon": 106.8056,
+        "postalCode": "16128",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bogor",
+      "urlname": "rladies-bogor"
+    }
+  },
+  {
+    "id": "262988411",
+    "title": "R data summary and basic plotting",
+    "description": "Our next Bogor R-Ladies meetup is coming soon!\n\nFor our third meetup, let's deal with Data Summary and learning how to plot using base R and ggplot.\n\nThis time, the mini workshop will be held on Sunday, July 14, 2019 at 10.00-13.00 at WCS's office (Jalan Tampomas No. 35 Bogor).\n\nWe will start with introduction to Data Summary where we will discuss a little about how to check your data type, prepare subset, and how to extract descriptive statistic information from your data. Then, we will jump right into visualizing our data by using base plot and pretty it up using ggplot!\n\nThe mini workshop will also include a sharing session for all R Ladies who attend. Feel free to share your experience about R!\n\nOur current space can have maximum 30 persons, so hurry up reserve your spot!\nMore information and RSVP here: http://bit.ly/2MMydVE\n\nE-mail us at bogor@rladies.org for any inquiries regarding this event!",
+    "status": "PAST",
+    "dateTime": "2019-07-14T10:00:00+07:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-bogor/events/262988411/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 26,
+      "waitlistCount": 0,
+      "totalCount": 26
+    },
+    "venues": [
+      {
+        "id": "26446096",
+        "name": "Wildlife Conservation Society - Indonesia Program",
+        "address": "Jl. Malabar 1 No.11, RT.01/RW.01",
+        "city": "Kota Bogor",
+        "state": "Ja",
+        "country": "id",
+        "lat": -6.5833,
+        "lon": 106.8016,
+        "postalCode": "16151",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bogor",
+      "urlname": "rladies-bogor"
+    }
+  },
+  {
+    "id": "262192414",
+    "title": "First R Absolute Beginner Meet Up",
+    "description": "Our next Bogor R-Ladies meetup is coming soon!\n\nFor our second meetup, let's start with R absolute beginner mini workshop.\nSunday, June 16, 2019 at 10.00-13.00 at WCS's office (Jalan Tampomas No. 35 Bogor).\n\nWe will start with a brief introduction of R, followed by basics on how to use R, data cleaning and some descriptive statistics. Don't forget to bring your own laptop and install R software in your computers.\n\nThe mini workshop will also include a sharing session for all R Ladies who attend. Feel free to share your experience about R!\n\nOur current space can have maximum 30 persons, so hurry up reserve your spot!\nMore information and RSVP here: http://bit.ly/2MMydVE\n\nE-mail us at bogor@rladies.org for any inquiries regarding this event!",
+    "status": "PAST",
+    "dateTime": "2019-06-16T10:00:00+07:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-bogor/events/262192414/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 31,
+      "waitlistCount": 0,
+      "totalCount": 31
+    },
+    "venues": [
+      {
+        "id": "26446096",
+        "name": "Wildlife Conservation Society - Indonesia Program",
+        "address": "Jl. Malabar 1 No.11, RT.01/RW.01",
+        "city": "Kota Bogor",
+        "state": "Ja",
+        "country": "id",
+        "lat": -6.5833,
+        "lon": 106.8016,
+        "postalCode": "16151",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bogor",
+      "urlname": "rladies-bogor"
+    }
+  },
+  {
+    "id": "261005936",
+    "title": "R-Ladies Bogor First Meetup",
+    "description": "First Bogor R-Ladies meetup is coming soon!\n\nLet's meet at Burung Corner on 5th of May 2019 from 10 AM to 12 AM to discuss R, our favourite statistical programming language! If you intend to come, please download and fill our survey to help us tailor the event accordingly: https://bogorrladies.typeform.com/to/C3bnPg\n\nIn our first meeting, we will first introduce R-Ladies Global initiative and then proceed to discuss Rmarkdown and reproducible code!\n\nWe don't like to limit our attendees, but our current space was limited to 30 persons because... that is how big the place is :D\nFind out more about our meetup place here; https://twitter.com/BurungIndonesia/status/1117746236428132353\n\nE-mail us at bogor@rladies.org for any inquiries regarding this event!",
+    "status": "PAST",
+    "dateTime": "2019-05-05T10:00:00+07:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-bogor/events/261005936/",
+    "featuredEventPhoto": {
+      "id": "480854794",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/9/c/a/highres_480854794.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/9/c/a/600_480854794.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/9/c/a/thumb_480854794.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 27,
+      "waitlistCount": 0,
+      "totalCount": 27
+    },
+    "venues": [
+      {
+        "id": "26355369",
+        "name": "Hijaw by Burung Indonesia",
+        "address": "Jl. Jatiluhur Raya No.9, RT.02/RW.03",
+        "city": "Kota Bogor",
+        "state": "Ja",
+        "country": "id",
+        "lat": -6.5671,
+        "lon": 106.8028,
+        "postalCode": "16161",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bogor",
+      "urlname": "rladies-bogor"
+    }
+  },
+  {
+    "id": "268949335",
+    "title": "R Ladies Bogor 8th Meet Up: Shiny in R!",
+    "description": "Saturday, 29th February 2020 from 12.30-15.00 WIB, at WCS Indonesia Program Office - Jl. Malabar I, No 11. Bogor (next to Lippo mall/behind All Fresh).\n\nWe will have a refreshing topic as we commence our yearlong R-Ladies series of meet-ups, and what better way to start through learning Shiny apps in R? So, hurry and join us!\n\n\"Shiny is an R package that makes it easy to build interactive web apps straight from R. You can host standalone apps on a webpage or embed them in R Markdown documents or build dashboards. \"\n\nSome IMPORTANT stuff:\n1. Our current space can have maximum 25 persons, so hurry up reserve your spot!\n2. Check previous meetups docs here: https://github.com/bogoRladies\n3. E-mail us at bogor@rladies.org for any inquiries regarding this event! 4. Don't forget to have RStudio readily installed in your computer\n5. VERY IMPORTANT: If you're very new to R, we need you to go through these two documents BEFORE the meetup:\n1. Intro to R.pdf\n2. Starter Kit R.pdf\nYou can download and read the descriptions here: https://github.com/bogoRladies/starter-kit\n\nHope to see you all really soon!!",
+    "status": "PAST",
+    "dateTime": "2020-02-29T12:30:00+07:00",
+    "duration": "PT2H30M",
+    "eventUrl": "https://www.meetup.com/rladies-bogor/events/268949335/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 23,
+      "waitlistCount": 0,
+      "totalCount": 23
+    },
+    "venues": [
+      {
+        "id": "26569385",
+        "name": "Wildlife Conservation Society - Indonesia Program",
+        "address": "Jl. Malabar 1 No.11, RT.01/RW.01",
+        "city": "Kota Bogor",
+        "state": "Ja",
+        "country": "id",
+        "lat": -6.5952,
+        "lon": 106.8056,
+        "postalCode": "16128",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bogor",
+      "urlname": "rladies-bogor"
+    }
+  },
+  {
+    "id": "281667299",
+    "title": "R Ladies Bogor 11th Meet Up: intro to RMarkdown!",
+    "description": "Dear rekan-rekan sekalian,\nKita rencananya akan mengadakan meet-up R Ladies Bogor selanjutnya pada Sabtu, 30 Oktober 2021 pukul 15.00-17.00 WIB dengan susunan kegiatan sebagai berikut:\n\n-Lightning talk 1: Aplikasi analisis vegetasi dengan R Shiny (Kurnia Latifiana)\n-Lightning talk 2: Fungsi-fungsi dan package R 'mini' untuk memudahkan hidupmu! (Ulfah Mardhiah)\n-Hands-on Intro to RMarkdown (Sabhrina Gita Aninta)\n\nUntuk yang berminat untuk ikutan hadir, silakan mengisi link ini agar nanti bisa dikirimkan zoom linknya ya (silakan di-share juga ke rekan-rekannya yang mungkin tertarik untuk ikut):\nhttps://forms.gle/dq8PQdkWFXyeBVRk6\n\nTerima kasih dan sampai ketemu!\nSalam,\n\nUlfah\nCo-coordinator R Ladies Bogor/Jakarta",
+    "status": "PAST",
+    "dateTime": "2021-10-30T15:00:00+07:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-bogor/events/281667299/",
+    "featuredEventPhoto": {
+      "id": "499763809",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/d/0/1/highres_499763809.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/d/0/1/600_499763809.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/d/0/1/thumb_499763809.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 10,
+      "waitlistCount": 0,
+      "totalCount": 10
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bogor",
+      "urlname": "rladies-bogor"
+    }
+  },
+  {
+    "id": "280434748",
+    "title": "R Ladies Bogor 10th Meet Up: intro to Spatial R!",
+    "description": "Halo rekan-rekan sekalian!\n\nSeptember ini kita akan mengadakan meet-up R Ladies Bogor yang ke-10 dengan topik utama tentang Intro to Spasial R (materi dan hands-on membuat peta sederhana). Selain itu ada sejumlah talk singkat/lightning talk dari beberapa rekan R Ladies kita:\n-Menggunakan R Shiny untuk visualisasi data fenologi pohon (oleh Marsya C Sibarani)\n-Penggunaan dplyr di R (oleh Pratiwi Eka Puspita)\n-Pemodelan spasial distribusi spesies menggunakan sdm package (oleh Kurnia Latifiana).\n\nUntuk meet-up ini, rencananya akan kita adakan pada hari Sabtu, 4 September 2021, pukul 13.00-15.00 WIB.\n\nBagi rekan-rekan yang tertarik untuk mendaftar, silakan mengisi formulir pendaftaran berikut ini ya, nanti akan saya kirimkan link zoom-nya :) [https://forms.gle/wEPgqrAd1qrKq3C87]\n\nSilakan di-share kepada rekan-rekan lain yang mungkin juga ingin ikut hadir ya :)\n\nTerima kasih dan sampai jumpa.\nSalam,\n\nUlfah\nCo-coordinator R Ladies Bogor/Jakarta",
+    "status": "PAST",
+    "dateTime": "2021-09-04T13:00:00+07:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-bogor/events/280434748/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 15,
+      "waitlistCount": 0,
+      "totalCount": 15
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bogor",
+      "urlname": "rladies-bogor"
+    }
+  },
+  {
+    "id": "280087518",
+    "title": "R Ladies Bogor 9th Meet Up: intro to Github!",
+    "description": "Dear all,\n\nSetelah cukup lama absen, R Ladies Bogor akan mengadakan kembali meet-up, kali ini online via zoom. Untuk tema kali ini, kami mengundang mas Aswan Syahputra untuk memberikan pengenalan tentang cara men-setup dan menggunakan GitHub untuk meng-optimalisasi pemakaian R rekan-rekan sekalian.\n\nKali ini juga akan ada beberapa rekan R Ladies yang akan menyampaikan lightning talk dengan tema terkait R, jadi ayo ikut mendaftar dan hadir ya!\n\nUntuk mendapatkan zoom linknya, mohon mengisi formulir berikut ini:\n\nhttps://forms.gle/wwP2iyg3uWStktkR9\n\nKegiatan ini akan dilaksanakan pada:\nHari/tanggal: Sabtu, 21 Agustus 2021\nWaktu: 13.00-15.00 WIB\n\nSilakan di-share kepada rekan-rekan lain yang mungkin juga ingin ikut hadir ya :)\n\nTerima kasih dan sampai jumpa.\nSalam,\n\nUlfah\nCo-coordinator R Ladies Bogor/Jakarta",
+    "status": "PAST",
+    "dateTime": "2021-08-21T13:00:00+07:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-bogor/events/280087518/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 1,
+      "waitlistCount": 0,
+      "totalCount": 1
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bogor",
+      "urlname": "rladies-bogor"
+    }
+  },
+  {
+    "id": "280087428",
+    "title": "R Ladies Bogor 9th Meet Up: intro to Github!",
+    "description": "Dear all,\n\nSetelah cukup lama absen, R Ladies Bogor akan mengadakan kembali meet-up, kali ini online via zoom. Untuk tema kali ini, kami mengundang mas Aswan Syahputra untuk memberikan pengenalan tentang cara men-setup dan menggunakan GitHub untuk meng-optimalisasi pemakaian R rekan-rekan sekalian.\n\nKali ini juga akan ada beberapa rekan R Ladies yang akan menyampaikan lightning talk dengan tema terkait R, jadi ayo ikut mendaftar dan hadir ya!\n\nUntuk mendapatkan zoom linknya, mohon mengisi formulir berikut ini:\n\nhttps://forms.gle/wwP2iyg3uWStktkR9\n\nKegiatan ini akan dilaksanakan pada:\nHari/tanggal: Sabtu, 21 Agustus 2021\nWaktu: 13.00-15.00 WIB\n\nSilakan di-share kepada rekan-rekan lain yang mungkin juga ingin ikut hadir ya :)\n\nTerima kasih dan sampai jumpa.\nSalam,\n\nUlfah\nCo-coordinator R Ladies Bogor/Jakarta",
+    "status": "PAST",
+    "dateTime": "2021-08-21T13:00:00+07:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-bogor/events/280087428/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 1,
+      "waitlistCount": 0,
+      "totalCount": 1
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bogor",
+      "urlname": "rladies-bogor"
+    }
+  },
+  {
+    "id": "280087395",
+    "title": "R Ladies Bogor 9th Meet Up: intro to Github!",
+    "description": "Dear all,\n\nSetelah cukup lama absen, R Ladies Bogor akan mengadakan kembali meet-up, kali ini online via zoom. Untuk tema kali ini, kami mengundang mas Aswan Syahputra untuk memberikan pengenalan tentang cara men-setup dan menggunakan GitHub untuk meng-optimalisasi pemakaian R rekan-rekan sekalian.\n\nKali ini juga akan ada beberapa rekan R Ladies yang akan menyampaikan lightning talk dengan tema terkait R, jadi ayo ikut mendaftar dan hadir ya!\n\nUntuk mendapatkan zoom linknya, mohon mengisi formulir berikut ini:\n\nhttps://forms.gle/wwP2iyg3uWStktkR9\n\nKegiatan ini akan dilaksanakan pada:\nHari/tanggal: Sabtu, 21 Agustus 2021\nWaktu: 13.00-15.00 WIB\n\nSilakan di-share kepada rekan-rekan lain yang mungkin juga ingin ikut hadir ya :)\n\nTerima kasih dan sampai jumpa.\nSalam,\n\nUlfah\nCo-coordinator R Ladies Bogor/Jakarta",
+    "status": "PAST",
+    "dateTime": "2021-08-21T13:00:00+07:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-bogor/events/280087395/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 17,
+      "waitlistCount": 0,
+      "totalCount": 17
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bogor",
+      "urlname": "rladies-bogor"
+    }
+  },
+  {
+    "id": "289903626",
+    "title": "Exploring dplyr package and functional diversity metrics using plant traits data",
+    "description": "Dear rekan-rekan sekalian,\nSabtu ini, 26 November 2022, kita akan kembali mengadakan R Ladies Meet Up ke-16 dengan tema \"Exploring dplyr package and functional diversity metrics using plant traits data\" yang akan disampaikan oleh Tresa Zen, MSc. Pada pertemuan kali ini, Tresa akan menyampaikan materi hands on terkait penggunakan dplyr untuk data cleaning dan juga overview terkait analisis functional diversity metrics menggunakan package hypervolume & BAT. Untuk yang ingin bergabung, silakan mendaftarkan diri di link berikut: https://tinyurl.com/rladiesbogor16\nSeperti biasa acara akan diadakan online jam 14.00-16.00 WIB. Untuk yang ingin ikut latihan/hands on, pastikan sudah menginstall package dplyr ya, nanti kita akan share materi dan skripnya.\nSeperti biasa, semua acara R Ladies adalah free for all, jadi jangan ragu untuk hadir dan ikutan :)\nSampai bertemu!\nSalam,\nUlfah",
+    "status": "PAST",
+    "dateTime": "2022-11-26T14:00:00+07:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-bogor/events/289903626/",
+    "featuredEventPhoto": {
+      "id": "508766534",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/7/a/6/highres_508766534.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/7/a/6/600_508766534.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/7/a/6/thumb_508766534.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [],
+    "group": {
+      "name": "R-Ladies Bogor",
+      "urlname": "rladies-bogor"
+    }
+  },
+  {
+    "id": "289472242",
+    "title": "Not real VEGAN: Translate metabarcoding sequences to ecological understanding",
+    "description": "Dear rekan-rekan semua!\n\nR Ladies Bogor ke-15 akan diadakan kembali Sabtu ini, 5 November 2022. Acara seperti biasa akan kita adakan pada jam 14.00-16.00 WIB, dan kali ini kita akan mendengarkan paparan dari Dr. Andhika Prasetyo yang akan menceritakan tentang penggunaan package Vegan di R untuk metabarcoding:\n*\"Not real VEGAN: Translate metabarcoding sequences to ecological understanding\"*\n\nUntuk yang berminat, seperti biasa silakan mendaftar via link berikut untuk mendapatkan link zoom-nya ya [https://tinyurl.com/rladiesbogor15]\n\nUntuk yang ingin ikut latihan/hands-on, silakan terlebih dulu menginstall package vegan di R.\n\nSeperti biasa, semua acara R Ladies adalah free for all, jadi jangan ragu untuk hadir dan ikutan :)\n\nSampai bertemu!\nSalam,\nUlfah",
+    "status": "PAST",
+    "dateTime": "2022-11-05T14:00:00+07:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-bogor/events/289472242/",
+    "featuredEventPhoto": {
+      "id": "508272873",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/2/4/9/highres_508272873.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/2/4/9/600_508272873.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/2/4/9/thumb_508272873.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 1,
+      "waitlistCount": 0,
+      "totalCount": 1
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bogor",
+      "urlname": "rladies-bogor"
+    }
+  },
+  {
+    "id": "287868502",
+    "title": "R Ladies Bogor 14th meet up: Mixture Modelling in R with case study",
+    "description": "Halo rekan-rekan semua,\n\nWeekend ini rencananya kita akan mengadakan R Ladies Bogor 14th Meet Up!\n\nPemateri kita kali ini adalah **Kezia Olive** yang sedang melanjutkan studinya di **Faculty of Educational Sciences, di University of Helsinki**. Tema yang akan disampaikan juga seru sekali, tentang **\"Uncovering gender difference through latent profile (mixture modelling) in R\"**.\n\nSeperti biasa, kegiatan akan dilaksanakan secara online di hari **Sabtu, 20 Agustus 2022 (14.00-16.00 WIB)**\n\nUntuk link registrasinya bisa mengisi di sini (https://bit.ly/3wbjRCd ), dan link zoomnya akan dikirimkan melalui email rekan-rekan. Sampai bertemu semuanya!",
+    "status": "PAST",
+    "dateTime": "2022-08-20T14:00:00+07:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-bogor/events/287868502/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [],
+    "group": {
+      "name": "R-Ladies Bogor",
+      "urlname": "rladies-bogor"
+    }
+  },
+  {
+    "id": "286600428",
+    "title": "R Ladies Bogor 13th Meet Up: intro to Linear Regression with R",
+    "description": "Dear rekan-rekan sekalian,\nKita rencananya akan mengadakan meet-up R Ladies Bogor selanjutnya pada Sabtu, 18 Juni 2022 pukul 14.00-15.30 WIB dengan tema Regresi Linear menggunakan R.\n\nUntuk yang berminat untuk ikutan hadir, silakan mengisi link ini agar nanti bisa dikirimkan zoom linknya ya (silakan di-share juga ke rekan-rekannya yang mungkin tertarik untuk ikut):\nhttps://forms.gle/jAyM6YFuLChtqzsT9\n\nTerima kasih dan sampai ketemu!\nSalam,\n\nUlfah\nCo-coordinator R Ladies Bogor/Jakarta",
+    "status": "PAST",
+    "dateTime": "2022-06-18T14:00:00+07:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-bogor/events/286600428/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [],
+    "group": {
+      "name": "R-Ladies Bogor",
+      "urlname": "rladies-bogor"
+    }
+  }
+]

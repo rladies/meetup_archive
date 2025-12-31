@@ -1,0 +1,2603 @@
+[
+  {
+    "id": "266708705",
+    "title": "Modeling in R - Part Three",
+    "description": "This workshop will give us an introduction to machine learning! Please carry laptops with R and R-studio installed.",
+    "status": "PAST",
+    "dateTime": "2019-12-04T18:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/266708705/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 8,
+      "waitlistCount": 0,
+      "totalCount": 8
+    },
+    "venues": [
+      {
+        "id": "26747375",
+        "name": "Haus des Engagements",
+        "address": "Rehlingstraße 9",
+        "city": "Freiburg im Breisgau",
+        "state": "BW",
+        "country": "de",
+        "lat": 47.9895,
+        "lon": 7.8397,
+        "postalCode": "79100",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "266080997",
+    "title": "Modeling in R - Part Two",
+    "description": "This time we get into the world of GLMs and GLMMs! Please carry laptops with R and R-studio installed.",
+    "status": "PAST",
+    "dateTime": "2019-11-06T18:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/266080997/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 8,
+      "waitlistCount": 0,
+      "totalCount": 8
+    },
+    "venues": [
+      {
+        "id": "26274585",
+        "name": "¡adelante! - Linkes Zentrum Freiburg",
+        "address": "Glümerstraße 2",
+        "city": "Freiburg im Breisgau",
+        "state": "BW",
+        "country": "de",
+        "lat": 47.9882,
+        "lon": 7.8523,
+        "postalCode": "79102",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "265149975",
+    "title": "Modeling in R - Part One",
+    "description": "Regressions, general linear models, mixed models, with a touch of plotting and mapping. We'll cover it all!",
+    "status": "PAST",
+    "dateTime": "2019-10-02T18:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/265149975/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 6,
+      "waitlistCount": 0,
+      "totalCount": 6
+    },
+    "venues": [
+      {
+        "id": "26649472",
+        "name": "Tennenbacher Str. 4",
+        "address": "Tennenbacher Str. 4",
+        "city": "Freiburg im Breisgau",
+        "state": "BW",
+        "country": "de",
+        "lat": 48.0036,
+        "lon": 7.8536,
+        "postalCode": "79106",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "264312180",
+    "title": "Thinking about and exploring data in R",
+    "description": "We'll work together to think about and solve different data problems using a variety of tools for data wrangling, transformation and plotting.",
+    "status": "PAST",
+    "dateTime": "2019-09-04T18:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/264312180/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "26274585",
+        "name": "¡adelante! - Linkes Zentrum Freiburg",
+        "address": "Glümerstraße 2",
+        "city": "Freiburg im Breisgau",
+        "state": "BW",
+        "country": "de",
+        "lat": 47.9882,
+        "lon": 7.8523,
+        "postalCode": "79102",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "263448504",
+    "title": "Visualizing Geographical Data",
+    "description": "This workshop focuses on techniques to visualize different kinds of geographical data and how to plot these on corresponding maps. Material will be provided with the help of a markdown file.",
+    "status": "PAST",
+    "dateTime": "2019-08-07T18:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/263448504/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 8,
+      "waitlistCount": 0,
+      "totalCount": 8
+    },
+    "venues": [
+      {
+        "id": "26274585",
+        "name": "¡adelante! - Linkes Zentrum Freiburg",
+        "address": "Glümerstraße 2",
+        "city": "Freiburg im Breisgau",
+        "state": "BW",
+        "country": "de",
+        "lat": 47.9882,
+        "lon": 7.8523,
+        "postalCode": "79102",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "262552901",
+    "title": "Data Wrangling, Transformation and Communication",
+    "description": "This month we create an R markdown file!! We take a messy dataset, transform it to a tidy one, all while revising a number of commands from BaseR and Tidyverse. Once we have learnt to wrangle and transform this dataset, we will go a step further, making a simple interactive plot in plotly and using KnitR to create an html document of all that we have learnt.",
+    "status": "PAST",
+    "dateTime": "2019-07-03T18:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/262552901/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 6,
+      "waitlistCount": 0,
+      "totalCount": 6
+    },
+    "venues": [
+      {
+        "id": "26274585",
+        "name": "¡adelante! - Linkes Zentrum Freiburg",
+        "address": "Glümerstraße 2",
+        "city": "Freiburg im Breisgau",
+        "state": "BW",
+        "country": "de",
+        "lat": 47.9882,
+        "lon": 7.8523,
+        "postalCode": "79102",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "262069307",
+    "title": "Data Transformation and Introduction to Tidyverse",
+    "description": "We introduce some common data transformation tools and packages for exploring and pre-processing data. We will work through an example data set together, raising and answering a number of questions. Please carry laptops with R and R Studio already installed and running.",
+    "status": "PAST",
+    "dateTime": "2019-06-12T18:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/262069307/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [
+      {
+        "id": "26274585",
+        "name": "¡adelante! - Linkes Zentrum Freiburg",
+        "address": "Glümerstraße 2",
+        "city": "Freiburg im Breisgau",
+        "state": "BW",
+        "country": "de",
+        "lat": 47.9882,
+        "lon": 7.8523,
+        "postalCode": "79102",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "261446549",
+    "title": "Data Transformation and Introduction to Tidyverse",
+    "description": "We introduce some common data transformation tools and packages for exploring and pre-processing data. We will work through an example data set together, raising and answering a number of questions. Please carry laptops with R and R Studio already installed and running.",
+    "status": "PAST",
+    "dateTime": "2019-06-05T17:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/261446549/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 6,
+      "waitlistCount": 0,
+      "totalCount": 6
+    },
+    "venues": [
+      {
+        "id": "26274585",
+        "name": "¡adelante! - Linkes Zentrum Freiburg",
+        "address": "Glümerstraße 2",
+        "city": "Freiburg im Breisgau",
+        "state": "BW",
+        "country": "de",
+        "lat": 47.9882,
+        "lon": 7.8523,
+        "postalCode": "79102",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "260470631",
+    "title": "Starting off in R and R-Studio",
+    "description": "In Diesem Workshop würden wir die Basics von R unterrichten - wie fängt man mit unterschiedlichen Datensets an, was muss man über diese Daten wissen, und wie findet man das heraus. Wir würden basic programming und visualizations in R kennen lernen. Die Teilnehmer haben auch die Gelegenheit, potentielle Probleme zu diskutieren und Tips auszutauschen. Ziel ist die gemeinsame Erarbeitung von relevanten Werkzeugen für Einsteiger.\n\nIn this workshop we would teach the basics to R - how to start working with different datasets, what one should know about them, and how to evaluate these. We would familiarize ourselves with basic programming and visualizations. Participants would also have the opportunity to discuss potential problems and share tips with each other. The goal is to familiarise beginners to relevant tools",
+    "status": "PAST",
+    "dateTime": "2019-05-08T17:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/260470631/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 2,
+      "waitlistCount": 0,
+      "totalCount": 2
+    },
+    "venues": [
+      {
+        "id": "26274585",
+        "name": "¡adelante! - Linkes Zentrum Freiburg",
+        "address": "Glümerstraße 2",
+        "city": "Freiburg im Breisgau",
+        "state": "BW",
+        "country": "de",
+        "lat": 47.9882,
+        "lon": 7.8523,
+        "postalCode": "79102",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "260047159",
+    "title": "How to Teach R - Brainstorming",
+    "description": "Who is invited?\nIf you've ever tried learning or teaching R, or were curious but could never start off, we invite you to come share your thoughts with us. If you have resources you use to learn or teach R, you can bring these with you!\n\nWhat we plan to do?\nWe hope to gather ideas and resources about (1) what one needs to use R effectively - at different stages of learning, (2) what the members of this group would like to learn, (3) what the members of this groups would like to teach, (4) what ways of learning/teaching R work and what don't.\n\nWhat we plan to achieve?\nBy the end of these two hours, we hope to have a collection of resources and concrete monthly workshops that R-Ladies can offer over the next few sessions.",
+    "status": "PAST",
+    "dateTime": "2019-04-03T17:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/260047159/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 2,
+      "waitlistCount": 0,
+      "totalCount": 2
+    },
+    "venues": [
+      {
+        "id": "26274585",
+        "name": "¡adelante! - Linkes Zentrum Freiburg",
+        "address": "Glümerstraße 2",
+        "city": "Freiburg im Breisgau",
+        "state": "BW",
+        "country": "de",
+        "lat": 47.9882,
+        "lon": 7.8523,
+        "postalCode": "79102",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "259234518",
+    "title": "First Meet and Greet",
+    "description": "Happy Women's Day to all R-Ladies!\nLet's meet, get to know each other, what we expect from the group, and collect ideas (what, where and how) for possible future meetups! :) :)",
+    "status": "PAST",
+    "dateTime": "2019-03-08T18:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/259234518/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "26198707",
+        "name": "VAPIANO Freiburg Fahnenbergplatz",
+        "address": "Fahnenbergpl. 1",
+        "city": "Freiburg im Breisgau",
+        "state": "BW",
+        "country": "de",
+        "lat": 47.9983,
+        "lon": 7.8491,
+        "postalCode": "79098",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "274391789",
+    "title": "Lightning Talks: This year I learned ... and it changed my life! R-edition",
+    "description": "Let's be honest... 2020 has been a rollercoaster -- but surely some good has come out of it! In the R-Ladies Freiburg year-end Meetup, we'll focus on the positive things we've learned this year in R. And for this, we want to hear from you!\n\nWhether it's a cool ggplot feature, a newly discovered package, a tip for using R-Studio, or an application of familiar tools to your own project, we know you have something interesting to share! In a 10-minute slot, you can present on anything you've learned this year in R, or walk us through a visualization / piece of code that you're proud of -- all in front of an easy, helpful audience who are there to cheer you on.\n\nWe're hoping to get a range of ladies* from different areas of interest, levels of expertise, and resident countries to join and share their tips with us! If you've never presented before, we want to specifically encourage you to try it out. So don't hesitate to sign up -- we look forward to hearing from you.\n\nSo bring a mug of Glühwein (mulled wine, or your beverage of choice) and celebrate a successful year of R with us in a festive, welcoming atmosphere -- see you there!\n\nWe're happy to be joined this evening also by R-Ladies Tunisia and R-Ladies Montpellier!\n\nAnd, as a teaser, topics so far include:\n- ...how to make sweet lollipop plots\n-... small tricks to make big changes in your R-Studio experience\n\nSign up for a talk here:\nhttps://docs.google.com/spreadsheets/d/1r3BNDPW0kkKSqd5LQNJjE8ezFblh2oOC1LcBXIxIBkc/edit",
+    "status": "PAST",
+    "dateTime": "2020-12-01T18:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/274391789/",
+    "featuredEventPhoto": {
+      "id": "493388862",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/2/9/e/highres_493388862.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/2/9/e/600_493388862.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/2/9/e/thumb_493388862.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 38,
+      "waitlistCount": 0,
+      "totalCount": 38
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "274277879",
+    "title": "Visualizing Geographical Data with R",
+    "description": "If you work with spatial data, in this meetup you will get some ideas to do nice maps using R!\nWe will present an overview of a few different ways to make nice maps, both static and interactive.\nWe will start by building a plot using ggplot2 to visualize data with spatial information.\nThen, we will introduce some basic concepts to work with georeferenced data in R, like vector, raster and reference system. We will explore the packages that allow us to manipulate this data into R.\nWe will finally explore the package tmap for rapidly creating beautiful and interactive maps!!\n\nIf you want also to run the code we will share consider installing the following packages before the start of the meetup:\n- ggplot2\n- tidyverse\n- raster\n- sf\n- tmap\n- tmaptools\n- rnaturalearth\n\nThe meetup will be hosted online via Zoom -- the info to enter the meetup will be sent out via Meetup shortly before the start time. If you do not receive an E-Mail check your spam folder.",
+    "status": "PAST",
+    "dateTime": "2020-11-04T18:00:00+01:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/274277879/",
+    "featuredEventPhoto": {
+      "id": "493290793",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/8/4/9/highres_493290793.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/8/4/9/600_493290793.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/8/4/9/thumb_493290793.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 41,
+      "waitlistCount": 0,
+      "totalCount": 41
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "273638515",
+    "title": "Sentiment Analysis with R",
+    "description": "Join us for an evening of sentiment analysis! Using different R packages (including tidytext and sentimentr), we'll find positive and negative sentiments in texts, but also more detailed emotions such as surprise or fear.\n\nWe'll look at questions such as:\nCan we distinguish Shakespeare's comedies from his tragedies by looking at their sentiment scores?\nHow can we trace sentiment through chapters of a book, or lines of a play?\nWhat are frequent positive and negative words in reviews of this year's hit game Animal Crossing?\nWhich emotions are expressed in Beyoncé's and Taylor Swift's song lyrics?\n\nWe'll learn how to visualise commonly used positive and negative words in comparison clouds (an extension of word clouds) and compare approaches which only look at single words to approaches which take into account negations and other items that can influence the sentiment score.\n\nThis meetup will start with a quick review of basic text processing steps, so it's suitable for all levels and you don't need any previous experience with this topic.\n\nYou will receive a zoom link within an hour of the event starting, so check your junk mailbox shortly before the event starts if you don't have it yet!",
+    "status": "PAST",
+    "dateTime": "2020-10-08T18:15:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/273638515/",
+    "featuredEventPhoto": {
+      "id": "492683600",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/c/3/0/highres_492683600.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/c/3/0/600_492683600.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/c/3/0/thumb_492683600.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 31,
+      "waitlistCount": 0,
+      "totalCount": 31
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "272778529",
+    "title": "Introduction to Eye Tracking Data",
+    "description": "This is an introductory course to eye-tracking data. We will start from the very basics of -what is an eye-tracker, to what the data looks like, what you can do with it, and finish it off with some hands-on work in R. If you're curious about eye-tracking as a methodology, wondered how experiments in reading, cognitive science, psychology look like; or simply curious about how to go about looking at the visual world, this workshop is for you.",
+    "status": "PAST",
+    "dateTime": "2020-09-02T18:30:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/272778529/",
+    "featuredEventPhoto": {
+      "id": "491984655",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/e/6/f/highres_491984655.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/e/6/f/600_491984655.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/e/6/f/thumb_491984655.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 39,
+      "waitlistCount": 0,
+      "totalCount": 39
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "272211757",
+    "title": "Intro to Shiny!",
+    "description": "In this meetup we will do an introductory walkthrough of Shiny apps.\n\nShiny is a web development platform developed through R Studio that allows R users to make interactive interfaces for data manipulation and visualization. Some great examples of what can be done using Shiny can be found here https://shiny.rstudio.com/gallery/.\n\nDuring the tutorial we will introduce Shiny and build a first Shiny App together. R-users of all levels are welcome, only basic experience with R and R-Studio is necessary.\n\nImportant!\nThe meetup will be hosted online via Zoom -- the link will be sent out via Meetup around 15 minutes before the start time.",
+    "status": "PAST",
+    "dateTime": "2020-08-11T18:15:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/272211757/",
+    "featuredEventPhoto": {
+      "id": "491549419",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/2/e/b/highres_491549419.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/2/e/b/600_491549419.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/2/e/b/thumb_491549419.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 25,
+      "waitlistCount": 0,
+      "totalCount": 25
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "272020073",
+    "title": "Virtual Tidy Tuesday - Join and practice your R skills",
+    "description": "Do you want to practice your R-skills? Do you want to improve your abilities to clean, analyse and plot data?\n\nThen this event is what you need! We will meet virtually and work with datasets provided by Tidy Tuesday, an initiative from R for Data Science which posts a new dataset weekly for practicing your R skills (https://github.com/rfordatascience/tidytuesday). Everyone can choose which dataset most interests them (the current one or past ones) and what they want to practice using it. We will do this together to have the opportunity to ask others and because coding together is fun!\n\nAt the end of the meetup, you'll have the chance to share what you've done with the group, post it to Twitter, and/or add it to your data science portfolio. In this way, we can all inspire each other with new methods, graphs, and data concepts, as well as each build our own skillset and data science portfolio.\n\nR-enthusiasts of all levels are welcome, whether it's your first bar chart or you're basically a ggplot expert. Everyone will have the chance to work at their own level, ask/answer questions, and learn something new!\n\nFeel free to take a look at the dataset(s) before we meet and bring ideas for yourself and others.\n\nIMPORTANT:\nGiven the current situation the meetup will be hold virtually via Zoom, which you can download here: https://zoom.us/download\nYou will receive the link shortly before the meeting via e-mail. So check your inbox close to the start time. All meetings are monitored by two co-organizers to ensure a peaceful and secure meeting!",
+    "status": "PAST",
+    "dateTime": "2020-07-21T17:30:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/272020073/",
+    "featuredEventPhoto": {
+      "id": "488857534",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/2/9/e/highres_488857534.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/2/9/e/600_488857534.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/2/9/e/thumb_488857534.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 14,
+      "waitlistCount": 0,
+      "totalCount": 14
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "271449817",
+    "title": "Text Analysis with R",
+    "description": "In this meetup, you will learn all the fundamental steps of preparing and working with text data, such as full copies of famous literary works, song lyrics, or written/transcribed language. Using the examples of fairy tales, like the Grimm brothers collection and Alice in Wonderland, we will prepare and tokenize text data, extract the most frequent words, and display these results graphically. Then, we will explore methods for comparing more than one text source, finding words that are especially characteristic of a particular author/speaker/genre/chapter and comparing these to similar texts. After this meetup, you'll know how to compute word frequencies, identify unique word choices, calculate text-level measures such as lexical density, and create exciting visualizations of text statistics in R.\n\nR-users of all levels can get something out of this Meetup, as we will walk you through every step from reading in data to tuning the graphical parameters. The only requirement is to have R and R Studio up and running on your computer. Main packages include: tidyverse, tidytext, gutenbergr, scales. Primary source: Text Mining with R by Julia Silge.\n\nThe meetup will be hosted online via Zoom -- the link will be sent out via Meetup shortly before the start time.",
+    "status": "PAST",
+    "dateTime": "2020-07-01T18:15:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/271449817/",
+    "featuredEventPhoto": {
+      "id": "490968329",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/c/c/9/highres_490968329.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/c/c/9/600_490968329.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/c/c/9/thumb_490968329.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 37,
+      "waitlistCount": 0,
+      "totalCount": 37
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "271201750",
+    "title": "Virtual Tidy Tuesday - Join and practice your R skills",
+    "description": "Do you want to practice your R-skills? Do you want to improve your abilities to clean, analyse and plot data?\n\nThen this event is what you need! We will meet virtually and work with datasets provided by Tidy Tuesday, an initiative from R for Data Science which posts a new dataset weekly for practicing your R skills (https://github.com/rfordatascience/tidytuesday). Everyone can choose which dataset most interests them (the current one or past ones) and what they want to practice using it. We will do this together to have the opportunity to ask others and because coding together is fun!\n\nAt the end of the meetup, you'll have the chance to share what you've done with the group, post it to Twitter, and/or add it to your data science portfolio. In this way, we can all inspire each other with new methods, graphs, and data concepts, as well as each build our own skillset and data science portfolio.\n\nR-enthusiasts of all levels are welcome, whether it's your first bar chart or you're basically a ggplot expert. Everyone will have the chance to work at their own level, ask/answer questions, and learn something new!\n\nFeel free to take a look at the dataset(s) before we meet and bring ideas for yourself and others.\n\nIMPORTANT:\nGiven the current situation the meetup will be hold virtually via Zoom, which you can download here: https://zoom.us/download\nYou will receive the link shortly before the meeting via e-mail. So check your inbox close to the start time. All meetings are monitored by two co-organizers to ensure a peaceful and secure meeting!",
+    "status": "PAST",
+    "dateTime": "2020-06-16T18:15:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/271201750/",
+    "featuredEventPhoto": {
+      "id": "488857534",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/2/9/e/highres_488857534.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/2/9/e/600_488857534.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/2/9/e/thumb_488857534.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 8,
+      "waitlistCount": 0,
+      "totalCount": 8
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "270879098",
+    "title": "R-Markdown - Introduction to Documents and Presentations",
+    "description": "This will be a beginner-intermediate level workshop on R-Markdown. We will start from the beginning introducing you to markdown in R, how to integrate code with text, what all you can do with it and make a document and a presentation using automated reports together. Hope to see you there! :)",
+    "status": "PAST",
+    "dateTime": "2020-06-02T18:15:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/270879098/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 15,
+      "waitlistCount": 0,
+      "totalCount": 15
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "270669283",
+    "title": "Virtual Tidy Tuesday - Join and practice your R skills",
+    "description": "Do you want to practice your R-skills? Do you want to improve your abilities to clean, analyse and plot data?\n\nThen this event is what you need! We will use the data from Tidy Tuesday as an excuse to work with R. We will virtually meet to work using the same data-set. Each one can choose which analysis to perform or which tools to use (you can already think what you want to practice or learn). We will do this together to have the opportunity to ask others and because coding together is fun!\n\nIMPORTANT:\n\nGiven the currens situation the meetup will be hold virtually. We will use Zoom to set the virtual Meetup. You can download it from https://zoom.us/download\nYou will receive the link to join the meeting viea E-Mail. So check your inbox!\n\nSo far the R-Ladies Freiburg have been working really hard in producing super nice plots! The idea of this meeting is to share our knowledge. You can have a look at them on:\n\nhttps://twitter.com/RLadiesFreiburg\n\nThis activity is for everyone, from beginners to experts. You will set your own goal. We will have a coffee (or what ever you prefer) while working together. This way we can have the opportunity to ask others, to share ideas and code!!\n\nIt is also a great opportunity to start doing analysis to add to your portfolio on line, so that others know what you can do!",
+    "status": "PAST",
+    "dateTime": "2020-05-19T18:15:00+02:00",
+    "duration": "PT1H45M",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/270669283/",
+    "featuredEventPhoto": {
+      "id": "488857534",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/2/9/e/highres_488857534.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/2/9/e/600_488857534.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/2/9/e/thumb_488857534.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 13,
+      "waitlistCount": 0,
+      "totalCount": 13
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "270214676",
+    "title": "Tidy Tuesday - Tips and Tricks",
+    "description": "Hi R-Ladies!\n\nWe will start meeting virtually! We thought that the best way to try the virtual-meeting for the first time is starting by our already traditional and popular tidy Tuesday evenings.\nWe will recap what we have been doing and share some R-Studio tip and tricks to analyse data!\nWe are going to use Zoom for our meeting. So remember to download it before into your computer (https://zoom.us/download).\nFor security reasons, we will not share the zoom-link on Meetup. We will send an E-mail to all the people that have confirmed attendance. So RSVP and confirm attendance at least half an hour before the start of the event.\nWe hope to see you there!",
+    "status": "PAST",
+    "dateTime": "2020-05-05T18:15:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/270214676/",
+    "featuredEventPhoto": {
+      "id": "488857534",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/2/9/e/highres_488857534.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/2/9/e/600_488857534.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/2/9/e/thumb_488857534.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 13,
+      "waitlistCount": 0,
+      "totalCount": 13
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "269102167",
+    "title": "R-Ladies for all! Networking event and Anniversary celebration ",
+    "description": "We turn one! Come celebrate with us! :) There will be food, drinks and a whole lot of lovely people!\n\nIf you're new, come say hello, ask us your questions, tell us your ideas. If you're revisiting, tell us what you liked, what you didn't, brainstorm with us for the future and how we can improve our community!",
+    "status": "PAST",
+    "dateTime": "2020-03-04T18:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/269102167/",
+    "featuredEventPhoto": {
+      "id": "489439701",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/c/f/5/highres_489439701.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/c/f/5/600_489439701.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/c/f/5/thumb_489439701.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 6,
+      "waitlistCount": 0,
+      "totalCount": 6
+    },
+    "venues": [
+      {
+        "id": "26747375",
+        "name": "Haus des Engagements",
+        "address": "Rehlingstraße 9",
+        "city": "Freiburg im Breisgau",
+        "state": "BW",
+        "country": "de",
+        "lat": 47.9894,
+        "lon": 7.8395,
+        "postalCode": "79100",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "268930887",
+    "title": "Tidy Tuesday - Come and practice your R skills",
+    "description": "LAST TIDY TUESDAY!!!\n\nAfter one and half month of uninterrupted weekly meetups to analyze data we are approaching the end of the Tidy Tuesday Meetings, just before the first anniversary of R-Ladies!!!\nIf you have not participated yet, do not miss this event! It is a great opportunity to meet us in an informal environment and practice your R-Skills independently of your expertise (from totally beginners to experts). And if you have been regularly coming, do not miss this last Tidy Tuesday Evening!\n\nHope to see you there!\n\nWe will use the data from Tidy Tuesday as an excuse to work with R. We will meet to work independently using the same data-set. Each one can choose which analysis to perform or which tools to use (you can already think what you want to practice or learn). We will do this together to have the opportunity to ask others and because coding together is fun!\n\nSo far the R-Ladies Freiburg have been working really hard in producing super nice plots! The idea of this meeting is to share our knowledge. You can have a look at them on:\n\nhttps://twitter.com/RLadiesFreiburg\n\nThis activity is for everyone, from beginners to experts. You will set your own goal. We will have a coffee (or what ever you prefer) while working together. This way we can have the opportunity to ask others, to share ideas and code!!\n\nIt is also a great opportunity to start doing analysis to add to your portfolio on line, so that others know what you can do! Have a look at:\n\nhttps://github.com/kyla-mcconnell/tidy-tuesday\n\nhttps://github.com/ichisa/TidyTuesday\n\nIMPORTANT:\n\nBring your own laptop. Hopefully with enough battery.",
+    "status": "PAST",
+    "dateTime": "2020-02-25T18:30:00+01:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/268930887/",
+    "featuredEventPhoto": {
+      "id": "488857534",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/2/9/e/highres_488857534.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/2/9/e/600_488857534.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/2/9/e/thumb_488857534.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 6,
+      "waitlistCount": 0,
+      "totalCount": 6
+    },
+    "venues": [
+      {
+        "id": "26198707",
+        "name": "VAPIANO Freiburg Fahnenbergplatz",
+        "address": "Fahnenbergpl. 1",
+        "city": "Freiburg im Breisgau",
+        "state": "BW",
+        "country": "de",
+        "lat": 47.9983,
+        "lon": 7.8491,
+        "postalCode": "79098",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "268746326",
+    "title": "Tidy Tuesday - Come and practice your R skills",
+    "description": "Do you want to practice your R-skills? Do you want to improve your abilities to clean, analyse and plot data?\n\nThen this event is what you need! We will use the data from Tidy Tuesday as an excuse to work with R. We will meet to work independently using the same data-set. Each one can choose which analysis to perform or which tools to use (you can already think what you want to practice or learn). We will do this together to have the opportunity to ask others and because coding together is fun!\n\nSo far the R-Ladies Freiburg have been working really hard in producing super nice plots! The idea of this meeting is to share our knowledge. You can have a look at them on:\n\nhttps://twitter.com/RLadiesFreiburg\n\nThis activity is for everyone, from beginners to experts. You will set your own goal. We will have a coffee (or what ever you prefer) while working together. This way we can have the opportunity to ask others, to share ideas and code!!\n\nIt is also a great opportunity to start doing analysis to add to your portfolio on line, so that others know what you can do! Have a look at:\n\nhttps://github.com/kyla-mcconnell/tidy-tuesday\n\nhttps://github.com/ichisa/TidyTuesday\n\nIMPORTANT:\n\nBring your own laptop. Hopefully with enough battery.",
+    "status": "PAST",
+    "dateTime": "2020-02-18T18:30:00+01:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/268746326/",
+    "featuredEventPhoto": {
+      "id": "488857534",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/2/9/e/highres_488857534.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/2/9/e/600_488857534.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/2/9/e/thumb_488857534.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [
+      {
+        "id": "26198707",
+        "name": "VAPIANO Freiburg Fahnenbergplatz",
+        "address": "Fahnenbergpl. 1",
+        "city": "Freiburg im Breisgau",
+        "state": "BW",
+        "country": "de",
+        "lat": 47.9983,
+        "lon": 7.8491,
+        "postalCode": "79098",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "268575264",
+    "title": "Tidy Tuesday - Come and practice your R skills",
+    "description": "Do you want to practice your R-skills? Do you want to improve your abilities to clean, analyse and plot data?\n\nThen this event is what you need! We will use the data from Tidy Tuesday as an excuse to work with R. We will meet to work independently using the same data-set. Each one can choose which analysis to perform or which tools to use (you can already think what you want to practice or learn). We will do this together to have the opportunity to ask others and because coding together is fun!\n\nSo far the R-Ladies Freiburg have been working really hard in producing super nice plots! The idea of this meeting is to share our knowledge. You can have a look at them on:\n\nhttps://twitter.com/RLadiesFreiburg\n\nThis activity is for everyone, from beginners to experts. You will set your own goal. We will have a coffee (or what ever you prefer) while working together. This way we can have the opportunity to ask others, to share ideas and code!!\n\nIt is also a great opportunity to start doing analysis to add to your portfolio on line, so that others know what you can do! Have a look at:\n\nhttps://github.com/kyla-mcconnell/tidy-tuesday\n\nhttps://github.com/ichisa/TidyTuesday\n\nIMPORTANT:\n\nBring your own laptop. Hopefully with enough battery.",
+    "status": "PAST",
+    "dateTime": "2020-02-11T18:30:00+01:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/268575264/",
+    "featuredEventPhoto": {
+      "id": "488857534",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/2/9/e/highres_488857534.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/2/9/e/600_488857534.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/2/9/e/thumb_488857534.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "26198707",
+        "name": "VAPIANO Freiburg Fahnenbergplatz",
+        "address": "Fahnenbergpl. 1",
+        "city": "Freiburg im Breisgau",
+        "state": "BW",
+        "country": "de",
+        "lat": 47.9983,
+        "lon": 7.8491,
+        "postalCode": "79098",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "268396310",
+    "title": "Tidy Tuesday - Come and practice your R skills ",
+    "description": "Do you want to practice your R-skills? Do you want to improve your abilities to clean, analyse and plot data?\n\nThen this event is what you need! We will use the data from Tidy Tuesday as an excuse to work with R. We will meet to work independently using the same data-set. Each one can choose which analysis to perform or which tools to use (you can already think what you want to practice or learn). We will do this together to have the opportunity to ask others and because coding together is fun!\n\nThis activity is for everyone, from beginners to experts. You will set your own goal. We will have a coffee (or what ever you prefer) while working together. This way we can have the opportunity to ask others, to share ideas and code!!\n\nTidy Tuesday a weekly data project aimed at the R ecosystem. Every week a new data set is uploaded and analysed by the community, then the plots can be shared! Las week data from the fires in Australia was analysed. Have a look at some of the community plots on Tweeter:\n\nhttps://twitter.com/hashtag/tidytuesday\n\nBring your own laptop. Hopefully with enough battery.",
+    "status": "PAST",
+    "dateTime": "2020-02-04T18:30:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/268396310/",
+    "featuredEventPhoto": {
+      "id": "488157931",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/e/2/4/b/highres_488157931.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/e/2/4/b/600_488157931.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/2/4/b/thumb_488157931.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [
+      {
+        "id": "26198707",
+        "name": "VAPIANO Freiburg Fahnenbergplatz",
+        "address": "Fahnenbergpl. 1",
+        "city": "Freiburg im Breisgau",
+        "state": "BW",
+        "country": "de",
+        "lat": 47.9983,
+        "lon": 7.8491,
+        "postalCode": "79098",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "268190037",
+    "title": "Tidy Tuesday - Come and practice your R skills ",
+    "description": "Do you want to practice your R-skills? Do you want to improve your abilities to clean, analyse and plot data?\n\nThen this event is what you need! We will use the data from Tidy Tuesday as an excuse to work with R. We will meet to work independently using the same data-set. Each one can choose which analysis to perform or which tools to use (you can already think what you want to practice or learn). We will do this together to have the opportunity to ask others and because coding together is fun!\n\nThis activity is for everyone, from beginners to experts. You will set your own goal. We will have a coffee (or what ever you prefer) while working together. This way we can have the opportunity to ask others, to share ideas and code!!\n\nTidy Tuesday a weekly data project aimed at the R ecosystem. Every week a new data set is uploaded and analysed by the community, then the plots can be shared! Las week data from the fires in Australia was analysed. Have a look at some of the community plots on Tweeter:\n\nhttps://twitter.com/hashtag/tidytuesday\n\nBring your own laptop. Hopefully with enough battery.",
+    "status": "PAST",
+    "dateTime": "2020-01-28T18:30:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/268190037/",
+    "featuredEventPhoto": {
+      "id": "488157931",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/e/2/4/b/highres_488157931.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/e/2/4/b/600_488157931.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/2/4/b/thumb_488157931.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 7,
+      "waitlistCount": 0,
+      "totalCount": 7
+    },
+    "venues": [
+      {
+        "id": "26198707",
+        "name": "VAPIANO Freiburg Fahnenbergplatz",
+        "address": "Fahnenbergpl. 1",
+        "city": "Freiburg im Breisgau",
+        "state": "BW",
+        "country": "de",
+        "lat": 47.9983,
+        "lon": 7.8491,
+        "postalCode": "79098",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "267909760",
+    "title": "Tidy Tuesday - Come and practice your R skills ",
+    "description": "Do you want to practice your R-skills? Do you want to improve your abilities to clean, analyse and plot data?\n\nThen this event is what you need! We will use the data from Tidy Tuesday as an excuse to work with R. We will meet to work independently using the same data-set. Each one can choose which analysis to perform or which tools to use (you can already think what you want to practice or learn). We will do this together to have the opportunity to ask others and because coding together is fun!\n\nThis activity is for everyone, from beginners to experts. You will set your own goal. We will have a coffee (or what ever you prefer) while working together. This way we can have the opportunity to ask others, to share ideas and code!!\n\nTidy Tuesday a weekly data project aimed at the R ecosystem. Every week a new data set is uploaded and analysed by the community, then the plots can be shared! Las week data from the fires in Australia was analysed. Have a look at some of the community plots on Tweeter:\n\nhttps://twitter.com/hashtag/tidytuesday\n\nBring your own laptop.",
+    "status": "PAST",
+    "dateTime": "2020-01-21T18:30:00+01:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/267909760/",
+    "featuredEventPhoto": {
+      "id": "488157931",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/e/2/4/b/highres_488157931.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/e/2/4/b/600_488157931.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/2/4/b/thumb_488157931.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 10,
+      "waitlistCount": 0,
+      "totalCount": 10
+    },
+    "venues": [
+      {
+        "id": "26198707",
+        "name": "VAPIANO Freiburg Fahnenbergplatz",
+        "address": "Fahnenbergpl. 1",
+        "city": "Freiburg im Breisgau",
+        "state": "BW",
+        "country": "de",
+        "lat": 47.9983,
+        "lon": 7.8491,
+        "postalCode": "79098",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "267576670",
+    "title": "Analysing Twitter Data",
+    "description": "In this meetup we will learn the basics of accessing, cleaning, wrangling and visualizing Twitter data. If you'd like, you can install the following packages beforehand - \"tidyverse\", \"tm\", \"rtweet\", \"wordcloud2\" and \"tidytext\".",
+    "status": "PAST",
+    "dateTime": "2020-01-08T18:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/267576670/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 14,
+      "waitlistCount": 0,
+      "totalCount": 14
+    },
+    "venues": [
+      {
+        "id": "26747375",
+        "name": "Haus des Engagements",
+        "address": "Rehlingstraße 9",
+        "city": "Freiburg im Breisgau",
+        "state": "BW",
+        "country": "de",
+        "lat": 47.9894,
+        "lon": 7.8395,
+        "postalCode": "79100",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "282469334",
+    "title": "Why-R Conference 2021: Women in Data Science Panel",
+    "description": "Join R-Ladies Freiburg at this year's Why R conference! The conference will be streamed online, accessible from anywhere, and free for participants. In addition to many great talks on a variety of topics, R-Ladies Freiburg co-organizer Kyla McConnell will be speaking on the Women in Data Science panel!\n\nhttps://www.youtube.com/watch?v=IT5A4KhaMpM&list=PLKMUlj_pGn_kE7lNSCATqXcl2b7VQs3bk&index=1\n\n\"During the Women in Data Science discussion panel, panelists will describe their career paths in data science, machine learning, artificial intelligence and related fields. As the panelists have also contributed significantly to our community, they will share their experiences on organizing local data science groups and effective networking. The panel will start with the award ceremony of the fourth edition of the Why R? Supporting Grant for Women in Data Science.\"\n\nMore information about the conference here: https://2021.whyr.pl\nAnd all talks on the Why R Youtube page: https://www.youtube.com/c/WhyRFoundationVideos",
+    "status": "PAST",
+    "dateTime": "2021-12-10T14:45:00+01:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/282469334/",
+    "featuredEventPhoto": {
+      "id": "500590520",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/9/1/8/highres_500590520.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/9/1/8/600_500590520.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/9/1/8/thumb_500590520.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 26,
+      "waitlistCount": 0,
+      "totalCount": 26
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "280936530",
+    "title": "Level up your ggplot: How do I add labels, arrows and other annotations?",
+    "description": "In this workshop, we'll discuss different ways of annotating your plots. For example, we might want to highlight data points that defy the overall trend, or explain what a line or colour within the graph means, or comment on and interpret the plot.\nWe'll first show you how to manually draw arrows and insert text boxes in your graph. Then, we'll explore the annotation geoms the {ggforce} package offers and recreate the commented Bechdel test graph you can see at the top of the page.\n\n---\nIt's important to us to ensure that R-Ladies Freiburg events are a safe space for gender minorities and especially those who are just starting out with R. All are welcome at this meetup but we specifically ask cisgender men to take a passive role in this meetup and hold comments/ questions until after others have had the chance to ask. Thank you for your support!",
+    "status": "PAST",
+    "dateTime": "2021-12-08T18:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/280936530/",
+    "featuredEventPhoto": {
+      "id": "499108134",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/d/e/6/highres_499108134.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/d/e/6/600_499108134.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/d/e/6/thumb_499108134.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 87,
+      "waitlistCount": 0,
+      "totalCount": 87
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "280936345",
+    "title": "From messy data to beautiful plot: Guided TidyTuesday",
+    "description": "Know the basics of data wrangling but want some hands-on practice? Want to learn ggplot tips and tricks to make your plots eye-catching? Seen cool visualizations on Twitter but find it hard to go from messy dataset to beautiful visualization?\n\nIn this monthly meetup, we’ll go through a Tidy Tuesday dataset together step-by-step, walking you through the entire process from coming up with an interesting question to asnwer, getting the data in the right format and finally, creating a cool visualization!\n\nYou may have heard of Tidy Tuesday -- a weekly initiative by R for Data Science which provides a new dataset every week for the community to practice wrangling and visualizing. It has a huge Twitter community and is one of the best ways to practice and develop tidyverse skills, whether you’re still reviewing the basics or have quite the repertoire. This series has something for everyone and is especially designed to be beginner friendly!\n\nIt's important to us to ensure that Guided Tidy Tuesday is a safe space for gender minorities and especially those who are just starting out with R. Studies have shown that letting gender minorities speak first promotes a welcoming and supportive atmosphere for underrepresented groups. All are welcome at this meetup but we specifically ask cisgender men to take a passive role in this meetup and hold comments / questions until after others have had the chance to ask. Thank you for your support!",
+    "status": "PAST",
+    "dateTime": "2021-11-24T18:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/280936345/",
+    "featuredEventPhoto": {
+      "id": "496400107",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/e/8/b/highres_496400107.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/e/8/b/600_496400107.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/e/8/b/thumb_496400107.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 48,
+      "waitlistCount": 0,
+      "totalCount": 48
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "280936462",
+    "title": "Level up your ggplot: How do I use custom fonts?",
+    "description": "In this workshop, we'll first show you a few options to preview and download custom fonts (including Google fonts). Then, we'll discuss two methods to get R to recognise and work with them using the {extrafont} and {showtext} packages. Finally, we'll incorporate our newly added fonts into our plots!\n\n---\nIt's important to us to ensure that R-Ladies Freiburg events are a safe space for gender minorities and especially those who are just starting out with R. All are welcome at this meetup but we specifically ask cisgender men to take a passive role in this meetup and hold comments/ questions until after others have had the chance to ask. Thank you for your support!",
+    "status": "PAST",
+    "dateTime": "2021-11-10T18:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/280936462/",
+    "featuredEventPhoto": {
+      "id": "499110826",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/8/6/a/highres_499110826.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/8/6/a/600_499110826.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/8/6/a/thumb_499110826.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 51,
+      "waitlistCount": 0,
+      "totalCount": 51
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "280936341",
+    "title": "From messy data to beautiful plot: Guided TidyTuesday",
+    "description": "Know the basics of data wrangling but want some hands-on practice? Want to learn ggplot tips and tricks to make your plots eye-catching? Seen cool visualizations on Twitter but find it hard to go from messy dataset to beautiful visualization?\n\nIn this monthly meetup, we’ll go through a Tidy Tuesday dataset together step-by-step, walking you through the entire process from coming up with an interesting question to asnwer, getting the data in the right format and finally, creating a cool visualization!\n\nYou may have heard of Tidy Tuesday -- a weekly initiative by R for Data Science which provides a new dataset every week for the community to practice wrangling and visualizing. It has a huge Twitter community and is one of the best ways to practice and develop tidyverse skills, whether you’re still reviewing the basics or have quite the repertoire. This series has something for everyone and is especially designed to be beginner friendly!\n\nIt's important to us to ensure that Guided Tidy Tuesday is a safe space for gender minorities and especially those who are just starting out with R. Studies have shown that letting gender minorities speak first promotes a welcoming and supportive atmosphere for underrepresented groups. All are welcome at this meetup but we specifically ask cisgender men to take a passive role in this meetup and hold comments / questions until after others have had the chance to ask. Thank you for your support!",
+    "status": "PAST",
+    "dateTime": "2021-10-27T18:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/280936341/",
+    "featuredEventPhoto": {
+      "id": "496400107",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/e/8/b/highres_496400107.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/e/8/b/600_496400107.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/e/8/b/thumb_496400107.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 57,
+      "waitlistCount": 0,
+      "totalCount": 57
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "280936416",
+    "title": "Level up your ggplot: What is the deal with theme()?",
+    "description": "The options in ggplot's theme() are incredibly useful - they let you design every little detail of your graph. With just a couple lines of code, you can change the titles, labels, fonts, background, gridlines, and legends of your plots to customise their size, placement, colour, orientation, and more!\n\nBut these options can also feel confusing and overwhelming. Many of us struggle to use theme(), or need to consult Google every time to find the correct command...\n\nAfter this workshop, you'll feel more comfortable with harnessing the power of theme(). We'll dive into text elements like titles and labels, as well as explore the options concerning axes, legends, gridlines and the plot background in a structured way so you understand just how theme() works.\n\nThis is the first in 3 \"level up your ggplot\" meetups -- feel free to join any or all in any order. On November 10th, we'll continue with a discussion of custom fonts and how they work with theme() too.. and more!\n\n---\nIt's important to us to ensure that R-Ladies Freiburg events are a safe space for gender minorities and especially those who are just starting out with R. All are welcome at this meetup but we specifically ask cisgender men to take a passive role in this meetup and hold comments/ questions until after others have had the chance to ask. Thank you for your support!",
+    "status": "PAST",
+    "dateTime": "2021-10-13T18:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/280936416/",
+    "featuredEventPhoto": {
+      "id": "499110606",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/7/8/e/highres_499110606.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/7/8/e/600_499110606.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/7/8/e/thumb_499110606.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 49,
+      "waitlistCount": 0,
+      "totalCount": 49
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "280030764",
+    "title": "From messy data to beautiful plot: Guided TidyTuesday",
+    "description": "Know the basics of data wrangling but want some hands-on practice? Want to learn ggplot tips and tricks to make your plots eye-catching? Seen cool visualizations on Twitter but find it hard to go from messy dataset to beautiful visualization?\n\nIn this monthly meetup, we’ll go through a Tidy Tuesday dataset together step-by-step, walking you through the entire process from coming up with an interesting question to asnwer, getting the data in the right format and finally, creating a cool visualization!\n\nYou may have heard of Tidy Tuesday -- a weekly initiative by R for Data Science which provides a new dataset every week for the community to practice wrangling and visualizing. It has a huge Twitter community and is one of the best ways to practice and develop tidyverse skills, whether you’re still reviewing the basics or have quite the repertoire. This series has something for everyone and is especially designed to be beginner friendly!\n\nIt's important to us to ensure that Guided Tidy Tuesday is a safe space for gender minorities and especially those who are just starting out with R. Studies have shown that letting gender minorities speak first promotes a welcoming and supportive atmosphere for underrepresented groups. All are welcome at this meetup but we specifically ask cisgender men to take a passive role in this meetup and hold comments / questions until after others have had the chance to ask. Thank you for your support!",
+    "status": "PAST",
+    "dateTime": "2021-09-29T18:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/280030764/",
+    "featuredEventPhoto": {
+      "id": "496400107",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/e/8/b/highres_496400107.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/e/8/b/600_496400107.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/e/8/b/thumb_496400107.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 62,
+      "waitlistCount": 0,
+      "totalCount": 62
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "280030819",
+    "title": "Create colourful, publication-ready tables with {gt} & {gtsummary}",
+    "description": "In this workshop, we'll explore the {gt} package and create beautiful, colourful tables together. The name gt stands for \"grammar of tables\" because its approach is similar to that of ggplot: setting up an underlying structure which allows users to build up tables layer by layer.\n\nWe'll start by creating summary tables with our other favourite (collection of) packages - the tidyverse. Then, we'll make these tables look pretty with {gt} - add and polish the descriptions, change column widths, add a splash or two of colour. We'll also cover adding subgroups, summaries such as averages, and spanners to group columns together.\n\nFinally, we'll take a look at the {gtsummary} package to create custom tables of descriptive statistics and learn how to export our beautiful tables in a variety of different formats.\n\n---\nIt's important to us to ensure that R-Ladies Freiburg events are a safe space for gender minorities and especially those who are just starting out with R. All are welcome at this meetup but we specifically ask cisgender men to take a passive role in this meetup and hold comments/ questions until after others have had the chance to ask. Thank you for your support!",
+    "status": "PAST",
+    "dateTime": "2021-09-15T18:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/280030819/",
+    "featuredEventPhoto": {
+      "id": "498351907",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/a/c/3/highres_498351907.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/a/c/3/600_498351907.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/a/c/3/thumb_498351907.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 62,
+      "waitlistCount": 0,
+      "totalCount": 62
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "279568012",
+    "title": "From messy data to beautiful plot: Guided TidyTuesday",
+    "description": "Know the basics of data wrangling but want some hands-on practice? Want to learn ggplot tips and tricks to make your plots eye-catching? Seen cool visualizations on Twitter but find it hard to go from messy dataset to beautiful visualization?\n\nIn this monthly meetup, we’ll go through a Tidy Tuesday dataset together step-by-step, walking you through the entire process from coming up with an interesting question to asnwer, getting the data in the right format and finally, creating a cool visualization!\n\nYou may have heard of Tidy Tuesday -- a weekly initiative by R for Data Science which provides a new dataset every week for the community to practice wrangling and visualizing. It has a huge Twitter community and is one of the best ways to practice and develop tidyverse skills, whether you’re still reviewing the basics or have quite the repertoire. This series has something for everyone and is especially designed to be beginner friendly!\n\nIt's important to us to ensure that Guided Tidy Tuesday is a safe space for gender minorities and especially those who are just starting out with R. Studies have shown that letting gender minorities speak first promotes a welcoming and supportive atmosphere for underrepresented groups. All are welcome at this meetup but we specifically ask cisgender men to take a passive role in this meetup and hold comments / questions until after others have had the chance to ask. Thank you for your support!",
+    "status": "PAST",
+    "dateTime": "2021-08-24T18:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/279568012/",
+    "featuredEventPhoto": {
+      "id": "496400107",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/e/8/b/highres_496400107.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/e/8/b/600_496400107.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/e/8/b/thumb_496400107.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 58,
+      "waitlistCount": 0,
+      "totalCount": 58
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "279587921",
+    "title": "Colour your ggplots beautiful!",
+    "description": "Struggling with boring black and white plots? Sick of R's default colours? We've got your back! In this meetup, we'll show you how to colour your ggplots beautiful.\n\nWe'll cover:\n- how to use any custom colour(s) you fancy (and how to find colours that match perfectly)\n- commonly used colour palettes like viridis and RColorBrewer, but also lesser-known options that are based on e.g. Wes Anderson films, US National Park posters, or classic rock album covers\n- things to consider when creating data visualisations, such as how to make sure your graphs are accessible and don't perpetuate (gender) stereotypes\n\nSo join us to play with color in ggplot and never have a bland plot again!\n\nIt's important to us to ensure that R-Ladies Freiburg events are a safe space for gender minorities and especially those who are just starting out with R. All are welcome at this meetup but we specifically ask cisgender men to take a passive role in this meetup and hold comments / questions until after others have had the chance to ask. Thank you for your support!",
+    "status": "PAST",
+    "dateTime": "2021-08-03T18:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/279587921/",
+    "featuredEventPhoto": {
+      "id": "497654437",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/8/6/5/highres_497654437.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/8/6/5/600_497654437.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/8/6/5/thumb_497654437.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 49,
+      "waitlistCount": 0,
+      "totalCount": 49
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "279291079",
+    "title": "First steps on Git using R-Studio and Github",
+    "description": "During this workshop we will introduce the concept of version control using Git, RStudio and GiHub. We will learn the basic Git commands and how to use them directly from R-Studio. I will show how to link your R-Projects with GitHub to create online repositories to share your work and how it can be used for collaboration. At the end I will do a short demo on uploading a small WebPage to Github such as the one from R-Ladies Seattle\n\nhttps://github.com/rladies-seattle/rladies-seattle-organizing\n\nIf you have some time to prepare before the Meetup I would recommend you to:\n\n· create a GitHub account (if you do not have one yet) on https://github.com/\n\n· download and install Git from https://git-scm.com/\n\nFor the last part of the meetup some very basic knowledge or markdown/Rmarkdown in recommended, but not mandatory, we will also go through it. If you want, you can have a look to the first 35 minutes of this video about RMarkdown: https://www.youtube.com/watch?v=H91WSwALx1A",
+    "status": "PAST",
+    "dateTime": "2021-07-20T18:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/279291079/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 66,
+      "waitlistCount": 0,
+      "totalCount": 66
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "278299410",
+    "title": "From messy data to beautiful plot: Guided TidyTuesday",
+    "description": "Know the basics of data wrangling but want some hands-on practice? Want to learn ggplot tips and tricks to make your plots eye-catching? Seen cool visualizations on Twitter but find it hard to go from messy dataset to beautiful visualization?\n\nIn this monthly meetup, we’ll go through a Tidy Tuesday dataset together step-by-step, walking you through the entire process from coming up with an interesting question to asnwer, getting the data in the right format and finally, creating a cool visualization!\n\nYou may have heard of Tidy Tuesday -- a weekly initiative by R for Data Science which provides a new dataset every week for the community to practice wrangling and visualizing. It has a huge Twitter community and is one of the best ways to practice and develop tidyverse skills, whether you’re still reviewing the basics or have quite the repertoire. This series has something for everyone and is especially designed to be beginner friendly!\n\nIt's important to us to ensure that Guided Tidy Tuesday is a safe space for gender minorities and especially those who are just starting out with R. Studies have shown that letting gender minorities speak first promotes a welcoming and supportive atmosphere for underrepresented groups. All are welcome at this meetup but we specifically ask cisgender men to take a passive role in this meetup and hold comments / questions until after others have had the chance to ask. Thank you for your support!",
+    "status": "PAST",
+    "dateTime": "2021-07-06T18:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/278299410/",
+    "featuredEventPhoto": {
+      "id": "496400107",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/e/8/b/highres_496400107.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/e/8/b/600_496400107.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/e/8/b/thumb_496400107.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 66,
+      "waitlistCount": 0,
+      "totalCount": 66
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "278277069",
+    "title": "Tidy Text Analysis: Word frequencies & n-grams",
+    "description": "Text is one of the most prominent and extensive data sources in the digital world. It can be an insight into consumer opinions, social media trends, and literary story arches. However, it can be difficult to analyze without specialized tools and commands. The tidytext package and framework makes it easy to go from full text files to clean data and ultimately, analysis!\n\nThe workshop will start with the building blocks of text analysis: separating a text into smaller chunks, removing punctuation, and identifying frequent words or phrases. If you’ve joined our previous text analysis meetups before, this will be a great recap; if you haven’t, this will bring you right up to speed! We’ll show you all you need to know so beginners to the topic are very much welcome.\n\nThe focus for the evening will be on going beyond individual words in isolation to n-grams: units of a set number of words (e.g. bigrams like “I think”, “think that”, “that tidytext”, “tidytext is”, “is great”.). This will allow us to get a sense of context about words based on the company they keep and address typical text analysis problems (e.g. \"happy\" preceded by \"not\" being given a positive sentiment score).\n\nWe’ll top it all off with some truly unique visualizations that show the relationship between words, like bigram network plots with ggraph. Materials will be based on the book Tidy Text Mining by Julia Silge and David Robinson (chapter 4).",
+    "status": "PAST",
+    "dateTime": "2021-06-22T18:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/278277069/",
+    "featuredEventPhoto": {
+      "id": "496400851",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/1/7/3/highres_496400851.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/1/7/3/600_496400851.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/1/7/3/thumb_496400851.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 73,
+      "waitlistCount": 0,
+      "totalCount": 73
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "278277079",
+    "title": "From messy data to beautiful plot: Guided TidyTuesday",
+    "description": "Know the basics of data wrangling but want some hands-on practice? Want to learn ggplot tips and tricks to make your plots eye-catching? Seen cool visualizations on Twitter but find it hard to go from messy dataset to beautiful visualization?\n\nIn this monthly meetup, we’ll go through a Tidy Tuesday dataset together step-by-step, walking you through the entire process from coming up with an interesting question to asnwer, getting the data in the right format and finally, creating a cool visualization!\n\nYou may have heard of Tidy Tuesday -- a weekly initiative by R for Data Science which provides a new dataset every week for the community to practice wrangling and visualizing. It has a huge Twitter community and is one of the best ways to practice and develop tidyverse skills, whether you’re still reviewing the basics or have quite the repertoire. This series has something for everyone and is especially designed to be beginner friendly!\n\nIt's important to us to ensure that Guided Tidy Tuesday is a safe space for gender minorities and especially those who are just starting out with R. Studies have shown that letting gender minorities speak first promotes a welcoming and supportive atmosphere for underrepresented groups. All are welcome at this meetup but we specifically ask cisgender men to take a passive role in this meetup and hold comments / questions until after others have had the chance to ask. Thank you for your support!",
+    "status": "PAST",
+    "dateTime": "2021-06-08T18:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/278277079/",
+    "featuredEventPhoto": {
+      "id": "496400107",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/e/8/b/highres_496400107.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/e/8/b/600_496400107.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/e/8/b/thumb_496400107.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 86,
+      "waitlistCount": 0,
+      "totalCount": 86
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "275193800",
+    "title": "{Part 5: More Wrangling & ggplot} From Zero to (s)Hero: Multi-part intro to R ",
+    "description": "Just getting involved with R or want to level up your skills? Have you used base-R but are still trying to wrap your head around the tidyverse \"pipe\" (%>%)? Have a messy dataset and don't know where to start? Seen beautiful visualizations on Twitter and want to make your own?\n\nIf you’ve answered ‘yes’ to at least one of these questions, fear no more! In this monthly workshop series, we will walk you through the fundamental uses of tidyverse and ggplot at your own pace with the help of hands-on exercises. Tidyverse and ggplot are a classic combination of R packages that allow you to \"wrangle\" your unwieldy data into whatever shape you need and creative beautiful and informative visualizations.\n\nOver the course of this series, you will learn the most useful features of R Studio and R Markdown, how to read in and explore data, and transform it into a shape that's easy to work with. You will be able to create new columns and summary tables, subset interesting rows or columns, and combine and reshape dataframes. We will also dive into ggplot, one of the best tools for creating great-looking bar charts, scatterplots, and more!\n\nThis is (currently) a five-part series, aimed at total beginners and/or people with some experience in base-R or tidyverse who are looking to freshen up or expand their skills. Feel free to join at any point, we will briefly review the previous topic at the beginning of each session.\n\nJanuary 20th {Part 1}: The R & R-Studio ABCs (packages, files, data types & basic data exploration)\nFebruary 17th {Part 2}: Tidy data & introduction to data wrangling (tibbles, renaming, reordering, subsetting)\nMarch 17th {Part 3}: Data wrangling with dplyr (new columns, if-else statements, summary tables, joining dataframes)\nApril 21st {Part 4}: Introduction to visualizations with ggplot (line graphs, bar charts, scatterplots, histograms, and more!)\nMay 19th {Part 5}: Advanced topics in wrangling and ggplot (pivoting, ggplot style options, etc.)\n\nPlease install R and R-Studio before joining: https://rstudio-education.github.io/hopr/starting.html\n\nImage by the amazing @allison_horst: https://github.com/allisonhorst/stats-illustrations",
+    "status": "PAST",
+    "dateTime": "2021-05-19T18:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/275193800/",
+    "featuredEventPhoto": {
+      "id": "493966220",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/4/8/c/highres_493966220.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/4/8/c/600_493966220.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/4/8/c/thumb_493966220.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 76,
+      "waitlistCount": 0,
+      "totalCount": 76
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "275264690",
+    "title": "{R-Ladies Toolbox Series} Part 5: Panel discussion on women in science ",
+    "description": "R-Ladies Toolbox Series - Essentials for women and minority genders in academia, science and data analysis presents:\nPanel discussion on women in science\n\nTo finish this series about women in science we will discuss about the inequities and problems that women and gender minorities find in academia. We will talk about systemic issues, non-visible barriers and work, family and care. What problems do we face? Are politics to increase gender equality effective? Is there data to support these measurements and decisions? We count with a grate panel of women and we invite you too to share your own perspectives!\n\nPanellists:\n\nDaloha Rodriguez-Molina\ncomes from Venezuela. She studied medicine and practiced as a primary care, emergency, and occupational physician. She has been involved in research activities since 2008 as part of the Student Society for the Promotion of Research in Endocrine and Metabolic Diseases, of which she was President in 2011. She obtained a Master's degree in Epidemiology from the University of Munich (LMU) in 2016. Currently, she is an occupational and environmental epidemiologist and pursuing a PhD degree in Epidemiology at the LMU under the supervision of Prof. Dr. Katja Radon. She has been involved in teaching activities at the LMU Munich, the Virtual University of Baviera, and the Center for International Health of the LMU . She is a co-founder of the R-Ladies Munich group.\n\nIvana Feldfeber\nis a feminist activist from Buenos Aires living in Bariloche. She holds two degrees in Education and Social Pedagogy, and is completing a postgraduate diploma in \"Data Science: Machine Learning and its Applications\" at the University of Córdoba, Argentina. She teaches programming and robotics for children and teenagers. She worked as a data scientist at an online platform, analysing data from a social and educational point of view. She attended many conferences regarding data in Latin America and realized that no one was talking about gender bias, gender data and feminism. So Ivana decided to create \"DataGénero\" a gender data Observatory, the first in the region with a group of scientists, activists and people from different disciplines and countries. https://datagenero.org\n\nKamila Benadrouche\nholds a master’s degree in operational research: optimization and strategic management. Economic studies engineer at sonatrach. Previously teaching programming tools and R language at the university of Boumerdes, Algeria. Founder of R-Ladies Algiers and organizer of the meetups for the promotion of R. And freelance trainer of Office-Tools (Word, Excel…).\n\nLiili Abuladze\nis a social demography PhD researcher at Tallinn University, Estonia. Her research interests include population ageing outcomes, fertility and family formation, and data quality. In 2020, she was awarded with the European Association for Population Studies Outreach Award for communication activities in demography. She is also the initiator and co-organiser of the R-Ladies Tbilisi community.\n\nMasani Mahadik\nMajoring in econometrics and completing post graduate programs in statistics, and business management, Manasi has been applying R in an academic setting across a variety of disciplines. She has worked in advanced analytics consulting at Nielsen for a couple of years where she comprehensively used R to conduct a range of data play and visualisations in order to deliver insights for Top FMCG clients across the South Asia region. She is currently pursuing a fellowship in Artificial Intelligence and Machine Learning and aims to make the next move in the social sector — using data for good! She leads the R-Ladies Mumbai chapter, and blogs about her explorations with data. You can connect with her: https://www.linkedin.com/in/manasi-mahadik-a66b26146/\n\nThis series is funded by the “Pädagogische Hochschule Freiburg”, the University of Education in Freiburg. Everyone is welcome to join and we hope for a warm exchange between students, researchers and R-Ladies.",
+    "status": "PAST",
+    "dateTime": "2021-05-12T18:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/275264690/",
+    "featuredEventPhoto": {
+      "id": "494004092",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/e/1/c/highres_494004092.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/e/1/c/600_494004092.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/e/1/c/thumb_494004092.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 62,
+      "waitlistCount": 0,
+      "totalCount": 62
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "275193799",
+    "title": "{Part 4: Visualization} From Zero to (s)Hero: Multi-part intro to R",
+    "description": "Just getting involved with R or want to level up your skills? Have you used base-R but are still trying to wrap your head around the tidyverse \"pipe\" (%>%)? Have a messy dataset and don't know where to start? Seen beautiful visualizations on Twitter and want to make your own?\n\nIf you’ve answered ‘yes’ to at least one of these questions, fear no more! In this monthly workshop series, we will walk you through the fundamental uses of tidyverse and ggplot at your own pace with the help of hands-on exercises. Tidyverse and ggplot are a classic combination of R packages that allow you to \"wrangle\" your unwieldy data into whatever shape you need and creative beautiful and informative visualizations.\n\nOver the course of this series, you will learn the most useful features of R Studio and R Markdown, how to read in and explore data, and transform it into a shape that's easy to work with. You will be able to create new columns and summary tables, subset interesting rows or columns, and combine and reshape dataframes. We will also dive into ggplot, one of the best tools for creating great-looking bar charts, scatterplots, and more!\n\nThis is (currently) a five-part series, aimed at total beginners and/or people with some experience in base-R or tidyverse who are looking to freshen up or expand their skills. Feel free to join at any point, we will briefly review the previous topic at the beginning of each session.\n\nJanuary 20th {Part 1}: The R & R-Studio ABCs (packages, files, data types & basic data exploration)\nFebruary 17th {Part 2}: Tidy data & introduction to data wrangling (tibbles, renaming, reordering, subsetting)\nMarch 17th {Part 3}: Data wrangling with dplyr (new columns, if-else statements, summary tables, joining dataframes)\nApril 21st {Part 4}: Introduction to visualizations with ggplot (line graphs, bar charts, scatterplots, histograms, and more!)\nMay 19th {Part 5}: Advanced topics in wrangling and ggplot (pivoting, ggplot style options, etc.)\n\nPlease install R and R-Studio before joining: https://rstudio-education.github.io/hopr/starting.html\n\nImage by the amazing @allison_horst: https://github.com/allisonhorst/stats-illustrations",
+    "status": "PAST",
+    "dateTime": "2021-04-21T18:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/275193799/",
+    "featuredEventPhoto": {
+      "id": "493966183",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/4/6/7/highres_493966183.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/4/6/7/600_493966183.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/4/6/7/thumb_493966183.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 88,
+      "waitlistCount": 0,
+      "totalCount": 88
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "275264679",
+    "title": "{R-Ladies Toolbox Series} Part 4: Version Control",
+    "description": "R-Ladies Toolbox Series - Essentials for women and minority genders in academia, science and data analysis presents:\n\n--> Version Control by Christin Zasada (R-Ladies Global Team, R-Ladies Berlin) <--\n\nTitle: Make your first merge request\n\nTalk description: Version control can be tempting at the beginning. Git and GitHub are a great resource of tools and code. Worldwide people are contributing to each other projects and driving R package development. In my talk I would like to introduce you to a simplified but effective strategy for shared code development. We'll walk through your first merge request using command line and Gitlabs browser interface. Make sure that you have your GitLab account ready.\nHere is the link to the get started page with some useful information including how to set up an account:\nhttps://docs.github.com/en/github/getting-started-with-github\nAlso here is a short video: https://www.youtube.com/watch?v=f_XsJIHSLRg\n\nSpeaker Bio: At the end of her studies of biosystem engineering Christin decided to change from Excel to R for her diploma thesis. Since then she is using R in her daily research, first as a PhD student in basic cancer research in Berlin, nowadays as bioinformatics scientist in pharmaceutical company in Toulouse France. Right after her PhD she founded R-Ladies Berlin and supported the R-Ladies global team until last year. After some abstinence She is happy to be back in the community and is looking forward to meet up with you.\n\nCalling all students, academics, and women in science! R-Ladies Freiburg presents a five-part guest series aimed at women and gender minorities in academia, science and data analysis, from first semester students to tenured researchers. Leading R-Ladies from around the world will lead us through the most fundamental steps to studying and working in academia, from analyzing results, to presenting them clearly, ensuring their reproducibility, and keeping track of all your changes. The series will close with a panel discussion from women around the world, who will speak about their experiences with science.\n\nThis series is funded by the “Pädagogische Hochschule Freiburg”, the University of Education in Freiburg.\n\nParticipants who take part in all five meetups can receive a certificate of participation.\n\nEveryone is welcome to join and we hope for a warm exchange between students and researchers, as well as R-Ladies from the wider community.",
+    "status": "PAST",
+    "dateTime": "2021-04-14T18:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/275264679/",
+    "featuredEventPhoto": {
+      "id": "494004077",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/e/0/d/highres_494004077.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/e/0/d/600_494004077.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/e/0/d/thumb_494004077.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 97,
+      "waitlistCount": 0,
+      "totalCount": 97
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "275193793",
+    "title": "{Part 3: Wrangling} From Zero to (s)Hero: Multi-part intro to R",
+    "description": "Just getting involved with R or want to level up your skills? Have you used base-R but are still trying to wrap your head around the tidyverse \"pipe\" (%>%)? Have a messy dataset and don't know where to start? Seen beautiful visualizations on Twitter and want to make your own?\n\nIf you’ve answered ‘yes’ to at least one of these questions, fear no more! In this monthly workshop series, we will walk you through the fundamental uses of tidyverse and ggplot at your own pace with the help of hands-on exercises. Tidyverse and ggplot are a classic combination of R packages that allow you to \"wrangle\" your unwieldy data into whatever shape you need and creative beautiful and informative visualizations.\n\nOver the course of this series, you will learn the most useful features of R Studio and R Markdown, how to read in and explore data, and transform it into a shape that's easy to work with. You will be able to create new columns and summary tables, subset interesting rows or columns, and combine and reshape dataframes. We will also dive into ggplot, one of the best tools for creating great-looking bar charts, scatterplots, and more!\n\nThis is (currently) a five-part series, aimed at total beginners and/or people with some experience in base-R or tidyverse who are looking to freshen up or expand their skills. Feel free to join at any point, we will briefly review the previous topic at the beginning of each session.\n\nJanuary 20th {Part 1}: The R & R-Studio ABCs (packages, files, data types & basic data exploration)\nFebruary 17th {Part 2}: Tidy data & introduction to data wrangling (tibbles, renaming, reordering, subsetting)\nMarch 17th {Part 3}: Data wrangling with dplyr (new columns, if-else statements, summary tables, joining dataframes)\nApril 21st {Part 4}: Introduction to visualizations with ggplot (line graphs, bar charts, scatterplots, histograms, and more!)\nMay 19th {Part 5}: Advanced topics in wrangling and ggplot (pivoting, ggplot style options, etc.)\n\nPlease install R and R-Studio before joining: https://rstudio-education.github.io/hopr/starting.html\n\nImage by the amazing @allison_horst: https://github.com/allisonhorst/stats-illustrations",
+    "status": "PAST",
+    "dateTime": "2021-03-17T18:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/275193793/",
+    "featuredEventPhoto": {
+      "id": "493966169",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/4/5/9/highres_493966169.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/4/5/9/600_493966169.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/4/5/9/thumb_493966169.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 100,
+      "waitlistCount": 0,
+      "totalCount": 100
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "275264156",
+    "title": "{R-Ladies Toolbox Series} Part 3: Reproducibility ",
+    "description": "R-Ladies Toolbox Series - Essentials for women and minority genders in academia, science and data analysis presents:\n\nReproducibility by Charles Grey (R-Ladies Remote)\n\nTalk Abstract:\nAs scientists, it's desirable to demonstrate to others (including our future selves) that our computational scientific work validates the claims we make in published research. Being able to reproduce the work is a key component of easily validating an analysis, as well as extending the work. Reproducibility is not as simple, however, as sharing the code and data that produced our analysis. We must consider how our data and algorithms are understood, variables defined, etc. Our code needs to be accessible and interoperable. There is much guidance about best practice, but this is often overwhelming for those of us who are not from formal computer science training. In this talk I share the story of how I attempted good enough practice in my doctoral thesis, and found even this was simply too much to achieve. Indeed, despite failing to achieve good enough scientific practice in any aspect of reproducibility, I discovered a delightful world of scientific workflows in R that make every day just that bit easier now. Failing at reproducible science in R is the best we can aim for; we will never achieve best practice in every aspect of reproducibility, and if we failed, then we tried. Through this process we discover useful tools to make the next time easier.\n\nBIO:\nCharles T. Gray is a postdoc with the evidence synthesis lab at Newcastle University. She is currently specialising in Bayesian network meta-analysis in Cochrane intervention reviews. She has three degrees: arts, music, and mathematics. None of these prepared her for her interdisciplinary computational metascience doctoral thesis in R.\n\nCalling all students, academics, and women in science! R-Ladies Freiburg presents a five-part guest series aimed at women and gender minorities in academia, science and data analysis, from first semester students to tenured researchers. Leading R-Ladies from around the world will lead us through the most fundamental steps to studying and working in academia, from analyzing results, to presenting them clearly, ensuring their reproducibility, and keeping track of all your changes. The series will close with a panel discussion from women around the world, who will speak about their experiences with science.\n\nThis series is funded by the “Pädagogische Hochschule Freiburg”, the University of Education in Freiburg.\n\nParticipants who take part in all five meetups can receive a certificate of participation.\n\nEveryone is welcome to join and we hope for a warm exchange between students and researchers, as well as R-Ladies from the wider community.",
+    "status": "PAST",
+    "dateTime": "2021-03-03T18:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/275264156/",
+    "featuredEventPhoto": {
+      "id": "494003509",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/b/d/5/highres_494003509.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/b/d/5/600_494003509.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/b/d/5/thumb_494003509.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 105,
+      "waitlistCount": 0,
+      "totalCount": 105
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "275193790",
+    "title": "{Part 2: Tidy data} From Zero to (s)Hero: Multi-part intro to R",
+    "description": "Just getting involved with R or want to level up your skills? Have you used base-R but are still trying to wrap your head around the tidyverse \"pipe\" (%>%)? Have a messy dataset and don't know where to start? Seen beautiful visualizations on Twitter and want to make your own?\n\nIf you’ve answered ‘yes’ to at least one of these questions, fear no more! In this monthly workshop series, we will walk you through the fundamental uses of tidyverse and ggplot at your own pace with the help of hands-on exercises. Tidyverse and ggplot are a classic combination of R packages that allow you to \"wrangle\" your unwieldy data into whatever shape you need and creative beautiful and informative visualizations.\n\nOver the course of this series, you will learn the most useful features of R Studio and R Markdown, how to read in and explore data, and transform it into a shape that's easy to work with. You will be able to create new columns and summary tables, subset interesting rows or columns, and combine and reshape dataframes. We will also dive into ggplot, one of the best tools for creating great-looking bar charts, scatterplots, and more!\n\nThis is (currently) a five-part series, aimed at total beginners and/or people with some experience in base-R or tidyverse who are looking to freshen up or expand their skills. Feel free to join at any point, we will briefly review the previous topic at the beginning of each session.\n\nJanuary 20th {Part 1}: The R & R-Studio ABCs (packages, files, data types & basic data exploration)\nWatch here: https://www.youtube.com/watch?v=NO6ikdBxSwg&t=291s\n\nFebruary 17th {Part 2}: Tidy data & introduction to data wrangling (tibbles, renaming, reordering, subsetting)\nMarch 17th {Part 3}: Data wrangling with dplyr (new columns, if-else statements, summary tables, joining dataframes)\nApril 21st {Part 4}: Introduction to visualizations with ggplot (line graphs, bar charts, scatterplots, histograms, and more!)\nMay 19th {Part 5}: Advanced topics in wrangling and ggplot (pivoting, ggplot style options, etc.)\n\nPlease install R and R-Studio before joining: https://rstudio-education.github.io/hopr/starting.html\nAND if you're new to R, catch up on Session 1 with our recorded Meetup: https://www.youtube.com/watch?v=NO6ikdBxSwg&t=291s\n\nImage by the amazing @allison_horst: https://github.com/allisonhorst/stats-illustrations",
+    "status": "PAST",
+    "dateTime": "2021-02-17T18:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/275193790/",
+    "featuredEventPhoto": {
+      "id": "493966163",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/4/5/3/highres_493966163.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/4/5/3/600_493966163.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/4/5/3/thumb_493966163.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 100,
+      "waitlistCount": 0,
+      "totalCount": 100
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "275264114",
+    "title": "{R-Ladies Toolbox Series} Part 2: Presenting Results ",
+    "description": "R-Ladies Toolbox Series - Essentials for women and minority genders in academia, science and data analysis presents:\n\nPresenting Results by Manasi Mahadik (R-Ladies Mumbai)\n\n--> A tryst with tabular data : Exploring the gt package in R <--\n\nThe tidyverse is undisputed royalty within the R universe and is arguably the most comprehensible toolset in dealing with structured data out there. Ggplot2, the tidyverse’s data visualisation package, based on the Grammar of Graphics upon its release in 2005 has been one of the main reasons for its super stardom primarily because of its absolute ease in allowing the user to add, remove or alter components in a plot at a high level of abstraction. The success of the package set the stage for a package to make creating tabular representations as easy. Short for “grammar of tables,\" the goal of gt is similar to that of ggplot2, serving to not just to make it effortless to make specific tables, but to describe a set of underlying components that can be recombined in different ways to solve different problems. All of this with tidyverse’s API makes the syntax simple to grasp for existing users, leading to a beautiful “camera-ready” output within minutes.\n\nThis talk aims to walk the attendees through a typical gt workflow —\nTidy Data —> GT Object —> GT Table, and then syntactically build the various components of a table I.e. the table header, the stub, the column labels and spanner column labels, the table body, and the table footer. In order to make its implementation as holistic as possible , the incorporation of ggplot2 plots inside the gt package will also be demonstrated. Although the workshop will be conducted on an inbuilt R dataset, attendees are free to use any tidy dataset during the workshop. R users of all levels are welcome!\n\n--> Bio<--\n\nMajoring in econometrics and completing post graduate programs in statistics, and business management, Manasi has been applying R in an academic setting across a variety of disciplines. Professionally, she has worked in advanced analytics consulting at Nielsen for a couple of years where she comprehensively used R to conduct a range of data play and visualisations in order to deliver impact oriented insights for Top FMCG clients across the South Asia region. She is currently pursuing a fellowship in Artificial Intelligence and Machine Learning and aims to make the next move in the social sector — using data for good! She also leads the R-Ladies Mumbai chapter, and regularly blogs about her explorations with data. You can connect with her, here: https://www.linkedin.com/in/manasi-mahadik-a66b26146/\n\nCalling all students, academics, and women in science! R-Ladies Freiburg presents a five-part guest series aimed at women and gender minorities in academia, science and data analysis, from first semester students to tenured researchers. Leading R-Ladies from around the world will lead us through the most fundamental steps to studying and working in academia, from analyzing results, to presenting them clearly, ensuring their reproducibility, and keeping track of all your changes. The series will close with a panel discussion from women around the world, who will speak about their experiences with science.\n\nThis series is funded by the “Pädagogische Hochschule Freiburg”, the University of Education in Freiburg.\n\nParticipants who take part in all five meetups can receive a certificate of participation.\n\nEveryone is welcome to join and we hope for a warm exchange between students and researchers, as well as R-Ladies from the wider community.",
+    "status": "PAST",
+    "dateTime": "2021-02-03T18:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/275264114/",
+    "featuredEventPhoto": {
+      "id": "494003447",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/b/9/7/highres_494003447.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/b/9/7/600_494003447.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/b/9/7/thumb_494003447.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 102,
+      "waitlistCount": 0,
+      "totalCount": 102
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "275193761",
+    "title": "{Part 1: Intro} From Zero to (s)Hero: Multi-part intro to R",
+    "description": "Just getting involved with R or want to level up your skills? Have you used base-R but are still trying to wrap your head around the tidyverse \"pipe\" (%>%)? Have a messy dataset and don't know where to start? Seen beautiful visualizations on Twitter and want to make your own?\n\nIf you’ve answered ‘yes’ to at least one of these questions, fear no more! In this monthly workshop series, we will walk you through the fundamental uses of tidyverse and ggplot at your own pace with the help of hands-on exercises. Tidyverse and ggplot are a classic combination of R packages that allow you to \"wrangle\" your unwieldy data into whatever shape you need and creative beautiful and informative visualizations.\n\nOver the course of this series, you will learn the most useful features of R Studio and R Markdown, how to read in and explore data, and transform it into a shape that's easy to work with. You will be able to create new columns and summary tables, subset interesting rows or columns, and combine and reshape dataframes. We will also dive into ggplot, one of the best tools for creating great-looking bar charts, scatterplots, and more!\n\nThis is (currently) a five-part series, aimed at total beginners and/or people with some experience in base-R or tidyverse who are looking to freshen up or expand their skills. Feel free to join at any point, we will briefly review the previous topic at the beginning of each session.\n\nJanuary 20th {Part 1}: The R & R-Studio ABCs (packages, files, data types & basic data exploration)\nFebruary 17th {Part 2}: Tidy data & introduction to data wrangling (tibbles, renaming, reordering, subsetting)\nMarch 17th {Part 3}: Data wrangling with dplyr (new columns, if-else statements, summary tables, joining dataframes)\nApril 21st {Part 4}: Introduction to visualizations with ggplot (line graphs, bar charts, scatterplots, histograms, and more!)\nMay 19th {Part 5}: Advanced topics in wrangling and ggplot (pivoting, ggplot style options, etc.)\n\nPlease install R and R-Studio before joining: https://rstudio-education.github.io/hopr/starting.html\n\nImage by the amazing @allison_horst: https://github.com/allisonhorst/stats-illustrations",
+    "status": "PAST",
+    "dateTime": "2021-01-20T18:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/275193761/",
+    "featuredEventPhoto": {
+      "id": "493965851",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/3/1/b/highres_493965851.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/3/1/b/600_493965851.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/3/1/b/thumb_493965851.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 129,
+      "waitlistCount": 5,
+      "totalCount": 129
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "275264069",
+    "title": "{R-Ladies Toolbox Series} Part 1: Academic Analysis ",
+    "description": "R-Ladies Toolbox Series - Essentials for women and minority genders in academia, science and data analysis presents:\n\nAcademic Analysis by Praveena Mathews\n\nPraveena Mathews teaches R for GraduateTutor.com. She is also the founder of R-Ladies Chennai.\n\nShe will talk about unsupervised learning - kmeans clustering and hierarchical clustering.\n\nCalling all students, academics, and women in science! R-Ladies Freiburg presents a five-part guest series aimed at women and gender minorities in academia, science and data analysis, from first semester students to tenured researchers. Leading R-Ladies from around the world will lead us through the most fundamental steps to studying and working in academia, from analyzing results, to presenting them clearly, ensuring their reproducibility, and keeping track of all your changes. The series will close with a panel discussion from women around the world, who will speak about their experiences with science.\n\nThe event will take place via Zoom. Link and password will be sent per E-mail around one hour before the event start to all those who RSVP. If you do not find the E-Mail check also your spam folder.\n\nThis series is funded by the “Pädagogische Hochschule Freiburg”, the University of Education in Freiburg.\n\nParticipants who take part in all five meetups can receive a certificate of participation.\n\nEveryone is welcome to join and we hope for a warm exchange between students and researchers, as well as R-Ladies from the wider community.",
+    "status": "PAST",
+    "dateTime": "2021-01-13T18:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/275264069/",
+    "featuredEventPhoto": {
+      "id": "494003408",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/b/7/0/highres_494003408.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/b/7/0/600_494003408.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/b/7/0/thumb_494003408.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 118,
+      "waitlistCount": 0,
+      "totalCount": 118
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "286827390",
+    "title": "Shiny Dashboards: Pride Edition 🌈",
+    "description": "'Mastering Shiny' takes time and practice! Join R-Ladies Freiburg for an evening of data wrangling, plotting, and ultimately putting it all together into your own Pride-themed data dashboard.\n\nFor this workshop, we'll use a great dataset on \"rainbow capitalism\" from Tidy Tuesday and Data for Progress:\nhttps://github.com/rfordatascience/tidytuesday/tree/master/data/2022/2022-06-07\n\nDescription from Data for Progress, quoted by TT:\nEach year, hundreds of corporations around the country participate in Pride, an annual celebration of the LGBTQ+ community’s history and progress. They present themselves as LGBTQ+ allies, but new research from Data for Progress finds that in between their yearly parade appearances, dozens of these corporations are giving to state politicians behind some of the most bigoted and harmful policies in over a decade.\n\nWe'll take a look at the data, wrangle it into the right format, find a fitting graph, and make the whole thing into an interactive plot in a Shiny dashboard -- all with plenty of chances to try things on your own (or watch some live coding if you prefer!)\n\nIf you're just getting started with Shiny, we recommend checking out the recordings of our previous workshops on the topic:\nBasics incl. input and output - https://youtu.be/gk73bLmteP0\nBasic plots - https://youtu.be/Bb5Xol1oU_I\nEurovision example - https://youtu.be/UGTTqhxaICU",
+    "status": "PAST",
+    "dateTime": "2022-06-30T18:00:00+02:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/286827390/",
+    "featuredEventPhoto": {
+      "id": "505155738",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/d/7/a/highres_505155738.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/d/7/a/600_505155738.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/d/7/a/thumb_505155738.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 30,
+      "waitlistCount": 0,
+      "totalCount": 30
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "285056144",
+    "title": "Getting to know Quarto",
+    "description": "What's Quarto? What can it do? Should you make the switch from R-Markdown, and... how do you pronounce it correctly? In this workshop, we'll answer (some of) these questions!\n\nSimilar to R-Markdown, Quarto is a publishing system that lets you combine text, code, and code output to create articles, presentations, websites, books, or blogs.\n\nIn this workshop, we'll introduce you to Quarto and show how it compares to R-Markdown as well as how much of your R-Markdown knowledge can transfer (spoiler: a lot!). We’ll also mention how you can use Quarto for other programming languages such as Python and Julia and how to use it within code editors like VS Code.\n\nYou'll be able to download and try Quarto for yourself and try it out along with our demonstrations — so you can decide for yourself if you’d like to add it to your toolbox!\n\nYou can find more information on Quarto on https://quarto.org/",
+    "status": "PAST",
+    "dateTime": "2022-06-02T18:00:00+02:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/285056144/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 41,
+      "waitlistCount": 0,
+      "totalCount": 41
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "285056131",
+    "title": "Shiny Data Dashboards: Interactivity & Page Design",
+    "description": "Let's make a Shiny dashboard featuring an interactive ggplot graph! In this workshop, we'll review everything you need to know about asking your user for input and working with Shiny's inbuilt reactivity. There will be a chance to try it out with our own plot, too! Then we'll introduce how to improve your page design and add a sidebar.\n\nIf you'd like a longer introduction to user input and reactivity in Shiny, check out our previous two workshops (but everyone is welcome at this event, no prerequisite knowledge necessary!)\nhttps://youtu.be/gk73bLmteP0\nhttps://youtu.be/Bb5Xol1oU_I",
+    "status": "PAST",
+    "dateTime": "2022-05-19T18:00:00+02:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/285056131/",
+    "featuredEventPhoto": {
+      "id": "503738340",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/5/c/4/highres_503738340.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/5/c/4/600_503738340.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/5/c/4/thumb_503738340.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 63,
+      "waitlistCount": 0,
+      "totalCount": 63
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "283239955",
+    "title": "Create beautiful documents, presentations, and articles with R Markdown!",
+    "description": "In this workshop, we'll introduce you to the magic of R Markdown and show you how to create effective reports, presentations, and articles with it.\n\nIn an R Markdown file, you can effortlessly combine R code, output (such as plots or tables or model estimates) and text. The result can be exported (\"knitted\") to several kinds of documents including html and pdf files.\nR Markdown also saves you a lot of the hassle of typical word processors because a lot of the formatting is consistently handled for you. Beyond that, R Markdown files help make research more reproducible so that you can easily handle modifications, additional data or analyses.\n\nNo previous knowledge of R Markdown is assumed. We start the workshop by discussing the typical structure of an R Markdown document, show you how to effortlessly format text and code blocks, and include images and links. Then, we take a look at slides and, finally, articles (including references and a bibliography) with R Markdown.\n\nImage by Allison Horst (https://github.com/allisonhorst/stats-illustrations).\nAlt-text: A glam rock band comprised of 3 fuzzy round monsters labeled as “Text”, “Outputs” and “Code” performing together. Stylized title text reads: “R Markdown - we’re getting the band back together.”",
+    "status": "PAST",
+    "dateTime": "2022-04-21T18:00:00+02:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/283239955/",
+    "featuredEventPhoto": {
+      "id": "503077459",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/2/5/3/highres_503077459.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/2/5/3/600_503077459.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/2/5/3/thumb_503077459.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 57,
+      "waitlistCount": 0,
+      "totalCount": 57
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "283239950",
+    "title": "Our first data dashboard: Interactive plots with Shiny!",
+    "description": "Interactive, online dashboards for your plots and models is easy with the R package Shiny! No need to learn HTML, CSS, or any web-based programming language -- you can make a dashboard to host online entirely through R and R-Studio.\n\nIn this workshop, we'll build off our previous Shiny workshop and continue refining our apps (watch it here if you missed it: https://www.youtube.com/watch?v=gk73bLmteP0 ).\nWe'll start to look at creating apps with real data and creating a plot that users can manipulate via our dashboard. The workshop will again be based on chapters from the book Mastering Shiny by Hadley Wickham.\n\nIf this goes well, we will also plan future workshops in which we will have the chance to refine our Shiny skills!",
+    "status": "PAST",
+    "dateTime": "2022-04-07T18:00:00+02:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/283239950/",
+    "featuredEventPhoto": {
+      "id": "502252953",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/e/d/9/highres_502252953.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/e/d/9/600_502252953.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/e/d/9/thumb_502252953.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 65,
+      "waitlistCount": 0,
+      "totalCount": 65
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "283239943",
+    "title": "Text analysis with R: Topic modeling",
+    "description": "Topic modeling classifies a collection of documents (those can be articles, books, song lyrics, social media posts...) into natural groups, which we can then analyse to help us better understand the text. This is an unsupervised classification, similar to clustering for numeric data. It operates on the principle that every document is a mixture of different topics, and every topic is a micture of words.\n\nIn this workshop, we'll start by demonstrating the basics of topic modeling with newspaper articles, then put the method to the test by mixing up chapters from three different books and checking if topic modeling can correctly sort the chapters back into the books they appear in.\n\nWe'll finish up with an exercise on clustering song lyrics by the Spice Girls, Beyoncé, and Taylor Swift.",
+    "status": "PAST",
+    "dateTime": "2022-03-24T18:00:00+01:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/283239943/",
+    "featuredEventPhoto": {
+      "id": "502567369",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/c/c/9/highres_502567369.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/c/c/9/600_502567369.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/c/c/9/thumb_502567369.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 43,
+      "waitlistCount": 0,
+      "totalCount": 43
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "283239940",
+    "title": "Plotting spatial data in R: Put R-Ladies Freiburg on the map!",
+    "description": "Have you ever been in awe when you saw beautiful maps created on Tidy Tuesdays and wished that you could create such maps? If so, this workshop is for you. We will use different Tidy Tuesday datasets including spatial information and recreate maps that you may have seen on social media. These include scatter maps, bubble maps and choropleth maps. To ease the start into the topic of creating maps with R, we will use {ggplot2}, a package most of you will be familiar with.\nYou will have the chance to practice your skills in several exercises. One of these will be a map in which you can provide your geolocation and appear as a dot on a world map that’ll show how global R-Ladies Freiburg has become.\nThe workshop will be given by our guest speaker Beke Hansen. Beke is a sociolinguist working at the University of Kiel and a long-time fan and member of R-Ladies Freiburg.\n\nNote: We will not be recording this workshop, so be sure to attend on the day of the event if you are interested! As always, you’ll also be able to find the materials in our Github repository:\nhttps://github.com/rladies/meetup-presentations_freiburg/tree/master/2022-03-10-Spatial_data_ggplot",
+    "status": "PAST",
+    "dateTime": "2022-03-10T18:00:00+01:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/283239940/",
+    "featuredEventPhoto": {
+      "id": "502547607",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/9/f/7/highres_502547607.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/9/f/7/600_502547607.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/9/f/7/thumb_502547607.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 69,
+      "waitlistCount": 0,
+      "totalCount": 69
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "284150790",
+    "title": "Intro to Shiny: Interactive Dashboards for Beginners! ",
+    "description": "Interactive, online dashboards for your plots and models is easy with the R package Shiny! No need to learn HTML, CSS, or any web-based programming language -- you can make a dashboard to host online entirely through R and R-Studio.\n\nIn this workshop, we'll explore the basics of your first Shiny app, drawing from the book Mastering Shiny by Hadley Wickham. We'll look at the essential components of any Shiny app and start to play with interactivity, so the users of your dashboard can change input values.\n\nThis will be the first of a couple workshops in which we will have the chance to refine our Shiny skills!",
+    "status": "PAST",
+    "dateTime": "2022-02-24T18:00:00+01:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/284150790/",
+    "featuredEventPhoto": {
+      "id": "502192119",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/b/9/7/highres_502192119.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/b/9/7/600_502192119.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/b/9/7/thumb_502192119.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 63,
+      "waitlistCount": 0,
+      "totalCount": 63
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "283239935",
+    "title": "Intro to Shiny: Interactive Dashboards for Beginners! ",
+    "description": "Oops, this is a duplicate event page! Feel free to RSVP to either event!\n\nInteractive, online dashboards for your plots and models is easy with the R package Shiny! No need to learn HTML, CSS, or any web-based programming language -- you can make a dashboard to host online entirely through R and R-Studio.\n\nIn this workshop, we'll explore the basics of your first Shiny app, drawing from the book Mastering Shiny by Hadley Wickham. We'll look at the essential components of any Shiny app and start to play with interactivity, so the users of your dashboard can change input values.\n\nThis will be the first of a couple workshops in which we will have the chance to refine our Shiny skills!",
+    "status": "PAST",
+    "dateTime": "2022-02-24T18:00:00+01:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/283239935/",
+    "featuredEventPhoto": {
+      "id": "502192365",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/c/8/d/highres_502192365.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/c/8/d/600_502192365.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/c/8/d/thumb_502192365.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 32,
+      "waitlistCount": 0,
+      "totalCount": 32
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "283239931",
+    "title": "Coming soon!",
+    "description": "There will be an R-Ladies Freiburg workshop on this day/time, so mark your calendars! We're working hard to bring you interesting and exciting workshops on topics we think you'll enjoy -- stay tuned to find out what we'll focus on in this workshop.",
+    "status": "PAST",
+    "dateTime": "2022-02-10T18:00:00+01:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/283239931/",
+    "featuredEventPhoto": {
+      "id": "501348867",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/e/e/3/highres_501348867.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/e/e/3/600_501348867.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/e/e/3/thumb_501348867.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 9,
+      "waitlistCount": 0,
+      "totalCount": 9
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "283220456",
+    "title": "Best of 2021: Data Visualization with ggplot2",
+    "description": "2021 was a great year for R-Ladies Freiburg! As the new year begins, let's review our favorite tips and tricks from last year's workshops.\n\nIn this workshops, we'll go through the tips and tricks that leveled up our plotting skills last year, from adding colors to fonts to annotations and more. We'll go over which additional packages and commands can help you make your plots just the way you imagined them!\n\nWe'll end the hour-long workshop with a visualization exercise where you can practice your plotting skills hands-on on your own. If you're just starting out with ggplot, feel free to join us, and check out our past workshops on Youtube for a little refresher (https://youtube.com/playlist?list=PLPwprT5wdzX7NVDl4oYQ7c2_6ox0_1fyr).\n\nImage by Allison Horst (https://github.com/allisonhorst/stats-illustrations).",
+    "status": "PAST",
+    "dateTime": "2022-02-10T18:00:00+01:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/283220456/",
+    "featuredEventPhoto": {
+      "id": "501348793",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/e/9/9/highres_501348793.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/e/9/9/600_501348793.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/e/9/9/thumb_501348793.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 70,
+      "waitlistCount": 0,
+      "totalCount": 70
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "283220385",
+    "title": "Best of 2021: Data Wrangling with the tidyverse ",
+    "description": "2021 was a great year for R-Ladies Freiburg! As the new year begins, let's review our favorite tips and tricks from last year's workshops.\n\nIn this first of two workshops, we'll go through the most life-changing data wrangling tips we learned last year. These commands make it easy to get your data in exactly the right format for graphs or statistical modeling and make your workflows more reproducible and less error-prone!\n\nWe'll end the hour-long workshop with a little data wrangling challenge for you to refresh your data wrangling skills. If you have less experience with data manipulation, don't hesitate to join, and if you're looking for a refresher, check out our past workshops on Youtube (https://youtube.com/playlist?list=PLPwprT5wdzX7NVDl4oYQ7c2_6ox0_1fyr).\n\nImage by Allison Horst (https://github.com/allisonhorst/stats-illustrations).",
+    "status": "PAST",
+    "dateTime": "2022-01-27T18:00:00+01:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/283220385/",
+    "featuredEventPhoto": {
+      "id": "501335809",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/b/e/1/highres_501335809.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/b/e/1/600_501335809.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/b/e/1/thumb_501335809.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 83,
+      "waitlistCount": 0,
+      "totalCount": 83
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "292108325",
+    "title": "Exploratory data analysis and visualisation",
+    "description": "Exploratory data analysis (EDA) is a critical (and sometimes under-appreciated!) step that precedes statistical analysis. This includes steps like calculating descriptive statistics, finding extreme values, and summarizing the data -- in general, getting familiar with your raw data before you start to apply a statistical model! In this workshop, we will use dplyr (tidyverse) commands, like group_by() and summarize(), to highlight these important EDA steps.\n\nEDA also includes graphing raw data to assess initial trends. The workshop will also cover different kinds of data visualisations, including box plots, scatterplots with trend lines, and bar plots with the ggplot package. The focus will be on quickly deploying informative graphs and selecting the right geom()s for the data types you have.\n\nNo previous knowledge is assumed, just general experience with R (loading packages, reading in data, etc.). If you'd like to polish up your tidyverse skills before joining, check out our previous workshop on data wrangling: https://youtu.be/NRgdTaAfwTo",
+    "status": "PAST",
+    "dateTime": "2023-05-02T18:00:00+02:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/292108325/",
+    "featuredEventPhoto": {
+      "id": "511830273",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/6/4/1/highres_511830273.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/6/4/1/600_511830273.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/6/4/1/thumb_511830273.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 80,
+      "waitlistCount": 0,
+      "totalCount": 80
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "292108309",
+    "title": "Tidy data: Wrangling for statistical analysis in R",
+    "description": "We're starting a brand new series walking you through all the steps necessary to prepare, explore, and analyse your data in R!\n\nThis first workshop covers the concepts of \"tidy data\" and data wrangling commands from the tidyverse packages: the essentials for getting your data into the right format for visualisation and model fitting.\n\nThis event is suitable for beginners - you should know how to load packages and read data into R. Feel free to take a look at our video that covers these tasks: https://youtu.be/NO6ikdBxSwg\n\n\\-\\-\\-\n\nIt's important to us to ensure that R-Ladies Freiburg events are a safe space for anyone of a minority gender, specifically including transgender, gender non-conforming and nonbinary people as well as folks questioning their gender. All are welcome at this meetup but we specifically ask cisgender men to take a passive role and hold comments / questions until after others have had the chance to ask. Thank you for your support!",
+    "status": "PAST",
+    "dateTime": "2023-04-04T18:00:00+02:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/292108309/",
+    "featuredEventPhoto": {
+      "id": "511165690",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/4/5/a/highres_511165690.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/4/5/a/600_511165690.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/4/5/a/thumb_511165690.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 69,
+      "waitlistCount": 0,
+      "totalCount": 69
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  },
+  {
+    "id": "299649983",
+    "title": "Show and tell - Writing and designing documents with Quarto",
+    "description": "We're back! And we're excited to show you our best tricks for writing Word documents with Quarto. These documents are not only beautiful to look at, reproducible, and contain all your R code, but save you a lot of annoying manual formatting (which you have to do all over again if the underlying data changes!). We'll walk you through a finished document and show all the magic tricks we used to get there. Join us on Zoom if Microsoft Word has ever made you want to throw your PC out of the window!",
+    "status": "PAST",
+    "dateTime": "2024-03-21T19:00:00+01:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-freiburg/events/299649983/",
+    "featuredEventPhoto": {
+      "id": "519710617",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/5/b/9/highres_519710617.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/5/b/9/600_519710617.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/5/b/9/thumb_519710617.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 28,
+      "waitlistCount": 0,
+      "totalCount": 28
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Freiburg",
+      "urlname": "rladies-freiburg"
+    }
+  }
+]

@@ -1,0 +1,620 @@
+[
+  {
+    "id": "273270143",
+    "title": " \"R para Ciências Humanas (Dplyr + Ggplot2)\"",
+    "description": "Descrição: Apresentação do funcionamento básico do R por meio de manipulação (dplyr) visualização de dados (ggplot2).\n\nPúblico: Interessadas em usar o R para explorar dados quantitativos e que nunca tiveram contato com linguagens de programação.\n\nMateriais: scripts para acompanhar a apresentação e fazer as atividades serão enviados na véspera do encontro. Participantes devem ter a última versão do R e do RStudio funcionando em seus computadores.",
+    "status": "PAST",
+    "dateTime": "2020-10-09T14:00:00-03:00",
+    "duration": "PT2H20M",
+    "eventUrl": "https://www.meetup.com/rladies-natal/events/273270143/",
+    "featuredEventPhoto": {
+      "id": "492352103",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/b/8/7/highres_492352103.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/b/8/7/600_492352103.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/b/8/7/thumb_492352103.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 112,
+      "waitlistCount": 0,
+      "totalCount": 112
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Natal",
+      "urlname": "rladies-natal"
+    }
+  },
+  {
+    "id": "273508552",
+    "title": "Escrevendo manuscritos acadêmicos usando RMarkdown",
+    "description": "PREENCHER FORMULÁRIO (Obrigatório): https://forms.gle/JXdFz9qXbiY1VCw59\n.\nComo parte da programação da Latin-R 2020, a R-Ladies Natal vai sediar uma oficina ministrada por duas R-Ladies Rio de Janeiro!\n.\nEsta oficina vai mostrar os diferentes passos e ferramentas para escrever manuscritos acadêmicos ou relatórios técnicos de forma automatizada e reprodutível usando R e rmarkdown.\nIremos abordar os seguintes temas: estrutura de um documento de rmarkdown, estrutura de pastas, fluxos de trabalho de um projeto de escrita, boas práticas de programação em R, citação (arquivos .bib) e gestores de bibliografia, formatação e integração com editores de texto tradicionais e LaTeX.\nA oficina será dividida em uma parte conceitual e uma parte prática. O objetivo é que todas as pessoas participantes finalizem a oficina com um documento de texto gerado a partir de um arquivo Rmd contendo texto, uma figura, uma tabela e referências bibliográficas.\n.\nOs participantes deverão instalar os pacotes rmarkdown, knitr, kableExtra, remedy e palmerpenguins, e os programas Pandoc (https://pandoc.org/installing.html) e Zotero (https://wwhttps://zoom.us/j/92491241200w.zotero.org/), ou qualquer outro gestor de bibliografia, como Mendeley ou EndNote.",
+    "status": "PAST",
+    "dateTime": "2020-09-30T18:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-natal/events/273508552/",
+    "featuredEventPhoto": {
+      "id": "492523564",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/a/2/c/highres_492523564.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/a/2/c/600_492523564.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/a/2/c/thumb_492523564.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 133,
+      "waitlistCount": 0,
+      "totalCount": 133
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Natal",
+      "urlname": "rladies-natal"
+    }
+  },
+  {
+    "id": "272484934",
+    "title": "AMOSTRAGEM USANDO O R",
+    "description": "O encontro, \"Amostragem usando R\", abordará conceitos básicos de amostragem, com foco em amostragem aleatória simples e em como selecionar uma amostra utilizando o R.",
+    "status": "PAST",
+    "dateTime": "2020-08-20T19:15:00-03:00",
+    "duration": "PT2H35M",
+    "eventUrl": "https://www.meetup.com/rladies-natal/events/272484934/",
+    "featuredEventPhoto": {
+      "id": "491755258",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/7/d/a/highres_491755258.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/7/d/a/600_491755258.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/7/d/a/thumb_491755258.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 89,
+      "waitlistCount": 0,
+      "totalCount": 89
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Natal",
+      "urlname": "rladies-natal"
+    }
+  },
+  {
+    "id": "271645665",
+    "title": "Traduzindo nossos dados através da visualização gráfica",
+    "description": "Olá Ladies do R!! tudo bem com vocês\nEsperamos que sim :)\nNeste encontro on-line, aprenderemos como traduzir nossos dados através da visualização gráfica.\n\nIremos conversar sobre os seguintes assuntos:\n1. Visualização gráfica: pra quê e pra quem\n2. ggplot2\ncomo funciona\nentendendo seus argumentos\n3. Outras ferramentas\ncolobrewer\n\n*Entrega de Certificados\nSIM\n\nRequisitos:\n* conhecimento básico do R\n* Instalar em seu ambiente R o pacote ggplot2.\ninstall.package (\"ggplot2\")\n\n* Vir com muitos ânimos de colocar \"mãos na massa\"\n\nNão faltem.\nEsperamos vocês. :)",
+    "status": "PAST",
+    "dateTime": "2020-07-22T18:15:00-03:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-natal/events/271645665/",
+    "featuredEventPhoto": {
+      "id": "491111996",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/e/d/c/highres_491111996.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/e/d/c/600_491111996.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/e/d/c/thumb_491111996.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 74,
+      "waitlistCount": 0,
+      "totalCount": 74
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Natal",
+      "urlname": "rladies-natal"
+    }
+  },
+  {
+    "id": "271651731",
+    "title": "Mulheres que inspiram: o uso do R na ciência",
+    "description": "Olá Ladies do R!\n\nNesta primeira palestra de R-Ladies Natal, teremos como ministradora e palestrante à doutora Maria Pennino.\n\nEsperamos vocês!",
+    "status": "PAST",
+    "dateTime": "2020-07-20T10:00:00-03:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-natal/events/271651731/",
+    "featuredEventPhoto": {
+      "id": "491116176",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/f/3/0/highres_491116176.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/f/3/0/600_491116176.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/f/3/0/thumb_491116176.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 67,
+      "waitlistCount": 0,
+      "totalCount": 67
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Natal",
+      "urlname": "rladies-natal"
+    }
+  },
+  {
+    "id": "271187900",
+    "title": "Introdução ao R: passo a passo para iniciantes.",
+    "description": "Este encontro é para as iniciantes na linguagem do R, aqui aprenderemos os conceitos básicos passo a passo de forma fácil e divertida.\n\nDescrevo abaixo sobre alguns dos módulos que serão abordados no encontro:\n\n1. Ambientes do R;\n2. Operações matemáticas;\n3. Valores perdidos, infinitos e não-numéricos;\n4. Funções;\n5. Salvando seu trabalho;\n6. Dataset do R;\n7. Uso do diretório;\n8. Importação de dados;\n9. Tabelas e principais funções;\n10. Gráficos (barras, histograma, boxplot, dispersão e linhas);\n11. Testes estatísticos clássicos: Amostras simples, duas amostras, Skew e Kurtose, amostras pareadas, teste binomial, correlação e covariância, teste Kolmogorov-Smirnov e bootstrap.\n\nEsperamos vocês :)",
+    "status": "PAST",
+    "dateTime": "2020-06-17T19:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-natal/events/271187900/",
+    "featuredEventPhoto": {
+      "id": "490769469",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/3/1/d/highres_490769469.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/3/1/d/600_490769469.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/3/1/d/thumb_490769469.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 46,
+      "waitlistCount": 0,
+      "totalCount": 46
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Natal",
+      "urlname": "rladies-natal"
+    }
+  },
+  {
+    "id": "281499841",
+    "title": "Visualizando redes de interações",
+    "description": "Instrutora: Kelly Inagaki\nDia: 25 de outubro\nHorário: 19 horas\nLocal: YouTube (https://www.youtube.com/watch?v=_V_tb-0JEls)",
+    "status": "PAST",
+    "dateTime": "2021-10-25T19:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-natal/events/281499841/",
+    "featuredEventPhoto": {
+      "id": "499578948",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/a/0/4/highres_499578948.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/a/0/4/600_499578948.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/a/0/4/thumb_499578948.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 32,
+      "waitlistCount": 0,
+      "totalCount": 32
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Natal",
+      "urlname": "rladies-natal"
+    }
+  },
+  {
+    "id": "280038715",
+    "title": "Introdução ao R Markdown",
+    "description": "Introdução ao R Markdown\n[Instrutora: Jeanne Franco]\n\nDia: 26 de agosto\nHorário: 16 horas\nLocal: StreamYard\n\n*O link para o meetup vai ser compartilhado pelo fórum e/ou e-mail (aba Social do gmail) para os participantes*\n\nConteúdo do Meetup:\n\n- Introdução: o que é o R Markdown?;\n- Instalação do pacote;\n- Estrutura do R Markdown;\n- Como o R Markdown trabalha;\n- Primeira etapa na criação do documento;\n- Sintaxe do R Markdown;\n- Códigos em chunks e opções gerais;\n- Códigos em linhas de texto;\n- Renderização de documentos;\n- Estilizando nosso relatório HTML.\n\nPara acompanhar com eficiência nosso encontro é necessário:\n\n- Ter o RStudio instalado no computador;\n- Baixar esses pacotes no R usando os seguintes códigos:\ninstall.packages(\"rmarkdown\")\ninstall.packages(\"kableExtra\")\ninstall.packages(\"ggplot2\")\n\nQualquer dúvida deixe um comentário aqui na página.\n\nAbraços e até mais!",
+    "status": "PAST",
+    "dateTime": "2021-08-26T16:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-natal/events/280038715/",
+    "featuredEventPhoto": {
+      "id": "498103889",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/b/7/1/highres_498103889.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/b/7/1/600_498103889.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/b/7/1/thumb_498103889.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 37,
+      "waitlistCount": 0,
+      "totalCount": 37
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Natal",
+      "urlname": "rladies-natal"
+    }
+  },
+  {
+    "id": "278857174",
+    "title": "ANOVA DE UMA VIA",
+    "description": "Data: 24 de junho\nHorário: 19 horas\nLocal: Via Zoom\nInscrições: Grupo de Meetup de R-Ladies Natal\n.\n💬 Esperamos contar com sua presença neste Meetup de 2021, ministrado por Larissa Martins.\n.\n📌 As inscrições serão feitas pelo grupo de Meetup de R-Ladies Natal! (Disponibilizado no link do Instagram de R-Ladies Natal)\n\n[O LINK PARA O MEETUP SERÁ DISPONIBILIZADO NO FÓRUM PARA AS PESSOAS QUE SE INSCREVERAM NO MEETUP]",
+    "status": "PAST",
+    "dateTime": "2021-06-24T19:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-natal/events/278857174/",
+    "featuredEventPhoto": {
+      "id": "496940784",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/1/3/0/highres_496940784.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/1/3/0/600_496940784.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/1/3/0/thumb_496940784.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 22,
+      "waitlistCount": 0,
+      "totalCount": 22
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Natal",
+      "urlname": "rladies-natal"
+    }
+  },
+  {
+    "id": "278343212",
+    "title": "Análise de Dados Hidrológicos no R",
+    "description": "Análise de Dados Hidrológicos no R\n[Instrutor: Alanderson de Lucas]\n\nData: 4 de junho\nHorário: 16h30\nLocal: Via Zoom\nInscrições: Grupo de Meetup de R-Ladies Natal\n.\n📌 O link para o Meetup será enviado no mesmo que dia que este acontecerá, 4 de junho, e somente será enviado para as pessoas que fizerem sua inscrição.\n\n[NO DIA DO MEETUP, QUANDO FOR ENVIADO O LINK, REVISE A CAIXA \"SPAM\" OU A CAIXA \"SOCIAL\"]",
+    "status": "PAST",
+    "dateTime": "2021-06-04T16:30:00-03:00",
+    "duration": "PT2H15M",
+    "eventUrl": "https://www.meetup.com/rladies-natal/events/278343212/",
+    "featuredEventPhoto": {
+      "id": "496456192",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/f/4/0/highres_496456192.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/f/4/0/600_496456192.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/f/4/0/thumb_496456192.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 36,
+      "waitlistCount": 0,
+      "totalCount": 36
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Natal",
+      "urlname": "rladies-natal"
+    }
+  },
+  {
+    "id": "278122682",
+    "title": "R do Zero: para iniciantes",
+    "description": "R do Zero: para iniciantes com a Instrutora Jeanne Franco.\n\nDia: 21 de maio\nHorário: 18:45 horas\nLocal: Via Zoom\n\nConteúdo:\n\n- Introdução ao R\n1. Ambiente do R e R Studio;\n2. Operações matemáticas;\n3. Valores perdidos, infinitos e não-numéricos;\n4. Número, caracter, cadeias de caracteres, vetores, matrizes e listas;\n5. Objetos, funções e argumentos;\n6. Instalação de pacotes.\n\n- Scripts e tabelas\n1. Datasets do R;\n2. Principais funções;\n3. Estatística descritiva dos dados;\n4. Função “attach” vs fator de indexação;\n5. Organizando e salvando scripts;\n6. Uso do diretório;\n7. Importação de dados.\n\n- Estatística básica - Testes clássicos\n1. Amostras simples:\n- Skew e Kurtose;\n- Testes de normalidade: Kolmogorov-Smirnov e Shapiro-Wilk.\n2. Duas amostras independentes:\n- Teste t independente;\n- Mann-Whitney.\n3. Amostras pareadas:\n- Teste t pareado.\n4. Duas variáveis numéricas - Correlação e covariância:\n- Pearson;\n- Kendall.",
+    "status": "PAST",
+    "dateTime": "2021-05-21T18:45:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-natal/events/278122682/",
+    "featuredEventPhoto": {
+      "id": "496236813",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/f/c/d/highres_496236813.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/f/c/d/600_496236813.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/f/c/d/thumb_496236813.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 65,
+      "waitlistCount": 0,
+      "totalCount": 65
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Natal",
+      "urlname": "rladies-natal"
+    }
+  },
+  {
+    "id": "277696007",
+    "title": "Conhecendo R-Ladies Natal entre scripts e meetups",
+    "description": "(TRECHO TIRADO DO INSTAGRAM: @bioforum_cb_ufrn)\n*Evento pelo Youtube do Biofórum*\nNesta quinta-feira (22/04) às 17 horas teremos um papo super legal com as integrantes do grupo @rladiesnatal.\n\nCom o intuito de promover a diversidade de gênero feminino na comunidade R, que tem grande parte dos pacotes desenvolvidas por homens. Elas irão falar sobre linguagem de programação R de forma inspiradora para aumentar o engajamento e participação feminina na programação. 🤩\n.\n.\nVai ser muito especial, esperamos vocês no nosso canal do YouTube! 🤗\n.",
+    "status": "PAST",
+    "dateTime": "2021-04-22T17:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-natal/events/277696007/",
+    "featuredEventPhoto": {
+      "id": "495833903",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/2/8/f/highres_495833903.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/2/8/f/600_495833903.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/2/8/f/thumb_495833903.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 13,
+      "waitlistCount": 0,
+      "totalCount": 13
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Natal",
+      "urlname": "rladies-natal"
+    }
+  },
+  {
+    "id": "282924454",
+    "title": "Regressão Linear",
+    "description": "MEETUP 2022!!\n> REGRESSÃO LINEAR <\n\nInstrutor(a): Tayane Varela\nDia: 8 de janeiro 2022\nHorário: 17 horas\n\n[O LINK DE ACESSO DO MEETUP SERÁ ENVIADO NO MESMO DIA. VERIFIQUE A CAIXA DE SPAM]",
+    "status": "PAST",
+    "dateTime": "2022-01-08T17:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-natal/events/282924454/",
+    "featuredEventPhoto": {
+      "id": "501067077",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/b/a/5/highres_501067077.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/b/a/5/600_501067077.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/b/a/5/thumb_501067077.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 51,
+      "waitlistCount": 0,
+      "totalCount": 51
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Natal",
+      "urlname": "rladies-natal"
+    }
+  },
+  {
+    "id": "292584846",
+    "title": "IMPORTANCIA DO R-LADIES PARA O DESENVOLVIMENTO CIENTIFICO E  SOCIAL",
+    "description": "IMPORTANCIA DO R-LADIES PARA O DESENVOLVIMENTO CIENTIFICO E SOCIAL",
+    "status": "PAST",
+    "dateTime": "2023-03-30T18:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-natal/events/292584846/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 1,
+      "waitlistCount": 0,
+      "totalCount": 1
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Natal",
+      "urlname": "rladies-natal"
+    }
+  },
+  {
+    "id": "303835435",
+    "title": "Transformando Dados em Gráficos no R",
+    "description": "O Centro Acadêmico de Ciências Biológicas (CABIO) da UFRN convida a todos para participar da **VIII** **Semana da Biologia**, um evento que celebra a importância da biologia e o papel dos biólogos em nossa sociedade.\n\nA R-Ladies Natal irá **ministrar um minicurso** durante o evento com o tema **Transformando dados em gráficos no R** no dia **11 de outubro de 2024**, das **16:00 às 18:00 horas**, no **Centro de Biociências**, na Universidade Federal do Rio Grande do Norte.\n\nO evento terá duração de cinco dias, começando no dia 07 de outubro e terminando no dia 11 de outubro de 2024. Durante essa semana, serão realizadas diversas atividades, incluindo palestras, minicursos, coffee breaks, exposições de coleções biológicas, apresentações de banners e sorteios.\n\n**Informações Detalhadas:**\n\n* **Data do Minicurso:** 11/10/2024\n* **Horário:** 16:00 às 18:00\n* **Link para inscrição:** sandwiche.me/cabioufrn\n* **Valor:** R$ 5,00\n* **Local:** Centro de Biociências\\, Campus Universitário UFRN \\- Lagoa Nova CEP 59078\\-970 \\| Natal\\- RN\n* **Sala:** Laboratório de Informática\n* **Contato para Informações Adicionais:** Email: cabio1ufrn@gmail.com; Instagram: @cabioufrn",
+    "status": "PAST",
+    "dateTime": "2024-10-11T16:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-natal/events/303835435/",
+    "featuredEventPhoto": {
+      "id": "523875121",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/b/1/1/highres_523875121.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/b/1/1/600_523875121.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/b/1/1/thumb_523875121.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 1,
+      "waitlistCount": 0,
+      "totalCount": 1
+    },
+    "venues": [
+      {
+        "id": "15751582",
+        "name": "UFRN",
+        "address": "Avenida Senador Salgado Filho, 3000, 3000, Lagoa Nova",
+        "city": "Natal",
+        "state": "",
+        "country": "br",
+        "lat": -5.8259,
+        "lon": -35.21,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Natal",
+      "urlname": "rladies-natal"
+    }
+  },
+  {
+    "id": "299961234",
+    "title": "Explorando a visualização de dados no R com tidyverse",
+    "description": "O evento '**Explorando a visualização de dados no R com *tidyverse***' será ministrado pela coorganizadora da comunidade R-Ladies Natal, **Jeanne Franco**.\n\nA palestra ocorrerá no **dia 30/03/2024, às 19h, via Zoom**. O link do evento se encontra aqui na página do Meetup e nos comentários abaixo.\n\nOs participantes devem ter o software RStudio instalado no computador e baixar o pacote *tidyverse* para acompanhar as atividades do evento.\n\nO pacote *tidyverse* é considerado um 'metapacote' que contêm outros pacotes úteis para manipulação e visualização de dados.\n\n**Principais pacotes que serão abordados na palestra:**\n\n* *ggplot2*\n* *dplyr*\n* *readxl*\n* *tibble*\n* forcats\n\nAcompanhe as atualizações sobre o evento e outras informações no [Instagram](https://www.instagram.com/rladiesnatal/) da comunidade R-Ladies Natal.\n\n**Informações importantes:**\n\n**• Código de conduta**\n\nQualquer pessoa que violar ou houver previamente violado o código de conduta desta comunidade terá sua entrada proibida, será expulsa/o e/ou estará sujeita/o à ação que a pessoa organizadora achar mais apropriada, independente de inscrição no evento, ser membro do MeetUp ou qualquer outra condição. Disponível aqui: [https://github.com/rladies/.github/blob/master/CODE_OF_CONDUCT.md#Portuguese](https://github.com/rladies/.github/blob/master/CODE_OF_CONDUCT.md#Portuguese)\n\n**• Sobre as R-Ladies**\n\nR-Ladies é uma organização que promove a diversidade de gênero na comunidade da linguagem R. Nosso principal objetivo é promover a linguagem computacional estatística R compartilhando conhecimento, assim, quem tiver interesse na linguagem será bem-vinda, independente do nível de conhecimento. Nosso principal público-alvo são as pessoas que se identificam com o gênero feminino, portanto, mulheres cis, mulheres trans, bem como pessoas não-binárias e queer.",
+    "status": "PAST",
+    "dateTime": "2024-03-30T19:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-natal/events/299961234/",
+    "featuredEventPhoto": {
+      "id": "519917445",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/4/2/5/highres_519917445.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/4/2/5/600_519917445.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/4/2/5/thumb_519917445.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 18,
+      "waitlistCount": 0,
+      "totalCount": 18
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Natal",
+      "urlname": "rladies-natal"
+    }
+  }
+]

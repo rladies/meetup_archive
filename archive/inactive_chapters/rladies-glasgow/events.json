@@ -1,0 +1,134 @@
+[
+  {
+    "id": "272725021",
+    "title": "R-Ladies Glasgow Kick-off Meeting",
+    "description": "In this initial meetup we will talk about the results of the survey that we had sent out and have a bit of discussion around what people would like to get from the group. We'll then introduce our organising committee and chat a bit about useful tips and resources for using R.\n\nThe event has been scheduled for an hour but if people want to continue the discussion a bit we can be flexible :)",
+    "status": "PAST",
+    "dateTime": "2020-09-15T15:00:00+01:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-glasgow/events/272725021/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 10,
+      "waitlistCount": 0,
+      "totalCount": 10
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Glasgow",
+      "urlname": "rladies-glasgow"
+    }
+  },
+  {
+    "id": "276602718",
+    "title": "Introduction to Data in Base R (Zoom Password: 798832)",
+    "description": "Hello all!\n\nThis will be the first, more formal, session of the R Ladies Glasgow chapter, so we decided that it should be something relatively basic.\n\nFor this session, we will be looking at a quick introduction to data management using Base R. We will look at basic ideas around data structure, before moving into plotting different types of data.\n\nThough there are a lot of different ways to go about looking at these areas, we felt like base R would be a good introduction for our members who has slightly less experience using R.\n\nThe session material will be sent around in advance to the session so make sure you're signed up!\n\nHope to see you all there.",
+    "status": "PAST",
+    "dateTime": "2021-03-12T14:00:00Z",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-glasgow/events/276602718/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 12,
+      "waitlistCount": 0,
+      "totalCount": 12
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Glasgow",
+      "urlname": "rladies-glasgow"
+    }
+  },
+  {
+    "id": "289026575",
+    "title": "An Introduction to UI/UX in Shiny",
+    "description": "This session will take you through important concepts in web development related to the design of user interface (UI) and user experience (UX) and how to apply them in Shiny. Shiny is an R framework for building web applications, and all web apps have some form of \"front end\" — whatever the user interacts with. Guided by principles from the broader UI/UX field, this session will explore how we can implement best practices when designing the front end of Shiny apps. I will try to cover both smaller, basic ways you can quickly change an app as well as more complex customisations using external packages or even modifying the underlying web technologies (HTML/CSS) directly. If you've never used Shiny, I recommend at least attempting to build a simple app before attending. There are a lot of useful tutorials for beginners available here: [https://shiny.rstudio.com/tutorial](https://t.co/uDAkTxeVBi).",
+    "status": "PAST",
+    "dateTime": "2022-11-10T18:00:00Z",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-glasgow/events/289026575/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 33,
+      "waitlistCount": 0,
+      "totalCount": 33
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Glasgow",
+      "urlname": "rladies-glasgow"
+    }
+  },
+  {
+    "id": "285942871",
+    "title": "Simulation using {faux}",
+    "description": "This session will cover the basics of simulation using {faux}. We will simulate data with factorial designs by specifying the within and between-subjects factor structure, each cell mean and standard deviation, and correlations between cells where appropriate. This can be used to create simulated data sets to be used in preparing the analysis code for pre-registrations or registered reports. We will also create data sets for simulation-based power analyses. Students will need to have very basic knowledge of R and R Markdown, and have installed {faux}, {afex} and {tidyverse}.",
+    "status": "PAST",
+    "dateTime": "2022-05-24T15:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-glasgow/events/285942871/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 29,
+      "waitlistCount": 0,
+      "totalCount": 29
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Glasgow",
+      "urlname": "rladies-glasgow"
+    }
+  }
+]
