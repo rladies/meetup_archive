@@ -26,6 +26,45 @@
     }
   },
   {
+    "id": "312625100",
+    "title": "TidyTuesday",
+    "description": "Join R-Ladies Ottawa for a casual evening of programming on Tuesday, January 27th. We'll be participating in TidyTuesday, a weekly data visualization challenge organized by the *R for Data Science* community.\n\n**What is TidyTuesday?**\n\nEvery week, a new dataset is posted online on the [TidyTuesday GitHub repo](https://github.com/rfordatascience/tidytuesday), and folks from around the world create data visualizations using the dataset. It's an opportunity to put your programming skills into practice using real-world data in a way that's fun! It's also a great way for everyone to learn from each other, by sharing their visualizations and code.\n\n**What will the dataset be?**\n\nEven we don't know that (yet)! We'll have to wait until the day before the event to know what data we'll be working with. If you're interested in seeing some past datasets, take a look at the examples below, or visit the [TidyTuesday GitHub repo](https://github.com/rfordatascience/tidytuesday) to see all of the datasets dating back to 2018.\n\n*Examples from past TidyTuesdays:*\n\n* [Donuts, Data, and D'oh - A Deep Dive into The Simpsons](https://github.com/rfordatascience/tidytuesday/blob/main/data/2025/2025-02-04/readme.md)\n* [Pokemon](https://github.com/rfordatascience/tidytuesday/blob/main/data/2025/2025-04-01/readme.md)\n* [What have we been watching on Netflix?](https://github.com/rfordatascience/tidytuesday/blob/main/data/2025/2025-07-29/readme.md)\n\n**Do I have to use R?**\n\nNo! You can use any programming language or visualization software that you want. In fact, Python users from around the globe participate in \"TyDyTuesday\" on a weekly basis.\n\n**Who is this event for?**\n\nNo previous programming experience is required to participate, and we'll have experienced programmers in the room who can help you get started (or unstuck), if needed.\n\n...But if you want to get the most out of the event, a good way to prepare is to watch the recording of the [introduction to data visualization workshop](https://rladies-ottawa.github.io/events/2024/intro_to_r.html) we hosted back in 2024. :)\n\n**What should I bring?**\n\n* Please bring a laptop so you can code along. We recommend that you have RStudio or another IDE (such as VS Code or Positron) installed ahead of time, but we can help you get one installed if needed!\n* Come ready to learn, share, and contribute to a safe and welcoming community!\n\n**How will this event work?**\n\n* First few minutes of the event: Introductions, and taking a look at the dataset together as a group.\n* Time to create a data visualization using the language or software of your choice, either on your own or with a (new) friend! Grab a free snack while you're at it :)\n* Last \\~30 minutes of the event: Show and tell session for anyone who would like to share their creation with the group.\n\n**What else do I need to know?**\n\nThis event (like all R-Ladies events) is totally FREE to attend.\n\nThe event will take place at Bayview Yards, which is located just a few steps away from the Bayview O-Train station. There is also a free parking lot available for those who are driving. You can find us in the \"Training Room\", which is on the second floor of the Bayview Yards building.\n\n*This is an in-person event with limited space! Please only RSVP if you are able to attend in-person!*\n\n**\\*\\*\\*Please note that the mission of R-Ladies is to increase gender diversity in the R community. This event is intended to provide a safe space for women and gender minorities. We ask for male allies to be invited by and accompanied by a woman or gender minority.\\*\\*\\***\n\nWe’re grateful to be part of the Bayview Meetups initiative and extend our thanks to Bayview Yards for generously providing the venue space.",
+    "status": "ACTIVE",
+    "dateTime": "2026-01-27T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-ottawa/events/312625100/",
+    "featuredEventPhoto": {
+      "id": "531999353",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/9/b/9/highres_531999353.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/9/b/9/600_531999353.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/9/b/9/thumb_531999353.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 6,
+      "waitlistCount": 0,
+      "totalCount": 6
+    },
+    "venues": [
+      {
+        "id": "25980414",
+        "name": "Bayview Yards",
+        "address": "7 Bayview Road",
+        "city": "Ottawa",
+        "state": "ON",
+        "country": "ca",
+        "lat": 45.4097,
+        "lon": -75.728,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Ottawa",
+      "urlname": "rladies-ottawa"
+    }
+  },
+  {
     "id": "312616873",
     "title": "GWAS Overview and Single SNP Tests using R",
     "description": "**Join R-Ladies Aurora for our first event of 2026!**\nLearn the basics of genome-wide association studies (GWAS) and how to work with GWAS data using R. This beginner-friendly session will introduce key concepts, common workflows, and practical examples to help you get started analyzing genetic association data. No prior GWAS experience required.",
@@ -41,9 +80,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/5/e/1/thumb_531990177.jpeg"
     },
     "rsvps": {
-      "yesCount": 9,
+      "yesCount": 10,
       "waitlistCount": 0,
-      "totalCount": 9
+      "totalCount": 10
     },
     "venues": [],
     "group": {
@@ -67,9 +106,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/1/f/2/thumb_531989170.jpeg"
     },
     "rsvps": {
-      "yesCount": 6,
+      "yesCount": 7,
       "waitlistCount": 0,
-      "totalCount": 6
+      "totalCount": 7
     },
     "venues": [
       {
