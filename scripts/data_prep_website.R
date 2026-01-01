@@ -74,7 +74,6 @@ website_events <- purrr::map_df(events, function(x) {
     )
   ) |>
     dplyr::mutate(
-      end = format(end, "%H:%M"),
       location = gsub(", , |, $", "", location)
     )
 })
