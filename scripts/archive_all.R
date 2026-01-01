@@ -38,7 +38,6 @@ cli_alert_info("Starting archive process at {time_str}")
 
 cli_h2("Fetching all events via Meetup API")
 
-cli_progress_step("Fetching events")
 events_raw <- meetupr::get_pro_events(
   "rladies",
   asis = TRUE,
