@@ -54,7 +54,7 @@ jobs:
           renv::restore()
 
       - name: Meetup authentication status
-        run: Rscript -e "meetupr::meetup_sitrep()"
+        run: Rscript -e "meetupr::meetupr_sitrep()"
 
       - name: Archive all meetup data
         run: Rscript scripts/archive_all.R
