@@ -7,6 +7,7 @@
 library(dplyr)
 library(purrr)
 library(cli)
+library(jose)
 
 # Setup -------------------------------------------------------------------
 

@@ -42,9 +42,6 @@ website_events <- purrr::map_df(events, function(x) {
     duration = lubridate::as.duration(x$duration),
     datetime = lubridate::as_datetime(x$dateTime, tz = "UTC"),
     date = format(datetime, "%Y-%m-%d"),
-
-    start = format(datetime, "%H:%M"),
-    end = datetime + (duration %||% lubridate::dhours(2)),
     original_tz = substr(x$dateTime, 20, 26),
 
     group_name = x$group$name,
