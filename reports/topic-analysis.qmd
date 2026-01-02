@@ -7,7 +7,6 @@ slug: topic-analysis
 categories:
   - reports
   - analytics
-  
 tags:
   - topics
   - content
@@ -33,7 +32,7 @@ Understanding what topics resonate with the community helps organizers plan rele
 events_analyzed <- events |>
   filter(!status %in% c("cancelled", "CANCELLED")) |>
   mutate(
-    event_date = as.Date(date),
+    event_date = as.Date(datetime_utc),
     year = year(event_date),
     is_recent = event_date >= Sys.Date() - months(12),
     # Combine title and description for topic analysis
@@ -59,45 +58,45 @@ This gives us insight into which R-related skills and tools are most frequently 
 
 # Define topic keywords
 topic_keywords <- tribble(
-  ~keyword, ~category,
-  "ggplot", "Visualization",
-  "visualization", "Visualization",
-  "plot", "Visualization",
-  "shiny", "Shiny/Apps",
-  "dashboard", "Shiny/Apps",
-  "app", "Shiny/Apps",
-  "machine learning", "Machine Learning",
-  "ml", "Machine Learning",
-  "model", "Machine Learning",
-  "prediction", "Machine Learning",
-  "tidyverse", "Data Wrangling",
-  "dplyr", "Data Wrangling",
-  "data cleaning", "Data Wrangling",
-  "wrangle", "Data Wrangling",
-  "transform", "Data Wrangling",
-  "quarto", "Publishing",
-  "rmarkdown", "Publishing",
-  "report", "Publishing",
-  "markdown", "Publishing",
-  "package", "Package Development",
-  "git", "Git/GitHub",
-  "github", "Git/GitHub",
-  "version control", "Git/GitHub",
-  "python", "Python/Reticulate",
-  "reticulate", "Python/Reticulate",
-  "statistics", "Statistics",
-  "statistical", "Statistics",
-  "regression", "Statistics",
-  "analysis", "Statistics",
-  "spatial", "Spatial Analysis",
-  "map", "Spatial Analysis",
-  "gis", "Spatial Analysis",
-  "text", "Text Mining",
-  "nlp", "Text Mining",
-  "sentiment", "Text Mining",
-  "api", "APIs/Web",
-  "web scraping", "APIs/Web",
-  "scrape", "APIs/Web"
+  ~keyword           , ~category             ,
+  "ggplot"           , "Visualization"       ,
+  "visualization"    , "Visualization"       ,
+  "plot"             , "Visualization"       ,
+  "shiny"            , "Shiny/Apps"          ,
+  "dashboard"        , "Shiny/Apps"          ,
+  "app"              , "Shiny/Apps"          ,
+  "machine learning" , "Machine Learning"    ,
+  "ml"               , "Machine Learning"    ,
+  "model"            , "Machine Learning"    ,
+  "prediction"       , "Machine Learning"    ,
+  "tidyverse"        , "Data Wrangling"      ,
+  "dplyr"            , "Data Wrangling"      ,
+  "data cleaning"    , "Data Wrangling"      ,
+  "wrangle"          , "Data Wrangling"      ,
+  "transform"        , "Data Wrangling"      ,
+  "quarto"           , "Publishing"          ,
+  "rmarkdown"        , "Publishing"          ,
+  "report"           , "Publishing"          ,
+  "markdown"         , "Publishing"          ,
+  "package"          , "Package Development" ,
+  "git"              , "Git/GitHub"          ,
+  "github"           , "Git/GitHub"          ,
+  "version control"  , "Git/GitHub"          ,
+  "python"           , "Python/Reticulate"   ,
+  "reticulate"       , "Python/Reticulate"   ,
+  "statistics"       , "Statistics"          ,
+  "statistical"      , "Statistics"          ,
+  "regression"       , "Statistics"          ,
+  "analysis"         , "Statistics"          ,
+  "spatial"          , "Spatial Analysis"    ,
+  "map"              , "Spatial Analysis"    ,
+  "gis"              , "Spatial Analysis"    ,
+  "text"             , "Text Mining"         ,
+  "nlp"              , "Text Mining"         ,
+  "sentiment"        , "Text Mining"         ,
+  "api"              , "APIs/Web"            ,
+  "web scraping"     , "APIs/Web"            ,
+  "scrape"           , "APIs/Web"
 )
 
 # Count keyword occurrences
@@ -115,7 +114,10 @@ keyword_counts <- topic_keywords |>
   arrange(desc(total_count)) |>
   slice_head(n = 12)
 
-ggplot(keyword_counts, aes(x = total_count, y = reorder(category, total_count))) +
+ggplot(
+  keyword_counts,
+  aes(x = total_count, y = reorder(category, total_count))
+) +
   geom_col(fill = rladies_colors$purple) +
   geom_text(
     aes(label = total_count),
@@ -148,12 +150,24 @@ event_types <- recent_events |>
   mutate(
     event_type = case_when(
       str_detect(full_text, "workshop|hands-on|tutorial|lab") ~ "Workshop",
-      str_detect(full_text, "talk|presentation|speaker|lecture") ~ "Talk/Presentation",
-      str_detect(full_text, "social|networking|coffee|happy hour|meetup") ~ "Social/Networking",
+      str_detect(
+        full_text,
+        "talk|presentation|speaker|lecture"
+      ) ~ "Talk/Presentation",
+      str_detect(
+        full_text,
+        "social|networking|coffee|happy hour|meetup"
+      ) ~ "Social/Networking",
       str_detect(full_text, "hackathon|hack|sprint") ~ "Hackathon",
       str_detect(full_text, "book club|reading|discussion") ~ "Book Club",
-      str_detect(full_text, "career|job|interview|resume") ~ "Career Development",
-      str_detect(full_text, "beginner|intro|getting started|101") ~ "Beginner-Friendly",
+      str_detect(
+        full_text,
+        "career|job|interview|resume"
+      ) ~ "Career Development",
+      str_detect(
+        full_text,
+        "beginner|intro|getting started|101"
+      ) ~ "Beginner-Friendly",
       TRUE ~ "Other/Mixed"
     )
   ) |>
@@ -189,7 +203,13 @@ Tracking trends over time helps identify which topics are gaining or losing trac
 #| fig-cap: "Quarterly trends for selected popular topics over the past two years. Lines show the number of events mentioning each topic per quarter."
 
 # Track selected topics over time
-trending_topics <- c("shiny", "quarto", "machine learning", "tidyverse", "python")
+trending_topics <- c(
+  "shiny",
+  "quarto",
+  "machine learning",
+  "tidyverse",
+  "python"
+)
 
 topic_timeline <- events_analyzed |>
   filter(event_date >= Sys.Date() - years(2)) |>
@@ -238,8 +258,14 @@ The balance between beginner and advanced content affects who feels welcomed in 
 difficulty_data <- recent_events |>
   mutate(
     difficulty = case_when(
-      str_detect(full_text, "beginner|intro|introduction|getting started|101|basics|fundamentals") ~ "Beginner",
-      str_detect(full_text, "advanced|expert|deep dive|optimization|production") ~ "Advanced",
+      str_detect(
+        full_text,
+        "beginner|intro|introduction|getting started|101|basics|fundamentals"
+      ) ~ "Beginner",
+      str_detect(
+        full_text,
+        "advanced|expert|deep dive|optimization|production"
+      ) ~ "Advanced",
       str_detect(full_text, "intermediate") ~ "Intermediate",
       TRUE ~ "Not Specified"
     )
@@ -247,7 +273,10 @@ difficulty_data <- recent_events |>
   count(difficulty) |>
   mutate(
     percentage = n / sum(n) * 100,
-    difficulty = factor(difficulty, levels = c("Beginner", "Intermediate", "Advanced", "Not Specified"))
+    difficulty = factor(
+      difficulty,
+      levels = c("Beginner", "Intermediate", "Advanced", "Not Specified")
+    )
   )
 
 ggplot(difficulty_data, aes(x = difficulty, y = n)) +
@@ -271,7 +300,9 @@ ggplot(difficulty_data, aes(x = difficulty, y = n)) +
 #| include: false
 
 beginner_count <- difficulty_data |> filter(difficulty == "Beginner") |> pull(n)
-beginner_pct <- difficulty_data |> filter(difficulty == "Beginner") |> pull(percentage)
+beginner_pct <- difficulty_data |>
+  filter(difficulty == "Beginner") |>
+  pull(percentage)
 ```
 
 Events explicitly labeled as beginner-friendly (**`r beginner_count`** events, `r round(beginner_pct, 1)`%) signal welcoming spaces for newcomers.
@@ -288,15 +319,31 @@ This information helps identify which packages have strong educational ecosystem
 
 # Define popular packages to track
 packages <- c(
-  "ggplot2", "dplyr", "tidyverse", "shiny", "rmarkdown", "quarto",
-  "caret", "tidymodels", "data.table", "plotly", "leaflet",
-  "stringr", "lubridate", "purrr", "tidyr", "readr"
+  "ggplot2",
+  "dplyr",
+  "tidyverse",
+  "shiny",
+  "rmarkdown",
+  "quarto",
+  "caret",
+  "tidymodels",
+  "data.table",
+  "plotly",
+  "leaflet",
+  "stringr",
+  "lubridate",
+  "purrr",
+  "tidyr",
+  "readr"
 )
 
 package_counts <- tibble(package = packages) |>
   rowwise() |>
   mutate(
-    count = sum(str_detect(recent_events$full_text, fixed(package, ignore_case = TRUE)))
+    count = sum(str_detect(
+      recent_events$full_text,
+      fixed(package, ignore_case = TRUE)
+    ))
   ) |>
   ungroup() |>
   filter(count > 0) |>
@@ -332,28 +379,28 @@ Domain-specific events help members see how R applies to their professional work
 #| fig-cap: "Events categorized by application domain or field of study. Counts represent events that explicitly mentioned domain-specific applications or use cases."
 
 domains <- tribble(
-  ~keyword, ~domain,
-  "health", "Healthcare/Bioinformatics",
-  "medical", "Healthcare/Bioinformatics",
-  "bioinformatics", "Healthcare/Bioinformatics",
-  "genomics", "Healthcare/Bioinformatics",
-  "finance", "Finance/Business",
-  "business", "Finance/Business",
-  "economics", "Finance/Business",
-  "marketing", "Finance/Business",
-  "social", "Social Sciences",
-  "psychology", "Social Sciences",
-  "survey", "Social Sciences",
-  "climate", "Environmental/Climate",
-  "environment", "Environmental/Climate",
-  "ecology", "Environmental/Climate",
-  "education", "Education",
-  "teaching", "Education",
-  "sports", "Sports Analytics",
-  "text mining", "Text/NLP",
-  "sentiment", "Text/NLP",
-  "image", "Computer Vision",
-  "computer vision", "Computer Vision"
+  ~keyword          , ~domain                     ,
+  "health"          , "Healthcare/Bioinformatics" ,
+  "medical"         , "Healthcare/Bioinformatics" ,
+  "bioinformatics"  , "Healthcare/Bioinformatics" ,
+  "genomics"        , "Healthcare/Bioinformatics" ,
+  "finance"         , "Finance/Business"          ,
+  "business"        , "Finance/Business"          ,
+  "economics"       , "Finance/Business"          ,
+  "marketing"       , "Finance/Business"          ,
+  "social"          , "Social Sciences"           ,
+  "psychology"      , "Social Sciences"           ,
+  "survey"          , "Social Sciences"           ,
+  "climate"         , "Environmental/Climate"     ,
+  "environment"     , "Environmental/Climate"     ,
+  "ecology"         , "Environmental/Climate"     ,
+  "education"       , "Education"                 ,
+  "teaching"        , "Education"                 ,
+  "sports"          , "Sports Analytics"          ,
+  "text mining"     , "Text/NLP"                  ,
+  "sentiment"       , "Text/NLP"                  ,
+  "image"           , "Computer Vision"           ,
+  "computer vision" , "Computer Vision"
 )
 
 domain_counts <- domains |>
@@ -399,20 +446,20 @@ Professional development, networking, and community-building events serve critic
 #| fig-cap: "Events focused on professional development, networking, and community building rather than technical skills. These events support career growth and community cohesion."
 
 community_keywords <- tribble(
-  ~keyword, ~category,
-  "career", "Career Development",
-  "job", "Career Development",
-  "interview", "Career Development",
-  "resume", "Career Development",
-  "networking", "Networking",
-  "coffee", "Networking",
-  "social", "Social Events",
-  "celebration", "Social Events",
-  "women in tech", "Community Building",
-  "diversity", "Community Building",
-  "mentorship", "Community Building",
-  "book club", "Book Club",
-  "discussion", "Book Club"
+  ~keyword        , ~category            ,
+  "career"        , "Career Development" ,
+  "job"           , "Career Development" ,
+  "interview"     , "Career Development" ,
+  "resume"        , "Career Development" ,
+  "networking"    , "Networking"         ,
+  "coffee"        , "Networking"         ,
+  "social"        , "Social Events"      ,
+  "celebration"   , "Social Events"      ,
+  "women in tech" , "Community Building" ,
+  "diversity"     , "Community Building" ,
+  "mentorship"    , "Community Building" ,
+  "book club"     , "Book Club"          ,
+  "discussion"    , "Book Club"
 )
 
 community_counts <- community_keywords |>
@@ -534,7 +581,10 @@ chapter_topics <- recent_events |>
   crossing(topic_keywords |> distinct(category)) |>
   rowwise() |>
   mutate(
-    has_topic = any(str_detect(full_text, topic_keywords$keyword[topic_keywords$category == category]))
+    has_topic = any(str_detect(
+      full_text,
+      topic_keywords$keyword[topic_keywords$category == category]
+    ))
   ) |>
   ungroup() |>
   group_by(group_urlname) |>
@@ -561,15 +611,35 @@ Topic diversity helps attract and retain members with varying backgrounds and go
 
 # Compare recent vs older events
 older_events <- events_analyzed |>
-  filter(event_date >= Sys.Date() - years(2), event_date < Sys.Date() - years(1))
+  filter(
+    event_date >= Sys.Date() - years(2),
+    event_date < Sys.Date() - years(1)
+  )
 
-emerging_keywords <- c("quarto", "tidymodels", "python", "api", "github actions", "docker")
+emerging_keywords <- c(
+  "quarto",
+  "tidymodels",
+  "python",
+  "api",
+  "github actions",
+  "docker"
+)
 
 trend_comparison <- tibble(keyword = emerging_keywords) |>
   rowwise() |>
   mutate(
-    recent = sum(str_detect(recent_events$full_text, fixed(keyword, ignore_case = TRUE))) / nrow(recent_events) * 100,
-    older = sum(str_detect(older_events$full_text, fixed(keyword, ignore_case = TRUE))) / nrow(older_events) * 100,
+    recent = sum(str_detect(
+      recent_events$full_text,
+      fixed(keyword, ignore_case = TRUE)
+    )) /
+      nrow(recent_events) *
+      100,
+    older = sum(str_detect(
+      older_events$full_text,
+      fixed(keyword, ignore_case = TRUE)
+    )) /
+      nrow(older_events) *
+      100,
     growth = recent - older
   ) |>
   ungroup() |>

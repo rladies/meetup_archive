@@ -45,11 +45,11 @@ This report analyzes event characteristics across the R-Ladies network to identi
 events_analyzed <- events |>
   filter(!status %in% c("cancelled", "CANCELLED")) |>
   mutate(
-    event_date = as.Date(date),
-    event_datetime = datetime,
-    event_hour = hour(datetime) + offset_to_hours(original_tz),
-    event_dow = wday(date, label = TRUE, week_start = 1),
-    event_month = month(date, label = TRUE),
+    event_date = as.Date(datetime_utc),
+    event_datetime = event_date,
+    event_hour = hour(as.Date(datetime)),
+    event_dow = wday(event_date, label = TRUE, week_start = 1),
+    event_month = month(event_date, label = TRUE),
     event_tod = case_when(
       event_hour < 8 ~ "Night",
       event_hour < 12 ~ "Morning",
@@ -57,7 +57,7 @@ events_analyzed <- events |>
       event_hour < 20 ~ "Evening",
       .default = "Night"
     ),
-    year = year(date),
+    year = year(event_date),
     is_virtual = str_detect(
       tolower(location %||% ""),
       "online|virtual|zoom|meet|not announced"

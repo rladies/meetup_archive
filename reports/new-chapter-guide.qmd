@@ -7,7 +7,6 @@ slug: quarterly-summary
 categories:
   - reports
   - quarterly
-  
 tags:
   - summary
   - trends
@@ -41,8 +40,11 @@ year_ago_quarter_start <- current_quarter_start - years(1)
 events_analyzed <- events |>
   filter(!status %in% c("cancelled", "CANCELLED")) |>
   mutate(
-    event_date = as.Date(date),
-    is_virtual = str_detect(tolower(location %||% ""), "online|virtual|zoom|meet|not announced")
+    event_date = as.Date(datetime_utc),
+    is_virtual = str_detect(
+      tolower(location %||% ""),
+      "online|virtual|zoom|meet|not announced"
+    )
   )
 
 # Current quarter
@@ -51,11 +53,17 @@ current_events <- events_analyzed |>
 
 # Previous quarter
 previous_events <- events_analyzed |>
-  filter(event_date >= previous_quarter_start, event_date <= previous_quarter_end)
+  filter(
+    event_date >= previous_quarter_start,
+    event_date <= previous_quarter_end
+  )
 
 # Year ago quarter
 year_ago_events <- events_analyzed |>
-  filter(event_date >= year_ago_quarter_start, event_date <= year_ago_quarter_end)
+  filter(
+    event_date >= year_ago_quarter_start,
+    event_date <= year_ago_quarter_end
+  )
 
 # Calculate metrics
 current_total <- nrow(current_events)
@@ -70,13 +78,31 @@ year_ago_chapters <- n_distinct(year_ago_events$group_urlname)
 qoq_growth <- round((current_total - previous_total) / previous_total * 100, 1)
 yoy_growth <- round((current_total - year_ago_total) / year_ago_total * 100, 1)
 
-chapter_qoq <- round((current_chapters - previous_chapters) / previous_chapters * 100, 1)
-chapter_yoy <- round((current_chapters - year_ago_chapters) / year_ago_chapters * 100, 1)
+chapter_qoq <- round(
+  (current_chapters - previous_chapters) / previous_chapters * 100,
+  1
+)
+chapter_yoy <- round(
+  (current_chapters - year_ago_chapters) / year_ago_chapters * 100,
+  1
+)
 
 # Format quarter labels
-current_q <- paste0(year(current_quarter_start), " Q", quarter(current_quarter_start))
-previous_q <- paste0(year(previous_quarter_start), " Q", quarter(previous_quarter_start))
-year_ago_q <- paste0(year(year_ago_quarter_start), " Q", quarter(year_ago_quarter_start))
+current_q <- paste0(
+  year(current_quarter_start),
+  " Q",
+  quarter(current_quarter_start)
+)
+previous_q <- paste0(
+  year(previous_quarter_start),
+  " Q",
+  quarter(previous_quarter_start)
+)
+year_ago_q <- paste0(
+  year(year_ago_quarter_start),
+  " Q",
+  quarter(year_ago_quarter_start)
+)
 ```
 
 ### Quarter: `r current_q`
@@ -101,9 +127,15 @@ year_ago_q <- paste0(year(year_ago_quarter_start), " Q", quarter(year_ago_quarte
 quarterly_data <- tibble(
   quarter = c(year_ago_q, previous_q, current_q),
   events = c(year_ago_total, previous_total, current_total),
-  quarter_date = c(year_ago_quarter_start, previous_quarter_start, current_quarter_start)
+  quarter_date = c(
+    year_ago_quarter_start,
+    previous_quarter_start,
+    current_quarter_start
+  )
 ) |>
-  mutate(quarter = factor(quarter, levels = c(year_ago_q, previous_q, current_q)))
+  mutate(
+    quarter = factor(quarter, levels = c(year_ago_q, previous_q, current_q))
+  )
 
 ggplot(quarterly_data, aes(x = quarter, y = events)) +
   geom_col(fill = rladies_colors$purple) +
@@ -131,7 +163,9 @@ chapter_quarterly <- tibble(
   quarter = c(year_ago_q, previous_q, current_q),
   chapters = c(year_ago_chapters, previous_chapters, current_chapters)
 ) |>
-  mutate(quarter = factor(quarter, levels = c(year_ago_q, previous_q, current_q)))
+  mutate(
+    quarter = factor(quarter, levels = c(year_ago_q, previous_q, current_q))
+  )
 
 ggplot(chapter_quarterly, aes(x = quarter, y = chapters)) +
   geom_col(fill = rladies_colors$purple) +
@@ -166,7 +200,10 @@ ggplot(format_data, aes(x = "", y = n, fill = format)) +
   geom_col(width = 1) +
   coord_polar("y") +
   scale_fill_manual(
-    values = c("Virtual" = rladies_colors$purple, "In-Person" = rladies_colors$light_purple)
+    values = c(
+      "Virtual" = rladies_colors$purple,
+      "In-Person" = rladies_colors$light_purple
+    )
   ) +
   geom_text(
     aes(label = sprintf("%d\n(%.1f%%)", n, percentage)),
@@ -247,7 +284,8 @@ regional_current <- current_events |>
     region = case_when(
       country_code %in% c("US", "CA", "MX") ~ "North America",
       country_code %in% c("BR", "AR", "CL", "CO", "PE", "UY") ~ "Latin America",
-      country_code %in% c("GB", "FR", "DE", "ES", "IT", "NL", "BE", "CH", "AT") ~ "Europe",
+      country_code %in%
+        c("GB", "FR", "DE", "ES", "IT", "NL", "BE", "CH", "AT") ~ "Europe",
       country_code %in% c("AU", "NZ") ~ "Oceania",
       country_code %in% c("CN", "JP", "KR", "IN", "SG") ~ "Asia",
       country_code %in% c("ZA", "KE", "NG") ~ "Africa",
@@ -304,7 +342,11 @@ inactive_chapters <- previous_events |>
 
 chapter_status <- tibble(
   status = c("New/Reactivated", "Continuing", "Now Inactive"),
-  count = c(nrow(new_chapters), nrow(returning_chapters), nrow(inactive_chapters))
+  count = c(
+    nrow(new_chapters),
+    nrow(returning_chapters),
+    nrow(inactive_chapters)
+  )
 )
 
 ggplot(chapter_status, aes(x = status, y = count)) +
@@ -334,7 +376,7 @@ ggplot(chapter_status, aes(x = status, y = count)) +
 
 dow_current <- current_events |>
   mutate(
-    event_datetime = ymd_hms(start, quiet = TRUE),
+    event_datetime = ymd_hms(datetime_utc, quiet = TRUE),
     dow = wday(event_date, label = TRUE, week_start = 1)
   ) |>
   filter(!is.na(dow)) |>
@@ -374,22 +416,40 @@ metrics_comparison <- tibble(
     current_total,
     current_chapters,
     round(current_total / current_chapters, 1),
-    round(sum(current_events$is_virtual, na.rm = TRUE) / current_total * 100, 1),
-    round(sum(!current_events$is_virtual, na.rm = TRUE) / current_total * 100, 1)
+    round(
+      sum(current_events$is_virtual, na.rm = TRUE) / current_total * 100,
+      1
+    ),
+    round(
+      sum(!current_events$is_virtual, na.rm = TRUE) / current_total * 100,
+      1
+    )
   ),
   !!sym(previous_q) := c(
     previous_total,
     previous_chapters,
     round(previous_total / previous_chapters, 1),
-    round(sum(previous_events$is_virtual, na.rm = TRUE) / previous_total * 100, 1),
-    round(sum(!previous_events$is_virtual, na.rm = TRUE) / previous_total * 100, 1)
+    round(
+      sum(previous_events$is_virtual, na.rm = TRUE) / previous_total * 100,
+      1
+    ),
+    round(
+      sum(!previous_events$is_virtual, na.rm = TRUE) / previous_total * 100,
+      1
+    )
   ),
   !!sym(year_ago_q) := c(
     year_ago_total,
     year_ago_chapters,
     round(year_ago_total / year_ago_chapters, 1),
-    round(sum(year_ago_events$is_virtual, na.rm = TRUE) / year_ago_total * 100, 1),
-    round(sum(!year_ago_events$is_virtual, na.rm = TRUE) / year_ago_total * 100, 1)
+    round(
+      sum(year_ago_events$is_virtual, na.rm = TRUE) / year_ago_total * 100,
+      1
+    ),
+    round(
+      sum(!year_ago_events$is_virtual, na.rm = TRUE) / year_ago_total * 100,
+      1
+    )
   )
 )
 

@@ -37,9 +37,12 @@ previous_end <- report_start
 events_analyzed <- events |>
   filter(!status %in% c("cancelled", "CANCELLED")) |>
   mutate(
-    event_date = as.Date(date),
+    event_date = as.Date(datetime_utc),
     year = year(event_date),
-    is_virtual = str_detect(tolower(location %||% ""), "online|virtual|zoom|meet|not announced")
+    is_virtual = str_detect(
+      tolower(location %||% ""),
+      "online|virtual|zoom|meet|not announced"
+    )
   )
 
 # Current reporting period
@@ -62,8 +65,16 @@ total_events_current <- nrow(current_events)
 total_events_previous <- nrow(previous_events)
 
 # Calculate growth rates
-chapter_growth <- round((active_chapters_current - active_chapters_previous) / active_chapters_previous * 100, 1)
-event_growth <- round((total_events_current - total_events_previous) / total_events_previous * 100, 1)
+chapter_growth <- round(
+  (active_chapters_current - active_chapters_previous) /
+    active_chapters_previous *
+    100,
+  1
+)
+event_growth <- round(
+  (total_events_current - total_events_previous) / total_events_previous * 100,
+  1
+)
 
 # Virtual vs in-person
 virtual_count <- sum(current_events$is_virtual, na.rm = TRUE)
@@ -132,11 +143,43 @@ regional_events <- current_events |>
     country_code = str_extract(location, "[A-Z]{2}$"),
     region = case_when(
       country_code %in% c("US", "CA", "MX") ~ "North America",
-      country_code %in% c("BR", "AR", "CL", "CO", "PE", "UY", "EC", "BO", "VE") ~ "Latin America",
-      country_code %in% c("GB", "FR", "DE", "ES", "IT", "NL", "BE", "CH", "AT", "IE", 
-                          "PT", "SE", "NO", "DK", "FI", "PL", "CZ", "GR", "TR") ~ "Europe",
+      country_code %in%
+        c(
+          "BR",
+          "AR",
+          "CL",
+          "CO",
+          "PE",
+          "UY",
+          "EC",
+          "BO",
+          "VE"
+        ) ~ "Latin America",
+      country_code %in%
+        c(
+          "GB",
+          "FR",
+          "DE",
+          "ES",
+          "IT",
+          "NL",
+          "BE",
+          "CH",
+          "AT",
+          "IE",
+          "PT",
+          "SE",
+          "NO",
+          "DK",
+          "FI",
+          "PL",
+          "CZ",
+          "GR",
+          "TR"
+        ) ~ "Europe",
       country_code %in% c("AU", "NZ") ~ "Oceania",
-      country_code %in% c("CN", "JP", "KR", "IN", "SG", "TH", "MY", "ID", "PH", "TW") ~ "Asia",
+      country_code %in%
+        c("CN", "JP", "KR", "IN", "SG", "TH", "MY", "ID", "PH", "TW") ~ "Asia",
       country_code %in% c("ZA", "KE", "NG", "EG", "MA") ~ "Africa",
       is_virtual ~ "Virtual (Global)",
       TRUE ~ "Other"
@@ -147,13 +190,18 @@ regional_events <- current_events |>
 ggplot(regional_events, aes(x = n, y = reorder(region, n))) +
   geom_col(fill = rladies_colors$purple) +
   geom_text(
-    aes(label = sprintf("%d (%.1f%%)", n, n/sum(n)*100)),
+    aes(label = sprintf("%d (%.1f%%)", n, n / sum(n) * 100)),
     hjust = -0.1,
     size = 3.5
   ) +
   labs(
     title = "Events by Region",
-    subtitle = paste("Reporting period:", format(report_start, "%b %Y"), "-", format(report_end, "%b %Y")),
+    subtitle = paste(
+      "Reporting period:",
+      format(report_start, "%b %Y"),
+      "-",
+      format(report_end, "%b %Y")
+    ),
     x = "Number of Events",
     y = NULL
   ) +
@@ -164,9 +212,11 @@ ggplot(regional_events, aes(x = n, y = reorder(region, n))) +
 #| label: regional-summary
 #| include: false
 
-regions_served <- sum(regional_events$n[regional_events$region != "Virtual (Global)"] > 0)
-continents <- regional_events |> 
-  filter(region != "Virtual (Global)", region != "Other") |> 
+regions_served <- sum(
+  regional_events$n[regional_events$region != "Virtual (Global)"] > 0
+)
+continents <- regional_events |>
+  filter(region != "Virtual (Global)", region != "Other") |>
   nrow()
 ```
 
@@ -263,7 +313,12 @@ ggplot(top_chapters, aes(x = n, y = reorder(group_urlname, n))) +
   ) +
   labs(
     title = "Most Active Chapters",
-    subtitle = paste("Top 20 chapters:", format(report_start, "%b %Y"), "-", format(report_end, "%b %Y")),
+    subtitle = paste(
+      "Top 20 chapters:",
+      format(report_start, "%b %Y"),
+      "-",
+      format(report_end, "%b %Y")
+    ),
     x = "Number of Events",
     y = NULL
   ) +
@@ -287,8 +342,12 @@ chapter_health <- current_events |>
     ),
     activity_level = factor(
       activity_level,
-      levels = c("Very Active (12+ events)", "Active (6-11 events)", 
-                 "Moderate (3-5 events)", "New/Emerging (1-2 events)")
+      levels = c(
+        "Very Active (12+ events)",
+        "Active (6-11 events)",
+        "Moderate (3-5 events)",
+        "New/Emerging (1-2 events)"
+      )
     )
   ) |>
   count(activity_level)
@@ -296,7 +355,7 @@ chapter_health <- current_events |>
 ggplot(chapter_health, aes(x = activity_level, y = n)) +
   geom_col(fill = rladies_colors$purple) +
   geom_text(
-    aes(label = sprintf("%d\n(%.1f%%)", n, n/sum(n)*100)),
+    aes(label = sprintf("%d\n(%.1f%%)", n, n / sum(n) * 100)),
     vjust = -0.3,
     size = 3.5
   ) +
@@ -313,12 +372,14 @@ ggplot(chapter_health, aes(x = activity_level, y = n)) +
 #| label: health-metrics
 #| include: false
 
-very_active <- chapter_health |> 
-  filter(activity_level == "Very Active (12+ events)") |> 
+very_active <- chapter_health |>
+  filter(activity_level == "Very Active (12+ events)") |>
   pull(n)
-active_plus <- chapter_health |> 
-  filter(activity_level %in% c("Very Active (12+ events)", "Active (6-11 events)")) |> 
-  summarise(n = sum(n)) |> 
+active_plus <- chapter_health |>
+  filter(
+    activity_level %in% c("Very Active (12+ events)", "Active (6-11 events)")
+  ) |>
+  summarise(n = sum(n)) |>
   pull(n)
 ```
 

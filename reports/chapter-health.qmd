@@ -7,7 +7,6 @@ slug: chapter-health-report
 categories:
   - reports
   - monitoring
-  
 tags:
   - chapters
   - analytics
@@ -32,7 +31,7 @@ inactive_cutoff <- Sys.Date() - months(6)
 # Parse event dates
 events_parsed <- events |>
   mutate(
-    event_date = as.Date(date),
+    event_date = as.Date(datetime_utc),
     is_active = status %in% c("active", "ACTIVE")
   )
 

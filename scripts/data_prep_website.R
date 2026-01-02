@@ -40,9 +40,12 @@ website_events <- purrr::map_df(events, function(x) {
     going = x$rsvps$yesCount,
 
     duration = lubridate::as.duration(x$duration),
-    datetime = lubridate::as_datetime(x$dateTime, tz = "UTC"),
-    date = format(datetime, "%Y-%m-%d"),
-    original_tz = substr(x$dateTime, 20, 26),
+    datetime = x$dateTime,
+    datetime_utc = lubridate::as_datetime(datetime, tz = "UTC") |>
+      lubridate::with_tz(
+        tzone = "UTC"
+      ) |>
+      format("%Y-%m-%dT%H:%M:%S%z"),
 
     group_name = x$group$name,
     group_urlname = x$group$urlname,
@@ -62,7 +65,8 @@ website_events <- purrr::map_df(events, function(x) {
         venue_city %||% "",
         toupper(venue_country) %||% "",
         sep = ", "
-      )
+      ) |>
+        gsub(", , |, $", "", x = _)
     ),
 
     body = sprintf(
@@ -72,10 +76,7 @@ website_events <- purrr::map_df(events, function(x) {
       description,
       link
     )
-  ) |>
-    dplyr::mutate(
-      location = gsub(", , |, $", "", location)
-    )
+  )
 })
 
 # Create df for json -----
