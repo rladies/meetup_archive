@@ -119,7 +119,7 @@ chapters <- jsonlite::read_json(
       country_acronym = .x$country,
       state = .x$state,
       city = .x$city,
-      members = .x$memberships_count,
+      members = .x$memberships$totalCount,
       lat = .x$lat,
       lon = .x$lon,
       timezone = .x$timezone
