@@ -41,9 +41,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/9/b/9/thumb_531999353.jpeg"
     },
     "rsvps": {
-      "yesCount": 6,
+      "yesCount": 8,
       "waitlistCount": 0,
-      "totalCount": 6
+      "totalCount": 8
     },
     "venues": [
       {
@@ -84,7 +84,20 @@
       "waitlistCount": 0,
       "totalCount": 11
     },
-    "venues": [],
+    "venues": [
+      {
+        "id": "28187673",
+        "name": "Anschutz Health Sciences Building (P12) - P12-4160 Conference Room",
+        "address": "1890 N Revere Ct, Aurora, CO 80045 · Aurora, CO",
+        "city": "Aurora",
+        "state": "CO",
+        "country": "us",
+        "lat": 39.7453,
+        "lon": -104.8376,
+        "postalCode": "80045",
+        "venueType": ""
+      }
+    ],
     "group": {
       "name": "R-Ladies Aurora",
       "urlname": "rladies-aurora"
