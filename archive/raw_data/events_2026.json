@@ -1,5 +1,38 @@
 [
   {
+    "id": "312797152",
+    "title": "Coffee and Conversation ",
+    "description": "Join us for a morning of conversation and networking with fellow women in data. If you’re interested in data careers, looking to hire from underrepresented groups in data, or wanting to brainstorm about a project you’ve been working on, we’d love to see you.\n\nThis is an in-person event and refreshments will be provided, so we appreciate your RSVP.",
+    "status": "ACTIVE",
+    "dateTime": "2026-02-28T10:30:00-06:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-st-louis/events/312797152/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [
+      {
+        "id": "26174589",
+        "name": "Webster Groves Public Library",
+        "address": "301 E Lockwood Ave",
+        "city": "St. Louis",
+        "state": "MO",
+        "country": "us",
+        "lat": 38.5924,
+        "lon": -90.3505,
+        "postalCode": "63119",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies St. Louis",
+      "urlname": "rladies-st-louis"
+    }
+  },
+  {
     "id": "312266942",
     "title": "R shiny workshop",
     "description": "We will kick off 2026 with a workshop to learn R Shiny.",
