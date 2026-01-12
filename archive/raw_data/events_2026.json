@@ -15,9 +15,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/e/5/4/thumb_532164148.jpeg"
     },
     "rsvps": {
-      "yesCount": 10,
+      "yesCount": 11,
       "waitlistCount": 0,
-      "totalCount": 10
+      "totalCount": 11
     },
     "venues": [
       {
@@ -158,9 +158,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/e/2/0/thumb_532168192.jpeg"
     },
     "rsvps": {
-      "yesCount": 12,
+      "yesCount": 14,
       "waitlistCount": 0,
-      "totalCount": 12
+      "totalCount": 14
     },
     "venues": [
       {
@@ -218,6 +218,39 @@
     "group": {
       "name": "R-Ladies Aurora",
       "urlname": "rladies-aurora"
+    }
+  },
+  {
+    "id": "312822240",
+    "title": "[IN-PERSON] Coding Work Group",
+    "description": "Join your friendly R-Ladies RTP members to go over some of the challenging coding prompts from the belated 2025 Advent of Code competition this past December (https://adventofcode.com/). For those craving human connection and some practice flexing your data science skills, this is the event for you! This event is for people at all levels of R (beginner through advanced).\n\nAt this event, we'll discuss some of the solutions we came up with while working through the 2025 Advent of Code challenge in December. It will be a fun, informal discussion about what worked and what we're still stumped on.\n\nAgenda (all times in ET):\n6:30 - 7:00 pm Grab dinner or a treat at the Durham Food Hall\n7:00 - 8:00 pm Discussion of Advent of Code solutions\n\nWho is this for?\n**This event is especially well-suited for members who participate in the 2025 Advent of Code (which you can still sign up and try out)!** This event is for new and experienced R users alike! Let's learn together! All are welcome, including R-Ladies RTP members and R-Ladies from around the world.\n\nWhat should I bring?\nYou can bring your computer, if you'd like, otherwise bring your discussion points and questions related to the Advent of Code challenge.\n\nWhere will it take place?\nPlease join us in-person at the Durham Food Hall in downtown Durham, NC. Public parking is available along Foster Street.\n\nAll events are intended for women as leaders, mentors, members, and attendees. We are emphatically queer and trans friendly. Men are welcomed to attend *as guests* and must be accompanied by the R-Lady who invited them. This group was created so those who identify as women have a comfortable place to learn. If you would like to attend and feel excluded, please introduce yourself to an organizer.",
+    "status": "ACTIVE",
+    "dateTime": "2026-01-13T18:30:00-05:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-rtp/events/312822240/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 1,
+      "waitlistCount": 0,
+      "totalCount": 1
+    },
+    "venues": [
+      {
+        "id": "27760384",
+        "name": "Durham Food Hall",
+        "address": "530 Foster Street,",
+        "city": "Durham",
+        "state": "NC",
+        "country": "US",
+        "lat": 36.0012,
+        "lon": -78.9013,
+        "postalCode": "27701",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies RTP",
+      "urlname": "rladies-rtp"
     }
   },
   {
