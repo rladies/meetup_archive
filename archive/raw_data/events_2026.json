@@ -65,6 +65,57 @@
     }
   },
   {
+    "id": "312844640",
+    "title": "Analyse Factorielle Multiple: analyses de groupes de variables (quanti et quali)",
+    "description": "Nous présentons l’analyse factorielle multiple ou (AFM, Escofier & Pagès 1994) avec le package R [FactoMineR](http://factominer.free.fr/factomethods/analyse-factorielle-multiple.html) (Josse & Husson 2008). Cette approche a pour but de cibler de grandes tendances variationelles au sein d’un jeu de données comprenant plusieurs groupes de variables (ex : **groupe 1** « personnalité », **variable 1** : « timidité », **var. 2** : « résistance au stress », **var. 3** : « sociabilité » …). Les variables peuvent être qualitatives, quantitatives ou les deux. Le nombre de variables par groupe peut varier et l’importance de chaque groupe est pondérée de façon à ce qu’ils aient le même poids.\nCette approche est utilisée dans les études de comportement alimentaire (Ares et al. 2010), en écologie (Poulard et Léauté 2008), sensorimétrie (Stanimirova et al. 2011), sociolinguistique (Amand 2019) ou pour analyser les résultats de questionnaires d’enquête de satisfaction (Bécue-Bertaut et al. 2008). L’AFM permet, en outre, de hiérarchiser soit les variables, soit les groupes de variables en fonction de leur influence sur la variation générale.\nL’AFM met également en valeur les types de corrélation présents entre les variables.\nCombinée à une classification hiérarchique (Husson 2010), il est possible de construire des groupes d’individus basés sur les schémas variationnels dominants dégagés par l’AFM.\nDes graphiques accompagnent chaque tableau de diagnostique de l’AFM (grandes tendances, co-occurrence, groupes d’individus et individus médians ou atypiques), ce qui facilite l’interprétation.",
+    "status": "ACTIVE",
+    "dateTime": "2026-01-28T12:30:00+01:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-limoges/events/312844640/",
+    "featuredEventPhoto": {
+      "id": "532220002",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/e/2/2/highres_532220002.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/e/2/2/600_532220002.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/e/2/2/thumb_532220002.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 1,
+      "waitlistCount": 0,
+      "totalCount": 1
+    },
+    "venues": [
+      {
+        "id": "28189984",
+        "name": "Faculté des Lettres & des Sciences Humaines",
+        "address": "39e rue Camille Guérin 87036 Limoges - France",
+        "city": "Limoges",
+        "state": "",
+        "country": "fr",
+        "lat": 45.8112,
+        "lon": 1.238,
+        "postalCode": "meetup26",
+        "venueType": ""
+      },
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Limoges",
+      "urlname": "rladies-limoges"
+    }
+  },
+  {
     "id": "312625100",
     "title": "TidyTuesday",
     "description": "Join R-Ladies Ottawa for a casual evening of programming on Tuesday, January 27th. We'll be participating in TidyTuesday, a weekly data visualization challenge organized by the *R for Data Science* community.\n\n**What is TidyTuesday?**\n\nEvery week, a new dataset is posted online on the [TidyTuesday GitHub repo](https://github.com/rfordatascience/tidytuesday), and folks from around the world create data visualizations using the dataset. It's an opportunity to put your programming skills into practice using real-world data in a way that's fun! It's also a great way for everyone to learn from each other, by sharing their visualizations and code.\n\n**What will the dataset be?**\n\nEven we don't know that (yet)! We'll have to wait until the day before the event to know what data we'll be working with. If you're interested in seeing some past datasets, take a look at the examples below, or visit the [TidyTuesday GitHub repo](https://github.com/rfordatascience/tidytuesday) to see all of the datasets dating back to 2018.\n\n*Examples from past TidyTuesdays:*\n\n* [Donuts, Data, and D'oh - A Deep Dive into The Simpsons](https://github.com/rfordatascience/tidytuesday/blob/main/data/2025/2025-02-04/readme.md)\n* [Pokemon](https://github.com/rfordatascience/tidytuesday/blob/main/data/2025/2025-04-01/readme.md)\n* [What have we been watching on Netflix?](https://github.com/rfordatascience/tidytuesday/blob/main/data/2025/2025-07-29/readme.md)\n\n**Do I have to use R?**\n\nNo! You can use any programming language or visualization software that you want. In fact, Python users from around the globe participate in \"TyDyTuesday\" on a weekly basis.\n\n**Who is this event for?**\n\nNo previous programming experience is required to participate, and we'll have experienced programmers in the room who can help you get started (or unstuck), if needed.\n\n...But if you want to get the most out of the event, a good way to prepare is to watch the recording of the [introduction to data visualization workshop](https://rladies-ottawa.github.io/events/2024/intro_to_r.html) we hosted back in 2024. :)\n\n**What should I bring?**\n\n* Please bring a laptop so you can code along. We recommend that you have RStudio or another IDE (such as VS Code or Positron) installed ahead of time, but we can help you get one installed if needed!\n* Come ready to learn, share, and contribute to a safe and welcoming community!\n\n**How will this event work?**\n\n* First few minutes of the event: Introductions, and taking a look at the dataset together as a group.\n* Time to create a data visualization using the language or software of your choice, either on your own or with a (new) friend! Grab a free snack while you're at it :)\n* Last \\~30 minutes of the event: Show and tell session for anyone who would like to share their creation with the group.\n\n**What else do I need to know?**\n\nThis event (like all R-Ladies events) is totally FREE to attend.\n\nThe event will take place at Bayview Yards, which is located just a few steps away from the Bayview O-Train station. There is also a free parking lot available for those who are driving. You can find us in the \"Training Room\", which is on the second floor of the Bayview Yards building.\n\n*This is an in-person event with limited space! Please only RSVP if you are able to attend in-person!*\n\n**\\*\\*\\*Please note that the mission of R-Ladies is to increase gender diversity in the R community. This event is intended to provide a safe space for women and gender minorities. We ask for male allies to be invited by and accompanied by a woman or gender minority.\\*\\*\\***\n\nWe’re grateful to be part of the Bayview Meetups initiative and extend our thanks to Bayview Yards for generously providing the venue space.",
@@ -158,9 +209,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/e/2/0/thumb_532168192.jpeg"
     },
     "rsvps": {
-      "yesCount": 17,
+      "yesCount": 25,
       "waitlistCount": 0,
-      "totalCount": 17
+      "totalCount": 25
     },
     "venues": [
       {
@@ -197,9 +248,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/5/e/1/thumb_531990177.jpeg"
     },
     "rsvps": {
-      "yesCount": 17,
+      "yesCount": 18,
       "waitlistCount": 0,
-      "totalCount": 17
+      "totalCount": 18
     },
     "venues": [
       {
@@ -230,9 +281,9 @@
     "eventUrl": "https://www.meetup.com/rladies-rtp/events/312822240/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 1,
+      "yesCount": 2,
       "waitlistCount": 0,
-      "totalCount": 1
+      "totalCount": 2
     },
     "venues": [
       {
