@@ -170,9 +170,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/1/7/f/thumb_532144479.jpeg"
     },
     "rsvps": {
-      "yesCount": 8,
+      "yesCount": 9,
       "waitlistCount": 0,
-      "totalCount": 8
+      "totalCount": 9
     },
     "venues": [
       {
@@ -209,9 +209,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/e/2/0/thumb_532168192.jpeg"
     },
     "rsvps": {
-      "yesCount": 27,
+      "yesCount": 30,
       "waitlistCount": 0,
-      "totalCount": 27
+      "totalCount": 30
     },
     "venues": [
       {
@@ -236,7 +236,7 @@
     "id": "312616873",
     "title": "GWAS Overview and Single SNP Tests using R",
     "description": "**Join R-Ladies Aurora for our first event of 2026!**\nLearn the basics of genome-wide association studies (GWAS) and how to work with GWAS data using R. This beginner-friendly session will introduce key concepts, common workflows, and practical examples to help you get started analyzing genetic association data. No prior GWAS experience required.",
-    "status": "ACTIVE",
+    "status": "PAST",
     "dateTime": "2026-01-14T12:00:00-07:00",
     "duration": "PT1H30M",
     "eventUrl": "https://www.meetup.com/rladies-aurora/events/312616873/",
@@ -264,6 +264,18 @@
         "lon": -104.8376,
         "postalCode": "80045",
         "venueType": ""
+      },
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
       }
     ],
     "group": {
