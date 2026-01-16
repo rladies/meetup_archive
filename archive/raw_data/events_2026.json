@@ -1,5 +1,104 @@
 [
   {
+    "id": "312901066",
+    "title": "Intro to data visualization",
+    "description": "In collaboration with Free Library of Philadelphia",
+    "status": "ACTIVE",
+    "dateTime": "2026-05-06T18:00:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-philly/events/312901066/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 1,
+      "waitlistCount": 0,
+      "totalCount": 1
+    },
+    "venues": [
+      {
+        "id": "28166321",
+        "name": "Parkway Branch of the Free Library of Philadelphia",
+        "address": "1901 Vine Street",
+        "city": "Philadelphia",
+        "state": "PA",
+        "country": "us",
+        "lat": 39.9597,
+        "lon": -75.171,
+        "postalCode": "19103",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Philly",
+      "urlname": "rladies-philly"
+    }
+  },
+  {
+    "id": "312901048",
+    "title": "Career panel",
+    "description": "Panelists discussing the use of R in their career",
+    "status": "ACTIVE",
+    "dateTime": "2026-04-29T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-philly/events/312901048/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 1,
+      "waitlistCount": 0,
+      "totalCount": 1
+    },
+    "venues": [
+      {
+        "id": "28166321",
+        "name": "Parkway Branch of the Free Library of Philadelphia",
+        "address": "1901 Vine Street",
+        "city": "Philadelphia",
+        "state": "PA",
+        "country": "us",
+        "lat": 39.9597,
+        "lon": -75.171,
+        "postalCode": "19103",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Philly",
+      "urlname": "rladies-philly"
+    }
+  },
+  {
+    "id": "312900982",
+    "title": "Intro to tidyverse workshop",
+    "description": "In collaboration with the Free Library of Philadelphia.",
+    "status": "ACTIVE",
+    "dateTime": "2026-04-15T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-philly/events/312900982/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 2,
+      "waitlistCount": 0,
+      "totalCount": 2
+    },
+    "venues": [
+      {
+        "id": "28166321",
+        "name": "Parkway Branch of the Free Library of Philadelphia",
+        "address": "1901 Vine Street",
+        "city": "Philadelphia",
+        "state": "PA",
+        "country": "us",
+        "lat": 39.9597,
+        "lon": -75.171,
+        "postalCode": "19103",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Philly",
+      "urlname": "rladies-philly"
+    }
+  },
+  {
     "id": "312797152",
     "title": "Coffee and Conversation ",
     "description": "Join us for a morning of conversation and networking with fellow women in data. If you’re interested in data careers, looking to hire from underrepresented groups in data, or wanting to brainstorm about a project you’ve been working on, we’d love to see you.\n\nThis is an in-person event and refreshments will be provided, so we appreciate your RSVP.",
@@ -170,9 +269,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/1/7/f/thumb_532144479.jpeg"
     },
     "rsvps": {
-      "yesCount": 9,
+      "yesCount": 10,
       "waitlistCount": 0,
-      "totalCount": 9
+      "totalCount": 10
     },
     "venues": [
       {
@@ -209,9 +308,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/e/2/0/thumb_532168192.jpeg"
     },
     "rsvps": {
-      "yesCount": 31,
+      "yesCount": 35,
       "waitlistCount": 0,
-      "totalCount": 31
+      "totalCount": 35
     },
     "venues": [
       {
