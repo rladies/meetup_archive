@@ -164,6 +164,45 @@
     }
   },
   {
+    "id": "312910723",
+    "title": "Git & GitHub: Practical Version Control for Data Work",
+    "description": "Version control is no longer optional for data analysis, research, or collaborative projects.\nIn this session, we introduce **Git and GitHub** with a practical, workflow-driven approach.\n\nWe will cover:\n\n* What Git is and why it matters for reproducibility and collaboration\n* Core concepts: repositories, commits, branches, and history\n* Using GitHub to share work, track changes, and collaborate safely\n* Common workflows for data scientists and analysts\n\nThe session is designed for beginners and self-taught users who want a clear mental model and practical habits they can immediately apply.\n\nNo prior experience with Git is required.\nBring curiosity and your laptop.",
+    "status": "ACTIVE",
+    "dateTime": "2026-01-29T18:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-rome/events/312910723/",
+    "featuredEventPhoto": {
+      "id": "532273858",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/6/2/2/highres_532273858.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/6/2/2/600_532273858.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/6/2/2/thumb_532273858.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 24,
+      "waitlistCount": 0,
+      "totalCount": 24
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Rome",
+      "urlname": "rladies-rome"
+    }
+  },
+  {
     "id": "312844640",
     "title": "Analyse Factorielle Multiple: analyses de groupes de variables (quanti et quali)",
     "description": "Nous présentons l’analyse factorielle multiple ou (AFM, Escofier & Pagès 1994) avec le package R [FactoMineR](http://factominer.free.fr/factomethods/analyse-factorielle-multiple.html) (Josse & Husson 2008). Cette approche a pour but de cibler de grandes tendances variationelles au sein d’un jeu de données comprenant plusieurs groupes de variables (ex : **groupe 1** « personnalité », **variable 1** : « timidité », **var. 2** : « résistance au stress », **var. 3** : « sociabilité » …). Les variables peuvent être qualitatives, quantitatives ou les deux. Le nombre de variables par groupe peut varier et l’importance de chaque groupe est pondérée de façon à ce qu’ils aient le même poids.\nCette approche est utilisée dans les études de comportement alimentaire (Ares et al. 2010), en écologie (Poulard et Léauté 2008), sensorimétrie (Stanimirova et al. 2011), sociolinguistique (Amand 2019) ou pour analyser les résultats de questionnaires d’enquête de satisfaction (Bécue-Bertaut et al. 2008). L’AFM permet, en outre, de hiérarchiser soit les variables, soit les groupes de variables en fonction de leur influence sur la variation générale.\nL’AFM met également en valeur les types de corrélation présents entre les variables.\nCombinée à une classification hiérarchique (Husson 2010), il est possible de construire des groupes d’individus basés sur les schémas variationnels dominants dégagés par l’AFM.\nDes graphiques accompagnent chaque tableau de diagnostique de l’AFM (grandes tendances, co-occurrence, groupes d’individus et individus médians ou atypiques), ce qui facilite l’interprétation.",
@@ -269,9 +308,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/1/7/f/thumb_532144479.jpeg"
     },
     "rsvps": {
-      "yesCount": 10,
+      "yesCount": 11,
       "waitlistCount": 0,
-      "totalCount": 10
+      "totalCount": 11
     },
     "venues": [
       {
