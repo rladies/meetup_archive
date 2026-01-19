@@ -140,7 +140,7 @@
   {
     "id": "312266942",
     "title": "R shiny workshop",
-    "description": "We will kick off 2026 with a workshop to learn R Shiny.",
+    "description": "We will kick off 2026 with a workshop to learn R Shiny by PhD Candidate Rachel McLeod.",
     "status": "ACTIVE",
     "dateTime": "2026-02-03T17:00:00+01:00",
     "duration": "PT1H30M",
@@ -157,7 +157,20 @@
       "waitlistCount": 0,
       "totalCount": 4
     },
-    "venues": [],
+    "venues": [
+      {
+        "id": "27789840",
+        "name": "Central Building 2, NTNU",
+        "address": "Alfred Getz' vei 1",
+        "city": "Trondheim",
+        "state": "",
+        "country": "no",
+        "lat": 63.4176,
+        "lon": 10.404,
+        "postalCode": "7034",
+        "venueType": ""
+      }
+    ],
     "group": {
       "name": "R-Ladies Trondheim",
       "urlname": "rladies-trondheim"
@@ -179,9 +192,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/6/2/2/thumb_532273858.jpeg"
     },
     "rsvps": {
-      "yesCount": 53,
+      "yesCount": 55,
       "waitlistCount": 0,
-      "totalCount": 53
+      "totalCount": 55
     },
     "venues": [
       {
@@ -308,9 +321,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/1/7/f/thumb_532144479.jpeg"
     },
     "rsvps": {
-      "yesCount": 13,
+      "yesCount": 14,
       "waitlistCount": 0,
-      "totalCount": 13
+      "totalCount": 14
     },
     "venues": [
       {
