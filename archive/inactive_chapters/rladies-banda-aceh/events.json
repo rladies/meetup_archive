@@ -1,0 +1,431 @@
+[
+  {
+    "id": "274857547",
+    "title": "Second Meetup (Pertemuan 002) - Mengenal R dan RStudio Part II",
+    "description": "Dear R-Ladies,\n\nIt's time to meetup again!\n\nMateri:\n1. Types of data in R\n2. Import data in R\n3. Index and modify data\n4. Functions\n5. Loops\n\nSebelum pelatihan, harap menginstall R dan RStudio di:\nhttps://repo.bppt.go.id/cran/\nhttps://rstudio.com/products/rstudio/download/#download\nJika ingin membuat package, ataupun install package dari \"source\" sehingga bisa otak atik package lain, download Rtools (Windows):\nhttps://repo.bppt.go.id/cran/bin/windows/Rtools/\nMohon sesuaikan dengan OS dan kebutuhan.\n\nWe hope to see you there,\nR-Ladies Banda Aceh Organizers",
+    "status": "PAST",
+    "dateTime": "2020-11-29T10:00:00+07:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-banda-aceh/events/274857547/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 0,
+      "waitlistCount": 0,
+      "totalCount": 0
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Banda Aceh",
+      "urlname": "rladies-banda-aceh"
+    }
+  },
+  {
+    "id": "273245370",
+    "title": "First Meetup (Pertemuan 001) - Mengenal R dan RStudio",
+    "description": "Dear R-Ladies,\n\nLets meetup for the first time!\n\nAgenda singkat:\n\nPembukaan\n(5 menit pertama)\n1. Pembukaan oleh Moderator\n2. Kata sambutan oleh Ketua Departemen SS Himasta Unsyiah - Syafinatur Rahmi\n\nPenyampaian Materi oleh Salsabila Mahdi\n(15 menit)\n3. Pengenalan R-Ladies dan sesi kenalan sekilas bersama\n4. Pengenalan Pemrograman dan R\n(15 menit)\n5. Setup RStudio - environment, profile, library path, options, etc\n6. Packages - cara install dan help pages\n(sisa waktu)\n7. Praktik langsung - menjalankan sintaks \"menarik\"\n\nSebelum pelatihan, harap sudah menginstall R dan RStudio di:\nhttps://repo.bppt.go.id/cran/\nhttps://rstudio.com/products/rstudio/download/#download\nJika ingin membuat package, ataupun install package dari \"source\" sehingga bisa otak atik package lain, download Rtools (Windows):\nhttps://repo.bppt.go.id/cran/bin/windows/Rtools/\nMohon sesuaikan dengan OS dan kebutuhan.\n\nWe hope to see you there,\nR-Ladies Banda Aceh Organizers\n\nPS: Bagi yang belum, jangan lupa mengisi form pendaftaran agar konten pertemuan dapat disesuaikan:\nhttps://cutt.ly/daftarrladies\n\nPPS: Khusus R-Ladies!",
+    "status": "PAST",
+    "dateTime": "2020-09-19T14:00:00+07:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-banda-aceh/events/273245370/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 15,
+      "waitlistCount": 0,
+      "totalCount": 15
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Banda Aceh",
+      "urlname": "rladies-banda-aceh"
+    }
+  },
+  {
+    "id": "281456718",
+    "title": "Third Meetup (Pertemuan 003) - Mengenal R dan RStudio Part I and II",
+    "description": "Dear R-Ladies,\n\nIt's time to meetup again!\n\nMaterial:\n1. Short Introduction to R-Ladies, R, and RStudio\n2. Types of data in R\n3. Import data in R\n4. Index and modify data\n5. Functions\n\nSebelum pelatihan, harap menginstall R dan RStudio di:\nhttps://repo.bppt.go.id/cran/\nhttps://rstudio.com/products/rstudio/download/#download\nJika ingin membuat package, ataupun install package dari \"source\" sehingga bisa otak atik package lain, download Rtools (Windows):\nhttps://repo.bppt.go.id/cran/bin/windows/Rtools/\nMohon sesuaikan dengan OS dan kebutuhan.\n\nWe hope to see you there,\nR-Ladies Banda Aceh Organizers",
+    "status": "PAST",
+    "dateTime": "2021-10-16T10:30:00+07:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-banda-aceh/events/281456718/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 14,
+      "waitlistCount": 0,
+      "totalCount": 14
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Banda Aceh",
+      "urlname": "rladies-banda-aceh"
+    }
+  },
+  {
+    "id": "283271873",
+    "title": "Pertemuan 004",
+    "description": "3 hours of basic R material, 1 hour of direct implementation. Target audience: younger ladies, such as high school students.",
+    "status": "PAST",
+    "dateTime": "2022-01-15T14:00:00+07:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-banda-aceh/events/283271873/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 23,
+      "waitlistCount": 0,
+      "totalCount": 23
+    },
+    "venues": [
+      {
+        "id": "27248949",
+        "name": "Kantor BKKBN Aceh",
+        "address": "",
+        "city": "Banda Aceh City",
+        "state": "Ac",
+        "country": "id",
+        "lat": 5.57,
+        "lon": 95.3425,
+        "postalCode": "23115",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Banda Aceh",
+      "urlname": "rladies-banda-aceh"
+    }
+  },
+  {
+    "id": "299865429",
+    "title": "R Bootcamp 2024 Guest Lecture: A Data Driven Exploration with R Analytics",
+    "description": "Guest Lecture and Final day of R Bootcamp 2024: Unveiling Customer Satisfaction \"A Data-Driven Exploration with R Analytics\"\n\nThe meet will be held online via Zoom (link shared through participants WhatsApp). Make sure to have R and RStudio installed on your laptop. A recording of the session will be available (unlisted on YouTube) until the last day of the Bootcamp.\n\nRegister via bit.ly/GuestLecture_RBC2024",
+    "status": "PAST",
+    "dateTime": "2024-03-24T16:00:00+07:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-banda-aceh/events/299865429/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 11,
+      "waitlistCount": 0,
+      "totalCount": 11
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Banda Aceh",
+      "urlname": "rladies-banda-aceh"
+    }
+  },
+  {
+    "id": "299865333",
+    "title": "R Bootcamp 2024 #5 Case Study Regression Model for Performance Analysis",
+    "description": "Fifth day of R Bootcamp 2024: Case Study for Performance Analysis\n\nThe meet will be held online via Zoom (link shared through participants WhatsApp). Make sure to have R and RStudio installed on your laptop. A recording of the session will be available (unlisted on YouTube) until the last day of the Bootcamp.",
+    "status": "PAST",
+    "dateTime": "2024-03-22T16:00:00+07:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-banda-aceh/events/299865333/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 7,
+      "waitlistCount": 0,
+      "totalCount": 7
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Banda Aceh",
+      "urlname": "rladies-banda-aceh"
+    }
+  },
+  {
+    "id": "299865321",
+    "title": "R Bootcamp 2024 #4 Statistical Analysis with R",
+    "description": "Fourth day of R Bootcamp 2024: Statistical Analysis with R\n\nThe meet will be held online via Zoom (link shared through participants WhatsApp). Make sure to have R and RStudio installed on your laptop. A recording of the session will be available (unlisted on YouTube) until the last day of the Bootcamp.",
+    "status": "PAST",
+    "dateTime": "2024-03-21T16:00:00+07:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-banda-aceh/events/299865321/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 7,
+      "waitlistCount": 0,
+      "totalCount": 7
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Banda Aceh",
+      "urlname": "rladies-banda-aceh"
+    }
+  },
+  {
+    "id": "299865276",
+    "title": "R Bootcamp 2024 #3 Exploratory Data Analysis (EDA)",
+    "description": "Third day of R Bootcamp 2024: Exploratory Data Analysis (EDA)\n\nThe meet will be held online via Zoom (link shared through participants WhatsApp). Make sure to have R and RStudio installed on your laptop. A recording of the session will be available (unlisted on YouTube) until the last day of the Bootcamp.",
+    "status": "PAST",
+    "dateTime": "2024-03-20T16:00:00+07:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-banda-aceh/events/299865276/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 7,
+      "waitlistCount": 0,
+      "totalCount": 7
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Banda Aceh",
+      "urlname": "rladies-banda-aceh"
+    }
+  },
+  {
+    "id": "299865212",
+    "title": "R Bootcamp 2024 #2 Data Manipulation and Descriptive Statistics",
+    "description": "Second day of R Bootcamp 2024: Descriptive Statistics\n\nThe meet will be held online via Zoom (link shared through participants WhatsApp). Make sure to have R and RStudio installed on your laptop. A recording of the session will be available (unlisted on YouTube) until the last day of the Bootcamp.",
+    "status": "PAST",
+    "dateTime": "2024-03-19T16:00:00+07:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-banda-aceh/events/299865212/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 8,
+      "waitlistCount": 0,
+      "totalCount": 8
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Banda Aceh",
+      "urlname": "rladies-banda-aceh"
+    }
+  },
+  {
+    "id": "299865048",
+    "title": "R Bootcamp 2024 #1 Introduction to R",
+    "description": "First day of R Bootcamp 2024: Introduction to R Programming.\n\nThe meet will be held online via Zoom (link shared through participants WhatsApp). Make sure to have R and RStudio installed on your laptop. A recording of the session will be available (unlisted on YouTube) until the last day of the Bootcamp.",
+    "status": "PAST",
+    "dateTime": "2024-03-18T18:00:00+07:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-banda-aceh/events/299865048/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 2,
+      "waitlistCount": 0,
+      "totalCount": 2
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Banda Aceh",
+      "urlname": "rladies-banda-aceh"
+    }
+  },
+  {
+    "id": "305625913",
+    "title": "[Day 3] R Training of Trainers for Highschool Students and Teachers in Pidie",
+    "description": "\"Coding for the Future: Memahami Bahasa Pemrograman untuk Peningkatan Literasi dan Numerasi\"\n\nDay 3\n\n1. Case Study\n2. RShiny\n3. Wrap-up and Discussion\n\nNote: Participants must be pre-registered.",
+    "status": "PAST",
+    "dateTime": "2025-01-19T08:00:00+07:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-banda-aceh/events/305625913/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "27956763",
+        "name": "Sekolah Sukma Bangsa Pidie",
+        "address": "Jln. Pineung-Kota Bakti, Desa Bale Pineung, Kecamatan Peukan Baro, Kabupaten Pidie, Aceh 24172",
+        "city": "Pidie Regency",
+        "state": "",
+        "country": "id",
+        "lat": 5.3058,
+        "lon": 95.9548,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Banda Aceh",
+      "urlname": "rladies-banda-aceh"
+    }
+  },
+  {
+    "id": "305625898",
+    "title": "[Day 2] R Training of Trainers for Highschool Students and Teachers in Pidie",
+    "description": "\"Coding for the Future: Memahami Bahasa Pemrograman untuk Peningkatan Literasi dan Numerasi\"\n\nDay 2\n\n1. Reading and Exploring Data\n2. Intro to Data Structures in R\n3. Data Manipulation\n4. Data Visualization\n\nNote: Participants must be pre-registered.",
+    "status": "PAST",
+    "dateTime": "2025-01-18T08:00:00+07:00",
+    "duration": "PT9H",
+    "eventUrl": "https://www.meetup.com/rladies-banda-aceh/events/305625898/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 11,
+      "waitlistCount": 0,
+      "totalCount": 11
+    },
+    "venues": [
+      {
+        "id": "27956763",
+        "name": "Sekolah Sukma Bangsa Pidie",
+        "address": "Jln. Pineung-Kota Bakti, Desa Bale Pineung, Kecamatan Peukan Baro, Kabupaten Pidie, Aceh 24172",
+        "city": "Pidie Regency",
+        "state": "",
+        "country": "id",
+        "lat": 5.3058,
+        "lon": 95.9548,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Banda Aceh",
+      "urlname": "rladies-banda-aceh"
+    }
+  },
+  {
+    "id": "305625870",
+    "title": "[Day 1] R Training of Trainers for Highschool Students and Teachers in Pidie",
+    "description": "\"Coding for the Future: Memahami Bahasa Pemrograman untuk Peningkatan Literasi dan Numerasi\"\n\nDay 1\n\n1. Pengenalan Bahasa Pemrograman\n2. Instalasi R dan RStudio\n3. Mengenal Sintaks Dasar dan Cara Kerja R\n4. Fungsi\n5. Loops\n\nNote: Participants must be pre-registered.",
+    "status": "PAST",
+    "dateTime": "2025-01-17T08:00:00+07:00",
+    "duration": "PT9H",
+    "eventUrl": "https://www.meetup.com/rladies-banda-aceh/events/305625870/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 2,
+      "waitlistCount": 0,
+      "totalCount": 2
+    },
+    "venues": [
+      {
+        "id": "27956759",
+        "name": "Sekolah Sukma Bangsa Pidie",
+        "address": "Jln. Pineung-Kota Bakti, Desa Bale Pineung, Kecamatan Peukan Baro, Kabupaten Pidie, Aceh 24172",
+        "city": "Pidie Regency",
+        "state": "",
+        "country": "id",
+        "lat": 5.3058,
+        "lon": 95.9548,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Banda Aceh",
+      "urlname": "rladies-banda-aceh"
+    }
+  }
+]
