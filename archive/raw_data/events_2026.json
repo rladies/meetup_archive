@@ -114,9 +114,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/e/5/4/thumb_532164148.jpeg"
     },
     "rsvps": {
-      "yesCount": 11,
+      "yesCount": 12,
       "waitlistCount": 0,
-      "totalCount": 11
+      "totalCount": 12
     },
     "venues": [
       {
@@ -203,6 +203,45 @@
     }
   },
   {
+    "id": "313003756",
+    "title": "Programando en R con GitHub Copilot",
+    "description": "R-Ladies Santa Rosa invita a una charla para descubrir cómo **GitHub Copilot puede integrarse en el trabajo diario con R.**\n\n**Yanina Bellini Saibene mostrará aplicaciones prácticas tanto en la interfaz de GitHub como en RStudio,** explorando cómo este asistente ayuda a escribir código y a probar ideas.\n\nNo se requiere experiencia previa con Copilot, solo curiosidad por nuevas formas de programar y compartir en comunidad.\n\n¡Te esperamos!",
+    "status": "ACTIVE",
+    "dateTime": "2026-01-31T10:00:00-03:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-santa-rosa/events/313003756/",
+    "featuredEventPhoto": {
+      "id": "532373983",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/2/d/f/highres_532373983.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/2/d/f/600_532373983.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/2/d/f/thumb_532373983.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santa Rosa",
+      "urlname": "rladies-santa-rosa"
+    }
+  },
+  {
     "id": "312910723",
     "title": "Git & GitHub: Practical Version Control for Data Work",
     "description": "Version control is no longer optional for data analysis, research, or collaborative projects.\nIn this session, we introduce **Git and GitHub** with a practical, workflow-driven approach.\n\nWe will cover:\n\n* What Git is and why it matters for reproducibility and collaboration\n* Core concepts: repositories, commits, branches, and history\n* Using GitHub to share work, track changes, and collaborate safely\n* Common workflows for data scientists and analysts\n\nThe session is designed for beginners and self-taught users who want a clear mental model and practical habits they can immediately apply.\n\nNo prior experience with Git is required.\nBring curiosity and your laptop.",
@@ -218,9 +257,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/6/2/2/thumb_532273858.jpeg"
     },
     "rsvps": {
-      "yesCount": 73,
+      "yesCount": 75,
       "waitlistCount": 0,
-      "totalCount": 73
+      "totalCount": 75
     },
     "venues": [
       {
@@ -386,9 +425,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/e/2/0/thumb_532168192.jpeg"
     },
     "rsvps": {
-      "yesCount": 83,
+      "yesCount": 81,
       "waitlistCount": 0,
-      "totalCount": 83
+      "totalCount": 81
     },
     "venues": [
       {
