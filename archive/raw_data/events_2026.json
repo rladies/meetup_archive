@@ -99,6 +99,45 @@
     }
   },
   {
+    "id": "313055670",
+    "title": "Save the Date: Maps in R",
+    "description": "This will be a virtual event.\nDescription is TBD. Topic is making maps in R.",
+    "status": "ACTIVE",
+    "dateTime": "2026-04-09T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-st-louis/events/313055670/",
+    "featuredEventPhoto": {
+      "id": "532436673",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/d/6/1/highres_532436673.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/d/6/1/600_532436673.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/d/6/1/thumb_532436673.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 1,
+      "waitlistCount": 0,
+      "totalCount": 1
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies St. Louis",
+      "urlname": "rladies-st-louis"
+    }
+  },
+  {
     "id": "312797152",
     "title": "Coffee and Conversation ",
     "description": "Join us for a morning of conversation and networking with fellow women in data. If you’re interested in data careers, looking to hire from underrepresented groups in data, or wanting to brainstorm about a project you’ve been working on, we’d love to see you.\n\nThis is an in-person event and refreshments will be provided, so we appreciate your RSVP.",
@@ -257,9 +296,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/e/d/4/thumb_532408372.jpeg"
     },
     "rsvps": {
-      "yesCount": 93,
+      "yesCount": 94,
       "waitlistCount": 0,
-      "totalCount": 93
+      "totalCount": 94
     },
     "venues": [
       {
