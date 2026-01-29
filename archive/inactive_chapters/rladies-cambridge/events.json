@@ -1,0 +1,418 @@
+[
+  {
+    "id": "264495865",
+    "title": "R-Ladies Cambridge Organisers kick-off meeting",
+    "description": "If you would like to be part of the R-Ladies team, join us on 13 September 2018 at 6pm for a kick-off meeting.\n\nPlease email alexia@rladies.org if you would like to attend and for more information.",
+    "status": "PAST",
+    "dateTime": "2019-09-13T18:00:00+01:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-cambridge/events/264495865/",
+    "featuredEventPhoto": {
+      "id": "484533716",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/3/b/4/highres_484533716.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/3/b/4/600_484533716.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/3/b/4/thumb_484533716.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 10,
+      "waitlistCount": 0,
+      "totalCount": 10
+    },
+    "venues": [],
+    "group": {
+      "name": "R-Ladies Cambridge",
+      "urlname": "rladies-cambridge"
+    }
+  },
+  {
+    "id": "271866242",
+    "title": "Reproducible computation at scale with drake",
+    "description": "The techniques in this tutorial enhance the maintainability, hygiene, speed, scale, and reproducibility of complicated projects with long runtimes. The drake R package resolves the dependency structure of data analysis pipelines, skips tasks that are already up to date, and cleanly organizes the output. Workflows with drake are efficient to maintain, and they provide tangible evidence that the results are synchronized with the underlying code and data, which increases one’s ability to trust the conclusions of the research.\n\nLearning objectives:\n1. Function-oriented programming: participants will learn to express data analysis tasks as user-defined\nfunctions, experience the advantages of functions relative to imperative scripts, and understand the role\nof functions in drake-powered projects.\n2. Declarative workflows: students will declare targets to represent data analysis artifacts, identify the\ndependencies of those targets, and inspect the emergent dependency structures of entire workflows.\n3. Project maintenance: students will experience drake’s responses to changing code and data, and they\nwill understand the conditions that allow drake to skip computation and save time.\n4. Large plans: participants will practice declaring large collections of targets compactly using drake’s\ndomain-specific language.\n\nComputing requirements:\nEach participant must have a laptop with a web browser and the ability to connect to the internet. Students will spend most of their time\nworking through R notebooks and supporting Shiny applications.\n• notebooks: https://github.com/wlandau/learndrake/tree/master/inst/notebooks\n• learndrakeflow app: https://wlandau.shinyapps.io/learndrakeflow\n• learndrakeplans app: https://wlandau.shinyapps.io/learndrakeplans\n• drakeplanner app: https://wlandau.shinyapps.io/drakeplanner\nOnline RStudio Server instances will be provided so participants can interact with the notebooks without\nneeding to install anything locally.\n\nThe instructor:\nWill Landau received his PhD in Statistics at Iowa State University in 2016. His dissertation research\nintroduced a novel fully Bayesian, hierarchical model-driven, GPU-accelerated approach to the analysis of heterosis gene expression data (Landau, Niemi, and Nettleton 2019). He currently works at Eli Lilly and\nCompany, where he develops capabilities for clinical statisticians.\nWill is the creator and maintainer of rOpenSci’s drake R package. His most recent presentations on drake are the rOpenSci Community Call on September 24, 2019 (video recording at https://ropensci.org/commcalls/\n2019-09-24) (Landau and Butland 2019) and a half-day workshop at R/Pharma 2019 (Landau 2019).\n\nhttps://www.linkedin.com/in/wlandau/\nhttps://wlandau.github.io\nhttps://github.com/wlandau",
+    "status": "PAST",
+    "dateTime": "2020-08-04T16:00:00+01:00",
+    "duration": "PT4H",
+    "eventUrl": "https://www.meetup.com/rladies-cambridge/events/271866242/",
+    "featuredEventPhoto": {
+      "id": "491329737",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/2/4/9/highres_491329737.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/2/4/9/600_491329737.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/2/4/9/thumb_491329737.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 100,
+      "waitlistCount": 2,
+      "totalCount": 100
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Cambridge",
+      "urlname": "rladies-cambridge"
+    }
+  },
+  {
+    "id": "290195812",
+    "title": "How to be a resilient R coder without hands.",
+    "description": "Hands-free programming may seem like magic, but it is real and it has a name: Talon. It is the solution when pathologies such as tendinitis and arthritis prevent you from working on the computer.\nNancy Rebout will talk about her experience programming in R with a tendinitis pathology, and how she overcame all the issues, and she became a resilient R-coder.",
+    "status": "PAST",
+    "dateTime": "2022-12-20T18:00:00Z",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-cambridge/events/290195812/",
+    "featuredEventPhoto": {
+      "id": "509202740",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/6/f/4/highres_509202740.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/6/f/4/600_509202740.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/6/f/4/thumb_509202740.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 19,
+      "waitlistCount": 0,
+      "totalCount": 19
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Cambridge",
+      "urlname": "rladies-cambridge"
+    }
+  },
+  {
+    "id": "293607608",
+    "title": "Data visualisation with R at the Economist",
+    "description": "*Rosamund Pearce will describe how she uses R to produce data visualisations for The Economist, with a focus on what aspects of data visualisation R is useful for and areas where other tools remain a better choice*",
+    "status": "PAST",
+    "dateTime": "2023-07-10T12:00:00+01:00",
+    "duration": "PT45M",
+    "eventUrl": "https://www.meetup.com/rladies-cambridge/events/293607608/",
+    "featuredEventPhoto": {
+      "id": "513882911",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/f/highres_513882911.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/f/600_513882911.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/f/thumb_513882911.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 51,
+      "waitlistCount": 26,
+      "totalCount": 51
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Cambridge",
+      "urlname": "rladies-cambridge"
+    }
+  },
+  {
+    "id": "293991363",
+    "title": "o.m.gg, it’s alive!  How to create interactive ggplots with ggiraph",
+    "description": "{ggplot2} is one of the most popular visualization libraries in R, allowing users to customize and design high-quality charts and graphs. In this talk, we’ll explore how you can convert ggplots into interactive plots using an extension package, {ggiraph}.\n\nPlease remember on the day of the meetup to access Zoom using the same name as you registered on the Meetup. For security reasons, I will only accept the people the name on Zoom match the name on Meetup. Thanks for your understanding.",
+    "status": "PAST",
+    "dateTime": "2023-06-23T12:30:00+01:00",
+    "duration": "PT45M",
+    "eventUrl": "https://www.meetup.com/rladies-cambridge/events/293991363/",
+    "featuredEventPhoto": {
+      "id": "513461680",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/2/d/0/highres_513461680.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/2/d/0/600_513461680.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/2/d/0/thumb_513461680.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 32,
+      "waitlistCount": 0,
+      "totalCount": 32
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": 0,
+        "lon": 0,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Cambridge",
+      "urlname": "rladies-cambridge"
+    }
+  },
+  {
+    "id": "291905265",
+    "title": "Custom colour scales for {ggplot2}",
+    "description": "For the second dataviz lunchtime meetup, Nicola Rennie will talk about colours.\n\nAbstract:\nThere are many colour palette packages in R that are compatible with {ggplot2}, but sometimes you might want to use your own choice of colours. For example, you might want them to match company or university branding guidelines. In this talk, I'll show you how to make your own custom colour scale functions to add your own colours to {ggplot2} graphics – no more copying and pasting \\`scale_colour_manual()\\`!\n\nAgenda:\n12 pm GMT Talk\n12.20 pm GMT Q&A with the speaker\n12.45 pm GMT End of the meetup\n\nPlease be aware that the talk will be at 12 pm UK time. Check your time zone before registering.",
+    "status": "PAST",
+    "dateTime": "2023-03-23T12:00:00Z",
+    "duration": "PT45M",
+    "eventUrl": "https://www.meetup.com/rladies-cambridge/events/291905265/",
+    "featuredEventPhoto": {
+      "id": "510955372",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/8/4/c/highres_510955372.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/8/4/c/600_510955372.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/8/4/c/thumb_510955372.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 39,
+      "waitlistCount": 0,
+      "totalCount": 39
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Cambridge",
+      "urlname": "rladies-cambridge"
+    }
+  },
+  {
+    "id": "291981492",
+    "title": "Exploratory visualization of spatial data  with {mapview}",
+    "description": "Agenda:\n12 pm GMT Talk\n12:20 pm GMT Q&A\n12.40 pm GMT Conclusion\n\nDescription\nR has several great packages for creating maps, but if you're looking for speed and ease, it's hard to beat mapview. Sharon will demo how little code you need to create an interactive map to visualize, explore, and share spatial data.\n\n!!!! Please be aware that the talk will be at 12 pm UK time. Check your time zone before registering!!!",
+    "status": "PAST",
+    "dateTime": "2023-03-21T12:00:00Z",
+    "duration": "PT45M",
+    "eventUrl": "https://www.meetup.com/rladies-cambridge/events/291981492/",
+    "featuredEventPhoto": {
+      "id": "511020243",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/f/3/highres_511020243.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/f/3/600_511020243.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/f/3/thumb_511020243.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 34,
+      "waitlistCount": 0,
+      "totalCount": 34
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Cambridge",
+      "urlname": "rladies-cambridge"
+    }
+  },
+  {
+    "id": "291446523",
+    "title": "Beautifully annotated: enhancing your ggplots with text",
+    "description": "We are pleased to start this first data visualisation's series of lunch with R-Ladies.\n\nProgramme:\n12 pm Talk\n12:20 pm Q&A\n12.40 Conclusion\n\nDescription:\nApplying design principles to the text in our graphs, and making text an integral part of the visualisation, can make all the difference between a busy plot and a plot which communicates a clear story.\n\nIn this session, we will explore:\n— how to be less dependent on annotations (I know… trust me!)\n\n— how to use colours and fonts to draw attention to key elements in annotations\n\n— how to format text on the fly to change fonts, colours, alignments, and text sizes using \\`{ggtext}\\`\n\n— how to add arrows to your plots to highlight key data points or important patterns\n\n— a few useful packages and ggplot tricks when it comes to annotations\n\nAttendees are welcome to bring along one of their own plots to discuss during the Q&A session for some live feedback.",
+    "status": "PAST",
+    "dateTime": "2023-02-23T12:00:00Z",
+    "duration": "PT45M",
+    "eventUrl": "https://www.meetup.com/rladies-cambridge/events/291446523/",
+    "featuredEventPhoto": {
+      "id": "510466826",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/6/e/a/highres_510466826.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/6/e/a/600_510466826.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/6/e/a/thumb_510466826.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 55,
+      "waitlistCount": 0,
+      "totalCount": 55
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Cambridge",
+      "urlname": "rladies-cambridge"
+    }
+  },
+  {
+    "id": "300736459",
+    "title": "Back to basics: chart makeover",
+    "description": "Sarah will present three charts and discuss how they can be improved to tell a stronger story by changing chart type, axes, and labels, and dodging common information design pitfalls.",
+    "status": "PAST",
+    "dateTime": "2024-05-13T12:00:00+01:00",
+    "duration": "PT45M",
+    "eventUrl": "https://www.meetup.com/rladies-cambridge/events/300736459/",
+    "featuredEventPhoto": {
+      "id": "520959059",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/8/9/3/highres_520959059.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/8/9/3/600_520959059.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/8/9/3/thumb_520959059.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 28,
+      "waitlistCount": 0,
+      "totalCount": 28
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Cambridge",
+      "urlname": "rladies-cambridge"
+    }
+  },
+  {
+    "id": "299051061",
+    "title": "Dataviz lunch: Replicating Du Bois with R",
+    "description": "**In light of the ongoing #DuboisChallenge2024, we'll demonstrate how to replicate one of the original plates from W.E.B. Du Bois's legacy at the 1900 Paris Exposition using modern tools such as R.**\n**We'll explore the colours used in the plates and delve into the intricacies of the challenge by understanding the perspective of hand-made graphs in the \"Duboisian\" style.**\n**This session can be hands-on or just to watch-learn, depending on your preference. If you’d like to participate, please make sure your R interface (RStudio, VScode, Posit Cloud) is ready with the latest version installed. Also, a quick look at the #DuboisChallenge2024 GitHub repo for some extra hints would be helpful: [https://github.com/ajstarks/dubois-data-portraits/tree/master/challenge/2024](https://github.com/ajstarks/dubois-data-portraits/tree/master/challenge/2024)**",
+    "status": "PAST",
+    "dateTime": "2024-03-04T12:00:00Z",
+    "duration": "PT40M",
+    "eventUrl": "https://www.meetup.com/rladies-cambridge/events/299051061/",
+    "featuredEventPhoto": {
+      "id": "519106920",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/7/4/8/highres_519106920.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/7/4/8/600_519106920.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/7/4/8/thumb_519106920.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 31,
+      "waitlistCount": 0,
+      "totalCount": 31
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Cambridge",
+      "urlname": "rladies-cambridge"
+    }
+  },
+  {
+    "id": "305535122",
+    "title": "Data Federation and R",
+    "description": "Analysing big health data requires research workflows that balance computational efficiency with strict data governance, particularly relevant to healthcare data sources. This talk explores how the R programming language can be used to build reproducible and scalable research pipelines using R. We will also look at R capabilities that enable Federated analysis of health data. Attendees will gain practical insights into developing, deploying, and running R-based pipelines to process sensitive data securely and efficiently, while generating actionable results.",
+    "status": "PAST",
+    "dateTime": "2025-01-28T12:00:00Z",
+    "duration": "PT40M",
+    "eventUrl": "https://www.meetup.com/rladies-cambridge/events/305535122/",
+    "featuredEventPhoto": {
+      "id": "525703692",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/a/a/c/highres_525703692.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/a/a/c/600_525703692.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/a/a/c/thumb_525703692.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 16,
+      "waitlistCount": 0,
+      "totalCount": 16
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Cambridge",
+      "urlname": "rladies-cambridge"
+    }
+  }
+]
