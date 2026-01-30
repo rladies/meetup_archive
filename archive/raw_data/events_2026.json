@@ -138,6 +138,45 @@
     }
   },
   {
+    "id": "313107321",
+    "title": "Create Custom Webpages with R and Quarto",
+    "description": "**Workshop Details**\nIn this workshop, we will learn how to create webpages using Quarto in RStudio, and host it on GitHub. The example website will be a professional website template ([see my example webpage here](https://grcetmpk.github.io/)), but these skills can also be used to create other webpages ([like this one](https://ubc-stat.github.io/stat545/)).\n\nThis workshop was designed for R coders with no prior experience with Quarto. Experience with GitHub is helpful, but not necessary. We will be going through all of the steps slowly.\n\n\\*\\*\\*\n\n1. If this is your first R-Ladies event, please take a moment to review our R-Ladies Global code of conduct: [https://github.com/rladies/starter-kit/wiki/Code-of-Conduct](https://github.com/rladies/starter-kit/wiki/Code-of-Conduct)\n2. Who is this allowed to attend the event?\n\nEveryone is welcome to join us at our events and to be a part of our mission to empower gender minorities with the skills and knowledge to code in one of the top programming language in data science, which is R.\n3\\. To fulfill this mission we do ask participants to respect a focus on the encouragement and support for women and non\\-binary people during our events\\.\n\nSee you there!\n\nJasmine, and Melissa",
+    "status": "ACTIVE",
+    "dateTime": "2026-03-03T19:00:00-08:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-vancouver/events/313107321/",
+    "featuredEventPhoto": {
+      "id": "532488644",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/e/0/4/highres_532488644.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/e/0/4/600_532488644.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/e/0/4/thumb_532488644.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 2,
+      "waitlistCount": 0,
+      "totalCount": 2
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Vancouver",
+      "urlname": "rladies-vancouver"
+    }
+  },
+  {
     "id": "312797152",
     "title": "Coffee and Conversation ",
     "description": "Join us for a morning of conversation and networking with fellow women in data. If you’re interested in data careers, looking to hire from underrepresented groups in data, or wanting to brainstorm about a project you’ve been working on, we’d love to see you.\n\nThis is an in-person event and refreshments will be provided, so we appreciate your RSVP.",
@@ -200,6 +239,45 @@
     "group": {
       "name": "R-Ladies Abuja",
       "urlname": "rladies-abuja"
+    }
+  },
+  {
+    "id": "313125588",
+    "title": " From Data to Decisions: Using Digital Twins for Smarter Maintenance",
+    "description": "**How do you turn raw sensor data into reliable maintenance decisions when systems operate under constantly changing conditions?**\n\nIn this talk, [Priyanka Schnell](https://www.linkedin.com/in/priyanka-schnell/) will share a **real-world case study** from the aerospace industry, showing how data and engineering models can be used to move from traditional, schedule-based maintenance to smarter, condition-based decisions.\n\nThe example comes from aircraft wing manufacturing, where robotic drills operate under extremely strict quality requirements. ***\"Replacing tools too early wastes resources, while replacing them too late can cause costly damage.\"*** Priyanka will explain how combining sensor data (such as power, vibration, and torque) with physical knowledge of the process makes it possible to detect early warning signs of failure.\n\nUsing a concept called a ***digital twin***—a live data model that mirrors the real process—the team was able to identify problems hours before failure occurred. This approach improved efficiency, reduced waste, and prevented expensive damage.\n\nTo make the ideas concrete, parts of the session will include live exploration of data and models in **Google Colab**, focusing on intuition, **workflow**, and **decision-making** rather than heavy mathematics. The talk is designed to be accessible and will emphasize practical lessons, interpretability, and why combining data science with domain knowledge is key when working in production systems—no prior knowledge of manufacturing or physics required.",
+    "status": "ACTIVE",
+    "dateTime": "2026-02-16T18:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-rome/events/313125588/",
+    "featuredEventPhoto": {
+      "id": "532501954",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/a/2/highres_532501954.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/a/2/600_532501954.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/a/2/thumb_532501954.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 12,
+      "waitlistCount": 0,
+      "totalCount": 12
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Rome",
+      "urlname": "rladies-rome"
     }
   },
   {
@@ -316,9 +394,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/e/d/4/thumb_532408372.jpeg"
     },
     "rsvps": {
-      "yesCount": 118,
+      "yesCount": 116,
       "waitlistCount": 1,
-      "totalCount": 118
+      "totalCount": 116
     },
     "venues": [
       {
