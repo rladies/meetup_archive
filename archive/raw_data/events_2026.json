@@ -114,9 +114,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/d/6/1/thumb_532436673.jpeg"
     },
     "rsvps": {
-      "yesCount": 2,
+      "yesCount": 3,
       "waitlistCount": 0,
-      "totalCount": 2
+      "totalCount": 3
     },
     "venues": [
       {
@@ -257,9 +257,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/a/2/thumb_532501954.jpeg"
     },
     "rsvps": {
-      "yesCount": 12,
+      "yesCount": 24,
       "waitlistCount": 0,
-      "totalCount": 12
+      "totalCount": 24
     },
     "venues": [
       {
@@ -333,7 +333,20 @@
       "waitlistCount": 0,
       "totalCount": 2
     },
-    "venues": [],
+    "venues": [
+      {
+        "id": "24778699",
+        "name": "Old Chemistry Building Duke University",
+        "address": "415 Chapel Dr.",
+        "city": "Durham",
+        "state": "NC",
+        "country": "us",
+        "lat": 36.0028,
+        "lon": -78.9378,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
     "group": {
       "name": "R-Ladies RTP",
       "urlname": "rladies-rtp"
@@ -355,9 +368,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/2/d/f/thumb_532373983.jpeg"
     },
     "rsvps": {
-      "yesCount": 8,
+      "yesCount": 9,
       "waitlistCount": 0,
-      "totalCount": 8
+      "totalCount": 9
     },
     "venues": [
       {
@@ -394,9 +407,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/e/d/4/thumb_532408372.jpeg"
     },
     "rsvps": {
-      "yesCount": 116,
+      "yesCount": 112,
       "waitlistCount": 1,
-      "totalCount": 116
+      "totalCount": 112
     },
     "venues": [
       {
