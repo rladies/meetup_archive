@@ -257,9 +257,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/5/9/7/thumb_532482391.jpeg"
     },
     "rsvps": {
-      "yesCount": 7,
+      "yesCount": 11,
       "waitlistCount": 0,
-      "totalCount": 7
+      "totalCount": 11
     },
     "venues": [
       {
@@ -296,9 +296,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/a/2/thumb_532501954.jpeg"
     },
     "rsvps": {
-      "yesCount": 35,
+      "yesCount": 37,
       "waitlistCount": 0,
-      "totalCount": 35
+      "totalCount": 37
     },
     "venues": [
       {
@@ -320,10 +320,43 @@
     }
   },
   {
+    "id": "313193626",
+    "title": "Cross-Posting: One Metric to Fool Yourself - A Cautionary Tale ",
+    "description": "When fitting a model, statistical or machine learning, we often want to evaluate its performance. We have a wealth of different methods for all types of scenarios, from classification and regression to survival analysis. While these performance metrics work as intended, we can often get more out of models by carefully combining and using these metrics to capture what we really care about in our models. Optimal performance and minimal bias.\n\n**Register for this event at the R Meetup - Real Data Science USA**\n[https://www.meetup.com/real-data-science-usa-r-meetup/](https://www.meetup.com/real-data-science-usa-r-meetup/)",
+    "status": "ACTIVE",
+    "dateTime": "2026-02-09T13:00:00-08:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-irvine/events/313193626/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 2,
+      "waitlistCount": 0,
+      "totalCount": 2
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Irvine",
+      "urlname": "rladies-irvine"
+    }
+  },
+  {
     "id": "312266942",
     "title": "R shiny workshop",
     "description": "We will kick off 2026 with a workshop to learn R Shiny by PhD Candidate Rachel McLeod.",
-    "status": "ACTIVE",
+    "status": "PAST",
     "dateTime": "2026-02-03T17:00:00+01:00",
     "duration": "PT1H30M",
     "eventUrl": "https://www.meetup.com/rladies-trondheim/events/312266942/",
