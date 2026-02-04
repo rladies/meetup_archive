@@ -114,9 +114,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/d/6/1/thumb_532436673.jpeg"
     },
     "rsvps": {
-      "yesCount": 4,
+      "yesCount": 5,
       "waitlistCount": 0,
-      "totalCount": 4
+      "totalCount": 5
     },
     "venues": [
       {
@@ -153,9 +153,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/e/0/4/thumb_532488644.jpeg"
     },
     "rsvps": {
-      "yesCount": 2,
+      "yesCount": 3,
       "waitlistCount": 0,
-      "totalCount": 2
+      "totalCount": 3
     },
     "venues": [
       {
@@ -192,9 +192,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/e/5/4/thumb_532164148.jpeg"
     },
     "rsvps": {
-      "yesCount": 13,
+      "yesCount": 14,
       "waitlistCount": 0,
-      "totalCount": 13
+      "totalCount": 14
     },
     "venues": [
       {
@@ -231,9 +231,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/e/7/7/thumb_532352375.jpeg"
     },
     "rsvps": {
-      "yesCount": 21,
+      "yesCount": 23,
       "waitlistCount": 0,
-      "totalCount": 21
+      "totalCount": 23
     },
     "venues": [],
     "group": {
@@ -257,9 +257,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/5/9/7/thumb_532482391.jpeg"
     },
     "rsvps": {
-      "yesCount": 11,
+      "yesCount": 12,
       "waitlistCount": 0,
-      "totalCount": 11
+      "totalCount": 12
     },
     "venues": [
       {
@@ -281,6 +281,45 @@
     }
   },
   {
+    "id": "313201838",
+    "title": "A gRadual Intro to Shiny",
+    "description": "Curious about Shiny, but not sure where to start? This hands-on workshop is designed to ease you in gradually.\n\nIn A gRadual Intro to Shiny, Ted Laderas will walk through the basics of building interactive web applications in R using Shiny, with an emphasis on understanding concepts step by step rather than jumping straight into complex apps. We’ll start from simple ideas and build up carefully, so you can see how each piece fits together.\n\nThis workshop is ideal for:\n\\- R users who are new to Shiny\n\\- People who have tried Shiny before but felt overwhelmed\n\\- Anyone interested in turning analyses into interactive tools\n\nYou’ll learn:\n\n\\- What Shiny is and how it works\n\\- How UI and server components fit together\n\\- How reactivity works \\(without the panic\\)\n\\- How to build and modify a simple Shiny app\n\nNo prior Shiny experience is required, but some familiarity with R will be helpful. The session will include live demos, examples, and plenty of time to ask questions.\n\nCome for the code, stay for the “aha!” moments, and leave with a solid foundation for building your own Shiny apps.",
+    "status": "ACTIVE",
+    "dateTime": "2026-02-17T08:00:00-08:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-remote/events/313201838/",
+    "featuredEventPhoto": {
+      "id": "532581472",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/3/e/0/highres_532581472.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/3/e/0/600_532581472.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/3/e/0/thumb_532581472.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 13,
+      "waitlistCount": 0,
+      "totalCount": 13
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Remote",
+      "urlname": "rladies-remote"
+    }
+  },
+  {
     "id": "313125588",
     "title": " From Data to Decisions: Using Digital Twins for Smarter Maintenance",
     "description": "**How do you turn raw sensor data into reliable maintenance decisions when systems operate under constantly changing conditions?**\n\nIn this talk, [Priyanka Schnell](https://www.linkedin.com/in/priyanka-schnell/) will share a **real-world case study** from the aerospace industry, showing how data and engineering models can be used to move from traditional, schedule-based maintenance to smarter, condition-based decisions.\n\nThe example comes from aircraft wing manufacturing, where robotic drills operate under extremely strict quality requirements. ***\"Replacing tools too early wastes resources, while replacing them too late can cause costly damage.\"*** Priyanka will explain how combining sensor data (such as power, vibration, and torque) with physical knowledge of the process makes it possible to detect early warning signs of failure.\n\nUsing a concept called a ***digital twin***—a live data model that mirrors the real process—the team was able to identify problems hours before failure occurred. This approach improved efficiency, reduced waste, and prevented expensive damage.\n\nTo make the ideas concrete, parts of the session will include live exploration of data and models in **Google Colab**, focusing on intuition, **workflow**, and **decision-making** rather than heavy mathematics. The talk is designed to be accessible and will emphasize practical lessons, interpretability, and why combining data science with domain knowledge is key when working in production systems—no prior knowledge of manufacturing or physics required.",
@@ -296,9 +335,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/a/2/thumb_532501954.jpeg"
     },
     "rsvps": {
-      "yesCount": 37,
+      "yesCount": 38,
       "waitlistCount": 0,
-      "totalCount": 37
+      "totalCount": 38
     },
     "venues": [
       {
@@ -329,9 +368,9 @@
     "eventUrl": "https://www.meetup.com/rladies-irvine/events/313193626/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 2,
+      "yesCount": 3,
       "waitlistCount": 0,
-      "totalCount": 2
+      "totalCount": 3
     },
     "venues": [
       {
