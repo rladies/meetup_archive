@@ -242,6 +242,45 @@
     }
   },
   {
+    "id": "313238607",
+    "title": "From Incident to Solution: How IT Functional Support Keeps the Business Running",
+    "description": "Open Lecture: **\"From Incident to Solution: How IT Functional Support Keeps the Business Running\"**\n\nPart of SPARK series\n\nIT incidents don’t just affect systems, they impact operations, safety, and business continuity. In this session, we’ll explore how IT Functional Application Support turns incidents into solutions and plays a key role in keeping maritime operations running smoothly.\n\n**🎤 Speaker: Rinalda Prifti**\n**Functional Applications Support, Smit Lamnalco Netherlands**\n\n📅 Date: February 23, 2026\n⏰ Time: 18:00\n📍 Format: Online (Zoom)\n👉 Register on Meetup to receive the Zoom link and all the details.",
+    "status": "ACTIVE",
+    "dateTime": "2026-02-23T18:00:00+01:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-tirane/events/313238607/",
+    "featuredEventPhoto": {
+      "id": "532609842",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/2/b/2/highres_532609842.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/2/b/2/600_532609842.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/2/b/2/thumb_532609842.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R Ladies Tirane",
+      "urlname": "rladies-tirane"
+    }
+  },
+  {
     "id": "312855430",
     "title": "Wrangling Earth System Model Outputs in R for Marine Ecologists ",
     "description": "R is undoubtedly the programming language of choice for many marine ecologists. However, navigating the complexities of downloading, processing and wrangling gridded oceanographic data within R can represent a steep learning curve. As the impacts of climate variability and change on our oceans become increasingly evident, the ability to efficiently interact with, and use, Earth System Model (ESM) outputs for our research is more critical than ever. Here, we will walk through core skills needed to be proficient in creating projections of physical variables from ESM outputs, with the goal of using them for marine ecological applications. Specifically, we’ll be creating projections of sea-surface temperature out to 2100, across one climate scenario, for the California Current region.\n\nThis event will be held on **Wednesday, February 18 from 5:30 - 7:00 PST** and will be **virtual**! A zoom link and the workshop materials will be provided closer to the event to folks who RSVP. **RSVPs will close at noon the day of the event.**",
@@ -296,9 +335,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/3/e/0/thumb_532581472.jpeg"
     },
     "rsvps": {
-      "yesCount": 45,
+      "yesCount": 46,
       "waitlistCount": 0,
-      "totalCount": 45
+      "totalCount": 46
     },
     "venues": [
       {
