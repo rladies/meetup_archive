@@ -138,6 +138,45 @@
     }
   },
   {
+    "id": "313222148",
+    "title": "ChatGPT in RStudio with gptstudio: Better than GitHub Copilot?",
+    "description": "**Supercharging Your R Workflow with a Native AI Assistant**\n\nIt’s no surprise that large language models like ChatGPT are helpful for coding. What makes gptstudio stand out is how it brings that help directly into RStudio through a clean, user-friendly add-in.\n\ngptstudio is an R package that integrates ChatGPT into RStudio, allowing you to generate code, explain functions, and write documentation using natural language, all without leaving your IDE. It supports various OpenAI models and offers an add-in panel that works like a built-in assistant. This tool is especially useful when you're experimenting, writing boilerplate code, or just need quick answers while staying in your flow.\nAdvantages of using the gptstudio package:\n\n✔️ Seamless integration into RStudio via an add-in panel\n✔️ Helps generate and explain R code using plain language prompts\n✔️ Supports multiple OpenAI models, including GPT-3.5 and GPT-4\n\n✔️ Useful for both beginners and experienced users looking to speed up their workflow",
+    "status": "ACTIVE",
+    "dateTime": "2026-03-27T10:00:00-05:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-st-louis/events/313222148/",
+    "featuredEventPhoto": {
+      "id": "532597192",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/1/4/8/highres_532597192.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/1/4/8/600_532597192.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/1/4/8/thumb_532597192.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 18,
+      "waitlistCount": 0,
+      "totalCount": 18
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies St. Louis",
+      "urlname": "rladies-st-louis"
+    }
+  },
+  {
     "id": "313107321",
     "title": "Create Custom Webpages with R and Quarto",
     "description": "**Workshop Details**\nIn this workshop, we will learn how to create webpages using Quarto in RStudio, and host it on GitHub. The example website will be a professional website template ([see my example webpage here](https://grcetmpk.github.io/)), but these skills can also be used to create other webpages ([like this one](https://ubc-stat.github.io/stat545/)).\n\nThis workshop was designed for R coders with no prior experience with Quarto. Experience with GitHub is helpful, but not necessary. We will be going through all of the steps slowly.\n\n\\*\\*\\*\n\n1. If this is your first R-Ladies event, please take a moment to review our R-Ladies Global code of conduct: [https://github.com/rladies/starter-kit/wiki/Code-of-Conduct](https://github.com/rladies/starter-kit/wiki/Code-of-Conduct)\n2. Who is this allowed to attend the event?\n\nEveryone is welcome to join us at our events and to be a part of our mission to empower gender minorities with the skills and knowledge to code in one of the top programming language in data science, which is R.\n3\\. To fulfill this mission we do ask participants to respect a focus on the encouragement and support for women and non\\-binary people during our events\\.\n\nSee you there!\n\nJasmine, and Melissa",
@@ -335,9 +374,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/3/e/0/thumb_532581472.jpeg"
     },
     "rsvps": {
-      "yesCount": 47,
+      "yesCount": 50,
       "waitlistCount": 0,
-      "totalCount": 47
+      "totalCount": 50
     },
     "venues": [
       {
@@ -374,9 +413,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/a/2/thumb_532501954.jpeg"
     },
     "rsvps": {
-      "yesCount": 47,
+      "yesCount": 48,
       "waitlistCount": 0,
-      "totalCount": 47
+      "totalCount": 48
     },
     "venues": [
       {
