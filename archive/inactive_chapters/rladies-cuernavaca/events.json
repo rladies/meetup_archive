@@ -1,0 +1,1711 @@
+[
+  {
+    "id": "264937931",
+    "title": "Primer meetup de R-Ladies Cuernavaca: Introducción a R y RStudio",
+    "description": "Nuestro primer encuentro de R-Ladies Cuernavaca tiene como finalidad dar a conocer la comunidad de R-Ladies e introducir al ambiente de R y RStudio, con un enfoque en el uso de R en la investigación.\n\nEl taller será nivel básico, no se requieren conocimientos previos sobre R, y se impartirá en español.\n\nEn esta ocasión las ponentes serán:\n\nVerónica Jiménez Jacinto es Licenciada en Matemáticas Aplicadas y Computación, cuenta con un posgrado en la especialidad de Reconocimiento de Patrones. Su producción científica ha incluido creación de algoritmos de selección de variables en problemas de reconocimiento de patrones y ha desarrollado sitios web para el análisis de expresión diferencial en genes y transcriptomas de Novo. Administró la base de datos regulonDB (regulondb.ccg.unam.mx) y participó en el proyecto de secuenciación del genoma de Rhizobium etli. Actualmente, forma parte de la Unidad Universitaria de Secuenciación Masiva y Bioinformática de la UNAM, se ha especializado en el análisis de expresión diferencial de genes y análisis primario de datos NGS (Next Generation Sequencing). Adicionalmente, cuenta con la certificación de Software Carpentry y el grado de master en DB otorgado por ORACLE. Actualmente es co-organizadora y co-fundadora del capítulo R-Ladies Cuernavaca y forma parte del directorio de ponentes de RLadies global.\n\nLeticia Vega Alvarado es Licenciada en Matemáticas Aplicadas y Computación, Maestra en Ciencias en el área de Ingeniería Electrica con especialidad en computación y Doctora en Ciencias e Ingeniería de la Computación. Ha impartido cursos de lenguaje C, Python, R y Bioconductor en los posgrados de la UNAM y UAEM (Morelos). Es instructora certificada de Software Carpentry y ha participado en diversos talleres en el área de prgramación en R y análisis de Expresión Diferencial. Es autora de diversas publicaciones científicas. Ha sido galardonada con la medalla al mérito “Alfonso Caso” y la distinción “Sor Juana Inés de la Cruz”, otorgadas por la UNAM. Actualmente trabaja en el Instituto de Ciencias Aplicadas y Tecnología de la UNAM y sus intereses académicos se centran en las áreas de Bioinformática, Reconocimiento de Patrones y Visión por Computadora. Actualmente es co-organizadora y co-fundadora del capítulo R-Ladies Cuernavaca.\n\nJoselyn Chávez Fuentes es Ingeniero Biotecnólogo del IPN, realizó sus estudios de Maestría en Ciencias Bioquímicas en el IBT y actualmente es estudiante de Doctorado en el laboratorio de Genómica Computacional del Instituto de Biotecnología, UNAM. Recientemente comenzó a desarrollar paquetes de R/Bioconductor enfocados en el análisis de reguladores transcripcionales y actualmente colabora en el desarrollo de un paquete para el uso de la base de datos regulonDB dentro de R. Este año fue becada para presentar su contribución en el Bioconductor Conference 2019 en NYC. Actualmente es co-organizadora de la CDSB México y miembro de la RMB, también es co-organizadora y co-fundadora del capítulo R-Ladies Cuernavaca y forma parte del directorio de ponentes de RLadies global.\n\nPrograma:\n15:45 Registro\n16:00 Qué es R-Ladies?.\n16:20 Por qué R?.\n17:00 Ambiente de trabajo: R y RStudio.\n17:45 Coffee Break\n18:00 Introducción a R: variables y ayuda.\n\nRequisitos:\nTraer tu computadora personal\nTener instalado R (https://cran.r-project.org) y RStudio (https://www.rstudio.com/products/rstudio/download)\nLeer y atender el código de Conducta (rladies.org/code-of-conduct)\n\nCupo limitado: 40 personas.\nEs necesario que te registres y traer una identificación oficial para entrar al evento. Si realizaste el registro pero no te es posible asistir, por favor elimina tu reservación para permitir que otra persona pueda atender al evento.\n\nAgradecemos al Instituto de Biotecnología (http://www.ibt.unam.mx) y al Centro de Ciencias Genómicas (http://www.ccg.unam.mx) de la UNAM por su apoyo para la realización de este evento.",
+    "status": "PAST",
+    "dateTime": "2019-10-21T16:00:00-05:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-cuernavaca/events/264937931/",
+    "featuredEventPhoto": {
+      "id": "485186458",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/7/5/a/highres_485186458.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/7/5/a/600_485186458.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/7/5/a/thumb_485186458.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 40,
+      "waitlistCount": 29,
+      "totalCount": 40
+    },
+    "venues": [
+      {
+        "id": "26635610",
+        "name": "Center for Genomic Sciences UNAM",
+        "address": "Av. Universidad s/n",
+        "city": "Cuernavaca",
+        "state": "Mo",
+        "country": "mx",
+        "lat": 18.9832,
+        "lon": -99.2353,
+        "postalCode": "62210",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Cuernavaca",
+      "urlname": "rladies-cuernavaca"
+    }
+  },
+  {
+    "id": "274356929",
+    "title": "Meetup Pruebas estadísticas en R: X2, t y ANOVA.",
+    "description": "En esta sesión aprenderemos a realizar diferentes variantes de las pruebas estadísticas X2, t de Student y ANOVA con el lenguaje de programación R. Abordaremos cómo elegir un test estadístico, la interpretación de los resultados de las pruebas X2, t y ANOVA, así como otras pruebas y correcciones que se emplean en escenarios particulares.\n\nNOTA ADICIONAL: Las alternativas no paramétricas a T de Student y ANOVA, así como los tests usados con grupos de muestras no independientes (ej. en los estudios longitudinales), se abordarán en sesiones posteriores.\n\nTEMARIO\n\n+ La Elección de una prueba estadística\n+ Los supuestos de la prueba X2\n+ Diferentes escenarios del uso de X2\n+ Los supuestos de las pruebas T de Student y ANOVA\n+ Diferentes escenarios del uso de T de Student\n+ Diferentes escenarios del uso de ANOVA\n\nCONOCIMIENTOS PREVIOS REQUERIDOS:\n\nEste meetup está dirigido a personas con conocimientos básicos de R y de estadística. Contesta este cuestionario para saber si cuentas con los conocimientos necesarios para aprovechar esta reunión y qué recomendaciones u opciones tenemos para ti:\n\nhttps://docs.google.com/forms/d/e/1FAIpQLScU4FKpJHPxAQ_bPyL0ptKnax3TcOlnOXwCDiPqV2lVbWYNyg/viewform\n\nREQUERIMIENTOS DE SOFTWARE\n\n+ R >=3.2 y RStudio\n+ Paquetes de R: ggplot2, ggpubr, corrplot, MASS, tidyverse, corrplot\n\nPuedes usar este comando para su instalación:\ninstall.packages(c(\"ggplot2\", \"ggpubr\", \"corrplot\", \"MASS\", \"tidyverse\", \"corrplot\"), dependencies = TRUE)\n\nACERCA DE LA PONENTE:\n\nAurora Labastida Martínez estudió la Licenciatura en Investigación Biomédica Básica y la Maestría en Ciencias Bioquímicas en la UNAM. Es especialista en análisis de datos de secuenciación masiva de ADN, un perfil que desarrolló gracias a la colaboración con expertas y expertos en ciencias biológicas y análisis de datos de la UNAM y, más tarde, de la iniciativa privada. Utiliza técnicas y trucos de R, Perl, Bash y AWK, además de técnicas variadas de estadística. Actualmente dirige el servicio de análisis de datos OMICs Analysis, en el que aplica sus conocimientos en proyectos de metagenómica y transcriptómica. Además se dedica a la panadería, la agricultura y a algunos proyectos mascota de programación.\n\nCÓDIGO DE CONDUCTA\nRecuerda leer y atender nuestro código de conducta disponible en https://rladies.org/code-of-conduct/\n\nPATROCINADORES\nAgradecemos a nuestros patrocinadores: R Consortium y Red Mexicana de Bioinformática",
+    "status": "PAST",
+    "dateTime": "2020-11-12T17:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-cuernavaca/events/274356929/",
+    "featuredEventPhoto": {
+      "id": "493367368",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/9/0/8/highres_493367368.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/9/0/8/600_493367368.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/9/0/8/thumb_493367368.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 100,
+      "waitlistCount": 20,
+      "totalCount": 100
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Cuernavaca",
+      "urlname": "rladies-cuernavaca"
+    }
+  },
+  {
+    "id": "273559022",
+    "title": "Introducción a Maching Learning  con Tidymodels",
+    "description": "Este taller es introductorio y permitirá dar los primeros pasos en el universo tidymodels, el cual está formado por un conjunto de paquetes creados para aprendizaje automático siguiendo la filosofía tidyverse. El curso tendrá una breve introducción teórica y luego nos centraremos en entrenar y evaluar modelos de machine learning para resolver problemas de predicción y clasificación utilizando algunos de los paquetes como rsample, parsnip, yardstick, entre otros. Les asistente luego del curso podrán ejecutar modelos de predicción y clasificación y evaluar su performance. Dado que el cupo es limitado, contesta este cuestionario para saber si cuentas con los conocimientos necesarios para aprovechar esta reunión : https://forms.gle/wDeUj99SVgo9qW9N6",
+    "status": "PAST",
+    "dateTime": "2020-10-05T13:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-cuernavaca/events/273559022/",
+    "featuredEventPhoto": {
+      "id": "492602355",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/3/3/highres_492602355.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/3/3/600_492602355.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/3/3/thumb_492602355.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 19,
+      "waitlistCount": 66,
+      "totalCount": 19
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Cuernavaca",
+      "urlname": "rladies-cuernavaca"
+    }
+  },
+  {
+    "id": "272988331",
+    "title": "Primer encuentro anual R-Ladies México",
+    "description": "R-Ladies Global es una organización mundial cuya principal misión es promover la diversidad de género en la comunidad del lenguaje de programación R. A mediados de 2017 el primer capítulo de R-Ladies en México se integró a la creciente lista de capítulos de R-Ladies alrededor del mundo. Tres años después, 8 capítulos más se han formado y ahora somos casi 3,000 participantes.\n\nEste año, deseamos unir fuerzas y estrechar lazos reuniendo a las y los miembros de R-Ladies de todo el país en el Primer Encuentro Anual R-Ladies México.\n\nEste jueves 24 de septiembre a las 5:00 pm (Centro de México) te esperamos para crecer y fortalecer la comunidad.\n\nPrograma:\n17:00-17:05 Bienvenida\n17:05-17:15 Presentación de la organización R-Ladies\n17:15-17:45 Conferencia 1: Estadísticas e historia de los capítulos en México\n17:45-18:45 Panel de discusión: Retos y Perspectivas\n18:45-19:00 Coffee break y networking\n19:00-19:30 Sesión de pláticas cortas: Aplicaciones de R\n19:30-19:55 Conferencia 2: Cómo crear un nuevo capítulo.\n19:55-20:00 Cierre\n\nEste evento se llevará a cabo mediante Zoom, el link para conectarse al evento será enviado por correo electrónico a los asistentes registrados 60 minutos antes de iniciar. Por seguridad de todos, no compartas el link con personas no registradas en el evento.\n\nLes pedimos conectarse 15 minutos antes de la hora de inicio para corroborar su inscripción.\n\nRecuerda leer y atender el código de conducta disponible en https://rladies.org/code-of-conduct/",
+    "status": "PAST",
+    "dateTime": "2020-09-24T17:00:00-05:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-cuernavaca/events/272988331/",
+    "featuredEventPhoto": {
+      "id": "492134836",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/9/f/4/highres_492134836.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/9/f/4/600_492134836.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/9/f/4/thumb_492134836.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 40,
+      "waitlistCount": 8,
+      "totalCount": 40
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Cuernavaca",
+      "urlname": "rladies-cuernavaca"
+    }
+  },
+  {
+    "id": "273057150",
+    "title": "Tour para principiantes por RStudio",
+    "description": "En nuestro segundo Meetup virtual, la Biol Marisol Navarro nos invita a un tour por RStudio, para introducirnos a los conceptos básicos de R. Te invitamos este viaje virtual, y te sugerimos \"abordar\" 15 minutos antes del despegue.",
+    "status": "PAST",
+    "dateTime": "2020-09-10T16:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-cuernavaca/events/273057150/",
+    "featuredEventPhoto": {
+      "id": "492175531",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/8/e/b/highres_492175531.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/8/e/b/600_492175531.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/8/e/b/thumb_492175531.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 87,
+      "waitlistCount": 0,
+      "totalCount": 87
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Cuernavaca",
+      "urlname": "rladies-cuernavaca"
+    }
+  },
+  {
+    "id": "272513770",
+    "title": "Meetup virtual: Estadística descriptiva con R",
+    "description": "En este meetup descubriremos la forma en que se usa el lenguaje de programación R para pasar de una lista de datos a las gráficas, tablas y estadísticas que nos revelan las características del conjunto de datos. Repasaremos brevemente varios principios de estadística descriptiva para después llevarlos a la práctica con ejercicios variados en R.\n\nTendremos como invitada especial a la M.C. Aurora Labastida Martínez. Aurora es especialista en análisis de datos de secuenciación masiva de ADN, donde utiliza técnicas y trucos de R, Perl, Bash y AWK, además de técnicas variadas de estadística. Actualmente dirige el servicio de análisis de datos OMICs Analysis.\n\nTEMARIO\nDatos cualitativos y cuantitativos en el ambiente de R\nTablas de frecuencias y tablas de contingencias\nCálculo de medidas de tendencia central (ej. promedio, mediana)\nCálculo de medidas de dispersión (ej. desviación estándar)\nCálculo de medidas de correlación entre variables\nRepresentación de distintos tipos de datos datos con gráficas\n\nCONOCIMIENTOS PREVIOS REQUERIDOS:\nEste meetup está dirigido a personas con conocimientos básicos de R y de estadística descriptiva. Contesta este cuestionario para saber si cuentas con los conocimientos necesarios para aprovechar esta reunión y qué recomendaciones u opciones tenemos para ti:\n\nhttps://docs.google.com/forms/d/e/1FAIpQLSdsHB_oJ7iVdOT0I3esx5EMttMxrTibSkRFaPD2VM2REqn7tg/viewform\n\nREQUERIMIENTOS DE SOFTWARE\n+ R >=4.0 y RStudio en su versión más actual\n+ Paquetes de R: ggplot2, pastecs, summarytools, psych, tidyverse, corrplot, Hmisc, correlation, dplyr\n\nPara instalar los paquetes requeridos, puedes usar este comando en tu sesión de R:\n\ninstall.packages(c(\"ggplot2\", \"pastecs\", \"psych\", \"tidyverse\", \"corrplot\", \"correlation\", \"dplyr\", \"Hmisc\",\"summarytools\"), dependencies = TRUE)\n\nNota: En MacOS el paquete summarytools requerirá a Xcode para poder instalarse. Puedes descargar el instalador de Xcode en https://www.xquartz.org/. En caso de detectar algún error de instalación de summarytools en Mac OS puedes ver el siguiente foro: https://github.com/dcomtois/summarytools/issues/67\n\nEste evento se llevará a cabo mediante Zoom, el link para conectarse al evento será enviado por correo electrónico a los asistentes registrados 30 minutos antes de iniciar. Por seguridad de todos, no compartas el link con personas no registradas en el evento.\n\nLes pedimos conectarse 15 minutos antes de la hora de inicio para corroborar su inscripción.\n\nRecuerda leer y atender el código de conducta disponible en https://rladies.org/code-of-conduct/\n\nSi no te es posible asistir al evento, por favor cancela tu inscripción al menos 24 horas antes para darle oportunidad a las personas en lista de espera. En caso de mantener tu registro y no presentarte al evento, nos veremos en la necesidad de rechazar tu registro en el siguiente meetup.\n\nAgradecemos a nuestros patrocinadores:\n- R Consortium (https://www.r-consortium.org)",
+    "status": "PAST",
+    "dateTime": "2020-08-26T16:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-cuernavaca/events/272513770/",
+    "featuredEventPhoto": {
+      "id": "491774894",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/a/2/e/highres_491774894.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/a/2/e/600_491774894.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/a/2/e/thumb_491774894.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 101,
+      "waitlistCount": 18,
+      "totalCount": 101
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Cuernavaca",
+      "urlname": "rladies-cuernavaca"
+    }
+  },
+  {
+    "id": "271871995",
+    "title": "Primer Meetup virtual de R-Ladies Cuernavaca: Generación de gráficas con ggplot2",
+    "description": "En nuestro primer Meetup virtual de R-Ladies Cuernavaca tendremos una invitada especial, la Dra. Ernestina Godoy Lozano del Instituto Nacional de Salud Pública nos hablará sobre cómo generar gráficas con el paquete ggplot2.\n\nConocimientos necesarios:\n- Manejo de Data frames\n- Lectura y escritura de archivos en R.\n\nFecha: Jueves 23 de julio de 2020.\n\nEste evento se llevará a cabo mediante Zoom, el link para conectarse al evento será enviado por correo electrónico a los asistentes registrados 30 minutos antes de iniciar. Por seguridad de todos, no compartas el link con personas no registradas en el evento.\n\nLes pedimos conectarse 15 minutos antes para corroborar su inscripción. Tendremos 15 minutos de tolerancia (hasta las 16:15) para aceptar su entrada al evento una vez comenzada la sesión.\n\nPROGRAMA\n15:45 Conexión a la sesión\n16:00 Bienvenida.\n16:15 Introducción a ggplot2\n17:00 Coffee Break.\n17:15 Generación de gráficas.\n\nREQUISITOS:\n- Leer y atender el código de conducta disponible en https://rladies.org/code-of-conduct/\n- Instalar R y RStudio última versión.\n- Instalar el paquete ggplot2 con install.packages(\"ggplot2\").\n\nSi no te es posible asistir al evento, por favor cancela tu inscripción al menos 24 horas antes para darle oportunidad a las personas en lista de espera. En caso de mantener tu registro y no presentarte al evento, nos veremos en la necesidad de rechazar tu registro en el siguiente meetup.\n\nAgradecemos a nuestros patrocinadores: R Consortium (https://www.r-consortium.org)",
+    "status": "PAST",
+    "dateTime": "2020-07-23T16:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-cuernavaca/events/271871995/",
+    "featuredEventPhoto": {
+      "id": "491277999",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/e/2/8/f/highres_491277999.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/e/2/8/f/600_491277999.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/2/8/f/thumb_491277999.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 108,
+      "waitlistCount": 22,
+      "totalCount": 108
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Cuernavaca",
+      "urlname": "rladies-cuernavaca"
+    }
+  },
+  {
+    "id": "269269161",
+    "title": "Tercer  Meetup R-Ladies Cuernavaca: Generación de gráficas con ggplot2",
+    "description": "En nuestro Tercer Meetup de R-Ladies Cuernavaca tendremos una invitada especial, la Dra. Ernestina Godoy Lozano del Instituto Nacional de Salud Pública nos hablará sobre cómo generar gráficas con el paquete ggplot2.\n\nConocimientos necesarios:\n- Manejo de Data frames\n- Lectura y escritura de archivos en R.\n\nFecha: Viernes 20 de Marzo de 2020.\nLugar: Aula 3 de la Licenciatura en Ciencias Genómicas dentro del Centro de Ciencias Genómicas de la UNAM\n\nPROGRAMA\n16:15 Bienvenida.\n16:30 Introducción a ggplot2\n17:30 Coffee Break.\n18:00 Generación de gráficas.\n\nImportante: TRAE TU TAZA para el coffee break!! Estamos comprometidas con el Programa Basura Cero de la UNAM, por lo que NO tendremos vasos desechables.\n\nREQUISITOS:\n- Leer y atender el código de conducta disponible (https://rladies.org/code-of-conduct/)\n- Traer tu computadora personal.\n- Instalar R y RStudio última versión.\n- Instalar el paquete ggplot2 con install.packages(\"ggplot2\").\n\nSi no te es posible asistir al evento, por favor cancela tu inscripción al menos 24 horas antes del evento para darle oportunidad a las personas en lista de espera.\n\nEn este evento tendremos una sala de actividades para niños, cuéntanos durante tu registro cuántos pequeñines te acompañarán al evento y sus edades para diseñar las actividades más divertidas para ellos.\n\nAgradecemos a nuestros patrocinadores: R Consortium (https://www.r-consortium.org), el Centro de Ciencias Genómicas y el Instituto de Biotecnología de la UNAM.",
+    "status": "PAST",
+    "dateTime": "2020-03-20T16:15:00-06:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-cuernavaca/events/269269161/",
+    "featuredEventPhoto": {
+      "id": "489747827",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/c/b/3/highres_489747827.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/c/b/3/600_489747827.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/c/b/3/thumb_489747827.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 50,
+      "waitlistCount": 0,
+      "totalCount": 50
+    },
+    "venues": [
+      {
+        "id": "26635610",
+        "name": "Center for Genomic Sciences UNAM",
+        "address": "Av. Universidad s/n",
+        "city": "Cuernavaca",
+        "state": "Mo",
+        "country": "mx",
+        "lat": 18.9832,
+        "lon": -99.2353,
+        "postalCode": "62210",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Cuernavaca",
+      "urlname": "rladies-cuernavaca"
+    }
+  },
+  {
+    "id": "268179344",
+    "title": "Segundo Meetup R-Ladies Cuernavaca: Estructuras de datos en R",
+    "description": "Nuestro segundo Meetup de R-Ladies Cuernavaca constará de dos sesiones prácticas de nivel básico. Aprenderemos cuáles son las características de las Listas y Data frames, cómo se estructuran y cuáles son algunos casos poco comunes con los que nos hemos encontrado durante su uso.\n\nEste Meetup será impartido por dos integrantes de R-Ladies Cuernavaca:\n- Joselyn Chávez (Listas).\n- Leticia Vega Alvarado (Data frames).\n\nFecha: Viernes 28 de Febrero de 2020.\nLugar: Auditorio del Centro de Ciencias Genómicas de la UNAM Campus Morelos.\n\nPROGRAMA\n16:15 Bienvenida.\n16:30 Conociendo las Listas en R.\n17:30 Coffee Break.\n18:00 Trabajando con Data frames.\n\nImportante: TRAE TU TAZA para el coffee break!! Estamos comprometidas con el Programa Basura Cero de la UNAM, por lo que NO tendremos vasos desechables.\n\nREQUISITOS:\n- Leer y atender el código de conducta disponible (https://rladies.org/code-of-conduct/)\n- Traer tu computadora personal.\n- Instalar R última versión.\n- Instalar RStudio última versión.\n\nSi no te es posible asistir al evento, por favor cancela tu inscripción al menos 24 horas antes del evento para darle oportunidad a las personas en lista de espera.\n\nEn este evento tendremos una sala de actividades para niños, cuéntanos durante tu registro cuántos pequeñines te acompañarán al evento y sus edades para diseñar las actividades más divertidas para ellos.\n\nAgradecemos a nuestros patrocinadores: R Consortium (https://www.r-consortium.org) y Centro de Ciencias Genómicas de la UNAM (https://www.ccg.unam.mx).",
+    "status": "PAST",
+    "dateTime": "2020-02-28T16:15:00-06:00",
+    "duration": "PT2H45M",
+    "eventUrl": "https://www.meetup.com/rladies-cuernavaca/events/268179344/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 80,
+      "waitlistCount": 0,
+      "totalCount": 80
+    },
+    "venues": [
+      {
+        "id": "26635610",
+        "name": "Center for Genomic Sciences UNAM",
+        "address": "Av. Universidad s/n",
+        "city": "Cuernavaca",
+        "state": "Mo",
+        "country": "mx",
+        "lat": 18.9832,
+        "lon": -99.2353,
+        "postalCode": "62210",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Cuernavaca",
+      "urlname": "rladies-cuernavaca"
+    }
+  },
+  {
+    "id": "279663504",
+    "title": "Trabajando con pipes y stringr",
+    "description": "Bienvenidxs! Este meetup está dirigido a personas con conocimientos básicos de R que deseen aprender a utilizar el paquete stringr.\n\nREQUERIMIENTOS DE SOFTWARE\n+ Tener instalado R >= 4.0\n+ Tener instalado RStudio >= 1.4\n+ Instalar los paquetes de R: dplyr y stringr\n\nPuedes usar este comando para su instalación:\ninstall.packages(\"dplyr\", dependencies = TRUE)\ninstall.packages(\"stringr\", dependencies = TRUE)\n\nCÓDIGO DE CONDUCTA\nRecuerda leer y atender nuestro código de conducta disponible en https://rladies.org/code-of-conduct/ o https://rladiesmx.netlify.app/codigo_de_conducta/\n\nPATROCINADORES\nAgradecemos a nuestros patrocinadores: Red Mexicana de Bioinformática",
+    "status": "PAST",
+    "dateTime": "2021-07-26T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-cuernavaca/events/279663504/",
+    "featuredEventPhoto": {
+      "id": "497714325",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/7/f/5/highres_497714325.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/7/f/5/600_497714325.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/7/f/5/thumb_497714325.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 38,
+      "waitlistCount": 0,
+      "totalCount": 38
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Cuernavaca",
+      "urlname": "rladies-cuernavaca"
+    }
+  },
+  {
+    "id": "277847239",
+    "title": "Reportando resultados estadísticos con 'report'",
+    "description": "En esta sesión aprenderemos a automatizar los resultados de un análisis estadístico en R para crear reportes estandarizados y que a su vez sean fáciles de entender. Para esto, utilizaremos el paquete report. Este es un paquete perteneciente al easyverse que fue creado para enlazar los resultados de los análisis obtenidos en R con un manuscrito. Nuestro invitado es Carlos A. Torres Cubilla, científico de datos en el área bancaria con experiencia en lenguajes de programación como R y Python y con conocimientos en estadística, big data y machine learning .\n\nCONOCIMIENTOS PREVIOS REQUERIDOS:\nEste meetup está dirigido a personas con conocimientos básicos de R y estadística.\n\nTEMARIO:\n¿Qué es report? ¿Para qué sirve?\nReportes no estadísticos\nReportes estadísticos\nAplicación real de report en un informe\n\nREQUERIMIENTOS DE SOFTWARE:\nR >= 3.5 y R Studio preferiblemente en versión 1.4 (más actual)\nPaquetes de R: report, palmerpenguins, dplyr, ggplot2, rmarkdown\nPuedes usar los siguientes comandos para su instalación:\npackages <- c(\"report\", \"palmerpenguins\", \"dplyr\", \"ggplot2\", \"rmarkdown\") # Paquetes\ninstalled_packages <- packages %in% rownames(installed.packages()) # Check de los paquetes\nif (any(installed_packages == FALSE)) {\ninstall.packages(packages[!installed_packages], dependencies = TRUE) # Instalación\n}\n\nEste evento se llevará a cabo mediante Zoom, el link para conectarse al evento será enviado por correo electrónico a los asistentes registrados 30 minutos antes de iniciar. Por seguridad de todos, no compartas el link con personas no registradas en el evento.\n\nLes pedimos conectarse 15 minutos antes de la hora de inicio para corroborar su inscripción.\n\nRecuerda leer y atender el código de conducta disponible en https://rladies.org/code-of-conduct/\n\nSi no te es posible asistir al evento, por favor cancela tu inscripción al menos 24 horas antes para darle oportunidad a las personas en lista de espera. En caso de mantener tu registro y no presentarte al evento, nos veremos en la necesidad de rechazar tu registro en el siguiente meetup.\n\nAgradecemos a nuestros patrocinadores:\n- R Consortium (https://www.r-consortium.org)",
+    "status": "PAST",
+    "dateTime": "2021-05-06T16:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-cuernavaca/events/277847239/",
+    "featuredEventPhoto": {
+      "id": "495995060",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/8/f/4/highres_495995060.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/8/f/4/600_495995060.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/8/f/4/thumb_495995060.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 56,
+      "waitlistCount": 0,
+      "totalCount": 56
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Cuernavaca",
+      "urlname": "rladies-cuernavaca"
+    }
+  },
+  {
+    "id": "277740136",
+    "title": "RLadies+ te invita a useR! meetup",
+    "description": "Este año useR! (https://user2021.r-project.org/) será una conferencia global y totalmente remota. Uno de los principales objetivos es fomentar la participación de personas diversas (considerando la diversidad en todas sus formas y todas sus interseccionalidades). Para esto, además de un equipo global comprometido con crear espacios inclusivos y accesibles, contaremos con facilidades como exención de registro, eventos en diferentes idiomas (inglés, español y francés), subtítulos en inglés en tiempo real y eventos en diferentes zonas horarias.\n\nEn este encuentro tendrá la oportunidad de conocer a RLadies+ de todo el mundo que compartirán sus experiencias en sus capítulos locales y en useR! Esperamos inspirar a personas con diferentes orígenes, ocupaciones y experiencias para que formen parte de la conferencia de este año. El encuentro será trilingüe y contará con 100 lugares por capítulo organizador. ¡Ven y únete a nosotras!\n\nCronograma:\n- Saludos\n- Panel con: Janani Ravi (East Lansing), Jonelle Villar (Bergen), Haifa Ben Messaoud (Túnez), Beatriz Milz (São Paulo), Zulemma Bazurto Blacio (Guayaquil)\n- Preguntas preparadas\n- Preguntas de la audiencia\n- ¡Nos vemos pronto en useR!\n\nCapítulos coorganizadores:\nR-Ladies+ Vitória\nRLadies+ Bangalore\nRLadies+ Tunis\nRLadies+ East Lansing\nRLadies+ Guayaquil\nRLadies+ Santa Rosa\nRLadies+ Cuernavaca",
+    "status": "PAST",
+    "dateTime": "2021-04-28T15:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-cuernavaca/events/277740136/",
+    "featuredEventPhoto": {
+      "id": "495865904",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/5/3/0/highres_495865904.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/5/3/0/600_495865904.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/5/3/0/thumb_495865904.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 22,
+      "waitlistCount": 0,
+      "totalCount": 22
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Cuernavaca",
+      "urlname": "rladies-cuernavaca"
+    }
+  },
+  {
+    "id": "277003169",
+    "title": "Meetup: Tidyverse",
+    "description": "Bienvenidxs! Este meetup está dirigido a personas con conocimientos básicos de R que deseen aprender a utilizar el paquete tidyverse.\n\nREQUERIMIENTOS DE SOFTWARE\n+ Tener instalado R >= 4.0\n+ Tener instalado RStudio >= 1.4\n+ Instalar el paquete de R: tidyverse\n\nPuedes usar este comando para su instalación:\ninstall.packages(\"tidyverse\", dependencies = TRUE)\n\nCÓDIGO DE CONDUCTA\nRecuerda leer y atender nuestro código de conducta disponible en https://rladies.org/code-of-conduct/ o https://rladiesmx.netlify.app/codigo_de_conducta/\n\nPATROCINADORES\nAgradecemos a nuestros patrocinadores: R Consortium y Red Mexicana de Bioinformática",
+    "status": "PAST",
+    "dateTime": "2021-03-24T16:30:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-cuernavaca/events/277003169/",
+    "featuredEventPhoto": {
+      "id": "495245672",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/6/2/8/highres_495245672.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/6/2/8/600_495245672.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/6/2/8/thumb_495245672.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 58,
+      "waitlistCount": 0,
+      "totalCount": 58
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Cuernavaca",
+      "urlname": "rladies-cuernavaca"
+    }
+  },
+  {
+    "id": "289500919",
+    "title": "Gráficos para publicación",
+    "description": "\\#\\# TÍTULO\nGráficos avanzados\n\\#\\# DESCRIPCIÓN\nEn este taller mostraremos cómo realizar gráficos con calidad para publicación utilizando ggplot2 y el paquete ggpubr.\n\\#\\# SOBRE LA PONENTE\nErnestina es la Jefa del Departamento de Bioinformática en Enfermedades Infecciosas del Instituto Nacional de Salud Pública, que da apoyo transversal en ámbitos de secuenciación masiva y análisis bioinformático a los investigadores de ese Instituto. Sus líneas de investigación son análisis del repertorio de anticuerpos en condiciones de salud, enfermedad y vacunación, la genómica comparativa de aislados clínicos de importancia en la salud pública, así como Metagenómica aplicada a enfermedades infecciosas. Durante su doctorado formó parte del desarrollo de ImmunediveRsity, un software especializado para el análisis de secuencias de anticuerpos. Sus intereses son la Bioinformática, el Desarrollo de Software, la Visualización de datos y la Enseñanza.\n\\#\\# REQUERIMIENTOS DE SOFTWARE\n+ R >=4.0 y RStudio en su versión más actual\n+ Paquetes de R: ggplot2, reshape2, ggpubr\nPuedes usar la instrucción de instalación:\ninstall.packages(c(\"ggplot2\", \"reshape2\",\"ggpubr\"), dependencies = TRUE)",
+    "status": "PAST",
+    "dateTime": "2022-11-04T17:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-cuernavaca/events/289500919/",
+    "featuredEventPhoto": {
+      "id": "508300955",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/f/f/b/highres_508300955.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/f/f/b/600_508300955.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/f/f/b/thumb_508300955.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 50,
+      "waitlistCount": 0,
+      "totalCount": 50
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Cuernavaca",
+      "urlname": "rladies-cuernavaca"
+    }
+  },
+  {
+    "id": "289045887",
+    "title": "Gráficos Avanzados",
+    "description": "\\#\\# TÍTULO\nGráficos Avanzados\n\\#\\# DESCRIPCIÓN\nEn esta sesión, mostraremos el manejo de características específicas de los gráficos generados con ggplot2, en términos de la estética y la geometría, partiendo de un conjunto de datos determinado.\n\\#\\# SOBRE LA PONENTE\nErnestina es la Jefa del Departamento de Bioinformática en Enfermedades Infecciosas del Instituto Nacional de Salud Pública, que da apoyo transversal en ámbitos de secuenciación masiva y análisis bioinformático a los investigadores de ese Instituto. Sus líneas de investigación son análisis del repertorio de anticuerpos en condiciones de salud, enfermedad y vacunación, la genómica comparativa de aislados clínicos de importancia en la salud pública, así como Metagenómica aplicada a enfermedades infecciosas. Durante su doctorado formó parte del desarrollo de ImmunediveRsity, un software especializado para el análisis de secuencias de anticuerpos. Sus intereses son la Bioinformática, el Desarrollo de Software, la Visualización de datos y la Enseñanza.\n\\#\\# REQUERIMIENTOS DE SOFTWARE\n+ R >=4.0 y RStudio en su versión más actual\n+ Paquetes de R: ggplot2, reshape2\nPuedes usar la instrucción de instalación:\ninstall.packages(c(\"ggplot2\", \"reshape2\"), dependencies = TRUE)",
+    "status": "PAST",
+    "dateTime": "2022-10-13T17:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-cuernavaca/events/289045887/",
+    "featuredEventPhoto": {
+      "id": "507720988",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/d/c/highres_507720988.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/d/c/600_507720988.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/d/c/thumb_507720988.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 60,
+      "waitlistCount": 0,
+      "totalCount": 60
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Cuernavaca",
+      "urlname": "rladies-cuernavaca"
+    }
+  },
+  {
+    "id": "288593119",
+    "title": "3er Encuentro Anual Rladies Mexico. Gráficas con ggplot2",
+    "description": "**3er Encuentro Anual Rladies Mexico**\n\n* 10:00. Apertura. ¿ Cómo ha crecido R Ladies México?\n10:30. Mesa redonda: Multilenguaje (Python, sql, R y su edición en VS Code, RStudio, Posit)\n11:00 Talleres simultáneos híbridos\n+ Sintaxis de ggplot2 (Cuernavaca)\n+ Hasta el chisme tiene ciencia (Xalapa, Comitan, San Cristobal)\n+ Haz tu CV automatizado en Rmarkdown (Querétaro)\n12:00 Break/ Sesión de convivencia (10 min)\n12:10 Mega pláticas¿Cómo aplican R ciertas especialistas Matemáticas, ciencias sociales, bioinformática, ecología\n* 12:40 Sesión de networking / Clausura\n\n**TALLER Rladies Cuernavaca**\nGráficas con ggplot2\n\n**DESCRIPCIÓN**\nEn este taller (que se llevará a cabo en el marco del 3er encuentro anual de RLadies México), mostraremosmos la estructura general para generar gráficos con ggplot2, en términos de la estética y la geometría, partiendo de un conjunto de datos determinado.\n\n**SOBRE LA PONENTE**\nErnestina Godoy es la Jefa del Departamento de Bioinformática en Enfermedades Infecciosas del Instituto Nacional de Salud Pública, que da apoyo transversal en ámbitos de secuenciación masiva y análisis bioinformático a los investigadores de ese Instituto. Sus líneas de investigación son análisis del repertorio de anticuerpos en condiciones de salud, enfermedad y vacunación, la genómica comparativa de aislados clínicos de importancia en la salud pública, así como Metagenómica aplicada a enfermedades infecciosas. Durante su doctorado formó parte del desarrollo de ImmunediveRsity, un software especializado para el análisis de secuencias de anticuerpos. Sus intereses son la Bioinformática, el Desarrollo de Software, la Visualización de datos y la Enseñanza.\n\n**REQUERIMIENTOS DE SOFTWARE**\n\n* R >=4.0 y RStudio en su versión más actual\n* Paquetes de R: ggplot2, reshape2\nPuedes usar la instrucción de instalación:\ninstall.packages(c(\"ggplot2\", \"reshape2\"), dependencies = TRUE)",
+    "status": "PAST",
+    "dateTime": "2022-09-24T10:00:00-05:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-cuernavaca/events/288593119/",
+    "featuredEventPhoto": {
+      "id": "507183956",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/f/7/4/highres_507183956.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/f/7/4/600_507183956.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/f/7/4/thumb_507183956.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 73,
+      "waitlistCount": 0,
+      "totalCount": 73
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Cuernavaca",
+      "urlname": "rladies-cuernavaca"
+    }
+  },
+  {
+    "id": "287731556",
+    "title": "Tidyverse Avanzado",
+    "description": "## Detalles\n\n¡Bienvenidos! En este Meetup continuaremos revisando el fabuloso paquete de Tidyverse\n\nSOBRE LA PONENTE:\nNuestra ponente será Verónica Jiménez Jacinto. Verónica es M. en Ciencias. Colabora con la Unidad Universitaria de Secuenciación Masiva y Bioinformática con sede en el Instituto de Biotecnología de la UNAM. Tiene la certificación en enseñanza del software para científicos. Tiene el compromiso de colaborar en la formación de bioinformática en México, Latinoamérica y en general hispanohablantes, a través del Laboratorio Nacional de Apoyo Tecnologico a las ciencias Genómicas.\n\nCONOCIMIENTOS PREVIOS REQUERIDOS:\nEste Meetup está dirigido a interesados en la programación en el lenguaje R.\n\nREQUERIMIENTOS DE SOFTWARE\n\n* Tener instalado R (versión >= 3.4) y RStudio (versión >= 1.4)\n* Instalar el paquete tidyverse usando install.packages(“tidyverse”)\n\nCÓDIGO DE CONDUCTA\nRecuerda leer y atender nuestro código de conducta disponible en https://rladies.org/code-of-conduct/ o https://rladiesmx.netlify.app/codigo_de_conducta/\nPATROCINADORES\nAgradecemos a nuestros patrocinadores: Red Mexicana de Bioinformática y al Instituto de Biotecnología",
+    "status": "PAST",
+    "dateTime": "2022-08-11T17:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-cuernavaca/events/287731556/",
+    "featuredEventPhoto": {
+      "id": "506186310",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/6/c/6/highres_506186310.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/6/c/6/600_506186310.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/6/c/6/thumb_506186310.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 47,
+      "waitlistCount": 0,
+      "totalCount": 47
+    },
+    "venues": [],
+    "group": {
+      "name": "R-Ladies Cuernavaca",
+      "urlname": "rladies-cuernavaca"
+    }
+  },
+  {
+    "id": "287134853",
+    "title": "Introducción a Tidyverse",
+    "description": "## Detalles\n\n¡Bienvenidos! En este Meetup haremos una introducción a fabuloso paquete de Tidyverse\n\nSOBRE LA PONENTE:\nNuestra ponente será Joselyn Chávez Fuentes. Joselyn es Doctora en Ciencias Bioquímicas y actualmente se encuentra realizando una estancia postdoctoral en el Departamento de Medicina Personalizada de la Icahn School of Medicine at Mount Sinai, en la ciudad de Nueva York. Su principal interés es la bioinformática y el desarrollo de software para análisis de datos transcriptómicos espaciales de célula única. Además de su proyecto de investigación, Joselyn disfruta dar clases de R y participar en actividades que ayudan a expandir la comunidad de desarrolladores de software en latinoamérica.\nCONOCIMIENTOS PREVIOS REQUERIDOS:\nEste Meetup está dirigido a principiantes en el uso de R y a quienes busquen reforzar los conceptos fundamentales de este lenguaje de programación.\nREQUERIMIENTOS DE SOFTWARE\n\n* Tener instalado R (versión >= 3.4) y RStudio (versión >= 1.4)\n* Instalar el paquete datos usando install.packages(“datos”)\n* Instalar el paquete tidyverse usando install.packages(“tidyverse”)\n\nCÓDIGO DE CONDUCTA\nRecuerda leer y atender nuestro código de conducta disponible en https://rladies.org/code-of-conduct/ o https://rladiesmx.netlify.app/codigo_de_conducta/\nPATROCINADORES\nAgradecemos a nuestros patrocinadores: Red Mexicana de Bioinformática y al Instituto de Biotecnología",
+    "status": "PAST",
+    "dateTime": "2022-07-14T17:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-cuernavaca/events/287134853/",
+    "featuredEventPhoto": {
+      "id": "505492398",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/c/a/e/highres_505492398.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/c/a/e/600_505492398.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/c/a/e/thumb_505492398.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 48,
+      "waitlistCount": 0,
+      "totalCount": 48
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Cuernavaca",
+      "urlname": "rladies-cuernavaca"
+    }
+  },
+  {
+    "id": "286393122",
+    "title": "Pruebas estadísticas en R: X2, t y ANOVA",
+    "description": "**En esta sesión aprenderemos a realizar diferentes variantes de las pruebas estadísticas X2, t y ANOVA con el lenguaje de programación R. Abordaremos cómo elegir un test estadístico, la interpretación de los resultados de las pruebas X2, t y ANOVA, así como otras pruebas y correcciones que se emplean en escenarios particulares.**\n\n**TEMARIO**\n\n**Elección de una prueba estadística**\n**Supuestos de la prueba X2**\n**Diferentes escenarios del uso de X2**\n**Supuestos de las pruebas T de Student y ANOVA**\n**Diferentes escenarios del uso de T de Student**\n**Diferentes escenarios del uso de ANOVA**\n\n**SOBRE LA PONENTE**\n\n**Aurora es especialista en bioinformática. Fundó el servicio de consultoría y análisis de datos OMICs Analysis, que apoya a científicos y empresas que realizan grandes proyectos de transcriptómica y metagenómica. Le gusta la enseñanza, por lo que frecuentemente imparte clases y seminarios en distintas sedes. Además le interesan muchos temas de tecnología, como la programación de sitios web y la impresión 3D. Adicionalmente, Aurora es co-organizadora del capítulo RLadies Cuernavaca.**\n\n**CONOCIMIENTOS PREVIOS REQUERIDOS:**\n\n**Este meetup está dirigido a personas con conocimientos básicos de R y de estadística.**\n\n**REQUERIMIENTOS DE SOFTWARE**\n\n**R >=4.0 y RStudio**\n**Paquetes de R: ggplot2, ggpubr, corrplot, MASS, tidyverse**\n**Puedes usar la instrucción de instalación:**\n**install.packages(c(\"ggplot2\", \"ggpubr\", \"corrplot\", \"MASS\", \"tidyverse\"), dependencies = TRUE)**",
+    "status": "PAST",
+    "dateTime": "2022-06-09T17:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-cuernavaca/events/286393122/",
+    "featuredEventPhoto": {
+      "id": "504648943",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/f/2/f/highres_504648943.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/f/2/f/600_504648943.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/f/2/f/thumb_504648943.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 65,
+      "waitlistCount": 0,
+      "totalCount": 65
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Cuernavaca",
+      "urlname": "rladies-cuernavaca"
+    }
+  },
+  {
+    "id": "285740579",
+    "title": "Estadística descriptiva con R: gráficas, tablas y medidas de resumen",
+    "description": "\\#\\# DESCRIPCIÓN\nEn esta sesión descubriremos la forma en que se usa R para pasar de una lista de datos a gráficas, tablas y estadísticas que nos revelan las características de un conjunto de datos. Repasaremos brevemente varios principios de estadística descriptiva para después llevarlos a la práctica con ejercicios variados en R.\n\n\\#\\# TEMARIO\n\\- Datos cualitativos y cuantitativos en el ambiente de R\n\\- Tablas de frecuencias y tablas de contingencias\n\\- Cálculo de medidas de tendencia central \\(ej\\. promedio\\, mediana\\)\n\\- Cálculo de medidas de dispersión \\(ej\\. desviación estándar\\)\n\\- Cálculo de medidas de correlación entre variables\n\\- Representación de distintos tipos de datos datos con gráficas\n\n\\#\\# SOBRE LA PONENTE\nAurora es especialista en bioinformática. Fundó el servicio de consultoría y análisis de datos OMICs Analysis, que apoya a científicos y empresas que realizan grandes proyectos de transcriptómica y metagenómica. Le gusta la enseñanza, por lo que frecuentemente imparte clases y seminarios en distintas sedes. Además le interesan muchos temas de tecnología, como la programación de sitios web y la impresión 3D. Adicionalmente, Aurora es co-organizadora del capítulo RLadies Cuernavaca.\n\n\\#\\# REQUERIMIENTOS DE SOFTWARE\n+ R >=4.0 y RStudio en su versión más actual\n+ Paquetes de R: ggplot2, pastecs, summarytools, psych, tidyverse, corrplot, Hmisc, correlation, dplyr\nPuedes usar la instrucción de instalación:\ninstall.packages(c(\"ggplot2\", \"pastecs\", \"psych\", \"tidyverse\", \"corrplot\", \"correlation\", \"dplyr\", \"Hmisc\",\"summarytools\"), dependencies = TRUE)\n\nNota: En Mac OS el paquete summarytools requerirá a Xcode para poder instalarse. Puedes descargar el instalador de Xcode en https://www.xquartz.org/.",
+    "status": "PAST",
+    "dateTime": "2022-05-12T17:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-cuernavaca/events/285740579/",
+    "featuredEventPhoto": {
+      "id": "503910365",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/6/9/d/highres_503910365.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/6/9/d/600_503910365.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/6/9/d/thumb_503910365.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 51,
+      "waitlistCount": 0,
+      "totalCount": 51
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Cuernavaca",
+      "urlname": "rladies-cuernavaca"
+    }
+  },
+  {
+    "id": "285273865",
+    "title": "Generación de proyectos en RStudio",
+    "description": "¡Bienvenidos! En este Meetup hablaremos sobre la creación de proyectos en RStudio.\n\nTEMARIO\n\\- Diferencias entre usar directorios de trabajo y proyectos de RStudio\n\\- Generación de flujos de trabajo usando proyectos de RStudio\n\\- Creando rutas seguras con proyectos de RStudio\n\nSOBRE LA PONENTE:\nNuestra ponente será Joselyn Chávez Fuentes. Joselyn es Doctora en Ciencias Bioquímicas y actualmente se encuentra realizando una estancia postdoctoral en el Departamento de Medicina Personalizada de la Icahn School of Medicine at Mount Sinai, en la ciudad de Nueva York. Su principal interés es la bioinformática y el desarrollo de software para análisis de datos transcriptómicos espaciales de célula única. Además de su proyecto de investigación, Joselyn disfruta dar clases de R y participar en actividades que ayudan a expandir la comunidad de desarrolladores de software en latinoamérica.\n\nCONOCIMIENTOS PREVIOS REQUERIDOS:\nEste Meetup está dirigido a principiantes en el uso de R y a quienes busquen reforzar los conceptos fundamentales de este lenguaje de programación.\n\nREQUERIMIENTOS DE SOFTWARE\n+ Tener instalado R (versión >= 3.4) y RStudio (versión >= 1.4)\n+ Instalar el paquete datos usando install.packages(“datos”)\n+ Instalar el paquete rmarkdown usando install.packages(“rmarkdown”)\n+ Instalar el paquete here usando install.packages(“here”)\n\nCÓDIGO DE CONDUCTA\nRecuerda leer y atender nuestro código de conducta disponible en https://rladies.org/code-of-conduct/ o https://rladiesmx.netlify.app/codigo_de_conducta/\n\nPATROCINADORES\nAgradecemos a nuestros patrocinadores: Red Mexicana de Bioinformática y al Instituto de Biotecnología",
+    "status": "PAST",
+    "dateTime": "2022-04-21T17:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-cuernavaca/events/285273865/",
+    "featuredEventPhoto": {
+      "id": "503388898",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/f/0/2/highres_503388898.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/f/0/2/600_503388898.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/f/0/2/thumb_503388898.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 41,
+      "waitlistCount": 0,
+      "totalCount": 41
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Cuernavaca",
+      "urlname": "rladies-cuernavaca"
+    }
+  },
+  {
+    "id": "284345839",
+    "title": "Matrices, listas y dataframes en R",
+    "description": "```\nEn este Meetup hablaremos sobre qué son las matrices, listas y dataframes en R. Así como el manejo de los mismos con ejemplos.\n\nTemario:\n\nDefinición, creación y manejo de:\n- Matrices\n- Listas\n- Dataframes\n\nSOBRE LA PONENTE:\nNuestra ponente será Cristina Domínguez Mendoza. Cristina es Doctora en Ciencias en Biotecnología. Su principal interés es la dinámica de poblaciones silvestres, sus procesos demográficos de dispersión, de flujo genético y de adaptación local al ambiente. Para investigar dichos procesos integra datos genios y ecológicos, a través de disciplinas como la genética de poblaciones, bioinformática y la ecología microbiana.\n\nCONOCIMIENTOS PREVIOS REQUERIDOS:\nEste Meetup está dirigido a principiantes en el uso de R y a quienes busquen reforzar los conceptos fundamentales de este lenguaje de programación.\n\nREQUERIMIENTOS DE SOFTWARE\n+ Tener instalado R >= 4.0\n+ Tener instalado RStudio >= 1.4\n\nCÓDIGO DE CONDUCTA\nRecuerda leer y atender nuestro código de conducta disponible en https://rladies.org/code-of-conduct/ o https://rladiesmx.netlify.app/codigo_de_conducta/\n\nPATROCINADORES\nAgradecemos a nuestros patrocinadores: Red Mexicana de Bioinformática\n```",
+    "status": "PAST",
+    "dateTime": "2022-03-10T17:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-cuernavaca/events/284345839/",
+    "featuredEventPhoto": {
+      "id": "502391912",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/e/8/8/highres_502391912.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/e/8/8/600_502391912.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/e/8/8/thumb_502391912.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 108,
+      "waitlistCount": 0,
+      "totalCount": 108
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Cuernavaca",
+      "urlname": "rladies-cuernavaca"
+    }
+  },
+  {
+    "id": "283784636",
+    "title": "Uso básico de variables y de expresiones aritméticas y lógicas en R",
+    "description": "¡Bienvenidos! En este Meetup hablaremos sobre los principios básicos de la creación y uso de variables en R y sobre cómo usar variables en operaciones aritméticas y lógicas.\n\nTEMARIO\n\nVariables en R\nTipos\nManejo básico (creación, asignación de valor y más)\n\nExpresiones aritméticas con variables\n\nComparación entre variables usando operadores relacionales\n\nOperaciones lógicas compuestas usando a AND, OR y NOT\n\nSOBRE LA PONENTE:\nNuestra ponente será Aurora Labastida Martínez. Aurora estudió la Licenciatura en Investigación Biomédica y la Maestría en Ciencias Bioquímicas en la UNAM. Es especialista en el análisis de datos de secuenciación masiva de ADN, una actividad en la cuál utiliza ampliamente a R. Actualmente dirige el servicio de análisis de datos OMICs Analysis.\n\nCONOCIMIENTOS PREVIOS REQUERIDOS:\nEste Meetup está dirigido a principiantes en el uso de R y a quienes busquen reforzar los conceptos fundamentales de este lenguaje de programación.\n\nREQUERIMIENTOS DE SOFTWARE\n+ Tener instalado R >= 4.0\n+ Tener instalado RStudio >= 1.4\n\nCÓDIGO DE CONDUCTA\nRecuerda leer y atender nuestro código de conducta disponible en https://rladies.org/code-of-conduct/ o https://rladiesmx.netlify.app/codigo_de_conducta/\n\nPATROCINADORES\nAgradecemos a nuestros patrocinadores: Red Mexicana de Bioinformática",
+    "status": "PAST",
+    "dateTime": "2022-02-10T17:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-cuernavaca/events/283784636/",
+    "featuredEventPhoto": {
+      "id": "501870117",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/5/a/5/highres_501870117.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/5/a/5/600_501870117.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/5/a/5/thumb_501870117.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 109,
+      "waitlistCount": 0,
+      "totalCount": 109
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Cuernavaca",
+      "urlname": "rladies-cuernavaca"
+    }
+  },
+  {
+    "id": "283042234",
+    "title": "Introducción a  R y RStudio",
+    "description": "Este meetup está dirigido a personas que deseen aprender a los principios básicos del lenguaje R y el IDE RStudio.\n\nREQUERIMIENTOS DE SOFTWARE\n+ Tener instalado R >= 4.0\n+ Tener instalado RStudio >= 1.4\n\nCÓDIGO DE CONDUCTA\nRecuerda leer y atender nuestro código de conducta disponible en https://rladies.org/code-of-conduct/ o https://rladiesmx.netlify.app/codigo_de_conducta/\n\nPATROCINADORES\nAgradecemos a nuestros patrocinadores: Red Mexicana de Bioinformática",
+    "status": "PAST",
+    "dateTime": "2022-01-13T17:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-cuernavaca/events/283042234/",
+    "featuredEventPhoto": {
+      "id": "501177844",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/e/1/f/4/highres_501177844.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/e/1/f/4/600_501177844.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/1/f/4/thumb_501177844.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 154,
+      "waitlistCount": 0,
+      "totalCount": 154
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Cuernavaca",
+      "urlname": "rladies-cuernavaca"
+    }
+  },
+  {
+    "id": "297274262",
+    "title": "Creación de Heatmaps",
+    "description": "¡Les damos la bienvenida!\n\n* En este meetup aprenderemos:\n* La creación de heatmaps con varias librerías de R\n* Procesos de clusterización\n\n* Materiales\n\nhttps://github.com/RLadiesCuerna/meetup_noviembre_2023\n\n* Conocimientos previos requeridos\nPara aprovechar al máximo este Meetup, se recomienda tener conocimientos básicos de R y RStudio.\n\n* Requerimientos de software\n\nTener instalado R >= 4.0\nTener instalado RStudio >= 1.4\n\n* Librerías instaladas\n\nggplot2, gplots, vegan, reshape2, circlize, ComplexHeatmap, Heatplus\nPueden instalarlas con las siguientes instrucciones:\n\nCRAN\ninstall.packages(\"ggplot2\")\ninstall.packages(\"gplots\")\ninstall.packages(\"vegan\")\ninstall.packages(\"reshape2\")\ninstall.packages(\"circlize\")\ninstall.packages(\"BiocManager\")\nBioconductor\nBiocManager::install(\"ComplexHeatmap\")\nBiocManager::install(\"Heatplus\")\n\n* Código de Conducta\n\nRecuerda leer y atender nuestro código de conducta disponible en https://rladies.org/code-of-conduct/ o https://rladiesmx.netlify.app/codigo_de_conducta/\n\n* Patrocinadores\n\nAgradecemos a nuestros patrocinadores: Red Mexicana de Bioinformática y al Instituto de Biotecnología",
+    "status": "PAST",
+    "dateTime": "2023-11-16T17:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-cuernavaca/events/297274262/",
+    "featuredEventPhoto": {
+      "id": "517181067",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/0/6/b/highres_517181067.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/0/6/b/600_517181067.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/0/6/b/thumb_517181067.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 84,
+      "waitlistCount": 0,
+      "totalCount": 84
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Cuernavaca",
+      "urlname": "rladies-cuernavaca"
+    }
+  },
+  {
+    "id": "296647643",
+    "title": "Tidyverse",
+    "description": "¡Les damos la bienvenida!\nEn este meetup aprenderemos:\n\\- Uso de pipes \\(flujos de trabajo dentro de una función\\)\\.\n\\- Buenas practicas de programacion \\(FAIR\\)\n\n**Fecha**\nJueves 12 de octubre de 2023\n\n**Hora**\nEsta vez comenzaremos a las **5:30 pm** (CDMX)\n\n**Instructora**\nM.C. Verónica Jiménez Jacinto\n\n**Materiales**\n[https://github.com/RLadiesCuerna/meetup_octubre_2023](https://github.com/RLadiesCuerna/meetup_octubre_2023)\n\nPara descargar este repositorio, da click en el botón Code > Download zip.\nSi lo prefieres, puedes usar el comando git clone < url_repositorio > desde tu terminal para clonar el repositorio.\n\n**Conocimientos previos requeridos**\nPara aprovechar al máximo este Meetup, se recomienda tener conocimientos básicos de R y RStudio. Tener nociones de Tidyverse\n\n**Requerimientos de software**\nTener instalado R >= 4.0\nTener instalado RStudio >= 1.4\nTener instalado tidyverse\n\n**Código de Conducta**\nRecuerda leer y atender nuestro código de conducta disponible en [https://rladies.org/code-of-conduct/](https://rladies.org/code-of-conduct/) o [https://rladiesmx.netlify.app/codigo_de_conducta/](https://rladiesmx.netlify.app/codigo_de_conducta/)\n\n**Patrocinadores**\nAgradecemos a nuestros patrocinadores: Red Mexicana de Bioinformática y al Instituto de Biotecnología",
+    "status": "PAST",
+    "dateTime": "2023-10-12T17:30:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-cuernavaca/events/296647643/",
+    "featuredEventPhoto": {
+      "id": "516464680",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/e/8/8/highres_516464680.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/e/8/8/600_516464680.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/e/8/8/thumb_516464680.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 56,
+      "waitlistCount": 0,
+      "totalCount": 56
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Cuernavaca",
+      "urlname": "rladies-cuernavaca"
+    }
+  },
+  {
+    "id": "295965897",
+    "title": "RLadies Mexico.  4to encuentro Anual",
+    "description": "Como cada año, en el mes patrio, llevamos a cabo nuestra reunión Anual de RLadies Mexico, que es una gran fiesta que reúne a todos los capítulos en México.\n\n**Programa**\n\n10:00 am Bienvenida\n10:15 am Sesión Plenaria\n**Ponente:** Yanina Bellini\n**Tema:** ROpenSci.\n11:15 am. Los capítulos de RLadies en Mexico\n12:00 am Platicas cortas:\n\n* **Uso de las Shiny apps para el desarrollo de plataformas.**\n* **Gráficación para el análisis de Datos**\n* **Haciendo presentaciones con R. (Xaringan)**\n\n12:45 Socialización, Networkig, rifas\n\nNuestra ponente de la sesión Plenaria, Yanina Bellini es Community Manager de ROpenSci, Lider y parte equipo de Global RLadies. Consul ejecutivo de Sofware Carpentries, Fundadora de MetaDocencia, docente de varias universidades Argentinas y una excelente ponente y divulgadora. No te lo puedes perder!",
+    "status": "PAST",
+    "dateTime": "2023-09-23T10:00:00-06:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-cuernavaca/events/295965897/",
+    "featuredEventPhoto": {
+      "id": "515708388",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/0/c/4/highres_515708388.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/0/c/4/600_515708388.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/0/c/4/thumb_515708388.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 74,
+      "waitlistCount": 0,
+      "totalCount": 74
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Cuernavaca",
+      "urlname": "rladies-cuernavaca"
+    }
+  },
+  {
+    "id": "295516128",
+    "title": "Trabajando con GitHub desde RStudio",
+    "description": "**Trabajando con GitHub desde RStudio**\n\n¡Les damos la bienvenida!\n\nEn este meetup aprenderemos:\n\n* ¿Qué es el control de versiones?\n* ¿Cómo generamos un repositorio de GitHub?\n* ¿Cómo sincronizamos y damos seguimiento a los cambios de un repositorio desde RStudio?\n\n**Requerimientos de software**\n\nTener instalado R >= 4.0\n\nTener instalado RStudio >= 1.4\n\nTener instalado git.\n\nGit se puede utilizar en todos los sistemas operativos. Aquí hay algunas opciones para instalar git en tu sistema:\n\n* https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Instalaci%C3%B3n-de-Git\n* https://git-scm.com/downloads\n* https://github.com/git-guides/install-git\n* https://gitforwindows.org/\n\n**Materiales**\n\nPara descargar los materiales de este Meetup ve a:\n\nhttps://github.com/RLadiesCuerna/meetup_agosto_2023\n\ny da click en el botón Code > Download zip.\n\nSi lo prefieres, puedes usar el comando git clone < url_repositorio > desde tu terminal para clonar el repositorio.\n\n**Diapositivas:**\nhttps://rladiescuerna.github.io/meetup_agosto_2023/slides.html\n\n**Conocimientos previos requeridos**\n\nPara aprovechar al máximo este Meetup, se recomienda tener conocimientos básicos de R y RStudio, así como la generación de proyectos de RStudio.\n\n**Código de Conducta**\n\nRecuerda leer y atender nuestro código de conducta disponible en https://rladies.org/code-of-conduct/ o https://rladiesmx.netlify.app/codigo_de_conducta/\n\n**Patrocinadores**\n\nAgradecemos a nuestros patrocinadores: Red Mexicana de Bioinformática y al Instituto de Biotecnología",
+    "status": "PAST",
+    "dateTime": "2023-08-24T17:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-cuernavaca/events/295516128/",
+    "featuredEventPhoto": {
+      "id": "515204806",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/f/0/6/highres_515204806.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/f/0/6/600_515204806.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/f/0/6/thumb_515204806.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 86,
+      "waitlistCount": 0,
+      "totalCount": 86
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Cuernavaca",
+      "urlname": "rladies-cuernavaca"
+    }
+  },
+  {
+    "id": "294926612",
+    "title": "Generación de Proyectos en RStudio",
+    "description": "¡Les damos la bienvenida!\n**En este meetup aprenderemos:**\n\n* ¿Qué es un proyecto de RStudio?\n* ¿Cómo generamos un proyecto de RStudio?\n* ¿Por qué usar proyectos de RStudio?\n\n**Para descargar los materiales de la reunión ve a**\nhttps://github.com/RLadiesCuerna/meetup_julio_2023\nDiapositivas: http://rladiescuerna.github.io/meetup_julio_2023/slides.html\n\n**Conocimientos previos requeridos**\nPara aprovechar al máximo este Meetup, se recomienda tener conocimientos básicos de R y RStudio.\n\n**Requerimientos de software**\n\n* Tener instalado R >= 4.0\n* Tener instalado RStudio >= 1.4\n\n**Código de Conducta**\nRecuerda leer y atender nuestro código de conducta disponible en [https://rladies.org/code-of-conduct/ o https://rladiesmx.netlify.app/codigo_de_conducta/](https://rladies.org/code-of-conduct/ o https://rladiesmx.netlify.app/codigo_de_conducta/)\n\n**Patrocinadores**\nAgradecemos a nuestros patrocinadores: Red Mexicana de Bioinformática y al Instituto de Biotecnología",
+    "status": "PAST",
+    "dateTime": "2023-07-27T17:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-cuernavaca/events/294926612/",
+    "featuredEventPhoto": {
+      "id": "514537985",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/4/6/1/highres_514537985.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/4/6/1/600_514537985.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/4/6/1/thumb_514537985.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 62,
+      "waitlistCount": 0,
+      "totalCount": 62
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Cuernavaca",
+      "urlname": "rladies-cuernavaca"
+    }
+  },
+  {
+    "id": "293939474",
+    "title": "¿Cómo lo hago una y mil veces? Estructuras de loop en R",
+    "description": "¡Les damos la bienvenida!\n\n**En este meetup aprenderemos:**\n\n* Introducción a bucles (loops) en R: ¿Qué es un bucle y cuál es su utilidad e importancia en programación?\n\n* Estructuras de bucle en R: For para iterar sobre una secuencia de valores; while para iterar mientras se cumpla una condición; repeat para crear blucles infinitos.\n* Control del flujo de bucles: break cómo interrumpir un bucle y salir de él antes de que se complete; next cómo omitir una iteración y pasar a la siguiente en un bucle.\n* En R existe la familia de funciones apply(); lapply(); sapply()...\n\n**Fecha: Jueves 08 de junio de 2023**\n\n**Materiales**\nPara descargar este repositorio, da click en el botón Code > Download zip.\nSi lo prefieres, puedes usar el comando git clone < url_repositorio > desde tu terminal para clonar el repositorio.\n\n**Requerimientos de software**\nTener instalado R >= 4.0\nTener instalado RStudio >= 1.4\n\n**Código de Conducta**\nRecuerda leer y atender nuestro código de conducta disponible en https://rladies.org/code-of-conduct/ o https://rladiesmx.netlify.app/codigo_de_conducta/\nPatrocinadores\nAgradecemos a nuestros patrocinadores: Red Mexicana de Bioinformática y al Instituto de Biotecnología",
+    "status": "PAST",
+    "dateTime": "2023-06-08T18:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-cuernavaca/events/293939474/",
+    "featuredEventPhoto": {
+      "id": "513341547",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/2/4/b/highres_513341547.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/2/4/b/600_513341547.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/2/4/b/thumb_513341547.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 69,
+      "waitlistCount": 0,
+      "totalCount": 69
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": 0,
+        "lon": 0,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Cuernavaca",
+      "urlname": "rladies-cuernavaca"
+    }
+  },
+  {
+    "id": "293418412",
+    "title": "Estructuras condicionales en R",
+    "description": "\\*\\* Descripción\nEste taller te permitirá aprender a manejar las estructuras de control en R, un aspecto fundamental en la programación para automatizar tareas repetitivas o condicionales. A lo largo de dos horas, veremos cómo utilizar las estructuras de control más comunes en R, como el bucle for, el bucle while y las estructuras if-else. Aprenderás a escribir código eficiente y legible, evitando la repetición innecesaria de código y mejorando la legibilidad de tus programas. El taller está dirigido a personas con conocimientos básicos de R. Al finalizar el taller, los participantes tendrán las habilidades necesarias para aplicar estructuras de control en R a sus propios proyectos y análisis de datos.\n\n\\*\\* De la ponente\nLa Dra. Mirna Vazquez Rosas Landa es investigadora en el Instituto de Ciencias de Mar y Limnología de la UNAM, donde se dedica a estudiar la vida microbiana del océano. Su trabajo se enfoca en explorar preguntas sobre biogeografía, evolución, ecología y fisiología de los microorganismos. Utiliza enfoques computacionales y experimentales para responder a estas preguntas y su interés principal es entender cuáles son los factores que determinan la distribución de las especies microbianas en el océano, entre otros. Además de su trabajo en la investigación, la Dra. Vazquez tiene una pasión por enseñar y compartir conocimientos. Es co-organizadora de RLadies Xalapa desde el 2018 y es una instructora activa en la Comunidad de Desarrolladores de Software en Bioinformática y en la Red Mexicana de Bioinformática.",
+    "status": "PAST",
+    "dateTime": "2023-05-11T17:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-cuernavaca/events/293418412/",
+    "featuredEventPhoto": {
+      "id": "512733249",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/1/e/1/highres_512733249.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/1/e/1/600_512733249.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/1/e/1/thumb_512733249.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 55,
+      "waitlistCount": 0,
+      "totalCount": 55
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Cuernavaca",
+      "urlname": "rladies-cuernavaca"
+    }
+  },
+  {
+    "id": "292819754",
+    "title": "Programación orientada a objetos en R",
+    "description": "En este meetup aprenderemos ¿Cuáles son los tipos de datos básicos en R?, ¿Cómo represento la información categórica en R?, ¿Cómo puedo manipular un data frame?:\n\n* vectores\n* factores\n* matrices\n* listas\n* dataframes",
+    "status": "PAST",
+    "dateTime": "2023-04-13T17:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-cuernavaca/events/292819754/",
+    "featuredEventPhoto": {
+      "id": "511991275",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/c/0/b/highres_511991275.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/c/0/b/600_511991275.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/c/0/b/thumb_511991275.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 75,
+      "waitlistCount": 0,
+      "totalCount": 75
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Cuernavaca",
+      "urlname": "rladies-cuernavaca"
+    }
+  },
+  {
+    "id": "291925706",
+    "title": "Creando mis primeras funciones en R",
+    "description": "**¡Les damos la bienvenida!**\n**En este meetup aprenderemos:**\n\n* La importancia de utilizar funciones al programar.\n* Cómo llamar a una función en R.\n* Cómo construir funciones en R.\n* Tipos de argumentos y valores de regreso.\n* La diferencia entre variables locales y globales.\n\n**Materiales**\nLos materiales para este Meetup se pondrán a disposición de los asistentes al inicio del evento.\n\n**Conocimientos previos requeridos**\nPara aprovechar al máximo este Meetup, se recomienda tener conocimiento básico de la escritura de estructuras secuenciales y nociones básicas de variables numéricas. Para repasar estos conceptos recomendamos ver los siguientes Meetup:\n\n* Enero 2023: Paradigmas de programación\n* Febrero 2023: Mis primeros programas en R\n\n**Requerimientos de software**\n\n* Tener instalado R >= 4.0\n* Tener instalado RStudio >= 1.4\n\n**Código de Conducta**\nRecuerda leer y atender nuestro código de conducta disponible en https://rladies.org/code-of-conduct/ o https://rladiesmx.netlify.app/codigo_de_conducta/\n**Patrocinadores**\nAgradecemos a nuestros patrocinadores: Red Mexicana de Bioinformática y al Instituto de Biotecnología",
+    "status": "PAST",
+    "dateTime": "2023-03-09T17:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-cuernavaca/events/291925706/",
+    "featuredEventPhoto": {
+      "id": "510975691",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/d/4/b/highres_510975691.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/d/4/b/600_510975691.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/d/4/b/thumb_510975691.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 119,
+      "waitlistCount": 0,
+      "totalCount": 119
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Cuernavaca",
+      "urlname": "rladies-cuernavaca"
+    }
+  },
+  {
+    "id": "291411615",
+    "title": "Mis primeros programas en R: Escritura de estructuras secuenciales",
+    "description": "¡Bievenidos! En este Meetup aprenderemos las bases sobre qué es un programa y cómo generar un programa en R. Veremos cómo escribir secuencias de instrucciones para realizar tareas específicas y cómo procesar de datos de entrada para obtener un resultado.\n\nREQUERIMIENTOS DE SOFTWARE\nTener instalado R (versión >= 3.4) y RStudio (versión >= 1.4)\nCONOCIMIENTOS PREVIOS REQUERIDOS:\nPara aprovechar al máximo este Meetup se recomienda tener conocimiento básico de la sintaxis y los tipos variables de R. Para repasar estos conceptos recomendamos ver el siguiente Meetup:\n[Febrero 2022: Uso básico de variables y de expresiones aritméticas y lógicas en R](https://www.youtube.com/watch?v=cetjUV4lE0o&t=10s)\n\nCÓDIGO DE CONDUCTA\nRecuerda leer y atender nuestro código de conducta disponible en https://rladies.org/code-of-conduct/ o https://rladiesmx.netlify.app/codigo_de_conducta/\n\nPATROCINADORES\nAgradecemos a nuestros patrocinadores: Red Mexicana de Bioinformática y al Instituto de Biotecnología",
+    "status": "PAST",
+    "dateTime": "2023-02-09T17:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-cuernavaca/events/291411615/",
+    "featuredEventPhoto": {
+      "id": "510376659",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/1/1/3/highres_510376659.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/1/1/3/600_510376659.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/1/1/3/thumb_510376659.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 102,
+      "waitlistCount": 0,
+      "totalCount": 102
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Cuernavaca",
+      "urlname": "rladies-cuernavaca"
+    }
+  },
+  {
+    "id": "291051188",
+    "title": "Introducción a la Programación en R: Paradigmas de Programación",
+    "description": "¡Bievenidos! En este Meetup abordaremos a R como lenguaje de programación, explicando qué es un programa y los diferentes paradigmas de programación que podemos usar. Además, aprovecharemos para repasar varias características y ventajas de R y RStudio.\n\n\\>\\>\\>La liga de Zoom estará disponible en este mismo sitio antes del evento<<<\n\nREQUERIMIENTOS DE SOFTWARE\nSe sugiere instalar R y RStudio\n\nCONOCIMIENTOS PREVIOS REQUERIDOS:\nPara aprovechar al máximo este Meetup se recomienda tener conocimiento básico de la sintaxis y los tipos variables de R. Para repasar estos conceptos recomendamos nuestros Meetups anteriores sobre:\nVariables y Expresiones Aritméticas y Lógicas\n[https://www.youtube.com/watch?v=cetjUV4lE0o](https://www.youtube.com/watch?v=cetjUV4lE0o)\n\nCÓDIGO DE CONDUCTA\nRecuerda leer y atender nuestro código de conducta disponible en https://rladies.org/code-of-conduct/ o https://rladiesmx.netlify.app/codigo_de_conducta/\n\nPATROCINADORES\nAgradecemos a nuestros patrocinadores: Red Mexicana de Bioinformática y al Instituto de Biotecnología",
+    "status": "PAST",
+    "dateTime": "2023-01-26T17:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-cuernavaca/events/291051188/",
+    "featuredEventPhoto": {
+      "id": "509984994",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/f/c/2/highres_509984994.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/f/c/2/600_509984994.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/f/c/2/thumb_509984994.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 49,
+      "waitlistCount": 0,
+      "totalCount": 49
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Cuernavaca",
+      "urlname": "rladies-cuernavaca"
+    }
+  },
+  {
+    "id": "291051184",
+    "title": "Introducción a la Programación en R: Paradigmas de Programación",
+    "description": "¡Bievenidos! En este Meetup abordaremos a R como lenguaje de programación, explicando qué es un programa y los diferentes paradigmas de programación que podemos usar. Además, aprovecharemos para repasar varias características y ventajas de R y RStudio.\n\n\\>\\>\\>La liga de Zoom estará disponible en este mismo sitio antes del evento<<<\n\nREQUERIMIENTOS DE SOFTWARE\nSe sugiere instalar R y RStudio\n\nCONOCIMIENTOS PREVIOS REQUERIDOS:\nPara aprovechar al máximo este Meetup se recomienda tener conocimiento básico de la sintaxis y los tipos variables de R. Para repasar estos conceptos recomendamos nuestros Meetups anteriores sobre:\nVariables y Expresiones Aritméticas y Lógicas\n[https://www.youtube.com/watch?v=cetjUV4lE0o](https://www.youtube.com/watch?v=cetjUV4lE0o)\n\nCÓDIGO DE CONDUCTA\nRecuerda leer y atender nuestro código de conducta disponible en https://rladies.org/code-of-conduct/ o https://rladiesmx.netlify.app/codigo_de_conducta/\n\nPATROCINADORES\nAgradecemos a nuestros patrocinadores: Red Mexicana de Bioinformática y al Instituto de Biotecnología",
+    "status": "PAST",
+    "dateTime": "2023-01-26T17:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-cuernavaca/events/291051184/",
+    "featuredEventPhoto": {
+      "id": "509984994",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/f/c/2/highres_509984994.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/f/c/2/600_509984994.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/f/c/2/thumb_509984994.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 154,
+      "waitlistCount": 0,
+      "totalCount": 154
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Cuernavaca",
+      "urlname": "rladies-cuernavaca"
+    }
+  },
+  {
+    "id": "303423027",
+    "title": "5to Encuentro Anual de R-Ladies México",
+    "description": "¡Acompáñanos al **5to Encuentro Anual de R-Ladies México**! 🎉💜\n\nEste **sábado 28 de septiembre** a las **11:00 A.M**. (hora CDMX), te invitamos a formar parte de una jornada llena de conocimiento y comunidad, donde exploraremos proyectos innovadores liderados por expertas en el uso de **R**. 👩‍💻👩‍🔬\n🚀 Tendremos 3 charlas imperdibles con ponentes de primer nivel, quienes compartirán sus avances en:\n\n1. **Investigación** de la enfermedad de Parkinson 🧬\n2. Análisis de las **pasadas elecciones democráticas en Méxic**o 🗳️\n3. Cómo y por qué crear tu **primer paquete en R** 📦\n\n**¡No te lo pierdas!**\nRegístrate y únete a esta comunidad diversa, tendremos espacios de networking. 💪✨",
+    "status": "PAST",
+    "dateTime": "2024-09-28T11:00:00-06:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-cuernavaca/events/303423027/",
+    "featuredEventPhoto": {
+      "id": "523483130",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/8/7/a/highres_523483130.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/8/7/a/600_523483130.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/8/7/a/thumb_523483130.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 40,
+      "waitlistCount": 0,
+      "totalCount": 40
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Cuernavaca",
+      "urlname": "rladies-cuernavaca"
+    }
+  },
+  {
+    "id": "303237668",
+    "title": "ggplot2 para principiantes: Buenas prácticas de visualización de datos",
+    "description": "====\nDESCRIPCIÓN\n====\nEn esta sesión no solo aprenderás a hacer gráficas utilizando ggplot2, sino a cuestionarte qué gráfica es la más adecuada según el tipo de variables que deseas visualizar y el mensaje con el que deseas dejar a tu audiencia. También abordaremos buenas prácticas de visualización de datos y errores comunes.\n\n====\nREQUERIMIENTOS\n====\nSe requieren conocimientos básicos de R y tener instalado el paquete ggplot2",
+    "status": "PAST",
+    "dateTime": "2024-09-12T17:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-cuernavaca/events/303237668/",
+    "featuredEventPhoto": {
+      "id": "523322203",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/9/b/highres_523322203.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/9/b/600_523322203.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/9/b/thumb_523322203.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 98,
+      "waitlistCount": 0,
+      "totalCount": 98
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Cuernavaca",
+      "urlname": "rladies-cuernavaca"
+    }
+  },
+  {
+    "id": "302658248",
+    "title": "K-Means en R",
+    "description": "**DETALLES**\nEn este meetup, exploraremos las bases teóricas y prácticas del algoritmo K-means, una herramienta esencial para la agrupación de datos masivos. Los participantes aprenderán a implementar este algoritmo en R, interpretar los resultados y aplicar técnicas para optimizar el proceso de clustering.\n\n**AGENDA**\n-Introducción\n-Algoritmo K-Means\n-K-Means\n-Variantes de K-Means\n-K-Means dinámico\n-Ejercicios con benchmark\n-Comentarios finales\n\n**FECHA**\nJueves 8 de agosto de 2024, 5 p.m. (CDMX)\n\n**DESCARGA LOS MATERIALES EN:**\nhttps://github.com/RLadiesCuerna/meetup_agosto_2024\n\n**REQUERIMIENTOS DE SOFTWARE**\n\\- R y RStudio\n\\- Librerias de R animation y ggplot2\n\nPuedes instalarlas con las siguientes instrucciones:\ninstall.packages(\"ggplot2\")\ninstall.packages(\"animation\")\n\n**CÓDIGO DE CONDUCTA**\nRecuerda leer y atender nuestro código de conducta disponible en https://rladies.org/code-of-conduct/ o https://rladiesmx.netlify.app/codigo_de_conducta/",
+    "status": "PAST",
+    "dateTime": "2024-08-08T17:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-cuernavaca/events/302658248/",
+    "featuredEventPhoto": {
+      "id": "522752676",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/f/a/4/highres_522752676.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/f/a/4/600_522752676.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/f/a/4/thumb_522752676.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 67,
+      "waitlistCount": 0,
+      "totalCount": 67
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Cuernavaca",
+      "urlname": "rladies-cuernavaca"
+    }
+  },
+  {
+    "id": "300245614",
+    "title": "Introducción a Quarto",
+    "description": "¡Les damos la bienvenida al taller de introducción a `Quarto`!\n\nEn esta sesión hablaremos sobre:\n\n* Introducción a `Quarto`\n* Cómo utilizar `Quarto`\n* Realizar mi primer reporte con `Quarto`\n\nMás información en https://github.com/RLadiesCuerna/meetup_abril_2024\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\nDe la instructora:\n\nM.C. Maricela Carrera Reyna\nMaricela es estudiante de Doctorado del Programa de Maestría y Doctorado en Ciencias Bioquímicas de la UNAM, bajo la tutoría del Dr. Enrique Merino. Desarrolla su proyecto sobre \"Predicción de promotores bacterianos\" en el Grupo de Genómica computacional del IBt. Es fundadora del Capítulo PyLadies Cuernavaca, enfocada en promover el aprendizaje de python. Le encanta la visualización y curación de datos.\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\nRequerimientos:\n\n* R >=4.0 y RStudio\n* Quarto\n\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\n\nMateriales:\n\nLos materiales se encuentran disponibles en https://github.com/RLadiesCuerna/meetup_abril_2024.\n\nPara seguir los ejercicios, revisar que cuentes con lo siguiente por favor:\n\n* Tener el repositorio clonado o descargado.\n* Para descargar este repositorio, da click en el botón Code > Download zip.\n* Si lo prefieres, puedes usar el comando `git clone < url_repositorio > `desde tu terminal para clonar el repositorio.\n* No se requieren conocimientos previos.\\*",
+    "status": "PAST",
+    "dateTime": "2024-04-11T17:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-cuernavaca/events/300245614/",
+    "featuredEventPhoto": {
+      "id": "520198695",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/e/5/4/7/highres_520198695.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/e/5/4/7/600_520198695.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/5/4/7/thumb_520198695.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 51,
+      "waitlistCount": 0,
+      "totalCount": 51
+    },
+    "venues": [
+      {
+        "id": "27494846",
+        "name": "Instituto de Biotecnología, UNAM",
+        "address": "Av. Universidad 2001",
+        "city": "Cuernavaca",
+        "state": "Mo",
+        "country": "mx",
+        "lat": 18.9835,
+        "lon": -99.2342,
+        "postalCode": "62210",
+        "venueType": ""
+      },
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": 18.9835,
+        "lon": -99.2342,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Cuernavaca",
+      "urlname": "rladies-cuernavaca"
+    }
+  },
+  {
+    "id": "299744220",
+    "title": "Preparamiento de datos masivos en R",
+    "description": "¡Bievenidos! En este Meetup abordaremos el manejo y procesamiento de datos masivos utilizando R.\n\nAl momento de recopilar datos experimentales reales, privados o públicos, para su análisis e interpretación, es común toparnos con una pared: los datos a usar no están formateados de la misma manera, tiene una agrupación compacta o presentan errores tipográficos que evitan su correcta lectura y manipulación. En este minitaller, aprenderemos algunas herramientas para leer y/o escribir grandes volúmenes de datos con formatos similares, identificar errores de formato y lectura de archivos de datos, leer información de forma eficiente, idear estrategias para limpiar y organizar datos, obtener algunos estadísticos básicos de los datos y realizar graficaciones automatizadas masivas.\n\n**REQUERIMIENTOS DE SOFTWARE:**\nTener instalado R (versión >= 3.4) y RStudio (versión >= 1.4) y los paquetes \"tidyverse\", \"readxl\" y \"writexl\", \"pals\" y \"scales\"\n\n**DESCARGA EL MATERIAL PARA LA SESIÓN**\nhttps://github.com/RLadiesCuerna/meetup_marzo_2024\n\n**CÓDIGO DE CONDUCTA**\nRecuerda leer y atender nuestro código de conducta disponible en https://rladies.org/code-of-conduct/ o https://rladiesmx.netlify.app/codigo_de_conducta/\n\n**PATROCINADORES**\nAgradecemos a nuestros patrocinadores: Red Mexicana de Bioinformática y al Instituto de Biotecnología",
+    "status": "PAST",
+    "dateTime": "2024-03-14T17:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-cuernavaca/events/299744220/",
+    "featuredEventPhoto": {
+      "id": "519692031",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/d/1/f/highres_519692031.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/d/1/f/600_519692031.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/d/1/f/thumb_519692031.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 88,
+      "waitlistCount": 0,
+      "totalCount": 88
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Cuernavaca",
+      "urlname": "rladies-cuernavaca"
+    }
+  },
+  {
+    "id": "298933390",
+    "title": "Importando Datos a R desde Excel y archivos planos: Un recorrido Práctico",
+    "description": "¡Les damos la bienvenida!\n\nEn esta reunión aprenderemos a como importar información proveniente de archivos provenientes de excel y archivos planos a R de una manera práctica.\n\n**FECHA**\nJueves 8 de febrero de 2024, 5 p.m. (CDMX)\n\n**DESCARGA LOS MATERIALES EN:**\nhttps://github.com/RLadiesCuerna/meetup_febrero_2024\n\n**CONOCIMIENTOS PREVIOS REQUERIDOS**\nPara aprovechar al máximo esta reunión es importante que estén familiarizados con los tipos de objetos y la sintaxis más básica del lenguaje de programación R. Este Meetup está dirigido a principiantes en el uso de R y a quienes busquen reforzar los conceptos fundamentales de este lenguaje de programación.\n\n**REQUERIMIENTOS DE SOFTWARE**\nR >=4.0 y RStudio\nEl paquete de tidyverse, que en sus ultimas versiones, incluye readxl.\nSe pueden instalar ejecutando el siguiente comando:\n\n```\ninstall.packages(\"tidyverse\")\n```\n\n**CÓDIGO DE CONDUCTA**\nRecuerda leer y atender nuestro código de conducta disponible en https://rladies.org/code-of-conduct/ o https://rladiesmx.netlify.app/codigo_de_conducta/\n\n**PATROCINADORES**\nAgradecemos a nuestros patrocinadores: Red Mexicana de Bioinformática y al Instituto de Biotecnología-UNAM",
+    "status": "PAST",
+    "dateTime": "2024-02-08T17:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-cuernavaca/events/298933390/",
+    "featuredEventPhoto": {
+      "id": "518848955",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/1/1/b/highres_518848955.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/1/1/b/600_518848955.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/1/1/b/thumb_518848955.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 57,
+      "waitlistCount": 0,
+      "totalCount": 57
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Cuernavaca",
+      "urlname": "rladies-cuernavaca"
+    }
+  },
+  {
+    "id": "298335713",
+    "title": "Estadística fácil con R y dplyr",
+    "description": "¡Les damos la bienvenida!\n\nEn esta reunión aprenderemos a realizar pruebas estadísticas fáciles y rápidas. Para ello utilizaremos el poder de manipulación de datos de dplyr sumado a las funciones del paquete rstatix. Además acompañaremos nuestro análisis con gráficas generadas de forma simple con el paquete ggpubr.\n\n**TEMARIO**\nRepaso de las funciones select, filter y group_by de dplyr\nObtención de estadísticas de resumen\nFlujos de análisis para las pruebas t y ANOVA\nComprobación de los supuestos de la prueba\nAplicación de las pruebas\nGraficación de resultados\nAnálisis para datos no paramétricos: Pruebas de Wilcoxon y Kruskal-Wallis\n\n**FECHA**\nJueves 11 de enero de 2024, 5 p.m. (CDMX)\n\n**DESCARGA LOS MATERIALES EN:**\nhttps://github.com/RLadiesCuerna/meetup_enero_2024\n\n**CONOCIMIENTOS PREVIOS REQUERIDOS**\nPara aprovechar al máximo esta reunión es importante que estés familiarizada con los conceptos de promedio, mediana, cuartiles, desviación estándar y distribución normal. Además es importante que comprendas los tipos de objetos y la sintaxis más básica del lenguaje de programación R. Por otra parte, sería muy provechoso para ti estudiar cómo es que dplyr simplifica la sintaxis de R usando pipes y verbos.\n\n**REQUERIMIENTOS DE SOFTWARE**\nR >=4.0 y RStudio\nPaquetes de R: ggpubr, tidyverse y rstatix, los cuades puedes instalar con la instrucción:\ninstall.packages(c(\"ggpubr\", \"rstatix\", \"tidyverse\"), dependencies = TRUE)\n\n**CÓDIGO DE CONDUCTA**\nRecuerda leer y atender nuestro código de conducta disponible en https://rladies.org/code-of-conduct/ o https://rladiesmx.netlify.app/codigo_de_conducta/\n\n**PATROCINADORES**\nAgradecemos a nuestros patrocinadores: Red Mexicana de Bioinformática y al Instituto de Biotecnología",
+    "status": "PAST",
+    "dateTime": "2024-01-11T17:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-cuernavaca/events/298335713/",
+    "featuredEventPhoto": {
+      "id": "518302911",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/9/7/f/highres_518302911.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/9/7/f/600_518302911.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/9/7/f/thumb_518302911.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 139,
+      "waitlistCount": 0,
+      "totalCount": 139
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Cuernavaca",
+      "urlname": "rladies-cuernavaca"
+    }
+  },
+  {
+    "id": "306031136",
+    "title": "Creación de paquetes en R",
+    "description": "En este meetup daremos un vistazo general al proceso para crear paquetes en R.\n\nMateriales\n==========\nLos materiales estarán disponibles en el github de RLadies Cuernavaca:\n\nhttps://github.com/RLadiesCuerna/meetup_febrero_2025\n\nRequerimientos de software\n===========================\n\n* R >=4.0 y RStudio\n* devtools\n* usethis\n* remotes",
+    "status": "PAST",
+    "dateTime": "2025-02-13T17:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-cuernavaca/events/306031136/",
+    "featuredEventPhoto": {
+      "id": "526114370",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/6/4/2/highres_526114370.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/6/4/2/600_526114370.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/6/4/2/thumb_526114370.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 41,
+      "waitlistCount": 0,
+      "totalCount": 41
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Cuernavaca",
+      "urlname": "rladies-cuernavaca"
+    }
+  }
+]
