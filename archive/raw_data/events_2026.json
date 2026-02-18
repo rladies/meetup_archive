@@ -66,6 +66,45 @@
     }
   },
   {
+    "id": "313409386",
+    "title": "Writing reports and articles with R in Quarto",
+    "description": "Quarto provides a convenient way to automatically create reports with results and figures generated from R-code. It can play an important role in a reproducible research workflow, and saves time since whenever the results change, the report is automatically up to date. It is a crucial tool in any R-lady's toolbox! Join us for an introductory tutorial in how to get the most use out of Quarto.\n\nYou can find a map for the room here: https://link.mazemap.com/UKTLR7Tu",
+    "status": "ACTIVE",
+    "dateTime": "2026-04-28T17:00:00+02:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-trondheim/events/313409386/",
+    "featuredEventPhoto": {
+      "id": "532796984",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/e/9/8/highres_532796984.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/e/9/8/600_532796984.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/e/9/8/thumb_532796984.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 2,
+      "waitlistCount": 0,
+      "totalCount": 2
+    },
+    "venues": [
+      {
+        "id": "28202826",
+        "name": "Room ØHM, Øya helsehus",
+        "address": "Mauritz Hansens gate 2, 7030 Trondheim",
+        "city": "Trondheim",
+        "state": "",
+        "country": "no",
+        "lat": 63.4215,
+        "lon": 10.393,
+        "postalCode": "meetup4",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Trondheim",
+      "urlname": "rladies-trondheim"
+    }
+  },
+  {
     "id": "312900982",
     "title": "Career panel and networking",
     "description": "Join us for a career panel and networking with established professionals who use R statistical programming language for data analysis in their career.",
@@ -114,9 +153,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/d/6/1/thumb_532436673.jpeg"
     },
     "rsvps": {
-      "yesCount": 16,
+      "yesCount": 17,
       "waitlistCount": 0,
-      "totalCount": 16
+      "totalCount": 17
     },
     "venues": [
       {
@@ -177,6 +216,39 @@
     }
   },
   {
+    "id": "313408453",
+    "title": "R-Ladies Corvallis: R Show & Tell ",
+    "description": "**Learn how other R-Ladies in the community are using R!**\n\nAt our second meet-up, we'll be hosting an informal Show & Tell. You can present in the Show & Tell or just come and hang out. For the Show & Tell portion, we're asking anyone who is interested in sharing to create a single slide highlighting anything related to how they use R. For example, share how you use R in your work, tell us about a cool R project you've worked on, or share something you want to learn more about. The current plan is to ask presenters to talk for 5 minutes. *We may adjust the time limit depending on how many volunteers we get.*\n\n**If you are interested in presenting during the Show & Tell, please [fill out this brief form](https://docs.google.com/forms/d/e/1FAIpQLSeQwuwjWZK3vIc6VHP3PIlw4xhXa4Abag3Cs7gh5SYDoz3c5g/viewform?usp=publish-editor).** We will send details and instructions for the informal presentations on March 4. If you would like to present, please fill out the form by **March 3**.\n\n**You do not need to present during the Show & Tell to attend this event**. If you'd rather just listen, hang out, and chat, you are encouraged to still attend!\n\nFood and drink are available for purchase. Please note this event will be held outside. We have a pavilion reserved, but we recommend bundling up just in case it's cold! This is an open and informal event! Come as you are - any and all R skill level and experience welcome.",
+    "status": "ACTIVE",
+    "dateTime": "2026-03-12T17:30:00-07:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-corvallis/events/313408453/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "27093301",
+        "name": "Common Fields",
+        "address": "545 SW 3rd Street",
+        "city": "Corvallis",
+        "state": "OR",
+        "country": "us",
+        "lat": 44.5597,
+        "lon": -123.263,
+        "postalCode": "97333",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Corvallis",
+      "urlname": "rladies-corvallis"
+    }
+  },
+  {
     "id": "313107321",
     "title": "Create Custom Webpages with R and Quarto",
     "description": "**Workshop Details**\nIn this workshop, we will learn how to create webpages using Quarto in RStudio, and host it on GitHub. The example website will be a professional website template ([see my example webpage here](https://grcetmpk.github.io/)), but these skills can also be used to create other webpages ([like this one](https://ubc-stat.github.io/stat545/)).\n\nThis workshop was designed for R coders with no prior experience with Quarto. Experience with GitHub is helpful, but not necessary. We will be going through all of the steps slowly.\n\n\\*\\*\\*\n\n1. If this is your first R-Ladies event, please take a moment to review our R-Ladies Global code of conduct: [https://github.com/rladies/starter-kit/wiki/Code-of-Conduct](https://github.com/rladies/starter-kit/wiki/Code-of-Conduct)\n2. Who is this allowed to attend the event?\n\nEveryone is welcome to join us at our events and to be a part of our mission to empower gender minorities with the skills and knowledge to code in one of the top programming language in data science, which is R.\n3\\. To fulfill this mission we do ask participants to respect a focus on the encouragement and support for women and non\\-binary people during our events\\.\n\nSee you there!\n\nJasmine, and Melissa",
@@ -231,9 +303,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/e/5/4/thumb_532164148.jpeg"
     },
     "rsvps": {
-      "yesCount": 17,
+      "yesCount": 18,
       "waitlistCount": 0,
-      "totalCount": 17
+      "totalCount": 18
     },
     "venues": [
       {
@@ -374,9 +446,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/3/e/0/thumb_532581472.jpeg"
     },
     "rsvps": {
-      "yesCount": 66,
+      "yesCount": 65,
       "waitlistCount": 0,
-      "totalCount": 66
+      "totalCount": 65
     },
     "venues": [
       {
