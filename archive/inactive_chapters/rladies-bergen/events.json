@@ -1,0 +1,2024 @@
+[
+  {
+    "id": "266144484",
+    "title": "Kick-off meeting",
+    "description": "Welcome to the Kick-off meeting of R-Ladies Bergen!\n\nThe plan for the evening is informal and fun. Let´s get to know each other and discover how the Bergen chapter can best serve your needs. We will introduce the background of the R-Ladies community and its mission to promote and support inclusivity and diversity in the R community. We will discuss topics for themed meetings so please feel free to bring ideas. We look forward to your contributions.\n\nCome and take part in creating a vibrant local chapter of R-Ladies Global!\n\n@RLadiesBergen",
+    "status": "PAST",
+    "dateTime": "2019-11-25T17:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-bergen/events/266144484/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 26,
+      "waitlistCount": 0,
+      "totalCount": 26
+    },
+    "venues": [
+      {
+        "id": "26712099",
+        "name": "Kalfarveien 31",
+        "address": "Kalfarveien 31",
+        "city": "Bergen",
+        "state": "",
+        "country": "no",
+        "lat": 60.3884,
+        "lon": 5.3409,
+        "postalCode": "5018",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bergen",
+      "urlname": "rladies-bergen"
+    }
+  },
+  {
+    "id": "274862794",
+    "title": "Sharing and outlook workshop: My experience with R and the next step!",
+    "description": "Hello everyone,\n\nHow time flies! It is already December of 2020. It’s a perfect time to do a little bit of wrap-up and outlook for the next year.\n\nJust imagine:\nWe are gathering in a (virtual!) warm and cozy room to share the R-tricks you learned in 2020, your recently-found favorite R-package, or your plan for how to explore R-world during the coming year. Wrap yourself in a blanket and enjoy your favorite beverage while discussing your stories and thoughts with others and inspire one another! Afterward, Diandian Yi will share insights from an R-book to further warm up your brain and fingers!\n\n13:00-13:10 Welcome and introduction by the co-organizers of R-Ladies Bergen.\n\n13:10-14:00 Sharing and outlook: this is an informal panel discussion. Please feel free to contribute your questions and thoughts. You can sign up for the time slot (max. 10 minutes) through the link below: https://doodle.com/poll/nun7knz57f4kgwy8?utm_source=poll&utm_medium=link\n\nFeel free contact us if you have an interesting topic but the spots are all booked!\n\n14:00-14:30 Book insight sharing: 10 pitfalls in the course of getting tidy data (contents extracted from Hadley Wickham's books, \"R for data science\" (https://r4ds.had.co.nz/) and \"Advanced R\" (https://adv-r.hadley.nz/)) — prepared by Diandian Yi (Data analyst)",
+    "status": "PAST",
+    "dateTime": "2020-12-15T13:00:00+01:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-bergen/events/274862794/",
+    "featuredEventPhoto": {
+      "id": "493773087",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/1/3/f/highres_493773087.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/1/3/f/600_493773087.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/1/3/f/thumb_493773087.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 7,
+      "waitlistCount": 0,
+      "totalCount": 7
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bergen",
+      "urlname": "rladies-bergen"
+    }
+  },
+  {
+    "id": "274392883",
+    "title": "Taking text data analysis to the next level",
+    "description": "Let's welcome our next guest! Cosima (cosimameyer.rbind.io) is a computational conflict researcher, PhD candidate at the University of Mannheim, Germany, and a data lover. Cosima has created a blog (https://www.mzes.uni-mannheim.de/socialsciencedatalab/) where she and her fellow researchers write about their science adventures, and has created a veRy useful package, overvieweR (https://cosimameyer.github.io/overviewR/). Read more about her on the webpage http://cosimameyer.rbind.io/.\n\nAbout the talk:\n\n\"Taking the text data analysis to the next level - Using supervised and unsupervised approaches in NLP\"\n\nText data provides an oasis of information for both researchers and non-researchers alike to explore. Natural Language Processing (NLP) methods help make sense of this difficult data type, which is written text. The talk will give you a smooth introduction to the quanteda package (https://quanteda.io/). I will also showcase how to quickly visualize your text data and cover both supervised and unsupervised approaches in NLP. As part of a code demo, we will use text data from the UN as a working example to give you first insights into the structure of text data and how to work with it.",
+    "status": "PAST",
+    "dateTime": "2020-12-08T16:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-bergen/events/274392883/",
+    "featuredEventPhoto": {
+      "id": "493395789",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/d/a/d/highres_493395789.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/d/a/d/600_493395789.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/d/a/d/thumb_493395789.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 55,
+      "waitlistCount": 0,
+      "totalCount": 55
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bergen",
+      "urlname": "rladies-bergen"
+    }
+  },
+  {
+    "id": "273923747",
+    "title": "Become an R package developer!",
+    "description": "We're happy to announce the next speaker: Maëlle Salmon (https://masalmon.eu/), R(esearch) Software Engineer and a proud R-Lady.\n\nAbout the meeting:\n\n\"Develop an R package\", they said...\nWhat does this even mean?\nIn this session with a live demo, we shall demystify the creation of an R package.\nR packages are mostly well-organized folders, and there are automatic tools to help. Let's dive into the wonders of usethis!\nWe shall also see why to create a package (or not).\nWe shall furthermore explain how to improve your R package and your own package development skills. And how to solve the specific new challenges you will encounter!\nLast but not least we will discuss how to find your happy place in the world of R package development. Do you want to be more of a devoted maintainer of one single package? Or perhaps a valued contributor to dozens of packages?\n\nAbout the speaker:\n\nMaëlle works remotely from Nancy, France, where she lives with her family.\nShe is a research software engineer with rOpenSci, besides other projects. In particular, currently, she works on the \"HTTP testing in R\" book thanks to funding from the R Consortium. She created the R-hub blog that features more or less niche topics about R package development, also thanks to funding by the R Consortium.\nShe also volunteers as an associate editor for rOpenSci's Software Peer Review (peer-review system of R packages), the main manager of R-Ladies Global Twitter account, and a member of the R Weekly team.",
+    "status": "PAST",
+    "dateTime": "2020-11-02T15:30:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-bergen/events/273923747/",
+    "featuredEventPhoto": {
+      "id": "493033851",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/6/1/b/highres_493033851.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/6/1/b/600_493033851.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/6/1/b/thumb_493033851.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 42,
+      "waitlistCount": 0,
+      "totalCount": 42
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bergen",
+      "urlname": "rladies-bergen"
+    }
+  },
+  {
+    "id": "273277201",
+    "title": "An introduction to mixed models in R",
+    "description": "We are delighted to be hosting Athanasia \"Mo\" Mowinckel - a co-organiser of the R-Ladies Oslo chapter and heavily involved in R-Ladies Global! Mo does brain research at the University of Oslo where she is an advanced user of R and technology at large. Recently she wrote a little package to help other academics overcome the challenges (and trauma) of uploading CRAN and BioConductor packages to TSD (Service for Sensitive Data). Thank you for that Mo!\n\nIn this talk, she will showcase some of the methods she uses and develops. The methods have been applied to longitudinal brain measurements, however mixed models have a variety of applications in economics, social sciences, genetics and even animal husbandry.\n\nWelcome Mo! Welcome everyone!",
+    "status": "PAST",
+    "dateTime": "2020-10-06T16:15:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-bergen/events/273277201/",
+    "featuredEventPhoto": {
+      "id": "492352177",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/b/d/1/highres_492352177.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/b/d/1/600_492352177.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/b/d/1/thumb_492352177.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 80,
+      "waitlistCount": 0,
+      "totalCount": 80
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bergen",
+      "urlname": "rladies-bergen"
+    }
+  },
+  {
+    "id": "272546357",
+    "title": "Creating a webpage with blogdown",
+    "description": "You don't need to know HTML, CSS, or javascript to create your own webpage! (Although you will need to know _about_ it). We will create a personal webpage entirely within RStudio. Personalised webpages are a great way to share your research or entrepreneurial projects. Move over ResearchGate and LinkedIn, now you control how your information is presented using your own unique style!\n\nThis is based on the fantastic R package blogdown (https://bookdown.org/yihui/blogdown/), which you would need to install, along with Hugo (as instructed here: https://bookdown.org/yihui/blogdown/installation.html). To publish the webpage, you can use your github, bitbucket, or any other publishing service account.\n\nNB: This is an online event, with the link visible to attendees.",
+    "status": "PAST",
+    "dateTime": "2020-09-03T18:30:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-bergen/events/272546357/",
+    "featuredEventPhoto": {
+      "id": "491796400",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/e/3/0/highres_491796400.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/e/3/0/600_491796400.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/e/3/0/thumb_491796400.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 66,
+      "waitlistCount": 0,
+      "totalCount": 66
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bergen",
+      "urlname": "rladies-bergen"
+    }
+  },
+  {
+    "id": "270868059",
+    "title": "Troubleshooting R",
+    "description": "This meeting is mostly for those who don't consider themselves experts in R and did not take programming classes before starting to program, as well as for those that need their programming basics refreshed.\n\nJulia will present shortly some basics of programming and R-language that are essential to know. We will watch a great video by Jenny Bryan (https://jennybryan.org/ https://rstudio.com/resources/webinars/help-me-help-you-creating-reproducible-examples/), discuss it and learn how to tackle the mysterious error messages appearing on our screens.\n\nNote: the event is online, using Zoom (https://zoom.us/). Everyone is encouraged to install it and test before the event. The link to the meeting will be visible to those who RSVP.\n\n[Photo by Cookie the Pom on Unsplash]",
+    "status": "PAST",
+    "dateTime": "2020-06-15T16:45:00+02:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-bergen/events/270868059/",
+    "featuredEventPhoto": {
+      "id": "490569398",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/4/b/6/highres_490569398.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/4/b/6/600_490569398.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/4/b/6/thumb_490569398.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 39,
+      "waitlistCount": 0,
+      "totalCount": 39
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bergen",
+      "urlname": "rladies-bergen"
+    }
+  },
+  {
+    "id": "268878423",
+    "title": "R brainstorming (with pizza!)",
+    "description": "This time we'll be working in groups to solve individual problems, answer any questions, help with coding, etc. If you have a project that you're working on, if you struggle with code writing, or if you are able to help others, please come and bring your laptop! We will also prepare some tutorials online if you don't have a project to work on but want to expand your skills.\n\nWe will be working in groups and that's why we want you to answer a short question when RSVPing. When we see your answers, we will be able to create groups more easily.\n\nBONUS: this time, let's order some pizza! (Let us know of any food allergies by messaging us directly)",
+    "status": "CANCELLED",
+    "dateTime": "2020-03-11T16:30:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-bergen/events/268878423/",
+    "featuredEventPhoto": {
+      "id": "489190566",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/9/4/6/highres_489190566.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/9/4/6/600_489190566.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/9/4/6/thumb_489190566.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 21,
+      "waitlistCount": 0,
+      "totalCount": 21
+    },
+    "venues": [
+      {
+        "id": "26803381",
+        "name": "High Technology Center - University of Bergen",
+        "address": "Thormøhlens Gate 55",
+        "city": "Bergen",
+        "state": "",
+        "country": "no",
+        "lat": 60.3813,
+        "lon": 5.3321,
+        "postalCode": "5008",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bergen",
+      "urlname": "rladies-bergen"
+    }
+  },
+  {
+    "id": "267772872",
+    "title": "Intro to Tidyverse",
+    "description": "We will give an overview of the tidyverse-way of data handling giving you hands-on examples on how to read in, manipulate, and plot data. @Jonelle will be giving us special fresh tips, as she will be attending Hadley Wickham's tutorial at the rstudio:conf 2020 a few days before the meeting!\n\nTo get a quick overview of Hadley's way of thinking, read: https://joss.theoj.org/papers/10.21105/joss.01686\n\nPlease bring your laptop with RStudio (https://rstudio.com/products/rstudio/download/) and Tidyverse (https://www.tidyverse.org/) installed. We will provide coffee, tea, and some snacks.\n\n[Photo credit: Pattern by ameliamn (http://www.amelia.mn, www.redbubble.com)]",
+    "status": "PAST",
+    "dateTime": "2020-02-06T16:30:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-bergen/events/267772872/",
+    "featuredEventPhoto": {
+      "id": "488002405",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/7/8/5/highres_488002405.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/7/8/5/600_488002405.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/7/8/5/thumb_488002405.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 33,
+      "waitlistCount": 0,
+      "totalCount": 33
+    },
+    "venues": [
+      {
+        "id": "26803381",
+        "name": "High Technology Center - University of Bergen",
+        "address": "Thormøhlens Gate 55",
+        "city": "Bergen",
+        "state": "",
+        "country": "no",
+        "lat": 60.3813,
+        "lon": 5.3321,
+        "postalCode": "5008",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bergen",
+      "urlname": "rladies-bergen"
+    }
+  },
+  {
+    "id": "282159683",
+    "title": "Git, GitHub, and RStudio",
+    "description": "How to use Git within RStudio? We'll learn about the setup, Git vocabulary, and we'll create a short version history locally and online.\n\nTo get the most of this short workshop, come with your computer with RStudio and Git installed.\n\nCheck out the installation instructions (https://git-scm.com), then create an account at GitHub. Next you will need to create an SSH key (by following the instructions at https://happygitwithr.com/ssh-keys.html#create-an-ssh-key-pair and https://happygitwithr.com/ssh-keys.html#provide-public-key-to-github). NB: choose one of the options, not all!\n\nReach out to R-Ladies on Slack if you get stuck!\n\nYour work will purr when you can collaborate on Git!",
+    "status": "CANCELLED",
+    "dateTime": "2021-12-09T11:30:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-bergen/events/282159683/",
+    "featuredEventPhoto": {
+      "id": "499483692",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/a/a/c/highres_499483692.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/a/a/c/600_499483692.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/a/a/c/thumb_499483692.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 11,
+      "waitlistCount": 0,
+      "totalCount": 11
+    },
+    "venues": [
+      {
+        "id": "27160256",
+        "name": "Alrek Helseklynge",
+        "address": "Årstadveien 17",
+        "city": "Bergen",
+        "state": "",
+        "country": "no",
+        "lat": 60.3815,
+        "lon": 5.3589,
+        "postalCode": "5009",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bergen",
+      "urlname": "rladies-bergen"
+    }
+  },
+  {
+    "id": "281945467",
+    "title": "Data visualization in R",
+    "description": "About the speaker:\nAnna Skrzydło (https://www.linkedin.com/in/anna-skrzydlo/) is an experienced programmer and IT project manager. She is currently working at the Polish tech company Appsilon (https://appsilon.com/) that provides Shiny solutions for enterprise applications.\n\nAbout the talk:\nAnna loves coding and has a passion for data visualization! In her talk, Anna will cover the theory and practice of building great data visualisations in R. We will learn some wondeRful tricks and actually get our hands dirty with some coding tasks.\n\nYour plots will never be the same!",
+    "status": "PAST",
+    "dateTime": "2021-11-30T17:00:00+01:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-bergen/events/281945467/",
+    "featuredEventPhoto": {
+      "id": "500080761",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/f/3/9/highres_500080761.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/f/3/9/600_500080761.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/f/3/9/thumb_500080761.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 60,
+      "waitlistCount": 0,
+      "totalCount": 60
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bergen",
+      "urlname": "rladies-bergen"
+    }
+  },
+  {
+    "id": "281417541",
+    "title": "Git, GitHub, and RStudio",
+    "description": "How to use Git within RStudio? We'll learn about the setup, Git vocabulary, and we'll create a short version history locally and online.\n\nTo get the most of this short workshop, come with your computer with RStudio and Git installed.\n\nCheck out the installation instructions (https://git-scm.com), then create an account at GitHub. Next you will need to create an SSH key (by following the instructions at https://happygitwithr.com/ssh-keys.html#create-an-ssh-key-pair and https://happygitwithr.com/ssh-keys.html#provide-public-key-to-github). NB: choose one of the options, not all!\n\nReach out to R-Ladies on Slack if you get stuck!\n\nYour work will purr when you can collaborate on Git!",
+    "status": "CANCELLED",
+    "dateTime": "2021-11-08T10:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-bergen/events/281417541/",
+    "featuredEventPhoto": {
+      "id": "499483692",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/a/a/c/highres_499483692.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/a/a/c/600_499483692.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/a/a/c/thumb_499483692.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 11,
+      "waitlistCount": 0,
+      "totalCount": 11
+    },
+    "venues": [
+      {
+        "id": "27160256",
+        "name": "Alrek Helseklynge",
+        "address": "Årstadveien 17",
+        "city": "Bergen",
+        "state": "",
+        "country": "no",
+        "lat": 60.3815,
+        "lon": 5.3589,
+        "postalCode": "5009",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bergen",
+      "urlname": "rladies-bergen"
+    }
+  },
+  {
+    "id": "281243389",
+    "title": "exploratory data analysis (EDA) workflow",
+    "description": "Exploration of data is the most tedious but also the most useful part of data science. If we don't have a good understanding of our data, we won't be able to apply a correct model, include sufficient predictor variables, or even exclude erroneous entries. There is a plethora of packages that can help us with exploratory data analysis (EDA). Some are specific for a given data type, while others are more general - and it can be difficult sometimes to know where to start!\n\nIn this talk, Priyanka Gagneja (https://github.com/priyankagagneja) will present her EDA workflow that includes a combination of R packages such as {dataExplorer}, {chronicle}, {esquisse}, amongst others.\n\nAbout the speaker:\nPriyanka is a data science practitioner, most recently working as a data science consultant with Onpoint Insights in US where her efforts focus on quality control and reporting for a biomedical devices company. Previously she used her analytics skills in industry serving clients in retail and financial services. She graduated from Boston College with a Masters in Applied Economics and holds an MBA and Bachelor's in Computer Science from India.",
+    "status": "PAST",
+    "dateTime": "2021-10-21T15:00:00+02:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-bergen/events/281243389/",
+    "featuredEventPhoto": {
+      "id": "499492532",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/d/3/4/highres_499492532.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/d/3/4/600_499492532.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/d/3/4/thumb_499492532.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 36,
+      "waitlistCount": 0,
+      "totalCount": 36
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bergen",
+      "urlname": "rladies-bergen"
+    }
+  },
+  {
+    "id": "280789276",
+    "title": "FAIR research data & citable code",
+    "description": "Did you know that Open Science is becoming the \"new normal\"? Join R-Ladies Bergen to learn what this new normal means. We will delve into the principles of FAIR research that enable your data to become \"Findable, Accessible, Interoperable, and Reusable.\" How does this enhance your research? When you adhere to FAIR principles, your work becomes more accessible and visible to researchers in different institutions or even different fields. This leads to more visibility for your research, new collaborations, and more citations of your published research articles.\n\nWe are delighted to host Jenny Ostrop who will describe more fully the motivation behind FAIR principles and provide tips on how to create citable code. Jenny is a Senior Academic Librarian at the Mathematics and Natural Sciences Library. As part of the research support team, Jenny provides guidance on Open Science, Research Data and Research Data Management.",
+    "status": "PAST",
+    "dateTime": "2021-10-07T12:30:00+02:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-bergen/events/280789276/",
+    "featuredEventPhoto": {
+      "id": "498876124",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/d/1/c/highres_498876124.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/d/1/c/600_498876124.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/d/1/c/thumb_498876124.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 8,
+      "waitlistCount": 0,
+      "totalCount": 8
+    },
+    "venues": [
+      {
+        "id": "27160256",
+        "name": "Alrek Helseklynge",
+        "address": "Årstadveien 17",
+        "city": "Bergen",
+        "state": "",
+        "country": "no",
+        "lat": 60.3815,
+        "lon": 5.3589,
+        "postalCode": "5009",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bergen",
+      "urlname": "rladies-bergen"
+    }
+  },
+  {
+    "id": "280175121",
+    "title": "Reproducible analysis in anthropology",
+    "description": "Talk title: Reproducible research in anthropology: Data analysis and writing papers using R Markdown, and Git version control to make research compendia\n\nDescription: Li-Ying will present how their lab uses R Markdown to combine data, manuscript text, and code for data analysis and visualization, thereby incorporating their work into a reproducible compendium. With R Markdown, we can write a manuscript that can be executed to typical document formats. Using Git version control helps us to track changes as we write our code and text. This standard compendium structure organizes our files nicely and enables other researchers to easily inspect our data and analytical processes to enhance research reproducibility in anthropology.\n\nLi-Ying Wang (she/her) short bio:\nLi-Ying Wang is a recent PhD graduate from the Department of Anthropology at the University of Washington. Her study focuses on a 14-19th century site in northeastern Taiwan during the European colonization period. She employs multiple computational methods to visualize and analyze archaeological data, including spatial analysis, shape analysis, and Bayesian network modeling using R. She is very interested in open science and reproducible research and incorporates these approaches into her analysis, writing, and teaching practices.\n\nNOTE: If you are in Bergen, come join us for a physical meeting right before Li-Ying's talk: https://www.meetup.com/rladies-bergen/events/280261260/",
+    "status": "PAST",
+    "dateTime": "2021-09-07T18:00:00+02:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-bergen/events/280175121/",
+    "featuredEventPhoto": {
+      "id": "498432048",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/f/1/0/highres_498432048.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/f/1/0/600_498432048.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/f/1/0/thumb_498432048.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 27,
+      "waitlistCount": 0,
+      "totalCount": 27
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bergen",
+      "urlname": "rladies-bergen"
+    }
+  },
+  {
+    "id": "280261260",
+    "title": "Let's MEET and TALK again!",
+    "description": "Is it really happening? Let's try to actually meet in person and discuss how _you_ are envisioning the future of R-Ladies Bergen! This will be an informal chat with snacks served before we watch Li-Ying's talk about reproducible research practice. Come and feel the energy of our community!\n\nP.S. There is a limit of 28 people because of the room availability. We will follow local infection guidelines and keep a min. of 1-meter distance between us. We recommend the use of face masks when entering and leaving the building. See you there!",
+    "status": "CANCELLED",
+    "dateTime": "2021-09-07T17:00:00+02:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-bergen/events/280261260/",
+    "featuredEventPhoto": {
+      "id": "498302323",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/1/3/highres_498302323.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/1/3/600_498302323.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/1/3/thumb_498302323.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 8,
+      "waitlistCount": 0,
+      "totalCount": 8
+    },
+    "venues": [
+      {
+        "id": "27160256",
+        "name": "Alrek Helseklynge",
+        "address": "Årstadveien 17",
+        "city": "Bergen",
+        "state": "",
+        "country": "no",
+        "lat": 60.3815,
+        "lon": 5.3589,
+        "postalCode": "5009",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bergen",
+      "urlname": "rladies-bergen"
+    }
+  },
+  {
+    "id": "278319207",
+    "title": "Large scale time series forecasting",
+    "description": "About the speaker:\nThiyanga Talagala has a Ph.D. in statistics from Monash Univ., Australia, and currently holds a senior lecturer position at the University of Sri Jayewardenepura, Sri Lanka. She is interested in the theory, implementation, and application of machine learning methods to time-series datasets, as well as visualization of the results. She uses R in her research and has created or contributed to many R packages (https://github.com/thiyangt).\n\nThiyanga enjoys teaching and is involved in organizing the R-Ladies Colombo chapter! Visit her website to learn more about her R packages, her projects, workshops, and teaching activities. Her blog offers many statistical insights in an accessible style. (https://thiyanga.netlify.app/)\n\nAbout the talk:\nMany applications require data from a large number of time series to be forecast. However, large-scale time-series data present numerous challenges in modeling and implementation due to high dimensionality. Thiyanga´s talk will present three feature-based algorithms for large-scale time-series forecasting.\n\nWelcome!",
+    "status": "PAST",
+    "dateTime": "2021-06-24T14:00:00+02:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-bergen/events/278319207/",
+    "featuredEventPhoto": {
+      "id": "496571001",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/a/f/9/highres_496571001.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/a/f/9/600_496571001.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/a/f/9/thumb_496571001.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 33,
+      "waitlistCount": 0,
+      "totalCount": 33
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bergen",
+      "urlname": "rladies-bergen"
+    }
+  },
+  {
+    "id": "278142805",
+    "title": "Bayesian statistics",
+    "description": "Federica Giardina is a public health researcher currently working as an assistant professor in Biostatistics at Radboud University Medical Center (Radboud UMC) in Nijmegen (the Netherlands). She uses Bayesian methods to answer questions in infectious disease epidemiology. Bayesian statistics allows the user to specify prior information to the chosen model. This method is useful, for example, when working with datasets with partially missing data, as is often the case in public health records.\n\nFederica will introduce the Stan programming language (https://mc-stan.org/) with examples of modeling performed with the rstan package.\n\nIt's a short introduction, a sweet taste if you like, of a very broad topic that we have been anxious to learn about. Please join us!",
+    "status": "PAST",
+    "dateTime": "2021-05-31T12:00:00+02:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-bergen/events/278142805/",
+    "featuredEventPhoto": {
+      "id": "496252996",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/f/0/4/highres_496252996.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/f/0/4/600_496252996.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/f/0/4/thumb_496252996.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 44,
+      "waitlistCount": 0,
+      "totalCount": 44
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bergen",
+      "urlname": "rladies-bergen"
+    }
+  },
+  {
+    "id": "277543752",
+    "title": "Statistrikk - Hard facts in soft materials",
+    "description": "Can the corona virus R number be crocheted? Can bias in research on women's health be knitted?\nOf course it can! But why?\nStatistician and associate professor at NMBU, Kathrine Frey Frøslie, has dedicated a significant amount of her time to the translation of important research results and statistical concepts, to beautiful or strange knitting designs. Get a backstage glimpse into Statistrikk.no, (to the best of our knowledge) the world's only popular science statistical knitting blog.",
+    "status": "PAST",
+    "dateTime": "2021-05-20T18:00:00+02:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-bergen/events/277543752/",
+    "featuredEventPhoto": {
+      "id": "495707231",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/8/7/f/highres_495707231.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/8/7/f/600_495707231.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/8/7/f/thumb_495707231.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 26,
+      "waitlistCount": 0,
+      "totalCount": 26
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bergen",
+      "urlname": "rladies-bergen"
+    }
+  },
+  {
+    "id": "276828064",
+    "title": "Bayesian statistics",
+    "description": "Federica Giardina is a public health researcher currently working as an assistant professor in Biostatistics at Radboud University Medical Center (Radboud UMC) in Nijmegen (the Netherlands). She uses Bayesian methods to answer questions in infectious disease epidemiology. Bayesian statistics allows the user to specify prior information to the chosen model. This method is useful, for example, when working with datasets with partially missing data, as is often the case in public health records.\n\nFederica will introduce the Stan programming language (https://mc-stan.org/) with examples of modeling performed with the rstan package.\n\nIt's a short introduction, a sweet taste if you like, of a very broad topic that we have been anxious to learn about. Please join us!",
+    "status": "CANCELLED",
+    "dateTime": "2021-05-11T13:00:00+02:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-bergen/events/276828064/",
+    "featuredEventPhoto": {
+      "id": "495696897",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/0/2/1/highres_495696897.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/0/2/1/600_495696897.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/0/2/1/thumb_495696897.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 34,
+      "waitlistCount": 0,
+      "totalCount": 34
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bergen",
+      "urlname": "rladies-bergen"
+    }
+  },
+  {
+    "id": "277756254",
+    "title": "R-Ladies+ feat. useR! meetup",
+    "description": "This year useR! (https://user2021.r-project.org/) will be a global and entirely remote conference. One of the main goals is to encourage the participation of diverse people (considering diversity in all its forms and all its intersectionalities). The useR! global team is committed to providing inclusive and accessible spaces during the conference, along with extensive waivers, events in different languages (English, Spanish, and French), real-time English captions, and events across different time zones.\n\nIn this meetup, you will have the opportunity to meet R-Ladies+ from all over the globe. Our panelists will share their useR! experiences to inspire people with different backgrounds, occupations, and paths to participate in this year’s conference. The meetup will be trilingual with a few spots per organizing chapter.\n\nCome join us!\n\n#########\nSchedule\n#########\n- Welcome + Intro\n- Panel discussion with:\n- Janani Ravi (East Lansing)\n- Jonelle Villar (Bergen)\n- Haifa Ben Messaoud (Tunis)\n- Beatriz Milz (São Paulo)\n- Zulemma Bazurto Blacio (Guayaquil)\n- Pre-prepared questions\n- Questions from the audience\n\nSee you soon at useR!\n\n######################\nCo-organizing chapters\n######################\n- R-Ladies+ Vitória\n- RLadies+ Bangalore\n- RLadies+ Tunis\n- RLadies+ East Lansing\n- RLadies+ Guayaquil\n- RLadies+ Santa Rosa\n- RLadies+ Cuernavaca\n- RLadies+ Den Bosch\n\nRegister with R-Ladies East Lansing for this great warm-up event!\nRegister: https://meetup.com/rladies-east-lansing/events/277740776",
+    "status": "PAST",
+    "dateTime": "2021-04-28T22:00:00+02:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-bergen/events/277756254/",
+    "featuredEventPhoto": {
+      "id": "495877606",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/2/e/6/highres_495877606.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/2/e/6/600_495877606.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/2/e/6/thumb_495877606.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 9,
+      "waitlistCount": 0,
+      "totalCount": 9
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bergen",
+      "urlname": "rladies-bergen"
+    }
+  },
+  {
+    "id": "276102013",
+    "title": "Best coding practices",
+    "description": "Beauty may be in the eye of the beholder, but readable code is exciting!\n\nBest coding practices require practice. And repetition, and discussion! Despite the steep learning curve, a system of best practices contributes to successful collaboration and reproducibility. Arushi Garg (http://arushigarg.com/) learned many of these best coding practices as a software engineer where she was required to follow rigorous quality standards.\n\nToday, Arushi is a PhD candidate at the Donders Centre for Cognition and in the International Max Planck Research School for Psycholinguistics in Nijmegen. She will share her own best practices that she has adapted in her scientific work when coding in R. These important skills allow her to focus more of her time and energy on understanding her field of study.\n\nIt is a delight and inspiration to read her code. Join us and see why!",
+    "status": "PAST",
+    "dateTime": "2021-03-22T16:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-bergen/events/276102013/",
+    "featuredEventPhoto": {
+      "id": "495016280",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/f/9/8/highres_495016280.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/f/9/8/600_495016280.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/f/9/8/thumb_495016280.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 52,
+      "waitlistCount": 0,
+      "totalCount": 52
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bergen",
+      "urlname": "rladies-bergen"
+    }
+  },
+  {
+    "id": "276414695",
+    "title": "cReating visualizations and a book!",
+    "description": "What is the story of your data? Communicating what you see in your data is a real challenge for many. Do you expect the audience to understand your approach? Truly, effective vizualisation seems to require a new perspective, perhaps even a secret recipe. :)\n\nCome listen to Shirley Wu and Nadieh Bremer shed light on their collaborative efforts to present data, at the same time allowing for creative expression and thoughtful design. They show that visualization can be both useful, inspirational and engagingly beautiful.\n\nDuring the talk Shirley and Nadieh´s will present their first book together, “Data Sketches”. https://www.datasketch.es The book reflects their journey from concept to messy data to polished final visualization, including the tools and techniques they used.\n\nDo you know how to tell the story of your data? Let´s celebrate Shirley and Nadieh´s story on March 8th, International Women´s Day. A day to be inspired.",
+    "status": "PAST",
+    "dateTime": "2021-03-08T18:00:00+01:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-bergen/events/276414695/",
+    "featuredEventPhoto": {
+      "id": "494972425",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/e/a/9/highres_494972425.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/e/a/9/600_494972425.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/e/a/9/thumb_494972425.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 49,
+      "waitlistCount": 0,
+      "totalCount": 49
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bergen",
+      "urlname": "rladies-bergen"
+    }
+  },
+  {
+    "id": "275859899",
+    "title": "A statistician´s story of learning and teaching with R and R Markdown",
+    "description": "We continue to learn from the best! In February, we will hear how R is used in everyday research and teaching activities by Mette Langaas, an enthusiastic R-Lady from Trondheim, Norway. The talk will take ca. 45 minutes, followed by ca. 15 minutes of discussion. If you've ever wanted to improve and automate your work, come hear this expert´s tips!\n\nAbout Mette´s talk:\nEvery workday for 30 years the language S – and later R – has been a central part of my scientific life. I code, I analyse, I do research, I supervise, and I teach with the help of R. In the last years, R Markdown and Git have become important ingredients for reproducibility in my research, as well as for writing and distributing learning materials for open science. In this presentation, I will give examples of how I use R and R Markdown in my teaching and learning.\n\nAbout the speaker:\nMette Langaas is a statistician at NTNU and NR, with (probably) above average interest in teaching and communicating statistics. Her field of research is biostatistics/genomics/medical statistics and her methodological focus is on statistical inference and learning.\n\nhttps://www.ntnu.edu/employees/mette.langaas\nhttps://www.nr.no/user-info?query=langaas\n\nTwitter: @mettelang\nGithub: @mettelang",
+    "status": "PAST",
+    "dateTime": "2021-02-23T18:00:00+01:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-bergen/events/275859899/",
+    "featuredEventPhoto": {
+      "id": "494408394",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/0/c/a/highres_494408394.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/0/c/a/600_494408394.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/0/c/a/thumb_494408394.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 53,
+      "waitlistCount": 0,
+      "totalCount": 53
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bergen",
+      "urlname": "rladies-bergen"
+    }
+  },
+  {
+    "id": "275580600",
+    "title": "gReat SKUP!",
+    "description": "We start the New Year with a bang! Join us January 15th to hear an incredible story of motivation and enduRance.\n\nCome hear how VG journalist Shazia Majid mastered her steep learning curve from Excel to R in an effort to analyse health care data. In just one year, Shazia´s efforts uncovered how the elderly can be affected by the new financial realities of the 2008-2009 Health Coordination Reform.\n\nFor her dedication to this important story, Shazia and her colleagues at VG were awarded the prestigious SKUP-2019 prize for journalism.\n\nRead more about her story below - then join us to welcome Shazia Majid!\n\nhttps://www.vg.no/nyheter/innenriks/i/K34BeX/vg-vant-skup-prisen\nhttps://www.vg.no/nyheter/innenriks/i/70j249/midt-paa-natten-fraktes-syke-eldre-hjem-fra-sykehusene",
+    "status": "PAST",
+    "dateTime": "2021-01-15T18:00:00+01:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-bergen/events/275580600/",
+    "featuredEventPhoto": {
+      "id": "494225428",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/5/3/4/highres_494225428.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/5/3/4/600_494225428.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/5/3/4/thumb_494225428.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 33,
+      "waitlistCount": 0,
+      "totalCount": 33
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bergen",
+      "urlname": "rladies-bergen"
+    }
+  },
+  {
+    "id": "289743592",
+    "title": "Winter meetup",
+    "description": "Let's meet again!\n\nIt's been three years since our first meeting! R-Ladies Bergen invites all locals in Bergen to a Winter Meetup to recharge our enthusiasm for \"all things R\".\n\nJonelle and Julia are excited to present a short introduction to the new Quarto engine ([https://quarto.org/](https://quarto.org/)) using RStudio. *If you want to try it out, make sure you have these both software pieces installed on your laptop.* Let's get together, chat, and share ideas for our next meetings.\n\nBring your laptop and good humor, we'll take care of some snacks!\n\n**Looking forward to being together.**",
+    "status": "PAST",
+    "dateTime": "2022-11-29T10:45:00+01:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-bergen/events/289743592/",
+    "featuredEventPhoto": {
+      "id": "508615875",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/a/4/3/highres_508615875.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/a/4/3/600_508615875.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/a/4/3/thumb_508615875.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 7,
+      "waitlistCount": 0,
+      "totalCount": 7
+    },
+    "venues": [
+      {
+        "id": "27457970",
+        "name": "Årstadveien 17",
+        "address": "Årstadveien 17",
+        "city": "Bergen",
+        "state": "",
+        "country": "no",
+        "lat": 60.382,
+        "lon": 5.3582,
+        "postalCode": "5009",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bergen",
+      "urlname": "rladies-bergen"
+    }
+  },
+  {
+    "id": "287836013",
+    "title": "Making and publishing your first R package *** Virtual attendance***",
+    "description": "Most of us have experience in using R to clean our data, run a few functions from another package, and produce a publishable, reproducible result. However, making the leap from running a few lines of code, to writing our own functions, to then finally bundling and publishing our own R package can be daunting. This R workshop is intended for intermediate-level R users who wish to make the leap from R user to R contributor, though all skill levels are welcome. This tutorial will focus on using the {devtools}, {usethis}, and {pkgdown} packages to help build your very own R package from scratch. The slideshow for the presentation can be found on Github here: [https://github.com/popovs/r-pkg-slides](https://github.com/popovs/r-pkg-slides)\nSarah Popov, MSc is a marine ecologist with a strong data management background who cares about great design. Sarah's current research interests lie in theoretical ecology, exploration of marine food webs, and the importance of large storm events in shaping marine communities. Sarah also loves helping other lab groups get a handle on monstrous amounts of data and working with databases. If you have any active research or data management opportunities you think Sarah would be a good fit for, please reach out to inquire about consulting. Sarah is based in Vancouver, Canada.\nhttps://www.sarahpopov.com/",
+    "status": "PAST",
+    "dateTime": "2022-08-17T18:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-bergen/events/287836013/",
+    "featuredEventPhoto": {
+      "id": "506314104",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/5/3/8/highres_506314104.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/5/3/8/600_506314104.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/5/3/8/thumb_506314104.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 10,
+      "waitlistCount": 0,
+      "totalCount": 10
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bergen",
+      "urlname": "rladies-bergen"
+    }
+  },
+  {
+    "id": "287835483",
+    "title": "Making and publishing your first R package",
+    "description": "Most of us have experience in using R to clean our data, run a few functions from another package, and produce a publishable, reproducible result. However, making the leap from running a few lines of code, to writing our own functions, to then finally bundling and publishing our own R package can be daunting. This R workshop is intended for intermediate-level R users who wish to make the leap from R user to R contributor, though all skill levels are welcome. This tutorial will focus on using the {devtools}, {usethis}, and {pkgdown} packages to help build your very own R package from scratch. The slideshow for the presentation can be found on Github here: [https://github.com/popovs/r-pkg-slides](https://github.com/popovs/r-pkg-slides)\n\nSarah Popov, MSc is a marine ecologist with a strong data management background who cares about great design. Sarah's current research interests lie in theoretical ecology, exploration of marine food webs, and the importance of large storm events in shaping marine communities. Sarah also loves helping other lab groups get a handle on monstrous amounts of data and working with databases. If you have any active research or data management opportunities you think Sarah would be a good fit for, please reach out to inquire about consulting. Sarah is based in Vancouver, Canada.\n\nhttps://www.sarahpopov.com/",
+    "status": "PAST",
+    "dateTime": "2022-08-17T18:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-bergen/events/287835483/",
+    "featuredEventPhoto": {
+      "id": "506313352",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/2/4/8/highres_506313352.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/2/4/8/600_506313352.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/2/4/8/thumb_506313352.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 2,
+      "waitlistCount": 0,
+      "totalCount": 2
+    },
+    "venues": [
+      {
+        "id": "27302716",
+        "name": "Statsraaden Bar & Reception",
+        "address": "Bradbenken 2",
+        "city": "Bergen",
+        "state": "",
+        "country": "no",
+        "lat": 60.3982,
+        "lon": 5.3201,
+        "postalCode": "5003",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bergen",
+      "urlname": "rladies-bergen"
+    }
+  },
+  {
+    "id": "285436625",
+    "title": "How not to panic in face of an error message",
+    "description": "Let's meet face to face and try to overcome two fears at once: socializing after the long restriction period and facing error messages in R.\n\nWe would like to gather all of you in Bergen again, to chat, discuss, ask questions, and just find out that there are other people that use R around us!\n\nTo start, Julia Romanowska (https://www.uib.no/en/persons/Julia.Romanowska) will lead a short workshop to show how to make use of errors and warnings that pop up on our screens. Afterwards, we will have an open discussion and mingling.\n\nCome and enjoy - no prerequisites needed, you don't even need a laptop. And we'll serve a simple lunch!",
+    "status": "PAST",
+    "dateTime": "2022-05-12T12:00:00+02:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-bergen/events/285436625/",
+    "featuredEventPhoto": {
+      "id": "503679297",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/9/8/1/highres_503679297.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/9/8/1/600_503679297.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/9/8/1/thumb_503679297.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 9,
+      "waitlistCount": 0,
+      "totalCount": 9
+    },
+    "venues": [
+      {
+        "id": "27160256",
+        "name": "Alrek Helseklynge",
+        "address": "Årstadveien 17",
+        "city": "Bergen",
+        "state": "",
+        "country": "no",
+        "lat": 60.3818,
+        "lon": 5.3584,
+        "postalCode": "5009",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bergen",
+      "urlname": "rladies-bergen"
+    }
+  },
+  {
+    "id": "296949680",
+    "title": "Reproducible book club #2",
+    "description": "Second meeting in our book club where we are going through the chapters of [“Building reproducible analytical pipelines with R”](https://raps-with-r.dev/) by Bruno Rodrigues.\n\nDuring this second meeting, Türküler Özgümüş from R-Ladies Bergen will give us an introduction to using git, based on Chapter 4 of the book. This will be an online event where you are welcome to code along and discuss any questions or problems that might arise. We are all learning this together!\n\nThe meeting will not be recorded.",
+    "status": "PAST",
+    "dateTime": "2023-11-07T16:00:00+01:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-bergen/events/296949680/",
+    "featuredEventPhoto": {
+      "id": "516826920",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/7/4/8/highres_516826920.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/7/4/8/600_516826920.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/7/4/8/thumb_516826920.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 16,
+      "waitlistCount": 0,
+      "totalCount": 16
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bergen",
+      "urlname": "rladies-bergen"
+    }
+  },
+  {
+    "id": "293166749",
+    "title": "Reproducible pipelines book club #1",
+    "description": "First meeting in our book club! We will be going through the chapters of [“Building reproducible analytical pipelines with R”](https://raps-with-r.dev/) by Bruno Rodrigues.\n\nDuring this first meeting, Julia Romanowska from R-Ladies Bergen will go through chapters 1-3, which make a nice introduction to why do we need to care about reproducibility at all. This will be an online event where you are welcome to code along and discuss any questions or problems that might arise. We are all learning this together!\n\nThe meeting will not be recorded.",
+    "status": "PAST",
+    "dateTime": "2023-10-24T16:00:00+02:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-bergen/events/293166749/",
+    "featuredEventPhoto": {
+      "id": "516633730",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/3/c/2/highres_516633730.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/3/c/2/600_516633730.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/3/c/2/thumb_516633730.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 12,
+      "waitlistCount": 0,
+      "totalCount": 12
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bergen",
+      "urlname": "rladies-bergen"
+    }
+  },
+  {
+    "id": "295922921",
+    "title": "Hello, Quarto: A World of Possibilities (for Reproducible Publishing)",
+    "description": "R-Ladies Bergen and R-Ladies Cologne are kicking off a “Toolbox for Reproducibility” series! We will dive into tips, tricks, and techniques about adhering to Coding Best Practices and making our code (and workflows) reproducible.\n\nWe’re more than excited to have **Mine Çetinkaya-Rundel**, professor at Duke University (USA) as well as Developer Educator at Posit, as our first speaker of the series. We will learn from her how to use Quarto to discover the world of possibilities.\n\n✨ Hello, Quarto: A World of Possibilities (for Reproducible Publishing) ✨\nQuarto is an open-source scientific and technical publishing system that unifies and extends the R Markdown ecosystem. This talk will introduce you to creating reproducible, computational documents, from course notes to journal manuscripts to books and web pages with Quarto. Familiarity with R and RStudio will be helpful to follow along with the demos; however, those who work with any computational documents in any language (e.g., Jupyter Notebooks with Python) will also find the content relevant. The advantage of Quarto is that it is language-agnostic and can be used to create dynamic content with any computing language!\n\nIf you’re up for joining us, RSVP here. We will share all access details for our virtual event beforehand.\n\nWe’re very much looking forward to seeing many of you! ☺️",
+    "status": "PAST",
+    "dateTime": "2023-10-03T16:00:00+02:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-bergen/events/295922921/",
+    "featuredEventPhoto": {
+      "id": "515777143",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/2/f/7/highres_515777143.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/2/f/7/600_515777143.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/2/f/7/thumb_515777143.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 24,
+      "waitlistCount": 0,
+      "totalCount": 24
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bergen",
+      "urlname": "rladies-bergen"
+    }
+  },
+  {
+    "id": "292377117",
+    "title": "Basics of data visualization - theory and practice",
+    "description": "[Laura Garrison](https://www.laura-garrison.com/) (PhD in Data Visualization from UiB) will teach us a bit of theory behind creating stunning visualizations, while Julia Romanowska will show us how to implement this in {ggplot2}.\n\nIf you want to participate in the hands-on part, be sure to bring your laptop with R and RStudio installed, as well as the following R packages:\n\n* tidyverse\n* here\n* patchwork\n* ggiraph\n\nThe workshop materials will be made available via GitHub before the session.\n\n**Brief About Laura:**\nI use visualization to ask questions and tell stories about data. Earning my PhD in Visualization from the University of Bergen in 2022, my work focuses on visual exploration and communication of information, mainly from the health and life sciences. I am also a professional biomedical artist, meaning I've drawn guts for a living. Prior to my PhD, I worked for six years as an artist and content director in medical education start-ups in Silicon Valley, Chicago, and New York City. I love combining art, science, and technology to help people understand data or concepts, especially in the areas of biology and medicine. More recently, I've become interested in developing visualizations that are more accessible, i.e., usable and understandable, for different segments of the population. Currently, I divide my time as a consultant at Bouvet ASA and at the Mohn Medical Imaging and Visualization Centre (MMIV) at Haukeland Univ. Hospital in Bergen.",
+    "status": "PAST",
+    "dateTime": "2023-04-20T15:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-bergen/events/292377117/",
+    "featuredEventPhoto": {
+      "id": "511824700",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/0/7/c/highres_511824700.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/0/7/c/600_511824700.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/0/7/c/thumb_511824700.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 13,
+      "waitlistCount": 0,
+      "totalCount": 13
+    },
+    "venues": [
+      {
+        "id": "27457970",
+        "name": "Årstadveien 17",
+        "address": "Årstadveien 17",
+        "city": "Bergen",
+        "state": "",
+        "country": "no",
+        "lat": 60.382,
+        "lon": 5.3582,
+        "postalCode": "5009",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bergen",
+      "urlname": "rladies-bergen"
+    }
+  },
+  {
+    "id": "291632166",
+    "title": "Efficient dependency management with {renv}",
+    "description": "The [{renv} package](https://rstudio.github.io/renv/articles/renv.html) can help us keep track of all the packages we're using in a specific project and create backups or freeze package versions for later use. This makes sharing and re-running code easier. Let's dive into how we can incorporate this into our projects!\n\nThis is the first meeting in a series about {renv} - [Julia Romanowska](https://www.uib.no/en/persons/Julia.Romanowska) will give us a quick intro into the package, with some examples. Then, we can discuss, mingle, and set up dates for the next meetings.\n\n**NOTE:** the room is booked for 2 hours, but you can come and leave whenever you want.\n\nThe series is co-organized by Türküler Özgümüs and Jessica Louise Ray.",
+    "status": "PAST",
+    "dateTime": "2023-03-15T09:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-bergen/events/291632166/",
+    "featuredEventPhoto": {
+      "id": "510670401",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/8/a/1/highres_510670401.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/8/a/1/600_510670401.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/8/a/1/thumb_510670401.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [
+      {
+        "id": "23345742",
+        "name": "Bergen Offentlige Bibliotek",
+        "address": "Strømgaten 6",
+        "city": "Bergen",
+        "state": "",
+        "country": "no",
+        "lat": 60.3899,
+        "lon": 5.3317,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bergen",
+      "urlname": "rladies-bergen"
+    }
+  },
+  {
+    "id": "290100305",
+    "title": "Auto-magical tables in R (physical meetup)",
+    "description": "Have you been struggling with creating tables from the results of your analyses? Let's check how various packages can help us in these struggles.\n\nJulia Romanowska will be talking about {gt}, {gtsummary}, and {finalfit} packages. There will be some hands-on exercises, so if you want to participate in those, bring your laptop and make sure you've installed RStudio and the mentioned packages beforehand.\n\n**NOTE:** register *here* for the physical meetup (with snacks and coffee!) or [here](https://www.meetup.com/rladies-bergen/events/290100296/) for the virtual event.",
+    "status": "PAST",
+    "dateTime": "2023-01-27T09:00:00+01:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-bergen/events/290100305/",
+    "featuredEventPhoto": {
+      "id": "508956400",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/e/3/0/highres_508956400.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/e/3/0/600_508956400.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/e/3/0/thumb_508956400.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 9,
+      "waitlistCount": 0,
+      "totalCount": 9
+    },
+    "venues": [
+      {
+        "id": "27457970",
+        "name": "Årstadveien 17",
+        "address": "Årstadveien 17",
+        "city": "Bergen",
+        "state": "",
+        "country": "no",
+        "lat": 60.382,
+        "lon": 5.3582,
+        "postalCode": "5009",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bergen",
+      "urlname": "rladies-bergen"
+    }
+  },
+  {
+    "id": "290100296",
+    "title": "Auto-magical tables in R (virtual event)",
+    "description": "Have you been struggling with creating tables from the results of your analyses? Let's check how various packages can help us in these struggles.\n\nJulia Romanowska will be talking about {gt}, {gtsummary}, and {finalfit} packages. There will be some hands-on exercises, so if you want to participate in those, bring your laptop and make sure you've installed RStudio and the mentioned packages beforehand.\n\n**NOTE:** register *here* for the virtual event or [here](https://www.meetup.com/rladies-bergen/events/290100305/) for the physical meetup (with snacks and coffee!).",
+    "status": "PAST",
+    "dateTime": "2023-01-27T09:00:00+01:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-bergen/events/290100296/",
+    "featuredEventPhoto": {
+      "id": "508956403",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/e/3/3/highres_508956403.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/e/3/3/600_508956403.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/e/3/3/thumb_508956403.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 24,
+      "waitlistCount": 0,
+      "totalCount": 24
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bergen",
+      "urlname": "rladies-bergen"
+    }
+  },
+  {
+    "id": "304685619",
+    "title": "R-Ladies Book Club: Happy Git and GitHub for the useR (Third meeting)",
+    "description": "Join us for the third meet-up for the online boook club discussing **‘[Happy Git and Github for the useR](https://happygitwithr.com/)**’ by Jenny Bryan.\n**When:** Tuesday December 3 @ 17:00 CET (11:00 ET)\n**Where:** Zoom (link to follow)\n**What:** We will discuss the part **Early Github Wins**\n**Who:** Martine Jansen from R-Ladies Den Bosch.\n**Why:** For this book club we - the Bergen, Den Bosch and Amsterdam chapters of R Ladies - are joining forces. In each meeting, we will work through a chapter(s) of the book together. We are doing this book club, because we like to learn together. It is not the case presenters are necessarily the experts on the matter. To make this a group effort, the idea is that all participants take turns in presenting chapters. If you’re not comfortable presenting, just listening is also okay.\nIf you cannot make it this time, feel free to join in on one of the subsequent meetings.\nCross-posting: This event is cross posted by [R-Ladies Den Bosch](https://www.meetup.com/rladies-den-bosch/events/304669774/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link) and [R-Ladies Amsterdam](https://www.meetup.com/rladies-amsterdam/events/304684945/?notificationId=%3Cinbox%3E%21412845906-1732177777632&eventOrigin=notifications).\nR-Ladies is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form. See the [code of conduct](https://rladies.org/coc/).",
+    "status": "PAST",
+    "dateTime": "2024-12-03T17:00:00+01:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-bergen/events/304685619/",
+    "featuredEventPhoto": {
+      "id": "524819634",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/e/8/f/2/highres_524819634.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/e/8/f/2/600_524819634.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/8/f/2/thumb_524819634.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bergen",
+      "urlname": "rladies-bergen"
+    }
+  },
+  {
+    "id": "304456204",
+    "title": "R-Ladies Boook club: Happy Git and GitHub for the useR (Second meeting)",
+    "description": "Join us for the second meeting of the online book club discussing **‘[Happy Git and Github for the useR](https://happygitwithr.com/)**’ by Jenny Bryan.\n**When:** Tuesday November 19 @ 17:00 CET (11:00 ET)\n**Where:** [Zoom](https://us02web.zoom.us/j/87240540921?pwd=E4Lm8qap1SGhIWgakNCVtyjjcs95b6.1)\n**What:** We will discuss the parts *Installation* and *Connect Git, GitHub, RStudio* of the [book](https://happygitwithr.com/).\nBook club materials can be found on our [Github](https://github.com/rladiesboookclub/happygitwithr). The Github also has a discussions page where participants can ask questions or discuss different aspects of the book as they move through it. For help using GitHub discussions see [here](https://docs.github.com/en/discussions/quickstart).\n**Who:** Our presenter will be co-host **Sehee Rim** from [R-Ladies Bergen](https://www.meetup.com/rladies-bergen/).\n**Why:** For this book club we - the Bergen, Den Bosch and Amsterdam chapters of R Ladies - are joining forces. We will meet every two weeks, and in each meeting, we will work through a different chapter of the book together. We are doing this boook club (spelling intentional), because we like to learn together. It is not the case presenters are necessarily the experts on the matter. To make this a group effort, the idea is that all participants take turns presenting chapters. If you’re not comfortable presenting, just listening is also okay.\nIf you cannot make it this time, feel free to join in on one of the subsequent meetings.\nR-Ladies is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form. See the [code of conduct](https://rladies.org/coc/).\n*As always, everyone, regardless of gender identity, is welcome to join our events!*\n**Cross-posting:** This event is cross posted on the [R-Ladies Den Bosch](https://www.meetup.com/rladies-den-bosch/events/304441935) and [R-Ladies Amsterdam](https://www.meetup.com/rladies-amsterdam/events/304454190/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link) meet-up pages.",
+    "status": "PAST",
+    "dateTime": "2024-11-19T19:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-bergen/events/304456204/",
+    "featuredEventPhoto": {
+      "id": "524582915",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/6/3/highres_524582915.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/6/3/600_524582915.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/6/3/thumb_524582915.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 1,
+      "waitlistCount": 0,
+      "totalCount": 1
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bergen",
+      "urlname": "rladies-bergen"
+    }
+  },
+  {
+    "id": "304343658",
+    "title": "Book club: Happy Git and GitHub for the useR - kick-off session",
+    "description": "Interested in streamlining your workflow by connecting Git and R? Join our **book club** for “**[Happy Git and GitHub for the useR](https://happygitwithr.com/)”** by Jennifer (Jenny) Bryan! The book describes the use of the version control system Git and the hosting site GitHub for statistical and data scientific workflows in R.\n\nAfter our engaging sessions on “Building Reproducible Analytical Pipelines with R” by R-Ladies Bergen and “Hands-On Machine Learning with R” by R-Ladies Den Bosch, we're excited to team up for a joint book club, together with R-Ladies Amsterdam!\n\nJenny Bryan herself will introduce the book and be available for questions during the kick-off session!\n\n**When**: Kicking off on Wednesday, November 6, 2024, at 16:30 CET (Den Bosch/Bergen/Amsterdam time) – thereafter 17.00 CET every 2 weeks\n**Where**: Zoom (link available for attendees)\n**What to expect?**\n\n* Book Club Format: Every two weeks, we’ll work through each chapter together. To make this a group effort, the idea is that all participants take turns in presenting chapters. Participants are encouraged to present chapter summaries, but listening in is equally welcome.\n* Presentations summarizing key points from each chapter\n* Open discussions for questions, insights, and collaborative learning\n\nFeel free to join us at any session, even if you miss the first one. We’ll explore “**[Happy Git and GitHub for the useR](https://happygitwithr.com/)”** together – learning is better in good company! You do not have to prepare anything for the kick-off session.\n\n**Code of Conduct**\nR-Ladies is committed to a welcoming, harassment-free experience for everyone. We have a strict Code of Conduct and do not tolerate harassment in any form. See the [code of conduct](https://rladies.org/coc/)\n\n**Cross Posting**\nThis event will be cross posted on the [R-Ladies Den Bosch](https://www.meetup.com/rladies-den-bosch/events/304310072) and [R-Ladies Amsterdam](https://www.meetup.com/rladies-amsterdam/events/304310352/) meet-up pages.",
+    "status": "PAST",
+    "dateTime": "2024-11-06T16:30:00+01:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-bergen/events/304343658/",
+    "featuredEventPhoto": {
+      "id": "524463667",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/e/5/3/highres_524463667.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/e/5/3/600_524463667.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/5/3/thumb_524463667.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 11,
+      "waitlistCount": 0,
+      "totalCount": 11
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bergen",
+      "urlname": "rladies-bergen"
+    }
+  },
+  {
+    "id": "301312107",
+    "title": "Reproducible book club #12",
+    "description": "We are happy to announce an extra special meeting in our book club where we will host the author of [“Building Reproducible Analytical Pipelines with R”](https://raps-with-r.dev/) by Bruno Rodrigues.\n\nDuring this meeting, Bruno will present an additional reproducibility tip, not included in the book. Afterward, we will hold a Q&A session where everyone is invited to ask a question. What topic or burning question do you have for the author? It's a great opportunity, so feel free to ask! We will send a link to a shared document where you can write your questions, concerns, or compliments.\n\nThanks to all for joining us on this joint book club venture with R-Ladies Cologne and R-Ladies Bergen. And a special thanks to those of you who volunteered to present the chapters. We really enjoyed our sessions together and wish everyone much *reproducible* progress to come.",
+    "status": "PAST",
+    "dateTime": "2024-06-20T16:00:00+02:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-bergen/events/301312107/",
+    "featuredEventPhoto": {
+      "id": "521378366",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/5/d/e/highres_521378366.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/5/d/e/600_521378366.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/5/d/e/thumb_521378366.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 7,
+      "waitlistCount": 0,
+      "totalCount": 7
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bergen",
+      "urlname": "rladies-bergen"
+    }
+  },
+  {
+    "id": "300711378",
+    "title": "Reproducible book club #11",
+    "description": "This is the 11th meeting of our book club, where we are going through the chapters of [“Building reproducible analytical pipelines with R”](https://raps-with-r.dev/) by Bruno Rodrigues.\n\nIn this meeting, Angelica Becerra, Data Scientist at Cynkra, will guide us through [Chapter 15](https://raps-with-r.dev/ci_cd.html). We'll learn about CI/CD and how you can leverage GitHub Actions for it.\n\nThis will be an online event where you are welcome to code along and discuss any questions or problems that might arise. We are all learning this together!\n\nThe meeting will not be recorded.",
+    "status": "PAST",
+    "dateTime": "2024-05-14T16:00:00+02:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-bergen/events/300711378/",
+    "featuredEventPhoto": {
+      "id": "520802563",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/0/3/highres_520802563.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/0/3/600_520802563.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/0/3/thumb_520802563.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 2,
+      "waitlistCount": 0,
+      "totalCount": 2
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bergen",
+      "urlname": "rladies-bergen"
+    }
+  },
+  {
+    "id": "300711368",
+    "title": "Reproducible book club #10",
+    "description": "This is the 10th meeting of our book club where we are working through, chapter by chapter, the wonderful book by Bruno Rodrigues, [“Building reproducible analytical pipelines with R”](https://raps-with-r.dev/).\n\nIn this meeting, our colleague at UiB, Sehee Rim, MD, PhD fellow, will guide us through [Chapter 14](https://raps-with-r.dev/repro_cont.html). We'll learn about Docker and how containers are designed to help with reproducibility.\n\nThis will be an online event where you are welcome to code along and discuss any questions or problems that might arise. We are all learning this together!\n\nThe meeting will not be recorded.",
+    "status": "PAST",
+    "dateTime": "2024-05-07T16:00:00+02:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-bergen/events/300711368/",
+    "featuredEventPhoto": {
+      "id": "520801746",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/d/2/highres_520801746.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/d/2/600_520801746.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/d/2/thumb_520801746.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 9,
+      "waitlistCount": 0,
+      "totalCount": 9
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bergen",
+      "urlname": "rladies-bergen"
+    }
+  },
+  {
+    "id": "300303825",
+    "title": "Reproducible book club #9",
+    "description": "This is the 9th meeting of our book club, where we are going through the chapters of [“Building reproducible analytical pipelines with R”](https://raps-with-r.dev/) by Bruno Rodrigues.\n\nIn this meeting, Elham Ali will show us how to streamline your analysis using the {targets} package as a workflow manager (based on [chapter 13](https://raps-with-r.dev/targets.html)).\n\nThis will be an online event where you are welcome to code along and discuss any questions or problems that might arise. We are all learning this together!\n\nThe meeting will not be recorded.",
+    "status": "PAST",
+    "dateTime": "2024-04-25T17:00:00+02:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-bergen/events/300303825/",
+    "featuredEventPhoto": {
+      "id": "520286883",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/9/0/3/highres_520286883.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/9/0/3/600_520286883.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/9/0/3/thumb_520286883.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bergen",
+      "urlname": "rladies-bergen"
+    }
+  },
+  {
+    "id": "300045977",
+    "title": "Reproducible book club #8",
+    "description": "Welcome to the 8th meeting in our book club where we are going through the chapters of [“Building reproducible analytical pipelines with R”](https://raps-with-r.dev/) by Bruno Rodrigues.\n\nDuring this meeting, Gabe Winter from R-Ladies Cologne will explain how to test your code, based on [Chapter 12](https://raps-with-r.dev/testing.html). This will be an online event where you are welcome to code along and discuss any questions or problems that might arise. We are all learning this together!\n\nThe meeting will not be recorded.\n\nP.S. If you are in Bergen and want to meet to watch, let us know by sending a message to Julia or Jonelle, and we can arrange a meeting place.",
+    "status": "PAST",
+    "dateTime": "2024-04-16T16:00:00+02:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-bergen/events/300045977/",
+    "featuredEventPhoto": {
+      "id": "520022991",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/a/f/highres_520022991.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/a/f/600_520022991.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/a/f/thumb_520022991.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bergen",
+      "urlname": "rladies-bergen"
+    }
+  },
+  {
+    "id": "299337190",
+    "title": "Reproducible book club #7",
+    "description": "The 7th meeting of our book club where we are going through the chapters of [“Building reproducible analytical pipelines with R”](https://raps-with-r.dev/) by Bruno Rodrigues.\n\nDuring this meeting, Ricardo Serrano will show us how to package your code, based on chapter 11. If you want to try it out, be sure to have RStudio with {rmarkdown} and {knitr} installed.\n\nThis will be an online event where you are welcome to code along and discuss any questions or problems that might arise. We are all learning this together!\n\nThe meeting will not be recorded.",
+    "status": "PAST",
+    "dateTime": "2024-04-04T16:00:00+02:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-bergen/events/299337190/",
+    "featuredEventPhoto": {
+      "id": "519277562",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/2/b/a/highres_519277562.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/2/b/a/600_519277562.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/2/b/a/thumb_519277562.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 11,
+      "waitlistCount": 0,
+      "totalCount": 11
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bergen",
+      "urlname": "rladies-bergen"
+    }
+  },
+  {
+    "id": "299586737",
+    "title": "Reproducible book club #6",
+    "description": "The 6th meeting of our book club where we are going through the chapters of [“Building reproducible analytical pipelines with R”](https://raps-with-r.dev/) by Bruno Rodrigues.\n\nDuring this meeting, Julia Romanowska (co-founder of R-Ladies Bergen) will guide us through [chapter 10](https://raps-with-r.dev/repro_intro.html), where the [{renv}](https://rstudio.github.io/renv/articles/renv.html) package is presented. This chapter teaches how to keep track of various versions of packages one uses during an analysis.\n\nThis will be an online event where you are welcome to code along and discuss any questions or problems that might arise. We are all learning this together!\n\nThe meeting will not be recorded.\n\nCheck the next meetings in this book club and sign up to present one of the chapters that need a presenter.",
+    "status": "CANCELLED",
+    "dateTime": "2024-03-07T18:00:00+01:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-bergen/events/299586737/",
+    "featuredEventPhoto": {
+      "id": "519535232",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/7/c/0/highres_519535232.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/7/c/0/600_519535232.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/7/c/0/thumb_519535232.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bergen",
+      "urlname": "rladies-bergen"
+    }
+  },
+  {
+    "id": "298603352",
+    "title": "Reproducible book club #5",
+    "description": "The 5th meeting of our book club where we are going through the chapters of [“Building reproducible analytical pipelines with R”](https://raps-with-r.dev/) by Bruno Rodrigues.\n\nDuring this meeting, Fulya Gökalp will show us how to re-organize a project using R Markdown, based on [chapter 9](https://raps-with-r.dev/project_rewrite.html). If you want to try it out, be sure to have RStudio with {rmarkdown} and {knitr} installed.\n\nFulya Gökalp Yavuz works as a Faculty Member at the METU Statistics Department in Turkey where she teaches data handling, visualization, statistical computing, and advanced statistical data analysis courses with R. She employs statistical and mathematical modeling, linear mixed models, parallel programming, robust distributions, and their applications in several fields such as neuroscience, hydrology, education, and medicine. Learn about her work below!\n\n[https://avesis.metu.edu.tr/fgokalp](https://avesis.metu.edu.tr/fgokalp)\n[https://stat.metu.edu.tr/en/fulya-gokalp-yavuz](https://stat.metu.edu.tr/en/fulya-gokalp-yavuz)\n[https://www.linkedin.com/in/fulyagokalpyavuz/](https://www.linkedin.com/in/fulyagokalpyavuz/)\n\nThis will be an online event where you are welcome to code along and discuss any questions or problems that might arise. We are all learning this together!\n\nThe meeting will not be recorded.",
+    "status": "PAST",
+    "dateTime": "2024-02-20T16:00:00+01:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-bergen/events/298603352/",
+    "featuredEventPhoto": {
+      "id": "518551956",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/c/d/4/highres_518551956.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/c/d/4/600_518551956.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/c/d/4/thumb_518551956.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 11,
+      "waitlistCount": 0,
+      "totalCount": 11
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bergen",
+      "urlname": "rladies-bergen"
+    }
+  },
+  {
+    "id": "298482176",
+    "title": "Reproducible book club #4",
+    "description": "Welcome to the third meeting in our book club where we are going through the chapters of [“Building reproducible analytical pipelines with R”](https://raps-with-r.dev/) by Bruno Rodrigues.\n\nIn this meeting, Elen le Foll will explain how to keep your code well documented to improve reproducibility, based on [chapter 7](https://raps-with-r.dev/lit_prog.html). If you want to try it out, be sure to have RStudio and {rmarkdown}, {knitr} installed.\n\nElen Le Foll is a post-doctoral researcher and lecturer in applied linguistics and language education at the University of Cologne with a strong interest in quantitative corpus linguistics methods. As a keen educator, she also enjoys teaching introductory courses in data management, critical data literacy, R, statistics, and data visualisation.\n\nThe meeting will not be recorded.\n\nP.S. If you are in Bergen and want to meet to watch, let us know by sending a message to Julia or Jonelle, and we can arrange a meeting place.",
+    "status": "PAST",
+    "dateTime": "2024-02-08T16:00:00+01:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-bergen/events/298482176/",
+    "featuredEventPhoto": {
+      "id": "518432706",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/f/c/2/highres_518432706.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/f/c/2/600_518432706.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/f/c/2/thumb_518432706.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 7,
+      "waitlistCount": 0,
+      "totalCount": 7
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bergen",
+      "urlname": "rladies-bergen"
+    }
+  },
+  {
+    "id": "297943932",
+    "title": "Reproducible book club #3",
+    "description": "Welcome to the third meeting in our book club where we are going through the chapters of [“Building reproducible analytical pipelines with R”](https://raps-with-r.dev/) by Bruno Rodrigues.\n\nDuring this meeting, Gabe Winter from R-Ladies Cologne will explain how to write functions in R, based on [chapter 6](https://raps-with-r.dev/fprog.html). This will be an online event where you are welcome to code along and discuss any questions or problems that might arise. We are all learning this together!\n\nThe meeting will not be recorded.\n\nP.S. If you are in Bergen and want to meet to watch, let us know by sending a message to Julia or Jonelle, and we can arrange a meeting place.",
+    "status": "PAST",
+    "dateTime": "2024-01-11T16:00:00+01:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-bergen/events/297943932/",
+    "featuredEventPhoto": {
+      "id": "517911412",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/8/d/4/highres_517911412.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/8/d/4/600_517911412.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/8/d/4/thumb_517911412.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 14,
+      "waitlistCount": 0,
+      "totalCount": 14
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bergen",
+      "urlname": "rladies-bergen"
+    }
+  },
+  {
+    "id": "306116115",
+    "title": "[Book club] Happy Git: Forks, Pull Requests, and Merge Conflicts",
+    "description": "Effective version control is essential for reproducible and collaborative data science. This online session will guide participants through key concepts from the *[Happy Git with R](https://happygitwithr.com/)* book, focusing on **[Daily Workflows](https://happygitwithr.com/time-travel-see-past), part 2 (Chapters 30-34)**. Participants will learn how to collaborate effectively using Git and GitHub. Key topics include forking repositories, making pull requests, managing remotes, and handling merge conflicts. By the end of the session, attendees will be able to contribute to open-source projects, sync changes across different repositories, and troubleshoot common collaboration challenges.\nWhether you're new to Git or looking to refine your workflow, this session, the fifth in the R-Ladies book club series, will equip you with actionable strategies to integrate version control into your R programming routine.\n**When:** **Tuesday February 18 from 17:00 - 18:30 CET**\n**Who:** The session will be presented by Josefina Bernardo from [R-Ladies Amsterdam](https://bsky.app/profile/rladiesamsterdam.bsky.social).\n**Where:** Online\nR-Ladies is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form. See the [code of conduct](https://rladies.org/coc/).",
+    "status": "PAST",
+    "dateTime": "2025-02-18T17:00:00+01:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-bergen/events/306116115/",
+    "featuredEventPhoto": {
+      "id": "526208025",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/f/5/9/highres_526208025.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/f/5/9/600_526208025.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/f/5/9/thumb_526208025.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bergen",
+      "urlname": "rladies-bergen"
+    }
+  },
+  {
+    "id": "305754555",
+    "title": "Boook club Happy Git and GitHub for the useR - Fifth meeting",
+    "description": "Effective version control is essential for reproducible and collaborative data science. This online session will guide participants through key concepts from the *[Happy Git with R](https://happygitwithr.com/)* book, focusing on **[Git remote setups](https://happygitwithr.com/remote-scenarios-intro)**[ ](https://happygitwithr.com/remote-scenarios-intro)and **[Daily Workflows](https://happygitwithr.com/workflows-intro)**. Participants will learn how to configure remote repositories, manage connections between local and remote projects, and adopt best practices for seamless collaboration using Git and GitHub. Through practical demonstrations, we will cover common daily Git operations, including committing, pushing, pulling, and resolving conflicts, ensuring a smooth and efficient workflow for R projects. Whether you're new to Git or looking to refine your workflow, this session, the fifth in the R-Ladies book club series, will equip you with actionable strategies to integrate version control into your R programming routine.\n**When:** **Tuesday February 4 from 17:00 - 18:30 CET**\n**Who:** The session will be presented by Kylie Ainslie from R-Ladies Amsterdam.\n**Where:** Online\nR-Ladies is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form. See the [code of conduct](https://rladies.org/coc/).",
+    "status": "PAST",
+    "dateTime": "2025-02-04T17:00:00+01:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-bergen/events/305754555/",
+    "featuredEventPhoto": {
+      "id": "525852543",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/0/f/f/highres_525852543.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/0/f/f/600_525852543.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/0/f/f/thumb_525852543.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 2,
+      "waitlistCount": 0,
+      "totalCount": 2
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bergen",
+      "urlname": "rladies-bergen"
+    }
+  },
+  {
+    "id": "305519279",
+    "title": "Boook club Happy Git and GitHub for the useR - Fourth meeting",
+    "description": "Join us for the fourth meetup for the online boook club discussing **‘Happy Git and Github for the useR**’ by Jenny Bryan. On Tuesday January 21, we discuss the part **Github Fundamentals**, presented by Michelle from R-Ladies Bergen.\nFor this boook club we - the Bergen, Den Bosch and Amsterdam chapters of R Ladies - are joining forces. In a couple of meeting, we will work through all the chapters in the book together. We are doing this boook club, because we like to learn together. It is not the case presenters are necessarily the experts on the matter. To make this a group effort, the idea is that all participants take turns in presenting chapters. If you’re not comfortable presenting, just listening is also okay.\nIf you cannot make it this time, feel free to join in on one of the subsequent meetings.\nR-Ladies is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form. See the [code of conduct](https://rladies.org/coc/).\nThe book can be found at [https://happygitwithr.com/](https://happygitwithr.com/)",
+    "status": "PAST",
+    "dateTime": "2025-01-21T17:00:00+01:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-bergen/events/305519279/",
+    "featuredEventPhoto": {
+      "id": "525623850",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/d/2/a/highres_525623850.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/d/2/a/600_525623850.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/d/2/a/thumb_525623850.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bergen",
+      "urlname": "rladies-bergen"
+    }
+  }
+]
