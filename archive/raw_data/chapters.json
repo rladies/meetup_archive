@@ -1,5 +1,31 @@
 [
   {
+    "id": "38394984",
+    "name": "R-Ladies Genève",
+    "urlname": "rladies-geneve",
+    "description": "This is a local chapter of R-Ladies Global (https://www.rladies.org), an organisation that promotes gender diversity in the R community worldwide. We meetup in person or virtually to learn about the R programming language, algorithms and advanced tools.\n\nR-Ladies welcomes members of all R proficiency levels, whether you're a new or aspiring R user, or an experienced R programmer interested in mentoring, networking & expert upskilling. Our community is designed to develop our members' R skills & knowledge through social, collaborative learning & sharing. Supporting minority identity access to STEM skills & careers, the Free Software Movement, and contributing to the global R community!\n\nWe are pro-actively inclusive of queer, trans, and all minority identities, with additional sensitivity to intersectional identities. Our priority is to provide a safe community space for anyone identifying as a minority gender who is interested in working with R. As a founding principle, there is no cost or charge to participate in any of our R-Ladies communities around the world. You can access our presentations, R scripts, and Projects on our Github account (https://github.com/rladies) and follow us on BlueSky (https://bsky.app/profile/rladies.org) to stay up to date about R-Ladies news!\n\nMake sure you read and comply with our code of conduct (https://rladies.org/coc/) and community guidelines (https://guide.rladies.org/about/mission/#r-ladies-rules--guidelines).\n\nPlease note that by taking part in an R-Ladies event you grant the community organizers full rights to use the images resulting from the photography/video filming/media, and any reproductions or adaptations of the images for publicity, fundraising or other purposes to help achieve the community's aims. This might include (but is not limited to), the right to use them in their printed and online publicity, social media, press releases and funding applications. If you do not wish to be recorded in these media please inform a community organizer.",
+    "lat": 46.21,
+    "lon": 6.14,
+    "city": "Genève",
+    "state": "",
+    "country": "ch",
+    "memberships": {
+      "totalCount": 1
+    },
+    "foundedDate": "2026-02-24T22:15:26+01:00",
+    "proJoinDate": "2026-02-24T22:18:06-05:00",
+    "timezone": "Europe/Zurich",
+    "joinMode": "OPEN",
+    "who": "R-Ladies",
+    "isPrivate": false,
+    "events": {
+      "totalCount": 0,
+      "first_event": null,
+      "last_event": null
+    },
+    "status": "inactive"
+  },
+  {
     "id": "38306368",
     "name": "R-Ladies Corvallis",
     "urlname": "rladies-corvallis",
@@ -140,7 +166,7 @@
     "state": "",
     "country": "fr",
     "memberships": {
-      "totalCount": 132
+      "totalCount": 133
     },
     "foundedDate": "2025-01-14T17:48:21+01:00",
     "proJoinDate": "2025-01-14T17:49:50-05:00",
@@ -322,7 +348,7 @@
     "state": "",
     "country": "mx",
     "memberships": {
-      "totalCount": 31
+      "totalCount": 32
     },
     "foundedDate": "2024-07-24T03:16:40-07:00",
     "proJoinDate": "2024-07-24T03:17:09-04:00",
@@ -1518,7 +1544,7 @@
     "state": "",
     "country": "ar",
     "memberships": {
-      "totalCount": 142
+      "totalCount": 144
     },
     "foundedDate": "2020-11-19T23:21:37-03:00",
     "proJoinDate": "2020-11-19T23:23:01-05:00",
@@ -1804,7 +1830,7 @@
     "state": "",
     "country": "bo",
     "memberships": {
-      "totalCount": 72
+      "totalCount": 74
     },
     "foundedDate": "2020-06-12T12:38:16-04:00",
     "proJoinDate": "2020-06-12T12:40:47-04:00",
@@ -2142,7 +2168,7 @@
     "state": "",
     "country": "ng",
     "memberships": {
-      "totalCount": 2187
+      "totalCount": 2188
     },
     "foundedDate": "2020-02-04T08:18:40+01:00",
     "proJoinDate": "2020-02-25T13:21:20-05:00",
@@ -2532,7 +2558,7 @@
     "state": "OH",
     "country": "us",
     "memberships": {
-      "totalCount": 68
+      "totalCount": 69
     },
     "foundedDate": "2019-11-23T13:39:59-05:00",
     "proJoinDate": "2019-11-23T13:46:18-05:00",
@@ -2636,7 +2662,7 @@
     "state": "",
     "country": "om",
     "memberships": {
-      "totalCount": 377
+      "totalCount": 378
     },
     "foundedDate": "2019-10-31T15:37:46+04:00",
     "proJoinDate": "2019-10-31T15:39:31-04:00",
@@ -3971,9 +3997,9 @@
     "who": "R-Ladies",
     "isPrivate": false,
     "events": {
-      "totalCount": 27,
+      "totalCount": 31,
       "first_event": "2019-03-28",
-      "last_event": "2026-01-27"
+      "last_event": "2026-04-28"
     },
     "status": "active"
   },
@@ -4257,9 +4283,9 @@
     "who": "Miembrxs",
     "isPrivate": false,
     "events": {
-      "totalCount": 36,
+      "totalCount": 38,
       "first_event": "2017-08-31",
-      "last_event": "2025-10-01"
+      "last_event": "2026-02-26"
     },
     "status": "active"
   },
@@ -5600,7 +5626,7 @@
     "state": "",
     "country": "br",
     "memberships": {
-      "totalCount": 1132
+      "totalCount": 1133
     },
     "foundedDate": "2018-06-04T19:31:17-03:00",
     "proJoinDate": "2018-06-04T19:35:00-04:00",
