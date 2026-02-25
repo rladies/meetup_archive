@@ -42,9 +42,9 @@
     "eventUrl": "https://www.meetup.com/rladies-philly/events/312901048/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 2,
+      "yesCount": 3,
       "waitlistCount": 0,
-      "totalCount": 2
+      "totalCount": 3
     },
     "venues": [
       {
@@ -216,6 +216,32 @@
     }
   },
   {
+    "id": "313505524",
+    "title": " Level Up Your Data Visualizations with ggplot2",
+    "description": "Join us for a practical, beginner-friendly meetup on **“Level Up Your Data Visualizations with ggplot2”** where we’ll explore how to create clear, compelling, and professional charts in R using **ggplot2**. Whether you’re new to data visualization or looking to improve your plotting skills, this session will cover key principles, useful customization tips, and hands-on examples to help you turn raw data into impactful visual stories.",
+    "status": "ACTIVE",
+    "dateTime": "2026-03-25T17:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-abuja/events/313505524/",
+    "featuredEventPhoto": {
+      "id": "532898970",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/8/3/a/highres_532898970.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/8/3/a/600_532898970.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/8/3/a/thumb_532898970.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 14,
+      "waitlistCount": 0,
+      "totalCount": 14
+    },
+    "venues": [],
+    "group": {
+      "name": "R-Ladies Abuja",
+      "urlname": "rladies-abuja"
+    }
+  },
+  {
     "id": "313408453",
     "title": "R-Ladies Corvallis: R Show & Tell ",
     "description": "**Learn how other R-Ladies in the community are using R!**\n\nAt our second meet-up, we'll be hosting an informal Show & Tell. You can present in the Show & Tell or just come and hang out. For the Show & Tell portion, we're asking anyone who is interested in sharing to create a single slide highlighting anything related to how they use R. For example, share how you use R in your work, tell us about a cool R project you've worked on, or share something you want to learn more about. The current plan is to ask presenters to talk for 5 minutes. *We may adjust the time limit depending on how many volunteers we get.*\n\n**If you are interested in presenting during the Show & Tell, please [fill out this brief form](https://docs.google.com/forms/d/e/1FAIpQLSeQwuwjWZK3vIc6VHP3PIlw4xhXa4Abag3Cs7gh5SYDoz3c5g/viewform?usp=publish-editor).** We will send details and instructions for the informal presentations on March 4. If you would like to present, please fill out the form by **March 3**.\n\n**You do not need to present during the Show & Tell to attend this event**. If you'd rather just listen, hang out, and chat, you are encouraged to still attend!\n\nFood and drink are available for purchase. Please note this event will be held outside. We have a pavilion reserved, but we recommend bundling up just in case it's cold! This is an open and informal event! Come as you are - any and all R skill level and experience welcome.",
@@ -342,9 +368,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/e/7/7/thumb_532352375.jpeg"
     },
     "rsvps": {
-      "yesCount": 44,
+      "yesCount": 46,
       "waitlistCount": 0,
-      "totalCount": 44
+      "totalCount": 46
     },
     "venues": [],
     "group": {
@@ -368,9 +394,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/2/b/2/thumb_532609842.jpeg"
     },
     "rsvps": {
-      "yesCount": 19,
+      "yesCount": 18,
       "waitlistCount": 0,
-      "totalCount": 19
+      "totalCount": 18
     },
     "venues": [
       {
