@@ -9,9 +9,9 @@
     "eventUrl": "https://www.meetup.com/rladies-philly/events/312901066/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 2,
+      "yesCount": 3,
       "waitlistCount": 0,
-      "totalCount": 2
+      "totalCount": 3
     },
     "venues": [
       {
@@ -42,9 +42,9 @@
     "eventUrl": "https://www.meetup.com/rladies-philly/events/312901048/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 4,
+      "yesCount": 5,
       "waitlistCount": 0,
-      "totalCount": 4
+      "totalCount": 5
     },
     "venues": [
       {
@@ -282,14 +282,53 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/8/3/a/thumb_532898970.jpeg"
     },
     "rsvps": {
-      "yesCount": 28,
+      "yesCount": 29,
       "waitlistCount": 0,
-      "totalCount": 28
+      "totalCount": 29
     },
     "venues": [],
     "group": {
       "name": "R-Ladies Abuja",
       "urlname": "rladies-abuja"
+    }
+  },
+  {
+    "id": "313630747",
+    "title": "Working Smarter with {dplyr} 1.2.0 – A Practical Session",
+    "description": "**{dplyr} 1.2.0 is out, and wow, is it a delight!**\n\n**Join us for a tour** of the new tools in {dplyr} 1.2.0 and when you should use them.\n\nWe will walk through **WHEN** you should use **ANY** of the new functionality (there are new \\`***when_any()***\\` and \\`***when_all()***\\` functions), how to say goodbye to case_match() and what to **REPLACE** it with, and more. You won't want to \\`filter_out()\\` this release. **Join us to learn more!**\n\nThe tidyverse keeps evolving, and **{dplyr} 1.2.0** brings a set of new tools that make data manipulation even more expressive and flexible.\n\nWhether you regularly work with **R and the tidyverse**, or you’re looking to sharpen your data wrangling skills, this session will help you better understand the design philosophy behind the latest **{dplyr}** release and how to apply it effectively.\n\nExpect a clear walkthrough, practical examples, and time for questions.",
+    "status": "ACTIVE",
+    "dateTime": "2026-03-18T18:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-rome/events/313630747/",
+    "featuredEventPhoto": {
+      "id": "533030088",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/3/a/8/highres_533030088.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/3/a/8/600_533030088.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/3/a/8/thumb_533030088.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 13,
+      "waitlistCount": 0,
+      "totalCount": 13
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Rome",
+      "urlname": "rladies-rome"
     }
   },
   {
@@ -302,9 +341,9 @@
     "eventUrl": "https://www.meetup.com/rladies-corvallis/events/313408453/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 8,
+      "yesCount": 9,
       "waitlistCount": 0,
-      "totalCount": 8
+      "totalCount": 9
     },
     "venues": [
       {
@@ -341,9 +380,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/d/a/b/thumb_532900363.jpeg"
     },
     "rsvps": {
-      "yesCount": 12,
+      "yesCount": 13,
       "waitlistCount": 0,
-      "totalCount": 12
+      "totalCount": 13
     },
     "venues": [
       {
@@ -419,7 +458,7 @@
     "id": "313107321",
     "title": "Create Custom Webpages with R and Quarto",
     "description": "**Workshop Details**\nIn this workshop, we will learn how to create webpages using Quarto in RStudio, and host it on GitHub. The example website will be a professional website template ([see my example webpage here](https://grcetmpk.github.io/)), but these skills can also be used to create other webpages ([like this one](https://ubc-stat.github.io/stat545/)).\n\nThis workshop was designed for R coders with no prior experience with Quarto. Experience with GitHub is helpful, but not necessary. We will be going through all of the steps slowly.\n\n\\*\\*\\*\n\n1. If this is your first R-Ladies event, please take a moment to review our R-Ladies Global code of conduct: [https://github.com/rladies/starter-kit/wiki/Code-of-Conduct](https://github.com/rladies/starter-kit/wiki/Code-of-Conduct)\n2. Who is this allowed to attend the event?\n\nEveryone is welcome to join us at our events and to be a part of our mission to empower gender minorities with the skills and knowledge to code in one of the top programming language in data science, which is R.\n3\\. To fulfill this mission we do ask participants to respect a focus on the encouragement and support for women and non\\-binary people during our events\\.\n\nSee you there!\n\nJasmine, and Melissa",
-    "status": "ACTIVE",
+    "status": "PAST",
     "dateTime": "2026-03-03T19:00:00-08:00",
     "duration": "PT2H",
     "eventUrl": "https://www.meetup.com/rladies-vancouver/events/313107321/",
@@ -431,9 +470,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/e/0/4/thumb_532488644.jpeg"
     },
     "rsvps": {
-      "yesCount": 25,
+      "yesCount": 26,
       "waitlistCount": 0,
-      "totalCount": 25
+      "totalCount": 26
     },
     "venues": [
       {
