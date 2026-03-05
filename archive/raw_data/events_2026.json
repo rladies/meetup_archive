@@ -308,9 +308,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/3/a/8/thumb_533030088.jpeg"
     },
     "rsvps": {
-      "yesCount": 13,
+      "yesCount": 33,
       "waitlistCount": 0,
-      "totalCount": 13
+      "totalCount": 33
     },
     "venues": [
       {
@@ -329,6 +329,45 @@
     "group": {
       "name": "R-Ladies Rome",
       "urlname": "rladies-rome"
+    }
+  },
+  {
+    "id": "313639240",
+    "title": "Data driven decision making for fantasy basketball",
+    "description": "Integral to the modern data scientists toolkit is understanding how to turn data into decisions. A core part of this is thinking about the end stage of your analysis pipeline, and how the communication and visualisation of your results will factor into decision making.\n\nBut it's not just enough to deliver a solution. Part of successfully supporting end-user decisions comes from co-design. That means thinking about end user needs and how your end-users will engage with your solution.\n\nThis talk explores both of these issues using fantasy basketball statistics. So come along if you have a love of data and data-driven decision making. Also come along if you are fan of sports analytics or forecasting.",
+    "status": "ACTIVE",
+    "dateTime": "2026-03-18T17:30:00+11:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-melbourne/events/313639240/",
+    "featuredEventPhoto": {
+      "id": "533037578",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/e/0/e/a/highres_533037578.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/e/0/e/a/600_533037578.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/0/e/a/thumb_533037578.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 6,
+      "waitlistCount": 0,
+      "totalCount": 6
+    },
+    "venues": [
+      {
+        "id": "25965012",
+        "name": "DiUS",
+        "address": "Level 3, 31 Queen St",
+        "city": "Melbourne",
+        "state": "al",
+        "country": "au",
+        "lat": -37.8182,
+        "lon": 144.9619,
+        "postalCode": "meetup2",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Melbourne",
+      "urlname": "rladies-melbourne"
     }
   },
   {
@@ -431,9 +470,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/5/7/e/thumb_532950078.jpeg"
     },
     "rsvps": {
-      "yesCount": 20,
+      "yesCount": 26,
       "waitlistCount": 0,
-      "totalCount": 20
+      "totalCount": 26
     },
     "venues": [
       {
