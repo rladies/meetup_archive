@@ -42,6 +42,7 @@ events_raw <- meetupr::get_pro_events(
   "rladies",
   asis = TRUE,
   date_after = sprintf("%s-01-01T00:00:00Z", format(time, "%Y")),
+  extra_graphql = "createdTime"
 )
 
 # Extract chapter list for processing

@@ -40,6 +40,7 @@ website_events <- purrr::map_df(events, function(x) {
     going = x$rsvps$yesCount,
 
     duration = lubridate::as.duration(x$duration),
+    created = x$createdTime,
     datetime = x$dateTime,
     datetime_utc = lubridate::as_datetime(datetime, tz = "UTC") |>
       lubridate::with_tz(
