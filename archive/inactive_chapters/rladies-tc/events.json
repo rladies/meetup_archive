@@ -30,7 +30,8 @@
     "group": {
       "name": "R-Ladies Twin Cities",
       "urlname": "rladies-tc"
-    }
+    },
+    "createdTime": "2015-06-19T15:46:46-04:00"
   },
   {
     "id": "224018649",
@@ -63,7 +64,8 @@
     "group": {
       "name": "R-Ladies Twin Cities",
       "urlname": "rladies-tc"
-    }
+    },
+    "createdTime": "2015-06-19T15:46:46-04:00"
   },
   {
     "id": "224055489",
@@ -96,7 +98,8 @@
     "group": {
       "name": "R-Ladies Twin Cities",
       "urlname": "rladies-tc"
-    }
+    },
+    "createdTime": "2015-06-19T15:46:46-04:00"
   },
   {
     "id": "223549570",
@@ -129,7 +132,8 @@
     "group": {
       "name": "R-Ladies Twin Cities",
       "urlname": "rladies-tc"
-    }
+    },
+    "createdTime": "2015-06-19T15:46:46-04:00"
   },
   {
     "id": "223364433",
@@ -162,7 +166,8 @@
     "group": {
       "name": "R-Ladies Twin Cities",
       "urlname": "rladies-tc"
-    }
+    },
+    "createdTime": "2015-06-19T15:46:46-04:00"
   },
   {
     "id": "223201792",
@@ -195,7 +200,8 @@
     "group": {
       "name": "R-Ladies Twin Cities",
       "urlname": "rladies-tc"
-    }
+    },
+    "createdTime": "2015-06-12T11:46:40-04:00"
   },
   {
     "id": "222988466",
@@ -207,9 +213,9 @@
     "eventUrl": "https://www.meetup.com/rladies-tc/events/222988466/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 3,
+      "yesCount": 2,
       "waitlistCount": 0,
-      "totalCount": 3
+      "totalCount": 2
     },
     "venues": [
       {
@@ -228,7 +234,8 @@
     "group": {
       "name": "R-Ladies Twin Cities",
       "urlname": "rladies-tc"
-    }
+    },
+    "createdTime": "2015-06-03T11:12:07-04:00"
   },
   {
     "id": "222510257",
@@ -261,7 +268,8 @@
     "group": {
       "name": "R-Ladies Twin Cities",
       "urlname": "rladies-tc"
-    }
+    },
+    "createdTime": "2015-05-13T14:52:33-04:00"
   },
   {
     "id": "222119994",
@@ -273,9 +281,9 @@
     "eventUrl": "https://www.meetup.com/rladies-tc/events/222119994/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 5,
+      "yesCount": 4,
       "waitlistCount": 0,
-      "totalCount": 5
+      "totalCount": 4
     },
     "venues": [
       {
@@ -294,7 +302,8 @@
     "group": {
       "name": "R-Ladies Twin Cities",
       "urlname": "rladies-tc"
-    }
+    },
+    "createdTime": "2015-04-26T21:32:49-04:00"
   },
   {
     "id": "222119990",
@@ -306,9 +315,9 @@
     "eventUrl": "https://www.meetup.com/rladies-tc/events/222119990/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 9,
+      "yesCount": 8,
       "waitlistCount": 0,
-      "totalCount": 9
+      "totalCount": 8
     },
     "venues": [
       {
@@ -327,7 +336,8 @@
     "group": {
       "name": "R-Ladies Twin Cities",
       "urlname": "rladies-tc"
-    }
+    },
+    "createdTime": "2015-04-26T21:32:49-04:00"
   },
   {
     "id": "221617211",
@@ -339,9 +349,9 @@
     "eventUrl": "https://www.meetup.com/rladies-tc/events/221617211/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 16,
+      "yesCount": 15,
       "waitlistCount": 0,
-      "totalCount": 16
+      "totalCount": 15
     },
     "venues": [
       {
@@ -360,7 +370,8 @@
     "group": {
       "name": "R-Ladies Twin Cities",
       "urlname": "rladies-tc"
-    }
+    },
+    "createdTime": "2015-04-04T11:16:43-04:00"
   },
   {
     "id": "245263160",
@@ -370,72 +381,6 @@
     "dateTime": "2017-12-09T10:30:00-06:00",
     "duration": "PT0S",
     "eventUrl": "https://www.meetup.com/rladies-tc/events/245263160/",
-    "featuredEventPhoto": {},
-    "rsvps": {
-      "yesCount": 11,
-      "waitlistCount": 0,
-      "totalCount": 11
-    },
-    "venues": [
-      {
-        "id": "24291704",
-        "name": "O'Shaughnessy Science Hall",
-        "address": "2115 Summit Ave, St Paul, MN",
-        "city": "55105",
-        "state": "MN",
-        "country": "us",
-        "lat": 44.9441,
-        "lon": -93.1897,
-        "postalCode": "",
-        "venueType": ""
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Twin Cities",
-      "urlname": "rladies-tc"
-    }
-  },
-  {
-    "id": "244973204",
-    "title": "Building Interactive Plots with Shiny",
-    "description": "WHAT WE'RE DOING:\n\nThis event will be a mix of socializing and trying out Shiny. Shiny is an R package that makes it easy to build interactive web apps straight from R. You can host standalone apps on a webpage or embed them in R Markdown (http://rmarkdown.rstudio.com/) documents or build dashboards (http://rstudio.github.io/shinydashboard/). Here's an example of a Shiny app (https://dgrtwo.shinyapps.io/cranview/) from David Robinson (the stats guy, not the basketball player).\n\nWHAT TO BRING:\n\nBring your laptop. Your laptop cord and a notebook might be a good idea, too. If you can, try to install R and the Shiny package before coming.\n\nCONSUMING THINGS:\n\nJust down the hall is a mini coffee shop (open til 8PM). Feel free to bring snackies or beverages.\n\nLOCATION:\n\nWe have a classroom for this meetup! Meet us in room 226 of O'Shaughnessy Science. This is the building connected to Owens science. You can park on Summit for free. The parking ramp is also convenient and decently priced ($1.00 or $1.50 per hour). The east side of the building has an elevator and the building is generally accessible.\n\nVOLUNTEERS:\n\nKim Ky and Becca will be creating some basic examples to teach us how Shiny works.",
-    "status": "PAST",
-    "dateTime": "2017-11-29T19:00:00-06:00",
-    "duration": "PT2H",
-    "eventUrl": "https://www.meetup.com/rladies-tc/events/244973204/",
-    "featuredEventPhoto": {},
-    "rsvps": {
-      "yesCount": 18,
-      "waitlistCount": 0,
-      "totalCount": 18
-    },
-    "venues": [
-      {
-        "id": "24291704",
-        "name": "O'Shaughnessy Science Hall",
-        "address": "2115 Summit Ave, St Paul, MN",
-        "city": "55105",
-        "state": "MN",
-        "country": "us",
-        "lat": 44.9441,
-        "lon": -93.1897,
-        "postalCode": "",
-        "venueType": ""
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Twin Cities",
-      "urlname": "rladies-tc"
-    }
-  },
-  {
-    "id": "244973046",
-    "title": "Data Visualization",
-    "description": "WHAT WE'RE DOING:\n\nThis event will be a mix of socializing and data visualization. If you don't have a lot of experience with R, data viz is a fun way to get going. I think we will cover plotting in base R and get into ggplot a bit. I'm happy to add another topic if you have any ideas! This is a safe, non-competitive environment to try new things.\n\nWHAT TO BRING:\n\nBring your laptop. Your laptop cord and a notebook might be a good idea, too. If you have any cool data sets, bring 'em!\n\nCONSUMING THINGS:\n\nJust down the hall is a mini coffee shop. You can get your espresso, drip coffee, tea, and other snacks there for cheap. (Bring your own mug and you get $0.25 off!)\n\nLOCATION:\n\nWe have a classroom for this meetup! Meet us in room 226 of O'Shaughnessy Science. This is the building connected to Owens science. You can park on Summit for free. The parking ramp is also convenient and decently priced ($1.00 or $1.50 per hour). The east side of the building has an elevator and the building is generally accessible.\n\nVOLUNTEERS:\n\nWho wants to volunteer to help out with the content for this meetup? Remember, this is a safe environment for pushing yourself. I'm visualizing (ha.) you finding a data set, creating code that produces a few important types of plots, and coming up with a list of challenges (e.g. \"create a plot that demonstrates the difference in bitterness between different types of beer.\"). Someone (maybe YOU?) can prepare materials for plotting in base R (e.g. plot, boxplot) and another person (Katie Jolly) will prepare some materials for ggplot.",
-    "status": "PAST",
-    "dateTime": "2017-11-18T10:00:00-06:00",
-    "duration": "PT2H",
-    "eventUrl": "https://www.meetup.com/rladies-tc/events/244973046/",
     "featuredEventPhoto": {},
     "rsvps": {
       "yesCount": 10,
@@ -459,7 +404,76 @@
     "group": {
       "name": "R-Ladies Twin Cities",
       "urlname": "rladies-tc"
-    }
+    },
+    "createdTime": "2017-11-20T15:49:24-05:00"
+  },
+  {
+    "id": "244973204",
+    "title": "Building Interactive Plots with Shiny",
+    "description": "WHAT WE'RE DOING:\n\nThis event will be a mix of socializing and trying out Shiny. Shiny is an R package that makes it easy to build interactive web apps straight from R. You can host standalone apps on a webpage or embed them in R Markdown (http://rmarkdown.rstudio.com/) documents or build dashboards (http://rstudio.github.io/shinydashboard/). Here's an example of a Shiny app (https://dgrtwo.shinyapps.io/cranview/) from David Robinson (the stats guy, not the basketball player).\n\nWHAT TO BRING:\n\nBring your laptop. Your laptop cord and a notebook might be a good idea, too. If you can, try to install R and the Shiny package before coming.\n\nCONSUMING THINGS:\n\nJust down the hall is a mini coffee shop (open til 8PM). Feel free to bring snackies or beverages.\n\nLOCATION:\n\nWe have a classroom for this meetup! Meet us in room 226 of O'Shaughnessy Science. This is the building connected to Owens science. You can park on Summit for free. The parking ramp is also convenient and decently priced ($1.00 or $1.50 per hour). The east side of the building has an elevator and the building is generally accessible.\n\nVOLUNTEERS:\n\nKim Ky and Becca will be creating some basic examples to teach us how Shiny works.",
+    "status": "PAST",
+    "dateTime": "2017-11-29T19:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tc/events/244973204/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 15,
+      "waitlistCount": 0,
+      "totalCount": 15
+    },
+    "venues": [
+      {
+        "id": "24291704",
+        "name": "O'Shaughnessy Science Hall",
+        "address": "2115 Summit Ave, St Paul, MN",
+        "city": "55105",
+        "state": "MN",
+        "country": "us",
+        "lat": 44.9441,
+        "lon": -93.1897,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Twin Cities",
+      "urlname": "rladies-tc"
+    },
+    "createdTime": "2017-11-09T15:16:26-05:00"
+  },
+  {
+    "id": "244973046",
+    "title": "Data Visualization",
+    "description": "WHAT WE'RE DOING:\n\nThis event will be a mix of socializing and data visualization. If you don't have a lot of experience with R, data viz is a fun way to get going. I think we will cover plotting in base R and get into ggplot a bit. I'm happy to add another topic if you have any ideas! This is a safe, non-competitive environment to try new things.\n\nWHAT TO BRING:\n\nBring your laptop. Your laptop cord and a notebook might be a good idea, too. If you have any cool data sets, bring 'em!\n\nCONSUMING THINGS:\n\nJust down the hall is a mini coffee shop. You can get your espresso, drip coffee, tea, and other snacks there for cheap. (Bring your own mug and you get $0.25 off!)\n\nLOCATION:\n\nWe have a classroom for this meetup! Meet us in room 226 of O'Shaughnessy Science. This is the building connected to Owens science. You can park on Summit for free. The parking ramp is also convenient and decently priced ($1.00 or $1.50 per hour). The east side of the building has an elevator and the building is generally accessible.\n\nVOLUNTEERS:\n\nWho wants to volunteer to help out with the content for this meetup? Remember, this is a safe environment for pushing yourself. I'm visualizing (ha.) you finding a data set, creating code that produces a few important types of plots, and coming up with a list of challenges (e.g. \"create a plot that demonstrates the difference in bitterness between different types of beer.\"). Someone (maybe YOU?) can prepare materials for plotting in base R (e.g. plot, boxplot) and another person (Katie Jolly) will prepare some materials for ggplot.",
+    "status": "PAST",
+    "dateTime": "2017-11-18T10:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tc/events/244973046/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 9,
+      "waitlistCount": 0,
+      "totalCount": 9
+    },
+    "venues": [
+      {
+        "id": "24291704",
+        "name": "O'Shaughnessy Science Hall",
+        "address": "2115 Summit Ave, St Paul, MN",
+        "city": "55105",
+        "state": "MN",
+        "country": "us",
+        "lat": 44.9441,
+        "lon": -93.1897,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Twin Cities",
+      "urlname": "rladies-tc"
+    },
+    "createdTime": "2017-11-09T15:06:19-05:00"
   },
   {
     "id": "244560135",
@@ -471,9 +485,9 @@
     "eventUrl": "https://www.meetup.com/rladies-tc/events/244560135/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 17,
+      "yesCount": 16,
       "waitlistCount": 0,
-      "totalCount": 17
+      "totalCount": 16
     },
     "venues": [
       {
@@ -492,7 +506,8 @@
     "group": {
       "name": "R-Ladies Twin Cities",
       "urlname": "rladies-tc"
-    }
+    },
+    "createdTime": "2017-10-26T20:37:46-04:00"
   },
   {
     "id": "254413733",
@@ -504,9 +519,9 @@
     "eventUrl": "https://www.meetup.com/rladies-tc/events/254413733/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 16,
+      "yesCount": 15,
       "waitlistCount": 0,
-      "totalCount": 16
+      "totalCount": 15
     },
     "venues": [
       {
@@ -525,7 +540,8 @@
     "group": {
       "name": "R-Ladies Twin Cities",
       "urlname": "rladies-tc"
-    }
+    },
+    "createdTime": "2018-09-05T12:54:07-04:00"
   },
   {
     "id": "256238231",
@@ -543,9 +559,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/5/8/0/thumb_476165504.jpeg"
     },
     "rsvps": {
-      "yesCount": 10,
+      "yesCount": 8,
       "waitlistCount": 1,
-      "totalCount": 10
+      "totalCount": 8
     },
     "venues": [
       {
@@ -564,7 +580,8 @@
     "group": {
       "name": "R-Ladies Twin Cities",
       "urlname": "rladies-tc"
-    }
+    },
+    "createdTime": "2018-11-08T09:24:40-05:00"
   },
   {
     "id": "254413682",
@@ -576,9 +593,9 @@
     "eventUrl": "https://www.meetup.com/rladies-tc/events/254413682/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 13,
+      "yesCount": 10,
       "waitlistCount": 0,
-      "totalCount": 13
+      "totalCount": 10
     },
     "venues": [
       {
@@ -597,7 +614,8 @@
     "group": {
       "name": "R-Ladies Twin Cities",
       "urlname": "rladies-tc"
-    }
+    },
+    "createdTime": "2018-09-05T12:53:34-04:00"
   },
   {
     "id": "254413633",
@@ -630,7 +648,8 @@
     "group": {
       "name": "R-Ladies Twin Cities",
       "urlname": "rladies-tc"
-    }
+    },
+    "createdTime": "2018-09-05T12:52:43-04:00"
   },
   {
     "id": "254409193",
@@ -642,9 +661,9 @@
     "eventUrl": "https://www.meetup.com/rladies-tc/events/254409193/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 22,
+      "yesCount": 21,
       "waitlistCount": 0,
-      "totalCount": 22
+      "totalCount": 21
     },
     "venues": [
       {
@@ -663,7 +682,8 @@
     "group": {
       "name": "R-Ladies Twin Cities",
       "urlname": "rladies-tc"
-    }
+    },
+    "createdTime": "2018-09-05T10:19:57-04:00"
   },
   {
     "id": "251961415",
@@ -675,9 +695,9 @@
     "eventUrl": "https://www.meetup.com/rladies-tc/events/251961415/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 10,
+      "yesCount": 8,
       "waitlistCount": 0,
-      "totalCount": 10
+      "totalCount": 8
     },
     "venues": [
       {
@@ -696,7 +716,8 @@
     "group": {
       "name": "R-Ladies Twin Cities",
       "urlname": "rladies-tc"
-    }
+    },
+    "createdTime": "2018-06-20T16:44:30-04:00"
   },
   {
     "id": "250389638",
@@ -708,9 +729,9 @@
     "eventUrl": "https://www.meetup.com/rladies-tc/events/250389638/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 5,
+      "yesCount": 4,
       "waitlistCount": 0,
-      "totalCount": 5
+      "totalCount": 4
     },
     "venues": [
       {
@@ -729,7 +750,8 @@
     "group": {
       "name": "R-Ladies Twin Cities",
       "urlname": "rladies-tc"
-    }
+    },
+    "createdTime": "2018-05-02T18:43:29-04:00"
   },
   {
     "id": "248889676",
@@ -749,7 +771,8 @@
     "group": {
       "name": "R-Ladies Twin Cities",
       "urlname": "rladies-tc"
-    }
+    },
+    "createdTime": "2018-03-19T10:48:16-04:00"
   },
   {
     "id": "248343529",
@@ -761,9 +784,9 @@
     "eventUrl": "https://www.meetup.com/rladies-tc/events/248343529/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 13,
+      "yesCount": 12,
       "waitlistCount": 0,
-      "totalCount": 13
+      "totalCount": 12
     },
     "venues": [
       {
@@ -782,7 +805,8 @@
     "group": {
       "name": "R-Ladies Twin Cities",
       "urlname": "rladies-tc"
-    }
+    },
+    "createdTime": "2018-03-02T12:56:47-05:00"
   },
   {
     "id": "247427255",
@@ -815,7 +839,8 @@
     "group": {
       "name": "R-Ladies Twin Cities",
       "urlname": "rladies-tc"
-    }
+    },
+    "createdTime": "2018-02-02T14:20:33-05:00"
   },
   {
     "id": "246805612",
@@ -848,7 +873,8 @@
     "group": {
       "name": "R-Ladies Twin Cities",
       "urlname": "rladies-tc"
-    }
+    },
+    "createdTime": "2018-01-14T10:25:30-05:00"
   },
   {
     "id": "246531572",
@@ -881,7 +907,8 @@
     "group": {
       "name": "R-Ladies Twin Cities",
       "urlname": "rladies-tc"
-    }
+    },
+    "createdTime": "2018-01-05T17:59:04-05:00"
   },
   {
     "id": "264291454",
@@ -899,9 +926,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/8/9/c/thumb_484630396.jpeg"
     },
     "rsvps": {
-      "yesCount": 17,
+      "yesCount": 16,
       "waitlistCount": 0,
-      "totalCount": 17
+      "totalCount": 16
     },
     "venues": [
       {
@@ -920,7 +947,8 @@
     "group": {
       "name": "R-Ladies Twin Cities",
       "urlname": "rladies-tc"
-    }
+    },
+    "createdTime": "2019-08-25T12:33:12-04:00"
   },
   {
     "id": "264287074",
@@ -938,9 +966,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/9/4/a/thumb_485399722.jpeg"
     },
     "rsvps": {
-      "yesCount": 12,
+      "yesCount": 11,
       "waitlistCount": 0,
-      "totalCount": 12
+      "totalCount": 11
     },
     "venues": [
       {
@@ -959,7 +987,8 @@
     "group": {
       "name": "R-Ladies Twin Cities",
       "urlname": "rladies-tc"
-    }
+    },
+    "createdTime": "2019-08-25T09:29:27-04:00"
   },
   {
     "id": "264826629",
@@ -977,9 +1006,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/1/7/e/thumb_484849534.jpeg"
     },
     "rsvps": {
-      "yesCount": 12,
+      "yesCount": 11,
       "waitlistCount": 0,
-      "totalCount": 12
+      "totalCount": 11
     },
     "venues": [
       {
@@ -998,7 +1027,8 @@
     "group": {
       "name": "R-Ladies Twin Cities",
       "urlname": "rladies-tc"
-    }
+    },
+    "createdTime": "2019-09-13T18:38:37-04:00"
   },
   {
     "id": "264094320",
@@ -1016,9 +1046,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/1/4/c/thumb_484216716.jpeg"
     },
     "rsvps": {
-      "yesCount": 9,
+      "yesCount": 8,
       "waitlistCount": 0,
-      "totalCount": 9
+      "totalCount": 8
     },
     "venues": [
       {
@@ -1037,7 +1067,8 @@
     "group": {
       "name": "R-Ladies Twin Cities",
       "urlname": "rladies-tc"
-    }
+    },
+    "createdTime": "2019-08-17T20:20:56-04:00"
   },
   {
     "id": "263359337",
@@ -1070,7 +1101,8 @@
     "group": {
       "name": "R-Ladies Twin Cities",
       "urlname": "rladies-tc"
-    }
+    },
+    "createdTime": "2019-07-22T10:17:42-04:00"
   },
   {
     "id": "262824504",
@@ -1109,7 +1141,8 @@
     "group": {
       "name": "R-Ladies Twin Cities",
       "urlname": "rladies-tc"
-    }
+    },
+    "createdTime": "2019-07-02T19:14:33-04:00"
   },
   {
     "id": "261772315",
@@ -1129,7 +1162,8 @@
     "group": {
       "name": "R-Ladies Twin Cities",
       "urlname": "rladies-tc"
-    }
+    },
+    "createdTime": "2019-05-25T23:11:11-04:00"
   },
   {
     "id": "260449884",
@@ -1162,7 +1196,8 @@
     "group": {
       "name": "R-Ladies Twin Cities",
       "urlname": "rladies-tc"
-    }
+    },
+    "createdTime": "2019-04-08T11:31:24-04:00"
   },
   {
     "id": "257363058",
@@ -1174,9 +1209,9 @@
     "eventUrl": "https://www.meetup.com/rladies-tc/events/257363058/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 16,
+      "yesCount": 15,
       "waitlistCount": 0,
-      "totalCount": 16
+      "totalCount": 15
     },
     "venues": [
       {
@@ -1195,7 +1230,8 @@
     "group": {
       "name": "R-Ladies Twin Cities",
       "urlname": "rladies-tc"
-    }
+    },
+    "createdTime": "2018-12-19T22:43:33-05:00"
   },
   {
     "id": "258541844",
@@ -1207,9 +1243,9 @@
     "eventUrl": "https://www.meetup.com/rladies-tc/events/258541844/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 12,
+      "yesCount": 10,
       "waitlistCount": 0,
-      "totalCount": 12
+      "totalCount": 10
     },
     "venues": [
       {
@@ -1228,7 +1264,8 @@
     "group": {
       "name": "R-Ladies Twin Cities",
       "urlname": "rladies-tc"
-    }
+    },
+    "createdTime": "2019-01-30T18:26:05-05:00"
   },
   {
     "id": "256762290",
@@ -1261,7 +1298,8 @@
     "group": {
       "name": "R-Ladies Twin Cities",
       "urlname": "rladies-tc"
-    }
+    },
+    "createdTime": "2018-11-27T19:45:43-05:00"
   },
   {
     "id": "256762181",
@@ -1294,7 +1332,8 @@
     "group": {
       "name": "R-Ladies Twin Cities",
       "urlname": "rladies-tc"
-    }
+    },
+    "createdTime": "2018-11-27T19:36:25-05:00"
   },
   {
     "id": "273925431",
@@ -1312,9 +1351,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/c/d/4/thumb_493016532.jpeg"
     },
     "rsvps": {
-      "yesCount": 29,
+      "yesCount": 25,
       "waitlistCount": 0,
-      "totalCount": 29
+      "totalCount": 25
     },
     "venues": [
       {
@@ -1333,7 +1372,8 @@
     "group": {
       "name": "R-Ladies Twin Cities",
       "urlname": "rladies-tc"
-    }
+    },
+    "createdTime": "2020-10-14T10:39:04-04:00"
   },
   {
     "id": "271483710",
@@ -1344,261 +1384,6 @@
     "duration": "PT1H30M",
     "eventUrl": "https://www.meetup.com/rladies-tc/events/271483710/",
     "featuredEventPhoto": {},
-    "rsvps": {
-      "yesCount": 30,
-      "waitlistCount": 0,
-      "totalCount": 30
-    },
-    "venues": [
-      {
-        "id": "26906060",
-        "name": "Online event",
-        "address": "",
-        "city": "",
-        "state": "",
-        "country": "",
-        "lat": -8.5211,
-        "lon": 179.1962,
-        "postalCode": "",
-        "venueType": "online"
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Twin Cities",
-      "urlname": "rladies-tc"
-    }
-  },
-  {
-    "id": "268384963",
-    "title": "(VIRTUAL) Multilevel Modeling w/ MN Public Salaries Data",
-    "description": "It’s easy to get pretty far learning R and basic statistical analysis without really encountering the concept of multilevel modeling. This is unfortunate, because multilevel modeling can be a useful tool when data generating processes are hierarchical in nature--a situation which can be quite common in social, ecological, and political systems.\n\nAlison Link will explore some of the multilevel modeling techniques and philosophies discussed in the book \"Statistical Rethinking\" by Richard McElreath, and explore how these concepts can be applied to a public salaries dataset on Minnesota state employees. The goal? Learn something new about about multilevel modeling AND generate some interesting findings about Minnesota state employee compensation!",
-    "status": "PAST",
-    "dateTime": "2020-05-14T18:30:00-05:00",
-    "duration": "PT1H30M",
-    "eventUrl": "https://www.meetup.com/rladies-tc/events/268384963/",
-    "featuredEventPhoto": {},
-    "rsvps": {
-      "yesCount": 37,
-      "waitlistCount": 0,
-      "totalCount": 37
-    },
-    "venues": [
-      {
-        "id": "26906060",
-        "name": "Online event",
-        "address": "",
-        "city": "",
-        "state": "",
-        "country": "",
-        "lat": 44.9547,
-        "lon": -93.2328,
-        "postalCode": "",
-        "venueType": "online"
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Twin Cities",
-      "urlname": "rladies-tc"
-    }
-  },
-  {
-    "id": "268384951",
-    "title": "(VIRTUAL) April Meetup: Topological Data Analysis",
-    "description": "Cheyanne Simpson and Maria Neuzil will introduce us to topological data analysis and guide us through some TDA basics in R.\n\nMaria and Cheyanne are students at the University of St. Thomas. They conducted research under Prof Rebecca Glover, a member of R Ladies TC. Cheyanne, Maria, and their collaborator won the 2019 Center for Applied Mathematics Summer Research Award.",
-    "status": "PAST",
-    "dateTime": "2020-04-16T18:30:00-05:00",
-    "duration": "PT1H30M",
-    "eventUrl": "https://www.meetup.com/rladies-tc/events/268384951/",
-    "featuredEventPhoto": {},
-    "rsvps": {
-      "yesCount": 23,
-      "waitlistCount": 0,
-      "totalCount": 23
-    },
-    "venues": [
-      {
-        "id": "26906060",
-        "name": "Online event",
-        "address": "",
-        "city": "",
-        "state": "",
-        "country": "",
-        "lat": 44.0939,
-        "lon": -91.7496,
-        "postalCode": "",
-        "venueType": "online"
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Twin Cities",
-      "urlname": "rladies-tc"
-    }
-  },
-  {
-    "id": "267067139",
-    "title": "R Ladies at Urban Growler",
-    "description": "Join us for some socializing! Whether you have come to a dozen or zero meetups so far, we'd love to get to know you. We'll have our own space (the barrel room in back). There's no fee to attend, but you are in charge of paying for whatever you consume. Urban Growler has great beer, food, and sodas.",
-    "status": "PAST",
-    "dateTime": "2020-02-04T19:00:00-06:00",
-    "duration": "PT1H30M",
-    "eventUrl": "https://www.meetup.com/rladies-tc/events/267067139/",
-    "featuredEventPhoto": {},
-    "rsvps": {
-      "yesCount": 12,
-      "waitlistCount": 0,
-      "totalCount": 12
-    },
-    "venues": [
-      {
-        "id": "26110442",
-        "name": "Urban Growler Brewing Company",
-        "address": "2325 Endicott St",
-        "city": "St Paul",
-        "state": "MN",
-        "country": "us",
-        "lat": 44.9701,
-        "lon": -93.1928,
-        "postalCode": "55114",
-        "venueType": ""
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Twin Cities",
-      "urlname": "rladies-tc"
-    }
-  },
-  {
-    "id": "275731329",
-    "title": "Building and using lmeresampler for hierarchical linear models",
-    "description": "Jenna K. spent the summer of 2020 working on the R package lmeresampler (https://cran.r-project.org/web/packages/lmeresampler/index.html). During this meetup, Jenna will describe hierarchical linear models, the package's functions, the changes in package dependencies and parallelization that she implemented to streamline the code, and why she and her advisor chose to make those updates.",
-    "status": "PAST",
-    "dateTime": "2021-04-13T19:00:00-05:00",
-    "duration": "PT1H30M",
-    "eventUrl": "https://www.meetup.com/rladies-tc/events/275731329/",
-    "featuredEventPhoto": {
-      "id": "494331721",
-      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/a/0/9/highres_494331721.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/a/0/9/600_494331721.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/a/0/9/thumb_494331721.jpeg"
-    },
-    "rsvps": {
-      "yesCount": 24,
-      "waitlistCount": 0,
-      "totalCount": 24
-    },
-    "venues": [
-      {
-        "id": "26906060",
-        "name": "Online event",
-        "address": "",
-        "city": "",
-        "state": "",
-        "country": "",
-        "lat": -8.5211,
-        "lon": 179.1962,
-        "postalCode": "",
-        "venueType": "online"
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Twin Cities",
-      "urlname": "rladies-tc"
-    }
-  },
-  {
-    "id": "275396794",
-    "title": "Dazzling HTML Reports",
-    "description": "Use R to combine documentation, analysis, and presentation into one highly efficient reporting mechanism! You'll never want to go back to the old ways of doing things once you see how simple it is to set up a reporting template. Lindsey D. will provide some essential packages, tips, and tricks based on her experience in this space.\n\nYou can find the materials for the talk here: https://github.com/iamaspacecoyote/rladies_dazzling_reports",
-    "status": "PAST",
-    "dateTime": "2021-03-18T18:00:00-05:00",
-    "duration": "PT1H",
-    "eventUrl": "https://www.meetup.com/rladies-tc/events/275396794/",
-    "featuredEventPhoto": {
-      "id": "494100734",
-      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/d/e/highres_494100734.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/d/e/600_494100734.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/d/e/thumb_494100734.jpeg"
-    },
-    "rsvps": {
-      "yesCount": 32,
-      "waitlistCount": 0,
-      "totalCount": 32
-    },
-    "venues": [
-      {
-        "id": "26906060",
-        "name": "Online event",
-        "address": "",
-        "city": "",
-        "state": "",
-        "country": "",
-        "lat": -8.5211,
-        "lon": 179.1962,
-        "postalCode": "",
-        "venueType": "online"
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Twin Cities",
-      "urlname": "rladies-tc"
-    }
-  },
-  {
-    "id": "275272094",
-    "title": "Reap what you saw: unstructured HTML to presentable insights with rvest",
-    "description": "Kristina M. will be presenting on the rvest package. rvest helps you scrape (or harvest) data from web pages!",
-    "status": "PAST",
-    "dateTime": "2021-02-18T18:30:00-06:00",
-    "duration": "PT1H30M",
-    "eventUrl": "https://www.meetup.com/rladies-tc/events/275272094/",
-    "featuredEventPhoto": {
-      "id": "494718279",
-      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/7/6/7/highres_494718279.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/7/6/7/600_494718279.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/7/6/7/thumb_494718279.jpeg"
-    },
-    "rsvps": {
-      "yesCount": 22,
-      "waitlistCount": 0,
-      "totalCount": 22
-    },
-    "venues": [
-      {
-        "id": "26906060",
-        "name": "Online event",
-        "address": "",
-        "city": "",
-        "state": "",
-        "country": "",
-        "lat": -8.5211,
-        "lon": 179.1962,
-        "postalCode": "",
-        "venueType": "online"
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Twin Cities",
-      "urlname": "rladies-tc"
-    }
-  },
-  {
-    "id": "275650847",
-    "title": "Reproducible Research with groundhog",
-    "description": "Tim S. will cover reproducible research processes and introduce us to the groundhog package (https://groundhogr.com/).",
-    "status": "PAST",
-    "dateTime": "2021-02-02T18:00:00-06:00",
-    "duration": "PT1H",
-    "eventUrl": "https://www.meetup.com/rladies-tc/events/275650847/",
-    "featuredEventPhoto": {
-      "id": "494260956",
-      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/f/f/c/highres_494260956.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/f/f/c/600_494260956.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/f/f/c/thumb_494260956.jpeg"
-    },
     "rsvps": {
       "yesCount": 27,
       "waitlistCount": 0,
@@ -1621,7 +1406,270 @@
     "group": {
       "name": "R-Ladies Twin Cities",
       "urlname": "rladies-tc"
-    }
+    },
+    "createdTime": "2020-06-23T18:22:46-04:00"
+  },
+  {
+    "id": "268384963",
+    "title": "(VIRTUAL) Multilevel Modeling w/ MN Public Salaries Data",
+    "description": "It’s easy to get pretty far learning R and basic statistical analysis without really encountering the concept of multilevel modeling. This is unfortunate, because multilevel modeling can be a useful tool when data generating processes are hierarchical in nature--a situation which can be quite common in social, ecological, and political systems.\n\nAlison Link will explore some of the multilevel modeling techniques and philosophies discussed in the book \"Statistical Rethinking\" by Richard McElreath, and explore how these concepts can be applied to a public salaries dataset on Minnesota state employees. The goal? Learn something new about about multilevel modeling AND generate some interesting findings about Minnesota state employee compensation!",
+    "status": "PAST",
+    "dateTime": "2020-05-14T18:30:00-05:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-tc/events/268384963/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 32,
+      "waitlistCount": 0,
+      "totalCount": 32
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": 44.9547,
+        "lon": -93.2328,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Twin Cities",
+      "urlname": "rladies-tc"
+    },
+    "createdTime": "2020-02-01T16:50:03-05:00"
+  },
+  {
+    "id": "268384951",
+    "title": "(VIRTUAL) April Meetup: Topological Data Analysis",
+    "description": "Cheyanne Simpson and Maria Neuzil will introduce us to topological data analysis and guide us through some TDA basics in R.\n\nMaria and Cheyanne are students at the University of St. Thomas. They conducted research under Prof Rebecca Glover, a member of R Ladies TC. Cheyanne, Maria, and their collaborator won the 2019 Center for Applied Mathematics Summer Research Award.",
+    "status": "PAST",
+    "dateTime": "2020-04-16T18:30:00-05:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-tc/events/268384951/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 22,
+      "waitlistCount": 0,
+      "totalCount": 22
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": 44.0939,
+        "lon": -91.7496,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Twin Cities",
+      "urlname": "rladies-tc"
+    },
+    "createdTime": "2020-02-01T16:49:14-05:00"
+  },
+  {
+    "id": "267067139",
+    "title": "R Ladies at Urban Growler",
+    "description": "Join us for some socializing! Whether you have come to a dozen or zero meetups so far, we'd love to get to know you. We'll have our own space (the barrel room in back). There's no fee to attend, but you are in charge of paying for whatever you consume. Urban Growler has great beer, food, and sodas.",
+    "status": "PAST",
+    "dateTime": "2020-02-04T19:00:00-06:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-tc/events/267067139/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 11,
+      "waitlistCount": 0,
+      "totalCount": 11
+    },
+    "venues": [
+      {
+        "id": "26110442",
+        "name": "Urban Growler Brewing Company",
+        "address": "2325 Endicott St",
+        "city": "St Paul",
+        "state": "MN",
+        "country": "us",
+        "lat": 44.9701,
+        "lon": -93.1928,
+        "postalCode": "55114",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Twin Cities",
+      "urlname": "rladies-tc"
+    },
+    "createdTime": "2019-12-09T13:13:15-05:00"
+  },
+  {
+    "id": "275731329",
+    "title": "Building and using lmeresampler for hierarchical linear models",
+    "description": "Jenna K. spent the summer of 2020 working on the R package lmeresampler (https://cran.r-project.org/web/packages/lmeresampler/index.html). During this meetup, Jenna will describe hierarchical linear models, the package's functions, the changes in package dependencies and parallelization that she implemented to streamline the code, and why she and her advisor chose to make those updates.",
+    "status": "PAST",
+    "dateTime": "2021-04-13T19:00:00-05:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-tc/events/275731329/",
+    "featuredEventPhoto": {
+      "id": "494331721",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/a/0/9/highres_494331721.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/a/0/9/600_494331721.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/a/0/9/thumb_494331721.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 19,
+      "waitlistCount": 0,
+      "totalCount": 19
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Twin Cities",
+      "urlname": "rladies-tc"
+    },
+    "createdTime": "2021-01-13T16:09:46-05:00"
+  },
+  {
+    "id": "275396794",
+    "title": "Dazzling HTML Reports",
+    "description": "Use R to combine documentation, analysis, and presentation into one highly efficient reporting mechanism! You'll never want to go back to the old ways of doing things once you see how simple it is to set up a reporting template. Lindsey D. will provide some essential packages, tips, and tricks based on her experience in this space.\n\nYou can find the materials for the talk here: https://github.com/iamaspacecoyote/rladies_dazzling_reports",
+    "status": "PAST",
+    "dateTime": "2021-03-18T18:00:00-05:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-tc/events/275396794/",
+    "featuredEventPhoto": {
+      "id": "494100734",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/d/e/highres_494100734.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/d/e/600_494100734.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/d/e/thumb_494100734.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 28,
+      "waitlistCount": 0,
+      "totalCount": 28
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Twin Cities",
+      "urlname": "rladies-tc"
+    },
+    "createdTime": "2020-12-27T18:01:20-05:00"
+  },
+  {
+    "id": "275272094",
+    "title": "Reap what you saw: unstructured HTML to presentable insights with rvest",
+    "description": "Kristina M. will be presenting on the rvest package. rvest helps you scrape (or harvest) data from web pages!",
+    "status": "PAST",
+    "dateTime": "2021-02-18T18:30:00-06:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-tc/events/275272094/",
+    "featuredEventPhoto": {
+      "id": "494718279",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/7/6/7/highres_494718279.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/7/6/7/600_494718279.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/7/6/7/thumb_494718279.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 20,
+      "waitlistCount": 0,
+      "totalCount": 20
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Twin Cities",
+      "urlname": "rladies-tc"
+    },
+    "createdTime": "2020-12-19T17:34:58-05:00"
+  },
+  {
+    "id": "275650847",
+    "title": "Reproducible Research with groundhog",
+    "description": "Tim S. will cover reproducible research processes and introduce us to the groundhog package (https://groundhogr.com/).",
+    "status": "PAST",
+    "dateTime": "2021-02-02T18:00:00-06:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-tc/events/275650847/",
+    "featuredEventPhoto": {
+      "id": "494260956",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/f/f/c/highres_494260956.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/f/f/c/600_494260956.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/f/f/c/thumb_494260956.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 23,
+      "waitlistCount": 0,
+      "totalCount": 23
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Twin Cities",
+      "urlname": "rladies-tc"
+    },
+    "createdTime": "2021-01-09T15:58:39-05:00"
   },
   {
     "id": "289692184",
@@ -1654,7 +1702,8 @@
     "group": {
       "name": "R-Ladies Twin Cities",
       "urlname": "rladies-tc"
-    }
+    },
+    "createdTime": "2022-11-11T11:25:46-05:00"
   },
   {
     "id": "284010281",
@@ -1666,9 +1715,9 @@
     "eventUrl": "https://www.meetup.com/rladies-tc/events/284010281/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 12,
+      "yesCount": 10,
       "waitlistCount": 0,
-      "totalCount": 12
+      "totalCount": 10
     },
     "venues": [
       {
@@ -1687,7 +1736,8 @@
     "group": {
       "name": "R-Ladies Twin Cities",
       "urlname": "rladies-tc"
-    }
+    },
+    "createdTime": "2022-02-14T19:54:43-05:00"
   },
   {
     "id": "283076457",
@@ -1699,9 +1749,9 @@
     "eventUrl": "https://www.meetup.com/rladies-tc/events/283076457/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 5,
+      "yesCount": 3,
       "waitlistCount": 0,
-      "totalCount": 5
+      "totalCount": 3
     },
     "venues": [
       {
@@ -1720,7 +1770,8 @@
     "group": {
       "name": "R-Ladies Twin Cities",
       "urlname": "rladies-tc"
-    }
+    },
+    "createdTime": "2022-01-05T13:26:27-05:00"
   },
   {
     "id": "290580420",
@@ -1759,7 +1810,8 @@
     "group": {
       "name": "R-Ladies Twin Cities",
       "urlname": "rladies-tc"
-    }
+    },
+    "createdTime": "2022-12-28T17:54:29-05:00"
   },
   {
     "id": "299069307",
@@ -1798,6 +1850,7 @@
     "group": {
       "name": "R-Ladies Twin Cities",
       "urlname": "rladies-tc"
-    }
+    },
+    "createdTime": "2024-02-07T20:48:48-05:00"
   }
 ]

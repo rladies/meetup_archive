@@ -30,7 +30,8 @@
     "group": {
       "name": "R-Ladies Bari",
       "urlname": "rladies-bari"
-    }
+    },
+    "createdTime": "2018-11-22T08:30:14-05:00"
   },
   {
     "id": "266313984",
@@ -48,9 +49,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/e/c/1/thumb_486847873.jpeg"
     },
     "rsvps": {
-      "yesCount": 7,
+      "yesCount": 6,
       "waitlistCount": 0,
-      "totalCount": 7
+      "totalCount": 6
     },
     "venues": [
       {
@@ -69,7 +70,8 @@
     "group": {
       "name": "R-Ladies Bari",
       "urlname": "rladies-bari"
-    }
+    },
+    "createdTime": "2019-11-08T07:08:02-05:00"
   },
   {
     "id": "263025190",
@@ -108,7 +110,8 @@
     "group": {
       "name": "R-Ladies Bari",
       "urlname": "rladies-bari"
-    }
+    },
+    "createdTime": "2019-07-10T05:25:39-04:00"
   },
   {
     "id": "261833243",
@@ -134,7 +137,8 @@
     "group": {
       "name": "R-Ladies Bari",
       "urlname": "rladies-bari"
-    }
+    },
+    "createdTime": "2019-05-28T10:44:15-04:00"
   },
   {
     "id": "260339190",
@@ -173,7 +177,8 @@
     "group": {
       "name": "R-Ladies Bari",
       "urlname": "rladies-bari"
-    }
+    },
+    "createdTime": "2019-04-04T08:35:19-04:00"
   },
   {
     "id": "259323790",
@@ -212,7 +217,8 @@
     "group": {
       "name": "R-Ladies Bari",
       "urlname": "rladies-bari"
-    }
+    },
+    "createdTime": "2019-02-27T05:28:39-05:00"
   },
   {
     "id": "258697783",
@@ -245,7 +251,8 @@
     "group": {
       "name": "R-Ladies Bari",
       "urlname": "rladies-bari"
-    }
+    },
+    "createdTime": "2019-02-05T06:16:10-05:00"
   },
   {
     "id": "257953149",
@@ -284,7 +291,8 @@
     "group": {
       "name": "R-Ladies Bari",
       "urlname": "rladies-bari"
-    }
+    },
+    "createdTime": "2019-01-10T03:40:48-05:00"
   },
   {
     "id": "274897363",
@@ -300,6 +308,46 @@
       "highResUrl": "https://secure.meetupstatic.com/photos/event/3/8/a/5/highres_493754501.jpeg",
       "standardUrl": "https://secure.meetupstatic.com/photos/event/3/8/a/5/600_493754501.jpeg",
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/8/a/5/thumb_493754501.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 9,
+      "waitlistCount": 0,
+      "totalCount": 9
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bari",
+      "urlname": "rladies-bari"
+    },
+    "createdTime": "2020-11-30T05:44:42-05:00"
+  },
+  {
+    "id": "274430966",
+    "title": "Recommendation Engine from scratch!",
+    "description": "Ciao di nuovo!\nSiamo qui per un evento interessante:\nVolete aggiornare il vostro skill set e imparare a costruire un sistema di raccomandazione da zero? Questo evento fa per voi!\nSiamo lieti di ospitare un workshop virtuale con Avanade, leader mondiale nella fornitura di servizi digitali innovativi, cloud, business solutions ed experience desig.\nIn questo workshop imparerete:\n* Costruzione di un Recommendation System tramite la libreria recommenderlab, allo scopo di suggerire delle “categorie letterarie” a utenti che comprano libri.\nIl workshop sarà suddiviso in diversi step, dall’analisi del dataset alla costruzione di KPI, fino all’implementazione del modello di raccomandazione. Come ultimo step, per mostrare come usufruire del modello, mostreremo una ShinyApp che, prendendo in input alcune informazioni sui gusti dell’utente, restituisce le categorie suggerite\n\nLevel: Beginner\nIl materiale per il workshop sarà condiviso prima dell'evento.\n\nSpeakers:\n- Intro: Simona Radici, Talent Acquisition specialist e Giovanni Vetrella, Advanced Analytics Talent Community Lead.\n- Hands on Lab: Michela Isella e Adriana Santacroce, Advanced Analytics Consultant e Advanced Analytics Analyst.\n\n* Michela Isella, Laureata in Fisica, Data Scientist in Avanade. Parte del team di Advanced Analytics, specializzata nello sviluppo di soluzioni di Machine Learning tramite servizi del Cloud Microsoft Azure.\n* Adriana Santacroce, ha un dottorato di ricerca nel campo statistico-demografico. Attualmente lavora nel team di Advanced Analytics di Avanade.\n\nRicordate che per questo workshop e' necessario aver installato R & Rstudio sul vostro pc. L'evento sarà in Italiano e sarà trasmesso in streaming tramite Zoom (Non è necessario installare zoom).\nIl link per partecipare verrà condiviso dopo la registrazione.\n\nAgenda:\n- Introduzione: 17.30 - 17.45\n- Workshop: 17.45 18.30\n- Q&A: 18.30 - 18.45\n\nLooking forward to meeting up with you all!\nInterested to give a talk or collaborate with us on an event? Reach us!",
+    "status": "PAST",
+    "dateTime": "2020-11-25T17:30:00+01:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-bari/events/274430966/",
+    "featuredEventPhoto": {
+      "id": "493409648",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/3/d/0/highres_493409648.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/3/d/0/600_493409648.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/3/d/0/thumb_493409648.jpeg"
     },
     "rsvps": {
       "yesCount": 11,
@@ -323,22 +371,63 @@
     "group": {
       "name": "R-Ladies Bari",
       "urlname": "rladies-bari"
-    }
+    },
+    "createdTime": "2020-11-06T08:45:10-05:00"
   },
   {
-    "id": "274430966",
-    "title": "Recommendation Engine from scratch!",
-    "description": "Ciao di nuovo!\nSiamo qui per un evento interessante:\nVolete aggiornare il vostro skill set e imparare a costruire un sistema di raccomandazione da zero? Questo evento fa per voi!\nSiamo lieti di ospitare un workshop virtuale con Avanade, leader mondiale nella fornitura di servizi digitali innovativi, cloud, business solutions ed experience desig.\nIn questo workshop imparerete:\n* Costruzione di un Recommendation System tramite la libreria recommenderlab, allo scopo di suggerire delle “categorie letterarie” a utenti che comprano libri.\nIl workshop sarà suddiviso in diversi step, dall’analisi del dataset alla costruzione di KPI, fino all’implementazione del modello di raccomandazione. Come ultimo step, per mostrare come usufruire del modello, mostreremo una ShinyApp che, prendendo in input alcune informazioni sui gusti dell’utente, restituisce le categorie suggerite\n\nLevel: Beginner\nIl materiale per il workshop sarà condiviso prima dell'evento.\n\nSpeakers:\n- Intro: Simona Radici, Talent Acquisition specialist e Giovanni Vetrella, Advanced Analytics Talent Community Lead.\n- Hands on Lab: Michela Isella e Adriana Santacroce, Advanced Analytics Consultant e Advanced Analytics Analyst.\n\n* Michela Isella, Laureata in Fisica, Data Scientist in Avanade. Parte del team di Advanced Analytics, specializzata nello sviluppo di soluzioni di Machine Learning tramite servizi del Cloud Microsoft Azure.\n* Adriana Santacroce, ha un dottorato di ricerca nel campo statistico-demografico. Attualmente lavora nel team di Advanced Analytics di Avanade.\n\nRicordate che per questo workshop e' necessario aver installato R & Rstudio sul vostro pc. L'evento sarà in Italiano e sarà trasmesso in streaming tramite Zoom (Non è necessario installare zoom).\nIl link per partecipare verrà condiviso dopo la registrazione.\n\nAgenda:\n- Introduzione: 17.30 - 17.45\n- Workshop: 17.45 18.30\n- Q&A: 18.30 - 18.45\n\nLooking forward to meeting up with you all!\nInterested to give a talk or collaborate with us on an event? Reach us!",
+    "id": "274032968",
+    "title": "Dati personali e informazioni sensibili: tecniche di data anonymization in R",
+    "description": "📣 Evento in collaborazione con la community del Deep Learning Italia\n\n\"Deep Learning Italia” Online Conference: https://bit.ly/3m50KSL\n\nSi affronteranno temi legati esclusivamente alla progettazione e implementazione di Reti Neurali e il Deep Learning nell'Intelligenza Artificiale di oggi.\n\nIl Meetup di DLI nasce dall'esigenza di sopperire alla carenza di meetup tecnici sul Deep Learning in Italia mentre ormai se ne contano molteplici in altre città del mondo come Londra, Amsterdam e San Francisco. Il Meetup sarà orientato sia alla ricerca accademica e che al mondo delle startup.\n\nLunedì 23 Novembre 2020, dalle ore 18.30 alle ore 20.00.\n\nREGISTRAZIONE OBBLIGATORIA SU CODEMOTION: https://community.codemotion.com/deep-learning-italia/meetups/meetup-aperitech-online-edition-di-novembre-di-deep-learning-italia\n\nSpeaker:\nGiovanna de Vincenzo Co-Founder @R-Ladies Bari | Data Scientist @InfoCamere\n\nTitolo: Dati personali e informazioni sensibili: tecniche di data anonymization in R\n\nAbstract\n\nCon i social media e i big data ovunque, la privacy dei dati è diventata una preoccupazione pubblica crescente. La raccolta di informazioni è necessaria per aiutare un sito web a crescere, targetizzare i clienti o analizzare fenomeni sociali. Riconoscendo questo problema, tante entità come Google e Apple, stanno promuovendo migliori tecniche di tutela e protezione della privacy. È qui che entra in gioco l'anonimizzazione dei dati.\n\n📣 Cos'è l'anonimizzazione dei dati e perché è importante?\n\nL'anonimizzazione dei dati rende non identificabili le informazioni identificabili. Ciò avviene tramite tecniche di elaborazione dati che rimuovono o codificano i dati personali. Quindi i dati diventano anonimi e non possono essere collegati a nessun individuo. L'anonimizzazione dei dati consente di rispettare i GDPR di tutto il mondo.\n\nIn questo meetup esploreremo i metodi e le tecniche di base per la codifica dei dati che statistici e data scientist utilizzano per rendere anonimi i dati con R.\n\nUtilizzeremo il dataset prodotto dalle vostre risposte al seguente sondaggio ⬅️ compila il sondaggio e non mancare! 🙋‍♀️\n\nCOMPILA IL SONDAGGIO: https://forms.gle/TTwTECZqfW9Af5nz8",
     "status": "PAST",
-    "dateTime": "2020-11-25T17:30:00+01:00",
-    "duration": "PT1H30M",
-    "eventUrl": "https://www.meetup.com/rladies-bari/events/274430966/",
+    "dateTime": "2020-11-23T18:30:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-bari/events/274032968/",
     "featuredEventPhoto": {
-      "id": "493409648",
+      "id": "493109974",
       "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/3/d/0/highres_493409648.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/3/d/0/600_493409648.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/3/d/0/thumb_493409648.jpeg"
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/5/1/6/highres_493109974.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/5/1/6/600_493109974.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/5/1/6/thumb_493109974.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 18,
+      "waitlistCount": 0,
+      "totalCount": 18
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bari",
+      "urlname": "rladies-bari"
+    },
+    "createdTime": "2020-10-19T06:43:17-04:00"
+  },
+  {
+    "id": "273635406",
+    "title": "Scenari e ruoli alternativi nella data science",
+    "description": "3 lightning talks di 15' circa durante i quali 3 speakers racconteranno le loro esperienze con i dati, in settori non \"tradizionalmente\" legati alla data science.\n\nAlice Corona, freelance nel mondo del #datastorytelling e #datajournalism, ci aiuterà a colmare il gap tra informazione e dati offrendo visibilità ad una serie di ruoli molto versatili.\n\nGiulia Brandetti , senior data scientist di Enel, ci parlerà della sua esperienza in #peopleoperationanalytics e dell'implementazione di algoritmi di ML.\n\nSonia Elicio - Growth Hacker ci racconterà di #growthhacking e #marketinganalytics e della sua esperienza nel supportare la crescita di startups attraverso l'uso di dati e statistiche.\n\nCosa rappresenta #RLadiesItaly?\n\nUn progetto congiunto tra R-Ladies Bari e Rladies Milan, due local chapters di RLadies (https://rladies.org/), organizzazione non-profit, che si prefigge di aiutare donne e minoranze ad accedere al mondo dela data science. L'obiettivo di questo meetup è di offrire una serie di webinars che aiutino le donne a navigare il mare di opportunità professionali, con particolare attenzione a quei settori non \"tradizionalmente\" legati alla data science.",
+    "status": "PAST",
+    "dateTime": "2020-10-13T18:00:00+02:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-bari/events/273635406/",
+    "featuredEventPhoto": {
+      "id": "492680318",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/f/5/e/highres_492680318.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/f/5/e/600_492680318.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/f/5/e/thumb_492680318.jpeg"
     },
     "rsvps": {
       "yesCount": 12,
@@ -362,85 +451,8 @@
     "group": {
       "name": "R-Ladies Bari",
       "urlname": "rladies-bari"
-    }
-  },
-  {
-    "id": "274032968",
-    "title": "Dati personali e informazioni sensibili: tecniche di data anonymization in R",
-    "description": "📣 Evento in collaborazione con la community del Deep Learning Italia\n\n\"Deep Learning Italia” Online Conference: https://bit.ly/3m50KSL\n\nSi affronteranno temi legati esclusivamente alla progettazione e implementazione di Reti Neurali e il Deep Learning nell'Intelligenza Artificiale di oggi.\n\nIl Meetup di DLI nasce dall'esigenza di sopperire alla carenza di meetup tecnici sul Deep Learning in Italia mentre ormai se ne contano molteplici in altre città del mondo come Londra, Amsterdam e San Francisco. Il Meetup sarà orientato sia alla ricerca accademica e che al mondo delle startup.\n\nLunedì 23 Novembre 2020, dalle ore 18.30 alle ore 20.00.\n\nREGISTRAZIONE OBBLIGATORIA SU CODEMOTION: https://community.codemotion.com/deep-learning-italia/meetups/meetup-aperitech-online-edition-di-novembre-di-deep-learning-italia\n\nSpeaker:\nGiovanna de Vincenzo Co-Founder @R-Ladies Bari | Data Scientist @InfoCamere\n\nTitolo: Dati personali e informazioni sensibili: tecniche di data anonymization in R\n\nAbstract\n\nCon i social media e i big data ovunque, la privacy dei dati è diventata una preoccupazione pubblica crescente. La raccolta di informazioni è necessaria per aiutare un sito web a crescere, targetizzare i clienti o analizzare fenomeni sociali. Riconoscendo questo problema, tante entità come Google e Apple, stanno promuovendo migliori tecniche di tutela e protezione della privacy. È qui che entra in gioco l'anonimizzazione dei dati.\n\n📣 Cos'è l'anonimizzazione dei dati e perché è importante?\n\nL'anonimizzazione dei dati rende non identificabili le informazioni identificabili. Ciò avviene tramite tecniche di elaborazione dati che rimuovono o codificano i dati personali. Quindi i dati diventano anonimi e non possono essere collegati a nessun individuo. L'anonimizzazione dei dati consente di rispettare i GDPR di tutto il mondo.\n\nIn questo meetup esploreremo i metodi e le tecniche di base per la codifica dei dati che statistici e data scientist utilizzano per rendere anonimi i dati con R.\n\nUtilizzeremo il dataset prodotto dalle vostre risposte al seguente sondaggio ⬅️ compila il sondaggio e non mancare! 🙋‍♀️\n\nCOMPILA IL SONDAGGIO: https://forms.gle/TTwTECZqfW9Af5nz8",
-    "status": "PAST",
-    "dateTime": "2020-11-23T18:30:00+01:00",
-    "duration": "PT2H",
-    "eventUrl": "https://www.meetup.com/rladies-bari/events/274032968/",
-    "featuredEventPhoto": {
-      "id": "493109974",
-      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/5/1/6/highres_493109974.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/5/1/6/600_493109974.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/5/1/6/thumb_493109974.jpeg"
     },
-    "rsvps": {
-      "yesCount": 20,
-      "waitlistCount": 0,
-      "totalCount": 20
-    },
-    "venues": [
-      {
-        "id": "26906060",
-        "name": "Online event",
-        "address": "",
-        "city": "",
-        "state": "",
-        "country": "",
-        "lat": -8.5211,
-        "lon": 179.1962,
-        "postalCode": "",
-        "venueType": "online"
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Bari",
-      "urlname": "rladies-bari"
-    }
-  },
-  {
-    "id": "273635406",
-    "title": "Scenari e ruoli alternativi nella data science",
-    "description": "3 lightning talks di 15' circa durante i quali 3 speakers racconteranno le loro esperienze con i dati, in settori non \"tradizionalmente\" legati alla data science.\n\nAlice Corona, freelance nel mondo del #datastorytelling e #datajournalism, ci aiuterà a colmare il gap tra informazione e dati offrendo visibilità ad una serie di ruoli molto versatili.\n\nGiulia Brandetti , senior data scientist di Enel, ci parlerà della sua esperienza in #peopleoperationanalytics e dell'implementazione di algoritmi di ML.\n\nSonia Elicio - Growth Hacker ci racconterà di #growthhacking e #marketinganalytics e della sua esperienza nel supportare la crescita di startups attraverso l'uso di dati e statistiche.\n\nCosa rappresenta #RLadiesItaly?\n\nUn progetto congiunto tra R-Ladies Bari e Rladies Milan, due local chapters di RLadies (https://rladies.org/), organizzazione non-profit, che si prefigge di aiutare donne e minoranze ad accedere al mondo dela data science. L'obiettivo di questo meetup è di offrire una serie di webinars che aiutino le donne a navigare il mare di opportunità professionali, con particolare attenzione a quei settori non \"tradizionalmente\" legati alla data science.",
-    "status": "PAST",
-    "dateTime": "2020-10-13T18:00:00+02:00",
-    "duration": "PT1H30M",
-    "eventUrl": "https://www.meetup.com/rladies-bari/events/273635406/",
-    "featuredEventPhoto": {
-      "id": "492680318",
-      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/f/5/e/highres_492680318.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/f/5/e/600_492680318.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/f/5/e/thumb_492680318.jpeg"
-    },
-    "rsvps": {
-      "yesCount": 14,
-      "waitlistCount": 0,
-      "totalCount": 14
-    },
-    "venues": [
-      {
-        "id": "26906060",
-        "name": "Online event",
-        "address": "",
-        "city": "",
-        "state": "",
-        "country": "",
-        "lat": -8.5211,
-        "lon": 179.1962,
-        "postalCode": "",
-        "venueType": "online"
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Bari",
-      "urlname": "rladies-bari"
-    }
+    "createdTime": "2020-10-01T05:09:49-04:00"
   },
   {
     "id": "271187316",
@@ -479,7 +491,8 @@
     "group": {
       "name": "R-Ladies Bari",
       "urlname": "rladies-bari"
-    }
+    },
+    "createdTime": "2020-06-09T13:38:01-04:00"
   },
   {
     "id": "271981697",
@@ -518,7 +531,8 @@
     "group": {
       "name": "R-Ladies Bari",
       "urlname": "rladies-bari"
-    }
+    },
+    "createdTime": "2020-07-17T05:40:02-04:00"
   },
   {
     "id": "268769946",
@@ -557,7 +571,8 @@
     "group": {
       "name": "R-Ladies Bari",
       "urlname": "rladies-bari"
-    }
+    },
+    "createdTime": "2020-02-17T03:30:14-05:00"
   },
   {
     "id": "282423341",
@@ -567,85 +582,7 @@
     "dateTime": "2021-12-16T18:00:00+01:00",
     "duration": "PT2H",
     "eventUrl": "https://www.meetup.com/rladies-bari/events/282423341/",
-    "featuredEventPhoto": {
-      "id": "500557835",
-      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/3/c/b/highres_500557835.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/3/c/b/600_500557835.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/3/c/b/thumb_500557835.jpeg"
-    },
-    "rsvps": {
-      "yesCount": 8,
-      "waitlistCount": 0,
-      "totalCount": 8
-    },
-    "venues": [
-      {
-        "id": "26906060",
-        "name": "Online event",
-        "address": "",
-        "city": "",
-        "state": "",
-        "country": "",
-        "lat": -8.5211,
-        "lon": 179.1962,
-        "postalCode": "",
-        "venueType": "online"
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Bari",
-      "urlname": "rladies-bari"
-    }
-  },
-  {
-    "id": "281688491",
-    "title": "Funnel analyses in R - in partnership con RLadies Coventry",
-    "description": "Funnel analyses in R (con il piccolo aiuto di RSQLight)\n\n*** Evento in partnership con R-Ladies Coventry!!! ***\n\nPubblicato originariamente su RLadies Coventry\nhttps://www.meetup.com/it-IT/rladies-coventry/events/281399088/\n\nUna Funnel Analyses è un metodo di analisi, detto a “imbuto”, utilizzato dalle aziende per comprendere i passaggi che un utente attua per arrivare al risultato voluto dall’azienda. Questo metodo è utilizzato soprattutto per l’analisi del sito web aziendale, in quanto traccia l’esperienza degli utenti sul sito e mostra le fasi che lo portano al raggiungimento di una conversione oppure di un qualche obiettivo per l’azienda, come la registrazione alla newsletter e la generazione di lead.\n\nIn questo evento, Sara spiegherà come la Funnel Analyses può aiutare a determinare il punto in cui gli utenti abbandonano la pagina e non completano il percorso che porta alla Conversione. In questo modo l’analisi può essere utilizzata come punto di partenza per capire il motivo per cui gli utenti diminuiscono tra una fase e l’altra e apportare così delle modifiche in grado di ridurre il tasso di uscita e, a sua volta, aumentare il tasso di conversione.\nUseremo R-studio per le analisi, creeremo un file R-markdown per produrre un report e riceveremo un piccolo aiuto da un amico - la libreria RSQLite - in modo da poter incorporare il codice SQL nelle nostre analisi e report.\n\nSPEAKER\n\nQuesto evento online sarà tenuto dalla (nostra co-fondatrice) dott.ssa Sara Iacozza (https://www.saraiacozza.com/). Sara è attualmente Chief Data Officer e Behavioral Insight Researcher presso Digital Attitudes a Milano. Possiede un dottorato di ricerca presso il Max Planck Institute for Psycholinguistics nei Paesi Bassi.\n\nENGLISH\n\nEvery time you enter a website there are many flows of events that are initiated and can be followed through by a visitor. Imagine you land on the homepage of an e-commerce or a digital academic journal. You are looking for a specific item, that can be a T-shirt or a published paper, and need to navigate through menus and sub-menus before you land on the page you were looking for. What happens most of the time is that only a small portion of visitors achieve their goal of buying the T-shirt or reading the searched paper. Funnel analysis can help you spot where visitors are leaving your website, so you can optimize it and increase conversions.\n\nIn this event, Sara will explain how you can analyze funnels to identify key traffic sources and spot significant drop-off points. You’ll also learn how to combine funnel reports with more analytics insight, so you can share strategies that can improve the experience of users. We will use R-studio for the analyses, we’ll create a R-markdown file to output a report, and we will get a little help from a friend - RSQLite library- so that we can embed SQL code in our analyses and report.\n\nSPEAKER\nThis online event will be led by Dr Sara Iacozza (https://www.saraiacozza.com/). Sara is currently a Chief Data Officer and Behavioural Insight Researcher at Digital Attitudes in Milan, Italy, having previously completed her PhD at the Max Planck Institute for Psycholinguistics in The Netherlands. Sara is a data and R enthusiast who also co-founded R-Ladies Italy!\n\nCODE OF CONDUCT\nPlease take a minute to read our code of conduct - we are committed to creating a safe and harassment-free environment:\nhttps://github.com/rladies/.github/blob/master/CODE_OF_CONDUCT.md\n\nR-Ladies events are always free and open to anyone who wants to participate as long as they follow the code of conduct. We are pro-actively inclusive of queer, trans, and all minority identities, with additional sensitivity to intersectional identities. Our priority is to provide a safe community space for anyone identifying as a minority gender who is interested in and/or working with R.",
-    "status": "PAST",
-    "dateTime": "2021-11-11T18:30:00+01:00",
-    "duration": "PT1H30M",
-    "eventUrl": "https://www.meetup.com/rladies-bari/events/281688491/",
     "featuredEventPhoto": {},
-    "rsvps": {
-      "yesCount": 15,
-      "waitlistCount": 0,
-      "totalCount": 15
-    },
-    "venues": [
-      {
-        "id": "26906060",
-        "name": "Online event",
-        "address": "",
-        "city": "",
-        "state": "",
-        "country": "",
-        "lat": -8.5211,
-        "lon": 179.1962,
-        "postalCode": "",
-        "venueType": "online"
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Bari",
-      "urlname": "rladies-bari"
-    }
-  },
-  {
-    "id": "281501371",
-    "title": "Oliver Wyman Digital and Analytics for R-Ladies",
-    "description": "Abbiamo il piacere di annunciare un nuovo meetup congiunto tra R-Ladies Spagna, R-Ladies Italia e Oliver Wyman.\n\n👩‍💻 Se stai cercando lavoro, ti consigliamo di partecipare!\n\nOliver Wyman è un'azienda di consulenza con una sede a Milano e molte altre distribuite globalmente che è alla ricerca di donne di talento da inserire nel mondo della data analytics.\nL'evento sarà in inglese e avremo presenti anche i chapter di RLadies Madrid e Barcellona.\n\n=============================\nNOTA IMPORTANTE: per ricevere il link online, è necessario registrarsi in questo modulo (la gestione delle partecipanti viene fatta direttamente da Oliver Wyman, quindi essere registrate su MeetUp non è sufficiente!): https://owg.zoom.us/meeting/register/tJYsf-uqqTojGNQx_Xhh-vdnWyt1q8GynGVN\n=============================\n\nIl team di Digital&Analytics di Oliver Wyman ci mostrerà come ottentere progressi significativi utilizzando analitiche avanzate.\nEcco l'agenda dell'evento:\n\n- 18:30\nApertura e presentazione del team Data&Analytics da parte di Sian Townson (direttrice)\n- 18:40\nPresentazione del progetto di Advanced Analytics da parte del team Data&Analytics di Oliver Wyman\n- 19:10\nBreve presentazione delle opportunità aperte di Oliver Wyman Data&Analytics\n- 19:20\nSessione di Q&A\n\nSPEAKERS:\n\n**Sian Townson** è la direttrice di Data & Analytics, una divisione specializzata della parte digitale di Oliver Wyman. Ha più di 20 anni di esperienza in modelli e validazione, specializzato in machine learning. Sian ha guidato numerosi progetti di costruzione e convalida di modelli su larga scala ed è interessata in particolare alla validazione di advanced machine learning. Sta investendo molto sulla risoluzione di problemi di pregiudizio ed etica.\n**Teneeka May** è una senior analist in Data & Analytics. Oltre al suo lavoro presso Oliver Wyman, Teneeka ha fondato un nuovo branch di networking tra le donne dell'azienda, il cui obiettivo è sviluppare, ispirare e creare comunità tra le donne in questo settore.\nAl di fuori del lavoro, Teneeka è interessata all'impatto sociale e ha messo le sue competenze al servizio degli altri con un'organizzazione che aiuta altre ONG a estrarre conoscenza dai propri dati. Nel 2021 è stata riconosciuta come Rising Star in Digital da WeAreTheCity.\n\nTi aspettiamo!",
-    "status": "PAST",
-    "dateTime": "2021-10-21T18:30:00+02:00",
-    "duration": "PT1H",
-    "eventUrl": "https://www.meetup.com/rladies-bari/events/281501371/",
-    "featuredEventPhoto": {
-      "id": "499580273",
-      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/f/3/1/highres_499580273.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/f/3/1/600_499580273.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/f/3/1/thumb_499580273.jpeg"
-    },
     "rsvps": {
       "yesCount": 6,
       "waitlistCount": 0,
@@ -668,7 +605,82 @@
     "group": {
       "name": "R-Ladies Bari",
       "urlname": "rladies-bari"
-    }
+    },
+    "createdTime": "2021-12-01T08:54:00-05:00"
+  },
+  {
+    "id": "281688491",
+    "title": "Funnel analyses in R - in partnership con RLadies Coventry",
+    "description": "Funnel analyses in R (con il piccolo aiuto di RSQLight)\n\n*** Evento in partnership con R-Ladies Coventry!!! ***\n\nPubblicato originariamente su RLadies Coventry\nhttps://www.meetup.com/it-IT/rladies-coventry/events/281399088/\n\nUna Funnel Analyses è un metodo di analisi, detto a “imbuto”, utilizzato dalle aziende per comprendere i passaggi che un utente attua per arrivare al risultato voluto dall’azienda. Questo metodo è utilizzato soprattutto per l’analisi del sito web aziendale, in quanto traccia l’esperienza degli utenti sul sito e mostra le fasi che lo portano al raggiungimento di una conversione oppure di un qualche obiettivo per l’azienda, come la registrazione alla newsletter e la generazione di lead.\n\nIn questo evento, Sara spiegherà come la Funnel Analyses può aiutare a determinare il punto in cui gli utenti abbandonano la pagina e non completano il percorso che porta alla Conversione. In questo modo l’analisi può essere utilizzata come punto di partenza per capire il motivo per cui gli utenti diminuiscono tra una fase e l’altra e apportare così delle modifiche in grado di ridurre il tasso di uscita e, a sua volta, aumentare il tasso di conversione.\nUseremo R-studio per le analisi, creeremo un file R-markdown per produrre un report e riceveremo un piccolo aiuto da un amico - la libreria RSQLite - in modo da poter incorporare il codice SQL nelle nostre analisi e report.\n\nSPEAKER\n\nQuesto evento online sarà tenuto dalla (nostra co-fondatrice) dott.ssa Sara Iacozza (https://www.saraiacozza.com/). Sara è attualmente Chief Data Officer e Behavioral Insight Researcher presso Digital Attitudes a Milano. Possiede un dottorato di ricerca presso il Max Planck Institute for Psycholinguistics nei Paesi Bassi.\n\nENGLISH\n\nEvery time you enter a website there are many flows of events that are initiated and can be followed through by a visitor. Imagine you land on the homepage of an e-commerce or a digital academic journal. You are looking for a specific item, that can be a T-shirt or a published paper, and need to navigate through menus and sub-menus before you land on the page you were looking for. What happens most of the time is that only a small portion of visitors achieve their goal of buying the T-shirt or reading the searched paper. Funnel analysis can help you spot where visitors are leaving your website, so you can optimize it and increase conversions.\n\nIn this event, Sara will explain how you can analyze funnels to identify key traffic sources and spot significant drop-off points. You’ll also learn how to combine funnel reports with more analytics insight, so you can share strategies that can improve the experience of users. We will use R-studio for the analyses, we’ll create a R-markdown file to output a report, and we will get a little help from a friend - RSQLite library- so that we can embed SQL code in our analyses and report.\n\nSPEAKER\nThis online event will be led by Dr Sara Iacozza (https://www.saraiacozza.com/). Sara is currently a Chief Data Officer and Behavioural Insight Researcher at Digital Attitudes in Milan, Italy, having previously completed her PhD at the Max Planck Institute for Psycholinguistics in The Netherlands. Sara is a data and R enthusiast who also co-founded R-Ladies Italy!\n\nCODE OF CONDUCT\nPlease take a minute to read our code of conduct - we are committed to creating a safe and harassment-free environment:\nhttps://github.com/rladies/.github/blob/master/CODE_OF_CONDUCT.md\n\nR-Ladies events are always free and open to anyone who wants to participate as long as they follow the code of conduct. We are pro-actively inclusive of queer, trans, and all minority identities, with additional sensitivity to intersectional identities. Our priority is to provide a safe community space for anyone identifying as a minority gender who is interested in and/or working with R.",
+    "status": "PAST",
+    "dateTime": "2021-11-11T18:30:00+01:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-bari/events/281688491/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 11,
+      "waitlistCount": 0,
+      "totalCount": 11
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bari",
+      "urlname": "rladies-bari"
+    },
+    "createdTime": "2021-10-27T04:30:37-04:00"
+  },
+  {
+    "id": "281501371",
+    "title": "Oliver Wyman Digital and Analytics for R-Ladies",
+    "description": "Abbiamo il piacere di annunciare un nuovo meetup congiunto tra R-Ladies Spagna, R-Ladies Italia e Oliver Wyman.\n\n👩‍💻 Se stai cercando lavoro, ti consigliamo di partecipare!\n\nOliver Wyman è un'azienda di consulenza con una sede a Milano e molte altre distribuite globalmente che è alla ricerca di donne di talento da inserire nel mondo della data analytics.\nL'evento sarà in inglese e avremo presenti anche i chapter di RLadies Madrid e Barcellona.\n\n=============================\nNOTA IMPORTANTE: per ricevere il link online, è necessario registrarsi in questo modulo (la gestione delle partecipanti viene fatta direttamente da Oliver Wyman, quindi essere registrate su MeetUp non è sufficiente!): https://owg.zoom.us/meeting/register/tJYsf-uqqTojGNQx_Xhh-vdnWyt1q8GynGVN\n=============================\n\nIl team di Digital&Analytics di Oliver Wyman ci mostrerà come ottentere progressi significativi utilizzando analitiche avanzate.\nEcco l'agenda dell'evento:\n\n- 18:30\nApertura e presentazione del team Data&Analytics da parte di Sian Townson (direttrice)\n- 18:40\nPresentazione del progetto di Advanced Analytics da parte del team Data&Analytics di Oliver Wyman\n- 19:10\nBreve presentazione delle opportunità aperte di Oliver Wyman Data&Analytics\n- 19:20\nSessione di Q&A\n\nSPEAKERS:\n\n**Sian Townson** è la direttrice di Data & Analytics, una divisione specializzata della parte digitale di Oliver Wyman. Ha più di 20 anni di esperienza in modelli e validazione, specializzato in machine learning. Sian ha guidato numerosi progetti di costruzione e convalida di modelli su larga scala ed è interessata in particolare alla validazione di advanced machine learning. Sta investendo molto sulla risoluzione di problemi di pregiudizio ed etica.\n**Teneeka May** è una senior analist in Data & Analytics. Oltre al suo lavoro presso Oliver Wyman, Teneeka ha fondato un nuovo branch di networking tra le donne dell'azienda, il cui obiettivo è sviluppare, ispirare e creare comunità tra le donne in questo settore.\nAl di fuori del lavoro, Teneeka è interessata all'impatto sociale e ha messo le sue competenze al servizio degli altri con un'organizzazione che aiuta altre ONG a estrarre conoscenza dai propri dati. Nel 2021 è stata riconosciuta come Rising Star in Digital da WeAreTheCity.\n\nTi aspettiamo!",
+    "status": "PAST",
+    "dateTime": "2021-10-21T18:30:00+02:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-bari/events/281501371/",
+    "featuredEventPhoto": {
+      "id": "499580273",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/f/3/1/highres_499580273.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/f/3/1/600_499580273.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/f/3/1/thumb_499580273.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bari",
+      "urlname": "rladies-bari"
+    },
+    "createdTime": "2021-10-18T09:05:53-04:00"
   },
   {
     "id": "279732481",
@@ -694,7 +706,8 @@
     "group": {
       "name": "R-Ladies Bari",
       "urlname": "rladies-bari"
-    }
+    },
+    "createdTime": "2021-07-27T07:05:53-04:00"
   },
   {
     "id": "279315728",
@@ -712,9 +725,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/e/3/c/thumb_497372316.jpeg"
     },
     "rsvps": {
-      "yesCount": 15,
+      "yesCount": 13,
       "waitlistCount": 0,
-      "totalCount": 15
+      "totalCount": 13
     },
     "venues": [
       {
@@ -733,7 +746,8 @@
     "group": {
       "name": "R-Ladies Bari",
       "urlname": "rladies-bari"
-    }
+    },
+    "createdTime": "2021-07-07T08:54:48-04:00"
   },
   {
     "id": "278915999",
@@ -751,9 +765,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/2/b/thumb_496983371.jpeg"
     },
     "rsvps": {
-      "yesCount": 17,
+      "yesCount": 16,
       "waitlistCount": 0,
-      "totalCount": 17
+      "totalCount": 16
     },
     "venues": [
       {
@@ -772,7 +786,8 @@
     "group": {
       "name": "R-Ladies Bari",
       "urlname": "rladies-bari"
-    }
+    },
+    "createdTime": "2021-06-18T04:43:55-04:00"
   },
   {
     "id": "278323910",
@@ -788,201 +803,6 @@
       "highResUrl": "https://secure.meetupstatic.com/photos/event/5/3/d/1/highres_496521457.jpeg",
       "standardUrl": "https://secure.meetupstatic.com/photos/event/5/3/d/1/600_496521457.jpeg",
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/3/d/1/thumb_496521457.jpeg"
-    },
-    "rsvps": {
-      "yesCount": 17,
-      "waitlistCount": 0,
-      "totalCount": 17
-    },
-    "venues": [
-      {
-        "id": "26906060",
-        "name": "Online event",
-        "address": "",
-        "city": "",
-        "state": "",
-        "country": "",
-        "lat": -8.5211,
-        "lon": 179.1962,
-        "postalCode": "",
-        "venueType": "online"
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Bari",
-      "urlname": "rladies-bari"
-    }
-  },
-  {
-    "id": "277706138",
-    "title": " Text mining e data analisi con Twitter",
-    "description": "Text mining e data analisi con Twitter: casi pratici di estrazione e trattamento dati\n\nNel corso del workshop parleremo di come estrarre e analizzare dati testuali da Twitter per l'analisi.\nPartiremo dalle basi dell'analisi dei dati non strutturati, per capire quali casistiche di analisi sono adatte ai dati di tipo testuale.\nScopriremo come creare un account Twitter per l'estrazione dati, come creare un' app e utilizzare le chiavi d'identificazione per estrarre i dati con R.\nUna volta esaurita la parte di estrazione e storing dei dati, analizzeremo i dati in un'ottica di sentiment analysis.\n\nIl workshop durerà circa due ore e prevede mezzora dedicata alle domande\n\nOrario 18:00 - 20:30\n\nPIATTAFORMA\n\nSarà utilizzato RStudio Cloud\n\nSPEAKER\nValentina Porcu | Data Scientist\n\nAppassionata di informatica, data science e ricerca, con un dottorato di ricerca in comunicazione e sistemi complessi e anni di esperienza nell'insegnamento nelle università in Italia, Francia e Marocco, e online, ovviamente!\n\nLavora come consulente nel campo della data science, AI e Machine Learning e le piace scrivere di nuove tecnologie e data mining.\n\nHa trascorso gli ultimi 12 anni lavorando come freelance e ricercatrice nel campo dell'analisi dei social media, analisi di benchmark e web scraping per la creazione di database, in particolare nel campo della buzz analysis e dell'analisi del sentiment per università, startup e web agency in tutto il Regno Unito, Francia , Stati Uniti e Italia.",
-    "status": "PAST",
-    "dateTime": "2021-05-20T18:00:00+02:00",
-    "duration": "PT2H30M",
-    "eventUrl": "https://www.meetup.com/rladies-bari/events/277706138/",
-    "featuredEventPhoto": {
-      "id": "496215934",
-      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/e/3/e/highres_496215934.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/e/3/e/600_496215934.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/e/3/e/thumb_496215934.jpeg"
-    },
-    "rsvps": {
-      "yesCount": 26,
-      "waitlistCount": 0,
-      "totalCount": 26
-    },
-    "venues": [
-      {
-        "id": "26906060",
-        "name": "Online event",
-        "address": "",
-        "city": "",
-        "state": "",
-        "country": "",
-        "lat": -8.5211,
-        "lon": 179.1962,
-        "postalCode": "",
-        "venueType": "online"
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Bari",
-      "urlname": "rladies-bari"
-    }
-  },
-  {
-    "id": "277705160",
-    "title": "WOMEN WILL | STRUMENTI DI LEADERSHIP IN PILLOLE",
-    "description": "Siamo condizionati da tantissimi fattori, quelli con cui siamo cresciute e contro cui combattiamo ogni giorno, con i colleghi, i fornitori, i clienti ma anche dentro noi stesse e con le donne con cui collaboriamo e interagiamo.\n\nQuesto webinar ha l'obiettivo di farci prendere confidenza con alcuni temi importanti, come i pregiudizi di genere o i doppi standard, e comprendere come possiamo adattare al nostro mondo professionale alcuni modelli e tips legati al concetto di \"influenza\" e alla gestione dei conflitti.\n\nQuali sono i pregiudizi e gli squilibri di genere?\nQuali sono i doppi standard e i bias cognitivi e comportamentali a cui siamo esposte costantemente nella quotidianità (dal linguaggio che utilizziamo alle differenze di salario e di raggiungimento di posizioni apicali nel mondo del lavoro)?\nCome evitare per noi e per chi lavora al nostro fianco il sovraccarico cognitivo e aggirare l'ego depletion?\nE ancora, come poter applicare alla nostra vita di tutti i giorni la teoria dei nudge?\nInfine, quali sono le tipologie di conflitto in cui ci imbattiamo più spesso nel mondo lavorativo (e non solo)?\n\nImparare a riconoscere molti di questi aspetti ed esserne consapevoli è il primo passo per imparare a lavorarci personalmente e capire come contrastarli e superarli.\n\nSPEAKER\n\nLaura Nacci | Direttrice scientifica @ SheTech Master School e docente e consulente di Personal Branding su Instagram e Leadership Femminile.\n\n-----------------------------------------------------------------------------------------------\nProgetta e realizza percorsi formativi che abilitano manager, professionisti e imprenditori allo sviluppo di contenuti e strategie di social media management per la loro professione e per il business che rappresentano: dalla overview sull'utilizzo delle varie piattaforme all'approfondimento del personal branding e del professional networking su Instagram.\nIn parallelo, da anni, porta avanti studi e docenze sul tema della leadership femminile, fornendo alle partecipanti strumenti e tips per una maggior consapevolezza degli automatismi individuali e delle dinamiche relazionali che sottostanno al proprio modus operandi e che spesso non consentono lo sviluppo di una leadership personalizzata, empatica e in cui il dialogo, le emozioni e l'autostima siano liberi di giocare un ruolo fondamentale.\nÈ direttrice scientifica di SheTech Master School e lavora come consulente e docente per altre Business School e aziende, forte di un'esperienza imprenditoriale decennale durante la quale ha sperimentato, sin dagli esordi, l’uso dei social network e dei piani comunicativi transmediali per diversi contesti corporate.",
-    "status": "PAST",
-    "dateTime": "2021-05-04T18:30:00+02:00",
-    "duration": "PT2H",
-    "eventUrl": "https://www.meetup.com/rladies-bari/events/277705160/",
-    "featuredEventPhoto": {
-      "id": "495873696",
-      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/3/a/0/highres_495873696.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/3/a/0/600_495873696.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/3/a/0/thumb_495873696.jpeg"
-    },
-    "rsvps": {
-      "yesCount": 35,
-      "waitlistCount": 0,
-      "totalCount": 35
-    },
-    "venues": [
-      {
-        "id": "26906060",
-        "name": "Online event",
-        "address": "",
-        "city": "",
-        "state": "",
-        "country": "",
-        "lat": -8.5211,
-        "lon": 179.1962,
-        "postalCode": "",
-        "venueType": "online"
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Bari",
-      "urlname": "rladies-bari"
-    }
-  },
-  {
-    "id": "276395852",
-    "title": "SELF LEADERSHIP: PER ESSERE UN VERO LEADER PRIMA BISOGNA CONOSCERSI [Workshop]",
-    "description": "Eccoci con il nuovo meetup #RLadiesItaly!\n\nIl nuovo evento sarà con Nancy Cooklin. A partire da una lunga e approfondita esperienza di lavoro a stretto contatto con le persone, in piccoli e grandi gruppi e organizzazioni, e dalle diverse culture e generazioni, Nancy Cooklin, coach, counselor e formatrice, ha creato un modello chiamato “Human Leadership”.\n\nIn questo momento più che mai l’aspetto “Human” è diventato centrale sia nella vita professionale che in quella personale. La chiave sta nell'essere focalizzati e forti emotivamente. In questo modello ci sono 4 aree tra le quali Nancy ci guiderà: consapevolezza, creatività, coraggio e pensiero sistemico.\nAvere chiarezza su chi siamo e cosa ci guida accresce la nostra autostima e ci permette di relazionarci in modo autentico e coerente con chi siamo e cosa vogliamo.\n\nDopo questo workshop:\n\n- Ti sentirai più allineata o concentrata così da saper prendere decisioni più facilmente.\n- Prederai consapevolezza delle leve che ti portano ad agire\n- Capirai come funziona il meccanismo del cambiamento e perché a volte cambiare è più difficile che non cambiare\n- Riconoscerai l’importanza della tua storia per andare verso il futuro più libera di fare le tue scelte\n- Saprai comunicare con gli altri in modo efficace\n- Capirai l’importanza dell’autenticità nel mondo di oggi, sia a livello personale che professionale\n\nLe persone ti scelgono per quello che sei, non per quello che fai!\n\nCi vediamo presto!",
-    "status": "PAST",
-    "dateTime": "2021-03-10T18:30:00+01:00",
-    "duration": "PT1H30M",
-    "eventUrl": "https://www.meetup.com/rladies-bari/events/276395852/",
-    "featuredEventPhoto": {
-      "id": "494777753",
-      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/5/5/9/highres_494777753.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/5/5/9/600_494777753.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/5/5/9/thumb_494777753.jpeg"
-    },
-    "rsvps": {
-      "yesCount": 36,
-      "waitlistCount": 0,
-      "totalCount": 36
-    },
-    "venues": [
-      {
-        "id": "26906060",
-        "name": "Online event",
-        "address": "",
-        "city": "",
-        "state": "",
-        "country": "",
-        "lat": -8.5211,
-        "lon": 179.1962,
-        "postalCode": "",
-        "venueType": "online"
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Bari",
-      "urlname": "rladies-bari"
-    }
-  },
-  {
-    "id": "275943891",
-    "title": "LinkedIn & le sue (quasi) infinite potenzialità",
-    "description": "Ciao a tutte e tutti!\nIn questo evento faremo qualcosa di veramente diverso.\nVogliamo tenere un workshop su come utilizzare Linkedin in modo efficiente e su come creare un miglior Personal Branding.\nPotrai quindi imparare come:\n* Aumentare il numero di contatti\n* Cercare lavoro e creare alert\n* Gruppi su LinkedIn: questi sconosciuti\n* Postare contenuti su LinkedIn\n* Netiquette\nNon ci sarà solo una parte teorica ma anche esercizi pratici da seguire per apprendere tecniche efficaci.\nLa nostra straordinaria speaker per questo workshop è Sabrina Pittaluga.\nSabrina attualmente ricopre il ruolo di Talent Research Lead per l'area CEMA (Central and Eastern Europe, Middle East and Africa) presso l'ufficio di Milano di BCG – Boston Consulting Group. Le attività che segue includono Sourcing & recruiting di posizioni senior e Market Intelligence.\nDon't hesitate to join us, looking forward to hearing you all!",
-    "status": "PAST",
-    "dateTime": "2021-02-02T18:30:00+01:00",
-    "duration": "PT2H",
-    "eventUrl": "https://www.meetup.com/rladies-bari/events/275943891/",
-    "featuredEventPhoto": {
-      "id": "494462258",
-      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/d/2/highres_494462258.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/d/2/600_494462258.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/d/2/thumb_494462258.jpeg"
-    },
-    "rsvps": {
-      "yesCount": 20,
-      "waitlistCount": 0,
-      "totalCount": 20
-    },
-    "venues": [
-      {
-        "id": "26906060",
-        "name": "Online event",
-        "address": "",
-        "city": "",
-        "state": "",
-        "country": "",
-        "lat": -8.5211,
-        "lon": 179.1962,
-        "postalCode": "",
-        "venueType": "online"
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Bari",
-      "urlname": "rladies-bari"
-    }
-  },
-  {
-    "id": "275628367",
-    "title": "50 shades of Data Science in partnership con SheTech",
-    "description": "Cosa vuol dire essere una Data Scientist, quante e quali sono le sfumature di questo ruolo.\n\nInsieme alla community di RLadies Italy e al racconto delle nostre ospiti, tutte donne e tutte data scientist, esploreremo il mondo data science in tutte le sue sfumature:\n\nPerchè non esiste un solo modo o un solo ruolo nel mondo della data science & analytics.\nPerchè è importante avere un approccio data-driven.\nDiversità e inclusione nel settore.\n\nREGISTRAZIONI QUI: https://www.eventbrite.it/e/biglietti-50-shades-of-data-science-135999527247\n\nLE SPEAKER\n\nGiovanna de Vincenzo - Data scientist, rladies e data visualization specialist. Ama i dati e la tecnologia, sperimentare e mettersi alla prova. Durante il Master in Data Science ha scoperto la sua vera passione: raccontare i dati. Specializzata in R, data analytics e data visualization, ha ottenuto di recente la certificazione Tableau Desktop Specialist. Il suo mantra è: non temere il fallimento perché è una delle più grosse opportunità per la crescita personale e professionale. Molto sensibile verso il tema della diversità e inclusione nel Tech, è co-fondatrice di #RladiesItaly il cui scopo è sostenere le donne nel settore della data science e data analytics e renderle protagoniste dando voce alle loro aspirazioni e obiettivi.\n\nSara Iacozza - Data literacy e storytelling, BI analyst, UX research. “Ho un dottorato di ricerca in neuroscienze cognitive e amo i dati perchè mi danno l’opportunità di capire meglio il comportamento delle persone. Il mio obiettivo è offrire informazioni che siano basate su evidenza e non opinioni. Ho diversi anni di esperienza nel disegnare e portare a termine progetti di ricerca volti a rispondere a esigenze di varia natura. Dal mio punto di vista, le migliori risposte arrivano attraverso un processo che si chiama ​participatory design​, attraverso il quale supporto i diversi stakeholders interessati in un progetto a definire un problema comune. #RLadiesItaly è la realizzazione di un sogno che vede donne e minoranze supportarsi vicendevolmente in un campo che è ancora fortemente maschile é il desiderio di dare senso a quelle ​quote rosa​ tanto, ingiustamente, criticate nel nostro paese.”\n\nParvaneh Shafiei - Senior Data scientist con +6 anni di esperienza nell'applicazione della Data science e del Machine Learning in vari settori. Lei ha studiato informatica al politecnico di milano. Ha trascorso la maggior parte della sua carriera in società di consulenza per aiutare vari clienti a lanciare e implementare progetti di Machine learning, attualmente è Project Leader in NTT data. È la fondatrice di RladiesMilan, un gruppo dedicato per dare visibilità alle ragazze che lavorano nel settore della tecnologia e della Data science e far crescere più diversità\n\nDiletta Milana - Data Scientist in ENI\n\n-----------------\n\nL'evento è organizzato in partnership con R-Ladies Italy un progetto congiunto tra R-Ladies Bari e R-Ladies Milan, due chapter locali di R-Ladies global. Il loro obiettivo è supportare le donne e le minoranze di genere sottorappresentate nella data science e data analytics. Le donne sono le assolute protagoniste dei loro webinar e vogliono dar loro voce e spazio per raccontare le loro esperienze, ambizioni e obiettivi. Vogliono creare un luogo metafisico di supporto e condivisione. Si concentriano in particolare sul mostrare alle persone che, anche in campi non tradizionalmente legati al mondo della data science, forti competenze sull’analisi dei dati e una mentalità data-driven possono essere una risorsa inestimabile.",
-    "status": "PAST",
-    "dateTime": "2021-01-21T18:30:00+01:00",
-    "duration": "PT1H30M",
-    "eventUrl": "https://www.meetup.com/rladies-bari/events/275628367/",
-    "featuredEventPhoto": {
-      "id": "494246959",
-      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/9/4/f/highres_494246959.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/9/4/f/600_494246959.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/9/4/f/thumb_494246959.jpeg"
     },
     "rsvps": {
       "yesCount": 12,
@@ -1006,7 +826,208 @@
     "group": {
       "name": "R-Ladies Bari",
       "urlname": "rladies-bari"
-    }
+    },
+    "createdTime": "2021-05-21T11:41:26-04:00"
+  },
+  {
+    "id": "277706138",
+    "title": " Text mining e data analisi con Twitter",
+    "description": "Text mining e data analisi con Twitter: casi pratici di estrazione e trattamento dati\n\nNel corso del workshop parleremo di come estrarre e analizzare dati testuali da Twitter per l'analisi.\nPartiremo dalle basi dell'analisi dei dati non strutturati, per capire quali casistiche di analisi sono adatte ai dati di tipo testuale.\nScopriremo come creare un account Twitter per l'estrazione dati, come creare un' app e utilizzare le chiavi d'identificazione per estrarre i dati con R.\nUna volta esaurita la parte di estrazione e storing dei dati, analizzeremo i dati in un'ottica di sentiment analysis.\n\nIl workshop durerà circa due ore e prevede mezzora dedicata alle domande\n\nOrario 18:00 - 20:30\n\nPIATTAFORMA\n\nSarà utilizzato RStudio Cloud\n\nSPEAKER\nValentina Porcu | Data Scientist\n\nAppassionata di informatica, data science e ricerca, con un dottorato di ricerca in comunicazione e sistemi complessi e anni di esperienza nell'insegnamento nelle università in Italia, Francia e Marocco, e online, ovviamente!\n\nLavora come consulente nel campo della data science, AI e Machine Learning e le piace scrivere di nuove tecnologie e data mining.\n\nHa trascorso gli ultimi 12 anni lavorando come freelance e ricercatrice nel campo dell'analisi dei social media, analisi di benchmark e web scraping per la creazione di database, in particolare nel campo della buzz analysis e dell'analisi del sentiment per università, startup e web agency in tutto il Regno Unito, Francia , Stati Uniti e Italia.",
+    "status": "PAST",
+    "dateTime": "2021-05-20T18:00:00+02:00",
+    "duration": "PT2H30M",
+    "eventUrl": "https://www.meetup.com/rladies-bari/events/277706138/",
+    "featuredEventPhoto": {
+      "id": "496215934",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/e/3/e/highres_496215934.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/e/3/e/600_496215934.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/e/3/e/thumb_496215934.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 23,
+      "waitlistCount": 0,
+      "totalCount": 23
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bari",
+      "urlname": "rladies-bari"
+    },
+    "createdTime": "2021-04-21T08:10:12-04:00"
+  },
+  {
+    "id": "277705160",
+    "title": "WOMEN WILL | STRUMENTI DI LEADERSHIP IN PILLOLE",
+    "description": "Siamo condizionati da tantissimi fattori, quelli con cui siamo cresciute e contro cui combattiamo ogni giorno, con i colleghi, i fornitori, i clienti ma anche dentro noi stesse e con le donne con cui collaboriamo e interagiamo.\n\nQuesto webinar ha l'obiettivo di farci prendere confidenza con alcuni temi importanti, come i pregiudizi di genere o i doppi standard, e comprendere come possiamo adattare al nostro mondo professionale alcuni modelli e tips legati al concetto di \"influenza\" e alla gestione dei conflitti.\n\nQuali sono i pregiudizi e gli squilibri di genere?\nQuali sono i doppi standard e i bias cognitivi e comportamentali a cui siamo esposte costantemente nella quotidianità (dal linguaggio che utilizziamo alle differenze di salario e di raggiungimento di posizioni apicali nel mondo del lavoro)?\nCome evitare per noi e per chi lavora al nostro fianco il sovraccarico cognitivo e aggirare l'ego depletion?\nE ancora, come poter applicare alla nostra vita di tutti i giorni la teoria dei nudge?\nInfine, quali sono le tipologie di conflitto in cui ci imbattiamo più spesso nel mondo lavorativo (e non solo)?\n\nImparare a riconoscere molti di questi aspetti ed esserne consapevoli è il primo passo per imparare a lavorarci personalmente e capire come contrastarli e superarli.\n\nSPEAKER\n\nLaura Nacci | Direttrice scientifica @ SheTech Master School e docente e consulente di Personal Branding su Instagram e Leadership Femminile.\n\n-----------------------------------------------------------------------------------------------\nProgetta e realizza percorsi formativi che abilitano manager, professionisti e imprenditori allo sviluppo di contenuti e strategie di social media management per la loro professione e per il business che rappresentano: dalla overview sull'utilizzo delle varie piattaforme all'approfondimento del personal branding e del professional networking su Instagram.\nIn parallelo, da anni, porta avanti studi e docenze sul tema della leadership femminile, fornendo alle partecipanti strumenti e tips per una maggior consapevolezza degli automatismi individuali e delle dinamiche relazionali che sottostanno al proprio modus operandi e che spesso non consentono lo sviluppo di una leadership personalizzata, empatica e in cui il dialogo, le emozioni e l'autostima siano liberi di giocare un ruolo fondamentale.\nÈ direttrice scientifica di SheTech Master School e lavora come consulente e docente per altre Business School e aziende, forte di un'esperienza imprenditoriale decennale durante la quale ha sperimentato, sin dagli esordi, l’uso dei social network e dei piani comunicativi transmediali per diversi contesti corporate.",
+    "status": "PAST",
+    "dateTime": "2021-05-04T18:30:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-bari/events/277705160/",
+    "featuredEventPhoto": {
+      "id": "495873696",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/3/a/0/highres_495873696.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/3/a/0/600_495873696.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/3/a/0/thumb_495873696.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 29,
+      "waitlistCount": 0,
+      "totalCount": 29
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bari",
+      "urlname": "rladies-bari"
+    },
+    "createdTime": "2021-04-21T07:28:33-04:00"
+  },
+  {
+    "id": "276395852",
+    "title": "SELF LEADERSHIP: PER ESSERE UN VERO LEADER PRIMA BISOGNA CONOSCERSI [Workshop]",
+    "description": "Eccoci con il nuovo meetup #RLadiesItaly!\n\nIl nuovo evento sarà con Nancy Cooklin. A partire da una lunga e approfondita esperienza di lavoro a stretto contatto con le persone, in piccoli e grandi gruppi e organizzazioni, e dalle diverse culture e generazioni, Nancy Cooklin, coach, counselor e formatrice, ha creato un modello chiamato “Human Leadership”.\n\nIn questo momento più che mai l’aspetto “Human” è diventato centrale sia nella vita professionale che in quella personale. La chiave sta nell'essere focalizzati e forti emotivamente. In questo modello ci sono 4 aree tra le quali Nancy ci guiderà: consapevolezza, creatività, coraggio e pensiero sistemico.\nAvere chiarezza su chi siamo e cosa ci guida accresce la nostra autostima e ci permette di relazionarci in modo autentico e coerente con chi siamo e cosa vogliamo.\n\nDopo questo workshop:\n\n- Ti sentirai più allineata o concentrata così da saper prendere decisioni più facilmente.\n- Prederai consapevolezza delle leve che ti portano ad agire\n- Capirai come funziona il meccanismo del cambiamento e perché a volte cambiare è più difficile che non cambiare\n- Riconoscerai l’importanza della tua storia per andare verso il futuro più libera di fare le tue scelte\n- Saprai comunicare con gli altri in modo efficace\n- Capirai l’importanza dell’autenticità nel mondo di oggi, sia a livello personale che professionale\n\nLe persone ti scelgono per quello che sei, non per quello che fai!\n\nCi vediamo presto!",
+    "status": "PAST",
+    "dateTime": "2021-03-10T18:30:00+01:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-bari/events/276395852/",
+    "featuredEventPhoto": {
+      "id": "494777753",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/5/5/9/highres_494777753.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/5/5/9/600_494777753.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/5/5/9/thumb_494777753.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 26,
+      "waitlistCount": 0,
+      "totalCount": 26
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bari",
+      "urlname": "rladies-bari"
+    },
+    "createdTime": "2021-02-16T04:45:39-05:00"
+  },
+  {
+    "id": "275943891",
+    "title": "LinkedIn & le sue (quasi) infinite potenzialità",
+    "description": "Ciao a tutte e tutti!\nIn questo evento faremo qualcosa di veramente diverso.\nVogliamo tenere un workshop su come utilizzare Linkedin in modo efficiente e su come creare un miglior Personal Branding.\nPotrai quindi imparare come:\n* Aumentare il numero di contatti\n* Cercare lavoro e creare alert\n* Gruppi su LinkedIn: questi sconosciuti\n* Postare contenuti su LinkedIn\n* Netiquette\nNon ci sarà solo una parte teorica ma anche esercizi pratici da seguire per apprendere tecniche efficaci.\nLa nostra straordinaria speaker per questo workshop è Sabrina Pittaluga.\nSabrina attualmente ricopre il ruolo di Talent Research Lead per l'area CEMA (Central and Eastern Europe, Middle East and Africa) presso l'ufficio di Milano di BCG – Boston Consulting Group. Le attività che segue includono Sourcing & recruiting di posizioni senior e Market Intelligence.\nDon't hesitate to join us, looking forward to hearing you all!",
+    "status": "PAST",
+    "dateTime": "2021-02-02T18:30:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-bari/events/275943891/",
+    "featuredEventPhoto": {
+      "id": "494462258",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/d/2/highres_494462258.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/d/2/600_494462258.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/d/2/thumb_494462258.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 18,
+      "waitlistCount": 0,
+      "totalCount": 18
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bari",
+      "urlname": "rladies-bari"
+    },
+    "createdTime": "2021-01-24T07:00:32-05:00"
+  },
+  {
+    "id": "275628367",
+    "title": "50 shades of Data Science in partnership con SheTech",
+    "description": "Cosa vuol dire essere una Data Scientist, quante e quali sono le sfumature di questo ruolo.\n\nInsieme alla community di RLadies Italy e al racconto delle nostre ospiti, tutte donne e tutte data scientist, esploreremo il mondo data science in tutte le sue sfumature:\n\nPerchè non esiste un solo modo o un solo ruolo nel mondo della data science & analytics.\nPerchè è importante avere un approccio data-driven.\nDiversità e inclusione nel settore.\n\nREGISTRAZIONI QUI: https://www.eventbrite.it/e/biglietti-50-shades-of-data-science-135999527247\n\nLE SPEAKER\n\nGiovanna de Vincenzo - Data scientist, rladies e data visualization specialist. Ama i dati e la tecnologia, sperimentare e mettersi alla prova. Durante il Master in Data Science ha scoperto la sua vera passione: raccontare i dati. Specializzata in R, data analytics e data visualization, ha ottenuto di recente la certificazione Tableau Desktop Specialist. Il suo mantra è: non temere il fallimento perché è una delle più grosse opportunità per la crescita personale e professionale. Molto sensibile verso il tema della diversità e inclusione nel Tech, è co-fondatrice di #RladiesItaly il cui scopo è sostenere le donne nel settore della data science e data analytics e renderle protagoniste dando voce alle loro aspirazioni e obiettivi.\n\nSara Iacozza - Data literacy e storytelling, BI analyst, UX research. “Ho un dottorato di ricerca in neuroscienze cognitive e amo i dati perchè mi danno l’opportunità di capire meglio il comportamento delle persone. Il mio obiettivo è offrire informazioni che siano basate su evidenza e non opinioni. Ho diversi anni di esperienza nel disegnare e portare a termine progetti di ricerca volti a rispondere a esigenze di varia natura. Dal mio punto di vista, le migliori risposte arrivano attraverso un processo che si chiama ​participatory design​, attraverso il quale supporto i diversi stakeholders interessati in un progetto a definire un problema comune. #RLadiesItaly è la realizzazione di un sogno che vede donne e minoranze supportarsi vicendevolmente in un campo che è ancora fortemente maschile é il desiderio di dare senso a quelle ​quote rosa​ tanto, ingiustamente, criticate nel nostro paese.”\n\nParvaneh Shafiei - Senior Data scientist con +6 anni di esperienza nell'applicazione della Data science e del Machine Learning in vari settori. Lei ha studiato informatica al politecnico di milano. Ha trascorso la maggior parte della sua carriera in società di consulenza per aiutare vari clienti a lanciare e implementare progetti di Machine learning, attualmente è Project Leader in NTT data. È la fondatrice di RladiesMilan, un gruppo dedicato per dare visibilità alle ragazze che lavorano nel settore della tecnologia e della Data science e far crescere più diversità\n\nDiletta Milana - Data Scientist in ENI\n\n-----------------\n\nL'evento è organizzato in partnership con R-Ladies Italy un progetto congiunto tra R-Ladies Bari e R-Ladies Milan, due chapter locali di R-Ladies global. Il loro obiettivo è supportare le donne e le minoranze di genere sottorappresentate nella data science e data analytics. Le donne sono le assolute protagoniste dei loro webinar e vogliono dar loro voce e spazio per raccontare le loro esperienze, ambizioni e obiettivi. Vogliono creare un luogo metafisico di supporto e condivisione. Si concentriano in particolare sul mostrare alle persone che, anche in campi non tradizionalmente legati al mondo della data science, forti competenze sull’analisi dei dati e una mentalità data-driven possono essere una risorsa inestimabile.",
+    "status": "PAST",
+    "dateTime": "2021-01-21T18:30:00+01:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-bari/events/275628367/",
+    "featuredEventPhoto": {
+      "id": "494246959",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/9/4/f/highres_494246959.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/9/4/f/600_494246959.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/9/4/f/thumb_494246959.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 11,
+      "waitlistCount": 0,
+      "totalCount": 11
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bari",
+      "urlname": "rladies-bari"
+    },
+    "createdTime": "2021-01-08T11:41:03-05:00"
   },
   {
     "id": "285121529",
@@ -1032,7 +1053,8 @@
     "group": {
       "name": "R-Ladies Bari",
       "urlname": "rladies-bari"
-    }
+    },
+    "createdTime": "2022-04-07T04:02:31-04:00"
   },
   {
     "id": "284647750",
@@ -1050,9 +1072,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/3/4/6/thumb_502713606.jpeg"
     },
     "rsvps": {
-      "yesCount": 15,
+      "yesCount": 14,
       "waitlistCount": 0,
-      "totalCount": 15
+      "totalCount": 14
     },
     "venues": [
       {
@@ -1071,6 +1093,7 @@
     "group": {
       "name": "R-Ladies Bari",
       "urlname": "rladies-bari"
-    }
+    },
+    "createdTime": "2022-03-16T04:16:48-04:00"
   }
 ]

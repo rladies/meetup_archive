@@ -9,6 +9,40 @@
     "eventUrl": "https://www.meetup.com/rladies-jakarta/events/266723110/",
     "featuredEventPhoto": {},
     "rsvps": {
+      "yesCount": 11,
+      "waitlistCount": 0,
+      "totalCount": 11
+    },
+    "venues": [
+      {
+        "id": "26697056",
+        "name": "Mozilla Community Space Jakarta",
+        "address": "Jl. Kuningan Bar. 1 No.26, RT.6/RW.1",
+        "city": "Kota Jakarta Selatan",
+        "state": "Da",
+        "country": "id",
+        "lat": -6.2351,
+        "lon": 106.8209,
+        "postalCode": "12710",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Jakarta",
+      "urlname": "rladies-jakarta"
+    },
+    "createdTime": "2019-11-25T03:31:41-05:00"
+  },
+  {
+    "id": "265894398",
+    "title": "R-Ladies Jakarta 4th Meetup: Visualization",
+    "description": "We're having out fourth meetup, real soon!\n\nSaturday, 26th October 2019 from 14.00-17.00 WIB, at Mozilla Community Space Jakarta, Jl. Kuningan Bar. 1 No.26, Mampang Prapatan, DKI Jakarta 12710\n\nThis time we will be venturing into visualization with R using base R and ggplot2. So get ready to create pretty plots!\n\nDon't forget to bring your own laptop and have R software already installed in your computers, and do email us to let us know if this is your first time using R so we can have a short introductory session.\n\nThis meetup is a free entrance, thanks to the support of Komunitas Mozilla Indonesia for providing the place & WCS-Indonesia for providing us some snacks. But you are more than welcomed to bring some snacks and drinks to share with the other attendees!\n\nTo make this mini workshop comfortable for all attendees, we're limiting the number of attendance up to 25 people, so hurry book your spot!\n\nE-mail us at \"jakarta@rladies.org\" or tweet to \"@rladiesjakarta\" (https://twitter.com/RLadiesJakarta) for any inquiries regarding this event!",
+    "status": "PAST",
+    "dateTime": "2019-10-26T14:00:00+07:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-jakarta/events/265894398/",
+    "featuredEventPhoto": {},
+    "rsvps": {
       "yesCount": 16,
       "waitlistCount": 0,
       "totalCount": 16
@@ -30,40 +64,8 @@
     "group": {
       "name": "R-Ladies Jakarta",
       "urlname": "rladies-jakarta"
-    }
-  },
-  {
-    "id": "265894398",
-    "title": "R-Ladies Jakarta 4th Meetup: Visualization",
-    "description": "We're having out fourth meetup, real soon!\n\nSaturday, 26th October 2019 from 14.00-17.00 WIB, at Mozilla Community Space Jakarta, Jl. Kuningan Bar. 1 No.26, Mampang Prapatan, DKI Jakarta 12710\n\nThis time we will be venturing into visualization with R using base R and ggplot2. So get ready to create pretty plots!\n\nDon't forget to bring your own laptop and have R software already installed in your computers, and do email us to let us know if this is your first time using R so we can have a short introductory session.\n\nThis meetup is a free entrance, thanks to the support of Komunitas Mozilla Indonesia for providing the place & WCS-Indonesia for providing us some snacks. But you are more than welcomed to bring some snacks and drinks to share with the other attendees!\n\nTo make this mini workshop comfortable for all attendees, we're limiting the number of attendance up to 25 people, so hurry book your spot!\n\nE-mail us at \"jakarta@rladies.org\" or tweet to \"@rladiesjakarta\" (https://twitter.com/RLadiesJakarta) for any inquiries regarding this event!",
-    "status": "PAST",
-    "dateTime": "2019-10-26T14:00:00+07:00",
-    "duration": "PT3H",
-    "eventUrl": "https://www.meetup.com/rladies-jakarta/events/265894398/",
-    "featuredEventPhoto": {},
-    "rsvps": {
-      "yesCount": 24,
-      "waitlistCount": 0,
-      "totalCount": 24
     },
-    "venues": [
-      {
-        "id": "26697056",
-        "name": "Mozilla Community Space Jakarta",
-        "address": "Jl. Kuningan Bar. 1 No.26, RT.6/RW.1",
-        "city": "Kota Jakarta Selatan",
-        "state": "Da",
-        "country": "id",
-        "lat": -6.2351,
-        "lon": 106.8209,
-        "postalCode": "12710",
-        "venueType": ""
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Jakarta",
-      "urlname": "rladies-jakarta"
-    }
+    "createdTime": "2019-10-23T04:30:57-04:00"
   },
   {
     "id": "265000093",
@@ -81,9 +83,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/7/8/9/thumb_485031081.jpeg"
     },
     "rsvps": {
-      "yesCount": 18,
+      "yesCount": 11,
       "waitlistCount": 0,
-      "totalCount": 18
+      "totalCount": 11
     },
     "venues": [
       {
@@ -102,7 +104,8 @@
     "group": {
       "name": "R-Ladies Jakarta",
       "urlname": "rladies-jakarta"
-    }
+    },
+    "createdTime": "2019-09-19T17:16:06-04:00"
   },
   {
     "id": "264152015",
@@ -120,9 +123,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/2/2/d/thumb_484161037.jpeg"
     },
     "rsvps": {
-      "yesCount": 31,
-      "waitlistCount": 5,
-      "totalCount": 31
+      "yesCount": 16,
+      "waitlistCount": 4,
+      "totalCount": 16
     },
     "venues": [
       {
@@ -141,7 +144,8 @@
     "group": {
       "name": "R-Ladies Jakarta",
       "urlname": "rladies-jakarta"
-    }
+    },
+    "createdTime": "2019-08-20T02:13:20-04:00"
   },
   {
     "id": "263334866",
@@ -159,9 +163,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/7/0/7/thumb_483318183.jpeg"
     },
     "rsvps": {
-      "yesCount": 50,
-      "waitlistCount": 4,
-      "totalCount": 50
+      "yesCount": 31,
+      "waitlistCount": 3,
+      "totalCount": 31
     },
     "venues": [
       {
@@ -180,7 +184,8 @@
     "group": {
       "name": "R-Ladies Jakarta",
       "urlname": "rladies-jakarta"
-    }
+    },
+    "createdTime": "2019-07-21T10:25:45-04:00"
   },
   {
     "id": "274133773",
@@ -219,7 +224,8 @@
     "group": {
       "name": "R-Ladies Jakarta",
       "urlname": "rladies-jakarta"
-    }
+    },
+    "createdTime": "2020-10-23T19:31:24-04:00"
   },
   {
     "id": "273113017",
@@ -237,9 +243,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/8/f/7/thumb_492235543.jpeg"
     },
     "rsvps": {
-      "yesCount": 31,
+      "yesCount": 20,
       "waitlistCount": 0,
-      "totalCount": 31
+      "totalCount": 20
     },
     "venues": [
       {
@@ -258,7 +264,8 @@
     "group": {
       "name": "R-Ladies Jakarta",
       "urlname": "rladies-jakarta"
-    }
+    },
+    "createdTime": "2020-09-08T09:30:12-04:00"
   },
   {
     "id": "272729301",
@@ -297,7 +304,8 @@
     "group": {
       "name": "R-Ladies Jakarta",
       "urlname": "rladies-jakarta"
-    }
+    },
+    "createdTime": "2020-08-21T16:58:07-04:00"
   },
   {
     "id": "272500886",
@@ -315,9 +323,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/a/c/3/thumb_491766851.jpeg"
     },
     "rsvps": {
-      "yesCount": 22,
+      "yesCount": 17,
       "waitlistCount": 0,
-      "totalCount": 22
+      "totalCount": 17
     },
     "venues": [
       {
@@ -336,7 +344,8 @@
     "group": {
       "name": "R-Ladies Jakarta",
       "urlname": "rladies-jakarta"
-    }
+    },
+    "createdTime": "2020-08-11T02:41:25-04:00"
   },
   {
     "id": "271893790",
@@ -354,9 +363,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/7/b/5/thumb_491318837.jpeg"
     },
     "rsvps": {
-      "yesCount": 62,
+      "yesCount": 52,
       "waitlistCount": 0,
-      "totalCount": 62
+      "totalCount": 52
     },
     "venues": [
       {
@@ -375,7 +384,8 @@
     "group": {
       "name": "R-Ladies Jakarta",
       "urlname": "rladies-jakarta"
-    }
+    },
+    "createdTime": "2020-07-13T03:10:38-04:00"
   },
   {
     "id": "268768929",
@@ -387,9 +397,9 @@
     "eventUrl": "https://www.meetup.com/rladies-jakarta/events/268768929/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 25,
-      "waitlistCount": 13,
-      "totalCount": 25
+      "yesCount": 18,
+      "waitlistCount": 12,
+      "totalCount": 18
     },
     "venues": [
       {
@@ -408,7 +418,8 @@
     "group": {
       "name": "R-Ladies Jakarta",
       "urlname": "rladies-jakarta"
-    }
+    },
+    "createdTime": "2020-02-17T01:56:42-05:00"
   },
   {
     "id": "268287056",
@@ -420,9 +431,9 @@
     "eventUrl": "https://www.meetup.com/rladies-jakarta/events/268287056/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 17,
+      "yesCount": 13,
       "waitlistCount": 0,
-      "totalCount": 17
+      "totalCount": 13
     },
     "venues": [
       {
@@ -441,7 +452,8 @@
     "group": {
       "name": "R-Ladies Jakarta",
       "urlname": "rladies-jakarta"
-    }
+    },
+    "createdTime": "2020-01-28T23:47:21-05:00"
   },
   {
     "id": "277296829",
@@ -480,7 +492,8 @@
     "group": {
       "name": "R-Ladies Jakarta",
       "urlname": "rladies-jakarta"
-    }
+    },
+    "createdTime": "2021-04-01T02:27:40-04:00"
   },
   {
     "id": "295646982",
@@ -519,6 +532,7 @@
     "group": {
       "name": "R-Ladies Jakarta",
       "urlname": "rladies-jakarta"
-    }
+    },
+    "createdTime": "2023-08-23T22:32:42-04:00"
   }
 ]

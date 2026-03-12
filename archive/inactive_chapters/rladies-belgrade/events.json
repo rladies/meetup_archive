@@ -9,9 +9,9 @@
     "eventUrl": "https://www.meetup.com/rladies-belgrade/events/245882301/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 58,
+      "yesCount": 47,
       "waitlistCount": 0,
-      "totalCount": 58
+      "totalCount": 47
     },
     "venues": [
       {
@@ -30,7 +30,8 @@
     "group": {
       "name": "R-Ladies Belgrade",
       "urlname": "rladies-belgrade"
-    }
+    },
+    "createdTime": "2017-12-13T08:38:32-05:00"
   },
   {
     "id": "256804559",
@@ -48,9 +49,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/9/7/thumb_476702711.jpeg"
     },
     "rsvps": {
-      "yesCount": 15,
+      "yesCount": 13,
       "waitlistCount": 0,
-      "totalCount": 15
+      "totalCount": 13
     },
     "venues": [
       {
@@ -69,7 +70,8 @@
     "group": {
       "name": "R-Ladies Belgrade",
       "urlname": "rladies-belgrade"
-    }
+    },
+    "createdTime": "2018-11-29T06:53:17-05:00"
   },
   {
     "id": "255293630",
@@ -102,7 +104,8 @@
     "group": {
       "name": "R-Ladies Belgrade",
       "urlname": "rladies-belgrade"
-    }
+    },
+    "createdTime": "2018-10-05T07:33:12-04:00"
   },
   {
     "id": "254474297",
@@ -120,9 +123,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/7/0/thumb_474481392.jpeg"
     },
     "rsvps": {
-      "yesCount": 22,
+      "yesCount": 19,
       "waitlistCount": 0,
-      "totalCount": 22
+      "totalCount": 19
     },
     "venues": [
       {
@@ -141,7 +144,8 @@
     "group": {
       "name": "R-Ladies Belgrade",
       "urlname": "rladies-belgrade"
-    }
+    },
+    "createdTime": "2018-09-07T07:07:20-04:00"
   },
   {
     "id": "254348356",
@@ -174,7 +178,8 @@
     "group": {
       "name": "R-Ladies Belgrade",
       "urlname": "rladies-belgrade"
-    }
+    },
+    "createdTime": "2018-09-03T09:08:47-04:00"
   },
   {
     "id": "254139873",
@@ -184,6 +189,40 @@
     "dateTime": "2018-08-29T18:00:00+02:00",
     "duration": "PT2H",
     "eventUrl": "https://www.meetup.com/rladies-belgrade/events/254139873/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 7,
+      "waitlistCount": 0,
+      "totalCount": 7
+    },
+    "venues": [
+      {
+        "id": "25547484",
+        "name": "Startit Centar",
+        "address": "Savska 5, Beograd 11000",
+        "city": "Belgrade",
+        "state": "",
+        "country": "rs",
+        "lat": 44.807,
+        "lon": 20.4555,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Belgrade",
+      "urlname": "rladies-belgrade"
+    },
+    "createdTime": "2018-08-27T06:52:34-04:00"
+  },
+  {
+    "id": "253945653",
+    "title": "R for Data Science - Book Club #2",
+    "description": "Drage R žene,\n\nI ove srede se okupljamo i, imajući u vidu neki kolektivni nivo znanja - prolazimo kroz Base R. Ovo jeste uglavnom za početnike, ali su svi dobrodošli da obnove znanje.\n\nDragana će biti tu da vodi meetup, a ja kao ispomoć ;)\n\nKo još nije uključen u slack, neka mi piše.\n\nPozdrav za sve!",
+    "status": "PAST",
+    "dateTime": "2018-08-22T18:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-belgrade/events/253945653/",
     "featuredEventPhoto": {},
     "rsvps": {
       "yesCount": 8,
@@ -207,40 +246,8 @@
     "group": {
       "name": "R-Ladies Belgrade",
       "urlname": "rladies-belgrade"
-    }
-  },
-  {
-    "id": "253945653",
-    "title": "R for Data Science - Book Club #2",
-    "description": "Drage R žene,\n\nI ove srede se okupljamo i, imajući u vidu neki kolektivni nivo znanja - prolazimo kroz Base R. Ovo jeste uglavnom za početnike, ali su svi dobrodošli da obnove znanje.\n\nDragana će biti tu da vodi meetup, a ja kao ispomoć ;)\n\nKo još nije uključen u slack, neka mi piše.\n\nPozdrav za sve!",
-    "status": "PAST",
-    "dateTime": "2018-08-22T18:00:00+02:00",
-    "duration": "PT2H",
-    "eventUrl": "https://www.meetup.com/rladies-belgrade/events/253945653/",
-    "featuredEventPhoto": {},
-    "rsvps": {
-      "yesCount": 9,
-      "waitlistCount": 0,
-      "totalCount": 9
     },
-    "venues": [
-      {
-        "id": "25547484",
-        "name": "Startit Centar",
-        "address": "Savska 5, Beograd 11000",
-        "city": "Belgrade",
-        "state": "",
-        "country": "rs",
-        "lat": 44.807,
-        "lon": 20.4555,
-        "postalCode": "",
-        "venueType": ""
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Belgrade",
-      "urlname": "rladies-belgrade"
-    }
+    "createdTime": "2018-08-20T09:05:55-04:00"
   },
   {
     "id": "253550006",
@@ -252,9 +259,9 @@
     "eventUrl": "https://www.meetup.com/rladies-belgrade/events/253550006/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 14,
+      "yesCount": 11,
       "waitlistCount": 0,
-      "totalCount": 14
+      "totalCount": 11
     },
     "venues": [
       {
@@ -273,7 +280,8 @@
     "group": {
       "name": "R-Ladies Belgrade",
       "urlname": "rladies-belgrade"
-    }
+    },
+    "createdTime": "2018-08-06T12:13:50-04:00"
   },
   {
     "id": "253294437",
@@ -291,9 +299,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/8/b/thumb_473341163.jpeg"
     },
     "rsvps": {
-      "yesCount": 19,
+      "yesCount": 17,
       "waitlistCount": 0,
-      "totalCount": 19
+      "totalCount": 17
     },
     "venues": [
       {
@@ -312,7 +320,8 @@
     "group": {
       "name": "R-Ladies Belgrade",
       "urlname": "rladies-belgrade"
-    }
+    },
+    "createdTime": "2018-07-30T03:13:29-04:00"
   },
   {
     "id": "251750254",
@@ -330,9 +339,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/f/e/9/thumb_472028169.jpeg"
     },
     "rsvps": {
-      "yesCount": 25,
+      "yesCount": 24,
       "waitlistCount": 0,
-      "totalCount": 25
+      "totalCount": 24
     },
     "venues": [
       {
@@ -351,7 +360,8 @@
     "group": {
       "name": "R-Ladies Belgrade",
       "urlname": "rladies-belgrade"
-    }
+    },
+    "createdTime": "2018-06-14T06:35:03-04:00"
   },
   {
     "id": "248540354",
@@ -390,7 +400,8 @@
     "group": {
       "name": "R-Ladies Belgrade",
       "urlname": "rladies-belgrade"
-    }
+    },
+    "createdTime": "2018-03-08T11:11:10-05:00"
   },
   {
     "id": "247449551",
@@ -408,9 +419,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/a/3/0/thumb_468138992.jpeg"
     },
     "rsvps": {
-      "yesCount": 47,
+      "yesCount": 39,
       "waitlistCount": 0,
-      "totalCount": 47
+      "totalCount": 39
     },
     "venues": [
       {
@@ -429,7 +440,8 @@
     "group": {
       "name": "R-Ladies Belgrade",
       "urlname": "rladies-belgrade"
-    }
+    },
+    "createdTime": "2018-02-03T07:10:35-05:00"
   },
   {
     "id": "267377404",
@@ -468,7 +480,8 @@
     "group": {
       "name": "R-Ladies Belgrade",
       "urlname": "rladies-belgrade"
-    }
+    },
+    "createdTime": "2019-12-23T10:44:36-05:00"
   },
   {
     "id": "266493093",
@@ -480,9 +493,9 @@
     "eventUrl": "https://www.meetup.com/rladies-belgrade/events/266493093/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 16,
+      "yesCount": 15,
       "waitlistCount": 0,
-      "totalCount": 16
+      "totalCount": 15
     },
     "venues": [
       {
@@ -501,7 +514,8 @@
     "group": {
       "name": "R-Ladies Belgrade",
       "urlname": "rladies-belgrade"
-    }
+    },
+    "createdTime": "2019-11-15T11:52:38-05:00"
   },
   {
     "id": "264427122",
@@ -519,9 +533,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/e/b/thumb_484441515.jpeg"
     },
     "rsvps": {
-      "yesCount": 27,
+      "yesCount": 24,
       "waitlistCount": 0,
-      "totalCount": 27
+      "totalCount": 24
     },
     "venues": [
       {
@@ -540,7 +554,8 @@
     "group": {
       "name": "R-Ladies Belgrade",
       "urlname": "rladies-belgrade"
-    }
+    },
+    "createdTime": "2019-08-30T09:36:40-04:00"
   },
   {
     "id": "260599902",
@@ -558,9 +573,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/d/d/3/thumb_480379923.jpeg"
     },
     "rsvps": {
-      "yesCount": 10,
+      "yesCount": 8,
       "waitlistCount": 0,
-      "totalCount": 10
+      "totalCount": 8
     },
     "venues": [
       {
@@ -579,7 +594,8 @@
     "group": {
       "name": "R-Ladies Belgrade",
       "urlname": "rladies-belgrade"
-    }
+    },
+    "createdTime": "2019-04-13T14:43:49-04:00"
   },
   {
     "id": "260243217",
@@ -597,15 +613,16 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/b/3/2/thumb_480027442.jpeg"
     },
     "rsvps": {
-      "yesCount": 13,
+      "yesCount": 12,
       "waitlistCount": 0,
-      "totalCount": 13
+      "totalCount": 12
     },
     "venues": [],
     "group": {
       "name": "R-Ladies Belgrade",
       "urlname": "rladies-belgrade"
-    }
+    },
+    "createdTime": "2019-04-01T06:46:27-04:00"
   },
   {
     "id": "259058164",
@@ -623,9 +640,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/b/4/0/thumb_478783840.jpeg"
     },
     "rsvps": {
-      "yesCount": 18,
+      "yesCount": 16,
       "waitlistCount": 0,
-      "totalCount": 18
+      "totalCount": 16
     },
     "venues": [
       {
@@ -644,7 +661,8 @@
     "group": {
       "name": "R-Ladies Belgrade",
       "urlname": "rladies-belgrade"
-    }
+    },
+    "createdTime": "2019-02-18T03:10:29-05:00"
   },
   {
     "id": "274863939",
@@ -683,7 +701,8 @@
     "group": {
       "name": "R-Ladies Belgrade",
       "urlname": "rladies-belgrade"
-    }
+    },
+    "createdTime": "2020-11-28T09:03:20-05:00"
   },
   {
     "id": "271288045",
@@ -701,9 +720,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/1/c/1/thumb_490837313.jpeg"
     },
     "rsvps": {
-      "yesCount": 12,
+      "yesCount": 11,
       "waitlistCount": 0,
-      "totalCount": 12
+      "totalCount": 11
     },
     "venues": [
       {
@@ -722,7 +741,8 @@
     "group": {
       "name": "R-Ladies Belgrade",
       "urlname": "rladies-belgrade"
-    }
+    },
+    "createdTime": "2020-06-14T07:27:50-04:00"
   },
   {
     "id": "268923088",
@@ -740,9 +760,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/b/6/6/thumb_489247014.jpeg"
     },
     "rsvps": {
-      "yesCount": 46,
+      "yesCount": 43,
       "waitlistCount": 0,
-      "totalCount": 46
+      "totalCount": 43
     },
     "venues": [
       {
@@ -761,7 +781,8 @@
     "group": {
       "name": "R-Ladies Belgrade",
       "urlname": "rladies-belgrade"
-    }
+    },
+    "createdTime": "2020-02-23T04:46:01-05:00"
   },
   {
     "id": "268140900",
@@ -779,9 +800,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/9/d/e/thumb_488391678.jpeg"
     },
     "rsvps": {
-      "yesCount": 41,
+      "yesCount": 39,
       "waitlistCount": 0,
-      "totalCount": 41
+      "totalCount": 39
     },
     "venues": [
       {
@@ -800,7 +821,8 @@
     "group": {
       "name": "R-Ladies Belgrade",
       "urlname": "rladies-belgrade"
-    }
+    },
+    "createdTime": "2020-01-23T09:30:55-05:00"
   },
   {
     "id": "278080489",
@@ -839,7 +861,8 @@
     "group": {
       "name": "R-Ladies Belgrade",
       "urlname": "rladies-belgrade"
-    }
+    },
+    "createdTime": "2021-05-09T12:26:06-04:00"
   },
   {
     "id": "277488521",
@@ -878,7 +901,8 @@
     "group": {
       "name": "R-Ladies Belgrade",
       "urlname": "rladies-belgrade"
-    }
+    },
+    "createdTime": "2021-04-10T12:59:18-04:00"
   },
   {
     "id": "275345907",
@@ -896,9 +920,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/c/8/7/thumb_494067783.jpeg"
     },
     "rsvps": {
-      "yesCount": 16,
+      "yesCount": 15,
       "waitlistCount": 0,
-      "totalCount": 16
+      "totalCount": 15
     },
     "venues": [
       {
@@ -917,7 +941,8 @@
     "group": {
       "name": "R-Ladies Belgrade",
       "urlname": "rladies-belgrade"
-    }
+    },
+    "createdTime": "2020-12-24T07:01:49-05:00"
   },
   {
     "id": "286330350",
@@ -956,7 +981,8 @@
     "group": {
       "name": "R-Ladies Belgrade",
       "urlname": "rladies-belgrade"
-    }
+    },
+    "createdTime": "2022-06-03T07:16:34-04:00"
   },
   {
     "id": "285986296",
@@ -995,7 +1021,8 @@
     "group": {
       "name": "R-Ladies Belgrade",
       "urlname": "rladies-belgrade"
-    }
+    },
+    "createdTime": "2022-05-18T10:01:33-04:00"
   },
   {
     "id": "284795730",
@@ -1034,7 +1061,8 @@
     "group": {
       "name": "R-Ladies Belgrade",
       "urlname": "rladies-belgrade"
-    }
+    },
+    "createdTime": "2022-03-23T03:46:10-04:00"
   },
   {
     "id": "292488556",
@@ -1073,6 +1101,7 @@
     "group": {
       "name": "R-Ladies Belgrade",
       "urlname": "rladies-belgrade"
-    }
+    },
+    "createdTime": "2023-03-26T10:29:17-04:00"
   }
 ]

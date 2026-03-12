@@ -9,9 +9,9 @@
     "eventUrl": "https://www.meetup.com/rladies-ldnont/events/244885257/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 18,
+      "yesCount": 13,
       "waitlistCount": 0,
-      "totalCount": 18
+      "totalCount": 13
     },
     "venues": [
       {
@@ -30,7 +30,8 @@
     "group": {
       "name": "R-Ladies London, Ontario",
       "urlname": "rladies-ldnont"
-    }
+    },
+    "createdTime": "2017-11-06T20:41:23-05:00"
   },
   {
     "id": "244314493",
@@ -42,9 +43,9 @@
     "eventUrl": "https://www.meetup.com/rladies-ldnont/events/244314493/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 22,
+      "yesCount": 19,
       "waitlistCount": 0,
-      "totalCount": 22
+      "totalCount": 19
     },
     "venues": [
       {
@@ -63,7 +64,8 @@
     "group": {
       "name": "R-Ladies London, Ontario",
       "urlname": "rladies-ldnont"
-    }
+    },
+    "createdTime": "2017-10-18T12:04:57-04:00"
   },
   {
     "id": "243331308",
@@ -75,9 +77,9 @@
     "eventUrl": "https://www.meetup.com/rladies-ldnont/events/243331308/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 17,
+      "yesCount": 10,
       "waitlistCount": 0,
-      "totalCount": 17
+      "totalCount": 10
     },
     "venues": [
       {
@@ -96,7 +98,8 @@
     "group": {
       "name": "R-Ladies London, Ontario",
       "urlname": "rladies-ldnont"
-    }
+    },
+    "createdTime": "2017-09-13T10:55:17-04:00"
   },
   {
     "id": "240976289",
@@ -108,9 +111,9 @@
     "eventUrl": "https://www.meetup.com/rladies-ldnont/events/240976289/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 8,
+      "yesCount": 7,
       "waitlistCount": 0,
-      "totalCount": 8
+      "totalCount": 7
     },
     "venues": [
       {
@@ -129,7 +132,8 @@
     "group": {
       "name": "R-Ladies London, Ontario",
       "urlname": "rladies-ldnont"
-    }
+    },
+    "createdTime": "2017-06-21T19:23:33-04:00"
   },
   {
     "id": "240935204",
@@ -162,7 +166,8 @@
     "group": {
       "name": "R-Ladies London, Ontario",
       "urlname": "rladies-ldnont"
-    }
+    },
+    "createdTime": "2017-06-20T09:52:42-04:00"
   },
   {
     "id": "240786093",
@@ -174,9 +179,9 @@
     "eventUrl": "https://www.meetup.com/rladies-ldnont/events/240786093/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 8,
+      "yesCount": 7,
       "waitlistCount": 0,
-      "totalCount": 8
+      "totalCount": 7
     },
     "venues": [
       {
@@ -195,7 +200,8 @@
     "group": {
       "name": "R-Ladies London, Ontario",
       "urlname": "rladies-ldnont"
-    }
+    },
+    "createdTime": "2017-06-14T10:41:27-04:00"
   },
   {
     "id": "239880563",
@@ -207,39 +213,6 @@
     "eventUrl": "https://www.meetup.com/rladies-ldnont/events/239880563/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 10,
-      "waitlistCount": 0,
-      "totalCount": 10
-    },
-    "venues": [
-      {
-        "id": "25151593",
-        "name": "UnLondon",
-        "address": "211 King St",
-        "city": "London",
-        "state": "ON",
-        "country": "ca",
-        "lat": 42.9829,
-        "lon": -81.2472,
-        "postalCode": "",
-        "venueType": ""
-      }
-    ],
-    "group": {
-      "name": "R-Ladies London, Ontario",
-      "urlname": "rladies-ldnont"
-    }
-  },
-  {
-    "id": "239330881",
-    "title": "Intro to R & Github",
-    "description": "Hello again!\n\nWe are incredibly excited to now be able to host our meet ups at UnLondon's (http://www.unlondon.ca/) community building downtown, which provides us a more accessible space beyond the walls of the university, as well as access to their awesome community. Our next meet up will be there on May 1st from 3:30 to 5:30 pm.\n\nWe have two topics to present to you this time, led by two awesomewomen:\n\n1) Intro to R: Rachael Smyth will be walking us through some basic introductory material in R and best practices of writing your R scripts.\n\n2) Intro to version control with GitHub: Pauline Barmby will then demonstrate the ins and outs of version control using GitHub (https://github.com/), which can be an incredibly useful way of keeping track of changes you make to your scripts (or other documents).\n\nWe'll head out for beers somewhere nearby after we've wrapped up (potentially Milo's? TBD!).\n\nPlease RSVP if you plan on attending so we have an idea of how many to expect.\n\nSee you all soon! Feel free to post on the discussion board if you have any questions!",
-    "status": "PAST",
-    "dateTime": "2017-05-01T15:30:00-04:00",
-    "duration": "PT2H",
-    "eventUrl": "https://www.meetup.com/rladies-ldnont/events/239330881/",
-    "featuredEventPhoto": {},
-    "rsvps": {
       "yesCount": 8,
       "waitlistCount": 0,
       "totalCount": 8
@@ -261,7 +234,42 @@
     "group": {
       "name": "R-Ladies London, Ontario",
       "urlname": "rladies-ldnont"
-    }
+    },
+    "createdTime": "2017-05-10T13:18:38-04:00"
+  },
+  {
+    "id": "239330881",
+    "title": "Intro to R & Github",
+    "description": "Hello again!\n\nWe are incredibly excited to now be able to host our meet ups at UnLondon's (http://www.unlondon.ca/) community building downtown, which provides us a more accessible space beyond the walls of the university, as well as access to their awesome community. Our next meet up will be there on May 1st from 3:30 to 5:30 pm.\n\nWe have two topics to present to you this time, led by two awesomewomen:\n\n1) Intro to R: Rachael Smyth will be walking us through some basic introductory material in R and best practices of writing your R scripts.\n\n2) Intro to version control with GitHub: Pauline Barmby will then demonstrate the ins and outs of version control using GitHub (https://github.com/), which can be an incredibly useful way of keeping track of changes you make to your scripts (or other documents).\n\nWe'll head out for beers somewhere nearby after we've wrapped up (potentially Milo's? TBD!).\n\nPlease RSVP if you plan on attending so we have an idea of how many to expect.\n\nSee you all soon! Feel free to post on the discussion board if you have any questions!",
+    "status": "PAST",
+    "dateTime": "2017-05-01T15:30:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-ldnont/events/239330881/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 7,
+      "waitlistCount": 0,
+      "totalCount": 7
+    },
+    "venues": [
+      {
+        "id": "25151593",
+        "name": "UnLondon",
+        "address": "211 King St",
+        "city": "London",
+        "state": "ON",
+        "country": "ca",
+        "lat": 42.9829,
+        "lon": -81.2472,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London, Ontario",
+      "urlname": "rladies-ldnont"
+    },
+    "createdTime": "2017-04-19T13:16:55-04:00"
   },
   {
     "id": "238674300",
@@ -273,9 +281,9 @@
     "eventUrl": "https://www.meetup.com/rladies-ldnont/events/238674300/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 16,
+      "yesCount": 14,
       "waitlistCount": 0,
-      "totalCount": 16
+      "totalCount": 14
     },
     "venues": [
       {
@@ -294,7 +302,8 @@
     "group": {
       "name": "R-Ladies London, Ontario",
       "urlname": "rladies-ldnont"
-    }
+    },
+    "createdTime": "2017-03-24T10:33:48-04:00"
   },
   {
     "id": "237906159",
@@ -327,7 +336,8 @@
     "group": {
       "name": "R-Ladies London, Ontario",
       "urlname": "rladies-ldnont"
-    }
+    },
+    "createdTime": "2017-02-22T12:19:19-05:00"
   },
   {
     "id": "237046275",
@@ -339,9 +349,9 @@
     "eventUrl": "https://www.meetup.com/rladies-ldnont/events/237046275/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 6,
+      "yesCount": 4,
       "waitlistCount": 0,
-      "totalCount": 6
+      "totalCount": 4
     },
     "venues": [
       {
@@ -360,7 +370,8 @@
     "group": {
       "name": "R-Ladies London, Ontario",
       "urlname": "rladies-ldnont"
-    }
+    },
+    "createdTime": "2017-01-19T11:26:09-05:00"
   },
   {
     "id": "256182225",
@@ -399,7 +410,8 @@
     "group": {
       "name": "R-Ladies London, Ontario",
       "urlname": "rladies-ldnont"
-    }
+    },
+    "createdTime": "2018-11-06T14:18:22-05:00"
   },
   {
     "id": "255404190",
@@ -417,9 +429,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/d/b/9/thumb_475308569.jpeg"
     },
     "rsvps": {
-      "yesCount": 22,
+      "yesCount": 18,
       "waitlistCount": 0,
-      "totalCount": 22
+      "totalCount": 18
     },
     "venues": [
       {
@@ -438,7 +450,8 @@
     "group": {
       "name": "R-Ladies London, Ontario",
       "urlname": "rladies-ldnont"
-    }
+    },
+    "createdTime": "2018-10-09T18:14:47-04:00"
   },
   {
     "id": "254367905",
@@ -456,9 +469,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/4/8/e/thumb_474309358.jpeg"
     },
     "rsvps": {
-      "yesCount": 39,
+      "yesCount": 32,
       "waitlistCount": 0,
-      "totalCount": 39
+      "totalCount": 32
     },
     "venues": [
       {
@@ -477,7 +490,8 @@
     "group": {
       "name": "R-Ladies London, Ontario",
       "urlname": "rladies-ldnont"
-    }
+    },
+    "createdTime": "2018-09-03T23:08:37-04:00"
   },
   {
     "id": "251491870",
@@ -494,6 +508,120 @@
       "standardUrl": "https://secure.meetupstatic.com/photos/event/6/1/e/c/600_471805068.jpeg",
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/1/e/c/thumb_471805068.jpeg"
     },
+    "rsvps": {
+      "yesCount": 8,
+      "waitlistCount": 0,
+      "totalCount": 8
+    },
+    "venues": [
+      {
+        "id": "19794792",
+        "name": "London Public Library",
+        "address": "251 Dundas St.",
+        "city": "London",
+        "state": "ON",
+        "country": "ca",
+        "lat": 42.9844,
+        "lon": -81.2462,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London, Ontario",
+      "urlname": "rladies-ldnont"
+    },
+    "createdTime": "2018-06-06T18:51:28-04:00"
+  },
+  {
+    "id": "250912832",
+    "title": "R in Industry",
+    "description": "Vicki Cocco will be presenting a whole new perspective for us - using R in industry! Vicki is the founder of 10in6 Inc, a London, Ontario based company that helps businesses improve their productivity and efficiency through data analysis. Vicki is also a long-time R-Ladies, #LdnOnt member, and we are thrilled to have her share her insights with our group!\n\nCome join us at this R-Ladies session if you...\n... want to start or keep learning about R for your own work/research\n... are curious about a career in industry/data science\n... are interested in meeting like-minded people interested in tech, coding, and learning!\n\nThis meet up will be Tuesday, May 29 at 5:00pm in the Wellington Room of the London Public Library (downtown branch). We will finish by 7:00 and head to Milo's as usual.\n\nSee you then!",
+    "status": "PAST",
+    "dateTime": "2018-05-29T17:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-ldnont/events/250912832/",
+    "featuredEventPhoto": {
+      "id": "471209532",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/3/5/c/highres_471209532.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/3/5/c/600_471209532.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/3/5/c/thumb_471209532.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 8,
+      "waitlistCount": 0,
+      "totalCount": 8
+    },
+    "venues": [
+      {
+        "id": "19794792",
+        "name": "London Public Library",
+        "address": "251 Dundas St.",
+        "city": "London",
+        "state": "ON",
+        "country": "ca",
+        "lat": 42.9844,
+        "lon": -81.2462,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London, Ontario",
+      "urlname": "rladies-ldnont"
+    },
+    "createdTime": "2018-05-18T12:29:34-04:00"
+  },
+  {
+    "id": "249155188",
+    "title": "Use R-Shiny to perform interactive data analysis and visualization!",
+    "description": "Join the R-Ladies group for another tutorial on April 3, led by Rhiannon Rose. Rhiannon will show us all about using R-Shiny.\n\nR-Shiny provides a handy interface for performing interactive data analysis and visualization, and automating analysis tasks that are boring and repetitive. Once you have the hang of the added layer of syntax, Shiny is easy and versatile - however, the learning curve can be steep in the beginning. This session covers Shiny basics: what your file setup should look like (UI, server and helper files), different types of reactive variables and when to use them, and basic debugging. Examples of simple and complex Shiny applications will be demonstrated. The \"shiny\" package is required to participate and code a basic Shiny application.",
+    "status": "PAST",
+    "dateTime": "2018-04-03T17:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-ldnont/events/249155188/",
+    "featuredEventPhoto": {
+      "id": "469620210",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/2/highres_469620210.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/2/600_469620210.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/2/thumb_469620210.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 9,
+      "waitlistCount": 0,
+      "totalCount": 9
+    },
+    "venues": [
+      {
+        "id": "19794792",
+        "name": "London Public Library",
+        "address": "251 Dundas St.",
+        "city": "London",
+        "state": "ON",
+        "country": "ca",
+        "lat": 42.9844,
+        "lon": -81.2462,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies London, Ontario",
+      "urlname": "rladies-ldnont"
+    },
+    "createdTime": "2018-03-27T10:27:29-04:00"
+  },
+  {
+    "id": "247877477",
+    "title": "Use RMarkdown to generate summary reports and journal articles!",
+    "description": "• What we'll do\nWe will go through a viable workflow for bringing your data into R, generating a summary report, and turning your findings into a full journal article.\n\nAt this meetup we will also touch on:\n- Reference management integration with R Studio\n- Integrating raw .R documents into multiple projects\n- Generating informal summary reports of data to share with colleagues, supervisors\n- Generating publication-ready manuscript drafts\n\n• What to bring\nLaptop with R and RStudio installed\n\n• Important to know\n- While all levels are welcome to attend, some knowledge of R and RStudio may be helpful",
+    "status": "PAST",
+    "dateTime": "2018-03-06T17:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-ldnont/events/247877477/",
+    "featuredEventPhoto": {},
     "rsvps": {
       "yesCount": 12,
       "waitlistCount": 0,
@@ -516,22 +644,23 @@
     "group": {
       "name": "R-Ladies London, Ontario",
       "urlname": "rladies-ldnont"
-    }
+    },
+    "createdTime": "2018-02-16T14:22:33-05:00"
   },
   {
-    "id": "250912832",
-    "title": "R in Industry",
-    "description": "Vicki Cocco will be presenting a whole new perspective for us - using R in industry! Vicki is the founder of 10in6 Inc, a London, Ontario based company that helps businesses improve their productivity and efficiency through data analysis. Vicki is also a long-time R-Ladies, #LdnOnt member, and we are thrilled to have her share her insights with our group!\n\nCome join us at this R-Ladies session if you...\n... want to start or keep learning about R for your own work/research\n... are curious about a career in industry/data science\n... are interested in meeting like-minded people interested in tech, coding, and learning!\n\nThis meet up will be Tuesday, May 29 at 5:00pm in the Wellington Room of the London Public Library (downtown branch). We will finish by 7:00 and head to Milo's as usual.\n\nSee you then!",
+    "id": "245104372",
+    "title": "Lightning Talks",
+    "description": "Come join the R-Ladies in our first ever Lightning Talks event. In this fun, informal setting, participants have approximately 3 to 5 minutes to speak about their research, work, or a puzzle they're trying to solve - anything goes! R-related presentations are a bonus but not necessary! Our goal is to 1) provide a space to learn about the others in our community and 2) exchange ideas about methodologies, interests, and the tools we all are using.\n\nIMPORTANT FOR PRESENTERS:\n\nIn addition to RSVPing on our MeetUp page, please ALSO complete this form (https://goo.gl/forms/LeoSGYLzdgrXthks2) by December 23 to help us with scheduling and to let us know important pieces of information.\n\nThis is not meant to be a high-stakes presentation event - just a chance to share our projects with each other and learn a little about the questions each of us are asking in our own work and the tools we're using to answer them. As usual, we will head out for food and drinks following the event (drinks and apps for presenters are on us!)\n\n-----------------------------------------------------------------------------------------------------------------------------------------------\n\nNB: Please note that, in keeping with the global R-Ladies mission, R-Ladies London, Ontario will prioritize female leadership and participation. All interested people (regardless of gender) are welcome to RSVP to our events. However, in the event that we receive a greater amount of presenter interest than we feel is manageable for the space/time, we will prioritize female presenters.",
     "status": "PAST",
-    "dateTime": "2018-05-29T17:00:00-04:00",
+    "dateTime": "2018-01-30T17:00:00-05:00",
     "duration": "PT2H",
-    "eventUrl": "https://www.meetup.com/rladies-ldnont/events/250912832/",
+    "eventUrl": "https://www.meetup.com/rladies-ldnont/events/245104372/",
     "featuredEventPhoto": {
-      "id": "471209532",
+      "id": "458602600",
       "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/3/5/c/highres_471209532.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/3/5/c/600_471209532.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/3/5/c/thumb_471209532.jpeg"
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/8/4/8/highres_458602600.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/8/4/8/600_458602600.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/8/4/8/thumb_458602600.jpeg"
     },
     "rsvps": {
       "yesCount": 10,
@@ -555,118 +684,8 @@
     "group": {
       "name": "R-Ladies London, Ontario",
       "urlname": "rladies-ldnont"
-    }
-  },
-  {
-    "id": "249155188",
-    "title": "Use R-Shiny to perform interactive data analysis and visualization!",
-    "description": "Join the R-Ladies group for another tutorial on April 3, led by Rhiannon Rose. Rhiannon will show us all about using R-Shiny.\n\nR-Shiny provides a handy interface for performing interactive data analysis and visualization, and automating analysis tasks that are boring and repetitive. Once you have the hang of the added layer of syntax, Shiny is easy and versatile - however, the learning curve can be steep in the beginning. This session covers Shiny basics: what your file setup should look like (UI, server and helper files), different types of reactive variables and when to use them, and basic debugging. Examples of simple and complex Shiny applications will be demonstrated. The \"shiny\" package is required to participate and code a basic Shiny application.",
-    "status": "PAST",
-    "dateTime": "2018-04-03T17:00:00-04:00",
-    "duration": "PT2H",
-    "eventUrl": "https://www.meetup.com/rladies-ldnont/events/249155188/",
-    "featuredEventPhoto": {
-      "id": "469620210",
-      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/2/highres_469620210.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/2/600_469620210.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/2/thumb_469620210.jpeg"
     },
-    "rsvps": {
-      "yesCount": 12,
-      "waitlistCount": 0,
-      "totalCount": 12
-    },
-    "venues": [
-      {
-        "id": "19794792",
-        "name": "London Public Library",
-        "address": "251 Dundas St.",
-        "city": "London",
-        "state": "ON",
-        "country": "ca",
-        "lat": 42.9844,
-        "lon": -81.2462,
-        "postalCode": "",
-        "venueType": ""
-      }
-    ],
-    "group": {
-      "name": "R-Ladies London, Ontario",
-      "urlname": "rladies-ldnont"
-    }
-  },
-  {
-    "id": "247877477",
-    "title": "Use RMarkdown to generate summary reports and journal articles!",
-    "description": "• What we'll do\nWe will go through a viable workflow for bringing your data into R, generating a summary report, and turning your findings into a full journal article.\n\nAt this meetup we will also touch on:\n- Reference management integration with R Studio\n- Integrating raw .R documents into multiple projects\n- Generating informal summary reports of data to share with colleagues, supervisors\n- Generating publication-ready manuscript drafts\n\n• What to bring\nLaptop with R and RStudio installed\n\n• Important to know\n- While all levels are welcome to attend, some knowledge of R and RStudio may be helpful",
-    "status": "PAST",
-    "dateTime": "2018-03-06T17:00:00-05:00",
-    "duration": "PT2H",
-    "eventUrl": "https://www.meetup.com/rladies-ldnont/events/247877477/",
-    "featuredEventPhoto": {},
-    "rsvps": {
-      "yesCount": 16,
-      "waitlistCount": 0,
-      "totalCount": 16
-    },
-    "venues": [
-      {
-        "id": "19794792",
-        "name": "London Public Library",
-        "address": "251 Dundas St.",
-        "city": "London",
-        "state": "ON",
-        "country": "ca",
-        "lat": 42.9844,
-        "lon": -81.2462,
-        "postalCode": "",
-        "venueType": ""
-      }
-    ],
-    "group": {
-      "name": "R-Ladies London, Ontario",
-      "urlname": "rladies-ldnont"
-    }
-  },
-  {
-    "id": "245104372",
-    "title": "Lightning Talks",
-    "description": "Come join the R-Ladies in our first ever Lightning Talks event. In this fun, informal setting, participants have approximately 3 to 5 minutes to speak about their research, work, or a puzzle they're trying to solve - anything goes! R-related presentations are a bonus but not necessary! Our goal is to 1) provide a space to learn about the others in our community and 2) exchange ideas about methodologies, interests, and the tools we all are using.\n\nIMPORTANT FOR PRESENTERS:\n\nIn addition to RSVPing on our MeetUp page, please ALSO complete this form (https://goo.gl/forms/LeoSGYLzdgrXthks2) by December 23 to help us with scheduling and to let us know important pieces of information.\n\nThis is not meant to be a high-stakes presentation event - just a chance to share our projects with each other and learn a little about the questions each of us are asking in our own work and the tools we're using to answer them. As usual, we will head out for food and drinks following the event (drinks and apps for presenters are on us!)\n\n-----------------------------------------------------------------------------------------------------------------------------------------------\n\nNB: Please note that, in keeping with the global R-Ladies mission, R-Ladies London, Ontario will prioritize female leadership and participation. All interested people (regardless of gender) are welcome to RSVP to our events. However, in the event that we receive a greater amount of presenter interest than we feel is manageable for the space/time, we will prioritize female presenters.",
-    "status": "PAST",
-    "dateTime": "2018-01-30T17:00:00-05:00",
-    "duration": "PT2H",
-    "eventUrl": "https://www.meetup.com/rladies-ldnont/events/245104372/",
-    "featuredEventPhoto": {
-      "id": "458602600",
-      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/8/4/8/highres_458602600.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/8/4/8/600_458602600.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/8/4/8/thumb_458602600.jpeg"
-    },
-    "rsvps": {
-      "yesCount": 12,
-      "waitlistCount": 0,
-      "totalCount": 12
-    },
-    "venues": [
-      {
-        "id": "19794792",
-        "name": "London Public Library",
-        "address": "251 Dundas St.",
-        "city": "London",
-        "state": "ON",
-        "country": "ca",
-        "lat": 42.9844,
-        "lon": -81.2462,
-        "postalCode": "",
-        "venueType": ""
-      }
-    ],
-    "group": {
-      "name": "R-Ladies London, Ontario",
-      "urlname": "rladies-ldnont"
-    }
+    "createdTime": "2017-11-14T08:45:51-05:00"
   },
   {
     "id": "266728160",
@@ -705,7 +724,8 @@
     "group": {
       "name": "R-Ladies London, Ontario",
       "urlname": "rladies-ldnont"
-    }
+    },
+    "createdTime": "2019-11-25T09:54:23-05:00"
   },
   {
     "id": "265754543",
@@ -723,9 +743,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/a/d/9/thumb_485839161.jpeg"
     },
     "rsvps": {
-      "yesCount": 18,
+      "yesCount": 17,
       "waitlistCount": 0,
-      "totalCount": 18
+      "totalCount": 17
     },
     "venues": [
       {
@@ -744,7 +764,8 @@
     "group": {
       "name": "R-Ladies London, Ontario",
       "urlname": "rladies-ldnont"
-    }
+    },
+    "createdTime": "2019-10-17T18:23:31-04:00"
   },
   {
     "id": "264989455",
@@ -762,9 +783,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/6/5/8/thumb_485022584.jpeg"
     },
     "rsvps": {
-      "yesCount": 18,
+      "yesCount": 17,
       "waitlistCount": 0,
-      "totalCount": 18
+      "totalCount": 17
     },
     "venues": [
       {
@@ -783,7 +804,8 @@
     "group": {
       "name": "R-Ladies London, Ontario",
       "urlname": "rladies-ldnont"
-    }
+    },
+    "createdTime": "2019-09-19T10:32:37-04:00"
   },
   {
     "id": "261288054",
@@ -801,9 +823,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/6/5/2/thumb_481145714.jpeg"
     },
     "rsvps": {
-      "yesCount": 21,
+      "yesCount": 19,
       "waitlistCount": 0,
-      "totalCount": 21
+      "totalCount": 19
     },
     "venues": [
       {
@@ -822,7 +844,8 @@
     "group": {
       "name": "R-Ladies London, Ontario",
       "urlname": "rladies-ldnont"
-    }
+    },
+    "createdTime": "2019-05-08T10:44:53-04:00"
   },
   {
     "id": "260560347",
@@ -840,9 +863,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/6/2/4/thumb_480342532.jpeg"
     },
     "rsvps": {
-      "yesCount": 15,
+      "yesCount": 14,
       "waitlistCount": 0,
-      "totalCount": 15
+      "totalCount": 14
     },
     "venues": [
       {
@@ -861,7 +884,8 @@
     "group": {
       "name": "R-Ladies London, Ontario",
       "urlname": "rladies-ldnont"
-    }
+    },
+    "createdTime": "2019-04-12T00:15:05-04:00"
   },
   {
     "id": "259175996",
@@ -879,9 +903,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/e/d/9/thumb_478896569.jpeg"
     },
     "rsvps": {
-      "yesCount": 17,
+      "yesCount": 11,
       "waitlistCount": 0,
-      "totalCount": 17
+      "totalCount": 11
     },
     "venues": [
       {
@@ -900,7 +924,8 @@
     "group": {
       "name": "R-Ladies London, Ontario",
       "urlname": "rladies-ldnont"
-    }
+    },
+    "createdTime": "2019-02-21T20:40:48-05:00"
   },
   {
     "id": "268803657",
@@ -939,7 +964,8 @@
     "group": {
       "name": "R-Ladies London, Ontario",
       "urlname": "rladies-ldnont"
-    }
+    },
+    "createdTime": "2020-02-18T13:00:07-05:00"
   },
   {
     "id": "268274460",
@@ -978,7 +1004,8 @@
     "group": {
       "name": "R-Ladies London, Ontario",
       "urlname": "rladies-ldnont"
-    }
+    },
+    "createdTime": "2020-01-28T15:09:55-05:00"
   },
   {
     "id": "267613624",
@@ -1017,6 +1044,7 @@
     "group": {
       "name": "R-Ladies London, Ontario",
       "urlname": "rladies-ldnont"
-    }
+    },
+    "createdTime": "2020-01-03T10:46:38-05:00"
   }
 ]

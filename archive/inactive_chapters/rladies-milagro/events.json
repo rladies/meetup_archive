@@ -15,45 +15,6 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/4/0/e/thumb_499217422.jpeg"
     },
     "rsvps": {
-      "yesCount": 24,
-      "waitlistCount": 0,
-      "totalCount": 24
-    },
-    "venues": [
-      {
-        "id": "26906060",
-        "name": "Online event",
-        "address": "",
-        "city": "",
-        "state": "",
-        "country": "",
-        "lat": -8.5211,
-        "lon": 179.1962,
-        "postalCode": "",
-        "venueType": "online"
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Milagro",
-      "urlname": "rladies-milagro"
-    }
-  },
-  {
-    "id": "280922178",
-    "title": "Club de lectura: R para Ciencia de Datos (Wickham & Grolemund)",
-    "description": "Las R-Ladies de Barranquilla (COL), Galápagos, Guayaquil y Milagro (ECU) nos hemos unido para traerte un club de lectura basado en el libro R para Ciencia de Datos de Wickham y Grolemund. Este libro está disponible en español gracias a él esfuerzo de la comunidad R latinoamericana y puede ser accedido de manera libre aquí: https://es.r4ds.hadley.nz\nEn esta sesión 11 de nuestro club de lectura, Danisse y Viviana de R-Ladies Barranquilla hablaran sobre los conceptos básicos de como armar un modelo (capitulo 23)\nEste club de lectura incluirá varias sesiones quincenales que se llevarán a cabo a través de Zoom. Cada sesión durará dos horas durante las cuales discutiremos y practicaremos los puntos más importantes del capítulo en el que nos enfoquemos para esa sesión. Recuerda, las sesiones son los jueves de cada quincena empiezando a las 18:00(UTC-5, Colombia y Ecuador Continental), o si estás en Galápagos a las 17:00(UTC-6). Al participar en nuestros eventos recuerda que estás aceptando nuestro código de conducta, el cual nos ayuda a crear un espacio amable y seguro para aprender:\n\nhttps://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish",
-    "status": "PAST",
-    "dateTime": "2021-09-30T18:00:00-05:00",
-    "duration": "PT2H",
-    "eventUrl": "https://www.meetup.com/rladies-milagro/events/280922178/",
-    "featuredEventPhoto": {
-      "id": "498974885",
-      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/a/2/5/highres_498974885.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/a/2/5/600_498974885.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/a/2/5/thumb_498974885.jpeg"
-    },
-    "rsvps": {
       "yesCount": 14,
       "waitlistCount": 0,
       "totalCount": 14
@@ -75,7 +36,48 @@
     "group": {
       "name": "R-Ladies Milagro",
       "urlname": "rladies-milagro"
-    }
+    },
+    "createdTime": "2021-10-02T15:12:23-04:00"
+  },
+  {
+    "id": "280922178",
+    "title": "Club de lectura: R para Ciencia de Datos (Wickham & Grolemund)",
+    "description": "Las R-Ladies de Barranquilla (COL), Galápagos, Guayaquil y Milagro (ECU) nos hemos unido para traerte un club de lectura basado en el libro R para Ciencia de Datos de Wickham y Grolemund. Este libro está disponible en español gracias a él esfuerzo de la comunidad R latinoamericana y puede ser accedido de manera libre aquí: https://es.r4ds.hadley.nz\nEn esta sesión 11 de nuestro club de lectura, Danisse y Viviana de R-Ladies Barranquilla hablaran sobre los conceptos básicos de como armar un modelo (capitulo 23)\nEste club de lectura incluirá varias sesiones quincenales que se llevarán a cabo a través de Zoom. Cada sesión durará dos horas durante las cuales discutiremos y practicaremos los puntos más importantes del capítulo en el que nos enfoquemos para esa sesión. Recuerda, las sesiones son los jueves de cada quincena empiezando a las 18:00(UTC-5, Colombia y Ecuador Continental), o si estás en Galápagos a las 17:00(UTC-6). Al participar en nuestros eventos recuerda que estás aceptando nuestro código de conducta, el cual nos ayuda a crear un espacio amable y seguro para aprender:\n\nhttps://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish",
+    "status": "PAST",
+    "dateTime": "2021-09-30T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-milagro/events/280922178/",
+    "featuredEventPhoto": {
+      "id": "498974885",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/a/2/5/highres_498974885.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/a/2/5/600_498974885.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/a/2/5/thumb_498974885.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 13,
+      "waitlistCount": 0,
+      "totalCount": 13
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Milagro",
+      "urlname": "rladies-milagro"
+    },
+    "createdTime": "2021-09-21T13:28:54-04:00"
   },
   {
     "id": "280305655",
@@ -114,7 +116,8 @@
     "group": {
       "name": "R-Ladies Milagro",
       "urlname": "rladies-milagro"
-    }
+    },
+    "createdTime": "2021-08-23T18:51:54-04:00"
   },
   {
     "id": "280011230",
@@ -132,9 +135,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/c/0/6/thumb_498079462.jpeg"
     },
     "rsvps": {
-      "yesCount": 20,
+      "yesCount": 17,
       "waitlistCount": 0,
-      "totalCount": 20
+      "totalCount": 17
     },
     "venues": [
       {
@@ -153,7 +156,8 @@
     "group": {
       "name": "R-Ladies Milagro",
       "urlname": "rladies-milagro"
-    }
+    },
+    "createdTime": "2021-08-09T11:41:13-04:00"
   },
   {
     "id": "279729489",
@@ -171,9 +175,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/e/6/7/thumb_497804647.jpeg"
     },
     "rsvps": {
-      "yesCount": 8,
+      "yesCount": 7,
       "waitlistCount": 0,
-      "totalCount": 8
+      "totalCount": 7
     },
     "venues": [
       {
@@ -192,7 +196,8 @@
     "group": {
       "name": "R-Ladies Milagro",
       "urlname": "rladies-milagro"
-    }
+    },
+    "createdTime": "2021-07-27T00:31:25-04:00"
   },
   {
     "id": "279420778",
@@ -231,7 +236,8 @@
     "group": {
       "name": "R-Ladies Milagro",
       "urlname": "rladies-milagro"
-    }
+    },
+    "createdTime": "2021-07-12T10:37:05-04:00"
   },
   {
     "id": "278680597",
@@ -249,9 +255,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/d/6/1/thumb_497212577.jpeg"
     },
     "rsvps": {
-      "yesCount": 18,
+      "yesCount": 16,
       "waitlistCount": 0,
-      "totalCount": 18
+      "totalCount": 16
     },
     "venues": [
       {
@@ -270,7 +276,8 @@
     "group": {
       "name": "R-Ladies Milagro",
       "urlname": "rladies-milagro"
-    }
+    },
+    "createdTime": "2021-06-07T11:28:16-04:00"
   },
   {
     "id": "278757556",
@@ -288,9 +295,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/0/6/thumb_496921030.jpeg"
     },
     "rsvps": {
-      "yesCount": 32,
+      "yesCount": 25,
       "waitlistCount": 0,
-      "totalCount": 32
+      "totalCount": 25
     },
     "venues": [
       {
@@ -309,7 +316,8 @@
     "group": {
       "name": "R-Ladies Milagro",
       "urlname": "rladies-milagro"
-    }
+    },
+    "createdTime": "2021-06-10T19:06:18-04:00"
   },
   {
     "id": "278503219",
@@ -327,9 +335,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/9/e/6/thumb_496587110.jpeg"
     },
     "rsvps": {
-      "yesCount": 49,
+      "yesCount": 36,
       "waitlistCount": 0,
-      "totalCount": 49
+      "totalCount": 36
     },
     "venues": [
       {
@@ -348,7 +356,8 @@
     "group": {
       "name": "R-Ladies Milagro",
       "urlname": "rladies-milagro"
-    }
+    },
+    "createdTime": "2021-05-29T23:59:31-04:00"
   },
   {
     "id": "278241064",
@@ -366,9 +375,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/0/7/2/thumb_496352882.jpeg"
     },
     "rsvps": {
-      "yesCount": 20,
+      "yesCount": 16,
       "waitlistCount": 0,
-      "totalCount": 20
+      "totalCount": 16
     },
     "venues": [
       {
@@ -387,7 +396,8 @@
     "group": {
       "name": "R-Ladies Milagro",
       "urlname": "rladies-milagro"
-    }
+    },
+    "createdTime": "2021-05-17T13:24:59-04:00"
   },
   {
     "id": "277929272",
@@ -405,9 +415,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/8/6/9/thumb_496046729.jpeg"
     },
     "rsvps": {
-      "yesCount": 40,
+      "yesCount": 25,
       "waitlistCount": 0,
-      "totalCount": 40
+      "totalCount": 25
     },
     "venues": [
       {
@@ -426,7 +436,8 @@
     "group": {
       "name": "R-Ladies Milagro",
       "urlname": "rladies-milagro"
-    }
+    },
+    "createdTime": "2021-05-01T21:18:44-04:00"
   },
   {
     "id": "284847779",
@@ -444,9 +455,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/9/3/6/thumb_502915606.jpeg"
     },
     "rsvps": {
-      "yesCount": 55,
+      "yesCount": 37,
       "waitlistCount": 1,
-      "totalCount": 55
+      "totalCount": 37
     },
     "venues": [
       {
@@ -465,7 +476,8 @@
     "group": {
       "name": "R-Ladies Milagro",
       "urlname": "rladies-milagro"
-    }
+    },
+    "createdTime": "2022-03-25T12:14:48-04:00"
   },
   {
     "id": "283853787",
@@ -483,9 +495,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/8/f/e/thumb_501918686.jpeg"
     },
     "rsvps": {
-      "yesCount": 134,
-      "waitlistCount": 3,
-      "totalCount": 134
+      "yesCount": 71,
+      "waitlistCount": 2,
+      "totalCount": 71
     },
     "venues": [
       {
@@ -504,7 +516,8 @@
     "group": {
       "name": "R-Ladies Milagro",
       "urlname": "rladies-milagro"
-    }
+    },
+    "createdTime": "2022-02-09T11:05:19-05:00"
   },
   {
     "id": "296643869",
@@ -543,7 +556,8 @@
     "group": {
       "name": "R-Ladies Milagro",
       "urlname": "rladies-milagro"
-    }
+    },
+    "createdTime": "2023-10-09T14:48:28-04:00"
   },
   {
     "id": "294198939",
@@ -582,7 +596,8 @@
     "group": {
       "name": "R-Ladies Milagro",
       "urlname": "rladies-milagro"
-    }
+    },
+    "createdTime": "2023-06-15T01:18:18-04:00"
   },
   {
     "id": "293854747",
@@ -608,7 +623,8 @@
     "group": {
       "name": "R-Ladies Milagro",
       "urlname": "rladies-milagro"
-    }
+    },
+    "createdTime": "2023-05-29T22:03:50-04:00"
   },
   {
     "id": "301734283",
@@ -647,6 +663,7 @@
     "group": {
       "name": "R-Ladies Milagro",
       "urlname": "rladies-milagro"
-    }
+    },
+    "createdTime": "2024-06-19T11:05:00-04:00"
   }
 ]

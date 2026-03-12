@@ -7,17 +7,11 @@
     "dateTime": "2018-12-20T19:00:00-05:00",
     "duration": "PT2H",
     "eventUrl": "https://www.meetup.com/rladies-gainesville/events/255834327/",
-    "featuredEventPhoto": {
-      "id": "475753842",
-      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/6/1/2/highres_475753842.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/6/1/2/600_475753842.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/6/1/2/thumb_475753842.jpeg"
-    },
+    "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 7,
+      "yesCount": 5,
       "waitlistCount": 0,
-      "totalCount": 7
+      "totalCount": 5
     },
     "venues": [
       {
@@ -36,7 +30,8 @@
     "group": {
       "name": "R-Ladies Gainesville",
       "urlname": "rladies-gainesville"
-    }
+    },
+    "createdTime": "2018-10-25T13:13:48-04:00"
   },
   {
     "id": "255608078",
@@ -48,9 +43,9 @@
     "eventUrl": "https://www.meetup.com/rladies-gainesville/events/255608078/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 10,
+      "yesCount": 5,
       "waitlistCount": 0,
-      "totalCount": 10
+      "totalCount": 5
     },
     "venues": [
       {
@@ -69,7 +64,8 @@
     "group": {
       "name": "R-Ladies Gainesville",
       "urlname": "rladies-gainesville"
-    }
+    },
+    "createdTime": "2018-10-17T10:49:30-04:00"
   },
   {
     "id": "255607697",
@@ -81,9 +77,9 @@
     "eventUrl": "https://www.meetup.com/rladies-gainesville/events/255607697/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 12,
+      "yesCount": 8,
       "waitlistCount": 0,
-      "totalCount": 12
+      "totalCount": 8
     },
     "venues": [
       {
@@ -102,7 +98,8 @@
     "group": {
       "name": "R-Ladies Gainesville",
       "urlname": "rladies-gainesville"
-    }
+    },
+    "createdTime": "2018-10-17T10:26:19-04:00"
   },
   {
     "id": "254553670",
@@ -114,9 +111,9 @@
     "eventUrl": "https://www.meetup.com/rladies-gainesville/events/254553670/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 17,
+      "yesCount": 15,
       "waitlistCount": 0,
-      "totalCount": 17
+      "totalCount": 15
     },
     "venues": [
       {
@@ -135,7 +132,8 @@
     "group": {
       "name": "R-Ladies Gainesville",
       "urlname": "rladies-gainesville"
-    }
+    },
+    "createdTime": "2018-09-10T10:01:38-04:00"
   },
   {
     "id": "253622671",
@@ -145,17 +143,11 @@
     "dateTime": "2018-08-15T18:00:00-04:00",
     "duration": "PT2H",
     "eventUrl": "https://www.meetup.com/rladies-gainesville/events/253622671/",
-    "featuredEventPhoto": {
-      "id": "473596222",
-      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/f/5/e/highres_473596222.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/f/5/e/600_473596222.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/f/5/e/thumb_473596222.jpeg"
-    },
+    "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 14,
+      "yesCount": 8,
       "waitlistCount": 0,
-      "totalCount": 14
+      "totalCount": 8
     },
     "venues": [
       {
@@ -174,7 +166,8 @@
     "group": {
       "name": "R-Ladies Gainesville",
       "urlname": "rladies-gainesville"
-    }
+    },
+    "createdTime": "2018-08-08T16:15:08-04:00"
   },
   {
     "id": "266726720",
@@ -186,9 +179,9 @@
     "eventUrl": "https://www.meetup.com/rladies-gainesville/events/266726720/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 11,
+      "yesCount": 8,
       "waitlistCount": 0,
-      "totalCount": 11
+      "totalCount": 8
     },
     "venues": [
       {
@@ -207,7 +200,8 @@
     "group": {
       "name": "R-Ladies Gainesville",
       "urlname": "rladies-gainesville"
-    }
+    },
+    "createdTime": "2019-11-25T08:32:31-05:00"
   },
   {
     "id": "266204689",
@@ -217,6 +211,40 @@
     "dateTime": "2019-11-12T18:30:00-05:00",
     "duration": "PT1H30M",
     "eventUrl": "https://www.meetup.com/rladies-gainesville/events/266204689/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 11,
+      "waitlistCount": 0,
+      "totalCount": 11
+    },
+    "venues": [
+      {
+        "id": "26651319",
+        "name": "Carr Hall",
+        "address": "Newell Dr",
+        "city": "Gainesville",
+        "state": "FL",
+        "country": "us",
+        "lat": 29.6439,
+        "lon": -82.3449,
+        "postalCode": "32603",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Gainesville",
+      "urlname": "rladies-gainesville"
+    },
+    "createdTime": "2019-11-04T09:58:58-05:00"
+  },
+  {
+    "id": "265180063",
+    "title": "Intro to R and RStudio",
+    "description": "Join us for this introductory workshop! We will touch on the basics of R, navigating the RStudio IDE and various troubleshooting issues.\n\nIf you've never been to our meetings, this is a great chance to come say hi and get started with R.\n\nPlease install R and R Studio before the meeting. We will have facilitators available in case you have issues with installation, but it will be easier for us to move on to using R if the software is already installed.\n\n1. Install R: https://cran.r-project.org/\n2. Install R Studio (free desktop version): https://rstudio.com/products/rstudio/download/\n\nPlease join our Slack channel for questions or installation troubleshooting\nhttps://join.slack.com/t/rladies-gainesville/shared_invite/enQtNDY0Nzk1NDMzMzkzLTc2YjE3MTI1YzFkZmQ3NTQ1MDc1MGJmMWQ4MjA4YzAxOWYyYTU1MzJjNjVmNjY5MWM5MWQ0NWI3MDA4ODUxMjU\n\nR-LADIES IS A WORLDWIDE ORGANIZATION WHOSE MISSION IS TO PROMOTE GENDER DIVERSITY IN THE R COMMUNITY.\n\nThe R community suffers from an underrepresentation of minority genders (including but not limited to cis/trans women, trans men, non-binary, genderqueer, agender) in every role and area of participation, whether as leaders, package developers, conference speakers, conference participants, educators, or users.\n\nAs a diversity initiative, the mission of R-Ladies is to achieve proportionate representation by encouraging, inspiring, and empowering people of genders currently underrepresented in the R community. R-Ladies’ primary focus, therefore, is on supporting minority gender R enthusiasts to achieve their programming potential, by building a collaborative global network of R leaders, mentors, learners, and developers to facilitate individual and collective progress worldwide.",
+    "status": "PAST",
+    "dateTime": "2019-10-21T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-gainesville/events/265180063/",
     "featuredEventPhoto": {},
     "rsvps": {
       "yesCount": 17,
@@ -240,40 +268,8 @@
     "group": {
       "name": "R-Ladies Gainesville",
       "urlname": "rladies-gainesville"
-    }
-  },
-  {
-    "id": "265180063",
-    "title": "Intro to R and RStudio",
-    "description": "Join us for this introductory workshop! We will touch on the basics of R, navigating the RStudio IDE and various troubleshooting issues.\n\nIf you've never been to our meetings, this is a great chance to come say hi and get started with R.\n\nPlease install R and R Studio before the meeting. We will have facilitators available in case you have issues with installation, but it will be easier for us to move on to using R if the software is already installed.\n\n1. Install R: https://cran.r-project.org/\n2. Install R Studio (free desktop version): https://rstudio.com/products/rstudio/download/\n\nPlease join our Slack channel for questions or installation troubleshooting\nhttps://join.slack.com/t/rladies-gainesville/shared_invite/enQtNDY0Nzk1NDMzMzkzLTc2YjE3MTI1YzFkZmQ3NTQ1MDc1MGJmMWQ4MjA4YzAxOWYyYTU1MzJjNjVmNjY5MWM5MWQ0NWI3MDA4ODUxMjU\n\nR-LADIES IS A WORLDWIDE ORGANIZATION WHOSE MISSION IS TO PROMOTE GENDER DIVERSITY IN THE R COMMUNITY.\n\nThe R community suffers from an underrepresentation of minority genders (including but not limited to cis/trans women, trans men, non-binary, genderqueer, agender) in every role and area of participation, whether as leaders, package developers, conference speakers, conference participants, educators, or users.\n\nAs a diversity initiative, the mission of R-Ladies is to achieve proportionate representation by encouraging, inspiring, and empowering people of genders currently underrepresented in the R community. R-Ladies’ primary focus, therefore, is on supporting minority gender R enthusiasts to achieve their programming potential, by building a collaborative global network of R leaders, mentors, learners, and developers to facilitate individual and collective progress worldwide.",
-    "status": "PAST",
-    "dateTime": "2019-10-21T18:00:00-04:00",
-    "duration": "PT2H",
-    "eventUrl": "https://www.meetup.com/rladies-gainesville/events/265180063/",
-    "featuredEventPhoto": {},
-    "rsvps": {
-      "yesCount": 26,
-      "waitlistCount": 0,
-      "totalCount": 26
     },
-    "venues": [
-      {
-        "id": "26651319",
-        "name": "Carr Hall",
-        "address": "Newell Dr",
-        "city": "Gainesville",
-        "state": "FL",
-        "country": "us",
-        "lat": 29.6439,
-        "lon": -82.3449,
-        "postalCode": "32603",
-        "venueType": ""
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Gainesville",
-      "urlname": "rladies-gainesville"
-    }
+    "createdTime": "2019-09-26T09:45:20-04:00"
   },
   {
     "id": "264531708",
@@ -291,9 +287,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/c/0/e/thumb_484575374.jpeg"
     },
     "rsvps": {
-      "yesCount": 7,
+      "yesCount": 6,
       "waitlistCount": 0,
-      "totalCount": 7
+      "totalCount": 6
     },
     "venues": [
       {
@@ -312,7 +308,8 @@
     "group": {
       "name": "R-Ladies Gainesville",
       "urlname": "rladies-gainesville"
-    }
+    },
+    "createdTime": "2019-09-03T16:57:52-04:00"
   },
   {
     "id": "262228202",
@@ -351,7 +348,8 @@
     "group": {
       "name": "R-Ladies Gainesville",
       "urlname": "rladies-gainesville"
-    }
+    },
+    "createdTime": "2019-06-11T11:56:36-04:00"
   },
   {
     "id": "261679215",
@@ -363,9 +361,9 @@
     "eventUrl": "https://www.meetup.com/rladies-gainesville/events/261679215/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 14,
+      "yesCount": 10,
       "waitlistCount": 0,
-      "totalCount": 14
+      "totalCount": 10
     },
     "venues": [
       {
@@ -384,7 +382,8 @@
     "group": {
       "name": "R-Ladies Gainesville",
       "urlname": "rladies-gainesville"
-    }
+    },
+    "createdTime": "2019-05-22T13:41:36-04:00"
   },
   {
     "id": "260675893",
@@ -396,9 +395,9 @@
     "eventUrl": "https://www.meetup.com/rladies-gainesville/events/260675893/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 15,
+      "yesCount": 10,
       "waitlistCount": 0,
-      "totalCount": 15
+      "totalCount": 10
     },
     "venues": [
       {
@@ -417,7 +416,8 @@
     "group": {
       "name": "R-Ladies Gainesville",
       "urlname": "rladies-gainesville"
-    }
+    },
+    "createdTime": "2019-04-16T14:05:09-04:00"
   },
   {
     "id": "259858215",
@@ -429,9 +429,9 @@
     "eventUrl": "https://www.meetup.com/rladies-gainesville/events/259858215/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 9,
+      "yesCount": 8,
       "waitlistCount": 0,
-      "totalCount": 9
+      "totalCount": 8
     },
     "venues": [
       {
@@ -450,7 +450,8 @@
     "group": {
       "name": "R-Ladies Gainesville",
       "urlname": "rladies-gainesville"
-    }
+    },
+    "createdTime": "2019-03-17T21:39:12-04:00"
   },
   {
     "id": "259299581",
@@ -462,9 +463,9 @@
     "eventUrl": "https://www.meetup.com/rladies-gainesville/events/259299581/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 9,
+      "yesCount": 7,
       "waitlistCount": 0,
-      "totalCount": 9
+      "totalCount": 7
     },
     "venues": [
       {
@@ -483,7 +484,8 @@
     "group": {
       "name": "R-Ladies Gainesville",
       "urlname": "rladies-gainesville"
-    }
+    },
+    "createdTime": "2019-02-26T12:26:44-05:00"
   },
   {
     "id": "257863723",
@@ -495,9 +497,9 @@
     "eventUrl": "https://www.meetup.com/rladies-gainesville/events/257863723/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 11,
+      "yesCount": 9,
       "waitlistCount": 0,
-      "totalCount": 11
+      "totalCount": 9
     },
     "venues": [
       {
@@ -516,7 +518,8 @@
     "group": {
       "name": "R-Ladies Gainesville",
       "urlname": "rladies-gainesville"
-    }
+    },
+    "createdTime": "2019-01-07T10:17:54-05:00"
   },
   {
     "id": "274091486",
@@ -534,9 +537,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/b/6/a/thumb_491847498.jpeg"
     },
     "rsvps": {
-      "yesCount": 19,
+      "yesCount": 17,
       "waitlistCount": 0,
-      "totalCount": 19
+      "totalCount": 17
     },
     "venues": [
       {
@@ -555,7 +558,8 @@
     "group": {
       "name": "R-Ladies Gainesville",
       "urlname": "rladies-gainesville"
-    }
+    },
+    "createdTime": "2020-10-21T20:53:17-04:00"
   },
   {
     "id": "273752098",
@@ -573,9 +577,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/a/8/5/thumb_493034981.jpeg"
     },
     "rsvps": {
-      "yesCount": 31,
+      "yesCount": 23,
       "waitlistCount": 0,
-      "totalCount": 31
+      "totalCount": 23
     },
     "venues": [
       {
@@ -594,7 +598,8 @@
     "group": {
       "name": "R-Ladies Gainesville",
       "urlname": "rladies-gainesville"
-    }
+    },
+    "createdTime": "2020-10-06T12:52:13-04:00"
   },
   {
     "id": "273112013",
@@ -633,7 +638,8 @@
     "group": {
       "name": "R-Ladies Gainesville",
       "urlname": "rladies-gainesville"
-    }
+    },
+    "createdTime": "2020-09-08T08:23:50-04:00"
   },
   {
     "id": "272612783",
@@ -651,9 +657,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/b/6/a/thumb_491847498.jpeg"
     },
     "rsvps": {
-      "yesCount": 7,
+      "yesCount": 6,
       "waitlistCount": 0,
-      "totalCount": 7
+      "totalCount": 6
     },
     "venues": [
       {
@@ -672,7 +678,8 @@
     "group": {
       "name": "R-Ladies Gainesville",
       "urlname": "rladies-gainesville"
-    }
+    },
+    "createdTime": "2020-08-16T10:35:00-04:00"
   },
   {
     "id": "270463063",
@@ -682,6 +689,86 @@
     "dateTime": "2020-05-05T15:00:00-04:00",
     "duration": "PT1H",
     "eventUrl": "https://www.meetup.com/rladies-gainesville/events/270463063/",
+    "featuredEventPhoto": {
+      "id": "488963478",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/b/b/6/highres_488963478.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/b/b/6/600_488963478.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/b/b/6/thumb_488963478.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Gainesville",
+      "urlname": "rladies-gainesville"
+    },
+    "createdTime": "2020-05-05T11:40:48-04:00"
+  },
+  {
+    "id": "268773535",
+    "title": "Tidy Tuesday: Practicing Data Science in R",
+    "description": "Practice your data wrangling and visualization R skills with other members of R-Ladies! Tidy Tuesdays are designed by the R for Data Science Online Learning Community to help R users learn in a fun and real-world context.\n\nRead more about Tidy Tuesdays and get the data here: https://github.com/rfordatascience/tidytuesday\n\nWe will be converting our regular Tidy Tuesdays to an online format. Join us on Zoom at: https://ufl.zoom.us/j/690685801\nPlease note that only those who have RSVP'd to the event will receive the password.\n\nIf you've never used Zoom before, you will be prompted to download something. You will be muted automatically upon entering the meeting - so unmute if you'd like to communicate with us/each other. Depending on how many people join, we might have to turn off webcams at some point. But we'd love to see your faces, so rather not :) Don't worry about pets and family members in frame, we'd love to see them too.\n\nThese events will supplement, not replace, our monthly meetings.",
+    "status": "PAST",
+    "dateTime": "2020-04-28T15:00:00-04:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-gainesville/events/268773535/",
+    "featuredEventPhoto": {
+      "id": "488963478",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/b/b/6/highres_488963478.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/b/b/6/600_488963478.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/b/b/6/thumb_488963478.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 9,
+      "waitlistCount": 0,
+      "totalCount": 9
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Gainesville",
+      "urlname": "rladies-gainesville"
+    },
+    "createdTime": "2020-02-17T08:51:31-05:00"
+  },
+  {
+    "id": "270068460",
+    "title": "Tidy Tuesday: Practicing Data Science in R",
+    "description": "Practice your data wrangling and visualization R skills with other members of R-Ladies! Tidy Tuesdays are designed by the R for Data Science Online Learning Community to help R users learn in a fun and real-world context.\n\nRead more about Tidy Tuesdays and get the data here: https://github.com/rfordatascience/tidytuesday\n\nWe will be converting our regular Tidy Tuesdays to an online format. Join us on Zoom at: https://ufl.zoom.us/j/690685801\n\nIf you've never used Zoom before, you will be prompted to download something. You will be muted automatically upon entering the meeting - so unmute if you'd like to communicate with us/each other. Depending on how many people join, we might have to turn off webcams at some point. But we'd love to see your faces, so rather not :) Don't worry about pets and family members in frame, we'd love to see them too.\n\nThese events will supplement, not replace, our monthly meetings.",
+    "status": "PAST",
+    "dateTime": "2020-04-21T15:00:00-04:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-gainesville/events/270068460/",
     "featuredEventPhoto": {
       "id": "488963478",
       "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
@@ -711,55 +798,17 @@
     "group": {
       "name": "R-Ladies Gainesville",
       "urlname": "rladies-gainesville"
-    }
+    },
+    "createdTime": "2020-04-15T16:58:57-04:00"
   },
   {
-    "id": "268773535",
+    "id": "268773530",
     "title": "Tidy Tuesday: Practicing Data Science in R",
-    "description": "Practice your data wrangling and visualization R skills with other members of R-Ladies! Tidy Tuesdays are designed by the R for Data Science Online Learning Community to help R users learn in a fun and real-world context.\n\nRead more about Tidy Tuesdays and get the data here: https://github.com/rfordatascience/tidytuesday\n\nWe will be converting our regular Tidy Tuesdays to an online format. Join us on Zoom at: https://ufl.zoom.us/j/690685801\nPlease note that only those who have RSVP'd to the event will receive the password.\n\nIf you've never used Zoom before, you will be prompted to download something. You will be muted automatically upon entering the meeting - so unmute if you'd like to communicate with us/each other. Depending on how many people join, we might have to turn off webcams at some point. But we'd love to see your faces, so rather not :) Don't worry about pets and family members in frame, we'd love to see them too.\n\nThese events will supplement, not replace, our monthly meetings.",
+    "description": "Practice your data wrangling and visualization R skills with other members of R-Ladies! Tidy Tuesdays are designed by the R for Data Science Online Learning Community to help R users learn in a fun and real-world context.\n\nRead more about Tidy Tuesdays here: https://www.tidytuesday.com/\n\nWe will be converting our regular Tidy Tuesdays to an online format. Join us on Zoom at: https://ufl.zoom.us/j/690685801\n\nIf you've never used Zoom before, you will be prompted to download something. You will be muted automatically upon entering the meeting - so unmute if you'd like to communicate with us/each other. Depending on how many people join, we might have to turn off webcams at some point. But we'd love to see your faces, so rather not :) Don't worry about pets and family members in frame, we'd love to see them too.\n\nThese events will supplement, not replace, our monthly meetings.",
     "status": "PAST",
-    "dateTime": "2020-04-28T15:00:00-04:00",
+    "dateTime": "2020-04-14T15:00:00-04:00",
     "duration": "PT1H",
-    "eventUrl": "https://www.meetup.com/rladies-gainesville/events/268773535/",
-    "featuredEventPhoto": {
-      "id": "488963478",
-      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/b/b/6/highres_488963478.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/b/b/6/600_488963478.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/b/b/6/thumb_488963478.jpeg"
-    },
-    "rsvps": {
-      "yesCount": 10,
-      "waitlistCount": 0,
-      "totalCount": 10
-    },
-    "venues": [
-      {
-        "id": "26906060",
-        "name": "Online event",
-        "address": "",
-        "city": "",
-        "state": "",
-        "country": "",
-        "lat": -8.5211,
-        "lon": 179.1962,
-        "postalCode": "",
-        "venueType": "online"
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Gainesville",
-      "urlname": "rladies-gainesville"
-    }
-  },
-  {
-    "id": "270068460",
-    "title": "Tidy Tuesday: Practicing Data Science in R",
-    "description": "Practice your data wrangling and visualization R skills with other members of R-Ladies! Tidy Tuesdays are designed by the R for Data Science Online Learning Community to help R users learn in a fun and real-world context.\n\nRead more about Tidy Tuesdays and get the data here: https://github.com/rfordatascience/tidytuesday\n\nWe will be converting our regular Tidy Tuesdays to an online format. Join us on Zoom at: https://ufl.zoom.us/j/690685801\n\nIf you've never used Zoom before, you will be prompted to download something. You will be muted automatically upon entering the meeting - so unmute if you'd like to communicate with us/each other. Depending on how many people join, we might have to turn off webcams at some point. But we'd love to see your faces, so rather not :) Don't worry about pets and family members in frame, we'd love to see them too.\n\nThese events will supplement, not replace, our monthly meetings.",
-    "status": "PAST",
-    "dateTime": "2020-04-21T15:00:00-04:00",
-    "duration": "PT1H",
-    "eventUrl": "https://www.meetup.com/rladies-gainesville/events/270068460/",
+    "eventUrl": "https://www.meetup.com/rladies-gainesville/events/268773530/",
     "featuredEventPhoto": {
       "id": "488963478",
       "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
@@ -780,45 +829,6 @@
         "city": "",
         "state": "",
         "country": "",
-        "lat": -8.5211,
-        "lon": 179.1962,
-        "postalCode": "",
-        "venueType": "online"
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Gainesville",
-      "urlname": "rladies-gainesville"
-    }
-  },
-  {
-    "id": "268773530",
-    "title": "Tidy Tuesday: Practicing Data Science in R",
-    "description": "Practice your data wrangling and visualization R skills with other members of R-Ladies! Tidy Tuesdays are designed by the R for Data Science Online Learning Community to help R users learn in a fun and real-world context.\n\nRead more about Tidy Tuesdays here: https://www.tidytuesday.com/\n\nWe will be converting our regular Tidy Tuesdays to an online format. Join us on Zoom at: https://ufl.zoom.us/j/690685801\n\nIf you've never used Zoom before, you will be prompted to download something. You will be muted automatically upon entering the meeting - so unmute if you'd like to communicate with us/each other. Depending on how many people join, we might have to turn off webcams at some point. But we'd love to see your faces, so rather not :) Don't worry about pets and family members in frame, we'd love to see them too.\n\nThese events will supplement, not replace, our monthly meetings.",
-    "status": "PAST",
-    "dateTime": "2020-04-14T15:00:00-04:00",
-    "duration": "PT1H",
-    "eventUrl": "https://www.meetup.com/rladies-gainesville/events/268773530/",
-    "featuredEventPhoto": {
-      "id": "488963478",
-      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/b/b/6/highres_488963478.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/b/b/6/600_488963478.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/b/b/6/thumb_488963478.jpeg"
-    },
-    "rsvps": {
-      "yesCount": 11,
-      "waitlistCount": 0,
-      "totalCount": 11
-    },
-    "venues": [
-      {
-        "id": "26906060",
-        "name": "Online event",
-        "address": "",
-        "city": "",
-        "state": "",
-        "country": "",
         "lat": 29.6482,
         "lon": -82.3441,
         "postalCode": "",
@@ -828,7 +838,8 @@
     "group": {
       "name": "R-Ladies Gainesville",
       "urlname": "rladies-gainesville"
-    }
+    },
+    "createdTime": "2020-02-17T08:51:00-05:00"
   },
   {
     "id": "269758208",
@@ -846,9 +857,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/b/b/6/thumb_488963478.jpeg"
     },
     "rsvps": {
-      "yesCount": 7,
+      "yesCount": 6,
       "waitlistCount": 0,
-      "totalCount": 7
+      "totalCount": 6
     },
     "venues": [
       {
@@ -867,7 +878,8 @@
     "group": {
       "name": "R-Ladies Gainesville",
       "urlname": "rladies-gainesville"
-    }
+    },
+    "createdTime": "2020-03-30T20:17:42-04:00"
   },
   {
     "id": "269758193",
@@ -906,7 +918,8 @@
     "group": {
       "name": "R-Ladies Gainesville",
       "urlname": "rladies-gainesville"
-    }
+    },
+    "createdTime": "2020-03-30T20:16:27-04:00"
   },
   {
     "id": "269207320",
@@ -918,9 +931,9 @@
     "eventUrl": "https://www.meetup.com/rladies-gainesville/events/269207320/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 21,
+      "yesCount": 14,
       "waitlistCount": 0,
-      "totalCount": 21
+      "totalCount": 14
     },
     "venues": [
       {
@@ -939,7 +952,8 @@
     "group": {
       "name": "R-Ladies Gainesville",
       "urlname": "rladies-gainesville"
-    }
+    },
+    "createdTime": "2020-03-05T09:25:44-05:00"
   },
   {
     "id": "269608282",
@@ -978,7 +992,8 @@
     "group": {
       "name": "R-Ladies Gainesville",
       "urlname": "rladies-gainesville"
-    }
+    },
+    "createdTime": "2020-03-23T14:47:55-04:00"
   },
   {
     "id": "269089249",
@@ -1017,7 +1032,8 @@
     "group": {
       "name": "R-Ladies Gainesville",
       "urlname": "rladies-gainesville"
-    }
+    },
+    "createdTime": "2020-02-29T12:41:35-05:00"
   },
   {
     "id": "268773527",
@@ -1035,9 +1051,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/b/b/6/thumb_488963478.jpeg"
     },
     "rsvps": {
-      "yesCount": 4,
+      "yesCount": 3,
       "waitlistCount": 0,
-      "totalCount": 4
+      "totalCount": 3
     },
     "venues": [
       {
@@ -1056,7 +1072,8 @@
     "group": {
       "name": "R-Ladies Gainesville",
       "urlname": "rladies-gainesville"
-    }
+    },
+    "createdTime": "2020-02-17T08:50:29-05:00"
   },
   {
     "id": "268799682",
@@ -1068,9 +1085,9 @@
     "eventUrl": "https://www.meetup.com/rladies-gainesville/events/268799682/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 6,
+      "yesCount": 5,
       "waitlistCount": 0,
-      "totalCount": 6
+      "totalCount": 5
     },
     "venues": [
       {
@@ -1089,7 +1106,8 @@
     "group": {
       "name": "R-Ladies Gainesville",
       "urlname": "rladies-gainesville"
-    }
+    },
+    "createdTime": "2020-02-18T09:55:57-05:00"
   },
   {
     "id": "268666210",
@@ -1107,9 +1125,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/b/b/6/thumb_488963478.jpeg"
     },
     "rsvps": {
-      "yesCount": 5,
+      "yesCount": 2,
       "waitlistCount": 0,
-      "totalCount": 5
+      "totalCount": 2
     },
     "venues": [
       {
@@ -1128,7 +1146,8 @@
     "group": {
       "name": "R-Ladies Gainesville",
       "urlname": "rladies-gainesville"
-    }
+    },
+    "createdTime": "2020-02-12T17:43:49-05:00"
   },
   {
     "id": "281971800",
@@ -1146,9 +1165,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/3/4/b/thumb_500129515.jpeg"
     },
     "rsvps": {
-      "yesCount": 38,
+      "yesCount": 27,
       "waitlistCount": 0,
-      "totalCount": 38
+      "totalCount": 27
     },
     "venues": [
       {
@@ -1167,7 +1186,8 @@
     "group": {
       "name": "R-Ladies Gainesville",
       "urlname": "rladies-gainesville"
-    }
+    },
+    "createdTime": "2021-11-09T10:25:41-05:00"
   },
   {
     "id": "280919907",
@@ -1183,195 +1203,6 @@
       "highResUrl": "https://secure.meetupstatic.com/photos/event/9/4/d/e/highres_498998110.jpeg",
       "standardUrl": "https://secure.meetupstatic.com/photos/event/9/4/d/e/600_498998110.jpeg",
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/4/d/e/thumb_498998110.jpeg"
-    },
-    "rsvps": {
-      "yesCount": 34,
-      "waitlistCount": 0,
-      "totalCount": 34
-    },
-    "venues": [
-      {
-        "id": "26906060",
-        "name": "Online event",
-        "address": "",
-        "city": "",
-        "state": "",
-        "country": "",
-        "lat": -8.5211,
-        "lon": 179.1962,
-        "postalCode": "",
-        "venueType": "online"
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Gainesville",
-      "urlname": "rladies-gainesville"
-    }
-  },
-  {
-    "id": "280169167",
-    "title": "Back to School 2021!",
-    "description": "We are back!!!\n\nPandemic fatigue has hit us hard, but we are ready to code again!\n\nJoin us for this 'Back to School' online event to get to know each other and once again, enjoy a Zoom call :p\n\nR-Ladies Gainesville leadership will introduce themselves (and their favorite R packages) and we'll get to know each other over games (we look forward to mailing some stickers to the winners!).\n\nWe hope you will join us with your beveRage of choice and lots of R enthusiasm.\n\nR-Ladies Gainesville welcomes members of all R proficiency levels, whether you're a new or aspiring R user, or an experienced R programmer interested in mentoring, networking & expert upskilling.\n\nPlease RSVP to receive the Zoom link before the event.\n\nPlease note:\nIn line with R-Ladies’ Mission Statement to encourage participation in the R community by underrepresented genders/identities (https://rladies.org/about-us/), our events are designed for those individuals (including, but not limited to cis/trans women, trans men, non-binary, genderqueer, agender). We therefore ask that when cis men attend our events, they are accompanied by a sponsor who identifies as an underrepresented gender. If you have any questions, please contact the event organizers.",
-    "status": "PAST",
-    "dateTime": "2021-09-09T18:00:00-04:00",
-    "duration": "PT2H",
-    "eventUrl": "https://www.meetup.com/rladies-gainesville/events/280169167/",
-    "featuredEventPhoto": {
-      "id": "498232689",
-      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/d/d/1/highres_498232689.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/d/d/1/600_498232689.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/d/d/1/thumb_498232689.jpeg"
-    },
-    "rsvps": {
-      "yesCount": 26,
-      "waitlistCount": 0,
-      "totalCount": 26
-    },
-    "venues": [
-      {
-        "id": "26906060",
-        "name": "Online event",
-        "address": "",
-        "city": "",
-        "state": "",
-        "country": "",
-        "lat": -8.5211,
-        "lon": 179.1962,
-        "postalCode": "",
-        "venueType": "online"
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Gainesville",
-      "urlname": "rladies-gainesville"
-    }
-  },
-  {
-    "id": "285445196",
-    "title": "Creating your own interactive tutorials with `learnr`",
-    "description": "You can consider this a meta workshop. I will be giving a quick intro to the package 'learnr' and then go through the steps to get tutorials set up inside an R package, for use when giving workshops or organizing courses. Meetup will be recorded and files will be uploaded to github after the event.\n\nUPDATE: I am so sorry everyone! Scheduling conflicts and family dynamics have been tough lately. Promise, this is the last change! :D",
-    "status": "PAST",
-    "dateTime": "2022-07-08T12:00:00-04:00",
-    "duration": "PT1H30M",
-    "eventUrl": "https://www.meetup.com/rladies-gainesville/events/285445196/",
-    "featuredEventPhoto": {},
-    "rsvps": {
-      "yesCount": 16,
-      "waitlistCount": 0,
-      "totalCount": 16
-    },
-    "venues": [
-      {
-        "id": "26906060",
-        "name": "Online event",
-        "address": "",
-        "city": "",
-        "state": "",
-        "country": "",
-        "lat": -8.5211,
-        "lon": 179.1962,
-        "postalCode": "",
-        "venueType": "online"
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Gainesville",
-      "urlname": "rladies-gainesville"
-    }
-  },
-  {
-    "id": "285945797",
-    "title": "Create a resume in RMarkdown",
-    "description": "During this R-Ladies GNV meetup, Geraldine will introduce you to RMarkdown code to make a resume in R! During this show-and-tell, she will also cover some CSS and html basics required to create and customize certain components of the document.\n\nIf there is enough time, we'll also look at a few (academic) cv templates.\n\nThe code and files required will be available on our GitHub page (https://github.com/R-Ladies-Gainesville/tutorials) - check on Wednesday morning :)\n\nRSVP for the Zoom link!",
-    "status": "PAST",
-    "dateTime": "2022-05-18T12:00:00-04:00",
-    "duration": "PT1H",
-    "eventUrl": "https://www.meetup.com/rladies-gainesville/events/285945797/",
-    "featuredEventPhoto": {
-      "id": "504154412",
-      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/6/6/c/highres_504154412.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/6/6/c/600_504154412.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/6/6/c/thumb_504154412.jpeg"
-    },
-    "rsvps": {
-      "yesCount": 17,
-      "waitlistCount": 0,
-      "totalCount": 17
-    },
-    "venues": [
-      {
-        "id": "26906060",
-        "name": "Online event",
-        "address": "",
-        "city": "",
-        "state": "",
-        "country": "",
-        "lat": -8.5211,
-        "lon": 179.1962,
-        "postalCode": "",
-        "venueType": "online"
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Gainesville",
-      "urlname": "rladies-gainesville"
-    }
-  },
-  {
-    "id": "284253736",
-    "title": "R tutorial series: Getting around GitHub",
-    "description": "Getting around GitHub can often be complicated to new users. Here we'll move into our R-Ladies Gainesville Tutorial Series with an introductory GitHub tutorial!\n\nMichelle Slawinski ([https://github.com/slawinsm](https://github.com/slawinsm)) is going to guide us through how to use GitHub for version control and collaboration.\n\nTo participate, please complete the following before the event:\n(1) create a GitHub account: [https://github.com/](https://github.com/)\n(2) download and install Git: [https://github.com/git-guides/install-git](https://github.com/git-guides/install-git), more details [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)\n(3) download and install GitHub Desktop: [https://desktop.github.com/](https://desktop.github.com/), more details [here](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop)\nNote: We will be available to help you at 11:45AM - EST. If you run into any issues with the steps above, just join the Zoom call early :)\n\nR-Ladies Gainesville welcomes members of all R proficiency levels, whether you're a new or aspiring R user, or an experienced R programmer interested in mentoring, networking & expert upskilling.\n\nPlease RSVP to access the Zoom link before the event.\n\nPlease note:\nIn line with R-Ladies’ Mission Statement to encourage participation in the R community by underrepresented genders/identities ([https://rladies.org/about-us/](https://rladies.org/about-us/)), our events are designed for those individuals (including, but not limited to cis/trans women, trans men, non-binary, genderqueer, agender). If you have any questions, please contact the event organizers.",
-    "status": "PAST",
-    "dateTime": "2022-03-11T12:00:00-05:00",
-    "duration": "PT1H",
-    "eventUrl": "https://www.meetup.com/rladies-gainesville/events/284253736/",
-    "featuredEventPhoto": {
-      "id": "502277034",
-      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/2/8/a/highres_502277034.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/2/8/a/600_502277034.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/2/8/a/thumb_502277034.jpeg"
-    },
-    "rsvps": {
-      "yesCount": 38,
-      "waitlistCount": 0,
-      "totalCount": 38
-    },
-    "venues": [
-      {
-        "id": "26906060",
-        "name": "Online event",
-        "address": "",
-        "city": "",
-        "state": "",
-        "country": "",
-        "lat": -8.5211,
-        "lon": 179.1962,
-        "postalCode": "",
-        "venueType": "online"
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Gainesville",
-      "urlname": "rladies-gainesville"
-    }
-  },
-  {
-    "id": "283340911",
-    "title": "Creating and sharing R tutorials",
-    "description": "Online R tutorials are some of the most effective ways to troubleshoot problems and learn new skills. While we may appreciate tutorials, it can be hard to prioritize making our own to share with the R community. In this meeting, we'll kick off the R-Ladies Gainesville Tutorial Series!\n\nDo you have a solution to a tricky R problem? Is there an R package you've been wanting to learn? The Tutorial Series will provide a framework for formalizing your knowledge, sharing it with other R-Ladies, and getting feedback. We will provide an introduction to tutorials and discuss approaches to making your own.\n\nTo follow along, we recommend having R and RStudio installed on your computer, as well as the \"rmarkdown\" and \"tidyverse\" R packages.\n\nR-Ladies Gainesville welcomes members of all R proficiency levels, whether you're a new or aspiring R user, or an experienced R programmer interested in mentoring, networking & expert upskilling.\n\nPlease RSVP to access the Zoom link before the event.\n\nPlease note:\nIn line with R-Ladies’ Mission Statement to encourage participation in the R community by underrepresented genders/identities (https://rladies.org/about-us/), our events are designed for those individuals (including, but not limited to cis/trans women, trans men, non-binary, genderqueer, agender). If you have any questions, please contact the event organizers.",
-    "status": "PAST",
-    "dateTime": "2022-01-28T12:00:00-05:00",
-    "duration": "PT1H",
-    "eventUrl": "https://www.meetup.com/rladies-gainesville/events/283340911/",
-    "featuredEventPhoto": {
-      "id": "501469875",
-      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/2/d/3/highres_501469875.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/2/d/3/600_501469875.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/2/d/3/thumb_501469875.jpeg"
     },
     "rsvps": {
       "yesCount": 30,
@@ -1395,7 +1226,202 @@
     "group": {
       "name": "R-Ladies Gainesville",
       "urlname": "rladies-gainesville"
-    }
+    },
+    "createdTime": "2021-09-21T12:11:51-04:00"
+  },
+  {
+    "id": "280169167",
+    "title": "Back to School 2021!",
+    "description": "We are back!!!\n\nPandemic fatigue has hit us hard, but we are ready to code again!\n\nJoin us for this 'Back to School' online event to get to know each other and once again, enjoy a Zoom call :p\n\nR-Ladies Gainesville leadership will introduce themselves (and their favorite R packages) and we'll get to know each other over games (we look forward to mailing some stickers to the winners!).\n\nWe hope you will join us with your beveRage of choice and lots of R enthusiasm.\n\nR-Ladies Gainesville welcomes members of all R proficiency levels, whether you're a new or aspiring R user, or an experienced R programmer interested in mentoring, networking & expert upskilling.\n\nPlease RSVP to receive the Zoom link before the event.\n\nPlease note:\nIn line with R-Ladies’ Mission Statement to encourage participation in the R community by underrepresented genders/identities (https://rladies.org/about-us/), our events are designed for those individuals (including, but not limited to cis/trans women, trans men, non-binary, genderqueer, agender). We therefore ask that when cis men attend our events, they are accompanied by a sponsor who identifies as an underrepresented gender. If you have any questions, please contact the event organizers.",
+    "status": "PAST",
+    "dateTime": "2021-09-09T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-gainesville/events/280169167/",
+    "featuredEventPhoto": {
+      "id": "498232689",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/d/d/1/highres_498232689.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/d/d/1/600_498232689.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/d/d/1/thumb_498232689.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 21,
+      "waitlistCount": 0,
+      "totalCount": 21
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Gainesville",
+      "urlname": "rladies-gainesville"
+    },
+    "createdTime": "2021-08-17T08:54:41-04:00"
+  },
+  {
+    "id": "285445196",
+    "title": "Creating your own interactive tutorials with `learnr`",
+    "description": "You can consider this a meta workshop. I will be giving a quick intro to the package 'learnr' and then go through the steps to get tutorials set up inside an R package, for use when giving workshops or organizing courses. Meetup will be recorded and files will be uploaded to github after the event.\n\nUPDATE: I am so sorry everyone! Scheduling conflicts and family dynamics have been tough lately. Promise, this is the last change! :D",
+    "status": "PAST",
+    "dateTime": "2022-07-08T12:00:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-gainesville/events/285445196/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 15,
+      "waitlistCount": 0,
+      "totalCount": 15
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Gainesville",
+      "urlname": "rladies-gainesville"
+    },
+    "createdTime": "2022-04-22T15:07:13-04:00"
+  },
+  {
+    "id": "285945797",
+    "title": "Create a resume in RMarkdown",
+    "description": "During this R-Ladies GNV meetup, Geraldine will introduce you to RMarkdown code to make a resume in R! During this show-and-tell, she will also cover some CSS and html basics required to create and customize certain components of the document.\n\nIf there is enough time, we'll also look at a few (academic) cv templates.\n\nThe code and files required will be available on our GitHub page (https://github.com/R-Ladies-Gainesville/tutorials) - check on Wednesday morning :)\n\nRSVP for the Zoom link!",
+    "status": "PAST",
+    "dateTime": "2022-05-18T12:00:00-04:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-gainesville/events/285945797/",
+    "featuredEventPhoto": {
+      "id": "504154412",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/6/6/c/highres_504154412.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/6/6/c/600_504154412.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/6/6/c/thumb_504154412.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 15,
+      "waitlistCount": 0,
+      "totalCount": 15
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Gainesville",
+      "urlname": "rladies-gainesville"
+    },
+    "createdTime": "2022-05-16T11:38:10-04:00"
+  },
+  {
+    "id": "284253736",
+    "title": "R tutorial series: Getting around GitHub",
+    "description": "Getting around GitHub can often be complicated to new users. Here we'll move into our R-Ladies Gainesville Tutorial Series with an introductory GitHub tutorial!\n\nMichelle Slawinski ([https://github.com/slawinsm](https://github.com/slawinsm)) is going to guide us through how to use GitHub for version control and collaboration.\n\nTo participate, please complete the following before the event:\n(1) create a GitHub account: [https://github.com/](https://github.com/)\n(2) download and install Git: [https://github.com/git-guides/install-git](https://github.com/git-guides/install-git), more details [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)\n(3) download and install GitHub Desktop: [https://desktop.github.com/](https://desktop.github.com/), more details [here](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop)\nNote: We will be available to help you at 11:45AM - EST. If you run into any issues with the steps above, just join the Zoom call early :)\n\nR-Ladies Gainesville welcomes members of all R proficiency levels, whether you're a new or aspiring R user, or an experienced R programmer interested in mentoring, networking & expert upskilling.\n\nPlease RSVP to access the Zoom link before the event.\n\nPlease note:\nIn line with R-Ladies’ Mission Statement to encourage participation in the R community by underrepresented genders/identities ([https://rladies.org/about-us/](https://rladies.org/about-us/)), our events are designed for those individuals (including, but not limited to cis/trans women, trans men, non-binary, genderqueer, agender). If you have any questions, please contact the event organizers.",
+    "status": "PAST",
+    "dateTime": "2022-03-11T12:00:00-05:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-gainesville/events/284253736/",
+    "featuredEventPhoto": {
+      "id": "502277034",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/2/8/a/highres_502277034.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/2/8/a/600_502277034.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/2/8/a/thumb_502277034.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 33,
+      "waitlistCount": 0,
+      "totalCount": 33
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Gainesville",
+      "urlname": "rladies-gainesville"
+    },
+    "createdTime": "2022-02-25T14:49:40-05:00"
+  },
+  {
+    "id": "283340911",
+    "title": "Creating and sharing R tutorials",
+    "description": "Online R tutorials are some of the most effective ways to troubleshoot problems and learn new skills. While we may appreciate tutorials, it can be hard to prioritize making our own to share with the R community. In this meeting, we'll kick off the R-Ladies Gainesville Tutorial Series!\n\nDo you have a solution to a tricky R problem? Is there an R package you've been wanting to learn? The Tutorial Series will provide a framework for formalizing your knowledge, sharing it with other R-Ladies, and getting feedback. We will provide an introduction to tutorials and discuss approaches to making your own.\n\nTo follow along, we recommend having R and RStudio installed on your computer, as well as the \"rmarkdown\" and \"tidyverse\" R packages.\n\nR-Ladies Gainesville welcomes members of all R proficiency levels, whether you're a new or aspiring R user, or an experienced R programmer interested in mentoring, networking & expert upskilling.\n\nPlease RSVP to access the Zoom link before the event.\n\nPlease note:\nIn line with R-Ladies’ Mission Statement to encourage participation in the R community by underrepresented genders/identities (https://rladies.org/about-us/), our events are designed for those individuals (including, but not limited to cis/trans women, trans men, non-binary, genderqueer, agender). If you have any questions, please contact the event organizers.",
+    "status": "PAST",
+    "dateTime": "2022-01-28T12:00:00-05:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-gainesville/events/283340911/",
+    "featuredEventPhoto": {
+      "id": "501469875",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/2/d/3/highres_501469875.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/2/d/3/600_501469875.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/2/d/3/thumb_501469875.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 28,
+      "waitlistCount": 0,
+      "totalCount": 28
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Gainesville",
+      "urlname": "rladies-gainesville"
+    },
+    "createdTime": "2022-01-18T11:57:08-05:00"
   },
   {
     "id": "298033732",
@@ -1428,6 +1454,7 @@
     "group": {
       "name": "R-Ladies Gainesville",
       "urlname": "rladies-gainesville"
-    }
+    },
+    "createdTime": "2023-12-19T13:16:05-05:00"
   }
 ]

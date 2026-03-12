@@ -9,9 +9,9 @@
     "eventUrl": "https://www.meetup.com/rladies-novi-sad/events/267083942/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 27,
+      "yesCount": 24,
       "waitlistCount": 0,
-      "totalCount": 27
+      "totalCount": 24
     },
     "venues": [
       {
@@ -30,7 +30,8 @@
     "group": {
       "name": "R-Ladies Novi Sad",
       "urlname": "rladies-novi-sad"
-    }
+    },
+    "createdTime": "2019-12-10T06:56:40-05:00"
   },
   {
     "id": "266384337",
@@ -40,105 +41,6 @@
     "dateTime": "2019-11-23T11:00:00+01:00",
     "duration": "PT2H",
     "eventUrl": "https://www.meetup.com/rladies-novi-sad/events/266384337/",
-    "featuredEventPhoto": {},
-    "rsvps": {
-      "yesCount": 21,
-      "waitlistCount": 0,
-      "totalCount": 21
-    },
-    "venues": [
-      {
-        "id": "26078927",
-        "name": "Startit Centar Novi Sad",
-        "address": "Miroslava Antića 2",
-        "city": "Novi Sad",
-        "state": "",
-        "country": "rs",
-        "lat": 45.2519,
-        "lon": 19.8457,
-        "postalCode": "",
-        "venueType": ""
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Novi Sad",
-      "urlname": "rladies-novi-sad"
-    }
-  },
-  {
-    "id": "265685583",
-    "title": "Meetup #4 Vizualizacija u R-u",
-    "description": "Treća radionica posvećena vizualizacijskim tehnikama programskog jezika R biće održana u Startit Centru u Novom Sadu 26.10.2019. sa početkom u 11h.\n\nU prvom delu radionice radićemo vizualizaciju podataka uz pomoć paketa „ggplot2“. Naučićemo kako se vizualizuje jedna promenljiva, bila ona neprekidna ili diskretna. Zatim, obradićemo vizualizaciju dve promenljive u kombinacijama: neprekidna – neprekidna, diskretna\n– neprekidna i diskretna – diskretna.\n\nU drugom delu radionice radićemo vizualizaciju podataka uz pomoć paketa „leaflet“. Naučićemo kako da napravimo interaktivnu mapu zahvaljujući geolokacijskim podacima.\n\nZainteresovani za radionicu mogu poneti i svoje podatke!\n\nRadionica je namenjena onima koji su zainteresovani da nauče R kao i onima koji ga već koriste. Radionica je besplatna, ali je prijava obavezna zbog ograničenog broja mesta.\n\nNe zaboravite da u okviru R instalirate pakete „ggplot2“ i „leaflet“ i da ponesete laptop :)\n\nPredavač:\nVera Miler Jerković je doktor nauka primenjene matematika sa dugogodišnjim iskustvom u obradi podataka i edukaciji.",
-    "status": "PAST",
-    "dateTime": "2019-10-26T11:00:00+02:00",
-    "duration": "PT2H",
-    "eventUrl": "https://www.meetup.com/rladies-novi-sad/events/265685583/",
-    "featuredEventPhoto": {},
-    "rsvps": {
-      "yesCount": 22,
-      "waitlistCount": 0,
-      "totalCount": 22
-    },
-    "venues": [
-      {
-        "id": "26078927",
-        "name": "Startit Centar Novi Sad",
-        "address": "Miroslava Antića 2",
-        "city": "Novi Sad",
-        "state": "",
-        "country": "rs",
-        "lat": 45.2519,
-        "lon": 19.8457,
-        "postalCode": "",
-        "venueType": ""
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Novi Sad",
-      "urlname": "rladies-novi-sad"
-    }
-  },
-  {
-    "id": "265499932",
-    "title": "Meetup #3 Osnove programiranja u R-u (II deo)",
-    "description": "U Startit Centru u Novom Sadu 19.10.2019 sa početkom u 11h održaće se druga radionica koja je posvećena osnovama programskog jezika R.\nNa radionici će se ponoviti osnovni koncepti sa prethodne radionice: tipovi podataka, kreiranje data frame-a, a nakon toga će se pažnja posvetiti učitavanju podataka različitih formata, sređivanju i manipulaciji podacima, tretmanu nedostajućih podataka kao i osnovnim koracima u prikazu i analizi podataka. Zainteresovani za radionicu mogu da ponesu svoje podatke.\n\nU drugom delu radionice pokrenućemo Swirl: učite R u R-u. Ovaj interaktivni deo R-a namenjen je samostalnom učenju R-a. Pored osnove R-a uz ovaj paket možete naučiti osnove regresionog modeliranja, statističkog zakljičivanja i eksploratorne analize podataka.\n\nKome je namenjena radionica?\nSvima koji su zainteresovani da nauče R. Potpunim početnicima u programiranju kao i onima koji to nisu.\n\nPredavači\nMaja Pokuševski je diplomirani psiholog i master primenjene statistike sa dugogodišnjim iskustvom u sprovođenju celokupnih kvantitativnih i kvalitativnih istraživanja.\nKatica Ristić je diplomirani inženjer matematike, Data Science entuzijasta, sa desetogodišnjim iskustvom kao edukator.\n\nRadionica je besplatna, ali je prijava obavezna zbog ograničenog broja mesta.\n\nNe zaboravite da ponesete laptom na kom je instaliran R i RStudio!",
-    "status": "PAST",
-    "dateTime": "2019-10-19T11:00:00+02:00",
-    "duration": "PT2H",
-    "eventUrl": "https://www.meetup.com/rladies-novi-sad/events/265499932/",
-    "featuredEventPhoto": {},
-    "rsvps": {
-      "yesCount": 23,
-      "waitlistCount": 0,
-      "totalCount": 23
-    },
-    "venues": [
-      {
-        "id": "26078927",
-        "name": "Startit Centar Novi Sad",
-        "address": "Miroslava Antića 2",
-        "city": "Novi Sad",
-        "state": "",
-        "country": "rs",
-        "lat": 45.2519,
-        "lon": 19.8457,
-        "postalCode": "",
-        "venueType": ""
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Novi Sad",
-      "urlname": "rladies-novi-sad"
-    }
-  },
-  {
-    "id": "264748499",
-    "title": "Meetup #2 Osnove programiranja u R-u",
-    "description": "Sa zadovoljstvom vas pozivamo na prvu radionicu, u nizu predstojećih, koja je posvećena osnovama programskog jezika R.\n\nRadionica će se održati u Startit Centru u Novom Sadu 28.9.2019. godine sa početkom u 16h, a održaće je Ranka Medenica Todorović i Maja Pokuševski.\n\nPrvi deo radionice biće posvećen instalaciji R-a, pokretanju prezentacije napravljene u R-u, upoznavanju sa R okruženjem, učitavanju podataka različitih formata i osnovnim konceptima rada u okruženju. U drugom delu radionice naučićete kako da sredite podatke i da manipulišete njima, kao i par osnovnih koraka u prikazu i analizi podataka.\n\nKome je namenjeno?\nRadionica je praktično orijentisana i namenjena je svima koji su zainteresovani da nauče R. Potpunim početnicima u programiranju, kao i onima koji to nisu a žele da se podsete ili upoznaju osnove R jezika.\n\nKo su predavači?\nRanka Medenica-Todorović je diplomirani sociolog, master inženjer urbanizma i regionalnog razvoja. Radi kao asistent na Fakultetu tehničkih nauka u Novom Sadu, na Departmanu za arhitekturu i urbanizam.\n\nMaja Pokuševski je diplomirani psiholog i master primenjene statistike sa dugogodišnjim iskustvom u sprovođenju celokupnih kvantitativnih i kvalitativnih istraživanja.\n\nPrijava\nRadionica je besplatna, ali je prijava obavezna zbog ograničenog broja mesta. Ne zaboravite da ponesete laptop!",
-    "status": "PAST",
-    "dateTime": "2019-09-28T16:00:00+02:00",
-    "duration": "PT2H",
-    "eventUrl": "https://www.meetup.com/rladies-novi-sad/events/264748499/",
     "featuredEventPhoto": {},
     "rsvps": {
       "yesCount": 16,
@@ -162,7 +64,110 @@
     "group": {
       "name": "R-Ladies Novi Sad",
       "urlname": "rladies-novi-sad"
-    }
+    },
+    "createdTime": "2019-11-11T10:51:09-05:00"
+  },
+  {
+    "id": "265685583",
+    "title": "Meetup #4 Vizualizacija u R-u",
+    "description": "Treća radionica posvećena vizualizacijskim tehnikama programskog jezika R biće održana u Startit Centru u Novom Sadu 26.10.2019. sa početkom u 11h.\n\nU prvom delu radionice radićemo vizualizaciju podataka uz pomoć paketa „ggplot2“. Naučićemo kako se vizualizuje jedna promenljiva, bila ona neprekidna ili diskretna. Zatim, obradićemo vizualizaciju dve promenljive u kombinacijama: neprekidna – neprekidna, diskretna\n– neprekidna i diskretna – diskretna.\n\nU drugom delu radionice radićemo vizualizaciju podataka uz pomoć paketa „leaflet“. Naučićemo kako da napravimo interaktivnu mapu zahvaljujući geolokacijskim podacima.\n\nZainteresovani za radionicu mogu poneti i svoje podatke!\n\nRadionica je namenjena onima koji su zainteresovani da nauče R kao i onima koji ga već koriste. Radionica je besplatna, ali je prijava obavezna zbog ograničenog broja mesta.\n\nNe zaboravite da u okviru R instalirate pakete „ggplot2“ i „leaflet“ i da ponesete laptop :)\n\nPredavač:\nVera Miler Jerković je doktor nauka primenjene matematika sa dugogodišnjim iskustvom u obradi podataka i edukaciji.",
+    "status": "PAST",
+    "dateTime": "2019-10-26T11:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-novi-sad/events/265685583/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 19,
+      "waitlistCount": 0,
+      "totalCount": 19
+    },
+    "venues": [
+      {
+        "id": "26078927",
+        "name": "Startit Centar Novi Sad",
+        "address": "Miroslava Antića 2",
+        "city": "Novi Sad",
+        "state": "",
+        "country": "rs",
+        "lat": 45.2519,
+        "lon": 19.8457,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Novi Sad",
+      "urlname": "rladies-novi-sad"
+    },
+    "createdTime": "2019-10-15T10:54:02-04:00"
+  },
+  {
+    "id": "265499932",
+    "title": "Meetup #3 Osnove programiranja u R-u (II deo)",
+    "description": "U Startit Centru u Novom Sadu 19.10.2019 sa početkom u 11h održaće se druga radionica koja je posvećena osnovama programskog jezika R.\nNa radionici će se ponoviti osnovni koncepti sa prethodne radionice: tipovi podataka, kreiranje data frame-a, a nakon toga će se pažnja posvetiti učitavanju podataka različitih formata, sređivanju i manipulaciji podacima, tretmanu nedostajućih podataka kao i osnovnim koracima u prikazu i analizi podataka. Zainteresovani za radionicu mogu da ponesu svoje podatke.\n\nU drugom delu radionice pokrenućemo Swirl: učite R u R-u. Ovaj interaktivni deo R-a namenjen je samostalnom učenju R-a. Pored osnove R-a uz ovaj paket možete naučiti osnove regresionog modeliranja, statističkog zakljičivanja i eksploratorne analize podataka.\n\nKome je namenjena radionica?\nSvima koji su zainteresovani da nauče R. Potpunim početnicima u programiranju kao i onima koji to nisu.\n\nPredavači\nMaja Pokuševski je diplomirani psiholog i master primenjene statistike sa dugogodišnjim iskustvom u sprovođenju celokupnih kvantitativnih i kvalitativnih istraživanja.\nKatica Ristić je diplomirani inženjer matematike, Data Science entuzijasta, sa desetogodišnjim iskustvom kao edukator.\n\nRadionica je besplatna, ali je prijava obavezna zbog ograničenog broja mesta.\n\nNe zaboravite da ponesete laptom na kom je instaliran R i RStudio!",
+    "status": "PAST",
+    "dateTime": "2019-10-19T11:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-novi-sad/events/265499932/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 17,
+      "waitlistCount": 0,
+      "totalCount": 17
+    },
+    "venues": [
+      {
+        "id": "26078927",
+        "name": "Startit Centar Novi Sad",
+        "address": "Miroslava Antića 2",
+        "city": "Novi Sad",
+        "state": "",
+        "country": "rs",
+        "lat": 45.2519,
+        "lon": 19.8457,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Novi Sad",
+      "urlname": "rladies-novi-sad"
+    },
+    "createdTime": "2019-10-08T07:22:11-04:00"
+  },
+  {
+    "id": "264748499",
+    "title": "Meetup #2 Osnove programiranja u R-u",
+    "description": "Sa zadovoljstvom vas pozivamo na prvu radionicu, u nizu predstojećih, koja je posvećena osnovama programskog jezika R.\n\nRadionica će se održati u Startit Centru u Novom Sadu 28.9.2019. godine sa početkom u 16h, a održaće je Ranka Medenica Todorović i Maja Pokuševski.\n\nPrvi deo radionice biće posvećen instalaciji R-a, pokretanju prezentacije napravljene u R-u, upoznavanju sa R okruženjem, učitavanju podataka različitih formata i osnovnim konceptima rada u okruženju. U drugom delu radionice naučićete kako da sredite podatke i da manipulišete njima, kao i par osnovnih koraka u prikazu i analizi podataka.\n\nKome je namenjeno?\nRadionica je praktično orijentisana i namenjena je svima koji su zainteresovani da nauče R. Potpunim početnicima u programiranju, kao i onima koji to nisu a žele da se podsete ili upoznaju osnove R jezika.\n\nKo su predavači?\nRanka Medenica-Todorović je diplomirani sociolog, master inženjer urbanizma i regionalnog razvoja. Radi kao asistent na Fakultetu tehničkih nauka u Novom Sadu, na Departmanu za arhitekturu i urbanizam.\n\nMaja Pokuševski je diplomirani psiholog i master primenjene statistike sa dugogodišnjim iskustvom u sprovođenju celokupnih kvantitativnih i kvalitativnih istraživanja.\n\nPrijava\nRadionica je besplatna, ali je prijava obavezna zbog ograničenog broja mesta. Ne zaboravite da ponesete laptop!",
+    "status": "PAST",
+    "dateTime": "2019-09-28T16:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-novi-sad/events/264748499/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 12,
+      "waitlistCount": 0,
+      "totalCount": 12
+    },
+    "venues": [
+      {
+        "id": "26078927",
+        "name": "Startit Centar Novi Sad",
+        "address": "Miroslava Antića 2",
+        "city": "Novi Sad",
+        "state": "",
+        "country": "rs",
+        "lat": 45.2519,
+        "lon": 19.8457,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Novi Sad",
+      "urlname": "rladies-novi-sad"
+    },
+    "createdTime": "2019-09-11T09:05:31-04:00"
   },
   {
     "id": "262195286",
@@ -180,9 +185,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/4/a/7/thumb_482121671.jpeg"
     },
     "rsvps": {
-      "yesCount": 32,
+      "yesCount": 22,
       "waitlistCount": 0,
-      "totalCount": 32
+      "totalCount": 22
     },
     "venues": [
       {
@@ -201,7 +206,8 @@
     "group": {
       "name": "R-Ladies Novi Sad",
       "urlname": "rladies-novi-sad"
-    }
+    },
+    "createdTime": "2019-06-10T06:58:07-04:00"
   },
   {
     "id": "269241946",
@@ -213,9 +219,9 @@
     "eventUrl": "https://www.meetup.com/rladies-novi-sad/events/269241946/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 18,
+      "yesCount": 15,
       "waitlistCount": 0,
-      "totalCount": 18
+      "totalCount": 15
     },
     "venues": [
       {
@@ -234,6 +240,7 @@
     "group": {
       "name": "R-Ladies Novi Sad",
       "urlname": "rladies-novi-sad"
-    }
+    },
+    "createdTime": "2020-03-06T16:53:47-05:00"
   }
 ]

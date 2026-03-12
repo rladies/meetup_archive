@@ -15,9 +15,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/c/f/8/thumb_471571992.jpeg"
     },
     "rsvps": {
-      "yesCount": 28,
-      "waitlistCount": 11,
-      "totalCount": 28
+      "yesCount": 18,
+      "waitlistCount": 4,
+      "totalCount": 18
     },
     "venues": [
       {
@@ -36,7 +36,8 @@
     "group": {
       "name": "R-Ladies La Plata",
       "urlname": "rladies-la-plata"
-    }
+    },
+    "createdTime": "2018-05-30T12:59:08-04:00"
   },
   {
     "id": "249035405",
@@ -46,17 +47,11 @@
     "dateTime": "2018-04-19T18:00:00-03:00",
     "duration": "PT2H",
     "eventUrl": "https://www.meetup.com/rladies-la-plata/events/249035405/",
-    "featuredEventPhoto": {
-      "id": "469494944",
-      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/6/a/0/highres_469494944.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/6/a/0/600_469494944.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/6/a/0/thumb_469494944.jpeg"
-    },
+    "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 10,
+      "yesCount": 3,
       "waitlistCount": 0,
-      "totalCount": 10
+      "totalCount": 3
     },
     "venues": [
       {
@@ -75,6 +70,7 @@
     "group": {
       "name": "R-Ladies La Plata",
       "urlname": "rladies-la-plata"
-    }
+    },
+    "createdTime": "2018-03-23T14:03:15-04:00"
   }
 ]

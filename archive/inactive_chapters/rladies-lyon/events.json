@@ -7,17 +7,11 @@
     "dateTime": "2019-11-04T18:45:00+01:00",
     "duration": "PT2H",
     "eventUrl": "https://www.meetup.com/rladies-lyon/events/266016148/",
-    "featuredEventPhoto": {
-      "id": "486164964",
-      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/f/a/4/highres_486164964.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/f/a/4/600_486164964.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/f/a/4/thumb_486164964.jpeg"
-    },
+    "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 17,
+      "yesCount": 12,
       "waitlistCount": 0,
-      "totalCount": 17
+      "totalCount": 12
     },
     "venues": [
       {
@@ -36,7 +30,8 @@
     "group": {
       "name": "R-Ladies Lyon",
       "urlname": "rladies-lyon"
-    }
+    },
+    "createdTime": "2019-10-28T07:42:41-04:00"
   },
   {
     "id": "266106442",
@@ -75,7 +70,8 @@
     "group": {
       "name": "R-Ladies Lyon",
       "urlname": "rladies-lyon"
-    }
+    },
+    "createdTime": "2019-10-31T10:17:08-04:00"
   },
   {
     "id": "260245977",
@@ -85,17 +81,11 @@
     "dateTime": "2019-04-15T18:30:00+02:00",
     "duration": "PT2H",
     "eventUrl": "https://www.meetup.com/rladies-lyon/events/260245977/",
-    "featuredEventPhoto": {
-      "id": "480030264",
-      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/6/3/8/highres_480030264.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/6/3/8/600_480030264.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/6/3/8/thumb_480030264.jpeg"
-    },
+    "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 23,
+      "yesCount": 18,
       "waitlistCount": 0,
-      "totalCount": 23
+      "totalCount": 18
     },
     "venues": [
       {
@@ -114,7 +104,8 @@
     "group": {
       "name": "R-Ladies Lyon",
       "urlname": "rladies-lyon"
-    }
+    },
+    "createdTime": "2019-04-01T09:08:52-04:00"
   },
   {
     "id": "259296467",
@@ -126,9 +117,9 @@
     "eventUrl": "https://www.meetup.com/rladies-lyon/events/259296467/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 6,
+      "yesCount": 5,
       "waitlistCount": 0,
-      "totalCount": 6
+      "totalCount": 5
     },
     "venues": [
       {
@@ -147,6 +138,7 @@
     "group": {
       "name": "R-Ladies Lyon",
       "urlname": "rladies-lyon"
-    }
+    },
+    "createdTime": "2019-02-26T10:16:26-05:00"
   }
 ]

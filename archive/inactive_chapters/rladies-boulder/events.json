@@ -15,9 +15,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/0/0/1/thumb_486844097.jpeg"
     },
     "rsvps": {
-      "yesCount": 9,
+      "yesCount": 7,
       "waitlistCount": 0,
-      "totalCount": 9
+      "totalCount": 7
     },
     "venues": [
       {
@@ -36,7 +36,8 @@
     "group": {
       "name": "R-Ladies Boulder",
       "urlname": "rladies-boulder"
-    }
+    },
+    "createdTime": "2019-11-21T17:06:17-05:00"
   },
   {
     "id": "266222411",
@@ -52,6 +53,46 @@
       "highResUrl": "https://secure.meetupstatic.com/photos/event/7/2/7/b/highres_486389307.jpeg",
       "standardUrl": "https://secure.meetupstatic.com/photos/event/7/2/7/b/600_486389307.jpeg",
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/2/7/b/thumb_486389307.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 7,
+      "waitlistCount": 0,
+      "totalCount": 7
+    },
+    "venues": [
+      {
+        "id": "26584478",
+        "name": "2990 Wilderness Pl",
+        "address": "2990 Wilderness Pl",
+        "city": "Boulder",
+        "state": "CO",
+        "country": "us",
+        "lat": 40.0289,
+        "lon": -105.2469,
+        "postalCode": "80301",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Boulder",
+      "urlname": "rladies-boulder"
+    },
+    "createdTime": "2019-11-04T22:03:40-05:00"
+  },
+  {
+    "id": "265316428",
+    "title": "R Ladies Boulder Meetup #2: TidyTuesday",
+    "description": "Hi Boulder UseRs! Join us for this month's R Ladies Meetup: TidyTuesday!\n\nWe plan to participate in TidyTuesday, which is a fun, low-stress coding challenge posted weekly by the R4DS online learning community.\n\n** Please bring your laptops!**\n\nThe goal of TidyTuesday is to flex your tidyverse muscles for data wrangling and plotting. However, if you're new to tidyverse (or a die-hard base R useR), you are also more than welcome to join! This is a chance to learn from more experienced tidyverse useRs and make new connections at the same time.\n\nFor more information on TidyTuesday, see here: https://github.com/rfordatascience/tidytuesday\n\n5:45-6:00pm - Arrival and mingling\n6:00-6:15pm - Introductions & instructions\n6:15-7:15pm - TidyTuesday group coding challenge!\n\nVenue and refreshments graciously provided by SomaLogic.\n\nCan't wait to see you all there!",
+    "status": "PAST",
+    "dateTime": "2019-10-08T17:45:00-06:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-boulder/events/265316428/",
+    "featuredEventPhoto": {
+      "id": "485399826",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/e/9/b/2/highres_485399826.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/e/9/b/2/600_485399826.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/9/b/2/thumb_485399826.jpeg"
     },
     "rsvps": {
       "yesCount": 12,
@@ -75,46 +116,8 @@
     "group": {
       "name": "R-Ladies Boulder",
       "urlname": "rladies-boulder"
-    }
-  },
-  {
-    "id": "265316428",
-    "title": "R Ladies Boulder Meetup #2: TidyTuesday",
-    "description": "Hi Boulder UseRs! Join us for this month's R Ladies Meetup: TidyTuesday!\n\nWe plan to participate in TidyTuesday, which is a fun, low-stress coding challenge posted weekly by the R4DS online learning community.\n\n** Please bring your laptops!**\n\nThe goal of TidyTuesday is to flex your tidyverse muscles for data wrangling and plotting. However, if you're new to tidyverse (or a die-hard base R useR), you are also more than welcome to join! This is a chance to learn from more experienced tidyverse useRs and make new connections at the same time.\n\nFor more information on TidyTuesday, see here: https://github.com/rfordatascience/tidytuesday\n\n5:45-6:00pm - Arrival and mingling\n6:00-6:15pm - Introductions & instructions\n6:15-7:15pm - TidyTuesday group coding challenge!\n\nVenue and refreshments graciously provided by SomaLogic.\n\nCan't wait to see you all there!",
-    "status": "PAST",
-    "dateTime": "2019-10-08T17:45:00-06:00",
-    "duration": "PT1H30M",
-    "eventUrl": "https://www.meetup.com/rladies-boulder/events/265316428/",
-    "featuredEventPhoto": {
-      "id": "485399826",
-      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/e/9/b/2/highres_485399826.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/e/9/b/2/600_485399826.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/9/b/2/thumb_485399826.jpeg"
     },
-    "rsvps": {
-      "yesCount": 13,
-      "waitlistCount": 0,
-      "totalCount": 13
-    },
-    "venues": [
-      {
-        "id": "26584478",
-        "name": "2990 Wilderness Pl",
-        "address": "2990 Wilderness Pl",
-        "city": "Boulder",
-        "state": "CO",
-        "country": "us",
-        "lat": 40.0289,
-        "lon": -105.2469,
-        "postalCode": "80301",
-        "venueType": ""
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Boulder",
-      "urlname": "rladies-boulder"
-    }
+    "createdTime": "2019-10-01T12:51:49-04:00"
   },
   {
     "id": "264186869",
@@ -132,9 +135,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/5/b/6/thumb_484449654.jpeg"
     },
     "rsvps": {
-      "yesCount": 30,
+      "yesCount": 22,
       "waitlistCount": 0,
-      "totalCount": 30
+      "totalCount": 22
     },
     "venues": [
       {
@@ -153,7 +156,8 @@
     "group": {
       "name": "R-Ladies Boulder",
       "urlname": "rladies-boulder"
-    }
+    },
+    "createdTime": "2019-08-21T09:42:31-04:00"
   },
   {
     "id": "274264141",
@@ -171,9 +175,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/1/7/c/thumb_493284956.jpeg"
     },
     "rsvps": {
-      "yesCount": 20,
+      "yesCount": 18,
       "waitlistCount": 0,
-      "totalCount": 20
+      "totalCount": 18
     },
     "venues": [
       {
@@ -192,7 +196,8 @@
     "group": {
       "name": "R-Ladies Boulder",
       "urlname": "rladies-boulder"
-    }
+    },
+    "createdTime": "2020-10-29T16:07:20-04:00"
   },
   {
     "id": "273646366",
@@ -204,9 +209,9 @@
     "eventUrl": "https://www.meetup.com/rladies-boulder/events/273646366/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 16,
+      "yesCount": 13,
       "waitlistCount": 0,
-      "totalCount": 16
+      "totalCount": 13
     },
     "venues": [
       {
@@ -225,7 +230,8 @@
     "group": {
       "name": "R-Ladies Boulder",
       "urlname": "rladies-boulder"
-    }
+    },
+    "createdTime": "2020-10-01T15:05:36-04:00"
   },
   {
     "id": "272634605",
@@ -243,9 +249,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/5/9/9/thumb_491914201.jpeg"
     },
     "rsvps": {
-      "yesCount": 20,
+      "yesCount": 17,
       "waitlistCount": 0,
-      "totalCount": 20
+      "totalCount": 17
     },
     "venues": [
       {
@@ -264,7 +270,8 @@
     "group": {
       "name": "R-Ladies Boulder",
       "urlname": "rladies-boulder"
-    }
+    },
+    "createdTime": "2020-08-17T11:42:56-04:00"
   },
   {
     "id": "271774779",
@@ -276,9 +283,9 @@
     "eventUrl": "https://www.meetup.com/rladies-boulder/events/271774779/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 7,
+      "yesCount": 6,
       "waitlistCount": 0,
-      "totalCount": 7
+      "totalCount": 6
     },
     "venues": [
       {
@@ -297,7 +304,8 @@
     "group": {
       "name": "R-Ladies Boulder",
       "urlname": "rladies-boulder"
-    }
+    },
+    "createdTime": "2020-07-07T12:24:02-04:00"
   },
   {
     "id": "271672015",
@@ -315,9 +323,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/5/5/d/thumb_491158717.jpeg"
     },
     "rsvps": {
-      "yesCount": 8,
+      "yesCount": 7,
       "waitlistCount": 0,
-      "totalCount": 8
+      "totalCount": 7
     },
     "venues": [
       {
@@ -336,7 +344,8 @@
     "group": {
       "name": "R-Ladies Boulder",
       "urlname": "rladies-boulder"
-    }
+    },
+    "createdTime": "2020-07-02T12:05:05-04:00"
   },
   {
     "id": "269093638",
@@ -354,9 +363,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/8/2/thumb_489421410.jpeg"
     },
     "rsvps": {
-      "yesCount": 13,
+      "yesCount": 10,
       "waitlistCount": 0,
-      "totalCount": 13
+      "totalCount": 10
     },
     "venues": [
       {
@@ -375,7 +384,8 @@
     "group": {
       "name": "R-Ladies Boulder",
       "urlname": "rladies-boulder"
-    }
+    },
+    "createdTime": "2020-02-29T16:46:58-05:00"
   },
   {
     "id": "268492926",
@@ -414,7 +424,8 @@
     "group": {
       "name": "R-Ladies Boulder",
       "urlname": "rladies-boulder"
-    }
+    },
+    "createdTime": "2020-02-05T19:57:08-05:00"
   },
   {
     "id": "267593347",
@@ -432,9 +443,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/c/1/0/thumb_487831760.jpeg"
     },
     "rsvps": {
-      "yesCount": 25,
+      "yesCount": 22,
       "waitlistCount": 0,
-      "totalCount": 25
+      "totalCount": 22
     },
     "venues": [
       {
@@ -453,7 +464,8 @@
     "group": {
       "name": "R-Ladies Boulder",
       "urlname": "rladies-boulder"
-    }
+    },
+    "createdTime": "2020-01-02T16:44:15-05:00"
   },
   {
     "id": "282425167",
@@ -492,7 +504,8 @@
     "group": {
       "name": "R-Ladies Boulder",
       "urlname": "rladies-boulder"
-    }
+    },
+    "createdTime": "2021-12-01T10:51:26-05:00"
   },
   {
     "id": "281879108",
@@ -525,7 +538,8 @@
     "group": {
       "name": "R-Ladies Boulder",
       "urlname": "rladies-boulder"
-    }
+    },
+    "createdTime": "2021-11-04T18:49:15-04:00"
   },
   {
     "id": "281305294",
@@ -564,7 +578,8 @@
     "group": {
       "name": "R-Ladies Boulder",
       "urlname": "rladies-boulder"
-    }
+    },
+    "createdTime": "2021-10-08T17:43:05-04:00"
   },
   {
     "id": "280619032",
@@ -582,9 +597,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/d/1/a/thumb_498679738.jpeg"
     },
     "rsvps": {
-      "yesCount": 22,
+      "yesCount": 20,
       "waitlistCount": 0,
-      "totalCount": 22
+      "totalCount": 20
     },
     "venues": [
       {
@@ -603,7 +618,8 @@
     "group": {
       "name": "R-Ladies Boulder",
       "urlname": "rladies-boulder"
-    }
+    },
+    "createdTime": "2021-09-07T13:33:42-04:00"
   },
   {
     "id": "279892572",
@@ -615,9 +631,9 @@
     "eventUrl": "https://www.meetup.com/rladies-boulder/events/279892572/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 26,
+      "yesCount": 24,
       "waitlistCount": 0,
-      "totalCount": 26
+      "totalCount": 24
     },
     "venues": [
       {
@@ -636,7 +652,8 @@
     "group": {
       "name": "R-Ladies Boulder",
       "urlname": "rladies-boulder"
-    }
+    },
+    "createdTime": "2021-08-03T15:40:10-04:00"
   },
   {
     "id": "279172253",
@@ -669,7 +686,8 @@
     "group": {
       "name": "R-Ladies Boulder",
       "urlname": "rladies-boulder"
-    }
+    },
+    "createdTime": "2021-06-30T11:55:28-04:00"
   },
   {
     "id": "278580532",
@@ -681,9 +699,9 @@
     "eventUrl": "https://www.meetup.com/rladies-boulder/events/278580532/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 18,
+      "yesCount": 16,
       "waitlistCount": 0,
-      "totalCount": 18
+      "totalCount": 16
     },
     "venues": [
       {
@@ -702,7 +720,8 @@
     "group": {
       "name": "R-Ladies Boulder",
       "urlname": "rladies-boulder"
-    }
+    },
+    "createdTime": "2021-06-02T17:28:45-04:00"
   },
   {
     "id": "278024064",
@@ -713,6 +732,80 @@
     "duration": "PT1H",
     "eventUrl": "https://www.meetup.com/rladies-boulder/events/278024064/",
     "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 12,
+      "waitlistCount": 0,
+      "totalCount": 12
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Boulder",
+      "urlname": "rladies-boulder"
+    },
+    "createdTime": "2021-05-06T12:32:29-04:00"
+  },
+  {
+    "id": "276975668",
+    "title": "R Ladies Boulder Meetup #13: Lasso, Ridge, and Elastic Net Regression",
+    "description": "Hi Boulder UseRs! We are back in action next month after our hiatus! Join us for a virtual R Ladies Meetup where Dr. Marta Jankowska will be giving a tutorial on Elastic Net, Ridge, and Lasso Regression approaches!\nPlease stay tuned for more details on Dr. Jankowska's tutorial.\n\nWe will be meeting over Zoom (Meeting link visible when you RSVP). Join us to connect with other R users in the Boulder area and learn some new techniques to apply in your work!\n\nWe hope you'll also join our local Slack workspace to keep the R help and conversation flowing! To get access to the Slack workspace, please fill out this short Google form: https://forms.gle/j36YGxuNwN6zZ8nW7.",
+    "status": "PAST",
+    "dateTime": "2021-04-13T19:00:00-06:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-boulder/events/276975668/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 22,
+      "waitlistCount": 0,
+      "totalCount": 22
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Boulder",
+      "urlname": "rladies-boulder"
+    },
+    "createdTime": "2021-03-16T18:24:59-04:00"
+  },
+  {
+    "id": "285558959",
+    "title": "RLadies-Boulder #25: Government Data w/ Christina Brady",
+    "description": "**The Talk:**\nGovernment data: Use it for research, to hold your government accountable or just for data practice and experimentation. It's free, plenty and messy! I'll walk through some common (and some lesser known) data sets published by the federal government as well as some state and local data sources.\n\n**About the Speaker:**\nI have been doing data science-y things including analysis, visualization and some machine learning for about 8 years. I currently do that for the Office of Federal Student Aid in the US Department of Education. My past lives include leading a data team in a small newsroom (hence the knowledge of public data sets) and analyzing, predicting and communicating the health of the World Bank portfolio of projects.",
+    "status": "PAST",
+    "dateTime": "2022-05-10T19:00:00-06:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-boulder/events/285558959/",
+    "featuredEventPhoto": {
+      "id": "503714400",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/8/4/0/highres_503714400.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/8/4/0/600_503714400.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/8/4/0/thumb_503714400.jpeg"
+    },
     "rsvps": {
       "yesCount": 13,
       "waitlistCount": 0,
@@ -735,79 +828,8 @@
     "group": {
       "name": "R-Ladies Boulder",
       "urlname": "rladies-boulder"
-    }
-  },
-  {
-    "id": "276975668",
-    "title": "R Ladies Boulder Meetup #13: Lasso, Ridge, and Elastic Net Regression",
-    "description": "Hi Boulder UseRs! We are back in action next month after our hiatus! Join us for a virtual R Ladies Meetup where Dr. Marta Jankowska will be giving a tutorial on Elastic Net, Ridge, and Lasso Regression approaches!\nPlease stay tuned for more details on Dr. Jankowska's tutorial.\n\nWe will be meeting over Zoom (Meeting link visible when you RSVP). Join us to connect with other R users in the Boulder area and learn some new techniques to apply in your work!\n\nWe hope you'll also join our local Slack workspace to keep the R help and conversation flowing! To get access to the Slack workspace, please fill out this short Google form: https://forms.gle/j36YGxuNwN6zZ8nW7.",
-    "status": "PAST",
-    "dateTime": "2021-04-13T19:00:00-06:00",
-    "duration": "PT1H",
-    "eventUrl": "https://www.meetup.com/rladies-boulder/events/276975668/",
-    "featuredEventPhoto": {},
-    "rsvps": {
-      "yesCount": 27,
-      "waitlistCount": 0,
-      "totalCount": 27
     },
-    "venues": [
-      {
-        "id": "26906060",
-        "name": "Online event",
-        "address": "",
-        "city": "",
-        "state": "",
-        "country": "",
-        "lat": -8.5211,
-        "lon": 179.1962,
-        "postalCode": "",
-        "venueType": "online"
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Boulder",
-      "urlname": "rladies-boulder"
-    }
-  },
-  {
-    "id": "285558959",
-    "title": "RLadies-Boulder #25: Government Data w/ Christina Brady",
-    "description": "**The Talk:**\nGovernment data: Use it for research, to hold your government accountable or just for data practice and experimentation. It's free, plenty and messy! I'll walk through some common (and some lesser known) data sets published by the federal government as well as some state and local data sources.\n\n**About the Speaker:**\nI have been doing data science-y things including analysis, visualization and some machine learning for about 8 years. I currently do that for the Office of Federal Student Aid in the US Department of Education. My past lives include leading a data team in a small newsroom (hence the knowledge of public data sets) and analyzing, predicting and communicating the health of the World Bank portfolio of projects.",
-    "status": "PAST",
-    "dateTime": "2022-05-10T19:00:00-06:00",
-    "duration": "PT1H",
-    "eventUrl": "https://www.meetup.com/rladies-boulder/events/285558959/",
-    "featuredEventPhoto": {
-      "id": "503714400",
-      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/8/4/0/highres_503714400.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/8/4/0/600_503714400.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/8/4/0/thumb_503714400.jpeg"
-    },
-    "rsvps": {
-      "yesCount": 15,
-      "waitlistCount": 0,
-      "totalCount": 15
-    },
-    "venues": [
-      {
-        "id": "26906060",
-        "name": "Online event",
-        "address": "",
-        "city": "",
-        "state": "",
-        "country": "",
-        "lat": -8.5211,
-        "lon": 179.1962,
-        "postalCode": "",
-        "venueType": "online"
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Boulder",
-      "urlname": "rladies-boulder"
-    }
+    "createdTime": "2022-04-27T22:55:00-04:00"
   },
   {
     "id": "284341990",
@@ -825,9 +847,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/6/1/9/thumb_502389753.jpeg"
     },
     "rsvps": {
-      "yesCount": 20,
+      "yesCount": 19,
       "waitlistCount": 0,
-      "totalCount": 20
+      "totalCount": 19
     },
     "venues": [
       {
@@ -846,7 +868,8 @@
     "group": {
       "name": "R-Ladies Boulder",
       "urlname": "rladies-boulder"
-    }
+    },
+    "createdTime": "2022-03-01T18:26:54-05:00"
   },
   {
     "id": "283724698",
@@ -885,7 +908,8 @@
     "group": {
       "name": "R-Ladies Boulder",
       "urlname": "rladies-boulder"
-    }
+    },
+    "createdTime": "2022-02-04T15:54:22-05:00"
   },
   {
     "id": "283098539",
@@ -903,9 +927,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/3/7/f/thumb_501217759.jpeg"
     },
     "rsvps": {
-      "yesCount": 22,
+      "yesCount": 21,
       "waitlistCount": 0,
-      "totalCount": 22
+      "totalCount": 21
     },
     "venues": [
       {
@@ -924,7 +948,8 @@
     "group": {
       "name": "R-Ladies Boulder",
       "urlname": "rladies-boulder"
-    }
+    },
+    "createdTime": "2022-01-06T11:21:35-05:00"
   },
   {
     "id": "291984399",
@@ -963,7 +988,8 @@
     "group": {
       "name": "R-Ladies Boulder",
       "urlname": "rladies-boulder"
-    }
+    },
+    "createdTime": "2023-03-02T11:46:57-05:00"
   },
   {
     "id": "290371414",
@@ -1002,6 +1028,7 @@
     "group": {
       "name": "R-Ladies Boulder",
       "urlname": "rladies-boulder"
-    }
+    },
+    "createdTime": "2022-12-16T13:00:36-05:00"
   }
 ]

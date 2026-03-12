@@ -9,9 +9,9 @@
     "eventUrl": "https://www.meetup.com/rladies-bergen/events/266144484/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 26,
+      "yesCount": 19,
       "waitlistCount": 0,
-      "totalCount": 26
+      "totalCount": 19
     },
     "venues": [
       {
@@ -30,7 +30,8 @@
     "group": {
       "name": "R-Ladies Bergen",
       "urlname": "rladies-bergen"
-    }
+    },
+    "createdTime": "2019-11-01T16:43:10-04:00"
   },
   {
     "id": "274862794",
@@ -48,9 +49,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/1/3/f/thumb_493773087.jpeg"
     },
     "rsvps": {
-      "yesCount": 7,
+      "yesCount": 6,
       "waitlistCount": 0,
-      "totalCount": 7
+      "totalCount": 6
     },
     "venues": [
       {
@@ -69,7 +70,8 @@
     "group": {
       "name": "R-Ladies Bergen",
       "urlname": "rladies-bergen"
-    }
+    },
+    "createdTime": "2020-11-28T06:51:14-05:00"
   },
   {
     "id": "274392883",
@@ -87,9 +89,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/d/a/d/thumb_493395789.jpeg"
     },
     "rsvps": {
-      "yesCount": 55,
+      "yesCount": 51,
       "waitlistCount": 0,
-      "totalCount": 55
+      "totalCount": 51
     },
     "venues": [
       {
@@ -108,7 +110,8 @@
     "group": {
       "name": "R-Ladies Bergen",
       "urlname": "rladies-bergen"
-    }
+    },
+    "createdTime": "2020-11-04T15:32:26-05:00"
   },
   {
     "id": "273923747",
@@ -124,123 +127,6 @@
       "highResUrl": "https://secure.meetupstatic.com/photos/event/3/6/1/b/highres_493033851.jpeg",
       "standardUrl": "https://secure.meetupstatic.com/photos/event/3/6/1/b/600_493033851.jpeg",
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/6/1/b/thumb_493033851.jpeg"
-    },
-    "rsvps": {
-      "yesCount": 42,
-      "waitlistCount": 0,
-      "totalCount": 42
-    },
-    "venues": [
-      {
-        "id": "26906060",
-        "name": "Online event",
-        "address": "",
-        "city": "",
-        "state": "",
-        "country": "",
-        "lat": -8.5211,
-        "lon": 179.1962,
-        "postalCode": "",
-        "venueType": "online"
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Bergen",
-      "urlname": "rladies-bergen"
-    }
-  },
-  {
-    "id": "273277201",
-    "title": "An introduction to mixed models in R",
-    "description": "We are delighted to be hosting Athanasia \"Mo\" Mowinckel - a co-organiser of the R-Ladies Oslo chapter and heavily involved in R-Ladies Global! Mo does brain research at the University of Oslo where she is an advanced user of R and technology at large. Recently she wrote a little package to help other academics overcome the challenges (and trauma) of uploading CRAN and BioConductor packages to TSD (Service for Sensitive Data). Thank you for that Mo!\n\nIn this talk, she will showcase some of the methods she uses and develops. The methods have been applied to longitudinal brain measurements, however mixed models have a variety of applications in economics, social sciences, genetics and even animal husbandry.\n\nWelcome Mo! Welcome everyone!",
-    "status": "PAST",
-    "dateTime": "2020-10-06T16:15:00+02:00",
-    "duration": "PT2H",
-    "eventUrl": "https://www.meetup.com/rladies-bergen/events/273277201/",
-    "featuredEventPhoto": {
-      "id": "492352177",
-      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/b/d/1/highres_492352177.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/b/d/1/600_492352177.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/b/d/1/thumb_492352177.jpeg"
-    },
-    "rsvps": {
-      "yesCount": 80,
-      "waitlistCount": 0,
-      "totalCount": 80
-    },
-    "venues": [
-      {
-        "id": "26906060",
-        "name": "Online event",
-        "address": "",
-        "city": "",
-        "state": "",
-        "country": "",
-        "lat": -8.5211,
-        "lon": 179.1962,
-        "postalCode": "",
-        "venueType": "online"
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Bergen",
-      "urlname": "rladies-bergen"
-    }
-  },
-  {
-    "id": "272546357",
-    "title": "Creating a webpage with blogdown",
-    "description": "You don't need to know HTML, CSS, or javascript to create your own webpage! (Although you will need to know _about_ it). We will create a personal webpage entirely within RStudio. Personalised webpages are a great way to share your research or entrepreneurial projects. Move over ResearchGate and LinkedIn, now you control how your information is presented using your own unique style!\n\nThis is based on the fantastic R package blogdown (https://bookdown.org/yihui/blogdown/), which you would need to install, along with Hugo (as instructed here: https://bookdown.org/yihui/blogdown/installation.html). To publish the webpage, you can use your github, bitbucket, or any other publishing service account.\n\nNB: This is an online event, with the link visible to attendees.",
-    "status": "PAST",
-    "dateTime": "2020-09-03T18:30:00+02:00",
-    "duration": "PT2H",
-    "eventUrl": "https://www.meetup.com/rladies-bergen/events/272546357/",
-    "featuredEventPhoto": {
-      "id": "491796400",
-      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/e/3/0/highres_491796400.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/e/3/0/600_491796400.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/e/3/0/thumb_491796400.jpeg"
-    },
-    "rsvps": {
-      "yesCount": 66,
-      "waitlistCount": 0,
-      "totalCount": 66
-    },
-    "venues": [
-      {
-        "id": "26906060",
-        "name": "Online event",
-        "address": "",
-        "city": "",
-        "state": "",
-        "country": "",
-        "lat": -8.5211,
-        "lon": 179.1962,
-        "postalCode": "",
-        "venueType": "online"
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Bergen",
-      "urlname": "rladies-bergen"
-    }
-  },
-  {
-    "id": "270868059",
-    "title": "Troubleshooting R",
-    "description": "This meeting is mostly for those who don't consider themselves experts in R and did not take programming classes before starting to program, as well as for those that need their programming basics refreshed.\n\nJulia will present shortly some basics of programming and R-language that are essential to know. We will watch a great video by Jenny Bryan (https://jennybryan.org/ https://rstudio.com/resources/webinars/help-me-help-you-creating-reproducible-examples/), discuss it and learn how to tackle the mysterious error messages appearing on our screens.\n\nNote: the event is online, using Zoom (https://zoom.us/). Everyone is encouraged to install it and test before the event. The link to the meeting will be visible to those who RSVP.\n\n[Photo by Cookie the Pom on Unsplash]",
-    "status": "PAST",
-    "dateTime": "2020-06-15T16:45:00+02:00",
-    "duration": "PT1H30M",
-    "eventUrl": "https://www.meetup.com/rladies-bergen/events/270868059/",
-    "featuredEventPhoto": {
-      "id": "490569398",
-      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/4/b/6/highres_490569398.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/4/b/6/600_490569398.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/4/b/6/thumb_490569398.jpeg"
     },
     "rsvps": {
       "yesCount": 39,
@@ -264,7 +150,128 @@
     "group": {
       "name": "R-Ladies Bergen",
       "urlname": "rladies-bergen"
-    }
+    },
+    "createdTime": "2020-10-14T08:54:14-04:00"
+  },
+  {
+    "id": "273277201",
+    "title": "An introduction to mixed models in R",
+    "description": "We are delighted to be hosting Athanasia \"Mo\" Mowinckel - a co-organiser of the R-Ladies Oslo chapter and heavily involved in R-Ladies Global! Mo does brain research at the University of Oslo where she is an advanced user of R and technology at large. Recently she wrote a little package to help other academics overcome the challenges (and trauma) of uploading CRAN and BioConductor packages to TSD (Service for Sensitive Data). Thank you for that Mo!\n\nIn this talk, she will showcase some of the methods she uses and develops. The methods have been applied to longitudinal brain measurements, however mixed models have a variety of applications in economics, social sciences, genetics and even animal husbandry.\n\nWelcome Mo! Welcome everyone!",
+    "status": "PAST",
+    "dateTime": "2020-10-06T16:15:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-bergen/events/273277201/",
+    "featuredEventPhoto": {
+      "id": "492352177",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/b/d/1/highres_492352177.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/b/d/1/600_492352177.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/b/d/1/thumb_492352177.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 70,
+      "waitlistCount": 0,
+      "totalCount": 70
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bergen",
+      "urlname": "rladies-bergen"
+    },
+    "createdTime": "2020-09-15T14:36:18-04:00"
+  },
+  {
+    "id": "272546357",
+    "title": "Creating a webpage with blogdown",
+    "description": "You don't need to know HTML, CSS, or javascript to create your own webpage! (Although you will need to know _about_ it). We will create a personal webpage entirely within RStudio. Personalised webpages are a great way to share your research or entrepreneurial projects. Move over ResearchGate and LinkedIn, now you control how your information is presented using your own unique style!\n\nThis is based on the fantastic R package blogdown (https://bookdown.org/yihui/blogdown/), which you would need to install, along with Hugo (as instructed here: https://bookdown.org/yihui/blogdown/installation.html). To publish the webpage, you can use your github, bitbucket, or any other publishing service account.\n\nNB: This is an online event, with the link visible to attendees.",
+    "status": "PAST",
+    "dateTime": "2020-09-03T18:30:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-bergen/events/272546357/",
+    "featuredEventPhoto": {
+      "id": "491796400",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/e/3/0/highres_491796400.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/e/3/0/600_491796400.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/e/3/0/thumb_491796400.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 58,
+      "waitlistCount": 0,
+      "totalCount": 58
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bergen",
+      "urlname": "rladies-bergen"
+    },
+    "createdTime": "2020-08-13T04:05:17-04:00"
+  },
+  {
+    "id": "270868059",
+    "title": "Troubleshooting R",
+    "description": "This meeting is mostly for those who don't consider themselves experts in R and did not take programming classes before starting to program, as well as for those that need their programming basics refreshed.\n\nJulia will present shortly some basics of programming and R-language that are essential to know. We will watch a great video by Jenny Bryan (https://jennybryan.org/ https://rstudio.com/resources/webinars/help-me-help-you-creating-reproducible-examples/), discuss it and learn how to tackle the mysterious error messages appearing on our screens.\n\nNote: the event is online, using Zoom (https://zoom.us/). Everyone is encouraged to install it and test before the event. The link to the meeting will be visible to those who RSVP.\n\n[Photo by Cookie the Pom on Unsplash]",
+    "status": "PAST",
+    "dateTime": "2020-06-15T16:45:00+02:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-bergen/events/270868059/",
+    "featuredEventPhoto": {
+      "id": "490569398",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/4/b/6/highres_490569398.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/4/b/6/600_490569398.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/4/b/6/thumb_490569398.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 29,
+      "waitlistCount": 0,
+      "totalCount": 29
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bergen",
+      "urlname": "rladies-bergen"
+    },
+    "createdTime": "2020-05-25T14:22:18-04:00"
   },
   {
     "id": "268878423",
@@ -280,6 +287,46 @@
       "highResUrl": "https://secure.meetupstatic.com/photos/event/2/9/4/6/highres_489190566.jpeg",
       "standardUrl": "https://secure.meetupstatic.com/photos/event/2/9/4/6/600_489190566.jpeg",
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/9/4/6/thumb_489190566.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 18,
+      "waitlistCount": 0,
+      "totalCount": 18
+    },
+    "venues": [
+      {
+        "id": "26803381",
+        "name": "High Technology Center - University of Bergen",
+        "address": "Thormøhlens Gate 55",
+        "city": "Bergen",
+        "state": "",
+        "country": "no",
+        "lat": 60.3813,
+        "lon": 5.3321,
+        "postalCode": "5008",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bergen",
+      "urlname": "rladies-bergen"
+    },
+    "createdTime": "2020-02-21T03:17:08-05:00"
+  },
+  {
+    "id": "267772872",
+    "title": "Intro to Tidyverse",
+    "description": "We will give an overview of the tidyverse-way of data handling giving you hands-on examples on how to read in, manipulate, and plot data. @Jonelle will be giving us special fresh tips, as she will be attending Hadley Wickham's tutorial at the rstudio:conf 2020 a few days before the meeting!\n\nTo get a quick overview of Hadley's way of thinking, read: https://joss.theoj.org/papers/10.21105/joss.01686\n\nPlease bring your laptop with RStudio (https://rstudio.com/products/rstudio/download/) and Tidyverse (https://www.tidyverse.org/) installed. We will provide coffee, tea, and some snacks.\n\n[Photo credit: Pattern by ameliamn (http://www.amelia.mn, www.redbubble.com)]",
+    "status": "PAST",
+    "dateTime": "2020-02-06T16:30:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-bergen/events/267772872/",
+    "featuredEventPhoto": {
+      "id": "488002405",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/7/8/5/highres_488002405.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/7/8/5/600_488002405.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/7/8/5/thumb_488002405.jpeg"
     },
     "rsvps": {
       "yesCount": 21,
@@ -303,46 +350,8 @@
     "group": {
       "name": "R-Ladies Bergen",
       "urlname": "rladies-bergen"
-    }
-  },
-  {
-    "id": "267772872",
-    "title": "Intro to Tidyverse",
-    "description": "We will give an overview of the tidyverse-way of data handling giving you hands-on examples on how to read in, manipulate, and plot data. @Jonelle will be giving us special fresh tips, as she will be attending Hadley Wickham's tutorial at the rstudio:conf 2020 a few days before the meeting!\n\nTo get a quick overview of Hadley's way of thinking, read: https://joss.theoj.org/papers/10.21105/joss.01686\n\nPlease bring your laptop with RStudio (https://rstudio.com/products/rstudio/download/) and Tidyverse (https://www.tidyverse.org/) installed. We will provide coffee, tea, and some snacks.\n\n[Photo credit: Pattern by ameliamn (http://www.amelia.mn, www.redbubble.com)]",
-    "status": "PAST",
-    "dateTime": "2020-02-06T16:30:00+01:00",
-    "duration": "PT2H",
-    "eventUrl": "https://www.meetup.com/rladies-bergen/events/267772872/",
-    "featuredEventPhoto": {
-      "id": "488002405",
-      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/7/8/5/highres_488002405.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/7/8/5/600_488002405.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/7/8/5/thumb_488002405.jpeg"
     },
-    "rsvps": {
-      "yesCount": 33,
-      "waitlistCount": 0,
-      "totalCount": 33
-    },
-    "venues": [
-      {
-        "id": "26803381",
-        "name": "High Technology Center - University of Bergen",
-        "address": "Thormøhlens Gate 55",
-        "city": "Bergen",
-        "state": "",
-        "country": "no",
-        "lat": 60.3813,
-        "lon": 5.3321,
-        "postalCode": "5008",
-        "venueType": ""
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Bergen",
-      "urlname": "rladies-bergen"
-    }
+    "createdTime": "2020-01-09T03:23:30-05:00"
   },
   {
     "id": "282159683",
@@ -360,9 +369,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/a/a/c/thumb_499483692.jpeg"
     },
     "rsvps": {
-      "yesCount": 11,
+      "yesCount": 9,
       "waitlistCount": 0,
-      "totalCount": 11
+      "totalCount": 9
     },
     "venues": [
       {
@@ -381,7 +390,8 @@
     "group": {
       "name": "R-Ladies Bergen",
       "urlname": "rladies-bergen"
-    }
+    },
+    "createdTime": "2021-11-18T02:38:57-05:00"
   },
   {
     "id": "281945467",
@@ -399,9 +409,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/f/3/9/thumb_500080761.jpeg"
     },
     "rsvps": {
-      "yesCount": 60,
+      "yesCount": 51,
       "waitlistCount": 0,
-      "totalCount": 60
+      "totalCount": 51
     },
     "venues": [
       {
@@ -420,7 +430,8 @@
     "group": {
       "name": "R-Ladies Bergen",
       "urlname": "rladies-bergen"
-    }
+    },
+    "createdTime": "2021-11-08T04:27:03-05:00"
   },
   {
     "id": "281417541",
@@ -438,9 +449,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/a/a/c/thumb_499483692.jpeg"
     },
     "rsvps": {
-      "yesCount": 11,
+      "yesCount": 10,
       "waitlistCount": 0,
-      "totalCount": 11
+      "totalCount": 10
     },
     "venues": [
       {
@@ -459,7 +470,8 @@
     "group": {
       "name": "R-Ladies Bergen",
       "urlname": "rladies-bergen"
-    }
+    },
+    "createdTime": "2021-10-14T03:52:55-04:00"
   },
   {
     "id": "281243389",
@@ -475,162 +487,6 @@
       "highResUrl": "https://secure.meetupstatic.com/photos/event/c/d/3/4/highres_499492532.jpeg",
       "standardUrl": "https://secure.meetupstatic.com/photos/event/c/d/3/4/600_499492532.jpeg",
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/d/3/4/thumb_499492532.jpeg"
-    },
-    "rsvps": {
-      "yesCount": 36,
-      "waitlistCount": 0,
-      "totalCount": 36
-    },
-    "venues": [
-      {
-        "id": "26906060",
-        "name": "Online event",
-        "address": "",
-        "city": "",
-        "state": "",
-        "country": "",
-        "lat": -8.5211,
-        "lon": 179.1962,
-        "postalCode": "",
-        "venueType": "online"
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Bergen",
-      "urlname": "rladies-bergen"
-    }
-  },
-  {
-    "id": "280789276",
-    "title": "FAIR research data & citable code",
-    "description": "Did you know that Open Science is becoming the \"new normal\"? Join R-Ladies Bergen to learn what this new normal means. We will delve into the principles of FAIR research that enable your data to become \"Findable, Accessible, Interoperable, and Reusable.\" How does this enhance your research? When you adhere to FAIR principles, your work becomes more accessible and visible to researchers in different institutions or even different fields. This leads to more visibility for your research, new collaborations, and more citations of your published research articles.\n\nWe are delighted to host Jenny Ostrop who will describe more fully the motivation behind FAIR principles and provide tips on how to create citable code. Jenny is a Senior Academic Librarian at the Mathematics and Natural Sciences Library. As part of the research support team, Jenny provides guidance on Open Science, Research Data and Research Data Management.",
-    "status": "PAST",
-    "dateTime": "2021-10-07T12:30:00+02:00",
-    "duration": "PT1H",
-    "eventUrl": "https://www.meetup.com/rladies-bergen/events/280789276/",
-    "featuredEventPhoto": {
-      "id": "498876124",
-      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/d/1/c/highres_498876124.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/d/1/c/600_498876124.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/d/1/c/thumb_498876124.jpeg"
-    },
-    "rsvps": {
-      "yesCount": 8,
-      "waitlistCount": 0,
-      "totalCount": 8
-    },
-    "venues": [
-      {
-        "id": "27160256",
-        "name": "Alrek Helseklynge",
-        "address": "Årstadveien 17",
-        "city": "Bergen",
-        "state": "",
-        "country": "no",
-        "lat": 60.3815,
-        "lon": 5.3589,
-        "postalCode": "5009",
-        "venueType": ""
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Bergen",
-      "urlname": "rladies-bergen"
-    }
-  },
-  {
-    "id": "280175121",
-    "title": "Reproducible analysis in anthropology",
-    "description": "Talk title: Reproducible research in anthropology: Data analysis and writing papers using R Markdown, and Git version control to make research compendia\n\nDescription: Li-Ying will present how their lab uses R Markdown to combine data, manuscript text, and code for data analysis and visualization, thereby incorporating their work into a reproducible compendium. With R Markdown, we can write a manuscript that can be executed to typical document formats. Using Git version control helps us to track changes as we write our code and text. This standard compendium structure organizes our files nicely and enables other researchers to easily inspect our data and analytical processes to enhance research reproducibility in anthropology.\n\nLi-Ying Wang (she/her) short bio:\nLi-Ying Wang is a recent PhD graduate from the Department of Anthropology at the University of Washington. Her study focuses on a 14-19th century site in northeastern Taiwan during the European colonization period. She employs multiple computational methods to visualize and analyze archaeological data, including spatial analysis, shape analysis, and Bayesian network modeling using R. She is very interested in open science and reproducible research and incorporates these approaches into her analysis, writing, and teaching practices.\n\nNOTE: If you are in Bergen, come join us for a physical meeting right before Li-Ying's talk: https://www.meetup.com/rladies-bergen/events/280261260/",
-    "status": "PAST",
-    "dateTime": "2021-09-07T18:00:00+02:00",
-    "duration": "PT1H",
-    "eventUrl": "https://www.meetup.com/rladies-bergen/events/280175121/",
-    "featuredEventPhoto": {
-      "id": "498432048",
-      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/f/1/0/highres_498432048.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/f/1/0/600_498432048.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/f/1/0/thumb_498432048.jpeg"
-    },
-    "rsvps": {
-      "yesCount": 27,
-      "waitlistCount": 0,
-      "totalCount": 27
-    },
-    "venues": [
-      {
-        "id": "26906060",
-        "name": "Online event",
-        "address": "",
-        "city": "",
-        "state": "",
-        "country": "",
-        "lat": -8.5211,
-        "lon": 179.1962,
-        "postalCode": "",
-        "venueType": "online"
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Bergen",
-      "urlname": "rladies-bergen"
-    }
-  },
-  {
-    "id": "280261260",
-    "title": "Let's MEET and TALK again!",
-    "description": "Is it really happening? Let's try to actually meet in person and discuss how _you_ are envisioning the future of R-Ladies Bergen! This will be an informal chat with snacks served before we watch Li-Ying's talk about reproducible research practice. Come and feel the energy of our community!\n\nP.S. There is a limit of 28 people because of the room availability. We will follow local infection guidelines and keep a min. of 1-meter distance between us. We recommend the use of face masks when entering and leaving the building. See you there!",
-    "status": "CANCELLED",
-    "dateTime": "2021-09-07T17:00:00+02:00",
-    "duration": "PT1H",
-    "eventUrl": "https://www.meetup.com/rladies-bergen/events/280261260/",
-    "featuredEventPhoto": {
-      "id": "498302323",
-      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/1/3/highres_498302323.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/1/3/600_498302323.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/1/3/thumb_498302323.jpeg"
-    },
-    "rsvps": {
-      "yesCount": 8,
-      "waitlistCount": 0,
-      "totalCount": 8
-    },
-    "venues": [
-      {
-        "id": "27160256",
-        "name": "Alrek Helseklynge",
-        "address": "Årstadveien 17",
-        "city": "Bergen",
-        "state": "",
-        "country": "no",
-        "lat": 60.3815,
-        "lon": 5.3589,
-        "postalCode": "5009",
-        "venueType": ""
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Bergen",
-      "urlname": "rladies-bergen"
-    }
-  },
-  {
-    "id": "278319207",
-    "title": "Large scale time series forecasting",
-    "description": "About the speaker:\nThiyanga Talagala has a Ph.D. in statistics from Monash Univ., Australia, and currently holds a senior lecturer position at the University of Sri Jayewardenepura, Sri Lanka. She is interested in the theory, implementation, and application of machine learning methods to time-series datasets, as well as visualization of the results. She uses R in her research and has created or contributed to many R packages (https://github.com/thiyangt).\n\nThiyanga enjoys teaching and is involved in organizing the R-Ladies Colombo chapter! Visit her website to learn more about her R packages, her projects, workshops, and teaching activities. Her blog offers many statistical insights in an accessible style. (https://thiyanga.netlify.app/)\n\nAbout the talk:\nMany applications require data from a large number of time series to be forecast. However, large-scale time-series data present numerous challenges in modeling and implementation due to high dimensionality. Thiyanga´s talk will present three feature-based algorithms for large-scale time-series forecasting.\n\nWelcome!",
-    "status": "PAST",
-    "dateTime": "2021-06-24T14:00:00+02:00",
-    "duration": "PT1H",
-    "eventUrl": "https://www.meetup.com/rladies-bergen/events/278319207/",
-    "featuredEventPhoto": {
-      "id": "496571001",
-      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/a/f/9/highres_496571001.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/a/f/9/600_496571001.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/a/f/9/thumb_496571001.jpeg"
     },
     "rsvps": {
       "yesCount": 33,
@@ -654,61 +510,63 @@
     "group": {
       "name": "R-Ladies Bergen",
       "urlname": "rladies-bergen"
-    }
+    },
+    "createdTime": "2021-10-06T03:13:03-04:00"
   },
   {
-    "id": "278142805",
-    "title": "Bayesian statistics",
-    "description": "Federica Giardina is a public health researcher currently working as an assistant professor in Biostatistics at Radboud University Medical Center (Radboud UMC) in Nijmegen (the Netherlands). She uses Bayesian methods to answer questions in infectious disease epidemiology. Bayesian statistics allows the user to specify prior information to the chosen model. This method is useful, for example, when working with datasets with partially missing data, as is often the case in public health records.\n\nFederica will introduce the Stan programming language (https://mc-stan.org/) with examples of modeling performed with the rstan package.\n\nIt's a short introduction, a sweet taste if you like, of a very broad topic that we have been anxious to learn about. Please join us!",
+    "id": "280789276",
+    "title": "FAIR research data & citable code",
+    "description": "Did you know that Open Science is becoming the \"new normal\"? Join R-Ladies Bergen to learn what this new normal means. We will delve into the principles of FAIR research that enable your data to become \"Findable, Accessible, Interoperable, and Reusable.\" How does this enhance your research? When you adhere to FAIR principles, your work becomes more accessible and visible to researchers in different institutions or even different fields. This leads to more visibility for your research, new collaborations, and more citations of your published research articles.\n\nWe are delighted to host Jenny Ostrop who will describe more fully the motivation behind FAIR principles and provide tips on how to create citable code. Jenny is a Senior Academic Librarian at the Mathematics and Natural Sciences Library. As part of the research support team, Jenny provides guidance on Open Science, Research Data and Research Data Management.",
     "status": "PAST",
-    "dateTime": "2021-05-31T12:00:00+02:00",
-    "duration": "PT1H30M",
-    "eventUrl": "https://www.meetup.com/rladies-bergen/events/278142805/",
+    "dateTime": "2021-10-07T12:30:00+02:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-bergen/events/280789276/",
     "featuredEventPhoto": {
-      "id": "496252996",
+      "id": "498876124",
       "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/f/0/4/highres_496252996.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/f/0/4/600_496252996.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/f/0/4/thumb_496252996.jpeg"
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/d/1/c/highres_498876124.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/d/1/c/600_498876124.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/d/1/c/thumb_498876124.jpeg"
     },
     "rsvps": {
-      "yesCount": 44,
+      "yesCount": 7,
       "waitlistCount": 0,
-      "totalCount": 44
+      "totalCount": 7
     },
     "venues": [
       {
-        "id": "26906060",
-        "name": "Online event",
-        "address": "",
-        "city": "",
+        "id": "27160256",
+        "name": "Alrek Helseklynge",
+        "address": "Årstadveien 17",
+        "city": "Bergen",
         "state": "",
-        "country": "",
-        "lat": -8.5211,
-        "lon": 179.1962,
-        "postalCode": "",
-        "venueType": "online"
+        "country": "no",
+        "lat": 60.3815,
+        "lon": 5.3589,
+        "postalCode": "5009",
+        "venueType": ""
       }
     ],
     "group": {
       "name": "R-Ladies Bergen",
       "urlname": "rladies-bergen"
-    }
+    },
+    "createdTime": "2021-09-15T06:41:55-04:00"
   },
   {
-    "id": "277543752",
-    "title": "Statistrikk - Hard facts in soft materials",
-    "description": "Can the corona virus R number be crocheted? Can bias in research on women's health be knitted?\nOf course it can! But why?\nStatistician and associate professor at NMBU, Kathrine Frey Frøslie, has dedicated a significant amount of her time to the translation of important research results and statistical concepts, to beautiful or strange knitting designs. Get a backstage glimpse into Statistrikk.no, (to the best of our knowledge) the world's only popular science statistical knitting blog.",
+    "id": "280175121",
+    "title": "Reproducible analysis in anthropology",
+    "description": "Talk title: Reproducible research in anthropology: Data analysis and writing papers using R Markdown, and Git version control to make research compendia\n\nDescription: Li-Ying will present how their lab uses R Markdown to combine data, manuscript text, and code for data analysis and visualization, thereby incorporating their work into a reproducible compendium. With R Markdown, we can write a manuscript that can be executed to typical document formats. Using Git version control helps us to track changes as we write our code and text. This standard compendium structure organizes our files nicely and enables other researchers to easily inspect our data and analytical processes to enhance research reproducibility in anthropology.\n\nLi-Ying Wang (she/her) short bio:\nLi-Ying Wang is a recent PhD graduate from the Department of Anthropology at the University of Washington. Her study focuses on a 14-19th century site in northeastern Taiwan during the European colonization period. She employs multiple computational methods to visualize and analyze archaeological data, including spatial analysis, shape analysis, and Bayesian network modeling using R. She is very interested in open science and reproducible research and incorporates these approaches into her analysis, writing, and teaching practices.\n\nNOTE: If you are in Bergen, come join us for a physical meeting right before Li-Ying's talk: https://www.meetup.com/rladies-bergen/events/280261260/",
     "status": "PAST",
-    "dateTime": "2021-05-20T18:00:00+02:00",
+    "dateTime": "2021-09-07T18:00:00+02:00",
     "duration": "PT1H",
-    "eventUrl": "https://www.meetup.com/rladies-bergen/events/277543752/",
+    "eventUrl": "https://www.meetup.com/rladies-bergen/events/280175121/",
     "featuredEventPhoto": {
-      "id": "495707231",
+      "id": "498432048",
       "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/8/7/f/highres_495707231.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/8/7/f/600_495707231.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/8/7/f/thumb_495707231.jpeg"
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/f/1/0/highres_498432048.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/f/1/0/600_498432048.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/f/1/0/thumb_498432048.jpeg"
     },
     "rsvps": {
       "yesCount": 26,
@@ -732,27 +590,68 @@
     "group": {
       "name": "R-Ladies Bergen",
       "urlname": "rladies-bergen"
-    }
+    },
+    "createdTime": "2021-08-17T14:57:02-04:00"
   },
   {
-    "id": "276828064",
-    "title": "Bayesian statistics",
-    "description": "Federica Giardina is a public health researcher currently working as an assistant professor in Biostatistics at Radboud University Medical Center (Radboud UMC) in Nijmegen (the Netherlands). She uses Bayesian methods to answer questions in infectious disease epidemiology. Bayesian statistics allows the user to specify prior information to the chosen model. This method is useful, for example, when working with datasets with partially missing data, as is often the case in public health records.\n\nFederica will introduce the Stan programming language (https://mc-stan.org/) with examples of modeling performed with the rstan package.\n\nIt's a short introduction, a sweet taste if you like, of a very broad topic that we have been anxious to learn about. Please join us!",
+    "id": "280261260",
+    "title": "Let's MEET and TALK again!",
+    "description": "Is it really happening? Let's try to actually meet in person and discuss how _you_ are envisioning the future of R-Ladies Bergen! This will be an informal chat with snacks served before we watch Li-Ying's talk about reproducible research practice. Come and feel the energy of our community!\n\nP.S. There is a limit of 28 people because of the room availability. We will follow local infection guidelines and keep a min. of 1-meter distance between us. We recommend the use of face masks when entering and leaving the building. See you there!",
     "status": "CANCELLED",
-    "dateTime": "2021-05-11T13:00:00+02:00",
+    "dateTime": "2021-09-07T17:00:00+02:00",
     "duration": "PT1H",
-    "eventUrl": "https://www.meetup.com/rladies-bergen/events/276828064/",
+    "eventUrl": "https://www.meetup.com/rladies-bergen/events/280261260/",
     "featuredEventPhoto": {
-      "id": "495696897",
+      "id": "498302323",
       "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/0/2/1/highres_495696897.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/0/2/1/600_495696897.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/0/2/1/thumb_495696897.jpeg"
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/1/3/highres_498302323.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/1/3/600_498302323.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/1/3/thumb_498302323.jpeg"
     },
     "rsvps": {
-      "yesCount": 34,
+      "yesCount": 6,
       "waitlistCount": 0,
-      "totalCount": 34
+      "totalCount": 6
+    },
+    "venues": [
+      {
+        "id": "27160256",
+        "name": "Alrek Helseklynge",
+        "address": "Årstadveien 17",
+        "city": "Bergen",
+        "state": "",
+        "country": "no",
+        "lat": 60.3815,
+        "lon": 5.3589,
+        "postalCode": "5009",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bergen",
+      "urlname": "rladies-bergen"
+    },
+    "createdTime": "2021-08-21T15:49:50-04:00"
+  },
+  {
+    "id": "278319207",
+    "title": "Large scale time series forecasting",
+    "description": "About the speaker:\nThiyanga Talagala has a Ph.D. in statistics from Monash Univ., Australia, and currently holds a senior lecturer position at the University of Sri Jayewardenepura, Sri Lanka. She is interested in the theory, implementation, and application of machine learning methods to time-series datasets, as well as visualization of the results. She uses R in her research and has created or contributed to many R packages (https://github.com/thiyangt).\n\nThiyanga enjoys teaching and is involved in organizing the R-Ladies Colombo chapter! Visit her website to learn more about her R packages, her projects, workshops, and teaching activities. Her blog offers many statistical insights in an accessible style. (https://thiyanga.netlify.app/)\n\nAbout the talk:\nMany applications require data from a large number of time series to be forecast. However, large-scale time-series data present numerous challenges in modeling and implementation due to high dimensionality. Thiyanga´s talk will present three feature-based algorithms for large-scale time-series forecasting.\n\nWelcome!",
+    "status": "PAST",
+    "dateTime": "2021-06-24T14:00:00+02:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-bergen/events/278319207/",
+    "featuredEventPhoto": {
+      "id": "496571001",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/a/f/9/highres_496571001.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/a/f/9/600_496571001.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/a/f/9/thumb_496571001.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 31,
+      "waitlistCount": 0,
+      "totalCount": 31
     },
     "venues": [
       {
@@ -771,7 +670,128 @@
     "group": {
       "name": "R-Ladies Bergen",
       "urlname": "rladies-bergen"
-    }
+    },
+    "createdTime": "2021-05-21T04:04:54-04:00"
+  },
+  {
+    "id": "278142805",
+    "title": "Bayesian statistics",
+    "description": "Federica Giardina is a public health researcher currently working as an assistant professor in Biostatistics at Radboud University Medical Center (Radboud UMC) in Nijmegen (the Netherlands). She uses Bayesian methods to answer questions in infectious disease epidemiology. Bayesian statistics allows the user to specify prior information to the chosen model. This method is useful, for example, when working with datasets with partially missing data, as is often the case in public health records.\n\nFederica will introduce the Stan programming language (https://mc-stan.org/) with examples of modeling performed with the rstan package.\n\nIt's a short introduction, a sweet taste if you like, of a very broad topic that we have been anxious to learn about. Please join us!",
+    "status": "PAST",
+    "dateTime": "2021-05-31T12:00:00+02:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-bergen/events/278142805/",
+    "featuredEventPhoto": {
+      "id": "496252996",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/f/0/4/highres_496252996.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/f/0/4/600_496252996.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/f/0/4/thumb_496252996.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 43,
+      "waitlistCount": 0,
+      "totalCount": 43
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bergen",
+      "urlname": "rladies-bergen"
+    },
+    "createdTime": "2021-05-12T14:55:15-04:00"
+  },
+  {
+    "id": "277543752",
+    "title": "Statistrikk - Hard facts in soft materials",
+    "description": "Can the corona virus R number be crocheted? Can bias in research on women's health be knitted?\nOf course it can! But why?\nStatistician and associate professor at NMBU, Kathrine Frey Frøslie, has dedicated a significant amount of her time to the translation of important research results and statistical concepts, to beautiful or strange knitting designs. Get a backstage glimpse into Statistrikk.no, (to the best of our knowledge) the world's only popular science statistical knitting blog.",
+    "status": "PAST",
+    "dateTime": "2021-05-20T18:00:00+02:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-bergen/events/277543752/",
+    "featuredEventPhoto": {
+      "id": "495707231",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/8/7/f/highres_495707231.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/8/7/f/600_495707231.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/8/7/f/thumb_495707231.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 24,
+      "waitlistCount": 0,
+      "totalCount": 24
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bergen",
+      "urlname": "rladies-bergen"
+    },
+    "createdTime": "2021-04-13T09:49:41-04:00"
+  },
+  {
+    "id": "276828064",
+    "title": "Bayesian statistics",
+    "description": "Federica Giardina is a public health researcher currently working as an assistant professor in Biostatistics at Radboud University Medical Center (Radboud UMC) in Nijmegen (the Netherlands). She uses Bayesian methods to answer questions in infectious disease epidemiology. Bayesian statistics allows the user to specify prior information to the chosen model. This method is useful, for example, when working with datasets with partially missing data, as is often the case in public health records.\n\nFederica will introduce the Stan programming language (https://mc-stan.org/) with examples of modeling performed with the rstan package.\n\nIt's a short introduction, a sweet taste if you like, of a very broad topic that we have been anxious to learn about. Please join us!",
+    "status": "CANCELLED",
+    "dateTime": "2021-05-11T13:00:00+02:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-bergen/events/276828064/",
+    "featuredEventPhoto": {
+      "id": "495696897",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/0/2/1/highres_495696897.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/0/2/1/600_495696897.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/0/2/1/thumb_495696897.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 33,
+      "waitlistCount": 0,
+      "totalCount": 33
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bergen",
+      "urlname": "rladies-bergen"
+    },
+    "createdTime": "2021-03-09T03:20:15-05:00"
   },
   {
     "id": "277756254",
@@ -810,7 +830,8 @@
     "group": {
       "name": "R-Ladies Bergen",
       "urlname": "rladies-bergen"
-    }
+    },
+    "createdTime": "2021-04-23T12:18:28-04:00"
   },
   {
     "id": "276102013",
@@ -828,9 +849,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/f/9/8/thumb_495016280.jpeg"
     },
     "rsvps": {
-      "yesCount": 52,
+      "yesCount": 47,
       "waitlistCount": 0,
-      "totalCount": 52
+      "totalCount": 47
     },
     "venues": [
       {
@@ -849,7 +870,8 @@
     "group": {
       "name": "R-Ladies Bergen",
       "urlname": "rladies-bergen"
-    }
+    },
+    "createdTime": "2021-02-01T03:14:29-05:00"
   },
   {
     "id": "276414695",
@@ -867,9 +889,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/e/a/9/thumb_494972425.jpeg"
     },
     "rsvps": {
-      "yesCount": 49,
+      "yesCount": 45,
       "waitlistCount": 0,
-      "totalCount": 49
+      "totalCount": 45
     },
     "venues": [
       {
@@ -888,7 +910,8 @@
     "group": {
       "name": "R-Ladies Bergen",
       "urlname": "rladies-bergen"
-    }
+    },
+    "createdTime": "2021-02-17T04:00:08-05:00"
   },
   {
     "id": "275859899",
@@ -906,9 +929,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/0/c/a/thumb_494408394.jpeg"
     },
     "rsvps": {
-      "yesCount": 53,
+      "yesCount": 50,
       "waitlistCount": 0,
-      "totalCount": 53
+      "totalCount": 50
     },
     "venues": [
       {
@@ -927,7 +950,8 @@
     "group": {
       "name": "R-Ladies Bergen",
       "urlname": "rladies-bergen"
-    }
+    },
+    "createdTime": "2021-01-20T03:45:25-05:00"
   },
   {
     "id": "275580600",
@@ -945,9 +969,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/5/3/4/thumb_494225428.jpeg"
     },
     "rsvps": {
-      "yesCount": 33,
+      "yesCount": 29,
       "waitlistCount": 0,
-      "totalCount": 33
+      "totalCount": 29
     },
     "venues": [
       {
@@ -966,7 +990,8 @@
     "group": {
       "name": "R-Ladies Bergen",
       "urlname": "rladies-bergen"
-    }
+    },
+    "createdTime": "2021-01-06T06:59:40-05:00"
   },
   {
     "id": "289743592",
@@ -1005,7 +1030,8 @@
     "group": {
       "name": "R-Ladies Bergen",
       "urlname": "rladies-bergen"
-    }
+    },
+    "createdTime": "2022-11-14T04:44:23-05:00"
   },
   {
     "id": "287836013",
@@ -1044,7 +1070,8 @@
     "group": {
       "name": "R-Ladies Bergen",
       "urlname": "rladies-bergen"
-    }
+    },
+    "createdTime": "2022-08-15T08:29:23-04:00"
   },
   {
     "id": "287835483",
@@ -1083,7 +1110,8 @@
     "group": {
       "name": "R-Ladies Bergen",
       "urlname": "rladies-bergen"
-    }
+    },
+    "createdTime": "2022-08-15T07:54:34-04:00"
   },
   {
     "id": "285436625",
@@ -1122,7 +1150,8 @@
     "group": {
       "name": "R-Ladies Bergen",
       "urlname": "rladies-bergen"
-    }
+    },
+    "createdTime": "2022-04-22T08:10:45-04:00"
   },
   {
     "id": "296949680",
@@ -1161,7 +1190,8 @@
     "group": {
       "name": "R-Ladies Bergen",
       "urlname": "rladies-bergen"
-    }
+    },
+    "createdTime": "2023-10-25T11:09:17-04:00"
   },
   {
     "id": "293166749",
@@ -1200,7 +1230,8 @@
     "group": {
       "name": "R-Ladies Bergen",
       "urlname": "rladies-bergen"
-    }
+    },
+    "createdTime": "2023-04-27T05:00:19-04:00"
   },
   {
     "id": "295922921",
@@ -1239,7 +1270,8 @@
     "group": {
       "name": "R-Ladies Bergen",
       "urlname": "rladies-bergen"
-    }
+    },
+    "createdTime": "2023-09-06T04:41:27-04:00"
   },
   {
     "id": "292377117",
@@ -1278,7 +1310,8 @@
     "group": {
       "name": "R-Ladies Bergen",
       "urlname": "rladies-bergen"
-    }
+    },
+    "createdTime": "2023-03-21T04:21:41-04:00"
   },
   {
     "id": "291632166",
@@ -1317,7 +1350,8 @@
     "group": {
       "name": "R-Ladies Bergen",
       "urlname": "rladies-bergen"
-    }
+    },
+    "createdTime": "2023-02-15T02:00:36-05:00"
   },
   {
     "id": "290100305",
@@ -1356,7 +1390,8 @@
     "group": {
       "name": "R-Ladies Bergen",
       "urlname": "rladies-bergen"
-    }
+    },
+    "createdTime": "2022-12-02T05:51:11-05:00"
   },
   {
     "id": "290100296",
@@ -1395,7 +1430,8 @@
     "group": {
       "name": "R-Ladies Bergen",
       "urlname": "rladies-bergen"
-    }
+    },
+    "createdTime": "2022-12-02T05:49:54-05:00"
   },
   {
     "id": "304685619",
@@ -1434,7 +1470,8 @@
     "group": {
       "name": "R-Ladies Bergen",
       "urlname": "rladies-bergen"
-    }
+    },
+    "createdTime": "2024-11-21T05:16:51-05:00"
   },
   {
     "id": "304456204",
@@ -1473,7 +1510,8 @@
     "group": {
       "name": "R-Ladies Bergen",
       "urlname": "rladies-bergen"
-    }
+    },
+    "createdTime": "2024-11-08T11:33:56-05:00"
   },
   {
     "id": "304343658",
@@ -1512,7 +1550,8 @@
     "group": {
       "name": "R-Ladies Bergen",
       "urlname": "rladies-bergen"
-    }
+    },
+    "createdTime": "2024-11-02T10:47:15-04:00"
   },
   {
     "id": "301312107",
@@ -1551,7 +1590,8 @@
     "group": {
       "name": "R-Ladies Bergen",
       "urlname": "rladies-bergen"
-    }
+    },
+    "createdTime": "2024-05-29T04:05:12-04:00"
   },
   {
     "id": "300711378",
@@ -1590,7 +1630,8 @@
     "group": {
       "name": "R-Ladies Bergen",
       "urlname": "rladies-bergen"
-    }
+    },
+    "createdTime": "2024-04-29T03:23:19-04:00"
   },
   {
     "id": "300711368",
@@ -1629,7 +1670,8 @@
     "group": {
       "name": "R-Ladies Bergen",
       "urlname": "rladies-bergen"
-    }
+    },
+    "createdTime": "2024-04-29T03:21:29-04:00"
   },
   {
     "id": "300303825",
@@ -1668,7 +1710,8 @@
     "group": {
       "name": "R-Ladies Bergen",
       "urlname": "rladies-bergen"
-    }
+    },
+    "createdTime": "2024-04-09T02:13:54-04:00"
   },
   {
     "id": "300045977",
@@ -1707,7 +1750,8 @@
     "group": {
       "name": "R-Ladies Bergen",
       "urlname": "rladies-bergen"
-    }
+    },
+    "createdTime": "2024-03-27T06:12:43-04:00"
   },
   {
     "id": "299337190",
@@ -1746,7 +1790,8 @@
     "group": {
       "name": "R-Ladies Bergen",
       "urlname": "rladies-bergen"
-    }
+    },
+    "createdTime": "2024-02-21T13:07:43-05:00"
   },
   {
     "id": "299586737",
@@ -1785,7 +1830,8 @@
     "group": {
       "name": "R-Ladies Bergen",
       "urlname": "rladies-bergen"
-    }
+    },
+    "createdTime": "2024-03-04T04:41:13-05:00"
   },
   {
     "id": "298603352",
@@ -1824,7 +1870,8 @@
     "group": {
       "name": "R-Ladies Bergen",
       "urlname": "rladies-bergen"
-    }
+    },
+    "createdTime": "2024-01-17T03:38:14-05:00"
   },
   {
     "id": "298482176",
@@ -1863,7 +1910,8 @@
     "group": {
       "name": "R-Ladies Bergen",
       "urlname": "rladies-bergen"
-    }
+    },
+    "createdTime": "2024-01-11T08:42:26-05:00"
   },
   {
     "id": "297943932",
@@ -1902,7 +1950,8 @@
     "group": {
       "name": "R-Ladies Bergen",
       "urlname": "rladies-bergen"
-    }
+    },
+    "createdTime": "2023-12-14T11:49:06-05:00"
   },
   {
     "id": "306116115",
@@ -1941,7 +1990,8 @@
     "group": {
       "name": "R-Ladies Bergen",
       "urlname": "rladies-bergen"
-    }
+    },
+    "createdTime": "2025-02-11T08:17:58-05:00"
   },
   {
     "id": "305754555",
@@ -1980,7 +2030,8 @@
     "group": {
       "name": "R-Ladies Bergen",
       "urlname": "rladies-bergen"
-    }
+    },
+    "createdTime": "2025-01-22T10:45:52-05:00"
   },
   {
     "id": "305519279",
@@ -2019,6 +2070,7 @@
     "group": {
       "name": "R-Ladies Bergen",
       "urlname": "rladies-bergen"
-    }
+    },
+    "createdTime": "2025-01-09T13:16:07-05:00"
   }
 ]

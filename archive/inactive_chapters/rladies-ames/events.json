@@ -9,9 +9,9 @@
     "eventUrl": "https://www.meetup.com/rladies-ames/events/235936204/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 29,
+      "yesCount": 14,
       "waitlistCount": 0,
-      "totalCount": 29
+      "totalCount": 14
     },
     "venues": [
       {
@@ -30,7 +30,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2016-11-30T14:12:05-05:00"
   },
   {
     "id": "245641538",
@@ -42,9 +43,9 @@
     "eventUrl": "https://www.meetup.com/rladies-ames/events/245641538/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 7,
+      "yesCount": 4,
       "waitlistCount": 0,
-      "totalCount": 7
+      "totalCount": 4
     },
     "venues": [
       {
@@ -63,7 +64,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2017-12-04T12:50:42-05:00"
   },
   {
     "id": "245593456",
@@ -75,9 +77,9 @@
     "eventUrl": "https://www.meetup.com/rladies-ames/events/245593456/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 1,
+      "yesCount": 0,
       "waitlistCount": 0,
-      "totalCount": 1
+      "totalCount": 0
     },
     "venues": [
       {
@@ -96,7 +98,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2017-02-27T15:27:08-05:00"
   },
   {
     "id": "245390719",
@@ -108,9 +111,9 @@
     "eventUrl": "https://www.meetup.com/rladies-ames/events/245390719/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 1,
+      "yesCount": 0,
       "waitlistCount": 0,
-      "totalCount": 1
+      "totalCount": 0
     },
     "venues": [
       {
@@ -129,7 +132,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2017-02-27T15:27:08-05:00"
   },
   {
     "id": "245214736",
@@ -141,9 +145,9 @@
     "eventUrl": "https://www.meetup.com/rladies-ames/events/245214736/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 1,
+      "yesCount": 0,
       "waitlistCount": 0,
-      "totalCount": 1
+      "totalCount": 0
     },
     "venues": [
       {
@@ -162,7 +166,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2017-02-27T15:27:08-05:00"
   },
   {
     "id": "243581459",
@@ -174,9 +179,9 @@
     "eventUrl": "https://www.meetup.com/rladies-ames/events/243581459/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 2,
+      "yesCount": 1,
       "waitlistCount": 0,
-      "totalCount": 2
+      "totalCount": 1
     },
     "venues": [
       {
@@ -195,7 +200,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2017-02-27T15:27:08-05:00"
   },
   {
     "id": "243581444",
@@ -207,9 +213,9 @@
     "eventUrl": "https://www.meetup.com/rladies-ames/events/243581444/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 3,
+      "yesCount": 2,
       "waitlistCount": 0,
-      "totalCount": 3
+      "totalCount": 2
     },
     "venues": [
       {
@@ -228,7 +234,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2017-02-27T15:27:08-05:00"
   },
   {
     "id": "243581483",
@@ -238,39 +245,6 @@
     "dateTime": "2017-11-03T12:00:00-05:00",
     "duration": "PT1H",
     "eventUrl": "https://www.meetup.com/rladies-ames/events/243581483/",
-    "featuredEventPhoto": {},
-    "rsvps": {
-      "yesCount": 3,
-      "waitlistCount": 0,
-      "totalCount": 3
-    },
-    "venues": [
-      {
-        "id": "25089815",
-        "name": "Bessey Hall",
-        "address": "2200 Osborn Drive",
-        "city": "Ames",
-        "state": "IA",
-        "country": "us",
-        "lat": 42.0285,
-        "lon": -93.6446,
-        "postalCode": "50011",
-        "venueType": ""
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Ames",
-      "urlname": "rladies-ames"
-    }
-  },
-  {
-    "id": "243581487",
-    "title": "LunchinatoRs",
-    "description": "Hosted by the Department of Ecology, Evolution, and Organismal Biology.\n\nThis is a weekly meeting hosted by R-Lady Audrey McCombs and Haldre Rogers in EEOB for folks interested in learning R and eating lunch together. Thanks to Audrey for extending this invitation to all of R-Ladies Ames! They meet from 12-1pm every Friday in Bessey Hall, room 334.\n\nEmail Audrey at amccombs@iastate.edu for more information. If you're looking to present some cool R packages, how to wrestle with analysis issues, good coding practices, data management techniques, or anything else that you find interesting and helpful when working in R, let Audrey know! They'd love to host your presentation!",
-    "status": "PAST",
-    "dateTime": "2017-10-27T12:00:00-05:00",
-    "duration": "PT1H",
-    "eventUrl": "https://www.meetup.com/rladies-ames/events/243581487/",
     "featuredEventPhoto": {},
     "rsvps": {
       "yesCount": 2,
@@ -294,16 +268,17 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2017-02-27T15:27:08-05:00"
   },
   {
-    "id": "244206317",
+    "id": "243581487",
     "title": "LunchinatoRs",
     "description": "Hosted by the Department of Ecology, Evolution, and Organismal Biology.\n\nThis is a weekly meeting hosted by R-Lady Audrey McCombs and Haldre Rogers in EEOB for folks interested in learning R and eating lunch together. Thanks to Audrey for extending this invitation to all of R-Ladies Ames! They meet from 12-1pm every Friday in Bessey Hall, room 334.\n\nEmail Audrey at amccombs@iastate.edu for more information. If you're looking to present some cool R packages, how to wrestle with analysis issues, good coding practices, data management techniques, or anything else that you find interesting and helpful when working in R, let Audrey know! They'd love to host your presentation!",
     "status": "PAST",
-    "dateTime": "2017-10-20T12:00:00-05:00",
+    "dateTime": "2017-10-27T12:00:00-05:00",
     "duration": "PT1H",
-    "eventUrl": "https://www.meetup.com/rladies-ames/events/244206317/",
+    "eventUrl": "https://www.meetup.com/rladies-ames/events/243581487/",
     "featuredEventPhoto": {},
     "rsvps": {
       "yesCount": 1,
@@ -327,7 +302,42 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2017-02-27T15:27:08-05:00"
+  },
+  {
+    "id": "244206317",
+    "title": "LunchinatoRs",
+    "description": "Hosted by the Department of Ecology, Evolution, and Organismal Biology.\n\nThis is a weekly meeting hosted by R-Lady Audrey McCombs and Haldre Rogers in EEOB for folks interested in learning R and eating lunch together. Thanks to Audrey for extending this invitation to all of R-Ladies Ames! They meet from 12-1pm every Friday in Bessey Hall, room 334.\n\nEmail Audrey at amccombs@iastate.edu for more information. If you're looking to present some cool R packages, how to wrestle with analysis issues, good coding practices, data management techniques, or anything else that you find interesting and helpful when working in R, let Audrey know! They'd love to host your presentation!",
+    "status": "PAST",
+    "dateTime": "2017-10-20T12:00:00-05:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-ames/events/244206317/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 0,
+      "waitlistCount": 0,
+      "totalCount": 0
+    },
+    "venues": [
+      {
+        "id": "25089815",
+        "name": "Bessey Hall",
+        "address": "2200 Osborn Drive",
+        "city": "Ames",
+        "state": "IA",
+        "country": "us",
+        "lat": 42.0285,
+        "lon": -93.6446,
+        "postalCode": "50011",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Ames",
+      "urlname": "rladies-ames"
+    },
+    "createdTime": "2017-02-27T15:27:08-05:00"
   },
   {
     "id": "243581489",
@@ -339,9 +349,9 @@
     "eventUrl": "https://www.meetup.com/rladies-ames/events/243581489/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 2,
+      "yesCount": 1,
       "waitlistCount": 0,
-      "totalCount": 2
+      "totalCount": 1
     },
     "venues": [
       {
@@ -360,7 +370,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2017-02-27T15:27:08-05:00"
   },
   {
     "id": "243581493",
@@ -372,9 +383,9 @@
     "eventUrl": "https://www.meetup.com/rladies-ames/events/243581493/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 2,
+      "yesCount": 1,
       "waitlistCount": 0,
-      "totalCount": 2
+      "totalCount": 1
     },
     "venues": [
       {
@@ -393,7 +404,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2017-02-27T15:27:08-05:00"
   },
   {
     "id": "243308888",
@@ -405,9 +417,9 @@
     "eventUrl": "https://www.meetup.com/rladies-ames/events/243308888/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 3,
+      "yesCount": 2,
       "waitlistCount": 0,
-      "totalCount": 3
+      "totalCount": 2
     },
     "venues": [
       {
@@ -426,7 +438,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2017-09-12T15:07:27-04:00"
   },
   {
     "id": "243607699",
@@ -438,9 +451,9 @@
     "eventUrl": "https://www.meetup.com/rladies-ames/events/243607699/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 1,
+      "yesCount": 0,
       "waitlistCount": 0,
-      "totalCount": 1
+      "totalCount": 0
     },
     "venues": [
       {
@@ -459,7 +472,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2017-02-27T15:27:08-05:00"
   },
   {
     "id": "243544897",
@@ -471,9 +485,9 @@
     "eventUrl": "https://www.meetup.com/rladies-ames/events/243544897/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 1,
+      "yesCount": 0,
       "waitlistCount": 0,
-      "totalCount": 1
+      "totalCount": 0
     },
     "venues": [
       {
@@ -492,7 +506,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2017-02-27T15:27:08-05:00"
   },
   {
     "id": "243396401",
@@ -504,9 +519,9 @@
     "eventUrl": "https://www.meetup.com/rladies-ames/events/243396401/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 2,
+      "yesCount": 1,
       "waitlistCount": 0,
-      "totalCount": 2
+      "totalCount": 1
     },
     "venues": [
       {
@@ -525,7 +540,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2017-02-27T15:27:08-05:00"
   },
   {
     "id": "243208753",
@@ -537,9 +553,9 @@
     "eventUrl": "https://www.meetup.com/rladies-ames/events/243208753/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 1,
+      "yesCount": 0,
       "waitlistCount": 0,
-      "totalCount": 1
+      "totalCount": 0
     },
     "venues": [
       {
@@ -558,7 +574,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2017-02-27T15:27:08-05:00"
   },
   {
     "id": "243020313",
@@ -570,9 +587,9 @@
     "eventUrl": "https://www.meetup.com/rladies-ames/events/243020313/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 1,
+      "yesCount": 0,
       "waitlistCount": 0,
-      "totalCount": 1
+      "totalCount": 0
     },
     "venues": [
       {
@@ -591,7 +608,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2017-02-27T15:27:08-05:00"
   },
   {
     "id": "240117085",
@@ -603,9 +621,9 @@
     "eventUrl": "https://www.meetup.com/rladies-ames/events/240117085/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 1,
+      "yesCount": 0,
       "waitlistCount": 0,
-      "totalCount": 1
+      "totalCount": 0
     },
     "venues": [
       {
@@ -624,7 +642,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2017-02-27T15:27:08-05:00"
   },
   {
     "id": "242663685",
@@ -636,9 +655,9 @@
     "eventUrl": "https://www.meetup.com/rladies-ames/events/242663685/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 2,
+      "yesCount": 1,
       "waitlistCount": 0,
-      "totalCount": 2
+      "totalCount": 1
     },
     "venues": [
       {
@@ -657,7 +676,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2017-02-27T15:27:08-05:00"
   },
   {
     "id": "242649609",
@@ -669,9 +689,9 @@
     "eventUrl": "https://www.meetup.com/rladies-ames/events/242649609/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 1,
+      "yesCount": 0,
       "waitlistCount": 0,
-      "totalCount": 1
+      "totalCount": 0
     },
     "venues": [
       {
@@ -690,7 +710,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2017-02-27T15:27:08-05:00"
   },
   {
     "id": "242472261",
@@ -702,9 +723,9 @@
     "eventUrl": "https://www.meetup.com/rladies-ames/events/242472261/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 1,
+      "yesCount": 0,
       "waitlistCount": 0,
-      "totalCount": 1
+      "totalCount": 0
     },
     "venues": [
       {
@@ -723,7 +744,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2017-02-27T15:27:08-05:00"
   },
   {
     "id": "242288254",
@@ -735,9 +757,9 @@
     "eventUrl": "https://www.meetup.com/rladies-ames/events/242288254/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 1,
+      "yesCount": 0,
       "waitlistCount": 0,
-      "totalCount": 1
+      "totalCount": 0
     },
     "venues": [
       {
@@ -756,7 +778,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2017-02-27T15:27:08-05:00"
   },
   {
     "id": "241724183",
@@ -768,9 +791,9 @@
     "eventUrl": "https://www.meetup.com/rladies-ames/events/241724183/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 1,
+      "yesCount": 0,
       "waitlistCount": 0,
-      "totalCount": 1
+      "totalCount": 0
     },
     "venues": [
       {
@@ -789,7 +812,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2017-02-27T15:27:08-05:00"
   },
   {
     "id": "241913813",
@@ -801,9 +825,9 @@
     "eventUrl": "https://www.meetup.com/rladies-ames/events/241913813/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 1,
+      "yesCount": 0,
       "waitlistCount": 0,
-      "totalCount": 1
+      "totalCount": 0
     },
     "venues": [
       {
@@ -822,7 +846,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2017-02-27T15:27:08-05:00"
   },
   {
     "id": "241725431",
@@ -834,9 +859,9 @@
     "eventUrl": "https://www.meetup.com/rladies-ames/events/241725431/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 1,
+      "yesCount": 0,
       "waitlistCount": 0,
-      "totalCount": 1
+      "totalCount": 0
     },
     "venues": [
       {
@@ -855,7 +880,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2017-02-27T15:27:08-05:00"
   },
   {
     "id": "241408424",
@@ -867,9 +893,9 @@
     "eventUrl": "https://www.meetup.com/rladies-ames/events/241408424/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 2,
+      "yesCount": 0,
       "waitlistCount": 0,
-      "totalCount": 2
+      "totalCount": 0
     },
     "venues": [
       {
@@ -888,7 +914,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2017-02-27T15:27:08-05:00"
   },
   {
     "id": "241207494",
@@ -900,9 +927,9 @@
     "eventUrl": "https://www.meetup.com/rladies-ames/events/241207494/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 1,
+      "yesCount": 0,
       "waitlistCount": 0,
-      "totalCount": 1
+      "totalCount": 0
     },
     "venues": [
       {
@@ -921,7 +948,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2017-02-27T15:27:08-05:00"
   },
   {
     "id": "241025211",
@@ -933,9 +961,9 @@
     "eventUrl": "https://www.meetup.com/rladies-ames/events/241025211/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 2,
+      "yesCount": 1,
       "waitlistCount": 0,
-      "totalCount": 2
+      "totalCount": 1
     },
     "venues": [
       {
@@ -954,7 +982,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2017-02-27T15:27:08-05:00"
   },
   {
     "id": "240847595",
@@ -966,9 +995,9 @@
     "eventUrl": "https://www.meetup.com/rladies-ames/events/240847595/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 1,
+      "yesCount": 0,
       "waitlistCount": 0,
-      "totalCount": 1
+      "totalCount": 0
     },
     "venues": [
       {
@@ -987,7 +1016,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2017-02-27T15:27:08-05:00"
   },
   {
     "id": "240670460",
@@ -999,9 +1029,9 @@
     "eventUrl": "https://www.meetup.com/rladies-ames/events/240670460/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 1,
+      "yesCount": 0,
       "waitlistCount": 0,
-      "totalCount": 1
+      "totalCount": 0
     },
     "venues": [
       {
@@ -1020,7 +1050,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2017-02-27T15:27:08-05:00"
   },
   {
     "id": "240172263",
@@ -1032,9 +1063,9 @@
     "eventUrl": "https://www.meetup.com/rladies-ames/events/240172263/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 1,
+      "yesCount": 0,
       "waitlistCount": 0,
-      "totalCount": 1
+      "totalCount": 0
     },
     "venues": [
       {
@@ -1053,7 +1084,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2017-02-27T15:27:08-05:00"
   },
   {
     "id": "239937926",
@@ -1065,9 +1097,9 @@
     "eventUrl": "https://www.meetup.com/rladies-ames/events/239937926/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 1,
+      "yesCount": 0,
       "waitlistCount": 0,
-      "totalCount": 1
+      "totalCount": 0
     },
     "venues": [
       {
@@ -1086,7 +1118,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2017-02-27T15:27:08-05:00"
   },
   {
     "id": "239759181",
@@ -1098,9 +1131,9 @@
     "eventUrl": "https://www.meetup.com/rladies-ames/events/239759181/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 1,
+      "yesCount": 0,
       "waitlistCount": 0,
-      "totalCount": 1
+      "totalCount": 0
     },
     "venues": [
       {
@@ -1119,7 +1152,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2017-02-27T15:27:08-05:00"
   },
   {
     "id": "239214390",
@@ -1131,9 +1165,9 @@
     "eventUrl": "https://www.meetup.com/rladies-ames/events/239214390/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 1,
+      "yesCount": 0,
       "waitlistCount": 0,
-      "totalCount": 1
+      "totalCount": 0
     },
     "venues": [
       {
@@ -1152,7 +1186,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2017-02-27T15:27:08-05:00"
   },
   {
     "id": "239389161",
@@ -1164,9 +1199,9 @@
     "eventUrl": "https://www.meetup.com/rladies-ames/events/239389161/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 1,
+      "yesCount": 0,
       "waitlistCount": 0,
-      "totalCount": 1
+      "totalCount": 0
     },
     "venues": [
       {
@@ -1185,7 +1220,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2017-02-27T15:27:08-05:00"
   },
   {
     "id": "239216197",
@@ -1197,9 +1233,9 @@
     "eventUrl": "https://www.meetup.com/rladies-ames/events/239216197/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 1,
+      "yesCount": 0,
       "waitlistCount": 0,
-      "totalCount": 1
+      "totalCount": 0
     },
     "venues": [
       {
@@ -1218,7 +1254,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2017-02-27T15:27:08-05:00"
   },
   {
     "id": "238832572",
@@ -1230,9 +1267,9 @@
     "eventUrl": "https://www.meetup.com/rladies-ames/events/238832572/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 8,
+      "yesCount": 7,
       "waitlistCount": 0,
-      "totalCount": 8
+      "totalCount": 7
     },
     "venues": [
       {
@@ -1251,7 +1288,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2017-03-30T13:30:15-04:00"
   },
   {
     "id": "239044272",
@@ -1263,9 +1301,9 @@
     "eventUrl": "https://www.meetup.com/rladies-ames/events/239044272/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 1,
+      "yesCount": 0,
       "waitlistCount": 0,
-      "totalCount": 1
+      "totalCount": 0
     },
     "venues": [
       {
@@ -1284,7 +1322,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2017-02-27T15:27:08-05:00"
   },
   {
     "id": "238861387",
@@ -1296,9 +1335,9 @@
     "eventUrl": "https://www.meetup.com/rladies-ames/events/238861387/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 1,
+      "yesCount": 0,
       "waitlistCount": 0,
-      "totalCount": 1
+      "totalCount": 0
     },
     "venues": [
       {
@@ -1317,7 +1356,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2017-02-27T15:27:08-05:00"
   },
   {
     "id": "238496760",
@@ -1329,9 +1369,9 @@
     "eventUrl": "https://www.meetup.com/rladies-ames/events/238496760/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 2,
+      "yesCount": 0,
       "waitlistCount": 0,
-      "totalCount": 2
+      "totalCount": 0
     },
     "venues": [
       {
@@ -1350,7 +1390,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2017-02-27T15:27:08-05:00"
   },
   {
     "id": "238195782",
@@ -1362,9 +1403,9 @@
     "eventUrl": "https://www.meetup.com/rladies-ames/events/238195782/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 1,
+      "yesCount": 0,
       "waitlistCount": 0,
-      "totalCount": 1
+      "totalCount": 0
     },
     "venues": [
       {
@@ -1383,7 +1424,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2017-02-27T15:27:08-05:00"
   },
   {
     "id": "238195780",
@@ -1395,9 +1437,9 @@
     "eventUrl": "https://www.meetup.com/rladies-ames/events/238195780/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 1,
+      "yesCount": 0,
       "waitlistCount": 0,
-      "totalCount": 1
+      "totalCount": 0
     },
     "venues": [
       {
@@ -1416,7 +1458,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2017-02-27T15:27:08-05:00"
   },
   {
     "id": "238148058",
@@ -1428,9 +1471,9 @@
     "eventUrl": "https://www.meetup.com/rladies-ames/events/238148058/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 1,
+      "yesCount": 0,
       "waitlistCount": 0,
-      "totalCount": 1
+      "totalCount": 0
     },
     "venues": [
       {
@@ -1449,7 +1492,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2017-02-27T15:27:08-05:00"
   },
   {
     "id": "237986353",
@@ -1461,9 +1505,9 @@
     "eventUrl": "https://www.meetup.com/rladies-ames/events/237986353/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 7,
+      "yesCount": 4,
       "waitlistCount": 0,
-      "totalCount": 7
+      "totalCount": 4
     },
     "venues": [
       {
@@ -1482,7 +1526,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2017-02-25T14:56:06-05:00"
   },
   {
     "id": "238037150",
@@ -1494,15 +1539,16 @@
     "eventUrl": "https://www.meetup.com/rladies-ames/events/238037150/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 2,
+      "yesCount": 1,
       "waitlistCount": 0,
-      "totalCount": 2
+      "totalCount": 1
     },
     "venues": [],
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2017-02-27T15:27:08-05:00"
   },
   {
     "id": "237320635",
@@ -1514,9 +1560,9 @@
     "eventUrl": "https://www.meetup.com/rladies-ames/events/237320635/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 24,
+      "yesCount": 16,
       "waitlistCount": 0,
-      "totalCount": 24
+      "totalCount": 16
     },
     "venues": [
       {
@@ -1535,7 +1581,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2017-01-30T14:36:24-05:00"
   },
   {
     "id": "254855089",
@@ -1574,7 +1621,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2018-09-20T12:12:54-04:00"
   },
   {
     "id": "248271548",
@@ -1586,9 +1634,9 @@
     "eventUrl": "https://www.meetup.com/rladies-ames/events/248271548/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 7,
+      "yesCount": 6,
       "waitlistCount": 0,
-      "totalCount": 7
+      "totalCount": 6
     },
     "venues": [
       {
@@ -1607,7 +1655,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2018-02-28T15:06:31-05:00"
   },
   {
     "id": "248271488",
@@ -1619,9 +1668,9 @@
     "eventUrl": "https://www.meetup.com/rladies-ames/events/248271488/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 9,
+      "yesCount": 8,
       "waitlistCount": 0,
-      "totalCount": 9
+      "totalCount": 8
     },
     "venues": [
       {
@@ -1640,7 +1689,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2018-02-28T15:03:34-05:00"
   },
   {
     "id": "247352368",
@@ -1658,9 +1708,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/9/0/4/thumb_468074596.jpeg"
     },
     "rsvps": {
-      "yesCount": 19,
+      "yesCount": 10,
       "waitlistCount": 0,
-      "totalCount": 19
+      "totalCount": 10
     },
     "venues": [
       {
@@ -1679,7 +1729,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2018-01-31T12:28:00-05:00"
   },
   {
     "id": "247039388",
@@ -1697,9 +1748,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/9/1/e/thumb_467807390.jpeg"
     },
     "rsvps": {
-      "yesCount": 4,
+      "yesCount": 3,
       "waitlistCount": 0,
-      "totalCount": 4
+      "totalCount": 3
     },
     "venues": [
       {
@@ -1718,7 +1769,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2018-01-21T21:03:40-05:00"
   },
   {
     "id": "267085147",
@@ -1751,7 +1803,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2019-12-10T08:22:53-05:00"
   },
   {
     "id": "266834023",
@@ -1790,7 +1843,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2019-11-29T15:36:26-05:00"
   },
   {
     "id": "266902022",
@@ -1823,7 +1877,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2019-12-02T15:41:07-05:00"
   },
   {
     "id": "266579106",
@@ -1856,7 +1911,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2019-11-19T06:29:12-05:00"
   },
   {
     "id": "266385062",
@@ -1889,7 +1945,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2019-11-11T11:27:53-05:00"
   },
   {
     "id": "266232674",
@@ -1922,7 +1979,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2019-11-05T11:25:23-05:00"
   },
   {
     "id": "266029113",
@@ -1955,7 +2013,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2019-10-28T16:17:17-04:00"
   },
   {
     "id": "265875593",
@@ -1988,7 +2047,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2019-10-22T12:49:02-04:00"
   },
   {
     "id": "265486244",
@@ -2021,7 +2081,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2019-10-07T16:19:59-04:00"
   },
   {
     "id": "265210243",
@@ -2033,9 +2094,9 @@
     "eventUrl": "https://www.meetup.com/rladies-ames/events/265210243/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 3,
+      "yesCount": 2,
       "waitlistCount": 0,
-      "totalCount": 3
+      "totalCount": 2
     },
     "venues": [
       {
@@ -2054,7 +2115,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2019-09-27T08:46:50-04:00"
   },
   {
     "id": "261081626",
@@ -2087,7 +2149,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2019-03-18T11:07:29-04:00"
   },
   {
     "id": "260888943",
@@ -2099,9 +2162,9 @@
     "eventUrl": "https://www.meetup.com/rladies-ames/events/260888943/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 2,
+      "yesCount": 1,
       "waitlistCount": 0,
-      "totalCount": 2
+      "totalCount": 1
     },
     "venues": [
       {
@@ -2120,7 +2183,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2019-03-18T11:07:29-04:00"
   },
   {
     "id": "260706661",
@@ -2153,7 +2217,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2019-03-18T11:07:29-04:00"
   },
   {
     "id": "260514875",
@@ -2186,7 +2251,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2019-03-18T11:07:29-04:00"
   },
   {
     "id": "260318465",
@@ -2219,7 +2285,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2019-03-18T11:07:29-04:00"
   },
   {
     "id": "259869995",
@@ -2252,7 +2319,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2019-03-18T11:07:29-04:00"
   },
   {
     "id": "259869993",
@@ -2285,7 +2353,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2019-03-18T11:07:29-04:00"
   },
   {
     "id": "259698985",
@@ -2318,7 +2387,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2019-03-01T13:03:48-05:00"
   },
   {
     "id": "259539284",
@@ -2351,7 +2421,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2019-03-01T13:03:48-05:00"
   },
   {
     "id": "259395751",
@@ -2363,9 +2434,9 @@
     "eventUrl": "https://www.meetup.com/rladies-ames/events/259395751/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 2,
+      "yesCount": 1,
       "waitlistCount": 0,
-      "totalCount": 2
+      "totalCount": 1
     },
     "venues": [
       {
@@ -2384,7 +2455,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2019-03-01T13:03:48-05:00"
   },
   {
     "id": "274347021",
@@ -2402,9 +2474,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/c/f/4/thumb_493360180.jpeg"
     },
     "rsvps": {
-      "yesCount": 25,
+      "yesCount": 23,
       "waitlistCount": 0,
-      "totalCount": 25
+      "totalCount": 23
     },
     "venues": [
       {
@@ -2423,7 +2495,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2020-11-02T13:11:47-05:00"
   },
   {
     "id": "272937116",
@@ -2456,7 +2529,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2020-08-31T12:40:31-04:00"
   },
   {
     "id": "269749155",
@@ -2474,15 +2548,16 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/9/a/7/thumb_489959815.jpeg"
     },
     "rsvps": {
-      "yesCount": 4,
+      "yesCount": 3,
       "waitlistCount": 0,
-      "totalCount": 4
+      "totalCount": 3
     },
     "venues": [],
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2020-03-30T12:47:00-04:00"
   },
   {
     "id": "269014560",
@@ -2515,7 +2590,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2020-01-22T07:30:45-05:00"
   },
   {
     "id": "269014551",
@@ -2554,7 +2630,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2020-02-26T16:01:35-05:00"
   },
   {
     "id": "268868966",
@@ -2587,7 +2664,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2020-01-22T07:30:45-05:00"
   },
   {
     "id": "268800418",
@@ -2626,7 +2704,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2020-02-18T10:35:35-05:00"
   },
   {
     "id": "268695575",
@@ -2659,7 +2738,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2020-01-22T07:30:45-05:00"
   },
   {
     "id": "268521155",
@@ -2692,7 +2772,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2020-01-22T07:30:45-05:00"
   },
   {
     "id": "268340937",
@@ -2725,7 +2806,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2020-01-22T07:30:45-05:00"
   },
   {
     "id": "268141907",
@@ -2758,7 +2840,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2020-01-23T10:31:30-05:00"
   },
   {
     "id": "268110176",
@@ -2770,9 +2853,9 @@
     "eventUrl": "https://www.meetup.com/rladies-ames/events/268110176/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 3,
+      "yesCount": 2,
       "waitlistCount": 0,
-      "totalCount": 3
+      "totalCount": 2
     },
     "venues": [
       {
@@ -2791,7 +2874,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2020-01-22T07:30:45-05:00"
   },
   {
     "id": "268093870",
@@ -2824,7 +2908,8 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2020-01-21T15:41:58-05:00"
   },
   {
     "id": "278976795",
@@ -2836,9 +2921,9 @@
     "eventUrl": "https://www.meetup.com/rladies-ames/events/278976795/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 19,
+      "yesCount": 18,
       "waitlistCount": 0,
-      "totalCount": 19
+      "totalCount": 18
     },
     "venues": [
       {
@@ -2857,6 +2942,7 @@
     "group": {
       "name": "R-Ladies Ames",
       "urlname": "rladies-ames"
-    }
+    },
+    "createdTime": "2021-06-21T10:32:42-04:00"
   }
 ]

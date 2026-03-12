@@ -9,9 +9,9 @@
     "eventUrl": "https://www.meetup.com/rladies-eskisehir/events/267086617/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 13,
+      "yesCount": 6,
       "waitlistCount": 0,
-      "totalCount": 13
+      "totalCount": 6
     },
     "venues": [
       {
@@ -30,7 +30,8 @@
     "group": {
       "name": "R-Ladies Eskisehir",
       "urlname": "rladies-eskisehir"
-    }
+    },
+    "createdTime": "2019-12-10T10:06:14-05:00"
   },
   {
     "id": "271856695",
@@ -48,9 +49,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/0/8/5/thumb_491261093.jpeg"
     },
     "rsvps": {
-      "yesCount": 11,
+      "yesCount": 8,
       "waitlistCount": 0,
-      "totalCount": 11
+      "totalCount": 8
     },
     "venues": [
       {
@@ -69,7 +70,8 @@
     "group": {
       "name": "R-Ladies Eskisehir",
       "urlname": "rladies-eskisehir"
-    }
+    },
+    "createdTime": "2020-07-11T02:13:29-04:00"
   },
   {
     "id": "271747320",
@@ -80,6 +82,434 @@
     "duration": "PT2H",
     "eventUrl": "https://www.meetup.com/rladies-eskisehir/events/271747320/",
     "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 6,
+      "waitlistCount": 0,
+      "totalCount": 6
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Eskisehir",
+      "urlname": "rladies-eskisehir"
+    },
+    "createdTime": "2020-07-06T05:41:41-04:00"
+  },
+  {
+    "id": "271601759",
+    "title": "Webinar 6: SQLite veritabına bağlanma  SQL ve dplyr ile sorgulama",
+    "description": "SQL sorgulama diline aşina olanlar, bunu R kullanarak yapmanız mümkün! Öte yandan SQL ve dplyr ile sorgulamalar artık daha kolay... Öğrenmek için etkinliğimize bekliyoruz.",
+    "status": "PAST",
+    "dateTime": "2020-07-01T18:00:00+03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-eskisehir/events/271601759/",
+    "featuredEventPhoto": {
+      "id": "491081684",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/2/d/4/highres_491081684.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/2/d/4/600_491081684.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/2/d/4/thumb_491081684.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 6,
+      "waitlistCount": 0,
+      "totalCount": 6
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Eskisehir",
+      "urlname": "rladies-eskisehir"
+    },
+    "createdTime": "2020-06-29T08:55:05-04:00"
+  },
+  {
+    "id": "271472748",
+    "title": "tidytext ile Metin Madenciliği ve Duygu Analizi",
+    "description": "5. Webinar konumuz: R' da Metin madenciliği ile Duygu Analizi:\nKelimelerin sınıflandırılması üzerine ilginç örneklere yer veren bir sunum sizi bekliyor!",
+    "status": "PAST",
+    "dateTime": "2020-06-26T20:00:00+03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-eskisehir/events/271472748/",
+    "featuredEventPhoto": {
+      "id": "490985922",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/7/2/2/highres_490985922.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/7/2/2/600_490985922.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/7/2/2/thumb_490985922.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 10,
+      "waitlistCount": 0,
+      "totalCount": 10
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Eskisehir",
+      "urlname": "rladies-eskisehir"
+    },
+    "createdTime": "2020-06-23T07:03:58-04:00"
+  },
+  {
+    "id": "271187441",
+    "title": "Webinar 4 sayesinde RMarkdown ile tanışın! ",
+    "description": "R kullanarak kodlarınızla beraber çıktılarınızı görebileceğiniz bir belge üretmek artık daha kolay !\n\nİster .html, ister .pdf, ister .docx olsun, hiç farketmez :-)\n\nKalifornia Üniversitesi, Irvine, İstatistik Bölümü öğretim üyesi sevgili\nYard. Doç. Dr. Mine Doğucu eğitmenliğiyle!",
+    "status": "PAST",
+    "dateTime": "2020-06-12T20:00:00+03:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-eskisehir/events/271187441/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 6,
+      "waitlistCount": 0,
+      "totalCount": 6
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Eskisehir",
+      "urlname": "rladies-eskisehir"
+    },
+    "createdTime": "2020-06-09T13:47:56-04:00"
+  },
+  {
+    "id": "270990494",
+    "title": "rvest ile Veri Kazıma (Web Scraping)",
+    "description": "R' da birkaç satır kod ile internetten veri kazıma nasıl yapılır? Öğrenmek istiyorsanız 3. Webinarımıza katılın lütfen!",
+    "status": "PAST",
+    "dateTime": "2020-06-03T20:00:00+03:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-eskisehir/events/270990494/",
+    "featuredEventPhoto": {
+      "id": "490639037",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/a/5/d/highres_490639037.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/a/5/d/600_490639037.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/a/5/d/thumb_490639037.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 6,
+      "waitlistCount": 0,
+      "totalCount": 6
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Eskisehir",
+      "urlname": "rladies-eskisehir"
+    },
+    "createdTime": "2020-05-31T07:19:31-04:00"
+  },
+  {
+    "id": "270830832",
+    "title": "Webinar 2 serimizde \"tidyverse\" ile tanışın!",
+    "description": "Veri düzenlemek için müthiş kullanışlı bir R paketi olan tidyverse eğitimini, Edinburgh ve Duke Üniversitelerinde Profesor ve RStudio' da Profesyonel Eğitmen olan sevgili Mine Çetinkaya-Rundel ile yapıyoruz!\n\nZoom konferansı için lütfen linki kullanın.\nCuma günü 20.00' de sizi aramızda görmeyi bekliyoruz!",
+    "status": "PAST",
+    "dateTime": "2020-05-29T20:00:00+03:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-eskisehir/events/270830832/",
+    "featuredEventPhoto": {
+      "id": "490541390",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/1/a/e/highres_490541390.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/1/a/e/600_490541390.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/1/a/e/thumb_490541390.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 7,
+      "waitlistCount": 0,
+      "totalCount": 7
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Eskisehir",
+      "urlname": "rladies-eskisehir"
+    },
+    "createdTime": "2020-05-23T11:45:17-04:00"
+  },
+  {
+    "id": "270721900",
+    "title": "Webinar Serisi: Perakende Sektöründe Makine Öğrenmesi",
+    "description": "Herkese Merhaba,\n\nR-Ladies Istanbul, Ankara ve Eskişehir bir araya geldik! 3 harika webinar ile karşınızdayız!\n\nİlk etkinlik LCW'de İş Analisti olan Zeynep Küçükçavdar'in Perakende Sektöründe Makine Öğrenmesi sunumu!\n\nZoom linki: https://us02web.zoom.us/j/87699885612\n\nIlgilenen herkesi bekliyoruz!",
+    "status": "PAST",
+    "dateTime": "2020-05-20T21:00:00+03:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-eskisehir/events/270721900/",
+    "featuredEventPhoto": {
+      "id": "490484848",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/f/3/0/highres_490484848.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/f/3/0/600_490484848.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/f/3/0/thumb_490484848.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Eskisehir",
+      "urlname": "rladies-eskisehir"
+    },
+    "createdTime": "2020-05-18T04:24:14-04:00"
+  },
+  {
+    "id": "269308261",
+    "title": "R Temel Eğitimi-İPTAL (COVİD-19)",
+    "description": "İçerik:\nR ve R Studio Kurulumu\nR Çalışma Alanı, Nesneler, Değişkenler ve İşlevleri\nR’ da Vektör ve Matris İşlemleri\nR’ da Temel Veri Görselleştirme\n\nLütfen beraberinizde Laptop getirin.\nKayıt olmayı unutmayın! :\n\nhttps://forms.gle/mFsrPH4xd84wUME67",
+    "status": "CANCELLED",
+    "dateTime": "2020-03-17T09:00:00+03:00",
+    "duration": "PT4H",
+    "eventUrl": "https://www.meetup.com/rladies-eskisehir/events/269308261/",
+    "featuredEventPhoto": {
+      "id": "489674914",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/a/4/2/highres_489674914.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/a/4/2/600_489674914.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/a/4/2/thumb_489674914.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 9,
+      "waitlistCount": 0,
+      "totalCount": 9
+    },
+    "venues": [
+      {
+        "id": "26769508",
+        "name": "Eskişehir Teknik Üniversitesi",
+        "address": "Fen Fakültesi Zemin Kat MD016",
+        "city": "Eskişehir",
+        "state": "al",
+        "country": "tr",
+        "lat": 39.7944,
+        "lon": 30.4969,
+        "postalCode": "meetup12",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Eskisehir",
+      "urlname": "rladies-eskisehir"
+    },
+    "createdTime": "2020-03-09T15:13:32-04:00"
+  },
+  {
+    "id": "268946550",
+    "title": "R Temel Eğitimi- ERTELENDİ",
+    "description": "📢Milletçe yaşadığımız derin üzüntü sebebiyle, 3 Mart tarihinde Eskişehir Teknik Üniversitesi Fen Fakültesi' nde gerçekleştireceğimiz \"R Temel Eğitimi\" buluşmamızı erteliyoruz.\n\nYeni tarih netleşince duyurusunu tekrar yapacağız...",
+    "status": "PAST",
+    "dateTime": "2020-03-03T09:15:00+03:00",
+    "duration": "PT3H45M",
+    "eventUrl": "https://www.meetup.com/rladies-eskisehir/events/268946550/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 6,
+      "waitlistCount": 0,
+      "totalCount": 6
+    },
+    "venues": [
+      {
+        "id": "26769508",
+        "name": "Eskişehir Teknik Üniversitesi",
+        "address": "Fen Fakültesi Zemin Kat MD016",
+        "city": "Eskişehir",
+        "state": "al",
+        "country": "tr",
+        "lat": 39.7944,
+        "lon": 30.4969,
+        "postalCode": "meetup12",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Eskisehir",
+      "urlname": "rladies-eskisehir"
+    },
+    "createdTime": "2020-02-24T04:10:32-05:00"
+  },
+  {
+    "id": "278825841",
+    "title": "R' da CNN ile Bir Derin Öğrenme Uygulaması",
+    "description": "\"R' da Derin Öğrenme\" üzerine neler yapabiliriz merak ediyorsanız İstanbul Üniversitesi Enformatik Bölümünden sevgili hocamız Araş. Gör. Dr. Elif Kartal bizlerle olacak! webinarımızı kaçırmayın! (passcode 000111)",
+    "status": "PAST",
+    "dateTime": "2021-06-24T20:00:00+03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-eskisehir/events/278825841/",
+    "featuredEventPhoto": {
+      "id": "496916622",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/d/2/e/highres_496916622.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/d/2/e/600_496916622.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/d/2/e/thumb_496916622.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 6,
+      "waitlistCount": 0,
+      "totalCount": 6
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Eskisehir",
+      "urlname": "rladies-eskisehir"
+    },
+    "createdTime": "2021-06-14T07:23:51-04:00"
+  },
+  {
+    "id": "278506946",
+    "title": "R' da Veri Kazıma ile İstatistiksel Analiz",
+    "description": "Web Scraping ile bir html sayfasından veri çekmeyi hiç denediniz mi? Bu şekilde oluşturulmuş veri seti ile istatistiksel analiz sonuçlarını paylaşacağımız webinarımıza davetlisiniz! (passcode 000111)",
+    "status": "PAST",
+    "dateTime": "2021-06-03T20:00:00+03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-eskisehir/events/278506946/",
+    "featuredEventPhoto": {
+      "id": "496613551",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/1/2/f/highres_496613551.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/1/2/f/600_496613551.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/1/2/f/thumb_496613551.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Eskisehir",
+      "urlname": "rladies-eskisehir"
+    },
+    "createdTime": "2021-05-30T08:20:35-04:00"
+  },
+  {
+    "id": "278395992",
+    "title": "R' da tm paketi ile Metin Madenciliği",
+    "description": "14. webinarımızda tm kütüphanesini inceliyoruz! Gerçek bir veri seti ile tm uygulamasını dinlemek isterseniz 27 Mayıs Perşembe günü saat: 20.00' da görüşmek üzere! (passcode 000111)",
+    "status": "PAST",
+    "dateTime": "2021-05-27T20:00:00+03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-eskisehir/events/278395992/",
+    "featuredEventPhoto": {
+      "id": "496502785",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/e/1/highres_496502785.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/e/1/600_496502785.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/e/1/thumb_496502785.jpeg"
+    },
     "rsvps": {
       "yesCount": 9,
       "waitlistCount": 0,
@@ -102,27 +532,28 @@
     "group": {
       "name": "R-Ladies Eskisehir",
       "urlname": "rladies-eskisehir"
-    }
+    },
+    "createdTime": "2021-05-25T03:24:45-04:00"
   },
   {
-    "id": "271601759",
-    "title": "Webinar 6: SQLite veritabına bağlanma  SQL ve dplyr ile sorgulama",
-    "description": "SQL sorgulama diline aşina olanlar, bunu R kullanarak yapmanız mümkün! Öte yandan SQL ve dplyr ile sorgulamalar artık daha kolay... Öğrenmek için etkinliğimize bekliyoruz.",
+    "id": "277897415",
+    "title": "R'da Renk Teorisi ve Uygulamaları",
+    "description": "Mimar Sinan Güzel Sanatlar Üniversitesi, İstatistik Bölümü öğretim üyelerinden Dr. Öğr. üyesi Özge Özdamar ile Renk Teorisine ilişkin uygulamalı bir webinarımız olacaktır. Katılmanızı çok isteriz!!! (passcode: 000111)\n\nDahası için web sitemizi ziyaret ediniz: www.rladieseskisehir.org",
     "status": "PAST",
-    "dateTime": "2020-07-01T18:00:00+03:00",
+    "dateTime": "2021-05-06T20:00:00+03:00",
     "duration": "PT2H",
-    "eventUrl": "https://www.meetup.com/rladies-eskisehir/events/271601759/",
+    "eventUrl": "https://www.meetup.com/rladies-eskisehir/events/277897415/",
     "featuredEventPhoto": {
-      "id": "491081684",
+      "id": "496012594",
       "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/2/d/4/highres_491081684.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/2/d/4/600_491081684.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/2/d/4/thumb_491081684.jpeg"
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/d/7/2/highres_496012594.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/d/7/2/600_496012594.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/d/7/2/thumb_496012594.jpeg"
     },
     "rsvps": {
-      "yesCount": 10,
+      "yesCount": 19,
       "waitlistCount": 0,
-      "totalCount": 10
+      "totalCount": 19
     },
     "venues": [
       {
@@ -141,27 +572,28 @@
     "group": {
       "name": "R-Ladies Eskisehir",
       "urlname": "rladies-eskisehir"
-    }
+    },
+    "createdTime": "2021-04-30T08:23:58-04:00"
   },
   {
-    "id": "271472748",
-    "title": "tidytext ile Metin Madenciliği ve Duygu Analizi",
-    "description": "5. Webinar konumuz: R' da Metin madenciliği ile Duygu Analizi:\nKelimelerin sınıflandırılması üzerine ilginç örneklere yer veren bir sunum sizi bekliyor!",
+    "id": "277735227",
+    "title": "R' da Zamana Bağlı ROC Analizi",
+    "description": "Uludağ Üniversitesi, Biyoistatistik Anabilim Dalı öğretim üyesi Doç. Dr. Deniz SIĞIRLI hocamızın, zamana bağlı ROC analizi üzerinde duracağı bir etkinlik olarak planlanmıştır. (Erişim için passcode: 000111)",
     "status": "PAST",
-    "dateTime": "2020-06-26T20:00:00+03:00",
+    "dateTime": "2021-04-28T20:00:00+03:00",
     "duration": "PT2H",
-    "eventUrl": "https://www.meetup.com/rladies-eskisehir/events/271472748/",
+    "eventUrl": "https://www.meetup.com/rladies-eskisehir/events/277735227/",
     "featuredEventPhoto": {
-      "id": "490985922",
+      "id": "495861955",
       "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/7/2/2/highres_490985922.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/7/2/2/600_490985922.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/7/2/2/thumb_490985922.jpeg"
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/5/c/3/highres_495861955.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/5/c/3/600_495861955.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/5/c/3/thumb_495861955.jpeg"
     },
     "rsvps": {
-      "yesCount": 17,
+      "yesCount": 8,
       "waitlistCount": 0,
-      "totalCount": 17
+      "totalCount": 8
     },
     "venues": [
       {
@@ -180,17 +612,64 @@
     "group": {
       "name": "R-Ladies Eskisehir",
       "urlname": "rladies-eskisehir"
-    }
+    },
+    "createdTime": "2021-04-22T12:37:43-04:00"
   },
   {
-    "id": "271187441",
-    "title": "Webinar 4 sayesinde RMarkdown ile tanışın! ",
-    "description": "R kullanarak kodlarınızla beraber çıktılarınızı görebileceğiniz bir belge üretmek artık daha kolay !\n\nİster .html, ister .pdf, ister .docx olsun, hiç farketmez :-)\n\nKalifornia Üniversitesi, Irvine, İstatistik Bölümü öğretim üyesi sevgili\nYard. Doç. Dr. Mine Doğucu eğitmenliğiyle!",
+    "id": "277463011",
+    "title": "R' da Bayes Yaklaşımı ile Regresyon Analizi ",
+    "description": "R' da Bayes Yaklaşımı ile Basit Doğrusal Regresyon Analizi yapabilme şansınız olduğunu biliyor musunuz? Öğrenmek isterseniz etkinliğimize bekleriz! (Erişim için passcode: 0001111)",
     "status": "PAST",
-    "dateTime": "2020-06-12T20:00:00+03:00",
-    "duration": "PT1H30M",
-    "eventUrl": "https://www.meetup.com/rladies-eskisehir/events/271187441/",
-    "featuredEventPhoto": {},
+    "dateTime": "2021-04-15T20:00:00+03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-eskisehir/events/277463011/",
+    "featuredEventPhoto": {
+      "id": "495609344",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/4/8/0/highres_495609344.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/4/8/0/600_495609344.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/4/8/0/thumb_495609344.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 15,
+      "waitlistCount": 0,
+      "totalCount": 15
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Eskisehir",
+      "urlname": "rladies-eskisehir"
+    },
+    "createdTime": "2021-04-09T05:46:20-04:00"
+  },
+  {
+    "id": "276992939",
+    "title": "(.)apply Fonksiyonları ve Kullanım Şekilleri",
+    "description": "loop fonksiyonları yerine, (.)apply ailesinin kullanımlarını öğrenmek isterseniz bu webinarı kaçırmayın!\n\n(Toplantıya katılmak için standard passcode: 000111)\n\nAirline Data, 2008.csv verisini aşağıdaki linki kopyalayarak\nindirip, unzip yapabilirsiniz.\n\nhttps://dataverse.harvard.edu/api/access/datafile/:persistentId?persistentId=doi:10.7910/DVN/HG7NV7/EIR0RA",
+    "status": "PAST",
+    "dateTime": "2021-03-25T20:00:00+03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-eskisehir/events/276992939/",
+    "featuredEventPhoto": {
+      "id": "495324424",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/f/6/8/highres_495324424.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/f/6/8/600_495324424.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/f/6/8/thumb_495324424.jpeg"
+    },
     "rsvps": {
       "yesCount": 11,
       "waitlistCount": 0,
@@ -213,469 +692,8 @@
     "group": {
       "name": "R-Ladies Eskisehir",
       "urlname": "rladies-eskisehir"
-    }
-  },
-  {
-    "id": "270990494",
-    "title": "rvest ile Veri Kazıma (Web Scraping)",
-    "description": "R' da birkaç satır kod ile internetten veri kazıma nasıl yapılır? Öğrenmek istiyorsanız 3. Webinarımıza katılın lütfen!",
-    "status": "PAST",
-    "dateTime": "2020-06-03T20:00:00+03:00",
-    "duration": "PT1H30M",
-    "eventUrl": "https://www.meetup.com/rladies-eskisehir/events/270990494/",
-    "featuredEventPhoto": {
-      "id": "490639037",
-      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/a/5/d/highres_490639037.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/a/5/d/600_490639037.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/a/5/d/thumb_490639037.jpeg"
     },
-    "rsvps": {
-      "yesCount": 8,
-      "waitlistCount": 0,
-      "totalCount": 8
-    },
-    "venues": [
-      {
-        "id": "26906060",
-        "name": "Online event",
-        "address": "",
-        "city": "",
-        "state": "",
-        "country": "",
-        "lat": -8.5211,
-        "lon": 179.1962,
-        "postalCode": "",
-        "venueType": "online"
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Eskisehir",
-      "urlname": "rladies-eskisehir"
-    }
-  },
-  {
-    "id": "270830832",
-    "title": "Webinar 2 serimizde \"tidyverse\" ile tanışın!",
-    "description": "Veri düzenlemek için müthiş kullanışlı bir R paketi olan tidyverse eğitimini, Edinburgh ve Duke Üniversitelerinde Profesor ve RStudio' da Profesyonel Eğitmen olan sevgili Mine Çetinkaya-Rundel ile yapıyoruz!\n\nZoom konferansı için lütfen linki kullanın.\nCuma günü 20.00' de sizi aramızda görmeyi bekliyoruz!",
-    "status": "PAST",
-    "dateTime": "2020-05-29T20:00:00+03:00",
-    "duration": "PT1H",
-    "eventUrl": "https://www.meetup.com/rladies-eskisehir/events/270830832/",
-    "featuredEventPhoto": {
-      "id": "490541390",
-      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/1/a/e/highres_490541390.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/1/a/e/600_490541390.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/1/a/e/thumb_490541390.jpeg"
-    },
-    "rsvps": {
-      "yesCount": 12,
-      "waitlistCount": 0,
-      "totalCount": 12
-    },
-    "venues": [
-      {
-        "id": "26906060",
-        "name": "Online event",
-        "address": "",
-        "city": "",
-        "state": "",
-        "country": "",
-        "lat": -8.5211,
-        "lon": 179.1962,
-        "postalCode": "",
-        "venueType": "online"
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Eskisehir",
-      "urlname": "rladies-eskisehir"
-    }
-  },
-  {
-    "id": "270721900",
-    "title": "Webinar Serisi: Perakende Sektöründe Makine Öğrenmesi",
-    "description": "Herkese Merhaba,\n\nR-Ladies Istanbul, Ankara ve Eskişehir bir araya geldik! 3 harika webinar ile karşınızdayız!\n\nİlk etkinlik LCW'de İş Analisti olan Zeynep Küçükçavdar'in Perakende Sektöründe Makine Öğrenmesi sunumu!\n\nZoom linki: https://us02web.zoom.us/j/87699885612\n\nIlgilenen herkesi bekliyoruz!",
-    "status": "PAST",
-    "dateTime": "2020-05-20T21:00:00+03:00",
-    "duration": "PT1H30M",
-    "eventUrl": "https://www.meetup.com/rladies-eskisehir/events/270721900/",
-    "featuredEventPhoto": {
-      "id": "490484848",
-      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/f/3/0/highres_490484848.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/f/3/0/600_490484848.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/f/3/0/thumb_490484848.jpeg"
-    },
-    "rsvps": {
-      "yesCount": 10,
-      "waitlistCount": 0,
-      "totalCount": 10
-    },
-    "venues": [
-      {
-        "id": "26906060",
-        "name": "Online event",
-        "address": "",
-        "city": "",
-        "state": "",
-        "country": "",
-        "lat": -8.5211,
-        "lon": 179.1962,
-        "postalCode": "",
-        "venueType": "online"
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Eskisehir",
-      "urlname": "rladies-eskisehir"
-    }
-  },
-  {
-    "id": "269308261",
-    "title": "R Temel Eğitimi-İPTAL (COVİD-19)",
-    "description": "İçerik:\nR ve R Studio Kurulumu\nR Çalışma Alanı, Nesneler, Değişkenler ve İşlevleri\nR’ da Vektör ve Matris İşlemleri\nR’ da Temel Veri Görselleştirme\n\nLütfen beraberinizde Laptop getirin.\nKayıt olmayı unutmayın! :\n\nhttps://forms.gle/mFsrPH4xd84wUME67",
-    "status": "CANCELLED",
-    "dateTime": "2020-03-17T09:00:00+03:00",
-    "duration": "PT4H",
-    "eventUrl": "https://www.meetup.com/rladies-eskisehir/events/269308261/",
-    "featuredEventPhoto": {
-      "id": "489674914",
-      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/a/4/2/highres_489674914.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/a/4/2/600_489674914.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/a/4/2/thumb_489674914.jpeg"
-    },
-    "rsvps": {
-      "yesCount": 16,
-      "waitlistCount": 0,
-      "totalCount": 16
-    },
-    "venues": [
-      {
-        "id": "26769508",
-        "name": "Eskişehir Teknik Üniversitesi",
-        "address": "Fen Fakültesi Zemin Kat MD016",
-        "city": "Eskişehir",
-        "state": "al",
-        "country": "tr",
-        "lat": 39.7944,
-        "lon": 30.4969,
-        "postalCode": "meetup12",
-        "venueType": ""
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Eskisehir",
-      "urlname": "rladies-eskisehir"
-    }
-  },
-  {
-    "id": "268946550",
-    "title": "R Temel Eğitimi- ERTELENDİ",
-    "description": "📢Milletçe yaşadığımız derin üzüntü sebebiyle, 3 Mart tarihinde Eskişehir Teknik Üniversitesi Fen Fakültesi' nde gerçekleştireceğimiz \"R Temel Eğitimi\" buluşmamızı erteliyoruz.\n\nYeni tarih netleşince duyurusunu tekrar yapacağız...",
-    "status": "PAST",
-    "dateTime": "2020-03-03T09:15:00+03:00",
-    "duration": "PT3H45M",
-    "eventUrl": "https://www.meetup.com/rladies-eskisehir/events/268946550/",
-    "featuredEventPhoto": {},
-    "rsvps": {
-      "yesCount": 13,
-      "waitlistCount": 0,
-      "totalCount": 13
-    },
-    "venues": [
-      {
-        "id": "26769508",
-        "name": "Eskişehir Teknik Üniversitesi",
-        "address": "Fen Fakültesi Zemin Kat MD016",
-        "city": "Eskişehir",
-        "state": "al",
-        "country": "tr",
-        "lat": 39.7944,
-        "lon": 30.4969,
-        "postalCode": "meetup12",
-        "venueType": ""
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Eskisehir",
-      "urlname": "rladies-eskisehir"
-    }
-  },
-  {
-    "id": "278825841",
-    "title": "R' da CNN ile Bir Derin Öğrenme Uygulaması",
-    "description": "\"R' da Derin Öğrenme\" üzerine neler yapabiliriz merak ediyorsanız İstanbul Üniversitesi Enformatik Bölümünden sevgili hocamız Araş. Gör. Dr. Elif Kartal bizlerle olacak! webinarımızı kaçırmayın! (passcode 000111)",
-    "status": "PAST",
-    "dateTime": "2021-06-24T20:00:00+03:00",
-    "duration": "PT2H",
-    "eventUrl": "https://www.meetup.com/rladies-eskisehir/events/278825841/",
-    "featuredEventPhoto": {
-      "id": "496916622",
-      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/d/2/e/highres_496916622.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/d/2/e/600_496916622.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/d/2/e/thumb_496916622.jpeg"
-    },
-    "rsvps": {
-      "yesCount": 10,
-      "waitlistCount": 0,
-      "totalCount": 10
-    },
-    "venues": [
-      {
-        "id": "26906060",
-        "name": "Online event",
-        "address": "",
-        "city": "",
-        "state": "",
-        "country": "",
-        "lat": -8.5211,
-        "lon": 179.1962,
-        "postalCode": "",
-        "venueType": "online"
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Eskisehir",
-      "urlname": "rladies-eskisehir"
-    }
-  },
-  {
-    "id": "278506946",
-    "title": "R' da Veri Kazıma ile İstatistiksel Analiz",
-    "description": "Web Scraping ile bir html sayfasından veri çekmeyi hiç denediniz mi? Bu şekilde oluşturulmuş veri seti ile istatistiksel analiz sonuçlarını paylaşacağımız webinarımıza davetlisiniz! (passcode 000111)",
-    "status": "PAST",
-    "dateTime": "2021-06-03T20:00:00+03:00",
-    "duration": "PT2H",
-    "eventUrl": "https://www.meetup.com/rladies-eskisehir/events/278506946/",
-    "featuredEventPhoto": {
-      "id": "496613551",
-      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/1/2/f/highres_496613551.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/1/2/f/600_496613551.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/1/2/f/thumb_496613551.jpeg"
-    },
-    "rsvps": {
-      "yesCount": 10,
-      "waitlistCount": 0,
-      "totalCount": 10
-    },
-    "venues": [
-      {
-        "id": "26906060",
-        "name": "Online event",
-        "address": "",
-        "city": "",
-        "state": "",
-        "country": "",
-        "lat": -8.5211,
-        "lon": 179.1962,
-        "postalCode": "",
-        "venueType": "online"
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Eskisehir",
-      "urlname": "rladies-eskisehir"
-    }
-  },
-  {
-    "id": "278395992",
-    "title": "R' da tm paketi ile Metin Madenciliği",
-    "description": "14. webinarımızda tm kütüphanesini inceliyoruz! Gerçek bir veri seti ile tm uygulamasını dinlemek isterseniz 27 Mayıs Perşembe günü saat: 20.00' da görüşmek üzere! (passcode 000111)",
-    "status": "PAST",
-    "dateTime": "2021-05-27T20:00:00+03:00",
-    "duration": "PT2H",
-    "eventUrl": "https://www.meetup.com/rladies-eskisehir/events/278395992/",
-    "featuredEventPhoto": {
-      "id": "496502785",
-      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/e/1/highres_496502785.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/e/1/600_496502785.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/e/1/thumb_496502785.jpeg"
-    },
-    "rsvps": {
-      "yesCount": 14,
-      "waitlistCount": 0,
-      "totalCount": 14
-    },
-    "venues": [
-      {
-        "id": "26906060",
-        "name": "Online event",
-        "address": "",
-        "city": "",
-        "state": "",
-        "country": "",
-        "lat": -8.5211,
-        "lon": 179.1962,
-        "postalCode": "",
-        "venueType": "online"
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Eskisehir",
-      "urlname": "rladies-eskisehir"
-    }
-  },
-  {
-    "id": "277897415",
-    "title": "R'da Renk Teorisi ve Uygulamaları",
-    "description": "Mimar Sinan Güzel Sanatlar Üniversitesi, İstatistik Bölümü öğretim üyelerinden Dr. Öğr. üyesi Özge Özdamar ile Renk Teorisine ilişkin uygulamalı bir webinarımız olacaktır. Katılmanızı çok isteriz!!! (passcode: 000111)\n\nDahası için web sitemizi ziyaret ediniz: www.rladieseskisehir.org",
-    "status": "PAST",
-    "dateTime": "2021-05-06T20:00:00+03:00",
-    "duration": "PT2H",
-    "eventUrl": "https://www.meetup.com/rladies-eskisehir/events/277897415/",
-    "featuredEventPhoto": {
-      "id": "496012594",
-      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/d/7/2/highres_496012594.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/d/7/2/600_496012594.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/d/7/2/thumb_496012594.jpeg"
-    },
-    "rsvps": {
-      "yesCount": 24,
-      "waitlistCount": 0,
-      "totalCount": 24
-    },
-    "venues": [
-      {
-        "id": "26906060",
-        "name": "Online event",
-        "address": "",
-        "city": "",
-        "state": "",
-        "country": "",
-        "lat": -8.5211,
-        "lon": 179.1962,
-        "postalCode": "",
-        "venueType": "online"
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Eskisehir",
-      "urlname": "rladies-eskisehir"
-    }
-  },
-  {
-    "id": "277735227",
-    "title": "R' da Zamana Bağlı ROC Analizi",
-    "description": "Uludağ Üniversitesi, Biyoistatistik Anabilim Dalı öğretim üyesi Doç. Dr. Deniz SIĞIRLI hocamızın, zamana bağlı ROC analizi üzerinde duracağı bir etkinlik olarak planlanmıştır. (Erişim için passcode: 000111)",
-    "status": "PAST",
-    "dateTime": "2021-04-28T20:00:00+03:00",
-    "duration": "PT2H",
-    "eventUrl": "https://www.meetup.com/rladies-eskisehir/events/277735227/",
-    "featuredEventPhoto": {
-      "id": "495861955",
-      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/5/c/3/highres_495861955.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/5/c/3/600_495861955.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/5/c/3/thumb_495861955.jpeg"
-    },
-    "rsvps": {
-      "yesCount": 12,
-      "waitlistCount": 0,
-      "totalCount": 12
-    },
-    "venues": [
-      {
-        "id": "26906060",
-        "name": "Online event",
-        "address": "",
-        "city": "",
-        "state": "",
-        "country": "",
-        "lat": -8.5211,
-        "lon": 179.1962,
-        "postalCode": "",
-        "venueType": "online"
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Eskisehir",
-      "urlname": "rladies-eskisehir"
-    }
-  },
-  {
-    "id": "277463011",
-    "title": "R' da Bayes Yaklaşımı ile Regresyon Analizi ",
-    "description": "R' da Bayes Yaklaşımı ile Basit Doğrusal Regresyon Analizi yapabilme şansınız olduğunu biliyor musunuz? Öğrenmek isterseniz etkinliğimize bekleriz! (Erişim için passcode: 0001111)",
-    "status": "PAST",
-    "dateTime": "2021-04-15T20:00:00+03:00",
-    "duration": "PT2H",
-    "eventUrl": "https://www.meetup.com/rladies-eskisehir/events/277463011/",
-    "featuredEventPhoto": {
-      "id": "495609344",
-      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/4/8/0/highres_495609344.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/4/8/0/600_495609344.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/4/8/0/thumb_495609344.jpeg"
-    },
-    "rsvps": {
-      "yesCount": 22,
-      "waitlistCount": 0,
-      "totalCount": 22
-    },
-    "venues": [
-      {
-        "id": "26906060",
-        "name": "Online event",
-        "address": "",
-        "city": "",
-        "state": "",
-        "country": "",
-        "lat": -8.5211,
-        "lon": 179.1962,
-        "postalCode": "",
-        "venueType": "online"
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Eskisehir",
-      "urlname": "rladies-eskisehir"
-    }
-  },
-  {
-    "id": "276992939",
-    "title": "(.)apply Fonksiyonları ve Kullanım Şekilleri",
-    "description": "loop fonksiyonları yerine, (.)apply ailesinin kullanımlarını öğrenmek isterseniz bu webinarı kaçırmayın!\n\n(Toplantıya katılmak için standard passcode: 000111)\n\nAirline Data, 2008.csv verisini aşağıdaki linki kopyalayarak\nindirip, unzip yapabilirsiniz.\n\nhttps://dataverse.harvard.edu/api/access/datafile/:persistentId?persistentId=doi:10.7910/DVN/HG7NV7/EIR0RA",
-    "status": "PAST",
-    "dateTime": "2021-03-25T20:00:00+03:00",
-    "duration": "PT2H",
-    "eventUrl": "https://www.meetup.com/rladies-eskisehir/events/276992939/",
-    "featuredEventPhoto": {
-      "id": "495324424",
-      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/f/6/8/highres_495324424.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/f/6/8/600_495324424.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/f/6/8/thumb_495324424.jpeg"
-    },
-    "rsvps": {
-      "yesCount": 18,
-      "waitlistCount": 0,
-      "totalCount": 18
-    },
-    "venues": [
-      {
-        "id": "26906060",
-        "name": "Online event",
-        "address": "",
-        "city": "",
-        "state": "",
-        "country": "",
-        "lat": -8.5211,
-        "lon": 179.1962,
-        "postalCode": "",
-        "venueType": "online"
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Eskisehir",
-      "urlname": "rladies-eskisehir"
-    }
+    "createdTime": "2021-03-17T14:50:26-04:00"
   },
   {
     "id": "276669532",
@@ -693,9 +711,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/9/e/7/thumb_494975303.jpeg"
     },
     "rsvps": {
-      "yesCount": 8,
+      "yesCount": 4,
       "waitlistCount": 0,
-      "totalCount": 8
+      "totalCount": 4
     },
     "venues": [
       {
@@ -714,6 +732,7 @@
     "group": {
       "name": "R-Ladies Eskisehir",
       "urlname": "rladies-eskisehir"
-    }
+    },
+    "createdTime": "2021-03-01T11:40:48-05:00"
   }
 ]

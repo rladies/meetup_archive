@@ -9,9 +9,9 @@
     "eventUrl": "https://www.meetup.com/rladies-berlin/events/235238780/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 34,
+      "yesCount": 33,
       "waitlistCount": 0,
-      "totalCount": 34
+      "totalCount": 33
     },
     "venues": [
       {
@@ -30,7 +30,8 @@
     "group": {
       "name": "R-Ladies Berlin",
       "urlname": "rladies-berlin"
-    }
+    },
+    "createdTime": "2016-10-31T08:56:27-04:00"
   },
   {
     "id": "245207806",
@@ -63,7 +64,8 @@
     "group": {
       "name": "R-Ladies Berlin",
       "urlname": "rladies-berlin"
-    }
+    },
+    "createdTime": "2017-11-18T05:42:04-05:00"
   },
   {
     "id": "244112001",
@@ -96,7 +98,8 @@
     "group": {
       "name": "R-Ladies Berlin",
       "urlname": "rladies-berlin"
-    }
+    },
+    "createdTime": "2017-10-11T09:29:03-04:00"
   },
   {
     "id": "243436226",
@@ -129,7 +132,8 @@
     "group": {
       "name": "R-Ladies Berlin",
       "urlname": "rladies-berlin"
-    }
+    },
+    "createdTime": "2017-09-17T09:56:39-04:00"
   },
   {
     "id": "241766582",
@@ -162,7 +166,8 @@
     "group": {
       "name": "R-Ladies Berlin",
       "urlname": "rladies-berlin"
-    }
+    },
+    "createdTime": "2017-07-16T11:48:02-04:00"
   },
   {
     "id": "240060674",
@@ -195,7 +200,8 @@
     "group": {
       "name": "R-Ladies Berlin",
       "urlname": "rladies-berlin"
-    }
+    },
+    "createdTime": "2017-05-17T13:23:20-04:00"
   },
   {
     "id": "238862150",
@@ -207,9 +213,9 @@
     "eventUrl": "https://www.meetup.com/rladies-berlin/events/238862150/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 41,
+      "yesCount": 39,
       "waitlistCount": 0,
-      "totalCount": 41
+      "totalCount": 39
     },
     "venues": [
       {
@@ -228,7 +234,8 @@
     "group": {
       "name": "R-Ladies Berlin",
       "urlname": "rladies-berlin"
-    }
+    },
+    "createdTime": "2017-03-31T15:04:17-04:00"
   },
   {
     "id": "236602798",
@@ -240,9 +247,9 @@
     "eventUrl": "https://www.meetup.com/rladies-berlin/events/236602798/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 35,
+      "yesCount": 34,
       "waitlistCount": 0,
-      "totalCount": 35
+      "totalCount": 34
     },
     "venues": [
       {
@@ -261,7 +268,8 @@
     "group": {
       "name": "R-Ladies Berlin",
       "urlname": "rladies-berlin"
-    }
+    },
+    "createdTime": "2017-01-02T03:10:01-05:00"
   },
   {
     "id": "237308792",
@@ -294,7 +302,8 @@
     "group": {
       "name": "R-Ladies Berlin",
       "urlname": "rladies-berlin"
-    }
+    },
+    "createdTime": "2017-01-30T04:08:16-05:00"
   },
   {
     "id": "255416114",
@@ -306,9 +315,9 @@
     "eventUrl": "https://www.meetup.com/rladies-berlin/events/255416114/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 49,
+      "yesCount": 46,
       "waitlistCount": 0,
-      "totalCount": 49
+      "totalCount": 46
     },
     "venues": [
       {
@@ -327,7 +336,8 @@
     "group": {
       "name": "R-Ladies Berlin",
       "urlname": "rladies-berlin"
-    }
+    },
+    "createdTime": "2018-10-10T04:34:35-04:00"
   },
   {
     "id": "255416053",
@@ -337,6 +347,142 @@
     "dateTime": "2018-10-31T18:30:00+01:00",
     "duration": "PT2H30M",
     "eventUrl": "https://www.meetup.com/rladies-berlin/events/255416053/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 38,
+      "waitlistCount": 0,
+      "totalCount": 38
+    },
+    "venues": [
+      {
+        "id": "24743276",
+        "name": "Babbel",
+        "address": "Max-Beer-Strasse 2",
+        "city": "Berlin",
+        "state": "",
+        "country": "de",
+        "lat": 52.5246,
+        "lon": 13.4082,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Berlin",
+      "urlname": "rladies-berlin"
+    },
+    "createdTime": "2018-10-10T04:31:39-04:00"
+  },
+  {
+    "id": "251998387",
+    "title": "R-Ladies London visits R-Ladies Berlin",
+    "description": "We are happy to welcome R-Lady Grace from London at our additional meet-up session next week!\n\n# Speaker details\n\nGrace Meyer is a commercial analytics expert with proven success in advising business strategy based on data driven insights. She is currently based in London and works for the economics consultancy Oxera where she applies machine learning to strategic projects and is developing the data science and programming team. She is a mentor in the R-Ladies London chapter, uses R on a daily basis to crunch data and problem solve and presented at both UseR! and EARL last year.\n\n# Dive into dplyr\n\nData is seldom already in a tidy format for you to start analysis on straight away. My personal experience confirms that about 80% of the analytics work-flow is massaging and crunching data into a useful state. R is a master of analytics and modelling which would be useless without its strong data manipulation functionality, especially from the tidyverse package dplyr. In this session we will learn the main verbs of dplyr and link them together with the magrittr pipe to create new data sets and get insight from our data. Then we will take a look at the verb extensions and other package functionality.\n\n# What to bring\n\nThe session will be hands on so bring your own laptop with dplyr installed (examples will be based on in-build data sets). If you don't have the set-up, come along anyway to learn about this famous package.\n\n# Important to know\n\nThis meetup will be aimed at all R abilities.\n\nPlease take note of the different time and place of this meet-up! We are going to meet in a small seminar room at the WeWork space at Kuhdamm. Therefore we need to know your complete name (question at RVSPs). Since the room is small we have a limit of participants this time. Therefore we kindly ask to register in the case you're able to join or to resign in time if required to provide your seat for another Lady!\n\nAfter the session we would like to go for a drink and further chats to a close by bar or pizza place.",
+    "status": "PAST",
+    "dateTime": "2018-07-03T18:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-berlin/events/251998387/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 16,
+      "waitlistCount": 0,
+      "totalCount": 16
+    },
+    "venues": [
+      {
+        "id": "25614393",
+        "name": "WeWork Kurfürstendamm 11",
+        "address": "Kurfürstendamm 11",
+        "city": "Berlin",
+        "state": "BE",
+        "country": "DE",
+        "lat": 52.5046,
+        "lon": 13.3336,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Berlin",
+      "urlname": "rladies-berlin"
+    },
+    "createdTime": "2018-06-21T14:20:23-04:00"
+  },
+  {
+    "id": "250448702",
+    "title": "R-Ladies Berlin  - Crawling Twitter Data",
+    "description": "Dear Ladies,\n\nwe are happy to invite you to another exciting R-Ladies Berlin session, hosted by Babbel in the center of Berlin.\n\nOur guest - Bérengère Pohr - is a specialist in social network analysis and received a Ph.D in Economic Geography. She currently works as a Data Scientist at Babbel.\n\nBérengère is going to introduce us how to crawl data from Twitter and perform analysis like hashtag analysis or community detection. After an overview about basics (set-up your twitter credentials, how to query) she is going to guide us through an exciting exercise - community detection with our own Twitter account @RLadies Berlin.\n\nAfter a short description of all the cool stuff you could do with data from Twitter (hashtag analysis, community detection...) , I'll give you some basic to extract your own data: how to set-up your Twitter credentials in R? How to query basic Twitter data?\nWe'll then dig-in in one of my favorite exercise: community detection with the @RLadiesBerlin ‏Twitter account. If you wanna explore your own Twitter activities - make sure to know your Twitter account details. Bring your laptop to code along with our guest.\n\nBabbel kindly provides some drinks and snacks. We are starting with a short round of mingling at 6:30 pm, followed by the talk starting around 7 pm.\n\nWe are looking forward to welcome you to another R-Ladies Berlin meet-up. If you have any question - drop us a line!\n\nCheers, and on behalf of R-Ladies Berlin organiser team\nChristin\n\nHanna, Noa, Ulrike, Olena, Eliza & Christin\nR-Ladies Berlin\nLocal chapter of R-Ladies global\nwww.rladies.org",
+    "status": "PAST",
+    "dateTime": "2018-05-29T18:30:00+02:00",
+    "duration": "PT2H30M",
+    "eventUrl": "https://www.meetup.com/rladies-berlin/events/250448702/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 30,
+      "waitlistCount": 0,
+      "totalCount": 30
+    },
+    "venues": [
+      {
+        "id": "24743276",
+        "name": "Babbel",
+        "address": "Max-Beer-Strasse 2",
+        "city": "Berlin",
+        "state": "",
+        "country": "de",
+        "lat": 52.5246,
+        "lon": 13.4082,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Berlin",
+      "urlname": "rladies-berlin"
+    },
+    "createdTime": "2018-05-04T07:41:29-04:00"
+  },
+  {
+    "id": "248898933",
+    "title": "The Beauty of R Programming",
+    "description": "Hi R-Ladies!\n\nOur topic this time around is \"The Beauty of R Programming: Revisiting Functional Programming & Other Topics\"\n\nThe talk is going to be about programming with R in general. We will look at functions, elements of functions and functions inside of functions. Essential for the understanding of R as programming language is the interplay of functions and environments.\n\nAfter a brief mention of R's scoping rules & the beauty of R packages, we will revisit if-else structures, loops and some members of the apply family.\n\nThroughout all of this we will mention Do`s and Don'ts based on acquired experience. Don't forget to bring your laptop to try out some related exercise on the spot.\n\nOur guest speaker this time is Verena Pflieger, a Data Scientist at the statistical consultancy INWT Statistics (www.inwt-statistics.de). She is concerned mostly with the conceptualization of trainings and is active in teaching R and giving tutorials.\n\nAs usual, Babbel, the famous language app, supports us in providing snacks, drinks and a great location.\n\nWe look forward to seeing you all!\n\nR-Ladies Berlin organizers\n\n- Chrissy, Hanna & Noa",
+    "status": "PAST",
+    "dateTime": "2018-04-17T18:00:00+02:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-berlin/events/248898933/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 27,
+      "waitlistCount": 0,
+      "totalCount": 27
+    },
+    "venues": [
+      {
+        "id": "24743276",
+        "name": "Babbel",
+        "address": "Max-Beer-Strasse 2",
+        "city": "Berlin",
+        "state": "",
+        "country": "de",
+        "lat": 52.5246,
+        "lon": 13.4082,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Berlin",
+      "urlname": "rladies-berlin"
+    },
+    "createdTime": "2018-03-19T15:31:16-04:00"
+  },
+  {
+    "id": "248015897",
+    "title": "The Magic of Bootstrapping with R",
+    "description": "Dear R-Ladies,\n\nOur topic this time around is \"The Magic of Bootstrapping: Making inferences about your data without having to know any actual statistics\"\n\nThe talk will cover some basic concepts, then we'll walk through some applications using base R and the tidyverse (specifically, dplyr, broom and ggplot). If you haven't used tidyverse before you can learn more about it here: https://www.tidyverse.org\n\nOur guest speaker this week is Steve Cunningham, a Product Analyst at ResearchGate, who loves both R and Python. His interests include machine learning, data science education and reproducible analysis.\n\nAs usual, Babbel, the famous language app, supports us in providing snacks, drinks and a great location.\n\nWe look forward to seeing you all!\n\nR-Ladies Berlin organizers\n\nHanna, Chrissy & Noa",
+    "status": "PAST",
+    "dateTime": "2018-03-13T18:30:00+01:00",
+    "duration": "PT2H30M",
+    "eventUrl": "https://www.meetup.com/rladies-berlin/events/248015897/",
     "featuredEventPhoto": {},
     "rsvps": {
       "yesCount": 39,
@@ -360,139 +506,8 @@
     "group": {
       "name": "R-Ladies Berlin",
       "urlname": "rladies-berlin"
-    }
-  },
-  {
-    "id": "251998387",
-    "title": "R-Ladies London visits R-Ladies Berlin",
-    "description": "We are happy to welcome R-Lady Grace from London at our additional meet-up session next week!\n\n# Speaker details\n\nGrace Meyer is a commercial analytics expert with proven success in advising business strategy based on data driven insights. She is currently based in London and works for the economics consultancy Oxera where she applies machine learning to strategic projects and is developing the data science and programming team. She is a mentor in the R-Ladies London chapter, uses R on a daily basis to crunch data and problem solve and presented at both UseR! and EARL last year.\n\n# Dive into dplyr\n\nData is seldom already in a tidy format for you to start analysis on straight away. My personal experience confirms that about 80% of the analytics work-flow is massaging and crunching data into a useful state. R is a master of analytics and modelling which would be useless without its strong data manipulation functionality, especially from the tidyverse package dplyr. In this session we will learn the main verbs of dplyr and link them together with the magrittr pipe to create new data sets and get insight from our data. Then we will take a look at the verb extensions and other package functionality.\n\n# What to bring\n\nThe session will be hands on so bring your own laptop with dplyr installed (examples will be based on in-build data sets). If you don't have the set-up, come along anyway to learn about this famous package.\n\n# Important to know\n\nThis meetup will be aimed at all R abilities.\n\nPlease take note of the different time and place of this meet-up! We are going to meet in a small seminar room at the WeWork space at Kuhdamm. Therefore we need to know your complete name (question at RVSPs). Since the room is small we have a limit of participants this time. Therefore we kindly ask to register in the case you're able to join or to resign in time if required to provide your seat for another Lady!\n\nAfter the session we would like to go for a drink and further chats to a close by bar or pizza place.",
-    "status": "PAST",
-    "dateTime": "2018-07-03T18:00:00+02:00",
-    "duration": "PT2H",
-    "eventUrl": "https://www.meetup.com/rladies-berlin/events/251998387/",
-    "featuredEventPhoto": {},
-    "rsvps": {
-      "yesCount": 17,
-      "waitlistCount": 0,
-      "totalCount": 17
     },
-    "venues": [
-      {
-        "id": "25614393",
-        "name": "WeWork Kurfürstendamm 11",
-        "address": "Kurfürstendamm 11",
-        "city": "Berlin",
-        "state": "BE",
-        "country": "DE",
-        "lat": 52.5046,
-        "lon": 13.3336,
-        "postalCode": "",
-        "venueType": ""
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Berlin",
-      "urlname": "rladies-berlin"
-    }
-  },
-  {
-    "id": "250448702",
-    "title": "R-Ladies Berlin  - Crawling Twitter Data",
-    "description": "Dear Ladies,\n\nwe are happy to invite you to another exciting R-Ladies Berlin session, hosted by Babbel in the center of Berlin.\n\nOur guest - Bérengère Pohr - is a specialist in social network analysis and received a Ph.D in Economic Geography. She currently works as a Data Scientist at Babbel.\n\nBérengère is going to introduce us how to crawl data from Twitter and perform analysis like hashtag analysis or community detection. After an overview about basics (set-up your twitter credentials, how to query) she is going to guide us through an exciting exercise - community detection with our own Twitter account @RLadies Berlin.\n\nAfter a short description of all the cool stuff you could do with data from Twitter (hashtag analysis, community detection...) , I'll give you some basic to extract your own data: how to set-up your Twitter credentials in R? How to query basic Twitter data?\nWe'll then dig-in in one of my favorite exercise: community detection with the @RLadiesBerlin ‏Twitter account. If you wanna explore your own Twitter activities - make sure to know your Twitter account details. Bring your laptop to code along with our guest.\n\nBabbel kindly provides some drinks and snacks. We are starting with a short round of mingling at 6:30 pm, followed by the talk starting around 7 pm.\n\nWe are looking forward to welcome you to another R-Ladies Berlin meet-up. If you have any question - drop us a line!\n\nCheers, and on behalf of R-Ladies Berlin organiser team\nChristin\n\nHanna, Noa, Ulrike, Olena, Eliza & Christin\nR-Ladies Berlin\nLocal chapter of R-Ladies global\nwww.rladies.org",
-    "status": "PAST",
-    "dateTime": "2018-05-29T18:30:00+02:00",
-    "duration": "PT2H30M",
-    "eventUrl": "https://www.meetup.com/rladies-berlin/events/250448702/",
-    "featuredEventPhoto": {},
-    "rsvps": {
-      "yesCount": 31,
-      "waitlistCount": 0,
-      "totalCount": 31
-    },
-    "venues": [
-      {
-        "id": "24743276",
-        "name": "Babbel",
-        "address": "Max-Beer-Strasse 2",
-        "city": "Berlin",
-        "state": "",
-        "country": "de",
-        "lat": 52.5246,
-        "lon": 13.4082,
-        "postalCode": "",
-        "venueType": ""
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Berlin",
-      "urlname": "rladies-berlin"
-    }
-  },
-  {
-    "id": "248898933",
-    "title": "The Beauty of R Programming",
-    "description": "Hi R-Ladies!\n\nOur topic this time around is \"The Beauty of R Programming: Revisiting Functional Programming & Other Topics\"\n\nThe talk is going to be about programming with R in general. We will look at functions, elements of functions and functions inside of functions. Essential for the understanding of R as programming language is the interplay of functions and environments.\n\nAfter a brief mention of R's scoping rules & the beauty of R packages, we will revisit if-else structures, loops and some members of the apply family.\n\nThroughout all of this we will mention Do`s and Don'ts based on acquired experience. Don't forget to bring your laptop to try out some related exercise on the spot.\n\nOur guest speaker this time is Verena Pflieger, a Data Scientist at the statistical consultancy INWT Statistics (www.inwt-statistics.de). She is concerned mostly with the conceptualization of trainings and is active in teaching R and giving tutorials.\n\nAs usual, Babbel, the famous language app, supports us in providing snacks, drinks and a great location.\n\nWe look forward to seeing you all!\n\nR-Ladies Berlin organizers\n\n- Chrissy, Hanna & Noa",
-    "status": "PAST",
-    "dateTime": "2018-04-17T18:00:00+02:00",
-    "duration": "PT3H",
-    "eventUrl": "https://www.meetup.com/rladies-berlin/events/248898933/",
-    "featuredEventPhoto": {},
-    "rsvps": {
-      "yesCount": 29,
-      "waitlistCount": 0,
-      "totalCount": 29
-    },
-    "venues": [
-      {
-        "id": "24743276",
-        "name": "Babbel",
-        "address": "Max-Beer-Strasse 2",
-        "city": "Berlin",
-        "state": "",
-        "country": "de",
-        "lat": 52.5246,
-        "lon": 13.4082,
-        "postalCode": "",
-        "venueType": ""
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Berlin",
-      "urlname": "rladies-berlin"
-    }
-  },
-  {
-    "id": "248015897",
-    "title": "The Magic of Bootstrapping with R",
-    "description": "Dear R-Ladies,\n\nOur topic this time around is \"The Magic of Bootstrapping: Making inferences about your data without having to know any actual statistics\"\n\nThe talk will cover some basic concepts, then we'll walk through some applications using base R and the tidyverse (specifically, dplyr, broom and ggplot). If you haven't used tidyverse before you can learn more about it here: https://www.tidyverse.org\n\nOur guest speaker this week is Steve Cunningham, a Product Analyst at ResearchGate, who loves both R and Python. His interests include machine learning, data science education and reproducible analysis.\n\nAs usual, Babbel, the famous language app, supports us in providing snacks, drinks and a great location.\n\nWe look forward to seeing you all!\n\nR-Ladies Berlin organizers\n\nHanna, Chrissy & Noa",
-    "status": "PAST",
-    "dateTime": "2018-03-13T18:30:00+01:00",
-    "duration": "PT2H30M",
-    "eventUrl": "https://www.meetup.com/rladies-berlin/events/248015897/",
-    "featuredEventPhoto": {},
-    "rsvps": {
-      "yesCount": 41,
-      "waitlistCount": 0,
-      "totalCount": 41
-    },
-    "venues": [
-      {
-        "id": "24743276",
-        "name": "Babbel",
-        "address": "Max-Beer-Strasse 2",
-        "city": "Berlin",
-        "state": "",
-        "country": "de",
-        "lat": 52.5246,
-        "lon": 13.4082,
-        "postalCode": "",
-        "venueType": ""
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Berlin",
-      "urlname": "rladies-berlin"
-    }
+    "createdTime": "2018-02-21T02:22:09-05:00"
   },
   {
     "id": "247091545",
@@ -525,7 +540,8 @@
     "group": {
       "name": "R-Ladies Berlin",
       "urlname": "rladies-berlin"
-    }
+    },
+    "createdTime": "2018-01-23T13:34:23-05:00"
   },
   {
     "id": "245934213",
@@ -537,9 +553,9 @@
     "eventUrl": "https://www.meetup.com/rladies-berlin/events/245934213/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 25,
+      "yesCount": 24,
       "waitlistCount": 0,
-      "totalCount": 25
+      "totalCount": 24
     },
     "venues": [
       {
@@ -558,7 +574,8 @@
     "group": {
       "name": "R-Ladies Berlin",
       "urlname": "rladies-berlin"
-    }
+    },
+    "createdTime": "2017-12-15T00:00:09-05:00"
   },
   {
     "id": "263506486",
@@ -576,9 +593,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/3/d/c/thumb_483478332.jpeg"
     },
     "rsvps": {
-      "yesCount": 39,
+      "yesCount": 38,
       "waitlistCount": 0,
-      "totalCount": 39
+      "totalCount": 38
     },
     "venues": [
       {
@@ -597,7 +614,8 @@
     "group": {
       "name": "R-Ladies Berlin",
       "urlname": "rladies-berlin"
-    }
+    },
+    "createdTime": "2019-07-27T08:12:34-04:00"
   },
   {
     "id": "261262159",
@@ -630,7 +648,8 @@
     "group": {
       "name": "R-Ladies Berlin",
       "urlname": "rladies-berlin"
-    }
+    },
+    "createdTime": "2019-05-07T13:29:03-04:00"
   },
   {
     "id": "262337718",
@@ -648,9 +667,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/7/7/9/thumb_482418297.jpeg"
     },
     "rsvps": {
-      "yesCount": 33,
+      "yesCount": 31,
       "waitlistCount": 0,
-      "totalCount": 33
+      "totalCount": 31
     },
     "venues": [
       {
@@ -669,7 +688,8 @@
     "group": {
       "name": "R-Ladies Berlin",
       "urlname": "rladies-berlin"
-    }
+    },
+    "createdTime": "2019-06-15T03:01:23-04:00"
   },
   {
     "id": "261699488",
@@ -681,9 +701,9 @@
     "eventUrl": "https://www.meetup.com/rladies-berlin/events/261699488/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 13,
+      "yesCount": 12,
       "waitlistCount": 0,
-      "totalCount": 13
+      "totalCount": 12
     },
     "venues": [
       {
@@ -702,7 +722,8 @@
     "group": {
       "name": "R-Ladies Berlin",
       "urlname": "rladies-berlin"
-    }
+    },
+    "createdTime": "2019-05-23T04:22:09-04:00"
   },
   {
     "id": "261474024",
@@ -714,9 +735,9 @@
     "eventUrl": "https://www.meetup.com/rladies-berlin/events/261474024/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 21,
+      "yesCount": 20,
       "waitlistCount": 0,
-      "totalCount": 21
+      "totalCount": 20
     },
     "venues": [
       {
@@ -735,7 +756,8 @@
     "group": {
       "name": "R-Ladies Berlin",
       "urlname": "rladies-berlin"
-    }
+    },
+    "createdTime": "2019-05-15T01:39:41-04:00"
   },
   {
     "id": "259925763",
@@ -747,9 +769,9 @@
     "eventUrl": "https://www.meetup.com/rladies-berlin/events/259925763/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 23,
+      "yesCount": 22,
       "waitlistCount": 0,
-      "totalCount": 23
+      "totalCount": 22
     },
     "venues": [
       {
@@ -768,7 +790,8 @@
     "group": {
       "name": "R-Ladies Berlin",
       "urlname": "rladies-berlin"
-    }
+    },
+    "createdTime": "2019-03-20T08:05:53-04:00"
   },
   {
     "id": "258925980",
@@ -801,7 +824,8 @@
     "group": {
       "name": "R-Ladies Berlin",
       "urlname": "rladies-berlin"
-    }
+    },
+    "createdTime": "2019-02-13T08:01:21-05:00"
   },
   {
     "id": "258318484",
@@ -834,7 +858,8 @@
     "group": {
       "name": "R-Ladies Berlin",
       "urlname": "rladies-berlin"
-    }
+    },
+    "createdTime": "2019-01-23T04:15:23-05:00"
   },
   {
     "id": "258555463",
@@ -867,7 +892,8 @@
     "group": {
       "name": "R-Ladies Berlin",
       "urlname": "rladies-berlin"
-    }
+    },
+    "createdTime": "2019-01-31T05:14:06-05:00"
   },
   {
     "id": "274033292",
@@ -885,9 +911,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/1/1/b/thumb_493284859.jpeg"
     },
     "rsvps": {
-      "yesCount": 37,
+      "yesCount": 36,
       "waitlistCount": 0,
-      "totalCount": 37
+      "totalCount": 36
     },
     "venues": [
       {
@@ -906,7 +932,8 @@
     "group": {
       "name": "R-Ladies Berlin",
       "urlname": "rladies-berlin"
-    }
+    },
+    "createdTime": "2020-10-19T07:15:03-04:00"
   },
   {
     "id": "268447144",
@@ -945,7 +972,8 @@
     "group": {
       "name": "R-Ladies Berlin",
       "urlname": "rladies-berlin"
-    }
+    },
+    "createdTime": "2020-02-04T06:07:24-05:00"
   },
   {
     "id": "267231673",
@@ -984,6 +1012,7 @@
     "group": {
       "name": "R-Ladies Berlin",
       "urlname": "rladies-berlin"
-    }
+    },
+    "createdTime": "2019-12-16T14:19:37-05:00"
   }
 ]

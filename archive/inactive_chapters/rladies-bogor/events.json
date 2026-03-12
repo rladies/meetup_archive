@@ -9,6 +9,40 @@
     "eventUrl": "https://www.meetup.com/rladies-bogor/events/266388300/",
     "featuredEventPhoto": {},
     "rsvps": {
+      "yesCount": 14,
+      "waitlistCount": 0,
+      "totalCount": 14
+    },
+    "venues": [
+      {
+        "id": "26569385",
+        "name": "Wildlife Conservation Society - Indonesia Program",
+        "address": "Jl. Malabar 1 No.11, RT.01/RW.01",
+        "city": "Kota Bogor",
+        "state": "Ja",
+        "country": "id",
+        "lat": -6.5952,
+        "lon": 106.8056,
+        "postalCode": "16128",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Bogor",
+      "urlname": "rladies-bogor"
+    },
+    "createdTime": "2019-11-11T13:17:02-05:00"
+  },
+  {
+    "id": "265495694",
+    "title": "Linear regression using R!!",
+    "description": "Hello again!!\n\nThe next Bogor R-Ladies meetup is coming soon!\n\nFor our sixth meetup, let's dive into linear regression! We'll discuss including related assumptions of linear regression and how to conduct analysis using this approach in R.\n\nOur mini-workshop will be held on Saturday, September 12, 2019 at 09.30-12.30 at WCS's office (Jalan Malabar 1 No. 11, Kota Bogor, see the map).\n\nOur current space can have maximum 25 persons, so hurry up reserve your spot!\n\nE-mail us at bogor@rladies.org for any inquiries regarding this event! If you're very new to R, please let us know in advance. Don't forget to have RStudio readily installed in your computer as well :)",
+    "status": "PAST",
+    "dateTime": "2019-10-12T09:30:00+07:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-bogor/events/265495694/",
+    "featuredEventPhoto": {},
+    "rsvps": {
       "yesCount": 18,
       "waitlistCount": 0,
       "totalCount": 18
@@ -30,40 +64,8 @@
     "group": {
       "name": "R-Ladies Bogor",
       "urlname": "rladies-bogor"
-    }
-  },
-  {
-    "id": "265495694",
-    "title": "Linear regression using R!!",
-    "description": "Hello again!!\n\nThe next Bogor R-Ladies meetup is coming soon!\n\nFor our sixth meetup, let's dive into linear regression! We'll discuss including related assumptions of linear regression and how to conduct analysis using this approach in R.\n\nOur mini-workshop will be held on Saturday, September 12, 2019 at 09.30-12.30 at WCS's office (Jalan Malabar 1 No. 11, Kota Bogor, see the map).\n\nOur current space can have maximum 25 persons, so hurry up reserve your spot!\n\nE-mail us at bogor@rladies.org for any inquiries regarding this event! If you're very new to R, please let us know in advance. Don't forget to have RStudio readily installed in your computer as well :)",
-    "status": "PAST",
-    "dateTime": "2019-10-12T09:30:00+07:00",
-    "duration": "PT3H",
-    "eventUrl": "https://www.meetup.com/rladies-bogor/events/265495694/",
-    "featuredEventPhoto": {},
-    "rsvps": {
-      "yesCount": 25,
-      "waitlistCount": 0,
-      "totalCount": 25
     },
-    "venues": [
-      {
-        "id": "26569385",
-        "name": "Wildlife Conservation Society - Indonesia Program",
-        "address": "Jl. Malabar 1 No.11, RT.01/RW.01",
-        "city": "Kota Bogor",
-        "state": "Ja",
-        "country": "id",
-        "lat": -6.5952,
-        "lon": 106.8056,
-        "postalCode": "16128",
-        "venueType": ""
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Bogor",
-      "urlname": "rladies-bogor"
-    }
+    "createdTime": "2019-10-07T23:48:53-04:00"
   },
   {
     "id": "264713296",
@@ -81,9 +83,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/3/8/f/thumb_484765487.jpeg"
     },
     "rsvps": {
-      "yesCount": 21,
+      "yesCount": 13,
       "waitlistCount": 0,
-      "totalCount": 21
+      "totalCount": 13
     },
     "venues": [
       {
@@ -102,7 +104,8 @@
     "group": {
       "name": "R-Ladies Bogor",
       "urlname": "rladies-bogor"
-    }
+    },
+    "createdTime": "2019-09-10T00:27:47-04:00"
   },
   {
     "id": "263962349",
@@ -114,9 +117,9 @@
     "eventUrl": "https://www.meetup.com/rladies-bogor/events/263962349/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 25,
+      "yesCount": 14,
       "waitlistCount": 1,
-      "totalCount": 25
+      "totalCount": 14
     },
     "venues": [
       {
@@ -135,7 +138,8 @@
     "group": {
       "name": "R-Ladies Bogor",
       "urlname": "rladies-bogor"
-    }
+    },
+    "createdTime": "2019-08-13T04:07:38-04:00"
   },
   {
     "id": "262988411",
@@ -147,9 +151,9 @@
     "eventUrl": "https://www.meetup.com/rladies-bogor/events/262988411/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 26,
+      "yesCount": 15,
       "waitlistCount": 0,
-      "totalCount": 26
+      "totalCount": 15
     },
     "venues": [
       {
@@ -168,7 +172,8 @@
     "group": {
       "name": "R-Ladies Bogor",
       "urlname": "rladies-bogor"
-    }
+    },
+    "createdTime": "2019-07-08T22:53:03-04:00"
   },
   {
     "id": "262192414",
@@ -180,9 +185,9 @@
     "eventUrl": "https://www.meetup.com/rladies-bogor/events/262192414/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 31,
+      "yesCount": 21,
       "waitlistCount": 0,
-      "totalCount": 31
+      "totalCount": 21
     },
     "venues": [
       {
@@ -201,7 +206,8 @@
     "group": {
       "name": "R-Ladies Bogor",
       "urlname": "rladies-bogor"
-    }
+    },
+    "createdTime": "2019-06-10T02:25:08-04:00"
   },
   {
     "id": "261005936",
@@ -219,9 +225,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/9/c/a/thumb_480854794.jpeg"
     },
     "rsvps": {
-      "yesCount": 27,
+      "yesCount": 17,
       "waitlistCount": 0,
-      "totalCount": 27
+      "totalCount": 17
     },
     "venues": [
       {
@@ -240,7 +246,8 @@
     "group": {
       "name": "R-Ladies Bogor",
       "urlname": "rladies-bogor"
-    }
+    },
+    "createdTime": "2019-04-28T22:40:57-04:00"
   },
   {
     "id": "268949335",
@@ -252,9 +259,9 @@
     "eventUrl": "https://www.meetup.com/rladies-bogor/events/268949335/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 23,
+      "yesCount": 19,
       "waitlistCount": 0,
-      "totalCount": 23
+      "totalCount": 19
     },
     "venues": [
       {
@@ -273,7 +280,8 @@
     "group": {
       "name": "R-Ladies Bogor",
       "urlname": "rladies-bogor"
-    }
+    },
+    "createdTime": "2020-02-24T07:57:53-05:00"
   },
   {
     "id": "281667299",
@@ -291,9 +299,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/d/0/1/thumb_499763809.jpeg"
     },
     "rsvps": {
-      "yesCount": 10,
+      "yesCount": 7,
       "waitlistCount": 0,
-      "totalCount": 10
+      "totalCount": 7
     },
     "venues": [
       {
@@ -312,7 +320,8 @@
     "group": {
       "name": "R-Ladies Bogor",
       "urlname": "rladies-bogor"
-    }
+    },
+    "createdTime": "2021-10-26T02:56:56-04:00"
   },
   {
     "id": "280434748",
@@ -324,9 +333,9 @@
     "eventUrl": "https://www.meetup.com/rladies-bogor/events/280434748/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 15,
+      "yesCount": 12,
       "waitlistCount": 0,
-      "totalCount": 15
+      "totalCount": 12
     },
     "venues": [
       {
@@ -345,7 +354,8 @@
     "group": {
       "name": "R-Ladies Bogor",
       "urlname": "rladies-bogor"
-    }
+    },
+    "createdTime": "2021-08-29T23:20:24-04:00"
   },
   {
     "id": "280087518",
@@ -378,7 +388,8 @@
     "group": {
       "name": "R-Ladies Bogor",
       "urlname": "rladies-bogor"
-    }
+    },
+    "createdTime": "2021-08-12T23:16:10-04:00"
   },
   {
     "id": "280087428",
@@ -411,7 +422,8 @@
     "group": {
       "name": "R-Ladies Bogor",
       "urlname": "rladies-bogor"
-    }
+    },
+    "createdTime": "2021-08-12T23:15:28-04:00"
   },
   {
     "id": "280087395",
@@ -423,9 +435,9 @@
     "eventUrl": "https://www.meetup.com/rladies-bogor/events/280087395/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 17,
+      "yesCount": 15,
       "waitlistCount": 0,
-      "totalCount": 17
+      "totalCount": 15
     },
     "venues": [
       {
@@ -444,7 +456,8 @@
     "group": {
       "name": "R-Ladies Bogor",
       "urlname": "rladies-bogor"
-    }
+    },
+    "createdTime": "2021-08-12T23:15:18-04:00"
   },
   {
     "id": "289903626",
@@ -470,7 +483,8 @@
     "group": {
       "name": "R-Ladies Bogor",
       "urlname": "rladies-bogor"
-    }
+    },
+    "createdTime": "2022-11-22T01:38:33-05:00"
   },
   {
     "id": "289472242",
@@ -509,7 +523,8 @@
     "group": {
       "name": "R-Ladies Bogor",
       "urlname": "rladies-bogor"
-    }
+    },
+    "createdTime": "2022-11-01T09:03:01-04:00"
   },
   {
     "id": "287868502",
@@ -529,7 +544,8 @@
     "group": {
       "name": "R-Ladies Bogor",
       "urlname": "rladies-bogor"
-    }
+    },
+    "createdTime": "2022-08-16T19:30:38-04:00"
   },
   {
     "id": "286600428",
@@ -549,6 +565,7 @@
     "group": {
       "name": "R-Ladies Bogor",
       "urlname": "rladies-bogor"
-    }
+    },
+    "createdTime": "2022-06-15T21:25:40-04:00"
   }
 ]

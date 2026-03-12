@@ -9,6 +9,40 @@
     "eventUrl": "https://www.meetup.com/rladies-nashville/events/235652800/",
     "featuredEventPhoto": {},
     "rsvps": {
+      "yesCount": 12,
+      "waitlistCount": 0,
+      "totalCount": 12
+    },
+    "venues": [
+      {
+        "id": "24854918",
+        "name": "VUMC Biostatistics Conference Room",
+        "address": "2525 West End Avenue, Suite 1100",
+        "city": "Nashville",
+        "state": "TN",
+        "country": "us",
+        "lat": 36.146,
+        "lon": -86.8093,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Nashville",
+      "urlname": "rladies-nashville"
+    },
+    "createdTime": "2016-11-17T14:11:58-05:00"
+  },
+  {
+    "id": "234968855",
+    "title": "R-Ladies Nashville Kickoff!",
+    "description": "Please join us for the R-Ladies Nashville Kickoff!\n\nWe'll provide some light snacks and beverages; if you'd like to bring dinner, feel free!\n\nWe'll meet in the VUMC Biostatistics large conference room, located on the 11th floor of the 2525 West End building (the building across from Centennial Park, with Barnes & Noble and PF Chang's on the ground floor). Paid parking is available in the garage behind the building, or some of the shops downstairs will validate for paying customers, if you'd like to come early.\n\nImportant: Elevators require keycard access after 6pm. If you need to arrive after 6:00, please let us know; we'll notify the security desk and give you a phone number to contact so that someone can come escort you upstairs.\n\nAgenda:\n5:30-6:00: dinner/socializing\n6:00-6:30: Intro to R-Ladies + short demo of R Notebooks\n6:30-end: discussion and planning for R-Ladies Nashville future\n\nWe are so looking forward to seeing you all! If you have any questions, feel free to contact us via Meetup or nashville@rladies.org.",
+    "status": "PAST",
+    "dateTime": "2016-11-07T17:30:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-nashville/events/234968855/",
+    "featuredEventPhoto": {},
+    "rsvps": {
       "yesCount": 17,
       "waitlistCount": 0,
       "totalCount": 17
@@ -30,40 +64,8 @@
     "group": {
       "name": "R-Ladies Nashville",
       "urlname": "rladies-nashville"
-    }
-  },
-  {
-    "id": "234968855",
-    "title": "R-Ladies Nashville Kickoff!",
-    "description": "Please join us for the R-Ladies Nashville Kickoff!\n\nWe'll provide some light snacks and beverages; if you'd like to bring dinner, feel free!\n\nWe'll meet in the VUMC Biostatistics large conference room, located on the 11th floor of the 2525 West End building (the building across from Centennial Park, with Barnes & Noble and PF Chang's on the ground floor). Paid parking is available in the garage behind the building, or some of the shops downstairs will validate for paying customers, if you'd like to come early.\n\nImportant: Elevators require keycard access after 6pm. If you need to arrive after 6:00, please let us know; we'll notify the security desk and give you a phone number to contact so that someone can come escort you upstairs.\n\nAgenda:\n5:30-6:00: dinner/socializing\n6:00-6:30: Intro to R-Ladies + short demo of R Notebooks\n6:30-end: discussion and planning for R-Ladies Nashville future\n\nWe are so looking forward to seeing you all! If you have any questions, feel free to contact us via Meetup or nashville@rladies.org.",
-    "status": "PAST",
-    "dateTime": "2016-11-07T17:30:00-06:00",
-    "duration": "PT2H",
-    "eventUrl": "https://www.meetup.com/rladies-nashville/events/234968855/",
-    "featuredEventPhoto": {},
-    "rsvps": {
-      "yesCount": 27,
-      "waitlistCount": 0,
-      "totalCount": 27
     },
-    "venues": [
-      {
-        "id": "24854918",
-        "name": "VUMC Biostatistics Conference Room",
-        "address": "2525 West End Avenue, Suite 1100",
-        "city": "Nashville",
-        "state": "TN",
-        "country": "us",
-        "lat": 36.146,
-        "lon": -86.8093,
-        "postalCode": "",
-        "venueType": ""
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Nashville",
-      "urlname": "rladies-nashville"
-    }
+    "createdTime": "2016-10-19T11:52:17-04:00"
   },
   {
     "id": "243331084",
@@ -75,9 +77,9 @@
     "eventUrl": "https://www.meetup.com/rladies-nashville/events/243331084/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 20,
+      "yesCount": 18,
       "waitlistCount": 0,
-      "totalCount": 20
+      "totalCount": 18
     },
     "venues": [
       {
@@ -96,7 +98,8 @@
     "group": {
       "name": "R-Ladies Nashville",
       "urlname": "rladies-nashville"
-    }
+    },
+    "createdTime": "2017-09-13T10:42:51-04:00"
   },
   {
     "id": "243331077",
@@ -108,9 +111,9 @@
     "eventUrl": "https://www.meetup.com/rladies-nashville/events/243331077/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 29,
+      "yesCount": 24,
       "waitlistCount": 0,
-      "totalCount": 29
+      "totalCount": 24
     },
     "venues": [
       {
@@ -129,7 +132,8 @@
     "group": {
       "name": "R-Ladies Nashville",
       "urlname": "rladies-nashville"
-    }
+    },
+    "createdTime": "2017-09-13T10:42:01-04:00"
   },
   {
     "id": "242098493",
@@ -141,9 +145,9 @@
     "eventUrl": "https://www.meetup.com/rladies-nashville/events/242098493/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 21,
+      "yesCount": 17,
       "waitlistCount": 0,
-      "totalCount": 21
+      "totalCount": 17
     },
     "venues": [
       {
@@ -162,7 +166,8 @@
     "group": {
       "name": "R-Ladies Nashville",
       "urlname": "rladies-nashville"
-    }
+    },
+    "createdTime": "2017-07-28T15:29:41-04:00"
   },
   {
     "id": "239935025",
@@ -174,9 +179,9 @@
     "eventUrl": "https://www.meetup.com/rladies-nashville/events/239935025/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 13,
+      "yesCount": 10,
       "waitlistCount": 0,
-      "totalCount": 13
+      "totalCount": 10
     },
     "venues": [
       {
@@ -195,7 +200,8 @@
     "group": {
       "name": "R-Ladies Nashville",
       "urlname": "rladies-nashville"
-    }
+    },
+    "createdTime": "2017-05-12T12:21:43-04:00"
   },
   {
     "id": "237055481",
@@ -207,9 +213,9 @@
     "eventUrl": "https://www.meetup.com/rladies-nashville/events/237055481/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 16,
+      "yesCount": 13,
       "waitlistCount": 0,
-      "totalCount": 16
+      "totalCount": 13
     },
     "venues": [
       {
@@ -228,7 +234,8 @@
     "group": {
       "name": "R-Ladies Nashville",
       "urlname": "rladies-nashville"
-    }
+    },
+    "createdTime": "2017-01-19T17:36:31-05:00"
   },
   {
     "id": "237055230",
@@ -240,9 +247,9 @@
     "eventUrl": "https://www.meetup.com/rladies-nashville/events/237055230/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 9,
+      "yesCount": 7,
       "waitlistCount": 0,
-      "totalCount": 9
+      "totalCount": 7
     },
     "venues": [
       {
@@ -261,7 +268,8 @@
     "group": {
       "name": "R-Ladies Nashville",
       "urlname": "rladies-nashville"
-    }
+    },
+    "createdTime": "2017-01-19T17:29:02-05:00"
   },
   {
     "id": "235757913",
@@ -273,9 +281,9 @@
     "eventUrl": "https://www.meetup.com/rladies-nashville/events/235757913/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 14,
+      "yesCount": 12,
       "waitlistCount": 0,
-      "totalCount": 14
+      "totalCount": 12
     },
     "venues": [
       {
@@ -294,7 +302,8 @@
     "group": {
       "name": "R-Ladies Nashville",
       "urlname": "rladies-nashville"
-    }
+    },
+    "createdTime": "2016-11-22T11:27:58-05:00"
   },
   {
     "id": "256725942",
@@ -306,15 +315,16 @@
     "eventUrl": "https://www.meetup.com/rladies-nashville/events/256725942/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 28,
+      "yesCount": 26,
       "waitlistCount": 0,
-      "totalCount": 28
+      "totalCount": 26
     },
     "venues": [],
     "group": {
       "name": "R-Ladies Nashville",
       "urlname": "rladies-nashville"
-    }
+    },
+    "createdTime": "2018-11-26T14:38:54-05:00"
   },
   {
     "id": "254740614",
@@ -326,9 +336,9 @@
     "eventUrl": "https://www.meetup.com/rladies-nashville/events/254740614/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 15,
+      "yesCount": 14,
       "waitlistCount": 0,
-      "totalCount": 15
+      "totalCount": 14
     },
     "venues": [
       {
@@ -347,7 +357,8 @@
     "group": {
       "name": "R-Ladies Nashville",
       "urlname": "rladies-nashville"
-    }
+    },
+    "createdTime": "2018-09-16T15:37:43-04:00"
   },
   {
     "id": "251583548",
@@ -380,7 +391,8 @@
     "group": {
       "name": "R-Ladies Nashville",
       "urlname": "rladies-nashville"
-    }
+    },
+    "createdTime": "2018-06-09T06:01:28-04:00"
   },
   {
     "id": "250068352",
@@ -392,9 +404,9 @@
     "eventUrl": "https://www.meetup.com/rladies-nashville/events/250068352/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 16,
+      "yesCount": 13,
       "waitlistCount": 0,
-      "totalCount": 16
+      "totalCount": 13
     },
     "venues": [
       {
@@ -413,7 +425,8 @@
     "group": {
       "name": "R-Ladies Nashville",
       "urlname": "rladies-nashville"
-    }
+    },
+    "createdTime": "2018-04-23T11:22:18-04:00"
   },
   {
     "id": "248452181",
@@ -425,9 +438,9 @@
     "eventUrl": "https://www.meetup.com/rladies-nashville/events/248452181/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 21,
+      "yesCount": 17,
       "waitlistCount": 0,
-      "totalCount": 21
+      "totalCount": 17
     },
     "venues": [
       {
@@ -446,7 +459,8 @@
     "group": {
       "name": "R-Ladies Nashville",
       "urlname": "rladies-nashville"
-    }
+    },
+    "createdTime": "2018-03-05T19:20:39-05:00"
   },
   {
     "id": "263567051",
@@ -464,9 +478,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/a/1/b/thumb_483571259.jpeg"
     },
     "rsvps": {
-      "yesCount": 26,
+      "yesCount": 23,
       "waitlistCount": 0,
-      "totalCount": 26
+      "totalCount": 23
     },
     "venues": [
       {
@@ -485,7 +499,8 @@
     "group": {
       "name": "R-Ladies Nashville",
       "urlname": "rladies-nashville"
-    }
+    },
+    "createdTime": "2019-07-29T17:44:31-04:00"
   },
   {
     "id": "261740631",
@@ -497,9 +512,9 @@
     "eventUrl": "https://www.meetup.com/rladies-nashville/events/261740631/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 14,
+      "yesCount": 12,
       "waitlistCount": 0,
-      "totalCount": 14
+      "totalCount": 12
     },
     "venues": [
       {
@@ -518,7 +533,8 @@
     "group": {
       "name": "R-Ladies Nashville",
       "urlname": "rladies-nashville"
-    }
+    },
+    "createdTime": "2019-05-24T13:49:30-04:00"
   },
   {
     "id": "258565812",
@@ -536,9 +552,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/5/e/2/thumb_478286082.jpeg"
     },
     "rsvps": {
-      "yesCount": 21,
+      "yesCount": 18,
       "waitlistCount": 0,
-      "totalCount": 21
+      "totalCount": 18
     },
     "venues": [
       {
@@ -557,7 +573,8 @@
     "group": {
       "name": "R-Ladies Nashville",
       "urlname": "rladies-nashville"
-    }
+    },
+    "createdTime": "2019-01-31T13:37:26-05:00"
   },
   {
     "id": "268882903",
@@ -596,6 +613,7 @@
     "group": {
       "name": "R-Ladies Nashville",
       "urlname": "rladies-nashville"
-    }
+    },
+    "createdTime": "2020-02-21T09:57:45-05:00"
   }
 ]

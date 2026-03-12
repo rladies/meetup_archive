@@ -9,6 +9,237 @@
     "eventUrl": "https://www.meetup.com/rladies-baltimore/events/254235117/",
     "featuredEventPhoto": {},
     "rsvps": {
+      "yesCount": 25,
+      "waitlistCount": 0,
+      "totalCount": 25
+    },
+    "venues": [
+      {
+        "id": "10399812",
+        "name": "Johns Hopkins Bloomberg School of Public Health",
+        "address": "615 North Wolfe Street",
+        "city": "Baltimore",
+        "state": "MD",
+        "country": "us",
+        "lat": 39.298,
+        "lon": -76.5909,
+        "postalCode": "21205",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Baltimore",
+      "urlname": "rladies-baltimore"
+    },
+    "createdTime": "2018-08-30T06:36:53-04:00"
+  },
+  {
+    "id": "254235069",
+    "title": "R-Ladies Baltimore Conference Round up",
+    "description": "After taking the summer off, R-Ladies Baltimore (Bmore) is back for our second event! We are the local Baltimore chapter for the larger R-Ladies global organization (rladies.org) to promote gender diversity in the R community.\n\nWe are kicking off things with a conference roundup event on Tuesday September 25, 2018 from 12-1:30pm (Rose Auditorium at the Carnegie Institution for Science). Coffee, tea and cookies will be provided. This meeting will be a “Conference Round up”, and include presentations from three speakers who have attended R / coding focused conferences this year, and who will share with us new packages, details from the meetings and professional development tips learned!\n\nSchedule:\n- 12:00 PM Arrive, Networking\n- 12:10 PM Introductions\n- 12:15 PM Speakers (15 min talks with 5 mins for questions)\n- 1:15 PM Discussion on future events, Networking\n\nConfirmed Speakers:\n- Alexis Norris (Bioinformatician, FDA) on RStudio Conference 2018, https://www.rstudio.com/conference/\n- Gwynn Sturdevant (Data Scientist, Volanno) on Write/Speak/Code 2018, http://www.writespeakcode.com/2018/\n- Roger Peng (Professor, Biostatistics, JHU SPH) on UseR 2018\n\nDetails on the location:\nCarnegie Institution for Science\n3520 San Martin Drive\nBaltimore, Maryland 21218\n\nThe meet up will be in the Rose Auditorium at Carnegie Institution for Science (https://emb.carnegiescience.edu/about/directions). As soon as you come in the main entrance you will see an arrow at the reception desk pointing left to get to the auditorium. Please note that Apple Maps has trouble finding it and sometimes it points to the old Carnegie building on University Drive, other times it points to the Space Telescope Science Institute.\n\nFAQ:\nQ: Are men welcome to attend R-Ladies events?\nA: Yes, men are welcome at this event. Our mission is to encourage more women and non-binary individuals to get involved in the R community. Please help us by spreading the word about R-Ladies. Please also take the time to review our code of conduct before you attend: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nImportant to know:\n- If this is your first R-Ladies event, please take a moment to review our R-Ladies Global code of conduct: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nFinally, for more information:\nemail: bmore@rladies.org\ntwitter: @RLadiesBmore\nfacebook: https://www.facebook.com/RLadiesBmore/\nmeetup: https://www.meetup.com/rladies-baltimore/",
+    "status": "PAST",
+    "dateTime": "2018-09-25T12:00:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-baltimore/events/254235069/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 26,
+      "waitlistCount": 0,
+      "totalCount": 26
+    },
+    "venues": [],
+    "group": {
+      "name": "R-Ladies Baltimore",
+      "urlname": "rladies-baltimore"
+    },
+    "createdTime": "2018-08-30T06:29:49-04:00"
+  },
+  {
+    "id": "249419428",
+    "title": "R-Ladies Baltimore (Bmore) Launch Event! ",
+    "description": "R-Ladies Baltimore (Bmore) has officially arrived! This is the local Baltimore chapter for the larger R-Ladies global organization (rladies.org) to promote gender diversity in the R community.\n\nFirst, we want to learn more about you and your interests! Please fill out our google poll here: https://docs.google.com/forms/d/e/1FAIpQLScFTwpSXnIRLm_YxyV7kBNIuf7V0fxfnq-Qpam7ocEPcDbVmQ/viewform\n\nSecond, we are kicking off things with a launch event on May 24th from 12-1:30pm at Johns Hopkins Technology Ventures (JHTV). Lunch is being generously provided by the Center for Computational Genomics. The event will feature a series of lightning talks from local women working on awesome R packages, projects, data analyses, and shiny apps! We will end with a discussion from the group on what events you would be most interested in seeing for future R-Ladies Bmore events!\n\nSchedule:\n- 12:00 PM Arrive, Networking\n- 12:20 PM Introductions\n- 12:30 PM Lightning talks (5 min talks with 1-2 mins for questions)\n- 1:15 PM Discussion on future events, Networking\n\nConfirmed Lightning Speakers:\n- Shannon Ellis -- http://www.shanellis.com\n- Elana Fertig -- https://fertiglab.com\n- Leslie Myint -- https://lmyint.github.io\n- Helen Powell -- http://www.helenpowell.org\n- Sarah Wheelan -- http://sjwheelan.som.jhmi.edu -- An Interlude with Genomic Intervals\n- Ni Zhao -- http://www.biostat.jhsph.edu/~nzhao/\n\nDetails on the location:\nEnter the 1812 Ashland building and go straight ahead in lobby past the security desk & elevators to Suite #110/JHTV entrance. We will be in a combined set of three conference rooms (Broadway/Caroline/Eager Park).\n\nFAQ:\nQ: Are men welcome to attend R-Ladies events?\nA: Yes, men are welcome at this event. Our mission is to encourage more women and non-binary individuals to get involved in the R community. Please help us by spreading the word about R-Ladies. Please also take the time to review our code of conduct before you attend: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nImportant to know:\n- If this is your first R-Ladies event, please take a moment to review our R-Ladies Global code of conduct: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nFinally, for more information:\nemail: bmore@rladies.org\ntwitter: @RLadiesBmore\nfacebook: https://www.facebook.com/RLadiesBmore/\nmeetup: https://www.meetup.com/rladies-baltimore/\nPlease fill out our google poll to learn more about you and your interests: https://docs.google.com/forms/d/e/1FAIpQLScFTwpSXnIRLm_YxyV7kBNIuf7V0fxfnq-Qpam7ocEPcDbVmQ/viewform",
+    "status": "PAST",
+    "dateTime": "2018-05-24T12:00:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-baltimore/events/249419428/",
+    "featuredEventPhoto": {
+      "id": "469851511",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/9/3/7/highres_469851511.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/9/3/7/600_469851511.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/9/3/7/thumb_469851511.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 40,
+      "waitlistCount": 5,
+      "totalCount": 40
+    },
+    "venues": [
+      {
+        "id": "25791119",
+        "name": "Johns Hopkins Technology Ventures",
+        "address": "1812 Ashland Ave",
+        "city": "Baltimore",
+        "state": "md",
+        "country": "us",
+        "lat": 39.3008,
+        "lon": -76.592,
+        "postalCode": "21205",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Baltimore",
+      "urlname": "rladies-baltimore"
+    },
+    "createdTime": "2018-04-04T08:19:13-04:00"
+  },
+  {
+    "id": "263279186",
+    "title": "R-Ladies Baltimore -- Data visualizations & holiday designs!",
+    "description": "R-Ladies Baltimore (Bmore) is the local Baltimore chapter for the larger R-Ladies global organization (rladies.org) to promote gender diversity in the R community.\n\nThe next event is Friday November 22, 2019 from 12-1:30pm (615 N. Wolfe Street, Room W4030). Coffee, tea and cookies will be provided. This meeting will include a group coding event. Last year we made holiday cards at our November meetup. It was so much fun, that we are going to do it again!\n\nWe will also have a presentation from Princy Parsana (https://princyparsana.github.io) on *Near* publication ready figures with cowplot and ggplots!\n\nWHO is this for?\n- If you are new to R & are short-budgeted on time!\n- If you want to learn more about creating data visualizations in R, but don't know how!\n- If you want to learn about how to make your own holiday designs in R!\n\n*If any/all of this is true, this event might be for you!*\n\nAGENDA\n12:00–12:15 Meet & Greet | 🍪 | Set-up\n12:15–12:20 Who we are | Announcements | Updates from online book club | What's next\n12:20–12:35 Presentation from Princy Parsana: Data visualizations with ggplot2 and cowplot\n12:35-1:00 Hands-on coding activity: Create your own holiday designs in R!\n1:00-1:10 Holiday design showcase!\n1:10–1:20 Networking -- Any more Qs?\n\nLOCATION:\nJohns Hopkins School of Public Health\n615 N. Wolfe Street\nBaltimore, MD 21205\n\nRoom W4030 (4th floor)\n\nFAQ:\nQ: Are men welcome to attend R-Ladies events?\nA: Yes, men are welcome at this event. Our mission is to encourage more women and non-binary individuals to get involved in the R community. However, we ask that cis men come as guests of women and gender minorities to our events to promote a sense support and encouragement for women and gender minorities in the R community. Please help us by spreading the word about R-Ladies. Please also take the time to review our code of conduct before you attend: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nThe term \"women and gender minorities\" is inclusive of individuals who identify as female (trans and cis), trans-men, non-binary, genderqueer, genderfluid, agender, intersex, and all minority genders).\n\nImportant to know:\n- If this is your first R-Ladies event, please take a moment to review our R-Ladies Global code of conduct: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nFinally, for more information:\nemail: bmore@rladies.org\ntwitter: @RLadiesBmore\nfacebook: https://www.facebook.com/RLadiesBmore/\nmeetup: https://www.meetup.com/rladies-baltimore/",
+    "status": "PAST",
+    "dateTime": "2019-11-22T12:00:00-05:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-baltimore/events/263279186/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 37,
+      "waitlistCount": 0,
+      "totalCount": 37
+    },
+    "venues": [
+      {
+        "id": "10399812",
+        "name": "Johns Hopkins Bloomberg School of Public Health",
+        "address": "615 North Wolfe Street",
+        "city": "Baltimore",
+        "state": "MD",
+        "country": "us",
+        "lat": 39.2981,
+        "lon": -76.5902,
+        "postalCode": "21205",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Baltimore",
+      "urlname": "rladies-baltimore"
+    },
+    "createdTime": "2019-07-18T23:04:20-04:00"
+  },
+  {
+    "id": "263279111",
+    "title": "R-Ladies Baltimore -- Data Products and Presentations with R Markdown",
+    "description": "R-Ladies Baltimore (Bmore) is the local Baltimore chapter for the larger R-Ladies global organization (rladies.org) to promote gender diversity in the R community.\n\nWe will have an event on Wednesday September 18, 2019 from 5:30-7pm\nat Allovue (https://allovue.com). We will kickoff our Fall 2019 events with a meetup discussing data presentations and data products using R Markdown, enabling reproducible data analyses. We are also aiming for discussing strategies on structuring your data analysis folders. We are excited to have Ariel Gershman and McKinzie Garrison both from the Biochemistry, Cellular and Molecular Biology (BCMB) Graduate Program at the Johns Hopkins University School of Medicine give presentations.\n\nWHO is this for?\n- If you are new to R & are short-budgeted on time!\n- If you have to make a report or presentation from the results of your analysis with R code, but don't know how!\n- If you want to learn about alternative forms of data products with R!\n\n*If any/all of this is true, this event might be for you!*\n\nAGENDA\n5:30–5:45 Meet & Greet | 🍪 | Networking\n5:45–5:50 Who we are | Announcements | What's next\n5:50–6:30 Workshop: Data Products and Presentations with R Markdown\n6:30-6:45 Discussion with audience on other questions / resources\n6:45–7:00 More 🍪 and Networking\n\nDetails on the location:\nAllovue (https://allovue.com)\n301 W 29th St, Baltimore, MD 21211\n(Room 2003, on the second floor at the end of the hall)\n\nDetails on parking: Parking is available at R House (https://r.housebaltimore.com) as well as across the street at the police station or in Remington Row’s Garage (entrance on 28th Street, that is paid parking though).\n\nFAQ:\nQ: Are men welcome to attend R-Ladies events?\nA: Yes, men are welcome at this event. Our mission is to encourage more women and non-binary individuals to get involved in the R community. However, we ask that cis men come as guests of women and gender minorities to our events to promote a sense support and encouragement for women and gender minorities in the R community. Please help us by spreading the word about R-Ladies. Please also take the time to review our code of conduct before you attend: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nThe term \"women and gender minorities\" is inclusive of individuals who identify as female (trans and cis), trans-men, non-binary, genderqueer, genderfluid, agender, intersex, and all minority genders).\n\nImportant to know:\n- If this is your first R-Ladies event, please take a moment to review our R-Ladies Global code of conduct: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nFinally, for more information:\nemail: bmore@rladies.org\ntwitter: @RLadiesBmore\nwebsite: https://rladies-baltimore.github.io\nfacebook: https://www.facebook.com/RLadiesBmore/\nmeetup: https://www.meetup.com/rladies-baltimore/",
+    "status": "PAST",
+    "dateTime": "2019-09-18T17:30:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-baltimore/events/263279111/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 41,
+      "waitlistCount": 0,
+      "totalCount": 41
+    },
+    "venues": [
+      {
+        "id": "26101835",
+        "name": "301 W 29th St",
+        "address": "301 W 29th St",
+        "city": "Baltimore",
+        "state": "MD",
+        "country": "us",
+        "lat": 39.3217,
+        "lon": -76.6222,
+        "postalCode": "21211",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Baltimore",
+      "urlname": "rladies-baltimore"
+    },
+    "createdTime": "2019-07-18T22:55:27-04:00"
+  },
+  {
+    "id": "254236104",
+    "title": "R-Ladies Baltimore ice-cream field trip! ",
+    "description": "R-Ladies Baltimore (Bmore) is the local Baltimore chapter for the larger R-Ladies global organization (rladies.org) to promote gender diversity in the R community.\n\nWe will meet up at The Charmery Ice Cream Factory, a local ice-cream shop on Friday July 12, 2019 from 4-5:30pm. There won't be any presentations, only fun networking and discussions and ice cream! Unfortunately, we haven't found a company to sponsor the ice cream. So everyone is own their own for buying their own ice cream. However, it should be a good time nevertheless!\n\nDetails on the location:\nThe Charmery Ice Cream Factory (http://www.thecharmery.com)\n1700 W 41st St #400, Baltimore, MD 21211\n\nFAQ:\nQ: Are men welcome to attend R-Ladies events?\nA: Yes, men are welcome at this event. Our mission is to encourage more women and non-binary individuals to get involved in the R community. However, we ask that cis men come as guests of women and gender minorities to our events to promote a sense support and encouragement for women and gender minorities in the R community. Please help us by spreading the word about R-Ladies. Please also take the time to review our code of conduct before you attend: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nThe term \"women and gender minorities\" is inclusive of individuals who identify as female (trans and cis), trans-men, non-binary, genderqueer, genderfluid, agender, intersex, and all minority genders).\n\nImportant to know:\n- If this is your first R-Ladies event, please take a moment to review our R-Ladies Global code of conduct: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nFinally, for more information:\nemail: bmore@rladies.org\ntwitter: @RLadiesBmore\nwebsite: https://rladies-baltimore.github.io\nfacebook: https://www.facebook.com/RLadiesBmore/\nmeetup: https://www.meetup.com/rladies-baltimore/",
+    "status": "PAST",
+    "dateTime": "2019-07-12T16:00:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-baltimore/events/254236104/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 22,
+      "waitlistCount": 0,
+      "totalCount": 22
+    },
+    "venues": [
+      {
+        "id": "26509108",
+        "name": "The Charmery Ice Cream Factory",
+        "address": "1700 W 41st St #400",
+        "city": "Baltimore",
+        "state": "MD",
+        "country": "us",
+        "lat": 39.336,
+        "lon": -76.644,
+        "postalCode": "21211",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Baltimore",
+      "urlname": "rladies-baltimore"
+    },
+    "createdTime": "2018-08-30T07:53:01-04:00"
+  },
+  {
+    "id": "254236074",
+    "title": "R-Ladies Baltimore -- Developing R Packages",
+    "description": "R-Ladies Baltimore (Bmore) is the local Baltimore chapter for the larger R-Ladies global organization (rladies.org) to promote gender diversity in the R community.\n\nWe will have an event on Wednesday May 22, 2019 from 5:30-7pm\nlocation at Allovue (https://allovue.com)). Genevieve Stein-O’Brien (https://twitter.com/genesofeve) will introduce R packages and teach how to develop your own R package! Chips and drinks will be provided!\n\nWHO is this for?\n- If you are new to R & are short-budgeted on time!\n- If you have R code that you want to convert into an R package, but don't know how!\n- If you want to learn about how others create R packages!\n\n*If any/all of this is true, this event might be for you!*\n\nAGENDA\n5:30–5:45 Meet & Greet | 🍪 | Set-up\n5:45–5:50 Who we are | Announcements | What's next\n5:50–6:30 Workshop: Developing R packages\n6:30-6:45 Discussion with audience on other questions / resources\n6:45–7:00 Any more Qs? How to reach us to continue this conversation!\n\nDetails on the location:\nAllovue (https://allovue.com)\n301 W 29th St, Baltimore, MD 21211\n(Room 2003, on the second floor at the end of the hall)\n\nDetails on parking: Parking is available at R House (https://r.housebaltimore.com) as well as across the street at the police station or in Remington Row’s Garage (entrance on 28th Street, that is paid parking though).\n\nFAQ:\nQ: Are men welcome to attend R-Ladies events?\nA: Yes, men are welcome at this event. Our mission is to encourage more women and non-binary individuals to get involved in the R community. However, we ask that cis men come as guests of women and gender minorities to our events to promote a sense support and encouragement for women and gender minorities in the R community. Please help us by spreading the word about R-Ladies. Please also take the time to review our code of conduct before you attend: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nThe term \"women and gender minorities\" is inclusive of individuals who identify as female (trans and cis), trans-men, non-binary, genderqueer, genderfluid, agender, intersex, and all minority genders).\n\nImportant to know:\n- If this is your first R-Ladies event, please take a moment to review our R-Ladies Global code of conduct: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nFinally, for more information:\nemail: bmore@rladies.org\ntwitter: @RLadiesBmore\nwebsite: https://rladies-baltimore.github.io\nfacebook: https://www.facebook.com/RLadiesBmore/\nmeetup: https://www.meetup.com/rladies-baltimore/",
+    "status": "PAST",
+    "dateTime": "2019-05-22T17:30:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-baltimore/events/254236074/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 36,
+      "waitlistCount": 0,
+      "totalCount": 36
+    },
+    "venues": [
+      {
+        "id": "26101835",
+        "name": "301 W 29th St",
+        "address": "301 W 29th St",
+        "city": "Baltimore",
+        "state": "MD",
+        "country": "us",
+        "lat": 39.3217,
+        "lon": -76.6222,
+        "postalCode": "21211",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Baltimore",
+      "urlname": "rladies-baltimore"
+    },
+    "createdTime": "2018-08-30T07:49:29-04:00"
+  },
+  {
+    "id": "254236037",
+    "title": "R-Ladies Baltimore -- Tidyverse and Beyond! ",
+    "description": "R-Ladies Baltimore (Bmore) is the local Baltimore chapter for the larger R-Ladies global organization (rladies.org) to promote gender diversity in the R community. We will have our next event on Wednesday March 13, 2019 from 12-1:30pm (615 N. Wolfe Street, Room E3609). Coffee, tea and cookies will be provided.\n\nWHO is this for?\n- If you are new to R & are short-budgeted on time!\n- If you'd like to start working with data in R without learning all the programming details first!!\n- If you have a neat data set you'd like to explore and visualize!\n- If you are a current R user but only familiar w/ base R!\n- If you are unfamiliar with pipes\n- If you have heard of tidyverse/dplyr/tidyr/tibble/ggplot but haven't had the chance to get started!\n\n*If any/all of this is true, this event might be for you!*\n\nWHAT we are planning!\n- basics of tidyverse & ’tidy data’\n- reshaping data with tidyr: gather, spread, separate, unite\n- exploring data with dplyr: filter, select, mutate, transmute, arrange, summarise, group_by\n- how tidy data talks to ggplot\n- a quick summary of ggplot2\n- finally, publication quality figures w/ R!\n\nAGENDA\n12:00–12:15 Meet & Greet | Set-up\n12:15–12:25 Who we are | Announcements | What's next\n12:25–1:10 Workshop: Intro to Tidy Data w/ R\n1:10–1:20 Any more Qs? How to reach us to continue this conversation!\n\n*To benefit most from this workshop*\n1. please bring your laptop with\n2. pre-installed R & RStudio (https://www.rstudio.com/products/rstudio/)\n3. tidyverse package (https://www.tidyverse.org/)\n4. gapminder dataset package (installation: https://cran.r-project.org/web/packages/gapminder/; about gapminder: https://www.gapminder.org/data/)\n* Having trouble with installation & set-up? Ping us on Slack!\n\n*Useful Resources*\n1. Relevant R (incl. tidyverse & ggplot2) & Slack cheatsheets: http://bit.ly/rlel-gdrive-cheatsheets\n2. Hands-On Programming with R by G Grolemund (https://rstudio-education.github.io/hopr/) & R for Data Science by H Wickham & G Grolemund (https://r4ds.had.co.nz/)\n\nLOCATION:\nJohns Hopkins School of Public Health\n615 N. Wolfe Street\nBaltimore, MD 21205\n\nRoom E3609 (3rd floor)\n\nFAQ:\nQ: Are men welcome to attend R-Ladies events?\nA: Yes, men are welcome at this event. Our mission is to encourage more women and non-binary individuals to get involved in the R community. However, we ask that cis men come as guests of women and gender minorities to our events to promote a sense support and encouragement for women and gender minorities in the R community. Please help us by spreading the word about R-Ladies. Please also take the time to review our code of conduct before you attend: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nThe term \"women and gender minorities\" is inclusive of individuals who identify as female (trans and cis), trans-men, non-binary, genderqueer, genderfluid, agender, intersex, and all minority genders).\n\nImportant to know:\n- If this is your first R-Ladies event, please take a moment to review our R-Ladies Global code of conduct: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nFinally, for more information:\nemail: bmore@rladies.org\ntwitter: @RLadiesBmore\nwebsite: https://rladies-baltimore.github.io\nfacebook: https://www.facebook.com/RLadiesBmore/\nmeetup: https://www.meetup.com/rladies-baltimore/",
+    "status": "PAST",
+    "dateTime": "2019-03-13T12:00:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-baltimore/events/254236037/",
+    "featuredEventPhoto": {},
+    "rsvps": {
       "yesCount": 33,
       "waitlistCount": 0,
       "totalCount": 33
@@ -30,231 +261,8 @@
     "group": {
       "name": "R-Ladies Baltimore",
       "urlname": "rladies-baltimore"
-    }
-  },
-  {
-    "id": "254235069",
-    "title": "R-Ladies Baltimore Conference Round up",
-    "description": "After taking the summer off, R-Ladies Baltimore (Bmore) is back for our second event! We are the local Baltimore chapter for the larger R-Ladies global organization (rladies.org) to promote gender diversity in the R community.\n\nWe are kicking off things with a conference roundup event on Tuesday September 25, 2018 from 12-1:30pm (Rose Auditorium at the Carnegie Institution for Science). Coffee, tea and cookies will be provided. This meeting will be a “Conference Round up”, and include presentations from three speakers who have attended R / coding focused conferences this year, and who will share with us new packages, details from the meetings and professional development tips learned!\n\nSchedule:\n- 12:00 PM Arrive, Networking\n- 12:10 PM Introductions\n- 12:15 PM Speakers (15 min talks with 5 mins for questions)\n- 1:15 PM Discussion on future events, Networking\n\nConfirmed Speakers:\n- Alexis Norris (Bioinformatician, FDA) on RStudio Conference 2018, https://www.rstudio.com/conference/\n- Gwynn Sturdevant (Data Scientist, Volanno) on Write/Speak/Code 2018, http://www.writespeakcode.com/2018/\n- Roger Peng (Professor, Biostatistics, JHU SPH) on UseR 2018\n\nDetails on the location:\nCarnegie Institution for Science\n3520 San Martin Drive\nBaltimore, Maryland 21218\n\nThe meet up will be in the Rose Auditorium at Carnegie Institution for Science (https://emb.carnegiescience.edu/about/directions). As soon as you come in the main entrance you will see an arrow at the reception desk pointing left to get to the auditorium. Please note that Apple Maps has trouble finding it and sometimes it points to the old Carnegie building on University Drive, other times it points to the Space Telescope Science Institute.\n\nFAQ:\nQ: Are men welcome to attend R-Ladies events?\nA: Yes, men are welcome at this event. Our mission is to encourage more women and non-binary individuals to get involved in the R community. Please help us by spreading the word about R-Ladies. Please also take the time to review our code of conduct before you attend: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nImportant to know:\n- If this is your first R-Ladies event, please take a moment to review our R-Ladies Global code of conduct: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nFinally, for more information:\nemail: bmore@rladies.org\ntwitter: @RLadiesBmore\nfacebook: https://www.facebook.com/RLadiesBmore/\nmeetup: https://www.meetup.com/rladies-baltimore/",
-    "status": "PAST",
-    "dateTime": "2018-09-25T12:00:00-04:00",
-    "duration": "PT1H30M",
-    "eventUrl": "https://www.meetup.com/rladies-baltimore/events/254235069/",
-    "featuredEventPhoto": {},
-    "rsvps": {
-      "yesCount": 34,
-      "waitlistCount": 0,
-      "totalCount": 34
     },
-    "venues": [],
-    "group": {
-      "name": "R-Ladies Baltimore",
-      "urlname": "rladies-baltimore"
-    }
-  },
-  {
-    "id": "249419428",
-    "title": "R-Ladies Baltimore (Bmore) Launch Event! ",
-    "description": "R-Ladies Baltimore (Bmore) has officially arrived! This is the local Baltimore chapter for the larger R-Ladies global organization (rladies.org) to promote gender diversity in the R community.\n\nFirst, we want to learn more about you and your interests! Please fill out our google poll here: https://docs.google.com/forms/d/e/1FAIpQLScFTwpSXnIRLm_YxyV7kBNIuf7V0fxfnq-Qpam7ocEPcDbVmQ/viewform\n\nSecond, we are kicking off things with a launch event on May 24th from 12-1:30pm at Johns Hopkins Technology Ventures (JHTV). Lunch is being generously provided by the Center for Computational Genomics. The event will feature a series of lightning talks from local women working on awesome R packages, projects, data analyses, and shiny apps! We will end with a discussion from the group on what events you would be most interested in seeing for future R-Ladies Bmore events!\n\nSchedule:\n- 12:00 PM Arrive, Networking\n- 12:20 PM Introductions\n- 12:30 PM Lightning talks (5 min talks with 1-2 mins for questions)\n- 1:15 PM Discussion on future events, Networking\n\nConfirmed Lightning Speakers:\n- Shannon Ellis -- http://www.shanellis.com\n- Elana Fertig -- https://fertiglab.com\n- Leslie Myint -- https://lmyint.github.io\n- Helen Powell -- http://www.helenpowell.org\n- Sarah Wheelan -- http://sjwheelan.som.jhmi.edu -- An Interlude with Genomic Intervals\n- Ni Zhao -- http://www.biostat.jhsph.edu/~nzhao/\n\nDetails on the location:\nEnter the 1812 Ashland building and go straight ahead in lobby past the security desk & elevators to Suite #110/JHTV entrance. We will be in a combined set of three conference rooms (Broadway/Caroline/Eager Park).\n\nFAQ:\nQ: Are men welcome to attend R-Ladies events?\nA: Yes, men are welcome at this event. Our mission is to encourage more women and non-binary individuals to get involved in the R community. Please help us by spreading the word about R-Ladies. Please also take the time to review our code of conduct before you attend: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nImportant to know:\n- If this is your first R-Ladies event, please take a moment to review our R-Ladies Global code of conduct: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nFinally, for more information:\nemail: bmore@rladies.org\ntwitter: @RLadiesBmore\nfacebook: https://www.facebook.com/RLadiesBmore/\nmeetup: https://www.meetup.com/rladies-baltimore/\nPlease fill out our google poll to learn more about you and your interests: https://docs.google.com/forms/d/e/1FAIpQLScFTwpSXnIRLm_YxyV7kBNIuf7V0fxfnq-Qpam7ocEPcDbVmQ/viewform",
-    "status": "PAST",
-    "dateTime": "2018-05-24T12:00:00-04:00",
-    "duration": "PT1H30M",
-    "eventUrl": "https://www.meetup.com/rladies-baltimore/events/249419428/",
-    "featuredEventPhoto": {
-      "id": "469851511",
-      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/9/3/7/highres_469851511.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/9/3/7/600_469851511.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/9/3/7/thumb_469851511.jpeg"
-    },
-    "rsvps": {
-      "yesCount": 50,
-      "waitlistCount": 6,
-      "totalCount": 50
-    },
-    "venues": [
-      {
-        "id": "25791119",
-        "name": "Johns Hopkins Technology Ventures",
-        "address": "1812 Ashland Ave",
-        "city": "Baltimore",
-        "state": "md",
-        "country": "us",
-        "lat": 39.3008,
-        "lon": -76.592,
-        "postalCode": "21205",
-        "venueType": ""
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Baltimore",
-      "urlname": "rladies-baltimore"
-    }
-  },
-  {
-    "id": "263279186",
-    "title": "R-Ladies Baltimore -- Data visualizations & holiday designs!",
-    "description": "R-Ladies Baltimore (Bmore) is the local Baltimore chapter for the larger R-Ladies global organization (rladies.org) to promote gender diversity in the R community.\n\nThe next event is Friday November 22, 2019 from 12-1:30pm (615 N. Wolfe Street, Room W4030). Coffee, tea and cookies will be provided. This meeting will include a group coding event. Last year we made holiday cards at our November meetup. It was so much fun, that we are going to do it again!\n\nWe will also have a presentation from Princy Parsana (https://princyparsana.github.io) on *Near* publication ready figures with cowplot and ggplots!\n\nWHO is this for?\n- If you are new to R & are short-budgeted on time!\n- If you want to learn more about creating data visualizations in R, but don't know how!\n- If you want to learn about how to make your own holiday designs in R!\n\n*If any/all of this is true, this event might be for you!*\n\nAGENDA\n12:00–12:15 Meet & Greet | 🍪 | Set-up\n12:15–12:20 Who we are | Announcements | Updates from online book club | What's next\n12:20–12:35 Presentation from Princy Parsana: Data visualizations with ggplot2 and cowplot\n12:35-1:00 Hands-on coding activity: Create your own holiday designs in R!\n1:00-1:10 Holiday design showcase!\n1:10–1:20 Networking -- Any more Qs?\n\nLOCATION:\nJohns Hopkins School of Public Health\n615 N. Wolfe Street\nBaltimore, MD 21205\n\nRoom W4030 (4th floor)\n\nFAQ:\nQ: Are men welcome to attend R-Ladies events?\nA: Yes, men are welcome at this event. Our mission is to encourage more women and non-binary individuals to get involved in the R community. However, we ask that cis men come as guests of women and gender minorities to our events to promote a sense support and encouragement for women and gender minorities in the R community. Please help us by spreading the word about R-Ladies. Please also take the time to review our code of conduct before you attend: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nThe term \"women and gender minorities\" is inclusive of individuals who identify as female (trans and cis), trans-men, non-binary, genderqueer, genderfluid, agender, intersex, and all minority genders).\n\nImportant to know:\n- If this is your first R-Ladies event, please take a moment to review our R-Ladies Global code of conduct: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nFinally, for more information:\nemail: bmore@rladies.org\ntwitter: @RLadiesBmore\nfacebook: https://www.facebook.com/RLadiesBmore/\nmeetup: https://www.meetup.com/rladies-baltimore/",
-    "status": "PAST",
-    "dateTime": "2019-11-22T12:00:00-05:00",
-    "duration": "PT1H30M",
-    "eventUrl": "https://www.meetup.com/rladies-baltimore/events/263279186/",
-    "featuredEventPhoto": {},
-    "rsvps": {
-      "yesCount": 39,
-      "waitlistCount": 0,
-      "totalCount": 39
-    },
-    "venues": [
-      {
-        "id": "10399812",
-        "name": "Johns Hopkins Bloomberg School of Public Health",
-        "address": "615 North Wolfe Street",
-        "city": "Baltimore",
-        "state": "MD",
-        "country": "us",
-        "lat": 39.2981,
-        "lon": -76.5902,
-        "postalCode": "21205",
-        "venueType": ""
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Baltimore",
-      "urlname": "rladies-baltimore"
-    }
-  },
-  {
-    "id": "263279111",
-    "title": "R-Ladies Baltimore -- Data Products and Presentations with R Markdown",
-    "description": "R-Ladies Baltimore (Bmore) is the local Baltimore chapter for the larger R-Ladies global organization (rladies.org) to promote gender diversity in the R community.\n\nWe will have an event on Wednesday September 18, 2019 from 5:30-7pm\nat Allovue (https://allovue.com). We will kickoff our Fall 2019 events with a meetup discussing data presentations and data products using R Markdown, enabling reproducible data analyses. We are also aiming for discussing strategies on structuring your data analysis folders. We are excited to have Ariel Gershman and McKinzie Garrison both from the Biochemistry, Cellular and Molecular Biology (BCMB) Graduate Program at the Johns Hopkins University School of Medicine give presentations.\n\nWHO is this for?\n- If you are new to R & are short-budgeted on time!\n- If you have to make a report or presentation from the results of your analysis with R code, but don't know how!\n- If you want to learn about alternative forms of data products with R!\n\n*If any/all of this is true, this event might be for you!*\n\nAGENDA\n5:30–5:45 Meet & Greet | 🍪 | Networking\n5:45–5:50 Who we are | Announcements | What's next\n5:50–6:30 Workshop: Data Products and Presentations with R Markdown\n6:30-6:45 Discussion with audience on other questions / resources\n6:45–7:00 More 🍪 and Networking\n\nDetails on the location:\nAllovue (https://allovue.com)\n301 W 29th St, Baltimore, MD 21211\n(Room 2003, on the second floor at the end of the hall)\n\nDetails on parking: Parking is available at R House (https://r.housebaltimore.com) as well as across the street at the police station or in Remington Row’s Garage (entrance on 28th Street, that is paid parking though).\n\nFAQ:\nQ: Are men welcome to attend R-Ladies events?\nA: Yes, men are welcome at this event. Our mission is to encourage more women and non-binary individuals to get involved in the R community. However, we ask that cis men come as guests of women and gender minorities to our events to promote a sense support and encouragement for women and gender minorities in the R community. Please help us by spreading the word about R-Ladies. Please also take the time to review our code of conduct before you attend: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nThe term \"women and gender minorities\" is inclusive of individuals who identify as female (trans and cis), trans-men, non-binary, genderqueer, genderfluid, agender, intersex, and all minority genders).\n\nImportant to know:\n- If this is your first R-Ladies event, please take a moment to review our R-Ladies Global code of conduct: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nFinally, for more information:\nemail: bmore@rladies.org\ntwitter: @RLadiesBmore\nwebsite: https://rladies-baltimore.github.io\nfacebook: https://www.facebook.com/RLadiesBmore/\nmeetup: https://www.meetup.com/rladies-baltimore/",
-    "status": "PAST",
-    "dateTime": "2019-09-18T17:30:00-04:00",
-    "duration": "PT1H30M",
-    "eventUrl": "https://www.meetup.com/rladies-baltimore/events/263279111/",
-    "featuredEventPhoto": {},
-    "rsvps": {
-      "yesCount": 44,
-      "waitlistCount": 0,
-      "totalCount": 44
-    },
-    "venues": [
-      {
-        "id": "26101835",
-        "name": "301 W 29th St",
-        "address": "301 W 29th St",
-        "city": "Baltimore",
-        "state": "MD",
-        "country": "us",
-        "lat": 39.3217,
-        "lon": -76.6222,
-        "postalCode": "21211",
-        "venueType": ""
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Baltimore",
-      "urlname": "rladies-baltimore"
-    }
-  },
-  {
-    "id": "254236104",
-    "title": "R-Ladies Baltimore ice-cream field trip! ",
-    "description": "R-Ladies Baltimore (Bmore) is the local Baltimore chapter for the larger R-Ladies global organization (rladies.org) to promote gender diversity in the R community.\n\nWe will meet up at The Charmery Ice Cream Factory, a local ice-cream shop on Friday July 12, 2019 from 4-5:30pm. There won't be any presentations, only fun networking and discussions and ice cream! Unfortunately, we haven't found a company to sponsor the ice cream. So everyone is own their own for buying their own ice cream. However, it should be a good time nevertheless!\n\nDetails on the location:\nThe Charmery Ice Cream Factory (http://www.thecharmery.com)\n1700 W 41st St #400, Baltimore, MD 21211\n\nFAQ:\nQ: Are men welcome to attend R-Ladies events?\nA: Yes, men are welcome at this event. Our mission is to encourage more women and non-binary individuals to get involved in the R community. However, we ask that cis men come as guests of women and gender minorities to our events to promote a sense support and encouragement for women and gender minorities in the R community. Please help us by spreading the word about R-Ladies. Please also take the time to review our code of conduct before you attend: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nThe term \"women and gender minorities\" is inclusive of individuals who identify as female (trans and cis), trans-men, non-binary, genderqueer, genderfluid, agender, intersex, and all minority genders).\n\nImportant to know:\n- If this is your first R-Ladies event, please take a moment to review our R-Ladies Global code of conduct: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nFinally, for more information:\nemail: bmore@rladies.org\ntwitter: @RLadiesBmore\nwebsite: https://rladies-baltimore.github.io\nfacebook: https://www.facebook.com/RLadiesBmore/\nmeetup: https://www.meetup.com/rladies-baltimore/",
-    "status": "PAST",
-    "dateTime": "2019-07-12T16:00:00-04:00",
-    "duration": "PT1H30M",
-    "eventUrl": "https://www.meetup.com/rladies-baltimore/events/254236104/",
-    "featuredEventPhoto": {},
-    "rsvps": {
-      "yesCount": 24,
-      "waitlistCount": 0,
-      "totalCount": 24
-    },
-    "venues": [
-      {
-        "id": "26509108",
-        "name": "The Charmery Ice Cream Factory",
-        "address": "1700 W 41st St #400",
-        "city": "Baltimore",
-        "state": "MD",
-        "country": "us",
-        "lat": 39.336,
-        "lon": -76.644,
-        "postalCode": "21211",
-        "venueType": ""
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Baltimore",
-      "urlname": "rladies-baltimore"
-    }
-  },
-  {
-    "id": "254236074",
-    "title": "R-Ladies Baltimore -- Developing R Packages",
-    "description": "R-Ladies Baltimore (Bmore) is the local Baltimore chapter for the larger R-Ladies global organization (rladies.org) to promote gender diversity in the R community.\n\nWe will have an event on Wednesday May 22, 2019 from 5:30-7pm\nlocation at Allovue (https://allovue.com)). Genevieve Stein-O’Brien (https://twitter.com/genesofeve) will introduce R packages and teach how to develop your own R package! Chips and drinks will be provided!\n\nWHO is this for?\n- If you are new to R & are short-budgeted on time!\n- If you have R code that you want to convert into an R package, but don't know how!\n- If you want to learn about how others create R packages!\n\n*If any/all of this is true, this event might be for you!*\n\nAGENDA\n5:30–5:45 Meet & Greet | 🍪 | Set-up\n5:45–5:50 Who we are | Announcements | What's next\n5:50–6:30 Workshop: Developing R packages\n6:30-6:45 Discussion with audience on other questions / resources\n6:45–7:00 Any more Qs? How to reach us to continue this conversation!\n\nDetails on the location:\nAllovue (https://allovue.com)\n301 W 29th St, Baltimore, MD 21211\n(Room 2003, on the second floor at the end of the hall)\n\nDetails on parking: Parking is available at R House (https://r.housebaltimore.com) as well as across the street at the police station or in Remington Row’s Garage (entrance on 28th Street, that is paid parking though).\n\nFAQ:\nQ: Are men welcome to attend R-Ladies events?\nA: Yes, men are welcome at this event. Our mission is to encourage more women and non-binary individuals to get involved in the R community. However, we ask that cis men come as guests of women and gender minorities to our events to promote a sense support and encouragement for women and gender minorities in the R community. Please help us by spreading the word about R-Ladies. Please also take the time to review our code of conduct before you attend: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nThe term \"women and gender minorities\" is inclusive of individuals who identify as female (trans and cis), trans-men, non-binary, genderqueer, genderfluid, agender, intersex, and all minority genders).\n\nImportant to know:\n- If this is your first R-Ladies event, please take a moment to review our R-Ladies Global code of conduct: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nFinally, for more information:\nemail: bmore@rladies.org\ntwitter: @RLadiesBmore\nwebsite: https://rladies-baltimore.github.io\nfacebook: https://www.facebook.com/RLadiesBmore/\nmeetup: https://www.meetup.com/rladies-baltimore/",
-    "status": "PAST",
-    "dateTime": "2019-05-22T17:30:00-04:00",
-    "duration": "PT1H30M",
-    "eventUrl": "https://www.meetup.com/rladies-baltimore/events/254236074/",
-    "featuredEventPhoto": {},
-    "rsvps": {
-      "yesCount": 37,
-      "waitlistCount": 0,
-      "totalCount": 37
-    },
-    "venues": [
-      {
-        "id": "26101835",
-        "name": "301 W 29th St",
-        "address": "301 W 29th St",
-        "city": "Baltimore",
-        "state": "MD",
-        "country": "us",
-        "lat": 39.3217,
-        "lon": -76.6222,
-        "postalCode": "21211",
-        "venueType": ""
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Baltimore",
-      "urlname": "rladies-baltimore"
-    }
-  },
-  {
-    "id": "254236037",
-    "title": "R-Ladies Baltimore -- Tidyverse and Beyond! ",
-    "description": "R-Ladies Baltimore (Bmore) is the local Baltimore chapter for the larger R-Ladies global organization (rladies.org) to promote gender diversity in the R community. We will have our next event on Wednesday March 13, 2019 from 12-1:30pm (615 N. Wolfe Street, Room E3609). Coffee, tea and cookies will be provided.\n\nWHO is this for?\n- If you are new to R & are short-budgeted on time!\n- If you'd like to start working with data in R without learning all the programming details first!!\n- If you have a neat data set you'd like to explore and visualize!\n- If you are a current R user but only familiar w/ base R!\n- If you are unfamiliar with pipes\n- If you have heard of tidyverse/dplyr/tidyr/tibble/ggplot but haven't had the chance to get started!\n\n*If any/all of this is true, this event might be for you!*\n\nWHAT we are planning!\n- basics of tidyverse & ’tidy data’\n- reshaping data with tidyr: gather, spread, separate, unite\n- exploring data with dplyr: filter, select, mutate, transmute, arrange, summarise, group_by\n- how tidy data talks to ggplot\n- a quick summary of ggplot2\n- finally, publication quality figures w/ R!\n\nAGENDA\n12:00–12:15 Meet & Greet | Set-up\n12:15–12:25 Who we are | Announcements | What's next\n12:25–1:10 Workshop: Intro to Tidy Data w/ R\n1:10–1:20 Any more Qs? How to reach us to continue this conversation!\n\n*To benefit most from this workshop*\n1. please bring your laptop with\n2. pre-installed R & RStudio (https://www.rstudio.com/products/rstudio/)\n3. tidyverse package (https://www.tidyverse.org/)\n4. gapminder dataset package (installation: https://cran.r-project.org/web/packages/gapminder/; about gapminder: https://www.gapminder.org/data/)\n* Having trouble with installation & set-up? Ping us on Slack!\n\n*Useful Resources*\n1. Relevant R (incl. tidyverse & ggplot2) & Slack cheatsheets: http://bit.ly/rlel-gdrive-cheatsheets\n2. Hands-On Programming with R by G Grolemund (https://rstudio-education.github.io/hopr/) & R for Data Science by H Wickham & G Grolemund (https://r4ds.had.co.nz/)\n\nLOCATION:\nJohns Hopkins School of Public Health\n615 N. Wolfe Street\nBaltimore, MD 21205\n\nRoom E3609 (3rd floor)\n\nFAQ:\nQ: Are men welcome to attend R-Ladies events?\nA: Yes, men are welcome at this event. Our mission is to encourage more women and non-binary individuals to get involved in the R community. However, we ask that cis men come as guests of women and gender minorities to our events to promote a sense support and encouragement for women and gender minorities in the R community. Please help us by spreading the word about R-Ladies. Please also take the time to review our code of conduct before you attend: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nThe term \"women and gender minorities\" is inclusive of individuals who identify as female (trans and cis), trans-men, non-binary, genderqueer, genderfluid, agender, intersex, and all minority genders).\n\nImportant to know:\n- If this is your first R-Ladies event, please take a moment to review our R-Ladies Global code of conduct: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nFinally, for more information:\nemail: bmore@rladies.org\ntwitter: @RLadiesBmore\nwebsite: https://rladies-baltimore.github.io\nfacebook: https://www.facebook.com/RLadiesBmore/\nmeetup: https://www.meetup.com/rladies-baltimore/",
-    "status": "PAST",
-    "dateTime": "2019-03-13T12:00:00-04:00",
-    "duration": "PT1H30M",
-    "eventUrl": "https://www.meetup.com/rladies-baltimore/events/254236037/",
-    "featuredEventPhoto": {},
-    "rsvps": {
-      "yesCount": 42,
-      "waitlistCount": 0,
-      "totalCount": 42
-    },
-    "venues": [
-      {
-        "id": "10399812",
-        "name": "Johns Hopkins Bloomberg School of Public Health",
-        "address": "615 North Wolfe Street",
-        "city": "Baltimore",
-        "state": "MD",
-        "country": "us",
-        "lat": 39.298,
-        "lon": -76.5909,
-        "postalCode": "21205",
-        "venueType": ""
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Baltimore",
-      "urlname": "rladies-baltimore"
-    }
+    "createdTime": "2018-08-30T07:45:21-04:00"
   },
   {
     "id": "254235977",
@@ -266,9 +274,9 @@
     "eventUrl": "https://www.meetup.com/rladies-baltimore/events/254235977/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 44,
+      "yesCount": 40,
       "waitlistCount": 0,
-      "totalCount": 44
+      "totalCount": 40
     },
     "venues": [
       {
@@ -287,7 +295,8 @@
     "group": {
       "name": "R-Ladies Baltimore",
       "urlname": "rladies-baltimore"
-    }
+    },
+    "createdTime": "2018-08-30T07:41:16-04:00"
   },
   {
     "id": "273328125",
@@ -305,9 +314,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/a/9/d/thumb_493787773.jpeg"
     },
     "rsvps": {
-      "yesCount": 74,
+      "yesCount": 68,
       "waitlistCount": 0,
-      "totalCount": 74
+      "totalCount": 68
     },
     "venues": [
       {
@@ -326,7 +335,8 @@
     "group": {
       "name": "R-Ladies Baltimore",
       "urlname": "rladies-baltimore"
-    }
+    },
+    "createdTime": "2020-09-17T16:41:20-04:00"
   },
   {
     "id": "273327650",
@@ -344,9 +354,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/8/a/a/thumb_492430410.jpeg"
     },
     "rsvps": {
-      "yesCount": 56,
+      "yesCount": 55,
       "waitlistCount": 0,
-      "totalCount": 56
+      "totalCount": 55
     },
     "venues": [
       {
@@ -365,7 +375,8 @@
     "group": {
       "name": "R-Ladies Baltimore",
       "urlname": "rladies-baltimore"
-    }
+    },
+    "createdTime": "2020-09-17T16:05:08-04:00"
   },
   {
     "id": "273327907",
@@ -383,9 +394,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/c/7/0/thumb_492787280.jpeg"
     },
     "rsvps": {
-      "yesCount": 89,
+      "yesCount": 79,
       "waitlistCount": 0,
-      "totalCount": 89
+      "totalCount": 79
     },
     "venues": [
       {
@@ -404,7 +415,8 @@
     "group": {
       "name": "R-Ladies Baltimore",
       "urlname": "rladies-baltimore"
-    }
+    },
+    "createdTime": "2020-09-17T16:19:08-04:00"
   },
   {
     "id": "263428298",
@@ -416,9 +428,9 @@
     "eventUrl": "https://www.meetup.com/rladies-baltimore/events/263428298/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 19,
+      "yesCount": 18,
       "waitlistCount": 0,
-      "totalCount": 19
+      "totalCount": 18
     },
     "venues": [
       {
@@ -437,7 +449,8 @@
     "group": {
       "name": "R-Ladies Baltimore",
       "urlname": "rladies-baltimore"
-    }
+    },
+    "createdTime": "2019-07-24T14:55:36-04:00"
   },
   {
     "id": "270962483",
@@ -449,9 +462,9 @@
     "eventUrl": "https://www.meetup.com/rladies-baltimore/events/270962483/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 56,
+      "yesCount": 45,
       "waitlistCount": 0,
-      "totalCount": 56
+      "totalCount": 45
     },
     "venues": [
       {
@@ -470,7 +483,8 @@
     "group": {
       "name": "R-Ladies Baltimore",
       "urlname": "rladies-baltimore"
-    }
+    },
+    "createdTime": "2020-05-29T17:19:29-04:00"
   },
   {
     "id": "263428281",
@@ -503,7 +517,8 @@
     "group": {
       "name": "R-Ladies Baltimore",
       "urlname": "rladies-baltimore"
-    }
+    },
+    "createdTime": "2019-07-24T14:53:56-04:00"
   },
   {
     "id": "263289042",
@@ -515,9 +530,9 @@
     "eventUrl": "https://www.meetup.com/rladies-baltimore/events/263289042/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 41,
+      "yesCount": 40,
       "waitlistCount": 0,
-      "totalCount": 41
+      "totalCount": 40
     },
     "venues": [
       {
@@ -536,7 +551,8 @@
     "group": {
       "name": "R-Ladies Baltimore",
       "urlname": "rladies-baltimore"
-    }
+    },
+    "createdTime": "2019-07-19T11:11:09-04:00"
   },
   {
     "id": "263285991",
@@ -548,9 +564,9 @@
     "eventUrl": "https://www.meetup.com/rladies-baltimore/events/263285991/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 21,
+      "yesCount": 20,
       "waitlistCount": 0,
-      "totalCount": 21
+      "totalCount": 20
     },
     "venues": [
       {
@@ -569,7 +585,8 @@
     "group": {
       "name": "R-Ladies Baltimore",
       "urlname": "rladies-baltimore"
-    }
+    },
+    "createdTime": "2019-07-19T09:11:01-04:00"
   },
   {
     "id": "263285215",
@@ -581,9 +598,9 @@
     "eventUrl": "https://www.meetup.com/rladies-baltimore/events/263285215/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 57,
+      "yesCount": 51,
       "waitlistCount": 0,
-      "totalCount": 57
+      "totalCount": 51
     },
     "venues": [
       {
@@ -602,7 +619,8 @@
     "group": {
       "name": "R-Ladies Baltimore",
       "urlname": "rladies-baltimore"
-    }
+    },
+    "createdTime": "2019-07-19T08:25:05-04:00"
   },
   {
     "id": "281459184",
@@ -620,9 +638,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/c/d/3/thumb_499716051.jpeg"
     },
     "rsvps": {
-      "yesCount": 112,
+      "yesCount": 107,
       "waitlistCount": 0,
-      "totalCount": 112
+      "totalCount": 107
     },
     "venues": [
       {
@@ -641,7 +659,8 @@
     "group": {
       "name": "R-Ladies Baltimore",
       "urlname": "rladies-baltimore"
-    }
+    },
+    "createdTime": "2021-10-15T22:58:25-04:00"
   },
   {
     "id": "282096398",
@@ -659,9 +678,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/6/6/f/thumb_500242127.jpeg"
     },
     "rsvps": {
-      "yesCount": 68,
+      "yesCount": 67,
       "waitlistCount": 0,
-      "totalCount": 68
+      "totalCount": 67
     },
     "venues": [
       {
@@ -680,7 +699,8 @@
     "group": {
       "name": "R-Ladies Baltimore",
       "urlname": "rladies-baltimore"
-    }
+    },
+    "createdTime": "2021-11-15T06:50:50-05:00"
   },
   {
     "id": "281247253",
@@ -696,6 +716,200 @@
       "highResUrl": "https://secure.meetupstatic.com/photos/event/1/a/d/e/highres_499506878.jpeg",
       "standardUrl": "https://secure.meetupstatic.com/photos/event/1/a/d/e/600_499506878.jpeg",
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/a/d/e/thumb_499506878.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 50,
+      "waitlistCount": 0,
+      "totalCount": 50
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Baltimore",
+      "urlname": "rladies-baltimore"
+    },
+    "createdTime": "2021-10-06T09:28:34-04:00"
+  },
+  {
+    "id": "273335413",
+    "title": "R-Ladies Baltimore -- Recursion in R with purrr (Virtual)",
+    "description": "R-Ladies Baltimore (Bmore) is the local Baltimore chapter for the larger R-Ladies global organization (rladies.org) to promote gender diversity in the R community.\n\nThe next event is Tuesday May 18, 2021 from 12-1:30pm (virtual meetup on Zoom). We will have an exciting presentation on Recursion in R with the purrr R package (speaker TBA).\n\nWHO is this for?\n- If you are new to R & want to learn about an incredibly powerful package!\n- If you've experience the need for recursion (or functional programming), and want to learn how to do it in R!\n- If you know about tidy data, and want to know what is functional programming and how it can change your life!\n\n*If any/all of this is true, this event might be for you!*\n\nAGENDA\n12:00–12:15pm Who we are | Announcements | What's next\n12:15–1pm Presentation: Recursion in R with the purrr R package\n1–1:30pm Networking -- Any more Qs?\n\nDetails on the location:\nThe Zoom information will be sent to those who RSVP the week before the event.\n\nFAQ:\nQ: Are men welcome to attend R-Ladies events?\nA: Yes, men are welcome at this event. Our mission is to encourage more women and non-binary individuals to get involved in the R community. However, we ask that cis men come as guests of women and gender minorities to our events to promote a sense support and encouragement for women and gender minorities in the R community. Please help us by spreading the word about R-Ladies. Please also take the time to review our code of conduct before you attend: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nThe term \"women and gender minorities\" is inclusive of individuals who identify as female (trans and cis), trans-men, non-binary, genderqueer, genderfluid, agender, intersex, and all minority genders).\n\nImportant to know:\n- If this is your first R-Ladies event, please take a moment to review our R-Ladies Global code of conduct: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nFinally, for more information:\nemail: bmore@rladies.org\ntwitter: @RLadiesBmore\nfacebook: https://www.facebook.com/RLadiesBmore/\nmeetup: https://www.meetup.com/rladies-baltimore/",
+    "status": "CANCELLED",
+    "dateTime": "2021-06-15T12:00:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-baltimore/events/273335413/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 84,
+      "waitlistCount": 0,
+      "totalCount": 84
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Baltimore",
+      "urlname": "rladies-baltimore"
+    },
+    "createdTime": "2020-09-17T22:23:32-04:00"
+  },
+  {
+    "id": "273502938",
+    "title": "R-Ladies Baltimore -- Building websites in RStudio (Virtual)",
+    "description": "R-Ladies Baltimore (Bmore) is the local Baltimore chapter for the larger R-Ladies global organization (rladies.org) to promote gender diversity in the R community.\n\nThe next event is Thursday April 1, 2021 from 3-4:30pm (virtual meetup on Zoom). We will have an exciting presentation from Maria Tackett (https://www.mariatackett.net) an Assistant Professor of the Practice in the Department of Statistical Science at Duke University! She will give a talk on how to build websites using RStudio! If you've ever thought about making a website for yourself or your project, you won't want to miss this wonderful presentation!\n\nWHO is this for?\n- If you are new to R & want to learn about an incredibly powerful package!\n- If you need to make a website, and want to learn how to do it in R!\n- If you have a website, and want to learn how to convert it to a website in R!\n\n*If any/all of this is true, this event might be for you!*\n\nAGENDA\n3:00–3:15pm Who we are | Announcements | What's next\n3:15–4pm Presentation: Building websites in RStudio\n4–4:30pm Networking -- Any more Qs?\n\nDetails on the location:\nThe Zoom information will be sent to those who RSVP the week before the event.\n\nFAQ:\nQ: Are men welcome to attend R-Ladies events?\nA: Yes, men are welcome at this event. Our mission is to encourage more women and non-binary individuals to get involved in the R community. However, we ask that cis men come as guests of women and gender minorities to our events to promote a sense support and encouragement for women and gender minorities in the R community. Please help us by spreading the word about R-Ladies. Please also take the time to review our code of conduct before you attend: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nThe term \"women and gender minorities\" is inclusive of individuals who identify as female (trans and cis), trans-men, non-binary, genderqueer, genderfluid, agender, intersex, and all minority genders).\n\nImportant to know:\n- If this is your first R-Ladies event, please take a moment to review our R-Ladies Global code of conduct: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nFinally, for more information:\nemail: bmore@rladies.org\ntwitter: @RLadiesBmore\nfacebook: https://www.facebook.com/RLadiesBmore/\nmeetup: https://www.meetup.com/rladies-baltimore/",
+    "status": "PAST",
+    "dateTime": "2021-04-01T15:00:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-baltimore/events/273502938/",
+    "featuredEventPhoto": {
+      "id": "492520445",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/d/f/d/highres_492520445.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/d/f/d/600_492520445.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/d/f/d/thumb_492520445.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 143,
+      "waitlistCount": 0,
+      "totalCount": 143
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Baltimore",
+      "urlname": "rladies-baltimore"
+    },
+    "createdTime": "2020-09-25T08:53:26-04:00"
+  },
+  {
+    "id": "273335353",
+    "title": "R-Ladies Baltimore -- An intro to tidymodels for tidy machine learning (Virtual)",
+    "description": "R-Ladies Baltimore (Bmore) is the local Baltimore chapter for the larger R-Ladies global organization (rladies.org) to promote gender diversity in the R community.\n\nThe next event is Tuesday March 9, 2021 from 3-4:30pm (virtual meetup on Zoom). We will have an exciting presentation from Rebecca Barter (http://www.rebeccabarter.com) currently a Postdoctoral Fellow at UC Berkeley! She will give an introduction to tidymodels (https://www.tidymodels.org) for tidy machine learning! This is an incredibly cool topic and the tidymodels package is a very powerful tool to build and implement machine learning algorithms in R in a tidy way.\n\nWHO is this for?\n- If you are new to R & want to learn about an incredibly powerful package!\n- If you know about machine learning, and want to learn how to do it in R in a tidy way!\n- If you know about tidy data, and want to know about machine learning in R!\n\n*If any/all of this is true, this event might be for you!*\n\nAGENDA\n3:00–3:15pm Who we are | Announcements | What's next\n3:15–4pm Presentation: An introduction to tidymodels for tidy machine learning\n4–4:30pm Networking -- Any more Qs?\n\nDetails on the location:\nThe Zoom information will be sent to those who RSVP the week before the event.\n\nFAQ:\nQ: Are men welcome to attend R-Ladies events?\nA: Yes, men are welcome at this event. Our mission is to encourage more women and non-binary individuals to get involved in the R community. However, we ask that cis men come as guests of women and gender minorities to our events to promote a sense support and encouragement for women and gender minorities in the R community. Please help us by spreading the word about R-Ladies. Please also take the time to review our code of conduct before you attend: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nThe term \"women and gender minorities\" is inclusive of individuals who identify as female (trans and cis), trans-men, non-binary, genderqueer, genderfluid, agender, intersex, and all minority genders).\n\nImportant to know:\n- If this is your first R-Ladies event, please take a moment to review our R-Ladies Global code of conduct: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nFinally, for more information:\nemail: bmore@rladies.org\ntwitter: @RLadiesBmore\nfacebook: https://www.facebook.com/RLadiesBmore/\nmeetup: https://www.meetup.com/rladies-baltimore/",
+    "status": "PAST",
+    "dateTime": "2021-03-09T15:00:00-05:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-baltimore/events/273335353/",
+    "featuredEventPhoto": {
+      "id": "492431153",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/b/9/1/highres_492431153.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/b/9/1/600_492431153.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/b/9/1/thumb_492431153.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 127,
+      "waitlistCount": 0,
+      "totalCount": 127
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Baltimore",
+      "urlname": "rladies-baltimore"
+    },
+    "createdTime": "2020-09-17T22:17:31-04:00"
+  },
+  {
+    "id": "273335238",
+    "title": "R-Ladies Bmore -- Let's get meta: analyzing your R code with tidycode (Virtual)",
+    "description": "R-Ladies Baltimore (Bmore) is the local Baltimore chapter for the larger R-Ladies global organization (rladies.org) to promote gender diversity in the R community.\n\nThe next event is Thursday February 11, 2021 from 3-4:30pm (virtual meetup on Zoom). We will have an exciting presentation from Lucy D'Agostino McGowan (https://www.lucymcgowan.com) an Assistant Professor in Statistics, Wake Forest University. She will give a presentation on two R packages: matahari (https://github.com/jhudsl/matahari) and tidycode (https://lucymcgowan.github.io/tidycode/). The matahari package is a simple package for tidy logging of everything you type into the R console. The tidycode package allows users to analyze R expressions in a tidy way (i.e. take the code captured from matahari and put it in a tidy table for downstream analysis with the tidyverse).\n\nWHO is this for?\n- If you are new to R & want to see some cool things R can do!\n- If you work with messy R expressions and want to know how to tidy them up!\n\n*If any/all of this is true, this event might be for you!*\n\nAGENDA\n3:00–3:15pm Who we are | Announcements | What's next\n3:15–4pm Presentation: Let's get meta: analyzing your R code with tidycode\n4–4:30pm Networking -- Any more Qs?\n\nDetails on the location:\nThe Zoom information will be sent to those who RSVP the week before the event.\n\nFAQ:\nQ: Are men welcome to attend R-Ladies events?\nA: Yes, men are welcome at this event. Our mission is to encourage more women and non-binary individuals to get involved in the R community. However, we ask that cis men come as guests of women and gender minorities to our events to promote a sense support and encouragement for women and gender minorities in the R community. Please help us by spreading the word about R-Ladies. Please also take the time to review our code of conduct before you attend: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nThe term \"women and gender minorities\" is inclusive of individuals who identify as female (trans and cis), trans-men, non-binary, genderqueer, genderfluid, agender, intersex, and all minority genders).\n\nImportant to know:\n- If this is your first R-Ladies event, please take a moment to review our R-Ladies Global code of conduct: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nFinally, for more information:\nemail: bmore@rladies.org\ntwitter: @RLadiesBmore\nfacebook: https://www.facebook.com/RLadiesBmore/\nmeetup: https://www.meetup.com/rladies-baltimore/",
+    "status": "PAST",
+    "dateTime": "2021-02-11T15:00:00-05:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-baltimore/events/273335238/",
+    "featuredEventPhoto": {
+      "id": "492431025",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/b/1/1/highres_492431025.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/b/1/1/600_492431025.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/b/1/1/thumb_492431025.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 77,
+      "waitlistCount": 0,
+      "totalCount": 77
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Baltimore",
+      "urlname": "rladies-baltimore"
+    },
+    "createdTime": "2020-09-17T22:07:19-04:00"
+  },
+  {
+    "id": "273335104",
+    "title": "R-Ladies Baltimore -- An introduction to the R/Bioconductor Ecosystem (Virtual)",
+    "description": "R-Ladies Baltimore (Bmore) is the local Baltimore chapter for the larger R-Ladies global organization (rladies.org) to promote gender diversity in the R community.\n\nThe next event is Thursday January 28, 2021 from 3-4:30pm (virtual meetup on Zoom). We will have an exciting presentation from Jocelyn Chavez (https://josschavezf.netlify.app) a Ph.D. student at the Biotechnology Institute-UNAM in Mexico! She will give an introduction to the R/Bioconductor (http://bioconductor.org) ecosystem, using Bioconductor packages, contributing packages, how to get help, attending the annual conference, and also sharing her experience with Bioconductor in general. If you haven't heard of Bioconductor, you can think of it like a cousin to CRAN, but for the analysis of biological data.\n\nWHO is this for?\n- If you are new to R & want to know more about what is Bioconductor!\n- If you work with biological data in R, but are unfamiliar with Bioconductor!\n- If you are interested contributing to Bioconductor to analyze biological data!\n\n*If any/all of this is true, this event might be for you!*\n\nAGENDA\n3:00–3:15pm Who we are | Announcements | What's next\n3:15–4pm Presentation: An introduction to the R/Bioconductor Ecosystem\n4–4:30pm Networking -- Any more Qs?\n\nDetails on the location:\nThe Zoom information will be sent to those who RSVP the week before the event.\n\nFAQ:\nQ: Are men welcome to attend R-Ladies events?\nA: Yes, men are welcome at this event. Our mission is to encourage more women and non-binary individuals to get involved in the R community. However, we ask that cis men come as guests of women and gender minorities to our events to promote a sense support and encouragement for women and gender minorities in the R community. Please help us by spreading the word about R-Ladies. Please also take the time to review our code of conduct before you attend: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nThe term \"women and gender minorities\" is inclusive of individuals who identify as female (trans and cis), trans-men, non-binary, genderqueer, genderfluid, agender, intersex, and all minority genders).\n\nImportant to know:\n- If this is your first R-Ladies event, please take a moment to review our R-Ladies Global code of conduct: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nFinally, for more information:\nemail: bmore@rladies.org\ntwitter: @RLadiesBmore\nfacebook: https://www.facebook.com/RLadiesBmore/\nmeetup: https://www.meetup.com/rladies-baltimore/",
+    "status": "PAST",
+    "dateTime": "2021-01-28T15:00:00-05:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-baltimore/events/273335104/",
+    "featuredEventPhoto": {
+      "id": "492430934",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/a/b/6/highres_492430934.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/a/b/6/600_492430934.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/a/b/6/thumb_492430934.jpeg"
     },
     "rsvps": {
       "yesCount": 52,
@@ -719,17 +933,184 @@
     "group": {
       "name": "R-Ladies Baltimore",
       "urlname": "rladies-baltimore"
-    }
+    },
+    "createdTime": "2020-09-17T21:55:19-04:00"
   },
   {
-    "id": "273335413",
-    "title": "R-Ladies Baltimore -- Recursion in R with purrr (Virtual)",
-    "description": "R-Ladies Baltimore (Bmore) is the local Baltimore chapter for the larger R-Ladies global organization (rladies.org) to promote gender diversity in the R community.\n\nThe next event is Tuesday May 18, 2021 from 12-1:30pm (virtual meetup on Zoom). We will have an exciting presentation on Recursion in R with the purrr R package (speaker TBA).\n\nWHO is this for?\n- If you are new to R & want to learn about an incredibly powerful package!\n- If you've experience the need for recursion (or functional programming), and want to learn how to do it in R!\n- If you know about tidy data, and want to know what is functional programming and how it can change your life!\n\n*If any/all of this is true, this event might be for you!*\n\nAGENDA\n12:00–12:15pm Who we are | Announcements | What's next\n12:15–1pm Presentation: Recursion in R with the purrr R package\n1–1:30pm Networking -- Any more Qs?\n\nDetails on the location:\nThe Zoom information will be sent to those who RSVP the week before the event.\n\nFAQ:\nQ: Are men welcome to attend R-Ladies events?\nA: Yes, men are welcome at this event. Our mission is to encourage more women and non-binary individuals to get involved in the R community. However, we ask that cis men come as guests of women and gender minorities to our events to promote a sense support and encouragement for women and gender minorities in the R community. Please help us by spreading the word about R-Ladies. Please also take the time to review our code of conduct before you attend: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nThe term \"women and gender minorities\" is inclusive of individuals who identify as female (trans and cis), trans-men, non-binary, genderqueer, genderfluid, agender, intersex, and all minority genders).\n\nImportant to know:\n- If this is your first R-Ladies event, please take a moment to review our R-Ladies Global code of conduct: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nFinally, for more information:\nemail: bmore@rladies.org\ntwitter: @RLadiesBmore\nfacebook: https://www.facebook.com/RLadiesBmore/\nmeetup: https://www.meetup.com/rladies-baltimore/",
-    "status": "CANCELLED",
-    "dateTime": "2021-06-15T12:00:00-04:00",
+    "id": "285446913",
+    "title": "R-Ladies Baltimore -- Make your R code purr with purrr (Virtual)",
+    "description": "R-Ladies Baltimore (Bmore) is excited to host a meetup on Wednesday May 4, 2022 from 3-4:30pm (virtual meetup on Zoom). We will have an awesome presentation from Isabella Ghement (@IsabellaGhement, http://www.ghement.ca/index.html) the principal of Ghement Statistical Consulting Company and an expert statistician, R trainer and statistical consultant. She will be giving an presentation to how to use the R package purrr.\n\nWHO is this for?\n\n* If you are new to R but want to learn more about the things you can do with purrr\n* If you know R, but want to expand your knowledge about using purrr in your code\n\n*If any/all of this is true, this event might be for you!*\n\nAGENDA\n3:00–3:15pm Who we are \\| Announcements \\| What's next\n3:15–4 pm Presentation: Make your R code purr with purrr\n4–4:30pm Networking -- Any more Qs?\n\nDetails on the location:\nThe Zoom information will be sent to those who RSVP the week before the event.\n\nFAQ:\nQ: Are men welcome to attend R-Ladies events?\nA: Yes, men are welcome at this event. Our mission is to encourage more women and non-binary individuals to get involved in the R community. However, we ask that cis men come as guests of women and gender minorities to our events to promote a sense support and encouragement for women and gender minorities in the R community. Please help us by spreading the word about R-Ladies. Please also take the time to review our code of conduct before you attend: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nThe term \"women and gender minorities\" is inclusive of individuals who identify as female (trans and cis), trans-men, non-binary, genderqueer, genderfluid, agender, intersex, and all minority genders).\n\nImportant to know:\n\n* If this is your first R-Ladies event, please take a moment to review our R-Ladies Global code of conduct: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nFinally, for more information:\nemail: bmore@rladies.org\ntwitter: @RLadiesBmore\nfacebook: https://www.facebook.com/RLadiesBmore/\nmeetup: https://www.meetup.com/rladies-baltimore/",
+    "status": "PAST",
+    "dateTime": "2022-05-04T15:00:00-04:00",
     "duration": "PT1H30M",
-    "eventUrl": "https://www.meetup.com/rladies-baltimore/events/273335413/",
-    "featuredEventPhoto": {},
+    "eventUrl": "https://www.meetup.com/rladies-baltimore/events/285446913/",
+    "featuredEventPhoto": {
+      "id": "503568154",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/c/1/a/highres_503568154.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/c/1/a/600_503568154.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/c/1/a/thumb_503568154.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 87,
+      "waitlistCount": 0,
+      "totalCount": 87
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Baltimore",
+      "urlname": "rladies-baltimore"
+    },
+    "createdTime": "2022-04-22T16:58:20-04:00"
+  },
+  {
+    "id": "284623205",
+    "title": "R-Ladies Baltimore -- Improving your workflow with APIs (Virtual)",
+    "description": "R-Ladies Baltimore (Bmore) is excited to host a meetup on Tuesday April 19, 2022 from 3-4:30pm (virtual meetup on Zoom). We will have an inspirational presentation from Reina Murray, Geospatial Data Curator and Applications Administrator at the Johns Hopkins Sheridan Library (https://www.library.jhu.edu/staff/reina-chano-murray/). She will be giving an introduction to interacting with APIs in R.\n\nWHO is this for?\n\n* If you are new to R and want to learn how to interact with APIs\n* If you know R, but want to expand your knowledge about connecting with APIs from inside of R.\n\n*If any/all of this is true, this event might be for you!*\n\nAGENDA\n3:00–3:15pm Who we are \\| Announcements \\| What's next\n3:15–4 pm Presentation: Improving your workflow with APIs\n4–4:30pm Networking -- Any more Qs?\n\nDetails on the location:\nThe Zoom information will be sent to those who RSVP the week before the event.\n\nFAQ:\nQ: Are men welcome to attend R-Ladies events?\nA: Yes, men are welcome at this event. Our mission is to encourage more women and non-binary individuals to get involved in the R community. However, we ask that cis men come as guests of women and gender minorities to our events to promote a sense support and encouragement for women and gender minorities in the R community. Please help us by spreading the word about R-Ladies. Please also take the time to review our code of conduct before you attend: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nThe term \"women and gender minorities\" is inclusive of individuals who identify as female (trans and cis), trans-men, non-binary, genderqueer, genderfluid, agender, intersex, and all minority genders).\n\nImportant to know:\n\n* If this is your first R-Ladies event, please take a moment to review our R-Ladies Global code of conduct: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nFinally, for more information:\nemail: bmore@rladies.org\ntwitter: @RLadiesBmore\nfacebook: https://www.facebook.com/RLadiesBmore/\nmeetup: https://www.meetup.com/rladies-baltimore/",
+    "status": "CANCELLED",
+    "dateTime": "2022-04-19T15:00:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-baltimore/events/284623205/",
+    "featuredEventPhoto": {
+      "id": "502690888",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/a/8/8/highres_502690888.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/a/8/8/600_502690888.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/a/8/8/thumb_502690888.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 53,
+      "waitlistCount": 0,
+      "totalCount": 53
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Baltimore",
+      "urlname": "rladies-baltimore"
+    },
+    "createdTime": "2022-03-14T21:39:27-04:00"
+  },
+  {
+    "id": "283231748",
+    "title": "R-Ladies Baltimore -- How to use R with Excel (Virtual)",
+    "description": "R-Ladies Baltimore (Bmore) is excited to host a meetup on Thursday March 24, 2022 from 3-4:30pm (virtual meetup on Zoom). We will have an informative presentation from Alyssa Columbus (@alycolumbus, alyssacolumbus.com) a graduate student at Johns Hopkins University and a founder of R-Ladies Irvine. She will be giving an introduction to how to use R with Excel. Materials for the meetup are available on GitHub at [https://github.com/acolum/r-ladies-baltimore-r-and-excel](https://github.com/acolum/r-ladies-baltimore-r-and-excel).\n\nWHO is this for?\n\n* If you are new to R but perhaps know Excel and want to learn about how they can interact\n* If you know R, but want to expand your knowledge about effective and efficient interactions between R and Excel\n\n*If any/all of this is true, this event might be for you!*\n\nAGENDA\n3:00–3:15pm Who we are \\| Announcements \\| What's next\n3:15–4 pm Presentation: How to use R with Excel\n4–4:30pm Networking -- Any more Qs?\n\nDetails on the location:\nThe Zoom information will be sent to those who RSVP the week before the event.\n\nFAQ:\nQ: Are men welcome to attend R-Ladies events?\nA: Yes, men are welcome at this event. Our mission is to encourage more women and non-binary individuals to get involved in the R community. However, we ask that cis men come as guests of women and gender minorities to our events to promote a sense support and encouragement for women and gender minorities in the R community. Please help us by spreading the word about R-Ladies. Please also take the time to review our code of conduct before you attend: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nThe term \"women and gender minorities\" is inclusive of individuals who identify as female (trans and cis), trans-men, non-binary, genderqueer, genderfluid, agender, intersex, and all minority genders).\n\nImportant to know:\n\n* If this is your first R-Ladies event, please take a moment to review our R-Ladies Global code of conduct: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nFinally, for more information:\nemail: bmore@rladies.org\ntwitter: @RLadiesBmore\nfacebook: https://www.facebook.com/RLadiesBmore/\nmeetup: https://www.meetup.com/rladies-baltimore/",
+    "status": "PAST",
+    "dateTime": "2022-03-24T15:00:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-baltimore/events/283231748/",
+    "featuredEventPhoto": {
+      "id": "501343509",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/9/f/5/highres_501343509.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/9/f/5/600_501343509.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/9/f/5/thumb_501343509.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 133,
+      "waitlistCount": 0,
+      "totalCount": 133
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Baltimore",
+      "urlname": "rladies-baltimore"
+    },
+    "createdTime": "2022-01-12T21:10:30-05:00"
+  },
+  {
+    "id": "283231621",
+    "title": "R-Ladies Baltimore -- Data Privacy Preserving Applications with R (Virtual)",
+    "description": "R-Ladies Baltimore (Bmore) is excited to host a meetup on Tuesday February 22, 2022 from 3-4:30pm (virtual meetup on Zoom). We will have an informative presentation from Claire McKay Bowen (@ClaireMKBowen, https://clairemckaybowen.com), Principal Research Associate at the Urban Institute. She will be giving an introduction to data privacy preserving applications in R. Materials for the presentation can be found at https://github.com/ClaireMcKayBowen/r-ladies-baltimore-privacy-talk\n\nWHO is this for?\n- If you are new to R and want to learn how to use data privacy preserving applications\n- If you know R, but want to expand your knowledge about maintaining data privacy and confidentiality in your work\n\n*If any/all of this is true, this event might be for you!*\n\nAGENDA\n3:00–3:15pm Who we are | Announcements | What's next\n3:15–4 pm Presentation: Data Privacy Preserving Applications in R\n4–4:30pm Networking -- Any more Qs?\n\nDetails on the location:\nThe Zoom information will be sent to those who RSVP the week before the event.\n\nFAQ:\nQ: Are men welcome to attend R-Ladies events?\nA: Yes, men are welcome at this event. Our mission is to encourage more women and non-binary individuals to get involved in the R community. However, we ask that cis men come as guests of women and gender minorities to our events to promote a sense support and encouragement for women and gender minorities in the R community. Please help us by spreading the word about R-Ladies. Please also take the time to review our code of conduct before you attend: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nThe term \"women and gender minorities\" is inclusive of individuals who identify as female (trans and cis), trans-men, non-binary, genderqueer, genderfluid, agender, intersex, and all minority genders).\n\nImportant to know:\n- If this is your first R-Ladies event, please take a moment to review our R-Ladies Global code of conduct: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nFinally, for more information:\nemail: bmore@rladies.org\ntwitter: @RLadiesBmore\nfacebook: https://www.facebook.com/RLadiesBmore/\nmeetup: https://www.meetup.com/rladies-baltimore/",
+    "status": "PAST",
+    "dateTime": "2022-02-22T15:00:00-05:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-baltimore/events/283231621/",
+    "featuredEventPhoto": {
+      "id": "501343288",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/9/1/8/highres_501343288.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/9/1/8/600_501343288.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/9/1/8/thumb_501343288.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 65,
+      "waitlistCount": 0,
+      "totalCount": 65
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Baltimore",
+      "urlname": "rladies-baltimore"
+    },
+    "createdTime": "2022-01-12T20:53:29-05:00"
+  },
+  {
+    "id": "281623253",
+    "title": "R-Ladies Baltimore and Washington DC -- Introduction to bookdown (Virtual)",
+    "description": "**Special co-hosted event!**\n\nR-Ladies Baltimore (Bmore) and R-Ladies Washington DC are excited to co-host a meetup on Tuesday January 25, 2022 from 5-6:30pm (virtual meetup on Zoom). We will have an exciting presentation from Sam Tyner (@sctyner, https://sctyner.me), Data Scientist at Tritura, and a co-organizer of R-Ladies DC. She will be giving an introduction to the bookdown (https://bookdown.org) R package.\n\nWHO is this for?\n- If you are new to R and R Markdown & want to learn a cool thing you can do in R\n- If you are a know R, but want to learn how write books and articles/reports with R Markdown\n\n*If any/all of this is true, this event might be for you!*\n\nAGENDA\n5:00–5:15pm Who we are | Announcements | What's next\n5:15–6 pm Presentation: Introduction to bookdown\n6–6:30pm Networking -- Any more Qs?\n\nDetails on the location:\nThe Zoom information will be sent to those who RSVP the week before the event.\n\nFAQ:\nQ: Are men welcome to attend R-Ladies events?\nA: Yes, men are welcome at this event. Our mission is to encourage more women and non-binary individuals to get involved in the R community. However, we ask that cis men come as guests of women and gender minorities to our events to promote a sense support and encouragement for women and gender minorities in the R community. Please help us by spreading the word about R-Ladies. Please also take the time to review our code of conduct before you attend: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nThe term \"women and gender minorities\" is inclusive of individuals who identify as female (trans and cis), trans-men, non-binary, genderqueer, genderfluid, agender, intersex, and all minority genders).\n\nImportant to know:\n- If this is your first R-Ladies event, please take a moment to review our R-Ladies Global code of conduct: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nFinally, for more information:\nemail: bmore@rladies.org\ntwitter: @RLadiesBmore\nfacebook: https://www.facebook.com/RLadiesBmore/\nmeetup: https://www.meetup.com/rladies-baltimore/",
+    "status": "PAST",
+    "dateTime": "2022-01-25T17:00:00-05:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-baltimore/events/281623253/",
+    "featuredEventPhoto": {
+      "id": "499696379",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/f/f/b/highres_499696379.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/f/f/b/600_499696379.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/f/f/b/thumb_499696379.jpeg"
+    },
     "rsvps": {
       "yesCount": 91,
       "waitlistCount": 0,
@@ -752,358 +1133,8 @@
     "group": {
       "name": "R-Ladies Baltimore",
       "urlname": "rladies-baltimore"
-    }
-  },
-  {
-    "id": "273502938",
-    "title": "R-Ladies Baltimore -- Building websites in RStudio (Virtual)",
-    "description": "R-Ladies Baltimore (Bmore) is the local Baltimore chapter for the larger R-Ladies global organization (rladies.org) to promote gender diversity in the R community.\n\nThe next event is Thursday April 1, 2021 from 3-4:30pm (virtual meetup on Zoom). We will have an exciting presentation from Maria Tackett (https://www.mariatackett.net) an Assistant Professor of the Practice in the Department of Statistical Science at Duke University! She will give a talk on how to build websites using RStudio! If you've ever thought about making a website for yourself or your project, you won't want to miss this wonderful presentation!\n\nWHO is this for?\n- If you are new to R & want to learn about an incredibly powerful package!\n- If you need to make a website, and want to learn how to do it in R!\n- If you have a website, and want to learn how to convert it to a website in R!\n\n*If any/all of this is true, this event might be for you!*\n\nAGENDA\n3:00–3:15pm Who we are | Announcements | What's next\n3:15–4pm Presentation: Building websites in RStudio\n4–4:30pm Networking -- Any more Qs?\n\nDetails on the location:\nThe Zoom information will be sent to those who RSVP the week before the event.\n\nFAQ:\nQ: Are men welcome to attend R-Ladies events?\nA: Yes, men are welcome at this event. Our mission is to encourage more women and non-binary individuals to get involved in the R community. However, we ask that cis men come as guests of women and gender minorities to our events to promote a sense support and encouragement for women and gender minorities in the R community. Please help us by spreading the word about R-Ladies. Please also take the time to review our code of conduct before you attend: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nThe term \"women and gender minorities\" is inclusive of individuals who identify as female (trans and cis), trans-men, non-binary, genderqueer, genderfluid, agender, intersex, and all minority genders).\n\nImportant to know:\n- If this is your first R-Ladies event, please take a moment to review our R-Ladies Global code of conduct: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nFinally, for more information:\nemail: bmore@rladies.org\ntwitter: @RLadiesBmore\nfacebook: https://www.facebook.com/RLadiesBmore/\nmeetup: https://www.meetup.com/rladies-baltimore/",
-    "status": "PAST",
-    "dateTime": "2021-04-01T15:00:00-04:00",
-    "duration": "PT1H30M",
-    "eventUrl": "https://www.meetup.com/rladies-baltimore/events/273502938/",
-    "featuredEventPhoto": {
-      "id": "492520445",
-      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/d/f/d/highres_492520445.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/d/f/d/600_492520445.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/d/f/d/thumb_492520445.jpeg"
     },
-    "rsvps": {
-      "yesCount": 158,
-      "waitlistCount": 0,
-      "totalCount": 158
-    },
-    "venues": [
-      {
-        "id": "26906060",
-        "name": "Online event",
-        "address": "",
-        "city": "",
-        "state": "",
-        "country": "",
-        "lat": -8.5211,
-        "lon": 179.1962,
-        "postalCode": "",
-        "venueType": "online"
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Baltimore",
-      "urlname": "rladies-baltimore"
-    }
-  },
-  {
-    "id": "273335353",
-    "title": "R-Ladies Baltimore -- An intro to tidymodels for tidy machine learning (Virtual)",
-    "description": "R-Ladies Baltimore (Bmore) is the local Baltimore chapter for the larger R-Ladies global organization (rladies.org) to promote gender diversity in the R community.\n\nThe next event is Tuesday March 9, 2021 from 3-4:30pm (virtual meetup on Zoom). We will have an exciting presentation from Rebecca Barter (http://www.rebeccabarter.com) currently a Postdoctoral Fellow at UC Berkeley! She will give an introduction to tidymodels (https://www.tidymodels.org) for tidy machine learning! This is an incredibly cool topic and the tidymodels package is a very powerful tool to build and implement machine learning algorithms in R in a tidy way.\n\nWHO is this for?\n- If you are new to R & want to learn about an incredibly powerful package!\n- If you know about machine learning, and want to learn how to do it in R in a tidy way!\n- If you know about tidy data, and want to know about machine learning in R!\n\n*If any/all of this is true, this event might be for you!*\n\nAGENDA\n3:00–3:15pm Who we are | Announcements | What's next\n3:15–4pm Presentation: An introduction to tidymodels for tidy machine learning\n4–4:30pm Networking -- Any more Qs?\n\nDetails on the location:\nThe Zoom information will be sent to those who RSVP the week before the event.\n\nFAQ:\nQ: Are men welcome to attend R-Ladies events?\nA: Yes, men are welcome at this event. Our mission is to encourage more women and non-binary individuals to get involved in the R community. However, we ask that cis men come as guests of women and gender minorities to our events to promote a sense support and encouragement for women and gender minorities in the R community. Please help us by spreading the word about R-Ladies. Please also take the time to review our code of conduct before you attend: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nThe term \"women and gender minorities\" is inclusive of individuals who identify as female (trans and cis), trans-men, non-binary, genderqueer, genderfluid, agender, intersex, and all minority genders).\n\nImportant to know:\n- If this is your first R-Ladies event, please take a moment to review our R-Ladies Global code of conduct: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nFinally, for more information:\nemail: bmore@rladies.org\ntwitter: @RLadiesBmore\nfacebook: https://www.facebook.com/RLadiesBmore/\nmeetup: https://www.meetup.com/rladies-baltimore/",
-    "status": "PAST",
-    "dateTime": "2021-03-09T15:00:00-05:00",
-    "duration": "PT1H30M",
-    "eventUrl": "https://www.meetup.com/rladies-baltimore/events/273335353/",
-    "featuredEventPhoto": {
-      "id": "492431153",
-      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/b/9/1/highres_492431153.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/b/9/1/600_492431153.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/b/9/1/thumb_492431153.jpeg"
-    },
-    "rsvps": {
-      "yesCount": 140,
-      "waitlistCount": 0,
-      "totalCount": 140
-    },
-    "venues": [
-      {
-        "id": "26906060",
-        "name": "Online event",
-        "address": "",
-        "city": "",
-        "state": "",
-        "country": "",
-        "lat": -8.5211,
-        "lon": 179.1962,
-        "postalCode": "",
-        "venueType": "online"
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Baltimore",
-      "urlname": "rladies-baltimore"
-    }
-  },
-  {
-    "id": "273335238",
-    "title": "R-Ladies Bmore -- Let's get meta: analyzing your R code with tidycode (Virtual)",
-    "description": "R-Ladies Baltimore (Bmore) is the local Baltimore chapter for the larger R-Ladies global organization (rladies.org) to promote gender diversity in the R community.\n\nThe next event is Thursday February 11, 2021 from 3-4:30pm (virtual meetup on Zoom). We will have an exciting presentation from Lucy D'Agostino McGowan (https://www.lucymcgowan.com) an Assistant Professor in Statistics, Wake Forest University. She will give a presentation on two R packages: matahari (https://github.com/jhudsl/matahari) and tidycode (https://lucymcgowan.github.io/tidycode/). The matahari package is a simple package for tidy logging of everything you type into the R console. The tidycode package allows users to analyze R expressions in a tidy way (i.e. take the code captured from matahari and put it in a tidy table for downstream analysis with the tidyverse).\n\nWHO is this for?\n- If you are new to R & want to see some cool things R can do!\n- If you work with messy R expressions and want to know how to tidy them up!\n\n*If any/all of this is true, this event might be for you!*\n\nAGENDA\n3:00–3:15pm Who we are | Announcements | What's next\n3:15–4pm Presentation: Let's get meta: analyzing your R code with tidycode\n4–4:30pm Networking -- Any more Qs?\n\nDetails on the location:\nThe Zoom information will be sent to those who RSVP the week before the event.\n\nFAQ:\nQ: Are men welcome to attend R-Ladies events?\nA: Yes, men are welcome at this event. Our mission is to encourage more women and non-binary individuals to get involved in the R community. However, we ask that cis men come as guests of women and gender minorities to our events to promote a sense support and encouragement for women and gender minorities in the R community. Please help us by spreading the word about R-Ladies. Please also take the time to review our code of conduct before you attend: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nThe term \"women and gender minorities\" is inclusive of individuals who identify as female (trans and cis), trans-men, non-binary, genderqueer, genderfluid, agender, intersex, and all minority genders).\n\nImportant to know:\n- If this is your first R-Ladies event, please take a moment to review our R-Ladies Global code of conduct: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nFinally, for more information:\nemail: bmore@rladies.org\ntwitter: @RLadiesBmore\nfacebook: https://www.facebook.com/RLadiesBmore/\nmeetup: https://www.meetup.com/rladies-baltimore/",
-    "status": "PAST",
-    "dateTime": "2021-02-11T15:00:00-05:00",
-    "duration": "PT1H30M",
-    "eventUrl": "https://www.meetup.com/rladies-baltimore/events/273335238/",
-    "featuredEventPhoto": {
-      "id": "492431025",
-      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/b/1/1/highres_492431025.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/b/1/1/600_492431025.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/b/1/1/thumb_492431025.jpeg"
-    },
-    "rsvps": {
-      "yesCount": 82,
-      "waitlistCount": 0,
-      "totalCount": 82
-    },
-    "venues": [
-      {
-        "id": "26906060",
-        "name": "Online event",
-        "address": "",
-        "city": "",
-        "state": "",
-        "country": "",
-        "lat": -8.5211,
-        "lon": 179.1962,
-        "postalCode": "",
-        "venueType": "online"
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Baltimore",
-      "urlname": "rladies-baltimore"
-    }
-  },
-  {
-    "id": "273335104",
-    "title": "R-Ladies Baltimore -- An introduction to the R/Bioconductor Ecosystem (Virtual)",
-    "description": "R-Ladies Baltimore (Bmore) is the local Baltimore chapter for the larger R-Ladies global organization (rladies.org) to promote gender diversity in the R community.\n\nThe next event is Thursday January 28, 2021 from 3-4:30pm (virtual meetup on Zoom). We will have an exciting presentation from Jocelyn Chavez (https://josschavezf.netlify.app) a Ph.D. student at the Biotechnology Institute-UNAM in Mexico! She will give an introduction to the R/Bioconductor (http://bioconductor.org) ecosystem, using Bioconductor packages, contributing packages, how to get help, attending the annual conference, and also sharing her experience with Bioconductor in general. If you haven't heard of Bioconductor, you can think of it like a cousin to CRAN, but for the analysis of biological data.\n\nWHO is this for?\n- If you are new to R & want to know more about what is Bioconductor!\n- If you work with biological data in R, but are unfamiliar with Bioconductor!\n- If you are interested contributing to Bioconductor to analyze biological data!\n\n*If any/all of this is true, this event might be for you!*\n\nAGENDA\n3:00–3:15pm Who we are | Announcements | What's next\n3:15–4pm Presentation: An introduction to the R/Bioconductor Ecosystem\n4–4:30pm Networking -- Any more Qs?\n\nDetails on the location:\nThe Zoom information will be sent to those who RSVP the week before the event.\n\nFAQ:\nQ: Are men welcome to attend R-Ladies events?\nA: Yes, men are welcome at this event. Our mission is to encourage more women and non-binary individuals to get involved in the R community. However, we ask that cis men come as guests of women and gender minorities to our events to promote a sense support and encouragement for women and gender minorities in the R community. Please help us by spreading the word about R-Ladies. Please also take the time to review our code of conduct before you attend: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nThe term \"women and gender minorities\" is inclusive of individuals who identify as female (trans and cis), trans-men, non-binary, genderqueer, genderfluid, agender, intersex, and all minority genders).\n\nImportant to know:\n- If this is your first R-Ladies event, please take a moment to review our R-Ladies Global code of conduct: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nFinally, for more information:\nemail: bmore@rladies.org\ntwitter: @RLadiesBmore\nfacebook: https://www.facebook.com/RLadiesBmore/\nmeetup: https://www.meetup.com/rladies-baltimore/",
-    "status": "PAST",
-    "dateTime": "2021-01-28T15:00:00-05:00",
-    "duration": "PT1H30M",
-    "eventUrl": "https://www.meetup.com/rladies-baltimore/events/273335104/",
-    "featuredEventPhoto": {
-      "id": "492430934",
-      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/a/b/6/highres_492430934.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/a/b/6/600_492430934.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/a/b/6/thumb_492430934.jpeg"
-    },
-    "rsvps": {
-      "yesCount": 58,
-      "waitlistCount": 0,
-      "totalCount": 58
-    },
-    "venues": [
-      {
-        "id": "26906060",
-        "name": "Online event",
-        "address": "",
-        "city": "",
-        "state": "",
-        "country": "",
-        "lat": -8.5211,
-        "lon": 179.1962,
-        "postalCode": "",
-        "venueType": "online"
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Baltimore",
-      "urlname": "rladies-baltimore"
-    }
-  },
-  {
-    "id": "285446913",
-    "title": "R-Ladies Baltimore -- Make your R code purr with purrr (Virtual)",
-    "description": "R-Ladies Baltimore (Bmore) is excited to host a meetup on Wednesday May 4, 2022 from 3-4:30pm (virtual meetup on Zoom). We will have an awesome presentation from Isabella Ghement (@IsabellaGhement, http://www.ghement.ca/index.html) the principal of Ghement Statistical Consulting Company and an expert statistician, R trainer and statistical consultant. She will be giving an presentation to how to use the R package purrr.\n\nWHO is this for?\n\n* If you are new to R but want to learn more about the things you can do with purrr\n* If you know R, but want to expand your knowledge about using purrr in your code\n\n*If any/all of this is true, this event might be for you!*\n\nAGENDA\n3:00–3:15pm Who we are \\| Announcements \\| What's next\n3:15–4 pm Presentation: Make your R code purr with purrr\n4–4:30pm Networking -- Any more Qs?\n\nDetails on the location:\nThe Zoom information will be sent to those who RSVP the week before the event.\n\nFAQ:\nQ: Are men welcome to attend R-Ladies events?\nA: Yes, men are welcome at this event. Our mission is to encourage more women and non-binary individuals to get involved in the R community. However, we ask that cis men come as guests of women and gender minorities to our events to promote a sense support and encouragement for women and gender minorities in the R community. Please help us by spreading the word about R-Ladies. Please also take the time to review our code of conduct before you attend: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nThe term \"women and gender minorities\" is inclusive of individuals who identify as female (trans and cis), trans-men, non-binary, genderqueer, genderfluid, agender, intersex, and all minority genders).\n\nImportant to know:\n\n* If this is your first R-Ladies event, please take a moment to review our R-Ladies Global code of conduct: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nFinally, for more information:\nemail: bmore@rladies.org\ntwitter: @RLadiesBmore\nfacebook: https://www.facebook.com/RLadiesBmore/\nmeetup: https://www.meetup.com/rladies-baltimore/",
-    "status": "PAST",
-    "dateTime": "2022-05-04T15:00:00-04:00",
-    "duration": "PT1H30M",
-    "eventUrl": "https://www.meetup.com/rladies-baltimore/events/285446913/",
-    "featuredEventPhoto": {
-      "id": "503568154",
-      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/c/1/a/highres_503568154.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/c/1/a/600_503568154.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/c/1/a/thumb_503568154.jpeg"
-    },
-    "rsvps": {
-      "yesCount": 89,
-      "waitlistCount": 0,
-      "totalCount": 89
-    },
-    "venues": [
-      {
-        "id": "26906060",
-        "name": "Online event",
-        "address": "",
-        "city": "",
-        "state": "",
-        "country": "",
-        "lat": -8.5211,
-        "lon": 179.1962,
-        "postalCode": "",
-        "venueType": "online"
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Baltimore",
-      "urlname": "rladies-baltimore"
-    }
-  },
-  {
-    "id": "284623205",
-    "title": "R-Ladies Baltimore -- Improving your workflow with APIs (Virtual)",
-    "description": "R-Ladies Baltimore (Bmore) is excited to host a meetup on Tuesday April 19, 2022 from 3-4:30pm (virtual meetup on Zoom). We will have an inspirational presentation from Reina Murray, Geospatial Data Curator and Applications Administrator at the Johns Hopkins Sheridan Library (https://www.library.jhu.edu/staff/reina-chano-murray/). She will be giving an introduction to interacting with APIs in R.\n\nWHO is this for?\n\n* If you are new to R and want to learn how to interact with APIs\n* If you know R, but want to expand your knowledge about connecting with APIs from inside of R.\n\n*If any/all of this is true, this event might be for you!*\n\nAGENDA\n3:00–3:15pm Who we are \\| Announcements \\| What's next\n3:15–4 pm Presentation: Improving your workflow with APIs\n4–4:30pm Networking -- Any more Qs?\n\nDetails on the location:\nThe Zoom information will be sent to those who RSVP the week before the event.\n\nFAQ:\nQ: Are men welcome to attend R-Ladies events?\nA: Yes, men are welcome at this event. Our mission is to encourage more women and non-binary individuals to get involved in the R community. However, we ask that cis men come as guests of women and gender minorities to our events to promote a sense support and encouragement for women and gender minorities in the R community. Please help us by spreading the word about R-Ladies. Please also take the time to review our code of conduct before you attend: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nThe term \"women and gender minorities\" is inclusive of individuals who identify as female (trans and cis), trans-men, non-binary, genderqueer, genderfluid, agender, intersex, and all minority genders).\n\nImportant to know:\n\n* If this is your first R-Ladies event, please take a moment to review our R-Ladies Global code of conduct: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nFinally, for more information:\nemail: bmore@rladies.org\ntwitter: @RLadiesBmore\nfacebook: https://www.facebook.com/RLadiesBmore/\nmeetup: https://www.meetup.com/rladies-baltimore/",
-    "status": "CANCELLED",
-    "dateTime": "2022-04-19T15:00:00-04:00",
-    "duration": "PT1H30M",
-    "eventUrl": "https://www.meetup.com/rladies-baltimore/events/284623205/",
-    "featuredEventPhoto": {
-      "id": "502690888",
-      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/a/8/8/highres_502690888.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/a/8/8/600_502690888.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/a/8/8/thumb_502690888.jpeg"
-    },
-    "rsvps": {
-      "yesCount": 54,
-      "waitlistCount": 0,
-      "totalCount": 54
-    },
-    "venues": [
-      {
-        "id": "26906060",
-        "name": "Online event",
-        "address": "",
-        "city": "",
-        "state": "",
-        "country": "",
-        "lat": -8.5211,
-        "lon": 179.1962,
-        "postalCode": "",
-        "venueType": "online"
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Baltimore",
-      "urlname": "rladies-baltimore"
-    }
-  },
-  {
-    "id": "283231748",
-    "title": "R-Ladies Baltimore -- How to use R with Excel (Virtual)",
-    "description": "R-Ladies Baltimore (Bmore) is excited to host a meetup on Thursday March 24, 2022 from 3-4:30pm (virtual meetup on Zoom). We will have an informative presentation from Alyssa Columbus (@alycolumbus, alyssacolumbus.com) a graduate student at Johns Hopkins University and a founder of R-Ladies Irvine. She will be giving an introduction to how to use R with Excel. Materials for the meetup are available on GitHub at [https://github.com/acolum/r-ladies-baltimore-r-and-excel](https://github.com/acolum/r-ladies-baltimore-r-and-excel).\n\nWHO is this for?\n\n* If you are new to R but perhaps know Excel and want to learn about how they can interact\n* If you know R, but want to expand your knowledge about effective and efficient interactions between R and Excel\n\n*If any/all of this is true, this event might be for you!*\n\nAGENDA\n3:00–3:15pm Who we are \\| Announcements \\| What's next\n3:15–4 pm Presentation: How to use R with Excel\n4–4:30pm Networking -- Any more Qs?\n\nDetails on the location:\nThe Zoom information will be sent to those who RSVP the week before the event.\n\nFAQ:\nQ: Are men welcome to attend R-Ladies events?\nA: Yes, men are welcome at this event. Our mission is to encourage more women and non-binary individuals to get involved in the R community. However, we ask that cis men come as guests of women and gender minorities to our events to promote a sense support and encouragement for women and gender minorities in the R community. Please help us by spreading the word about R-Ladies. Please also take the time to review our code of conduct before you attend: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nThe term \"women and gender minorities\" is inclusive of individuals who identify as female (trans and cis), trans-men, non-binary, genderqueer, genderfluid, agender, intersex, and all minority genders).\n\nImportant to know:\n\n* If this is your first R-Ladies event, please take a moment to review our R-Ladies Global code of conduct: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nFinally, for more information:\nemail: bmore@rladies.org\ntwitter: @RLadiesBmore\nfacebook: https://www.facebook.com/RLadiesBmore/\nmeetup: https://www.meetup.com/rladies-baltimore/",
-    "status": "PAST",
-    "dateTime": "2022-03-24T15:00:00-04:00",
-    "duration": "PT1H30M",
-    "eventUrl": "https://www.meetup.com/rladies-baltimore/events/283231748/",
-    "featuredEventPhoto": {
-      "id": "501343509",
-      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/9/f/5/highres_501343509.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/9/f/5/600_501343509.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/9/f/5/thumb_501343509.jpeg"
-    },
-    "rsvps": {
-      "yesCount": 137,
-      "waitlistCount": 0,
-      "totalCount": 137
-    },
-    "venues": [
-      {
-        "id": "26906060",
-        "name": "Online event",
-        "address": "",
-        "city": "",
-        "state": "",
-        "country": "",
-        "lat": -8.5211,
-        "lon": 179.1962,
-        "postalCode": "",
-        "venueType": "online"
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Baltimore",
-      "urlname": "rladies-baltimore"
-    }
-  },
-  {
-    "id": "283231621",
-    "title": "R-Ladies Baltimore -- Data Privacy Preserving Applications with R (Virtual)",
-    "description": "R-Ladies Baltimore (Bmore) is excited to host a meetup on Tuesday February 22, 2022 from 3-4:30pm (virtual meetup on Zoom). We will have an informative presentation from Claire McKay Bowen (@ClaireMKBowen, https://clairemckaybowen.com), Principal Research Associate at the Urban Institute. She will be giving an introduction to data privacy preserving applications in R. Materials for the presentation can be found at https://github.com/ClaireMcKayBowen/r-ladies-baltimore-privacy-talk\n\nWHO is this for?\n- If you are new to R and want to learn how to use data privacy preserving applications\n- If you know R, but want to expand your knowledge about maintaining data privacy and confidentiality in your work\n\n*If any/all of this is true, this event might be for you!*\n\nAGENDA\n3:00–3:15pm Who we are | Announcements | What's next\n3:15–4 pm Presentation: Data Privacy Preserving Applications in R\n4–4:30pm Networking -- Any more Qs?\n\nDetails on the location:\nThe Zoom information will be sent to those who RSVP the week before the event.\n\nFAQ:\nQ: Are men welcome to attend R-Ladies events?\nA: Yes, men are welcome at this event. Our mission is to encourage more women and non-binary individuals to get involved in the R community. However, we ask that cis men come as guests of women and gender minorities to our events to promote a sense support and encouragement for women and gender minorities in the R community. Please help us by spreading the word about R-Ladies. Please also take the time to review our code of conduct before you attend: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nThe term \"women and gender minorities\" is inclusive of individuals who identify as female (trans and cis), trans-men, non-binary, genderqueer, genderfluid, agender, intersex, and all minority genders).\n\nImportant to know:\n- If this is your first R-Ladies event, please take a moment to review our R-Ladies Global code of conduct: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nFinally, for more information:\nemail: bmore@rladies.org\ntwitter: @RLadiesBmore\nfacebook: https://www.facebook.com/RLadiesBmore/\nmeetup: https://www.meetup.com/rladies-baltimore/",
-    "status": "PAST",
-    "dateTime": "2022-02-22T15:00:00-05:00",
-    "duration": "PT1H30M",
-    "eventUrl": "https://www.meetup.com/rladies-baltimore/events/283231621/",
-    "featuredEventPhoto": {
-      "id": "501343288",
-      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/9/1/8/highres_501343288.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/9/1/8/600_501343288.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/9/1/8/thumb_501343288.jpeg"
-    },
-    "rsvps": {
-      "yesCount": 69,
-      "waitlistCount": 0,
-      "totalCount": 69
-    },
-    "venues": [
-      {
-        "id": "26906060",
-        "name": "Online event",
-        "address": "",
-        "city": "",
-        "state": "",
-        "country": "",
-        "lat": -8.5211,
-        "lon": 179.1962,
-        "postalCode": "",
-        "venueType": "online"
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Baltimore",
-      "urlname": "rladies-baltimore"
-    }
-  },
-  {
-    "id": "281623253",
-    "title": "R-Ladies Baltimore and Washington DC -- Introduction to bookdown (Virtual)",
-    "description": "**Special co-hosted event!**\n\nR-Ladies Baltimore (Bmore) and R-Ladies Washington DC are excited to co-host a meetup on Tuesday January 25, 2022 from 5-6:30pm (virtual meetup on Zoom). We will have an exciting presentation from Sam Tyner (@sctyner, https://sctyner.me), Data Scientist at Tritura, and a co-organizer of R-Ladies DC. She will be giving an introduction to the bookdown (https://bookdown.org) R package.\n\nWHO is this for?\n- If you are new to R and R Markdown & want to learn a cool thing you can do in R\n- If you are a know R, but want to learn how write books and articles/reports with R Markdown\n\n*If any/all of this is true, this event might be for you!*\n\nAGENDA\n5:00–5:15pm Who we are | Announcements | What's next\n5:15–6 pm Presentation: Introduction to bookdown\n6–6:30pm Networking -- Any more Qs?\n\nDetails on the location:\nThe Zoom information will be sent to those who RSVP the week before the event.\n\nFAQ:\nQ: Are men welcome to attend R-Ladies events?\nA: Yes, men are welcome at this event. Our mission is to encourage more women and non-binary individuals to get involved in the R community. However, we ask that cis men come as guests of women and gender minorities to our events to promote a sense support and encouragement for women and gender minorities in the R community. Please help us by spreading the word about R-Ladies. Please also take the time to review our code of conduct before you attend: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nThe term \"women and gender minorities\" is inclusive of individuals who identify as female (trans and cis), trans-men, non-binary, genderqueer, genderfluid, agender, intersex, and all minority genders).\n\nImportant to know:\n- If this is your first R-Ladies event, please take a moment to review our R-Ladies Global code of conduct: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\n\nFinally, for more information:\nemail: bmore@rladies.org\ntwitter: @RLadiesBmore\nfacebook: https://www.facebook.com/RLadiesBmore/\nmeetup: https://www.meetup.com/rladies-baltimore/",
-    "status": "PAST",
-    "dateTime": "2022-01-25T17:00:00-05:00",
-    "duration": "PT1H30M",
-    "eventUrl": "https://www.meetup.com/rladies-baltimore/events/281623253/",
-    "featuredEventPhoto": {
-      "id": "499696379",
-      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/f/f/b/highres_499696379.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/f/f/b/600_499696379.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/f/f/b/thumb_499696379.jpeg"
-    },
-    "rsvps": {
-      "yesCount": 94,
-      "waitlistCount": 0,
-      "totalCount": 94
-    },
-    "venues": [
-      {
-        "id": "26906060",
-        "name": "Online event",
-        "address": "",
-        "city": "",
-        "state": "",
-        "country": "",
-        "lat": -8.5211,
-        "lon": 179.1962,
-        "postalCode": "",
-        "venueType": "online"
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Baltimore",
-      "urlname": "rladies-baltimore"
-    }
+    "createdTime": "2021-10-23T22:04:33-04:00"
   },
   {
     "id": "295898711",
@@ -1142,7 +1173,8 @@
     "group": {
       "name": "R-Ladies Baltimore",
       "urlname": "rladies-baltimore"
-    }
+    },
+    "createdTime": "2023-09-04T23:33:12-04:00"
   },
   {
     "id": "295897476",
@@ -1181,7 +1213,8 @@
     "group": {
       "name": "R-Ladies Baltimore",
       "urlname": "rladies-baltimore"
-    }
+    },
+    "createdTime": "2023-09-04T21:47:08-04:00"
   },
   {
     "id": "295898159",
@@ -1220,7 +1253,8 @@
     "group": {
       "name": "R-Ladies Baltimore",
       "urlname": "rladies-baltimore"
-    }
+    },
+    "createdTime": "2023-09-04T22:37:57-04:00"
   },
   {
     "id": "293761081",
@@ -1259,7 +1293,8 @@
     "group": {
       "name": "R-Ladies Baltimore",
       "urlname": "rladies-baltimore"
-    }
+    },
+    "createdTime": "2023-05-25T11:09:06-04:00"
   },
   {
     "id": "293751466",
@@ -1298,7 +1333,8 @@
     "group": {
       "name": "R-Ladies Baltimore",
       "urlname": "rladies-baltimore"
-    }
+    },
+    "createdTime": "2023-05-24T21:42:39-04:00"
   },
   {
     "id": "291493215",
@@ -1337,7 +1373,8 @@
     "group": {
       "name": "R-Ladies Baltimore",
       "urlname": "rladies-baltimore"
-    }
+    },
+    "createdTime": "2023-02-08T13:53:38-05:00"
   },
   {
     "id": "296427671",
@@ -1376,7 +1413,8 @@
     "group": {
       "name": "R-Ladies Baltimore",
       "urlname": "rladies-baltimore"
-    }
+    },
+    "createdTime": "2023-09-29T10:15:40-04:00"
   },
   {
     "id": "296427579",
@@ -1415,7 +1453,8 @@
     "group": {
       "name": "R-Ladies Baltimore",
       "urlname": "rladies-baltimore"
-    }
+    },
+    "createdTime": "2023-09-29T10:04:05-04:00"
   },
   {
     "id": "296427553",
@@ -1454,6 +1493,7 @@
     "group": {
       "name": "R-Ladies Baltimore",
       "urlname": "rladies-baltimore"
-    }
+    },
+    "createdTime": "2023-09-29T09:59:56-04:00"
   }
 ]

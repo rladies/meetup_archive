@@ -36,7 +36,8 @@
     "group": {
       "name": "R-Ladies Monterrey",
       "urlname": "rladies-monterrey"
-    }
+    },
+    "createdTime": "2020-12-10T13:20:53-05:00"
   },
   {
     "id": "273086491",
@@ -52,123 +53,6 @@
       "highResUrl": "https://secure.meetupstatic.com/photos/event/7/3/9/1/highres_492209585.jpeg",
       "standardUrl": "https://secure.meetupstatic.com/photos/event/7/3/9/1/600_492209585.jpeg",
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/3/9/1/thumb_492209585.jpeg"
-    },
-    "rsvps": {
-      "yesCount": 16,
-      "waitlistCount": 0,
-      "totalCount": 16
-    },
-    "venues": [
-      {
-        "id": "26906060",
-        "name": "Online event",
-        "address": "",
-        "city": "",
-        "state": "",
-        "country": "",
-        "lat": -8.5211,
-        "lon": 179.1962,
-        "postalCode": "",
-        "venueType": "online"
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Monterrey",
-      "urlname": "rladies-monterrey"
-    }
-  },
-  {
-    "id": "272174013",
-    "title": "Analyzing and visualising spatial and spatiotemporal data cubes",
-    "description": "The RLadies Monterrey chapter community is very happy to announce that we will be hosting one of the useR! 2020 online tutorials (https://user2020.r-project.org/program/tutorials/). We will have the honor of having Edzer Pebesma and Martijn Tennekes in our meetup, who will be running the tutorial: \"Analyzing and visualising spatial and spatiotemporal data cubes\" on September 19th, 16:00 UTC (i.e. 11 am CDT).\n\nBackground\n\nData cubes are a modern way to denote array data, and we focus on array data where some of the dimensions refer to space and time. Examples are spatial raster data, multivariate time series for multiple locations, and time series of raster images such as satellite data or weather predictions. In this workshop we will show a variety of cases where such data arise, and demonstrate how they can be analysed and visualised with R. While doing so, we mainly focus on using the R packages sf, stars, tmap and mapview, but also address a number of other useful packages for this context.\n\nLink to the project homepage: http://github.com/r-spatial/useR2020muc\n\nTarget Audience\n\nR users, who are somewhat familiar with (or have a demand for learning about) spatial data handling in R, and who are interested in analysing and dealing with raster data and spatiotemporal data cubes.\n\nPrerequisities\n\nSome familiarity with R and R-spatial, as well as some prior knowledge about time series and spatial data analysis is recommended, but is not a hard requirement.",
-    "status": "PAST",
-    "dateTime": "2020-09-19T11:00:00-05:00",
-    "duration": "PT3H",
-    "eventUrl": "https://www.meetup.com/rladies-monterrey/events/272174013/",
-    "featuredEventPhoto": {
-      "id": "491519995",
-      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/e/a/5/b/highres_491519995.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/e/a/5/b/600_491519995.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/a/5/b/thumb_491519995.jpeg"
-    },
-    "rsvps": {
-      "yesCount": 105,
-      "waitlistCount": 0,
-      "totalCount": 105
-    },
-    "venues": [
-      {
-        "id": "26906060",
-        "name": "Online event",
-        "address": "",
-        "city": "",
-        "state": "",
-        "country": "",
-        "lat": -8.5211,
-        "lon": 179.1962,
-        "postalCode": "",
-        "venueType": "online"
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Monterrey",
-      "urlname": "rladies-monterrey"
-    }
-  },
-  {
-    "id": "272071592",
-    "title": "Como crear presentaciones asombrosas con Xaringan",
-    "description": "La comunidad de R-Ladies Monterrey estrena su primer tutorial a distancia, y nos gustaría que nos acompañaras para este evento.\n\nEstamos muy emocionadas en darle la bienvenida a cDr. Semiramis Castro-Jaimes como nuestra invitada ponente de este tutorial.\n\nSemiramis es una científica de datos que programa principalmente en R y Python. Es egresada de la Universidad Nacional Autónoma de México y durante su doctorado se enfocó en el análisis de bacterias patógenas y la resistencia a antibióticos. Las diapositivas de varias de sus charlas están en https://speakerdeck.com/semiramiscj y si te dedicas a la bioinformática, puedes encontrar algunos scripts que te pudieran ser útiles en https://github.com/semiramisCJ/miscelaneous\n\nEl paquete xaringan es una extensión de R Markdown para generar presentaciones en formato HTML de diferentes estilos. Las presentaciones pueden incluir bloques de código, imágenes, emojis y tablas. El tutorial será de nivel introductorio te llevaremos de la mano para que conozcas RMarkdown.\n\nCon la finalidad de poder brindar la mejor atención a los asistentes el tutorial será de cupo limitado, por lo que te pedimos reserves tu lugar. Se enviarán los requerimientos de paquetería para su instalación previa al tutorial a las confirmaciones.\n\nPara tener un evento seguro, el link de acceso al evento lo recibirán quienes confirmen su asistencia via RSVP de meetup.com el día del evento.",
-    "status": "PAST",
-    "dateTime": "2020-08-01T11:00:00-05:00",
-    "duration": "PT2H",
-    "eventUrl": "https://www.meetup.com/rladies-monterrey/events/272071592/",
-    "featuredEventPhoto": {
-      "id": "491443656",
-      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/a/8/8/highres_491443656.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/a/8/8/600_491443656.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/a/8/8/thumb_491443656.jpeg"
-    },
-    "rsvps": {
-      "yesCount": 31,
-      "waitlistCount": 0,
-      "totalCount": 31
-    },
-    "venues": [
-      {
-        "id": "26906060",
-        "name": "Online event",
-        "address": "",
-        "city": "",
-        "state": "",
-        "country": "",
-        "lat": -8.5211,
-        "lon": 179.1962,
-        "postalCode": "",
-        "venueType": "online"
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Monterrey",
-      "urlname": "rladies-monterrey"
-    }
-  },
-  {
-    "id": "271628275",
-    "title": "Cómo hacer una reunión virtual inolvidable (sin morir en el intento)",
-    "description": "Aunque no es posible reunirnos en persona, la magia de R-Ladies no se detiene y hace posible los encuentros virtuales. En este meetup te contaremos algunos trucos y herramientas para que cualquier evento virtual interactivo (por ejemplo, clase, taller o panel online) sea un éxito sin estrés adicional al hacerlo. Si organizas meetups de R-Ladies, encontrarás dónde y cómo acceder a la infraestructura que te permitirá organizar meetups online para tu capítulo. Si no organizas meetups de R-Ladies, también encontrarás material útil para todo tipo de evento online que organices o del que participes.\n\nEstos contenidos nos los traen R-Ladies latinoamericanas, en su mayoría certificadas para enseñar por RStudio Education y The Carpentries. La mayoría también es parte de MetaDocencia, una organización que desde fines de marzo realizó más de 25 talleres interactivos enseñando a enseñar online a más de 300 docentes hispanohablantes con excelentes resultados. Todas tienen vasta experiencia teletrabajando y enseñando online.\n\nOradoras: Yanina Bellini Saibene y Paola Corrales.\n\nPara tener un evento seguro, el link de acceso al evento lo recibirán quienes confirmen su asistencia via RSVP de meetup.com el día del evento",
-    "status": "PAST",
-    "dateTime": "2020-07-01T12:00:00-05:00",
-    "duration": "PT1H30M",
-    "eventUrl": "https://www.meetup.com/rladies-monterrey/events/271628275/",
-    "featuredEventPhoto": {
-      "id": "491100676",
-      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/a/4/highres_491100676.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/a/4/600_491100676.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/a/4/thumb_491100676.jpeg"
     },
     "rsvps": {
       "yesCount": 13,
@@ -192,27 +76,28 @@
     "group": {
       "name": "R-Ladies Monterrey",
       "urlname": "rladies-monterrey"
-    }
+    },
+    "createdTime": "2020-09-06T23:34:05-04:00"
   },
   {
-    "id": "270134667",
-    "title": "#RLadiesMty presenta Webinar Modelos de Simulación de Eventos Discretos",
-    "description": "ESTE ES UN EVENTO GRATUITO!!\nReserva tu lugar para el webinar :\n\"Modelos de simulación de eventos discretos\"\n\nLa modelación y optimización de sistemas de cadena de suministro es compleja y difícil de modelar de manera analítica. Los modelos analíticos generalmente vienen acompañados de supuestos probabilísticos restrictivos que no necesariamente reflejan la realidad en la práctica. Es necesario un modelo que permita contemplar interacciones y variabilidad en los distintos procesos y sistemas. Los modelos de simulación de eventos discretos ayudan al entendimiento del comportamiento del sistema, además de permitir evaluar estrategias, políticas y posibles efectos de cambios en el sistema.\n\nPresentado por\n\nMSc Melissa Salinas\n\nMSc en Estadística Aplicada por el Tecnológico de Monterrey.\n\nConsultora de Supply Chain Management y científica de datos con experiencia en diseño de redes de suministro, planeación de inventarios, pronósticos y análisis de costo de servir.\n\nHa diseñado redes de suministro para compañías de productos de consumo, productos industriales y sector del transporte.\n\nNota: Respetando las normas de distanciamiento social este evento se llevará a cabo en forma webinar. #QuedateEnCasa",
+    "id": "272174013",
+    "title": "Analyzing and visualising spatial and spatiotemporal data cubes",
+    "description": "The RLadies Monterrey chapter community is very happy to announce that we will be hosting one of the useR! 2020 online tutorials (https://user2020.r-project.org/program/tutorials/). We will have the honor of having Edzer Pebesma and Martijn Tennekes in our meetup, who will be running the tutorial: \"Analyzing and visualising spatial and spatiotemporal data cubes\" on September 19th, 16:00 UTC (i.e. 11 am CDT).\n\nBackground\n\nData cubes are a modern way to denote array data, and we focus on array data where some of the dimensions refer to space and time. Examples are spatial raster data, multivariate time series for multiple locations, and time series of raster images such as satellite data or weather predictions. In this workshop we will show a variety of cases where such data arise, and demonstrate how they can be analysed and visualised with R. While doing so, we mainly focus on using the R packages sf, stars, tmap and mapview, but also address a number of other useful packages for this context.\n\nLink to the project homepage: http://github.com/r-spatial/useR2020muc\n\nTarget Audience\n\nR users, who are somewhat familiar with (or have a demand for learning about) spatial data handling in R, and who are interested in analysing and dealing with raster data and spatiotemporal data cubes.\n\nPrerequisities\n\nSome familiarity with R and R-spatial, as well as some prior knowledge about time series and spatial data analysis is recommended, but is not a hard requirement.",
     "status": "PAST",
-    "dateTime": "2020-04-23T19:00:00-05:00",
-    "duration": "PT2H",
-    "eventUrl": "https://www.meetup.com/rladies-monterrey/events/270134667/",
+    "dateTime": "2020-09-19T11:00:00-05:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-monterrey/events/272174013/",
     "featuredEventPhoto": {
-      "id": "490171669",
+      "id": "491519995",
       "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/b/b/5/highres_490171669.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/b/b/5/600_490171669.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/b/b/5/thumb_490171669.jpeg"
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/e/a/5/b/highres_491519995.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/e/a/5/b/600_491519995.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/a/5/b/thumb_491519995.jpeg"
     },
     "rsvps": {
-      "yesCount": 52,
+      "yesCount": 88,
       "waitlistCount": 0,
-      "totalCount": 52
+      "totalCount": 88
     },
     "venues": [
       {
@@ -231,7 +116,128 @@
     "group": {
       "name": "R-Ladies Monterrey",
       "urlname": "rladies-monterrey"
-    }
+    },
+    "createdTime": "2020-07-26T20:18:56-04:00"
+  },
+  {
+    "id": "272071592",
+    "title": "Como crear presentaciones asombrosas con Xaringan",
+    "description": "La comunidad de R-Ladies Monterrey estrena su primer tutorial a distancia, y nos gustaría que nos acompañaras para este evento.\n\nEstamos muy emocionadas en darle la bienvenida a cDr. Semiramis Castro-Jaimes como nuestra invitada ponente de este tutorial.\n\nSemiramis es una científica de datos que programa principalmente en R y Python. Es egresada de la Universidad Nacional Autónoma de México y durante su doctorado se enfocó en el análisis de bacterias patógenas y la resistencia a antibióticos. Las diapositivas de varias de sus charlas están en https://speakerdeck.com/semiramiscj y si te dedicas a la bioinformática, puedes encontrar algunos scripts que te pudieran ser útiles en https://github.com/semiramisCJ/miscelaneous\n\nEl paquete xaringan es una extensión de R Markdown para generar presentaciones en formato HTML de diferentes estilos. Las presentaciones pueden incluir bloques de código, imágenes, emojis y tablas. El tutorial será de nivel introductorio te llevaremos de la mano para que conozcas RMarkdown.\n\nCon la finalidad de poder brindar la mejor atención a los asistentes el tutorial será de cupo limitado, por lo que te pedimos reserves tu lugar. Se enviarán los requerimientos de paquetería para su instalación previa al tutorial a las confirmaciones.\n\nPara tener un evento seguro, el link de acceso al evento lo recibirán quienes confirmen su asistencia via RSVP de meetup.com el día del evento.",
+    "status": "PAST",
+    "dateTime": "2020-08-01T11:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-monterrey/events/272071592/",
+    "featuredEventPhoto": {
+      "id": "491443656",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/a/8/8/highres_491443656.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/a/8/8/600_491443656.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/a/8/8/thumb_491443656.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 24,
+      "waitlistCount": 0,
+      "totalCount": 24
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Monterrey",
+      "urlname": "rladies-monterrey"
+    },
+    "createdTime": "2020-07-21T21:23:54-04:00"
+  },
+  {
+    "id": "271628275",
+    "title": "Cómo hacer una reunión virtual inolvidable (sin morir en el intento)",
+    "description": "Aunque no es posible reunirnos en persona, la magia de R-Ladies no se detiene y hace posible los encuentros virtuales. En este meetup te contaremos algunos trucos y herramientas para que cualquier evento virtual interactivo (por ejemplo, clase, taller o panel online) sea un éxito sin estrés adicional al hacerlo. Si organizas meetups de R-Ladies, encontrarás dónde y cómo acceder a la infraestructura que te permitirá organizar meetups online para tu capítulo. Si no organizas meetups de R-Ladies, también encontrarás material útil para todo tipo de evento online que organices o del que participes.\n\nEstos contenidos nos los traen R-Ladies latinoamericanas, en su mayoría certificadas para enseñar por RStudio Education y The Carpentries. La mayoría también es parte de MetaDocencia, una organización que desde fines de marzo realizó más de 25 talleres interactivos enseñando a enseñar online a más de 300 docentes hispanohablantes con excelentes resultados. Todas tienen vasta experiencia teletrabajando y enseñando online.\n\nOradoras: Yanina Bellini Saibene y Paola Corrales.\n\nPara tener un evento seguro, el link de acceso al evento lo recibirán quienes confirmen su asistencia via RSVP de meetup.com el día del evento",
+    "status": "PAST",
+    "dateTime": "2020-07-01T12:00:00-05:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-monterrey/events/271628275/",
+    "featuredEventPhoto": {
+      "id": "491100676",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/a/4/highres_491100676.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/a/4/600_491100676.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/a/4/thumb_491100676.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 12,
+      "waitlistCount": 0,
+      "totalCount": 12
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Monterrey",
+      "urlname": "rladies-monterrey"
+    },
+    "createdTime": "2020-06-30T13:25:18-04:00"
+  },
+  {
+    "id": "270134667",
+    "title": "#RLadiesMty presenta Webinar Modelos de Simulación de Eventos Discretos",
+    "description": "ESTE ES UN EVENTO GRATUITO!!\nReserva tu lugar para el webinar :\n\"Modelos de simulación de eventos discretos\"\n\nLa modelación y optimización de sistemas de cadena de suministro es compleja y difícil de modelar de manera analítica. Los modelos analíticos generalmente vienen acompañados de supuestos probabilísticos restrictivos que no necesariamente reflejan la realidad en la práctica. Es necesario un modelo que permita contemplar interacciones y variabilidad en los distintos procesos y sistemas. Los modelos de simulación de eventos discretos ayudan al entendimiento del comportamiento del sistema, además de permitir evaluar estrategias, políticas y posibles efectos de cambios en el sistema.\n\nPresentado por\n\nMSc Melissa Salinas\n\nMSc en Estadística Aplicada por el Tecnológico de Monterrey.\n\nConsultora de Supply Chain Management y científica de datos con experiencia en diseño de redes de suministro, planeación de inventarios, pronósticos y análisis de costo de servir.\n\nHa diseñado redes de suministro para compañías de productos de consumo, productos industriales y sector del transporte.\n\nNota: Respetando las normas de distanciamiento social este evento se llevará a cabo en forma webinar. #QuedateEnCasa",
+    "status": "PAST",
+    "dateTime": "2020-04-23T19:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-monterrey/events/270134667/",
+    "featuredEventPhoto": {
+      "id": "490171669",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/b/b/5/highres_490171669.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/b/b/5/600_490171669.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/b/b/5/thumb_490171669.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 37,
+      "waitlistCount": 0,
+      "totalCount": 37
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Monterrey",
+      "urlname": "rladies-monterrey"
+    },
+    "createdTime": "2020-04-19T00:53:36-04:00"
   },
   {
     "id": "268515460",
@@ -249,9 +255,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/c/b/thumb_488941227.jpeg"
     },
     "rsvps": {
-      "yesCount": 11,
+      "yesCount": 10,
       "waitlistCount": 0,
-      "totalCount": 11
+      "totalCount": 10
     },
     "venues": [
       {
@@ -270,7 +276,8 @@
     "group": {
       "name": "R-Ladies Monterrey",
       "urlname": "rladies-monterrey"
-    }
+    },
+    "createdTime": "2020-02-06T15:49:19-05:00"
   },
   {
     "id": "276683271",
@@ -288,9 +295,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/a/e/6/thumb_494983750.jpeg"
     },
     "rsvps": {
-      "yesCount": 14,
+      "yesCount": 12,
       "waitlistCount": 0,
-      "totalCount": 14
+      "totalCount": 12
     },
     "venues": [
       {
@@ -309,6 +316,7 @@
     "group": {
       "name": "R-Ladies Monterrey",
       "urlname": "rladies-monterrey"
-    }
+    },
+    "createdTime": "2021-03-01T22:09:38-05:00"
   }
 ]

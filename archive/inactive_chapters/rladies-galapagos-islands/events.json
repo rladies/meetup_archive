@@ -15,9 +15,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/b/3/1/thumb_492555153.jpeg"
     },
     "rsvps": {
-      "yesCount": 50,
+      "yesCount": 37,
       "waitlistCount": 0,
-      "totalCount": 50
+      "totalCount": 37
     },
     "venues": [
       {
@@ -36,7 +36,8 @@
     "group": {
       "name": "R-Ladies Galapagos Islands",
       "urlname": "rladies-galapagos-islands"
-    }
+    },
+    "createdTime": "2020-09-26T18:55:39-04:00"
   },
   {
     "id": "273493704",
@@ -54,9 +55,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/9/a/f/thumb_492515247.jpeg"
     },
     "rsvps": {
-      "yesCount": 60,
+      "yesCount": 49,
       "waitlistCount": 0,
-      "totalCount": 60
+      "totalCount": 49
     },
     "venues": [
       {
@@ -75,7 +76,8 @@
     "group": {
       "name": "R-Ladies Galapagos Islands",
       "urlname": "rladies-galapagos-islands"
-    }
+    },
+    "createdTime": "2020-09-24T21:14:20-04:00"
   },
   {
     "id": "272455991",
@@ -87,9 +89,9 @@
     "eventUrl": "https://www.meetup.com/rladies-galapagos-islands/events/272455991/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 28,
+      "yesCount": 20,
       "waitlistCount": 0,
-      "totalCount": 28
+      "totalCount": 20
     },
     "venues": [
       {
@@ -108,7 +110,8 @@
     "group": {
       "name": "R-Ladies Galapagos Islands",
       "urlname": "rladies-galapagos-islands"
-    }
+    },
+    "createdTime": "2020-08-08T21:22:35-04:00"
   },
   {
     "id": "272358299",
@@ -118,78 +121,6 @@
     "dateTime": "2020-08-08T09:00:00-06:00",
     "duration": "PT2H",
     "eventUrl": "https://www.meetup.com/rladies-galapagos-islands/events/272358299/",
-    "featuredEventPhoto": {},
-    "rsvps": {
-      "yesCount": 26,
-      "waitlistCount": 0,
-      "totalCount": 26
-    },
-    "venues": [
-      {
-        "id": "26906060",
-        "name": "Online event",
-        "address": "",
-        "city": "",
-        "state": "",
-        "country": "",
-        "lat": -8.5211,
-        "lon": 179.1962,
-        "postalCode": "",
-        "venueType": "online"
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Galapagos Islands",
-      "urlname": "rladies-galapagos-islands"
-    }
-  },
-  {
-    "id": "272240650",
-    "title": "Machine learning con mlr3 - Tutorial en línea de useR!2020",
-    "description": "Las R-Ladies Ecuador te traemos el tutorial 'Machine learning con mlr3' que dictarán Bernd Bischl y Michel Lang, el cual es parte de useR! 2020.\n\nEn este tutorial con duración de tres horas, aprenderás sobre el paquete mlr3 de R para llevar a cabo procesos de aprendizaje automático (machine learning, ML) avanzados. El ecosistema mlr3 provee una solución completa para todas tus necesidades de ML, incluyendo pre-procesamiento de datos, diseño y evaluación de modelos de aprendizaje automático, conjuntos de modelos (ensembles), visualizaciones, y ajuste de hiperparámetros (a través de mlr3tuning). El proceso (pipeline) mlr3pipelines permite expresar flujos de trabajo complejos de manera sencilla, y probar nuevas ideas y aplicaciones. mlr3 puede ayudar a hacer tu flujo de trabajo más fácil de leer y más eficiente sin importar el tipo de problema o aplicación que quieras resolver con ML.\n\nEste tutorial está dirigido a usuarios con un conocimiento de conceptos básicos de aprendizaje automático (machine learning), pero no necesariamente debes tener conocimiento previo del paquete mlr3. Los participantes también deberán tener al menos un conocimiento intermedio de R y conocer los tipos de datos generales utilizados por R, así como habilidad para llevar a cabo operaciones básicas. Es preferible que tengan experiencia con R6 y data.table, pero no es esencial.\n\nPuedes acceder al material del curso a través del repositorio de GitHub: https://github.com/mlr-org/user2020 . Puedes descargar los material con antelación para que puedas seguir el curso en vivo, o para practicar los ejercicios en cualquier otro momento. El tutorial será en inglés, pero tendremos subtítulos disponibles en español para que nos puedas seguir con facilidad.\n\nRecuerda que al participar en nuestros eventos deberás aceptar el código de conducta de R-Ladies ( https://github.com/rladies/starter-kit/wiki/Code-of-Conduct ), así como el de useR! 2020 ( https://user2020.r-project.org/codeofconduct/ ).\n\nNuestros eventos están abiertos a todos los miembros de la comunidad de R, pero incentivamos particularmente a mujeres y miembros de grupos minoritarios a registrarse con nosotras.\n\n**English**\nR-Ladies Ecuador is bringing you the online tutorial: 'Machine learning con mlr3' taught by Bernd Bischl and Michel Lang, which is part of useR! 2020.\n\nIn this three hour tutorial you will be introduced to the mlr3 R package for modern, state-of-the-art machine learning (ML). The mlr3 ecosystem provides a one-stop solution for all ML needs, spanning preprocessing, model learning and evaluation, ensembles, visualization, and hyperparameter tuning (via mlr3tuning). Its pipeline system mlr3pipelines allows to easily express complex workflows, and to quickly prototype new ideas and applications. Whether you are applying ML to solve a practical prediction problem, implementing learning algorithms as a research software engineer or researching ML by empirical means, mlr3 can help make your workflow more readable and efficient.\n\nWe target to users with at least basic knowledge of ML concepts who are not yet familiar with mlr3. We require a working knowledge of R at medium level. One should know R's general type system and basic operations. Some experience with R6 and data.table definitely help, but is not essential.\n\nYou can access all course material through GitHub: https://github.com/mlr-org/user2020 . You can dowload all the material prior to the course so you can follow the instructions live, or you can also use the materials to practice exercises on your own time. The tutorial will be taught in English, but subtitles will be available.\n\nWhen you participate in our events, remember that you are accepting the R-Ladies code of conduct ( https://github.com/rladies/starter-kit/wiki/Code-of-Conduct ) as well as that from useR! 2020 ( https://user2020.r-project.org/codeofconduct/ ).\n\nEveryone is welcome, but we encourage women and people from minority groups to join our events.",
-    "status": "PAST",
-    "dateTime": "2020-08-07T09:00:00-06:00",
-    "duration": "PT3H",
-    "eventUrl": "https://www.meetup.com/rladies-galapagos-islands/events/272240650/",
-    "featuredEventPhoto": {
-      "id": "491576791",
-      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/d/d/7/highres_491576791.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/d/d/7/600_491576791.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/d/d/7/thumb_491576791.jpeg"
-    },
-    "rsvps": {
-      "yesCount": 58,
-      "waitlistCount": 9,
-      "totalCount": 58
-    },
-    "venues": [
-      {
-        "id": "26906060",
-        "name": "Online event",
-        "address": "",
-        "city": "",
-        "state": "",
-        "country": "",
-        "lat": -8.5211,
-        "lon": 179.1962,
-        "postalCode": "",
-        "venueType": "online"
-      }
-    ],
-    "group": {
-      "name": "R-Ladies Galapagos Islands",
-      "urlname": "rladies-galapagos-islands"
-    }
-  },
-  {
-    "id": "272149283",
-    "title": "Aprende a programar en R: Parte 2 - Tipos de objetos y funciones",
-    "description": "Siguiendo con nuestra serie de webinar sobre programación básica en R, los invitamos a unirse a este evento que cubrirá los diferentes tipos de objetos (variables) utilizados en R, así como una pequeña introducción a qué son las funciones y cómo construirlas.\n\nIgual que en nuestro evento anterior, seguiremos utilizando recursos libres y plataformas de colaboración en línea gratuitas para que puedas seguir nuestra sesión en vivo.\n\nNos basaremos en el libro 'El arte de programar en R' por Santana y Farfán disponible de manera gratuita aquí: https://cran.r-project.org/doc/contrib/Santana_El_arte_de_programar_en_R.pdf . En esta primera sesión nos enfocaremos en los capítulos 2 y 3 que hablan de los distintos tipos de objetos, así como una introducción a las funciones en R. Otra referencia relevante es 'R para principantes' de Juan Mendoza Vega, disponible de manera gratuita aquí: https://bookdown.org/jboscomendoza/r-principiantes4/ .\n\nNuestros talleres están abiertos a todos los miembros de la comunidad Galapagueña y al público en general, pero incentivamos en especial a mujeres, niñas y personas pertenecientes a minorías que formen parte de nuestros eventos.\n\nDebido a que el COVID-19 continúa siendo una preocupación en Ecuador, este evento será llevado a cabo en línea a través de la plataforma Zoom. Compartiremos el vínculo de acceso una hora antes del evento. Les pedimos no compartirlo en línea por cuestiones de seguridad.\n\nPara mantener nuestros eventos como un ambiente seguro en el que todos los participantes puedan participar, te pedimos que leas y te adhieras a nuestro código de conducta (https://github.com/rladies/starter-kit/wiki/Code-of-Conduct), así como nuestras guías de comunidad (https://github.com/rladies/starter-kit/blob/master/RLadiesRulesAndGuideLinesENES.md).",
-    "status": "PAST",
-    "dateTime": "2020-08-01T09:00:00-06:00",
-    "duration": "PT2H",
-    "eventUrl": "https://www.meetup.com/rladies-galapagos-islands/events/272149283/",
     "featuredEventPhoto": {},
     "rsvps": {
       "yesCount": 21,
@@ -213,21 +144,28 @@
     "group": {
       "name": "R-Ladies Galapagos Islands",
       "urlname": "rladies-galapagos-islands"
-    }
+    },
+    "createdTime": "2020-08-04T11:41:35-04:00"
   },
   {
-    "id": "271942264",
-    "title": "Aprende a programar en R: Parte 1 - Tipos de datos",
-    "description": "Si tienes interés en aprender a programar en R, pero no sabes por donde empezar, únete a este evento y aprende con nosotras. Te enseñaremos a programar desde lo básico utilizando recursos libres y plataformas de colaboración en línea gratuitas para que puedas seguir nuestra sesión en vivo.\n\nNos basaremos en el libro 'El arte de programar en R' por Santana y Farfán disponible de manera gratuita aquí: https://cran.r-project.org/doc/contrib/Santana_El_arte_de_programar_en_R.pdf . En esta primera sesión nos enfocaremos en los capítulos 1 y 2 que hablan de los distintos tipos de datos que encontraremos cuando programamos.\n\nNuestros talleres están abiertos a todos los miembros de la comunidad Galapagueña y al público en general, pero incentivamos en especial a mujeres, niñas y personas pertenecientes a minorías que formen parte de nuestros eventos.\n\nDebido a que el COVID continúa siendo una preocupación en Ecuador, este evento será llevado a cabo en línea a través de la plataforma Zoom. Compartiremos el vínculo de acceso una hora antes del evento. Les pedimos no compartirlo en línea por cuestiones de seguridad.\n\nPara mantener nuestros eventos como un ambiente seguro en el que todos los participantes puedan participar, te pedimos que leas y te adhieras a nuestro código de conducta (https://github.com/rladies/starter-kit/wiki/Code-of-Conduct), así como nuestras guías de comunidad (https://github.com/rladies/starter-kit/blob/master/RLadiesRulesAndGuideLinesENES.md).",
+    "id": "272240650",
+    "title": "Machine learning con mlr3 - Tutorial en línea de useR!2020",
+    "description": "Las R-Ladies Ecuador te traemos el tutorial 'Machine learning con mlr3' que dictarán Bernd Bischl y Michel Lang, el cual es parte de useR! 2020.\n\nEn este tutorial con duración de tres horas, aprenderás sobre el paquete mlr3 de R para llevar a cabo procesos de aprendizaje automático (machine learning, ML) avanzados. El ecosistema mlr3 provee una solución completa para todas tus necesidades de ML, incluyendo pre-procesamiento de datos, diseño y evaluación de modelos de aprendizaje automático, conjuntos de modelos (ensembles), visualizaciones, y ajuste de hiperparámetros (a través de mlr3tuning). El proceso (pipeline) mlr3pipelines permite expresar flujos de trabajo complejos de manera sencilla, y probar nuevas ideas y aplicaciones. mlr3 puede ayudar a hacer tu flujo de trabajo más fácil de leer y más eficiente sin importar el tipo de problema o aplicación que quieras resolver con ML.\n\nEste tutorial está dirigido a usuarios con un conocimiento de conceptos básicos de aprendizaje automático (machine learning), pero no necesariamente debes tener conocimiento previo del paquete mlr3. Los participantes también deberán tener al menos un conocimiento intermedio de R y conocer los tipos de datos generales utilizados por R, así como habilidad para llevar a cabo operaciones básicas. Es preferible que tengan experiencia con R6 y data.table, pero no es esencial.\n\nPuedes acceder al material del curso a través del repositorio de GitHub: https://github.com/mlr-org/user2020 . Puedes descargar los material con antelación para que puedas seguir el curso en vivo, o para practicar los ejercicios en cualquier otro momento. El tutorial será en inglés, pero tendremos subtítulos disponibles en español para que nos puedas seguir con facilidad.\n\nRecuerda que al participar en nuestros eventos deberás aceptar el código de conducta de R-Ladies ( https://github.com/rladies/starter-kit/wiki/Code-of-Conduct ), así como el de useR! 2020 ( https://user2020.r-project.org/codeofconduct/ ).\n\nNuestros eventos están abiertos a todos los miembros de la comunidad de R, pero incentivamos particularmente a mujeres y miembros de grupos minoritarios a registrarse con nosotras.\n\n**English**\nR-Ladies Ecuador is bringing you the online tutorial: 'Machine learning con mlr3' taught by Bernd Bischl and Michel Lang, which is part of useR! 2020.\n\nIn this three hour tutorial you will be introduced to the mlr3 R package for modern, state-of-the-art machine learning (ML). The mlr3 ecosystem provides a one-stop solution for all ML needs, spanning preprocessing, model learning and evaluation, ensembles, visualization, and hyperparameter tuning (via mlr3tuning). Its pipeline system mlr3pipelines allows to easily express complex workflows, and to quickly prototype new ideas and applications. Whether you are applying ML to solve a practical prediction problem, implementing learning algorithms as a research software engineer or researching ML by empirical means, mlr3 can help make your workflow more readable and efficient.\n\nWe target to users with at least basic knowledge of ML concepts who are not yet familiar with mlr3. We require a working knowledge of R at medium level. One should know R's general type system and basic operations. Some experience with R6 and data.table definitely help, but is not essential.\n\nYou can access all course material through GitHub: https://github.com/mlr-org/user2020 . You can dowload all the material prior to the course so you can follow the instructions live, or you can also use the materials to practice exercises on your own time. The tutorial will be taught in English, but subtitles will be available.\n\nWhen you participate in our events, remember that you are accepting the R-Ladies code of conduct ( https://github.com/rladies/starter-kit/wiki/Code-of-Conduct ) as well as that from useR! 2020 ( https://user2020.r-project.org/codeofconduct/ ).\n\nEveryone is welcome, but we encourage women and people from minority groups to join our events.",
     "status": "PAST",
-    "dateTime": "2020-07-25T09:00:00-06:00",
-    "duration": "PT2H",
-    "eventUrl": "https://www.meetup.com/rladies-galapagos-islands/events/271942264/",
-    "featuredEventPhoto": {},
+    "dateTime": "2020-08-07T09:00:00-06:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-galapagos-islands/events/272240650/",
+    "featuredEventPhoto": {
+      "id": "491576791",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/d/d/7/highres_491576791.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/d/d/7/600_491576791.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/d/d/7/thumb_491576791.jpeg"
+    },
     "rsvps": {
-      "yesCount": 31,
-      "waitlistCount": 0,
-      "totalCount": 31
+      "yesCount": 48,
+      "waitlistCount": 9,
+      "totalCount": 48
     },
     "venues": [
       {
@@ -246,7 +184,76 @@
     "group": {
       "name": "R-Ladies Galapagos Islands",
       "urlname": "rladies-galapagos-islands"
-    }
+    },
+    "createdTime": "2020-07-29T21:30:55-04:00"
+  },
+  {
+    "id": "272149283",
+    "title": "Aprende a programar en R: Parte 2 - Tipos de objetos y funciones",
+    "description": "Siguiendo con nuestra serie de webinar sobre programación básica en R, los invitamos a unirse a este evento que cubrirá los diferentes tipos de objetos (variables) utilizados en R, así como una pequeña introducción a qué son las funciones y cómo construirlas.\n\nIgual que en nuestro evento anterior, seguiremos utilizando recursos libres y plataformas de colaboración en línea gratuitas para que puedas seguir nuestra sesión en vivo.\n\nNos basaremos en el libro 'El arte de programar en R' por Santana y Farfán disponible de manera gratuita aquí: https://cran.r-project.org/doc/contrib/Santana_El_arte_de_programar_en_R.pdf . En esta primera sesión nos enfocaremos en los capítulos 2 y 3 que hablan de los distintos tipos de objetos, así como una introducción a las funciones en R. Otra referencia relevante es 'R para principantes' de Juan Mendoza Vega, disponible de manera gratuita aquí: https://bookdown.org/jboscomendoza/r-principiantes4/ .\n\nNuestros talleres están abiertos a todos los miembros de la comunidad Galapagueña y al público en general, pero incentivamos en especial a mujeres, niñas y personas pertenecientes a minorías que formen parte de nuestros eventos.\n\nDebido a que el COVID-19 continúa siendo una preocupación en Ecuador, este evento será llevado a cabo en línea a través de la plataforma Zoom. Compartiremos el vínculo de acceso una hora antes del evento. Les pedimos no compartirlo en línea por cuestiones de seguridad.\n\nPara mantener nuestros eventos como un ambiente seguro en el que todos los participantes puedan participar, te pedimos que leas y te adhieras a nuestro código de conducta (https://github.com/rladies/starter-kit/wiki/Code-of-Conduct), así como nuestras guías de comunidad (https://github.com/rladies/starter-kit/blob/master/RLadiesRulesAndGuideLinesENES.md).",
+    "status": "PAST",
+    "dateTime": "2020-08-01T09:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-galapagos-islands/events/272149283/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 14,
+      "waitlistCount": 0,
+      "totalCount": 14
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Galapagos Islands",
+      "urlname": "rladies-galapagos-islands"
+    },
+    "createdTime": "2020-07-25T14:15:10-04:00"
+  },
+  {
+    "id": "271942264",
+    "title": "Aprende a programar en R: Parte 1 - Tipos de datos",
+    "description": "Si tienes interés en aprender a programar en R, pero no sabes por donde empezar, únete a este evento y aprende con nosotras. Te enseñaremos a programar desde lo básico utilizando recursos libres y plataformas de colaboración en línea gratuitas para que puedas seguir nuestra sesión en vivo.\n\nNos basaremos en el libro 'El arte de programar en R' por Santana y Farfán disponible de manera gratuita aquí: https://cran.r-project.org/doc/contrib/Santana_El_arte_de_programar_en_R.pdf . En esta primera sesión nos enfocaremos en los capítulos 1 y 2 que hablan de los distintos tipos de datos que encontraremos cuando programamos.\n\nNuestros talleres están abiertos a todos los miembros de la comunidad Galapagueña y al público en general, pero incentivamos en especial a mujeres, niñas y personas pertenecientes a minorías que formen parte de nuestros eventos.\n\nDebido a que el COVID continúa siendo una preocupación en Ecuador, este evento será llevado a cabo en línea a través de la plataforma Zoom. Compartiremos el vínculo de acceso una hora antes del evento. Les pedimos no compartirlo en línea por cuestiones de seguridad.\n\nPara mantener nuestros eventos como un ambiente seguro en el que todos los participantes puedan participar, te pedimos que leas y te adhieras a nuestro código de conducta (https://github.com/rladies/starter-kit/wiki/Code-of-Conduct), así como nuestras guías de comunidad (https://github.com/rladies/starter-kit/blob/master/RLadiesRulesAndGuideLinesENES.md).",
+    "status": "PAST",
+    "dateTime": "2020-07-25T09:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-galapagos-islands/events/271942264/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 22,
+      "waitlistCount": 0,
+      "totalCount": 22
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Galapagos Islands",
+      "urlname": "rladies-galapagos-islands"
+    },
+    "createdTime": "2020-07-15T11:52:39-04:00"
   },
   {
     "id": "271552485",
@@ -264,9 +271,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/c/7/a/thumb_491032346.jpeg"
     },
     "rsvps": {
-      "yesCount": 10,
+      "yesCount": 7,
       "waitlistCount": 0,
-      "totalCount": 10
+      "totalCount": 7
     },
     "venues": [
       {
@@ -285,7 +292,8 @@
     "group": {
       "name": "R-Ladies Galapagos Islands",
       "urlname": "rladies-galapagos-islands"
-    }
+    },
+    "createdTime": "2020-06-26T19:55:56-04:00"
   },
   {
     "id": "271367880",
@@ -303,9 +311,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/f/e/thumb_490981278.jpeg"
     },
     "rsvps": {
-      "yesCount": 27,
+      "yesCount": 18,
       "waitlistCount": 0,
-      "totalCount": 27
+      "totalCount": 18
     },
     "venues": [
       {
@@ -324,7 +332,8 @@
     "group": {
       "name": "R-Ladies Galapagos Islands",
       "urlname": "rladies-galapagos-islands"
-    }
+    },
+    "createdTime": "2020-06-17T23:37:46-04:00"
   },
   {
     "id": "269331715",
@@ -357,7 +366,8 @@
     "group": {
       "name": "R-Ladies Galapagos Islands",
       "urlname": "rladies-galapagos-islands"
-    }
+    },
+    "createdTime": "2020-03-10T15:22:10-04:00"
   },
   {
     "id": "269023012",
@@ -369,9 +379,9 @@
     "eventUrl": "https://www.meetup.com/rladies-galapagos-islands/events/269023012/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 9,
+      "yesCount": 5,
       "waitlistCount": 0,
-      "totalCount": 9
+      "totalCount": 5
     },
     "venues": [
       {
@@ -390,7 +400,8 @@
     "group": {
       "name": "R-Ladies Galapagos Islands",
       "urlname": "rladies-galapagos-islands"
-    }
+    },
+    "createdTime": "2020-02-26T21:27:30-05:00"
   },
   {
     "id": "281861788",
@@ -408,9 +419,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/f/3/f/thumb_499977151.jpeg"
     },
     "rsvps": {
-      "yesCount": 130,
+      "yesCount": 94,
       "waitlistCount": 0,
-      "totalCount": 130
+      "totalCount": 94
     },
     "venues": [
       {
@@ -429,7 +440,8 @@
     "group": {
       "name": "R-Ladies Galapagos Islands",
       "urlname": "rladies-galapagos-islands"
-    }
+    },
+    "createdTime": "2021-11-04T00:13:29-04:00"
   },
   {
     "id": "281479277",
@@ -447,9 +459,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/2/7/1/thumb_499541585.jpeg"
     },
     "rsvps": {
-      "yesCount": 16,
+      "yesCount": 14,
       "waitlistCount": 0,
-      "totalCount": 16
+      "totalCount": 14
     },
     "venues": [
       {
@@ -468,7 +480,8 @@
     "group": {
       "name": "R-Ladies Galapagos Islands",
       "urlname": "rladies-galapagos-islands"
-    }
+    },
+    "createdTime": "2021-10-17T04:46:46-04:00"
   },
   {
     "id": "281174834",
@@ -486,9 +499,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/2/7/2/thumb_499221106.jpeg"
     },
     "rsvps": {
-      "yesCount": 24,
+      "yesCount": 22,
       "waitlistCount": 0,
-      "totalCount": 24
+      "totalCount": 22
     },
     "venues": [
       {
@@ -507,7 +520,8 @@
     "group": {
       "name": "R-Ladies Galapagos Islands",
       "urlname": "rladies-galapagos-islands"
-    }
+    },
+    "createdTime": "2021-10-02T21:23:18-04:00"
   },
   {
     "id": "280853079",
@@ -525,9 +539,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/f/6/3/thumb_498903939.jpeg"
     },
     "rsvps": {
-      "yesCount": 23,
+      "yesCount": 17,
       "waitlistCount": 0,
-      "totalCount": 23
+      "totalCount": 17
     },
     "venues": [
       {
@@ -546,7 +560,8 @@
     "group": {
       "name": "R-Ladies Galapagos Islands",
       "urlname": "rladies-galapagos-islands"
-    }
+    },
+    "createdTime": "2021-09-17T23:20:12-04:00"
   },
   {
     "id": "280567530",
@@ -564,9 +579,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/a/1/9/thumb_498614873.jpeg"
     },
     "rsvps": {
-      "yesCount": 26,
+      "yesCount": 22,
       "waitlistCount": 0,
-      "totalCount": 26
+      "totalCount": 22
     },
     "venues": [
       {
@@ -585,7 +600,8 @@
     "group": {
       "name": "R-Ladies Galapagos Islands",
       "urlname": "rladies-galapagos-islands"
-    }
+    },
+    "createdTime": "2021-09-04T22:31:51-04:00"
   },
   {
     "id": "280284001",
@@ -603,9 +619,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/2/7/0/thumb_498337488.jpeg"
     },
     "rsvps": {
-      "yesCount": 26,
+      "yesCount": 21,
       "waitlistCount": 0,
-      "totalCount": 26
+      "totalCount": 21
     },
     "venues": [
       {
@@ -624,7 +640,8 @@
     "group": {
       "name": "R-Ladies Galapagos Islands",
       "urlname": "rladies-galapagos-islands"
-    }
+    },
+    "createdTime": "2021-08-22T19:20:10-04:00"
   },
   {
     "id": "279965305",
@@ -642,9 +659,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/8/2/5/thumb_498018469.jpeg"
     },
     "rsvps": {
-      "yesCount": 24,
+      "yesCount": 17,
       "waitlistCount": 0,
-      "totalCount": 24
+      "totalCount": 17
     },
     "venues": [
       {
@@ -663,7 +680,8 @@
     "group": {
       "name": "R-Ladies Galapagos Islands",
       "urlname": "rladies-galapagos-islands"
-    }
+    },
+    "createdTime": "2021-08-06T22:11:11-04:00"
   },
   {
     "id": "279670770",
@@ -681,9 +699,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/a/d/d/thumb_497775069.jpeg"
     },
     "rsvps": {
-      "yesCount": 29,
+      "yesCount": 20,
       "waitlistCount": 0,
-      "totalCount": 29
+      "totalCount": 20
     },
     "venues": [
       {
@@ -702,7 +720,8 @@
     "group": {
       "name": "R-Ladies Galapagos Islands",
       "urlname": "rladies-galapagos-islands"
-    }
+    },
+    "createdTime": "2021-07-23T23:03:09-04:00"
   },
   {
     "id": "279439836",
@@ -720,9 +739,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/b/2/2/thumb_497503810.jpeg"
     },
     "rsvps": {
-      "yesCount": 23,
+      "yesCount": 20,
       "waitlistCount": 0,
-      "totalCount": 23
+      "totalCount": 20
     },
     "venues": [
       {
@@ -741,7 +760,8 @@
     "group": {
       "name": "R-Ladies Galapagos Islands",
       "urlname": "rladies-galapagos-islands"
-    }
+    },
+    "createdTime": "2021-07-13T08:13:40-04:00"
   },
   {
     "id": "279059280",
@@ -759,9 +779,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/f/8/f/thumb_497120367.jpeg"
     },
     "rsvps": {
-      "yesCount": 25,
+      "yesCount": 20,
       "waitlistCount": 0,
-      "totalCount": 25
+      "totalCount": 20
     },
     "venues": [
       {
@@ -780,7 +800,8 @@
     "group": {
       "name": "R-Ladies Galapagos Islands",
       "urlname": "rladies-galapagos-islands"
-    }
+    },
+    "createdTime": "2021-06-24T21:45:46-04:00"
   },
   {
     "id": "278780983",
@@ -798,9 +819,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/a/e/9/thumb_496847849.jpeg"
     },
     "rsvps": {
-      "yesCount": 15,
+      "yesCount": 14,
       "waitlistCount": 0,
-      "totalCount": 15
+      "totalCount": 14
     },
     "venues": [
       {
@@ -819,7 +840,8 @@
     "group": {
       "name": "R-Ladies Galapagos Islands",
       "urlname": "rladies-galapagos-islands"
-    }
+    },
+    "createdTime": "2021-06-11T20:04:21-04:00"
   },
   {
     "id": "278485425",
@@ -858,7 +880,8 @@
     "group": {
       "name": "R-Ladies Galapagos Islands",
       "urlname": "rladies-galapagos-islands"
-    }
+    },
+    "createdTime": "2021-05-28T23:45:34-04:00"
   },
   {
     "id": "278157982",
@@ -876,9 +899,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/c/e/4/thumb_496283780.jpeg"
     },
     "rsvps": {
-      "yesCount": 20,
+      "yesCount": 16,
       "waitlistCount": 0,
-      "totalCount": 20
+      "totalCount": 16
     },
     "venues": [
       {
@@ -897,7 +920,8 @@
     "group": {
       "name": "R-Ladies Galapagos Islands",
       "urlname": "rladies-galapagos-islands"
-    }
+    },
+    "createdTime": "2021-05-13T08:45:31-04:00"
   },
   {
     "id": "277927995",
@@ -915,9 +939,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/8/d/c/thumb_496046844.jpeg"
     },
     "rsvps": {
-      "yesCount": 21,
+      "yesCount": 14,
       "waitlistCount": 0,
-      "totalCount": 21
+      "totalCount": 14
     },
     "venues": [
       {
@@ -936,7 +960,8 @@
     "group": {
       "name": "R-Ladies Galapagos Islands",
       "urlname": "rladies-galapagos-islands"
-    }
+    },
+    "createdTime": "2021-05-01T20:16:28-04:00"
   },
   {
     "id": "276423811",
@@ -954,9 +979,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/2/0/b/thumb_494793291.jpeg"
     },
     "rsvps": {
-      "yesCount": 15,
+      "yesCount": 13,
       "waitlistCount": 0,
-      "totalCount": 15
+      "totalCount": 13
     },
     "venues": [
       {
@@ -975,7 +1000,8 @@
     "group": {
       "name": "R-Ladies Galapagos Islands",
       "urlname": "rladies-galapagos-islands"
-    }
+    },
+    "createdTime": "2021-02-17T14:52:24-05:00"
   },
   {
     "id": "276272955",
@@ -993,9 +1019,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/c/e/3/thumb_494692451.jpeg"
     },
     "rsvps": {
-      "yesCount": 21,
+      "yesCount": 18,
       "waitlistCount": 0,
-      "totalCount": 21
+      "totalCount": 18
     },
     "venues": [
       {
@@ -1014,7 +1040,8 @@
     "group": {
       "name": "R-Ladies Galapagos Islands",
       "urlname": "rladies-galapagos-islands"
-    }
+    },
+    "createdTime": "2021-02-09T15:26:34-05:00"
   },
   {
     "id": "286768850",
@@ -1034,7 +1061,8 @@
     "group": {
       "name": "R-Ladies Galapagos Islands",
       "urlname": "rladies-galapagos-islands"
-    }
+    },
+    "createdTime": "2022-06-23T23:31:13-04:00"
   },
   {
     "id": "286699950",
@@ -1067,7 +1095,8 @@
     "group": {
       "name": "R-Ladies Galapagos Islands",
       "urlname": "rladies-galapagos-islands"
-    }
+    },
+    "createdTime": "2022-06-20T19:09:10-04:00"
   },
   {
     "id": "286147413",
@@ -1106,7 +1135,8 @@
     "group": {
       "name": "R-Ladies Galapagos Islands",
       "urlname": "rladies-galapagos-islands"
-    }
+    },
+    "createdTime": "2022-05-25T20:07:40-04:00"
   },
   {
     "id": "286147441",
@@ -1126,7 +1156,8 @@
     "group": {
       "name": "R-Ladies Galapagos Islands",
       "urlname": "rladies-galapagos-islands"
-    }
+    },
+    "createdTime": "2022-05-25T20:10:02-04:00"
   },
   {
     "id": "285776334",
@@ -1159,7 +1190,8 @@
     "group": {
       "name": "R-Ladies Galapagos Islands",
       "urlname": "rladies-galapagos-islands"
-    }
+    },
+    "createdTime": "2022-05-08T06:54:41-04:00"
   },
   {
     "id": "285091976",
@@ -1177,9 +1209,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/2/9/b/thumb_503197531.jpeg"
     },
     "rsvps": {
-      "yesCount": 16,
+      "yesCount": 15,
       "waitlistCount": 0,
-      "totalCount": 16
+      "totalCount": 15
     },
     "venues": [
       {
@@ -1198,7 +1230,8 @@
     "group": {
       "name": "R-Ladies Galapagos Islands",
       "urlname": "rladies-galapagos-islands"
-    }
+    },
+    "createdTime": "2022-04-05T19:50:51-04:00"
   },
   {
     "id": "284916808",
@@ -1216,9 +1249,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/3/1/f/thumb_503013567.jpeg"
     },
     "rsvps": {
-      "yesCount": 10,
+      "yesCount": 8,
       "waitlistCount": 0,
-      "totalCount": 10
+      "totalCount": 8
     },
     "venues": [
       {
@@ -1237,6 +1270,7 @@
     "group": {
       "name": "R-Ladies Galapagos Islands",
       "urlname": "rladies-galapagos-islands"
-    }
+    },
+    "createdTime": "2022-03-28T19:34:45-04:00"
   }
 ]
