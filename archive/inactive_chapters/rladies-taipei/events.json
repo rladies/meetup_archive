@@ -1,0 +1,3213 @@
+[
+  {
+    "id": "236393690",
+    "title": "TW.R x HK.R 台港社群交流",
+    "description": "• 講者將會以英文演講，聽眾用中文或英文發問都可以。The main talk will be delivered in English, but attendants are free to ask questions in Chinese.\n\n• 此活動與 Taiwan R User Group 合辦，報名請至 Taiwan R User Group 報名。This event is co-organized with Taiwan R User Group, please register via this webpage: https://www.meetup.com/Taiwan-R/events/236327688/\n\n• Program 議程表\n\n19:30-20:00 Lightening Talk 閃電秀\nAn (Short?) Introduction to Bioconda, UpSetR, and snakemake\n@亮亮 liang2\n\n20:00-21:00 Main Session 主議程\nHarnessing social media data with machine learning\n@Lucia\n\n•Main Session 主議程\n\nTitle: Harnessing social media data with machine learning\n\nAbstract: Judging others' psychological traits is not only an essential skill in successful social living, but also an important factor in product development. Psychological traits are a key driver behind human interaction, behavior and emotions. Although accurate judgments stem from social-cognitive skills, developments in machine learning show that computer models can also make valid judgments. It is also possible that this technique can assist clinical diagnosis in the future.\n\nResearch by Lucia Chen (speaking), Tao Gong and Rob Davidson.\nDirections: https://m-labs.hk/public_events.html\n\n• Speaker: Lucia, Lushi Chen\n\nhttps://a248.e.akamai.net/secure.meetupstatic.com/photos/event/7/6/5/f/600_457050303.jpeg\n\nMaster in Linguistics The University of Hong KongMaster in Psychology City University of Hong Kong\nLucia has just finished her master degree of psychology this December. She is going to pursue a doctoral degree in psychology in the coming year.Her major research area is to use social media data to predict psychological traits. Her previous works include using internet data to predict user’s satisfaction with life and depression symptoms.She is also interested in app development, especially a chat bot.\nProgramming language: R, Python, Javascript, HTML, Meteor Actual speaking language: Chinese, English and some broken Japanese\n\nInterests: watch panda videos on ipanda, foodie, traveling\n\n• Lightening Talk 閃電秀\n\nTitle: An (Short) Introduction to Bioconda, UpSetR, and snakemake\n\nAbstract: This short talk will introduce a few interesting on-going R projects and packages in independent sections. First section covers (Bio)conda, the package management system for both R and Python, where bioconda brings sepecific support for commonly used bioinformatic tools in both languages. Second section introduces a R package, UpSetR, which implements a novel way to visualize intersections of sets, that is, to visualize how different groups of samples overlap with each other. If time permits, lastly, an extended makefile-like build system, snakemake, will be demonstrated to construct a parallelized analysis pipeline involving both R and Python scripts.\n\nSpeaker: 亮亮 (or liang2), Liang-Bo Wang\n\n亮亮 (or liang2) is a PhD student in Computational and Systems Biology at Washington University in St. Louis (WUSTL) with research interest in cancer genomics. Aside from academics, liang2 attends and speaks in Python and R open source communities, including Taipei.py and MLDM Monday. His recent project is the Chinese translation of the official Python documentation.",
+    "status": "PAST",
+    "dateTime": "2016-12-27T19:30:00+08:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/236393690/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 1,
+      "waitlistCount": 0,
+      "totalCount": 1
+    },
+    "venues": [
+      {
+        "id": "24535674",
+        "name": "極客窩 Geek Cave",
+        "address": "Lane 248, Section 3, Zhongxiao E Rd, Da’an District, Taipei City, 106",
+        "city": "Taipei",
+        "state": "",
+        "country": "tw",
+        "lat": 25.0403,
+        "lon": 121.5413,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2016-12-22T02:21:46-05:00"
+  },
+  {
+    "id": "236318573",
+    "title": "新夥伴相見歡 & R-basic籌備分組",
+    "description": "在R-Ladies兩周年慶之後，有許多新朋友熱情地舉手加入我們！\n\n因此12/26(一)這天，我們特別安排R-Ladies新夥伴相見歡活動，讓大家能夠互相熟悉、完成R-basic分組，也希望大家藉著這個機會，能夠找到學習夥伴！\n\n[Agenda]\n\n• 19:30-19:40 引言 - 歡迎新夥伴\n\n• 19:40-20:00 R-basic教學小組要做什麼、怎麼做?\n\n• 20:00-20:10 分組&R-basic主題分配\n\n• 20:10-20:20 招兵買馬 - GIS學習小組\n\n(組長Miss Monday將在神秘的地方與我們連線！)\n\n• 20:20-20:30 學習建議與社群禮儀\n\n• 20:30-21:00 自由交流時間\n\n[R-basic Group Information]\n\nR-basic小組，將於2017年R-Ladies Taipei每月月聚會，帶來15分鐘的R-basic教學。\n\n期許R-basic Group能夠讓各位夥伴，在準備教案、團隊合作過程中加速學習，並且在社群活動中，結交到好朋友好夥伴。\n\n[Host information]\n\nNing ：\n\nR-Ladies Co-founder，也是R-basic開山始祖。從Excel高手/R的初學者，進階成為R的講師，是一位帶著魯夫精神的女漢子！\n\nDana：\n\n具有研究精神的資料分析師，因緣際會進入IT部門，因此除了R、SPSS Modeler、Tableau以外，也接觸到各類資料庫語法、跨平台資料庫介接及網頁前台語言。希望跟大家一起交流、成長\n\nLucy：\n\n科技業經營企劃，擅長統籌與簡報。從想學R帶著熱情加入了R-Ladies，幾個月來從滿懷恐懼不會寫code到現在可獨立進行小專案分析。希望在協助初學者的過程中，一起進步",
+    "status": "PAST",
+    "dateTime": "2016-12-26T19:30:00+08:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/236318573/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 19,
+      "waitlistCount": 0,
+      "totalCount": 19
+    },
+    "venues": [
+      {
+        "id": "24956098",
+        "name": "人資小週末",
+        "address": "台北市中正區林森南路142號B1",
+        "city": "Taipei",
+        "state": "",
+        "country": "tw",
+        "lat": 25.0332,
+        "lon": 121.5183,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2016-12-18T12:13:27-05:00"
+  },
+  {
+    "id": "235551756",
+    "title": "[Education Series] 擁抱跨界力 – CS+X 的新方向 p.s. Working With JavaScript In R",
+    "description": "[Agenda]\n\n• 19:15-19:30 R Basic\n\n• 19:30-20:30 主議程: 擁抱跨界力 – CS+X 的新方向 p.s. Working With JavaScript In R @Pecu\n\n• 20:30-20:50 閃電秀: Power BI with R @Kristen\n\n• 20:50 - 自由交流時間\n\n[Talk Information]\n\n• 擁抱跨界力 - CS+X 的新方向 p.s. Working With JavaScript In R\n寫程式、訓練計算思維(Computational Thinking)全球都在瘋。程式語言儼然已成為全民必修的第二外語。我們想透過本次分享來探討， 程式語言在歷史、中文、新聞、生活與個人價值 到底發生了何種巨大的影響力？\n\n本次分享目標在滿足三種需求：\n\n1. 了解寫程式的重要，但是不知道如何開始？\n\n2. 已經開始接觸一段時間卻遇到瓶頸，但不知道如何重拾熱情？\n\n3. 已經是神人等級的高手，但卻不知道該如何觀察身邊的問題？\n\n最後，用Working With JavaScript In R的 Living Coding來結尾，期待，共同創造更多擁有跨領域人才。\n\n• Power BI with R\nPower BI 是微軟推出非常好用的BI工具，也支援了多種的來源 Excel, Microsoft SQL, JSON, Microsoft Azure....\nPower BI 也可以與R整合，來執行統計分析、建立出吸引人的視覺化圖表。\n\n[Speaker Information]\n\n• 蔡芸琤(Pecu)\n目前為國立臺灣大學共同教育中心助理教授，曾於德國馬克斯普朗克科學史研究所擔任博士前研究員，亦曾於衍生品估值和風險管理計算跨資產分析服務提供商 Numerix 擔任軟體工程師。\n\n• Kristen Chan\n喜歡學任何新鮮有趣的東西，看到 R-Ladies 大家無私地分享很多知識給大家，很期望也能貢獻一點自己學到的東西，並與大家一同成長。\n\n[Host information]\n\n• Yen\nR-Ladies Taipei organizers 之一。",
+    "status": "PAST",
+    "dateTime": "2016-12-05T19:30:00+08:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/235551756/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 46,
+      "waitlistCount": 0,
+      "totalCount": 46
+    },
+    "venues": [
+      {
+        "id": "24660264",
+        "name": "Dcard Office",
+        "address": "台北市大安區光復南路102號11樓",
+        "city": "Taipei",
+        "state": "",
+        "country": "tw",
+        "lat": 25.0262,
+        "lon": 121.5427,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2016-11-13T10:25:12-05:00"
+  },
+  {
+    "id": "235691389",
+    "title": "[Annual Party 周年慶] R-Laides兩歲了 Celebration for 2-years-old.",
+    "description": "R-Ladies兩歲生日宴\n\n歡迎參加過的妳，一起來這個女生的聚會，也聽聽明年有什麼有趣活動。\n\nPS. 活動當天提供PIZZA、零食及飲料喔～\n\n週年慶流程\n\n19:30-19:35 開場\n\n19:35-20:05 2016回顧\n\n20:05-20:35 2017展望\n\n20:35-20:45 明年議程預告\n\n20:45-20:50 明年的一些新做法預告\n\n20:50-20:55 Kaggle競賽預告\n\n20:55-21:20 友團介紹",
+    "status": "PAST",
+    "dateTime": "2016-11-28T19:30:00+08:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/235691389/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 40,
+      "waitlistCount": 0,
+      "totalCount": 40
+    },
+    "venues": [
+      {
+        "id": "24660264",
+        "name": "Dcard Office",
+        "address": "台北市大安區光復南路102號11樓",
+        "city": "Taipei",
+        "state": "",
+        "country": "tw",
+        "lat": 25.0262,
+        "lon": 121.5427,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2016-11-19T08:34:25-05:00"
+  },
+  {
+    "id": "245628961",
+    "title": "[語意分析] 語意角色標註(semantic role labeling)",
+    "description": "Agenda\n\n• 19:00-19:30 暖身活動: R Basic\n\n• 19:30-20:30 主議程: 語意角色標註(semantic role labeling) @Hao-Wei Her\n\n• 20:30-20:50 閃電秀: AIDS 年會分享 @PeiLee\n\n• 20:50-21:10 閃電秀: Azure ML 與 Excel 搭配術 @Felaray\n\n• 21:10 - 自由交流時間\n\nTalk Information\n\n• 語意角色標註(semantic role labeling)\n去年曾經在R ladies介紹過自然語言的語法套件、實作。今年要跟大家分享的主題是語意角色標註(semantic role labeling)的基礎概念、常用用來預測語意角色的數據格式介紹、語意與語法的不同之處等等。研究語意角色已經有一年多，希望能和大家分享這一年的心得。\n\n• AIDS 年會分享\n分享 2017 年人工智慧年會及資料科學年會中個人覺得有趣的部分，分別為：資料視覺化、爬蟲以及聊天機器人，共會提及八場演講的部分內容。只會簡單介紹每場演講在做的東西，點到為止，不會涉及技術部分，希望大家也會覺得有趣 ❤️\n\n• Azure ML 與 Excel 搭配術\n資料處理向來就不是新鮮的議題。不論是以往的資料探勘、或是大數據至機器學習，資料所呈現的智慧往往被視為人們處理各種事物的瑰寶。\nExcel作為一款老牌的數據處理工具，如何透過Azure Machine Learning在現今潮流下站穩一席之地呢?\n\nSpeaker Information\n\n• Hao-Wei Her\n大家好，我是Hao-Wei，在語意理解的實驗室工作，研發工程師一枚。\n\n• PeiLee\n資料分析師，大學主修日文跟廣告。比平日上班再早起一小時，連去了四天的年會，回來後在 Medium 寫了一萬多字的筆記加心得，把功德做好做滿，成為老闆心中最柔軟的那一塊。\n\n• Felaray\n微軟2017 Office MVP,遊走於Azure/SharePoint等領域,喜歡嘗試使用非典型方法接觸各種新鮮技術.近年來較熱衷於ChatBot與Cortana的開發.\n\n[Code of Conduct]\n基本上這是一個女性學習社群，因此若你不是女性，但出現在我們的實體聚會的話，你很可能被要求以下行為：\n\n• 發言的機會請優先留給女生\n\n• 座位請優先保留給女生\n\n• 必須對 R-Ladies Taipei 有貢獻，例如：提供高品質的 3分鐘技術閃電秀\n\n[Note]\n這次其中一位講師會介紹一個已經包好的github來給大家玩，歡迎大家帶電腦一起來玩喔！",
+    "status": "PAST",
+    "dateTime": "2017-12-18T19:30:00+08:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/245628961/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 40,
+      "waitlistCount": 0,
+      "totalCount": 40
+    },
+    "venues": [
+      {
+        "id": "24660264",
+        "name": "Dcard Office",
+        "address": "台北市大安區光復南路102號11樓",
+        "city": "Taipei",
+        "state": "",
+        "country": "tw",
+        "lat": 25.0262,
+        "lon": 121.5427,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2017-12-03T23:13:04-05:00"
+  },
+  {
+    "id": "245095439",
+    "title": "R shiny with Azure ML（限制學生以表單報名）",
+    "description": "歡迎在校有程式撰寫經驗同學報名活動~~~~\n\n微軟實習生計畫邀請R-laides Ning Chen 張懷文 （Huai-Wen Mia Chang） Kristen Chan 一起為女大生辦手把手\n\"學習如何用鐵達尼號數據做出一個web service，上手Machine Learning Studio 以 Web 服務方式發佈模型，透過R Shiny做出可互動式預測結果並在 Azure 虛擬機器執行。\"\n\n報名表單在此->http://tinyurl.com/ycdl96zx\n🎈活動時間：2017年12月9日(六)\n🎈活動對象：\n必要條件->6/30/2019具備大專院校在校生資格（含大學、研究所、博士生)之女生\n🎈優先條件->具有程式撰寫經驗者(請於報名表中詳細撰寫)\n🎈活動費用：FREE->精進coding的大好機會，女大生快來報名吧!\n\n*主辦方將以email方式通知報名成功者。",
+    "status": "PAST",
+    "dateTime": "2017-12-09T09:00:00+08:00",
+    "duration": "PT8H15M",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/245095439/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 1,
+      "waitlistCount": 0,
+      "totalCount": 1
+    },
+    "venues": [],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2017-11-13T21:55:57-05:00"
+  },
+  {
+    "id": "244744818",
+    "title": "[Annual Party 周年慶] R-Laides Taipei 三歲了 Celebration for 3 years old!!!",
+    "description": "R-Ladies Taipei 三歲生日宴\n\n歡迎參加過的妳 妳 還有妳，一起來這個女生的聚會，也來聽聽明年有什麼有趣活動。\n\nPS. 現場備有輕食，誠摯地邀請妳一起來同樂！\n\nhttps://raw.githubusercontent.com/rladiestaipei/R-Ladies-Taipei/gh-pages/img/HappyBirthday_RLadies_3.png",
+    "status": "PAST",
+    "dateTime": "2017-11-27T19:00:00+08:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/244744818/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 67,
+      "waitlistCount": 0,
+      "totalCount": 67
+    },
+    "venues": [
+      {
+        "id": "25492415",
+        "name": "三創育成11樓 Space A",
+        "address": "台北市中正區市民大道三段2號11F",
+        "city": "Taipei",
+        "state": "",
+        "country": "tw",
+        "lat": 25.0458,
+        "lon": 121.5312,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2017-11-02T03:02:55-04:00"
+  },
+  {
+    "id": "244168733",
+    "title": "如何打場黑客松",
+    "description": "1. Agenda\n\n19:15~19:30 R basic: 遺漏值填補(Michelle)，資料型態轉換(Pepper)\n\n19:30-20:15 如何打場黑客松@Luffy\n\n20:15~20:30 閃電秀: 透明足跡介紹-環保相關OpenData@虹文\n\n20:30~20:45 閃電秀: 用人話寫程式的活文件@Joey\n\n2. Talk Information\n\n• 如何打場黑客松-跨國OpenData的取得及使用\n\n分享參加黑客松比賽的經驗，如何從題目發想到做出prototype可以demo，以及分享自己跨領域學程式的經驗。\n\n• 透明足跡介紹-環保相關OpenData\n\n「透明足跡」是一個追蹤企業污染數據與環境表現的專案，這個網站是專案中的一個工具，透過視覺化系統，使艱澀的數據更好理解，讓全民都有機會掌握環境問題，並參與監督、檢舉，找出真正的環境兇手。\n\nhttps://www.zeczec.com/projects/thaubing\n\n• 用人話寫程式的活文件\n\n現代軟體開發講究從需求、測試、開發、文件一氣呵成，其中包含：\n該怎麼將需求實例化的過程，用人話的方式描述出來該怎麼從人話來設計驗收測試該怎麼從測試來驅動開發該怎麼將人話變成活文件\n\n四件事就是同一件事\n確保沒有浪費絲毫力氣在跟需求不相干的事物上確保開發前對驗收方式的理解有共識確保隨著軟體產品功能越來越多，花費在測試的時間與成本能趨於固定\n\n3. Speaker Information\n\n• Luffy\n背景是台大經濟所，學習程式一年，主要使用Ｒ語言，參加過三次黑客松，今年七月參加的台大黑客松，團隊獲得第三名。\n\n• Joey\nJoey，大家都叫我 91，是 TDD 的狂熱者，將敏捷精神融入到自己的生活與人生。目前在 Odd-e 擔任敏捷教練，也是台灣團隊的負責人。參加過我 TDD 培訓課程的學員已超過 500 位，也有成功協助許多開發團隊引入敏捷開發的經驗，將自己定位在催化劑的角色，擅長讓團隊無痛有感的改善痛點，優化軟體設計及各角色之間協同合作的流程。\n\n4.Code of Conduct\n基本上這是一個女性學習社群，因此若你不是女性，但出現在我們的實體聚會的話，你很可能被要求以下行為：\n\n• 發言的機會請優先留給女生\n\n• 座位請優先保留給女生\n\n• 必須對 R-Ladies Taipei 有貢獻，例如：提供高品質的 3分鐘技術閃電秀",
+    "status": "PAST",
+    "dateTime": "2017-10-30T19:00:00+08:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/244168733/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 56,
+      "waitlistCount": 0,
+      "totalCount": 56
+    },
+    "venues": [
+      {
+        "id": "25388397",
+        "name": "資策會教育中心  300 會議室",
+        "address": "台北市大安區信義路三段153號3樓",
+        "city": "Taipei",
+        "state": "",
+        "country": "tw",
+        "lat": 25.0337,
+        "lon": 121.5426,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2017-10-13T02:35:58-04:00"
+  },
+  {
+    "id": "243039684",
+    "title": "[Crawler] 如何用數據打造最貼心的旅遊搜尋引擎",
+    "description": "1. Agenda\n\n• 19:10 -19:30 R basic: [敘述統計] 相關性/相關係數、時間變數的資料型態、時間序列簡單看 @Ricci/旻均/舒瑜\n\n• 19:30-20:30 主議程: 如何用數據打造最貼心的旅遊搜尋引擎 @Mars\n\n• 20:30-20:50 閃電秀: Microsoft Azure Cognitive Services @姿君\n\n• 20:50-21:10 閃電秀: 用 power BI 探索資料 @Claire\n\n• 21:10 - 自由交流時間\n\n2. Talk Information\n\n• 如何用數據打造最貼心的旅遊搜尋引擎\n旅行是一個非常有趣的議題，背後是由極為複雜資訊所組成的無實體商品， Mars 將分享平常在工作中，會搜集哪些數據，以及如何進行推薦， 讓用戶跳脫只能比價的框架，能在Tripresso 團體旅遊搜尋引擎找到最適合他們的旅程～\n\n• Microsoft Azure Cognitive Services\nMicrosoft Azure Cognitive Services 是一套集結合微軟研究成果的辨識 API，涵蓋內容十分廣泛，包含了表情與情緒偵測、視覺與語音辨識、語言理解、知識與搜尋等等，即使不懂 Machine Learning 也可以藉由輸入短短幾行程式碼，就建置出強大演算法的應用程式。 本次將介紹情緒偵測、視覺的部分，15 分鐘讓大家可以快速學會如何使用 Cognitive Service！\n\n• 用 power BI 探索資料\n懶得看密密麻麻的資料分布統計表格嗎？畫圖就對了！圖表可是速速看懂資料分布的超棒工具呢，要知道，畫圖治百病！（才怪）這次一起用 Power BI 來探索手上的資料吧！\n\n3. Speaker Information\n\n• Mars Weng\n現任職於 Tripresso，擔任資料工程師，工作內容是旅行資料的爬蟲抓取與資料清理，以及規劃各種可能的資料整合應用。解決問題是 Mars 的核心精神，不只寫程式可以達到這個目的，培養夥伴學習程式也是一個很好的解答，目前擔任 PyLadies Hosts 之一，負責帶領初探 Python 或是對網路爬蟲有興趣的人。\n\n• 姿君\nBeseye工程師，PyLadies 負責人之一，在公司負責影像處理與 Android 開發的部分，熱愛電腦科學，期待能夠跟大家一起追求神乎其技！\n\n• Claire\n知了新聞共同創辦人，〈互動地圖：雙北所得大解密〉作者。曾任 MIT Media Lab Changing Places Group 研究助理。沒有女朋友的少女心大叔魂死肥宅。意外的（？）pH值極低。最近喜歡乃木坂 46 的生田繪梨花跟 D3.js。夢想是減少這個世界上的資訊不對稱。\n\n4. Host information\n\n• Host\nMia",
+    "status": "PAST",
+    "dateTime": "2017-09-25T19:30:00+08:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/243039684/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 81,
+      "waitlistCount": 0,
+      "totalCount": 81
+    },
+    "venues": [
+      {
+        "id": "24660264",
+        "name": "Dcard Office",
+        "address": "台北市大安區光復南路102號11樓",
+        "city": "Taipei",
+        "state": "",
+        "country": "tw",
+        "lat": 25.0262,
+        "lon": 121.5427,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2017-09-02T09:17:58-04:00"
+  },
+  {
+    "id": "242527100",
+    "title": "[Text mining] R與中文分詞",
+    "description": "1. Agenda\n\n• 19:15-19:30 R Basic: 給初心者的統計概念與小故事\n\n• 19:30-20:30 主議程: Word cloud in R @莊舒媛\n\n• 20:30-20:50 閃電秀: 從外國語言到程式語言 @Pei Lee\n\n• 20:50 - 自由交流時間\n\n2. Talk Information\n\n• Word cloud in R\n\n在R軟體裡先做分詞處理，最後將結果儲存到資料庫中。在分詞處理上我們使用Rwordseg、jiebaR做分詞，依據分詞後的結果計算出頻率即可繪製文字雲。\n\n• 從外國語言到程式語言\n\n先分享一個免費的資料來源：全世界最大的社會事件開放資料庫 GDELT，以及實際應用。再來談談用外國語言工作一陣子後，改以程式語言安身立命的歷程：怎麼會從日文系跑去當數據分析師？\n\n3. Speaker Information\n\n• 莊舒媛\n\n目前是國立臺北商業大學 研究生，在學生時期透過R軟體進行購物籃分析、關聯規則分析、網路爬蟲、LDA分析與類神經網路預測等研究。\n\n• Pei Lee\n\n大學主修日文跟廣告企劃，指考數學不及格，沒修過統計學，在傳產做過兩年日韓線採購，現在在當自己說出來都會心虛的數據分析師。剛過試用期不久，過著每天寫程式的生活，目前比較熟悉的語言是中文、日文、英文跟Python。\n\n4. Host information\n\n• Kristen Chan",
+    "status": "PAST",
+    "dateTime": "2017-08-28T19:15:00+08:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/242527100/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 64,
+      "waitlistCount": 0,
+      "totalCount": 64
+    },
+    "venues": [
+      {
+        "id": "25388397",
+        "name": "資策會教育中心  300 會議室",
+        "address": "台北市大安區信義路三段153號3樓",
+        "city": "Taipei",
+        "state": "",
+        "country": "tw",
+        "lat": 25.0337,
+        "lon": 121.5426,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2017-08-14T00:05:47-04:00"
+  },
+  {
+    "id": "241146065",
+    "title": "[女力 x 資料科學 x 數據應用] Joint Meetup with PyLadies and Girls in Tech",
+    "description": "# 本活動由國泰金控贊助下午茶\n\n# 本活動由台灣微軟贊助場地\n\n# 本活動報名截止於 8/6, 上限 70 人，免費~\n# R-Ladies/ PyLadies/ Girls in Tech 擇一報名就可以囉\n# 只限女生報名喔\n\n這是 R-Ladies, Girls in Tech, PyLadies 首次合辦的講座活動，議程將環繞著我們的主題「女力 x 資料科學 x 數據應用」！延續過去每個月的技術講座，除了一樣著重在資料應用案例分享外，這次跨社群的橫向交流也是一大重點。讓我們期待 3 個性質各異的女性社群可以激盪出什麼火花，也期待更多未來的合作！\n\nAgenda\n\n13:30 [社群介紹]\nGirls in Tech、R-Ladies、PyLadies\n\n13:45 [女力講座]\n女性社群力量@Angie & Yi-chu (Girls in Tech)\n\n14:15 [社群交流時間]\n\n15:15 [下午茶茶歇]\n\n15:30 [資料科學講座]\n用 R 玩 Kaggle – 臉書打卡點預測 @Mia (R-Ladies)\n\n16:00 [數據應用講座]\n如何用數據打造最貼心的旅遊搜尋引擎@Mars (PyLadies)\n\n16:30\nOpen Mic/擺攤\n\nAbstract\n\n• 女性社群力量\nAngie將分享她如何從商管跨入數據分析領域，在男女比1:5的團隊遇到哪些困難，又從社群看到什麼學到什麼~\n\n• 用Ｒ玩 Kaggle: 預測臉書打卡點\nKaggle是資料科學們最常出沒的線上資料競賽平台，在上面除了有open data 可以使用，也可以透過參加競賽練習自己的能力。這場分享將會快速帶大家用 R 玩Kaggle，挑戰2016年Facebook在網站上公開的資料，預測下一個熱門的打卡點會是在哪裡～學習如何思考問題跟解決問題！\n\n• 如何用數據打造最貼心的旅遊搜尋引擎\n旅行是一個非常有趣的議題，背後是由極為複雜資訊所組成的無實體商品，Mars 將分享平常在工作中，會搜集哪些數據，以及如何進行推薦，讓用戶跳脫只能比價的框架，能在Tripresso團體旅遊搜尋引擎找到最適合他們的旅程～\n\nSpeaker Information\n\n• Angie\n企業策略部門的商業數據分析師，經濟及企管背景出身，在公司內部以資料分析挖掘問題，並推行如流程改善等解決方案。喜歡參與社群活動與各領域朋友們交流經驗，學習從不同的角度看世界。\n\n• Yi-Chu Chen\n現職是鹿羊科技的專案經理，算是一個什麼都需要做一點的工程師，在大學唸電子工程，研究所唸影像處理和機器學習，不過畢業當時，還沒有相關需求的職缺，就進入網路業，開始不斷學習的過程（不斷轉換語言跟框架），最喜歡網路將大家連在一起的特性，平常除了學習新技術外，也喜歡和來自不同背景的人溝通，希望能讓大家使用科技的門檻降低。\n\n• Mia\n現於Linker Networks擔任資料科學家，過去擔任過資料分析顧問，透過演算法以及機器學習去解決生活中/商業中會遇到的問題。曾於R-Ladies 柏林、里斯本跟台北做社群分享，現在也是R-Ladies Taipei以及Azure Taiwan Community的核心成員。\n\n• Mars Weng\n現任職於 Tripresso，擔任資料工程師，工作內容是旅行資料的爬蟲抓取與資料清理，以及規劃各種可能的資料整合應用。解決問題是 Mars 的核心精神，不只寫程式可以達到這個目的，培養夥伴學習程式也是一個很好的解答，目前擔任 PyLadies Hosts之一，負責帶領初探Python或是對網路爬蟲有興趣的人。\n\n贊助單位：\n\nhttps://secure.meetupstatic.com/photos/event/9/0/d/d/600_463177085.jpeg\n\nhttps://secure.meetupstatic.com/photos/event/9/1/1/2/600_463177138.jpeg",
+    "status": "PAST",
+    "dateTime": "2017-08-12T13:30:00+08:00",
+    "duration": "PT4H",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/241146065/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 66,
+      "waitlistCount": 1,
+      "totalCount": 66
+    },
+    "venues": [
+      {
+        "id": "24796861",
+        "name": "台灣微軟(新址）",
+        "address": "台北市信義區忠孝東路5段68號19樓",
+        "city": "Taipei",
+        "state": "",
+        "country": "tw",
+        "lat": 25.0405,
+        "lon": 121.5669,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2017-06-28T11:57:08-04:00"
+  },
+  {
+    "id": "235551903",
+    "title": "[Security Series] 資安與 R",
+    "description": "[Agenda]\n\n• 19:15-19:30 R Basic @Vivian, Dana, 謝包妹\n\n• 19:30-20:30 主議程: 如何以R做為事件蒐集及分析的利器 @方丈\n\n• 20:30-20:50 閃電秀: dplyr 介紹 @王斯霈\n\n• 20:50-21:00 閃電秀: R-Ladies Taipei Kaggle大賽小小心得分享 @Kristen\n\n• 21:00 - 自由交流時間\n\n[Talk Information]\n\n• 如何以R做為事件蒐集及分析的利器\n\n資訊安全事件層出不窮，在第一線的LOG蒐集即是一件需要大量投入資源的工作，而往後的事件分析及事件追縱是另一個管理問題。單就事件分析及關聯性，R是一個非常好的工具及平台。接承前一次閃電秀中說明的事件發生的始末，本次議程深入的探討如何以R來挖掘入侵事件，進而建置一個屬於自已的事件偵測機制。\n\n• dplyr 介紹\n\n如何迅速將資料調處到理想的樣子在資料進到模型進行分析之前有好長一段路要走，那就是-資料調處。我們將在20分鐘內體驗資料整理的辛酸，體驗資料分析90%的時間所做的事情吧!\n\n• R-Ladies Taipei Kaggle大賽小小心得分享\n\n你有玩過Kaggle嗎？你想玩Kaggle但來不及參加R-Ladies Taipei 2017 Kaggle 大賽？沒關係！你可以來聽聽這次 R-Ladies Taipei 2017 Kaggle 大賽選定的題目、助教攤常見問題、以及為何參賽者們都需要 Azure 的幫助 ?! 或許聽完後你也會開始挑戰你的第一場Kaggle比賽。\n\n[Speaker Information]\n\n• 方丈\n登豐數位科技技術總監，專長為windows安全、web安全及資訊安全事件鑑識，具有CISSP-ISSMP, CEH, CHFI, ECSA, ISO27001LA,BS10012LA等資訊安全相關認證，我就是因為懶所以懂得如何讓工作自動化，也因為懶所以常用各種新的方法來讓工作更有效率，在入侵事件中最重要的一環是log分析，透過各種不同的方法快速的找出有問題的記錄，減少目前的工作負載，讓更多的時間可以用在維護世界和平上。\n\n• 王斯霈\n王斯霈勤業眾信聯合會計師事務所風險管理部門數據分析，腦袋想不開從統計系轉到資訊管理所就讀，從此踏上STAT+IT的生活。是個剛出社會的新鮮人，期望能持續朝資料科學家邁進。\n\n• Kristen Chan\n目前在Wave-In擔任資料科學家，專長是電子商務數據挖掘和電信數據分析。她樂於與 R-Ladies Taipei 的夥伴分享經驗和知識，並希望透過 R-Ladies Taipei 讓更多女性朋友不再害怕 Coding，並了解數據分析其中的奧妙。現在也是 R-Ladies Taipei Officer 之一。現任微軟 MVP 最有價值專家。\n\n[Host information]\n\n• Yen",
+    "status": "PAST",
+    "dateTime": "2017-07-31T19:30:00+08:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/235551903/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 76,
+      "waitlistCount": 0,
+      "totalCount": 76
+    },
+    "venues": [
+      {
+        "id": "25388397",
+        "name": "資策會教育中心  300 會議室",
+        "address": "台北市大安區信義路三段153號3樓",
+        "city": "Taipei",
+        "state": "",
+        "country": "tw",
+        "lat": 25.0337,
+        "lon": 121.5426,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2016-11-13T10:27:38-05:00"
+  },
+  {
+    "id": "242087209",
+    "title": "Kaggle Cafe",
+    "description": "吃早餐，打 Kaggle 。",
+    "status": "PAST",
+    "dateTime": "2017-07-29T09:00:00+08:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/242087209/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "25393055",
+        "name": "Piglet Cafe",
+        "address": "No. 5, Lane 76, Section 3, Xinsheng South Road, Da’an District, Taipei City, 106",
+        "city": "Taipei",
+        "state": "",
+        "country": "tw",
+        "lat": 25.0192,
+        "lon": 121.5333,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2017-07-28T05:39:05-04:00"
+  },
+  {
+    "id": "235551876",
+    "title": "[Special Case Series] Digital Humanities in R",
+    "description": "[Agenda]\n\n• 19:15-19:30 RBasic by RLadies\n\n• 19:30-20:30 主議程: Digital Humanities in R by Pecu\n\n• 20:30-20:50 閃電秀1 : PHP 也有Day by Shengyou\n\n• 20:50-21:10 閃電秀2 : 如何快速尋出有問題的入侵記錄 by 黃建笙\n\n• 21:10 - 自由交流時間\n\n[Talk Information]\n\n• RBasic\n\nRLadies RBasic 小組的 RBasic 系列\n\n• Digital Humanities in R\n\n甚麼是數位人文？我在德國的做的研究是甚麼？如何使用 R 於數位人文的領域上\n\n• 媽，我交了個大象朋友\n\n在這一場分享裡，聖佑試著回顧當初接觸 PHP 程式語言的過程，並透過擬人化的方式將 PHP 的吉祥物「大象」比擬成自己在小時候交的一位朋友。以介紹朋友的方式，期望能在 15 分鐘超短的時間內，讓完全不認識 PHP 這個程式語言的朋友能對它有初步的認識，並能試著開始撰寫自己的第一個 PHP 網頁\n\n• 如何快速尋出有問題的入侵記錄\n網站攻防已然是目前資訊安全領域的顯學，但對於一個服務提供者而言，最重要的是忠實的呈現客戶發生了什麼事情，因此在LOG的分析上是一個相當重要的工作，透過各種不同的方法快速的顯示出有問題的記錄，免除了過多的人為主觀，透過分析的過程找出切入點，及真的的根本原因才是最終的目標\n\n[Speaker Information]\n\n• 蔡芸琤(Pecu)\n目前在大學擔任菜鳥老師，負責 CS+X 推廣與教學工作，兩年前有機會到德國某研究中心工作，接觸到了數位人文的研究議題，深深喜歡上文理一家融合的思考方式，大大推翻台灣在高中就將文理組分家的教育方式，因此，想在台灣進行跨領域教育推廣工作，希望能聚集喜歡實踐想法的人們，一起改變世界\n\n• 范聖佑 (Shengyou Fan)\n\n現職為得寬科技研究員、Laravel 傳教士。2013 年在 Facebook 上成立 Laravel 台灣 社團及成立 Laravel 道場 教學站，並與多間學校、企業單位合作舉辦教育訓練工作坊，從此踏上 Laravel 傳教與導入之路。除此之外也在 Github 上發佈數項與 Laravel 開發相關的懶人包與外掛，每個月固定舉辦三場 PHP/Laravel 活動，以實現簡潔優雅開發為夢想。持續關注創新應用、網路技術、印刷出版及甜點烘焙等領域。目前抱著甜點書持續 Full Stack 的旅程！\n\n• 黃建笙\n\n登豐數位科技技術總監，專長為windows安全、web安全及資訊安全事件鑑識，具有CISSP-ISSMP, CEH, CHFI, ECSA, ISO27001LA,BS10012LA等資訊安全相關認證，我就是因為懶所以懂得如何讓工作自動化，也因為懶所以常用各種新的方法來讓工作更有效率，在入侵事件中最重要的一環是log分析，透過各種不同的方法快速的找出有問題的記錄，減少目前的工作負載，讓更多的時間可以用在維護世界和平上。\n\n[Host information]\n\n• Rachael",
+    "status": "PAST",
+    "dateTime": "2017-06-26T19:30:00+08:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/235551876/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 21,
+      "waitlistCount": 0,
+      "totalCount": 21
+    },
+    "venues": [
+      {
+        "id": "24660264",
+        "name": "Dcard Office",
+        "address": "台北市大安區光復南路102號11樓",
+        "city": "Taipei",
+        "state": "",
+        "country": "tw",
+        "lat": 25.0262,
+        "lon": 121.5427,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2016-11-13T10:27:38-05:00"
+  },
+  {
+    "id": "235673240",
+    "title": "[Visualization Series]  新聞視覺化",
+    "description": "[Agenda]\n\n• 19:15-19:30 R Basic\n\n• 19:30-20:30 主議程: 新聞視覺化 @Claire\n\n• 20:30-20:50 閃電秀: ggplot2 @盧森\n\n• 20:50-21:10 閃電秀2: 生醫資料視覺化 ＠亮亮\n\n• 20:50 - 自由交流時間\n\n[Talk Information]\n\n• 新聞視覺化\n\n資料新聞及資料視覺化，一般是將各種數據作為新聞或者論述的作證，以表格、圖表，甚至更多元的互動方式，來達到讓讀者更快速、更深入理解議題的效果。這次會介紹國內外精彩的資料新聞案例，也簡單分享我製作中的一些思考。\n\n• ggplot2 - 如果你願意一層一層一層～的堆疊我的圖\n\n小時候的美術課，老師總說畫圖要能做出「拼貼」的美感才是好圖。本議題將淺談ggplot2 使用圖層層層堆疊出美術老師拼貼的奧義（雖然結果可能看不出有拼貼過。）\n\n• 生醫資料視覺化\n\n[Speaker Information]\n\n• Claire\n目前在電信業擔任商業智慧分析師，之前在 MIT Media Lab 做專案時，接觸並迷上了視覺化，喜歡嘗試各種的方法將資訊化繁為簡。創辦社群知了新聞 Cicadata，大概每兩個月會舉辦一次技術分享的聚會，希望能聚集喜歡資料新聞／視覺化的人們，一起探索其中的可能。\n\n• 盧森\n自詡為有志青年，初入社會不久，仍有許多要學習的地方。 R寫了近四年，還是很喜歡透過交流，在各個不同領域的運用中得到許多新知。簡單來說，我是來交朋友的啦～\n\n• 亮亮\n\n[Host information]\n\n• Kristen",
+    "status": "PAST",
+    "dateTime": "2017-06-05T19:30:00+08:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/235673240/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 61,
+      "waitlistCount": 0,
+      "totalCount": 61
+    },
+    "venues": [
+      {
+        "id": "24660264",
+        "name": "Dcard Office",
+        "address": "台北市大安區光復南路102號11樓",
+        "city": "Taipei",
+        "state": "",
+        "country": "tw",
+        "lat": 25.0262,
+        "lon": 121.5427,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2016-11-13T10:27:38-05:00"
+  },
+  {
+    "id": "239845192",
+    "title": "[Azure ML Hands-On 戰鬥營] 1 - 資料科學的工作流程(請在文尾GForm報名)",
+    "description": "本活動為R-Ladies 第一次以兩天的活動，\n帶領大家進行較深度的學習。\n\n想要利用團隊合作，\n將專業知識跟機器學習串在一起迸出全新火花嗎？\n本次活動將透過 Azure Machine Learning雲端計算平台，\n帶你選擇適當的演算法、嘗試並比較不同的演算法。\n精彩內容，不容錯過！\n\n活動時間：\nSession 1 2017年6月1日（四） 19:00 ~ 22:00\nSession 2 2017年6月8日（四） 19:00 ~ 22:00\n活動地點：CLBC大安本館（台北市大安區復興南路一段293號4樓）\n講師介紹：R-Ladies＆Microsoft Azure社群講師 Mia\n活動費用：免費\n人次限制：女生，25人\n\nSession 1 資料科學的工作流程\n議程：\n19:00~19:30　報到，環境建置\n19:30~21:00　資料科學的工作流程\n如何針對你的問題問更深入的問題？\n如何選擇演算法\n21:00~22:00　實作與問答\n\nSession 2 如何改善你的模型\n議程：\n19:00~19:30　報到，環境建置\n19:30~21:00　如何定義好的模型\n如何透過特徵值訓練你的模型\n客製化模組，與R整合\n21:00~22:00　實作與問答\n\n本活動以google表單報名為主 (本活動Ladies Only) https://docs.google.com/forms/d/e/1FAIpQLSdkzHJRJPch2XD4ixHWH-wnMkni5pHlmtw1qwG9J_-8sdCoOg/viewform?c=0&w=1",
+    "status": "PAST",
+    "dateTime": "2017-06-01T19:00:00+08:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/239845192/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 9,
+      "waitlistCount": 0,
+      "totalCount": 9
+    },
+    "venues": [
+      {
+        "id": "25230195",
+        "name": "CLBC大安本館",
+        "address": "台北市大安區復興南路一段293號4樓",
+        "city": "Taipei",
+        "state": "",
+        "country": "tw",
+        "lat": 25.0373,
+        "lon": 121.5436,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2017-05-09T06:16:40-04:00"
+  },
+  {
+    "id": "235551829",
+    "title": "[Visualization Series] NBA 視覺化",
+    "description": "[Agenda]\n\n• 19:15-19:30 R Basic\n\n• 19:30-20:30 主議程: NBA 視覺化 @阿光\n\n• 20:30-20:50 閃電秀: Kaggle漁業監控心得分享 @智程\n\n• 20:50 - 自由交流時間\n\n[Talk Information]\n\n• NBA 視覺化\n\n回顧1989～2008年經由選秀出道的球員生涯表現，來看看球隊經理是否有獨到的眼光。\n\n• Kaggle漁業監控心得\n\n在kaggle上，你可以找到熱心參賽者分享他們打比賽的過程，以及做了什麼事情排名進步。這次talk分享相關資源\n\n[Speaker Information]\n\n• Cheng En\n對資料分析深感興趣的科學編輯\n\n• 智程\n風往哪裡吹，就往哪裡跟，目前在追深度學習和區塊鏈技術。\n現任 Linkernetworks 資料科學家。\n\n[Host information]\n\n• Mindy",
+    "status": "PAST",
+    "dateTime": "2017-04-24T19:30:00+08:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/235551829/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 46,
+      "waitlistCount": 0,
+      "totalCount": 46
+    },
+    "venues": [
+      {
+        "id": "24660264",
+        "name": "Dcard Office",
+        "address": "台北市大安區光復南路102號11樓",
+        "city": "Taipei",
+        "state": "",
+        "country": "tw",
+        "lat": 25.0262,
+        "lon": 121.5427,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2016-11-13T10:27:38-05:00"
+  },
+  {
+    "id": "235551823",
+    "title": "[Visualization Series] R 爬蟲",
+    "description": "[Agenda]\n\n• 19:15-19:30 R Basic\n\n• 19:30-20:30 主議程: R 爬蟲 by Sharon\n\n• 20:30-20:50 閃電秀: GitHub by Rachael\n\n• 20:50 - 自由交流時間\n\n[Talk Information]\n\n• R Basic\n\n介紹 dplyr 套件最常用的5個函數: filter(), arrange(),select(), mutate(),summarise()\n\n• R 爬蟲\n\n利用 R 爬蟲並且進行初步的文字探勘分析。以爬取 PTT-Food 版文章為例，初步分析詞頻，並以文字雲呈現。\n\n• GitHub\n\n介紹 Git 概念並以 RLadies Github 為操作實例。\n\n[Speaker Information]\n\n• Sharon\n臺北商業大學資訊與決策科學研究生。目前研究領域為資料分析，內容偏向於文字探勘以及輿情分析，自己本身對於資料分析這塊領域充滿著熱情，希望能和大家互相切磋相關領域的知識。\n\n• Rachael\n任職於物聯網產業，目前專注於軟體以及雲端技術。她希望透過女性社群友善輕鬆的環境，增加女性對軟體的熱情，進而提升競爭力。\n\n[Host information]\n\n• Ju-Yin Tang\nR-Ladies Taipei 共同創辦人之一。對資料分析、金融科技、環境能源以及創業議題感興趣。期待與大家一起學習成長，並希望能貢獻自身所學。",
+    "status": "PAST",
+    "dateTime": "2017-03-27T19:15:00+08:00",
+    "duration": "PT2H15M",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/235551823/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 57,
+      "waitlistCount": 0,
+      "totalCount": 57
+    },
+    "venues": [
+      {
+        "id": "24660264",
+        "name": "Dcard Office",
+        "address": "台北市大安區光復南路102號11樓",
+        "city": "Taipei",
+        "state": "",
+        "country": "tw",
+        "lat": 25.0262,
+        "lon": 121.5427,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2016-11-13T10:27:38-05:00"
+  },
+  {
+    "id": "235551808",
+    "title": "[Cloud Platform Series] Azure ML Case",
+    "description": "[Agenda]\n\n• 19:15-19:30 R Basic 常用指令1\n\n• 19:30-20:30 主議程: Azure ML @Ning\n\n• 20:30-20:50 閃電秀: Azure Machine Learning - Feature Engineering @懷文\n\n• 20:50 - 自由交流時間\n\n[Talk Information]\n\n• Azure ML\n不會寫程式是否也能預測新發單曲是否賣座[Azure及R的教學]\n\n每張新唱片問世，都需唱片公司投入大量預算，如何能預測單曲是否暢銷變成關鍵。透過MIT/edX Popularity of Music Records課程的資料集，收集了1990-2010告示牌排行榜前十大及非前十大單曲，透過Logistic Regression來建立模型。\n\n此次talk嘗試透過Azure讓不會寫程式的人也能建立自己的模型，也分享R + Azure有甚麼好用的小地方。\n\n•Azure Machine Learning - Feature Engineering\n\n被喻為是“Data scientist's Secret Sauce!”的Feature Engineering(特徵工程)，到底是有什麼樣的魔力，讓大家對他有這個稱號。\n\n在資料分析和建模當中，要透過什麼方式，把現實生活當中的情境透過feature描述，轉化成model裡面相對應的數值？\n\n如果你心中有些想要透過machine learning解決的問題，也對該問題有一些相對應的domain knowhow，卻不知道應該在哪裡把自己的知識加進去訓練模型的步驟裡，也許你會從這次的分享有一些收穫。\n\n或是你已經嘗試了一些演算法，想知道在Data 跟 Model 之間的轉換到底是有哪些秘方讓自己的模型可以更fit 自己遇到的問題，也許你會從這次的分享帶給你一些新的靈感在你分析的流程上。\n\n[Speaker Information]\n\n• Ning\n熱愛作資料解讀及分析，共同創立 TW R Ladies，曾經在網路公司做過分析師．希望能認識更多同好，一起做好玩且不一樣的事情。\n\n• 懷文\n喜歡從資料當中找出一些現象，從中和現實生活當中的問題互動。在一些不同的新創專案當中擔任資料顧問，也是Azure Taiwan社群的共同創辦人，希望和大家多認識，聽聽大家對身邊資料集的不同想像。\n\n[Host information]\n\n昱璇 Dana\n\n具有研究精神的商業智慧分析人員，用過R、SPSS modeler和Tableau做數據分析，也接觸過各資料庫語法、跨平台資料介接及網頁前台語言。希望跟大家一起交流、成長。",
+    "status": "PAST",
+    "dateTime": "2017-03-06T19:30:00+08:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/235551808/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 30,
+      "waitlistCount": 16,
+      "totalCount": 30
+    },
+    "venues": [
+      {
+        "id": "24660264",
+        "name": "Dcard Office",
+        "address": "台北市大安區光復南路102號11樓",
+        "city": "Taipei",
+        "state": "",
+        "country": "tw",
+        "lat": 25.0262,
+        "lon": 121.5427,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2016-11-13T10:27:38-05:00"
+  },
+  {
+    "id": "235551799",
+    "title": "[Cloud Platform Series] Shiny on Azure",
+    "description": "[Agenda]\n\n• 19:15-19:30 R Basic: R軟體小故事、安裝與環境介紹\n\n• 19:30-20:30 主議程: Shiny on Azure @Kristen\n\n• 20:30-20:50 閃電秀: 翻玩空氣盒子--監控空氣品質 @謝欣紘\n\n• 20:50 - 自由交流時間\n\n[Talk Information]\n\n• Shiny apps on Azure\n\n想把做好的圖表分享給其他人? 想要有個互動的網頁來呈現R跑出來的成果?利用Shiny和Azure可以快速的完成喔!這次會先簡單的介紹Shiny和Azure，並會用一個範例帶大家實作。\n\nDo you want to share with others the analytic project you work on? Do you want to build an interactive web page to show the result? With Shiny and Azure, you can make it easily and quickly. This time we will introduce Shiny and Azure first, and then demo with an example.\n\n• 翻玩空氣盒子--監控空氣品質\n\nLocation Aware Sensing System (LASS)社群，是由對環境感測有興趣的Makers, Contributors組成。目前主要專注在pm2.5的空氣污染監測。其使用低成本、體積小、高準確度的微型感測器, 達到可大量、高密度部署的目標。去年更結合政府、民間企業和社群力量，推出空氣盒子, 目前於台北市各小學校皆有部點, 下半年更推廣到5都, 希望喚醒群眾對空氣污染議題的關注。將介紹利用其open data目前做到的分析情形。希望越多人加入一起關心空汙的感測。\n\nLASS Community, consisted of makers/contributors interested in environment sensing, focuses on air pollution issues. Last year they started to apply air boxs as micro sensors for pm 2.5. This time we will show the analysis of open data collected by the air boxes. Join us on the air pollution issues.\n\n[Speaker Information]\n\n• Kristen\n喜歡學任何新鮮有趣的東西，看到 R Ladies 大家無私地分享很多知識給大家，很期望也能貢獻一點自己學到的東西，並與大家一同成長。\n\n• 謝欣紘\n目前任職於研究單位，熱於參加各種社群，從中學習互相交流，喜歡大家下班還能聚在一起學習的感覺，希望能將所學知識和大家分享。\n\n[Host information]\n\n• Lucy\n經營企劃人員，帶著熱情加入了R-Ladies，從零程式基礎開始學習並應用R。希望與社群夥伴一起進步^-^",
+    "status": "PAST",
+    "dateTime": "2017-02-06T19:30:00+08:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/235551799/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 47,
+      "waitlistCount": 0,
+      "totalCount": 47
+    },
+    "venues": [
+      {
+        "id": "24660264",
+        "name": "Dcard Office",
+        "address": "台北市大安區光復南路102號11樓",
+        "city": "Taipei",
+        "state": "",
+        "country": "tw",
+        "lat": 25.0262,
+        "lon": 121.5427,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2016-11-13T10:29:41-05:00"
+  },
+  {
+    "id": "256933448",
+    "title": "[Visualization Series] 公投資料視覺化與選舉分析",
+    "description": "[更新2] 改到同一場地 A-5 教室\n[注意] 因人數太多場地換到，社會創新實驗中心 (A-2教室)\n\n[Agenda]\n• 19:30 ~ 20:20 (50 mins) 主議程: 公投資料視覺化與選舉分析 @Claire Tsao\n• 20:20 ~ 21:00 (30 mins) 閃電秀: 這個月的議程你一定可以--[第二屆 R-Ladies Taipei 交換禮物] @Everyone\n• 20:50 ~ 自由交流時間\n\n[Talk Information]\n• 公投資料視覺化與選舉分析 @Claire Tsao\nhttps://rfrd-tw.github.io/ 是我和朋友們合作，在今年 11/24 公投之後推出的公投得票概況網站，包含了十個公投案，在各鄉鎮市區的得票狀況，以及對照各區人口統計數值的分布。這次想跟大家聊聊，我們準備過程中，針對資料如何呈現的討論，對資料初步探索的結果，以及後續可能的研究方向。（大家有興趣的話，跟我們一起玩！）也聊聊市面上的選舉分析，常見的初統等級錯誤，比如區位謬誤，而目前學界提出了哪些方法解決、如何使用 R 來處理這些問題。\n\n• 這個月的議程你一定可以--[第二屆 R-Ladies Taipei 交換禮物] @Everyone\n在這個聖誕老人出沒的日子裡，R-Ladies Taipei 為了讓你不要每次都覺得議程太生硬難懂不敢來\n所以決定舉辦 [第二屆 R-Ladies Taipei 交換禮物] 準備跟大家一起充實、歡樂的度過！！\n記得準備與R相關禮物\n\n參加 Meetup 請按 RSVP\n若想一起交換禮物，請額外幫忙填 https://goo.gl/forms/craXR0jvYG07ch9v2 以方便統計人數\n\n[Speaker Information]\n• Claire Tsao，目前在 UIUC 念資管碩士，長期參與 R Ladies Taipei 和台灣 R 社群的活動。喜歡資料視覺化，希望能把複雜的資訊，用簡單易懂的方式呈現。\n\n[Host Information]\n• Kristen Chan：聯絡講者、活動主持人\n• Pei Lee：活動場地\n\n[Code of Conduct]\n基本上這是一個女性學習社群，因此若你不是女性，但出現在我們的實體聚會的話，你很可能被要求以下行為：\n• 發言的機會請優先留給女生\n• 座位請優先保留給女生\n• 必須對 R-Ladies Taipei 有貢獻，例如：提供高品質的 3分鐘技術閃電秀",
+    "status": "PAST",
+    "dateTime": "2018-12-24T19:30:00+08:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/256933448/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 53,
+      "waitlistCount": 0,
+      "totalCount": 53
+    },
+    "venues": [
+      {
+        "id": "25735330",
+        "name": "社會創新實驗中心 (2樓A-5教室)",
+        "address": "65-57, Lane 248, Section 3, Zhongxiao East Road, Da’an District",
+        "city": "Taipei",
+        "state": "",
+        "country": "tw",
+        "lat": 25.0386,
+        "lon": 121.5411,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2018-12-04T00:46:21-05:00"
+  },
+  {
+    "id": "256395445",
+    "title": "[Annual Party 周年慶] R-Laides Taipei 四歲了 Celebration for 4 years old!!!",
+    "description": "[R Ladies Taipei 四歲了!!!]\n\n歡迎參加過的妳 妳 還有妳，沒來過的 Ladies 們也歡迎一起來這個女生的聚會。\n大家快來一起跟我們慶祝 R Ladies Taipei四歲生日～\n\n時間： 11/26 (一) 19:00 - 21:30\n地點： CLBC 大安本館 106台北市大安區復興南路一段293號四樓\n議程： 吃 吃 喝 喝 吃吃 喝喝\nSpecial： 有遠從德國來的重量級嘉賓\n\n[Note]\n因為我們需要統計人數訂餐，要來的人麻煩一定要按 Meetup 上的 RSVP，不能來的人也麻煩要記得取消\n\n[Code of Conduct]\n基本上這是一個女性學習社群，因此若你不是女性，但出現在我們的實體週年慶聚會的話，你很可能被要求以下行為：\n• 發言機會請優先留給女生\n• 座位請優先保留給女生\n• 食物請跟女生們一起分享\n• 必須對 R-Ladies Taipei 有貢獻，例如：報名未來一年一場以上的技術分享或閃電秀",
+    "status": "PAST",
+    "dateTime": "2018-11-26T19:00:00+08:00",
+    "duration": "PT2H30M",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/256395445/",
+    "featuredEventPhoto": {
+      "id": "476326904",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/7/3/8/highres_476326904.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/7/3/8/600_476326904.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/7/3/8/thumb_476326904.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 32,
+      "waitlistCount": 0,
+      "totalCount": 32
+    },
+    "venues": [
+      {
+        "id": "25230195",
+        "name": "CLBC大安本館",
+        "address": "台北市大安區復興南路一段293號4樓",
+        "city": "Taipei",
+        "state": "",
+        "country": "tw",
+        "lat": 25.0373,
+        "lon": 121.5436,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2018-11-13T21:51:05-05:00"
+  },
+  {
+    "id": "255661226",
+    "title": "[Special Series] 臉書聊天機器人在電商的應用",
+    "description": "[注意] 本次場地在 Dcard，19:00後才可以入場\n\n[Agenda]\n• 19:30 ~ 20:20 (50 mins) 主議程: 臉書聊天機器人在電商的應用 @Linda Chang\n• 20:20 ~ 20:50 (20 mins) 閃電秀: 從shiny到初級網頁工程師之路 @Jane\n• 20:50 ~ 自由交流時間\n\n[Talk Information]\n• 臉書聊天機器人在電商的應用 @Linda Chang\n介紹聊天機器人在電商的應用，如何將用戶流量轉化成訂單，替代人力在24/7幫您銷售商品\n\n• 從shiny到初級網頁工程師之路 @Jane\n大四時修了資料科學，課堂中老師了介紹shiny這個神奇的繪製動態圖表的套件，當時的我覺得很酷，在pecu的鼓勵下，開啟了之後接觸網頁的路，分享一些shiny的使用及一路上學習程式的心路歷程\n\n[Speaker Information]\n• Linda Chang\n目前在新創公司擔任CIO，領域為技術跨數位行銷的應用，對於新科技創新的應用很有興趣，曾在2015年 Facebook Hackathon比賽榮獲冠軍團隊和2016年 Facebook 女力新創營比賽優勝。\n\n• Jane\n\n[Host Information]\n• Kristen Chan：活動主持人、聯絡講者、活動場地\n\n[Code of Conduct]\n基本上這是一個女性學習社群，因此若你不是女性，但出現在我們的實體聚會的話，你很可能被要求以下行為：\n• 發言的機會請優先留給女生\n• 座位請優先保留給女生\n• 必須對 R-Ladies Taipei 有貢獻，例如：提供高品質的 3分鐘技術閃電秀",
+    "status": "PAST",
+    "dateTime": "2018-10-29T19:30:00+08:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/255661226/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 40,
+      "waitlistCount": 0,
+      "totalCount": 40
+    },
+    "venues": [
+      {
+        "id": "24660264",
+        "name": "Dcard Office",
+        "address": "台北市大安區光復南路102號11樓",
+        "city": "Taipei",
+        "state": "",
+        "country": "tw",
+        "lat": 25.0262,
+        "lon": 121.5427,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2018-10-19T02:31:42-04:00"
+  },
+  {
+    "id": "254558212",
+    "title": "[Visualization Series] Metabase 的介紹及應用",
+    "description": "[注意] 本次場地改在 urAD ，不要跑錯地方了！！\n\n[Agenda]\n• 19:30 ~ 20:10 (40 mins) 主議程: Metabase 的介紹及應用 @Pei Lee\n• 20:10 ~ 20:30 (20 mins) 閃電秀: 圖像處理與實現OCR的R套件 @Steve Yu\n• 20:40 ~ 自由交流時間\n\n[Talk Information]\n• 免費的視覺化工具：Metabase 的介紹及應用\n會從公司需求出發，比較不同的視覺化工具，包含 Tableau, Data Studio, Superset, Mode Analytics, Metabase，再介紹 Metabase 的功能及在公司內部的應用。\n\n• 圖像處理與實現OCR的R套件\n這次分享將會介紹兩個有趣的圖像處理與實現OCR的R套件 Magick、tesseract\n\n[Speaker Information]\n• Pei Lee\n在數位廣告公司的技術部門做資料分析的人一枚\n\n• Steve Yu\n政大統計不菸不酒的研究生，一年前不小心誤入數據分析的坑，\n只是塵世中一個迷途小書童，目前跌跌撞撞地學習中\n喜歡參加比賽，未來想要成為數據分析人員\n\n[Host Information]\n• Kristen Chan：活動主持人、聯絡講者、活動場地\n\n[Code of Conduct]\n基本上這是一個女性學習社群，因此若你不是女性，但出現在我們的實體聚會的話，你很可能被要求以下行為：\n• 發言的機會請優先留給女生\n• 座位請優先保留給女生\n• 必須對 R-Ladies Taipei 有貢獻，例如：提供高品質的 3分鐘技術閃電秀",
+    "status": "PAST",
+    "dateTime": "2018-09-17T19:00:00+08:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/254558212/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 26,
+      "waitlistCount": 0,
+      "totalCount": 26
+    },
+    "venues": [
+      {
+        "id": "25936069",
+        "name": "urAD優愛德",
+        "address": "105 台北市松山區八德路三段36號七樓",
+        "city": "Taipei",
+        "state": "al",
+        "country": "tw",
+        "lat": 25.0481,
+        "lon": 121.5521,
+        "postalCode": "meetup1",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2018-09-10T12:26:38-04:00"
+  },
+  {
+    "id": "253532744",
+    "title": "[Data Science Series] 當Julia遇上資料科學",
+    "description": "[Agenda]\n• 19:30 ~ 20:30 (60 mins) 主議程: 當Julia遇上資料科學 @杜岳華\n• 20:30 ~ 20:50 (20 mins) 閃電秀: Facebook Fake News Effect @Judy Liou\n• 20:50 ~ 自由交流時間\n\n[Talk Information]\n• 當Julia遇上資料科學\nJulia是個新興的數值與科學計算程式語言，比起常用的Python、R或MATLAB，他有像C一般的執行速度，也有像Python動態語言般的簡潔語法，這使得他成為科學運算以及資料科學領域相當適合的工具。想知道為什麼要用 Julia嗎? 想知道Julia的特色在哪裡? 想知道 Julia的社群能量嗎? 讓我們一起來探索Julia這個語言吧! 一起來看看Julia碰上資料科學會擦出怎樣的火花。\n\n• Facebook Fake News Effect\n使用Facebook於2016美國總統大選期間，相關粉絲專頁的用戶行為資料，透過計量經濟學與機器學習的分析方式，探討假新聞對於意識形態的影響。\n\n[Speaker Information]\n• 杜岳華\n目前在台中疾病管制署擔任研發替代役，陽明大學生物醫學資訊所碩士畢業，大學為成功大學醫學檢驗生物技術學系及資訊工程學系雙主修，喜歡程式語言、軟體架構及資料分析，認為生物體如同程式一樣的運作著，就一頭鑽進了基因調控網路的研究當中，專業為系統生物學及計算生物學，希望成為生醫資料科學家。\n\n• Judy Liou\n經濟系學生，目前擔任台大行為與資料科學中心研究助理及Graphen Data Science Intern，曾接觸社群、零售、港口運籌、中文對答系統等專案，準備申請資料科學相關碩士中。\n\n[Host Information]\n• Ning Chen：活動\n• Kristen Chan：聯絡講者、活動場地\n\n[Code of Conduct]\n基本上這是一個女性學習社群，因此若你不是女性，但出現在我們的實體聚會的話，你很可能被要求以下行為：\n• 發言的機會請優先留給女生\n• 座位請優先保留給女生\n• 必須對 R-Ladies Taipei 有貢獻，例如：提供高品質的 3分鐘技術閃電秀",
+    "status": "PAST",
+    "dateTime": "2018-08-27T19:30:00+08:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/253532744/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 36,
+      "waitlistCount": 0,
+      "totalCount": 36
+    },
+    "venues": [
+      {
+        "id": "24660264",
+        "name": "Dcard Office",
+        "address": "台北市大安區光復南路102號11樓",
+        "city": "Taipei",
+        "state": "",
+        "country": "tw",
+        "lat": 25.0262,
+        "lon": 121.5427,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2018-08-05T22:04:02-04:00"
+  },
+  {
+    "id": "252655608",
+    "title": "2018 R-Ladies Taipei Kaggle Competition",
+    "description": "大家期待已久的 R-Ladies Kaggle 競賽 又來拉～\n台灣第一個全女性 Kaggle 松再次開打囉\n\n不論你是\n1. 不小心錯過 2017 的活動？\n2. 之前參加讓你意猶未盡？\n3. 第一次聽說?!\n今年夏天，都應該要一起來 R-Ladies Kaggle 競賽 吹吹冷氣、吃吃點心\n\n只要你是女生、你有電腦、你想玩 Kaggle ，就可以來報名！\n快跟 R-Ladies Taipei 一起搭上攻打 Kaggle 的列車\n\n[活動時間] 8/11、12（兩天一夜）\n[活動地點] 台北市三創育成中心 / 台北市市民大道三段2號11樓 (暫定，如有修正將另行通知參賽者)\n[活動條件] 限女，18歲以上\n[報名費用] 500 元（含 200 元押金）/ 費用已含各餐、點心及宵夜，完賽就退押金！\n\n活動有玩、有吃、有獎金、有獎品，物超所值，還有很多重量級嘉賓\n\n[報名請看活動網址]\nhttps://rladiestaipei.github.io/2018_Kaggle/",
+    "status": "PAST",
+    "dateTime": "2018-08-11T11:00:00+08:00",
+    "duration": "PT26H",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/252655608/",
+    "featuredEventPhoto": {
+      "id": "472808051",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/f/7/3/highres_472808051.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/f/7/3/600_472808051.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/f/7/3/thumb_472808051.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 7,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "25664747",
+        "name": "Star Rocket 三創數位生活園區",
+        "address": "11f, No. 2, Section 3, Civic Blvd, Zhongzheng District, 台北市中正區市民大道三段2號11F",
+        "city": "Taipei",
+        "state": "",
+        "country": "tw",
+        "lat": 25.0453,
+        "lon": 121.5313,
+        "postalCode": "meetup1",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2018-07-10T23:11:06-04:00"
+  },
+  {
+    "id": "253054697",
+    "title": "[Visualization Series] Tableau + R 應用",
+    "description": "因為這次場地的關係有 RSVP 成功的才可以到場喔！ (請先在一樓簽到)\n\n[Agenda]\n• 19:30 ~ 20:10 (40 mins) 主議程: Tableau + R 應用 @庭瑋\n• 20:10 ~ 20:30 (20 mins) 閃電秀: My Open Source Journey @c9s\n• 20:30 ~ 20:50 (20 mins) 閃電秀: AI Applications @Jon Huang\n• 20:40 ~ 自由交流時間\n\n[Talk Information]\n• Tableau + R 應用\n\n• My Open Source Journey\n\n• AI Applications\n自從2016年初AlphaGo問世以來，AI成了業界的新寵兒。深度學習推陳出新，速度快到難以想像。然而，AI可以如何幫助各個領域？可以達到什麼樣的效果？能帶來什麼樣新的商機？這場演講將帶您一探究竟！講者將以他自身的經歷，在數家新創公司的所知所聞，與大家做個簡單的分享。\n\n[Speaker Information]\n• 庭瑋\n在旅遊業工作的資料工程師，喜歡用最懶的方式達到最好的效果\n\n• c9s\n\n• Jon Huang\nSenior Director of Auto Hardware Dept.\n交大電機系畢業，美國Penn State University博士，主要研究領域為通訊雷達系統，曾獲頒IEEE/AIAA Digital Avionics Systems Conference 27屆和30屆的Best Paper。在矽谷新創公司做電信業大數據四年半，曾在Linker Networks擔任Chief Data Scientist，負責用機器學習開發AI-enabled 5G、即時影像辨識、智慧城市等案子，目前在ULSee負責車用影像和雷達 Sensor Fusion。熱愛運動、下棋、唱歌。\n\n[Host Information]\n• Kristen Chan：活動主持人、聯絡講者、活動場地\n\n[Code of Conduct]\n基本上這是一個女性學習社群，因此若你不是女性，但出現在我們的實體聚會的話，你很可能被要求以下行為：\n• 發言的機會請優先留給女生\n• 座位請優先保留給女生\n• 必須對 R-Ladies Taipei 有貢獻，例如：提供高品質的 3分鐘技術閃電秀",
+    "status": "PAST",
+    "dateTime": "2018-07-30T19:30:00+08:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/253054697/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 25,
+      "waitlistCount": 0,
+      "totalCount": 25
+    },
+    "venues": [
+      {
+        "id": "24796861",
+        "name": "台灣微軟(新址）",
+        "address": "台北市信義區忠孝東路5段68號19樓",
+        "city": "Taipei",
+        "state": "",
+        "country": "tw",
+        "lat": 25.0405,
+        "lon": 121.5669,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2018-07-23T03:51:32-04:00"
+  },
+  {
+    "id": "251740756",
+    "title": "[Machine Learning Series] Time series prediction 研究分享",
+    "description": "[Agenda]\n• 19:30 ~ 20:30 (60 mins) 主議程: Time series prediction 研究分享 @Ching Chen\n• 20:30 ~ 20:50 (20 mins) 閃電秀: Tableau with R @Dana Huang\n• 20:50 ~ 自由交流時間\n\n[Talk Information]\n• Time series prediction 研究分享\n分享最近研究time series 預測以及異常偵測的案例\n\n• Tableau with R\n接續上個月的 Tableau 接 R，這個月將會探討比較深入的使用\n\n[Speaker Information]\n• Ching Chen\n微軟平台架構技術經理\n目前接觸比較多為資料處理、機器學習以及區塊鏈\n是個興趣廣泛以至於學不完永遠很掙扎的人\n\n• Dana\n商業分析人員，擅長處理資料&做視覺化圖表，熱愛使用tableau，正在精進中\n\n[Host Information]\n• Ning Chen：活動主持人\n• Kristen Chan：聯絡講者、活動場地\n\n[Code of Conduct]\n基本上這是一個女性學習社群，因此若你不是女性，但出現在我們的實體聚會的話，你很可能被要求以下行為：\n• 發言的機會請優先留給女生\n• 座位請優先保留給女生\n• 必須對 R-Ladies Taipei 有貢獻，例如：提供高品質的 3分鐘技術閃電秀",
+    "status": "PAST",
+    "dateTime": "2018-06-25T19:00:00+08:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/251740756/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 38,
+      "waitlistCount": 0,
+      "totalCount": 38
+    },
+    "venues": [
+      {
+        "id": "24660264",
+        "name": "Dcard Office",
+        "address": "台北市大安區光復南路102號11樓",
+        "city": "Taipei",
+        "state": "",
+        "country": "tw",
+        "lat": 25.0438,
+        "lon": 121.5574,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2018-06-13T22:22:51-04:00"
+  },
+  {
+    "id": "250834648",
+    "title": "[AI Series] Azure IoT Edge with AI",
+    "description": "[Agenda]\n• 19:15 ~ 19:30 (15 mins) Basic: Tableau with R @Dana Huang\n• 19:30 ~ 20:30 (60 mins) 主議程: Azure IoT Edge with AI @魚紙鈔\n• 20:30 ~ 20:50 (20 mins) 閃電秀: BI 與 Power BI @胡百敬\n• 20:50 ~ 自由交流時間\n\n[Talk Information]\n• Tableau with R\n\n• Azure IoT Edge with AI\n用空拍機來示範 Azure IoT Edge 與 AI 結合的可能性\n\n• BI 與 Power BI\n說明企業所需要的 BI，何謂企業 BI 與 Self-service BI，而 Power BI 在其中扮演的角色\n\n[Speaker Information]\n• Dana\n商業分析人員，擅長處理資料&做視覺化圖表，熱愛使用tableau，正在精進中\n\n• 魚紙鈔\n專注於. NET 開發與 Azure 相關服務也接觸感知服務和 Bot Service，同時參與 Study4.TW 與 Azure Taiwan 社群\n\n• 胡百敬\n微軟最有價值專家(MVP)\n\n[Host Information]\n• Kristen Chan：活動主持人、聯絡講者、活動場地\n• Mia Chang：活動工作人員\n• Ning Chen：活動工作人員\n• Angie：活動工作人員\n\n[Code of Conduct]\n基本上這是一個女性學習社群，因此若你不是女性，但出現在我們的實體聚會的話，你很可能被要求以下行為：\n• 發言的機會請優先留給女生\n• 座位請優先保留給女生\n• 必須對 R-Ladies Taipei 有貢獻，例如：提供高品質的 3分鐘技術閃電秀",
+    "status": "PAST",
+    "dateTime": "2018-05-28T19:00:00+08:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/250834648/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 40,
+      "waitlistCount": 0,
+      "totalCount": 40
+    },
+    "venues": [
+      {
+        "id": "24660264",
+        "name": "Dcard Office",
+        "address": "台北市大安區光復南路102號11樓",
+        "city": "Taipei",
+        "state": "",
+        "country": "tw",
+        "lat": 25.0262,
+        "lon": 121.5427,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2018-05-16T03:10:01-04:00"
+  },
+  {
+    "id": "249889482",
+    "title": "[Special Case Series] 組織內推動數據趨動決策 Data Science & Data Driven Approach",
+    "description": "[Agenda]\n• 19:30 ~ 20:30 (60 mins) 主議程: 如何在組織內推動數據趨動決策-Data Science & Data Driven Approach -- By Angie\n• 20:30 ~ 20:50 (20 mins) 閃電秀: windown Form的介面 X R Language -- By 賴小賴\n• 20:50 ~ 21:10 (20 mins) 閃電秀: Docker 初探 -- By Carl\n• 20:50 ~ 自由交流時間\n\n[Talk Information]\n• 如何在組織內推動數據趨動決策-Data Science & Data Driven Approach\n\n• windown Form的介面 X R Language\n分享我的第一個R語言程式，完全的R語言新手，本來打算用R語言分析股市讓口袋麥可麥可\n無奈！事情沒有那麼簡單。\n與大家分享我怎麼在visual studio寫R語言，windown Form的介面 X R Language\n撰寫的過程中遇到甚麼問題與解決方式\n\n• Docker 初探\n帶領聽眾認識映像檔和容器、虛擬化和容器化之間的差異，現場展示 Docker 及其應用。\n\n[Speaker Information]\n• Angie(紹婷)\n電信業Business Data Analyst，經濟及企管背景出身，熱愛從資料中挖掘問題並解決問題。\n\n• 賴小賴\n凌網科技工程師，之前以Java網站、Android 開放為主，現在只寫C#，主要工作內容為系統分析與網頁開發。\n部落格：http://ina-work.blogspot.tw/\n\n• Carl Su\n微軟最有價值專家 (Microsoft MVP)，負責系統開發、系統調校、自動化和持續整合流程。\n\n[Host Information]\n• Dana：活動主持人\n• Mia Chang：活動工作人員\n• Kristen Chan：聯絡講者、活動場地\n\n[Code of Conduct]\n基本上這是一個女性學習社群，因此若你不是女性，但出現在我們的實體聚會的話，你很可能被要求以下行為：\n• 發言的機會請優先留給女生\n• 座位請優先保留給女生\n• 必須對 R-Ladies Taipei 有貢獻，例如：提供高品質的 3分鐘技術閃電秀",
+    "status": "PAST",
+    "dateTime": "2018-04-30T19:30:00+08:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/249889482/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 45,
+      "waitlistCount": 0,
+      "totalCount": 45
+    },
+    "venues": [
+      {
+        "id": "24660264",
+        "name": "Dcard Office",
+        "address": "台北市大安區光復南路102號11樓",
+        "city": "Taipei",
+        "state": "",
+        "country": "tw",
+        "lat": 25.0262,
+        "lon": 121.5427,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2018-04-17T22:16:36-04:00"
+  },
+  {
+    "id": "248981886",
+    "title": "[Container Series] 學習 Kubernetes 之前的兩三事",
+    "description": "[Agenda]\n• 19:15 ~ 19:30 (15 mins) Basic\n• 19:30 ~ 20:30 (60 mins) 主議程:學習 Kubernetes 之前的兩三事 by Will 保哥 (黃保翕)\n• 20:30 ~ 20:50 (20 mins) 閃電秀:SQL 撰寫小秘訣 by James\n• 20:50 ~ 21:10 (20 mins) 閃電秀:來去世界最先進的超市買東西 by Rachael\n• 20:50 ~ 自由交流時間\n\n[Talk Information]\n• 學習 Kubernetes 之前的兩三事\n\n• SQL 撰寫小秘訣\n\n• 來去世界最先進的超市買東西\nR-Ladies Taipei Orgnizers 的 Amazon Go 探險記\n\n[Speaker Information]\n• Will 保哥 (黃保翕)\n現任多奇數位創意有限公司技術總監，連續 10 度當選微軟最有價值專家(MVP) ，熟悉各式 Web 前後端開發技術，出版著作有 ASP.NET MVC 2 開發實戰、Windows Phone 開發實戰、ASP.NET MVC 4 開發實戰等書籍。曾獲選2013第6屆iT邦幫忙鐵人賽年度大獎。\n\n• James\n\n• Rachael Pai\nRachael 目前定義自己是的狀態是軟體開發者跟生活的探索者\n\n[Host Information]\n• Ning\n\n• Kristen Chan\n\n• 工作人員 Mia Chang\n\n[Code of Conduct]\n基本上這是一個女性學習社群，因此若你不是女性，但出現在我們的實體聚會的話，你很可能被要求以下行為：\n• 發言的機會請優先留給女生\n• 座位請優先保留給女生\n• 必須對 R-Ladies Taipei 有貢獻，例如：提供高品質的 3分鐘技術閃電秀",
+    "status": "CANCELLED",
+    "dateTime": "2018-04-23T19:15:00+08:00",
+    "duration": "PT2H15M",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/248981886/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 2,
+      "waitlistCount": 0,
+      "totalCount": 2
+    },
+    "venues": [
+      {
+        "id": "24660264",
+        "name": "Dcard Office",
+        "address": "台北市大安區光復南路102號11樓",
+        "city": "Taipei",
+        "state": "",
+        "country": "tw",
+        "lat": 25.0262,
+        "lon": 121.5427,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2018-03-21T03:12:08-04:00"
+  },
+  {
+    "id": "248982239",
+    "title": "[Container Series] 學習 Kubernetes 之前的兩三事",
+    "description": "[Agenda]\n• 19:15 ~ 19:30 (15 mins) Basic:時間&日期資料處理- lubridate套件 By Angie\n• 19:30 ~ 20:30 (60 mins) 主議程:學習 Kubernetes 之前的兩三事 by Will 保哥 (黃保翕)\n• 20:30 ~ 20:50 (20 mins) 閃電秀:SQL 撰寫小秘訣 by James\n• 20:50 ~ 21:10 (20 mins) 閃電秀:來去世界最先進的超市買東西 by Rachael\n• 20:50 ~ 自由交流時間\n\n[Talk Information]\n• 學習 Kubernetes 之前的兩三事\n\n• SQL 撰寫小秘訣\n\n• 來去世界最先進的超市買東西\nR-Ladies Taipei Orgnizers 的 Amazon Go 探險記\n\n[Speaker Information]\n• Will 保哥 (黃保翕)\n現任多奇數位創意有限公司技術總監，連續 10 度當選微軟最有價值專家(MVP) ，熟悉各式 Web 前後端開發技術，出版著作有 ASP.NET MVC 2 開發實戰、Windows Phone 開發實戰、ASP.NET MVC 4 開發實戰等書籍。曾獲選2013第6屆iT邦幫忙鐵人賽年度大獎。\n\n• James Fu\n微軟最有價值專家(MVP)，SQL Server\n\n• Rachael Pai\nRachael 目前定義自己是的狀態是軟體開發者跟生活的探索者\n\n• Angie(紹婷)\n電信業Business Data Analyst，經濟及企管背景出身，熱愛從資料中挖掘問題並解決問題。\n\n[Host Information]\n• Ning：活動主持人\n• Kristen Chan：聯絡講者、活動場地、工作人員\n• Mia Chang：活動工作人員\n\n[Code of Conduct]\n基本上這是一個女性學習社群，因此若你不是女性，但出現在我們的實體聚會的話，你很可能被要求以下行為：\n• 發言的機會請優先留給女生\n• 座位請優先保留給女生\n• 必須對 R-Ladies Taipei 有貢獻，例如：提供高品質的 3分鐘技術閃電秀",
+    "status": "PAST",
+    "dateTime": "2018-03-26T19:15:00+08:00",
+    "duration": "PT2H15M",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/248982239/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 57,
+      "waitlistCount": 0,
+      "totalCount": 57
+    },
+    "venues": [
+      {
+        "id": "24660264",
+        "name": "Dcard Office",
+        "address": "台北市大安區光復南路102號11樓",
+        "city": "Taipei",
+        "state": "",
+        "country": "tw",
+        "lat": 25.0262,
+        "lon": 121.5427,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2018-03-22T00:06:10-04:00"
+  },
+  {
+    "id": "248790171",
+    "title": "[Container Series] 學習 Kubernetes 之前的兩三事",
+    "description": "[Agenda]\n• 19:15 ~ 19:30 (15 mins) Basic\n• 19:30 ~ 20:30 (60 mins) 主議程:學習 Kubernetes 之前的兩三事 by Will 保哥 (黃保翕)\n• 20:30 ~ 20:50 (20 mins) 閃電秀:SQL 撰寫小秘訣 by James\n• 20:50 ~ 21:10 (20 mins) 閃電秀:來去世界最先進的超市買東西 by Rachael\n• 20:50 ~ 自由交流時間\n\n[Talk Information]\n• 學習 Kubernetes 之前的兩三事\n\n• SQL 撰寫小秘訣\n\n• 來去世界最先進的超市買東西\nR-Ladies Taipei Orgnizers 的 Amazon Go 探險記\n\n[Speaker Information]\n• Will 保哥 (黃保翕)\n現任多奇數位創意有限公司技術總監，連續 10 度當選微軟最有價值專家(MVP) ，熟悉各式 Web 前後端開發技術，出版著作有 ASP.NET MVC 2 開發實戰、Windows Phone 開發實戰、ASP.NET MVC 4 開發實戰等書籍。曾獲選2013第6屆iT邦幫忙鐵人賽年度大獎。\n\n• James Fu\n微軟最有價值專家(MVP)，SQL Server\n\n• Rachael Pai\nRachael 目前定義自己是的狀態是軟體開發者跟生活的探索者\n\n[Host Information]\n• Ning\n\n• Kristen Chan\n\n• 工作人員 Mia Chang\n\n[Code of Conduct]\n基本上這是一個女性學習社群，因此若你不是女性，但出現在我們的實體聚會的話，你很可能被要求以下行為：\n• 發言的機會請優先留給女生\n• 座位請優先保留給女生\n• 必須對 R-Ladies Taipei 有貢獻，例如：提供高品質的 3分鐘技術閃電秀",
+    "status": "CANCELLED",
+    "dateTime": "2018-03-26T19:15:00+08:00",
+    "duration": "PT2H15M",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/248790171/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 44,
+      "waitlistCount": 0,
+      "totalCount": 44
+    },
+    "venues": [
+      {
+        "id": "24660264",
+        "name": "Dcard Office",
+        "address": "台北市大安區光復南路102號11樓",
+        "city": "Taipei",
+        "state": "",
+        "country": "tw",
+        "lat": 25.0262,
+        "lon": 121.5427,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2018-03-15T22:38:38-04:00"
+  },
+  {
+    "id": "247732051",
+    "title": "[Special Case Series] 資料與新聞",
+    "description": "[Agenda]\n• 19:30-20:30 主議程: 資料與新聞 @HC\n• 20:30-20:50 閃電秀: 非開發人員也會快速建立Web服務 - 使用Azure Function @Kyle\n• 20:50 - 自由交流時間\n\n[Talk Information]\n• 資料與新聞\n(1) 資料新聞是什麼\n(2) 怎麼把資料應用在新聞上\n(3) 資料耙梳與分析\n\n資料視覺化與資料新聞是進來還算熱門的議題\n透過資料來描繪更具體的新聞\n但是資料的取得困難\n政府的開放資料也不足\n在這樣的情況下怎麼進行資料新聞呢？\n\n• 非開發人員也會快速建立Web服務 - 使用Azure Function\nAzure Function是一個(Serverless)技術，當有需要架設Web服務的需求，透過Azure Function幾乎不需要耗費心力去理解所需的環境設定，只要專心寫好自己的應用程式，即可上傳到雲端執行，本次將分享此服務的應用的情境，提供一個實務上參考。\n\n[Speaker Information]\n• HC\nH.C., 曾經協助舉辦 2003 P3P，2004-2005 YAPC::Taipei, 2006-2014 OSDC.tw 以及 2014 g0v summit. 目前在鏡傳媒程式設計中心工作，並協助將網站相關架構與程式 open source 的策略。\n\n• Kyle Shen\n現職威煦軟體，微軟最有價值專家，Study4.TW核心成員。\n\n[Host Information]\n• Mia\n\n[Code of Conduct]\n基本上這是一個女性學習社群，因此若你不是女性，但出現在我們的實體聚會的話，你很可能被要求以下行為：\n• 發言的機會請優先留給女生\n• 座位請優先保留給女生\n• 必須對 R-Ladies Taipei 有貢獻，例如：提供高品質的 3分鐘技術閃電秀",
+    "status": "PAST",
+    "dateTime": "2018-02-26T19:30:00+08:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/247732051/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 43,
+      "waitlistCount": 0,
+      "totalCount": 43
+    },
+    "venues": [
+      {
+        "id": "24798785",
+        "name": "資策會數位教育研究所 3樓",
+        "address": "台北市大安區信義路三段153號",
+        "city": "Taipei",
+        "state": "",
+        "country": "tw",
+        "lat": 25.0337,
+        "lon": 121.5426,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2018-02-12T04:21:56-05:00"
+  },
+  {
+    "id": "246388989",
+    "title": "[Visualization Series]地理圖形類特殊檔案",
+    "description": "[Agenda]\n• 19:15-19:30 暖身活動: R Basic (1)數據抽樣 @宜柔 (2)集成學習 @昱璇(Dana)&紹婷(Angie)\n• 19:30-20:30 主議程: 地理圖形類特殊檔案 @謝包妹\n• 20:30-20:50 閃電秀: 如何花5分鐘完成一個Line bot (Line對談機器人) @David\n• 20:50-21:10 閃電秀: 學習R和又學習python如何上手 @Elias Chiu\n• 21:10 - 自由交流時間\n\n[Talk Information]\n• 地理圖形類特殊檔案\n因為平常氣象資料需要地圖展示，今天與大家分享，不用學D3.js程式，也能用R變出美美的台灣地理圖資，瞭解地理圖形特殊檔案shapefile怎麼用？讓你善用資料視覺化迅速說服老闆。\n\n• 如何花5分鐘完成一個Line bot (Line對談機器人)\n1.如何快速開發Line bot\n2.整合NLP與自然語言對談\n3.使用LUIS與QnA Services\n4.關於Azure識別服務(Cognitive Services)\n\n• 學習R和又學習python如何上手\n因大數據的崛起，現今許多人開始學習各種資料處理的程式語言，像是今日與大家分享的R和Python等各種語言，而今日要來跟大家分享如何上手這兩種不同的語言，讓我們來懷抱這兩種強大的語言吧！\n\n[Speaker Information]\n• 謝包妹Jolin\n現職於天氣風險公司，擔任資料分析師和天氣分析師，同時也是Yahoo一分鐘報氣象的主播，過去背景是大氣科出生，從完全不會寫程式，到現在使用R語言快3年，工作上負責資料清理及資料整合應用，讓同事和老闆秒懂資料。\n\n• David\nDavid打從 20 多年前 Apple II 時代起即投入程式設計領域，在資訊業界各領域均多有參與。2002年起加入資訊書籍寫作並投身教育訓練與顧問服務行列，在台灣與大陸均有多本著作出版。2006年至今，榮獲超過十次微軟最有價值專家(MVP)，並屢次受邀擔任微軟歷年TechED大型研討會講師。近年來浸研於Microsoft Azure 、DevOps、Chat bot對談機器人與人工智慧等領域。\n\n• Elias Chiu\n嗨大家好，我是Elias，目前在國立臺北商業大學資訊與決策研究所唸書，一名菜鳥研究生。\n\n[Host Information]\n• 紹婷Angie\n電信業Business Data Analyst，經濟及企管背景出身，熱愛從資料中挖掘問題並解決問題。\n\n[Code of Conduct]\n基本上這是一個女性學習社群，因此若你不是女性，但出現在我們的實體聚會的話，你很可能被要求以下行為：\n• 發言的機會請優先留給女生\n• 座位請優先保留給女生\n• 必須對 R-Ladies Taipei 有貢獻，例如：提供高品質的 3分鐘技術閃電秀",
+    "status": "PAST",
+    "dateTime": "2018-01-29T19:15:00+08:00",
+    "duration": "PT1H55M",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/246388989/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 67,
+      "waitlistCount": 0,
+      "totalCount": 67
+    },
+    "venues": [
+      {
+        "id": "24660264",
+        "name": "Dcard Office",
+        "address": "台北市大安區光復南路102號11樓",
+        "city": "Taipei",
+        "state": "",
+        "country": "tw",
+        "lat": 25.0262,
+        "lon": 121.5427,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2018-01-01T21:11:32-05:00"
+  },
+  {
+    "id": "246037654",
+    "title": "[請在accupass上報名 ]R Ladies Data Viz Open Hack",
+    "description": "[活動報名資訊]\nR Ladies 的水水們安安～😆\n我們將於明年1/7舉辦一場跟Tableau原廠合作的活動\n【R-Ladies Taipei Data Viz Open Hack】\n要跟大家一起來玩Open Data 視覺化，我們也請到Tableau的專業講師來幫我們上課唷！\n只需支付活動押金一百元～當天全程參與完再扣掉手續費退回給妳～\n活動除了組隊玩Open Data、熟悉Open Data之外，更可以趁機精進自己使用Tableau的能力喔～\n即日起開放報名，名額有限，要搶要快呀～\n活動當天附午餐與午茶，不用擔心餓肚子唷！\n\n報名由此入👉https://www.accupass.com/go/rladiesopendatahack\n備註：本活動由R-Ladies主辦，當然也僅限女生報名參加喔！:D\n有任何問題都歡迎留言詢問！",
+    "status": "PAST",
+    "dateTime": "2018-01-07T09:00:00+08:00",
+    "duration": "PT8H",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/246037654/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 11,
+      "waitlistCount": 5,
+      "totalCount": 11
+    },
+    "venues": [
+      {
+        "id": "25666169",
+        "name": "空總社會創新實驗中心",
+        "address": "台北市大安區仁愛路三段55號",
+        "city": "Taiwan",
+        "state": "",
+        "country": "tw",
+        "lat": 25.0394,
+        "lon": 121.5399,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2017-12-19T09:12:58-05:00"
+  },
+  {
+    "id": "266130419",
+    "title": "[AI Series] 如何利用開源程式碼進行圖片去背",
+    "description": "[Agenda]\n• 19:30 ~ 20:30 (60 mins) 主議程: 如何利用開源程式碼進行圖片去背 @蕭聖哲\n• 20:30 ~ 自由交流時間\n\n[Talk Information]\n• 如何利用開源程式碼進行圖片去背\n從小到大多少會用到圖片去背的功能，可能在做簡報的時候，點一下「設定透明色彩」。稍微複雜的圖像，可利用photoshop的「魔術棒工具」或「套索工具」，人工選取標的物，將背景去除，但即使是嫻熟的人可能仍需10分鐘尚能完成一張圖片的去背作業，如果只有一張圖片可能還好吧，倘若有百張圖片要進行去背的時候呢？\n近年來隨著深度學習網絡的發展，影像的處理模式從「工人智慧」逐漸轉變為「人工智慧」。但何謂深度學習？打開維基百科中文版，相信很多人跟我一樣，即使都是中文，但......。所以本次的分享，並不會去探討各種深度學習網路的差異及建置的過程，而是如何透過網路上善心人士的開源程式碼，利用已經訓練好的模型，加以應用，來完成「AI」去背。\n\n[Speaker Information]\n• 蕭聖哲\n畢業於國立台灣大學森林系。因工作緣故對於資料爬蟲、清理、建模與視覺化的呈現頗有心得。最近因參與AIGO計畫，開始研究如何利用AI進行自動化去背。\n\n[Location]\ndigiBlock C\n地址：103台北市大同區承德路三段287號\n捷運：圓山站\n\n[Code of Conduct]\n基本上這是一個女性學習社群，因此若你不是女性，但出現在我們的實體聚會的話，你很可能被要求以下行為：\n• 發言的機會請優先留給女生\n• 座位請優先保留給女生\n• 必須對 R-Ladies Taipei 有貢獻，例如：提供高品質的 3分鐘技術閃電秀\n\n[Event Tags]\n#RladiesTaipei\n#開源程式",
+    "status": "PAST",
+    "dateTime": "2019-12-02T19:30:00+08:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/266130419/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 30,
+      "waitlistCount": 0,
+      "totalCount": 30
+    },
+    "venues": [
+      {
+        "id": "26475051",
+        "name": "digiBlock C數位創新基地",
+        "address": "No. 287號, Section 3, Chengde Rd, 重慶里",
+        "city": "Datong District",
+        "state": "Ta",
+        "country": "tw",
+        "lat": 25.074,
+        "lon": 121.5205,
+        "postalCode": "103",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2019-11-01T03:28:03-04:00"
+  },
+  {
+    "id": "265470327",
+    "title": "[ML Series] Machine Learning 從入門到崩潰",
+    "description": "[Agenda]\n• 19:30 ~ 20:30 (60 mins) 主議程: Machine Learning 從入門到崩潰 @賴小賴\n• 20:30 ~ 自由交流時間\n\n[Talk Information]\n• Machine Learning 從入門到崩潰\n用 Google Cloud AutoML 來判斷股票類別\n\n[Speaker Information]\n• 賴小賴\n\n[Location]\ndigiBlock C\n地址：103台北市大同區承德路三段287號\n捷運：圓山站",
+    "status": "PAST",
+    "dateTime": "2019-10-28T19:30:00+08:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/265470327/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 53,
+      "waitlistCount": 0,
+      "totalCount": 53
+    },
+    "venues": [
+      {
+        "id": "26475051",
+        "name": "digiBlock C數位創新基地",
+        "address": "No. 287號, Section 3, Chengde Rd, 重慶里",
+        "city": "Datong District",
+        "state": "Ta",
+        "country": "tw",
+        "lat": 25.074,
+        "lon": 121.5205,
+        "postalCode": "103",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2019-10-07T03:53:39-04:00"
+  },
+  {
+    "id": "264490718",
+    "title": "讓 R 使用者又愛又恨的因素向量（factor）",
+    "description": "[Agenda]\n• 19:30 ~ 20:30 (60 mins) 主議程: 讓 R 使用者又愛又恨的因素向量（factor） @郭耀仁\n• 20:30 ~ 自由交流時間\n\n[Talk Information]\n• 讓 R 使用者又愛又恨的因素向量（factor）\n\n[Speaker Information]\n• 郭耀仁\n\n[Host Information]\n• Kristen Chan：聯絡講者、活動場地\n• Angie：活動主持人\n\n[地點] DigiBlock C棟\n\n[Code of Conduct]\n基本上這是一個女性學習社群，因此若你不是女性，但出現在我們的實體聚會的話，你很可能被要求以下行為：\n• 發言的機會請優先留給女生\n• 座位請優先保留給女生\n• 必須對 R-Ladies Taipei 有貢獻，例如：提供高品質的 3分鐘技術閃電秀\n\n[Event Tags]\n#RladiesTaipei\n#R",
+    "status": "CANCELLED",
+    "dateTime": "2019-09-30T19:30:00+08:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/264490718/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 36,
+      "waitlistCount": 0,
+      "totalCount": 36
+    },
+    "venues": [
+      {
+        "id": "26309211",
+        "name": "digiBlock C數位創新基地",
+        "address": "No. 287號, Section 3, Chengde Rd, 重慶里",
+        "city": "Datong District",
+        "state": "Ta",
+        "country": "tw",
+        "lat": 25.0747,
+        "lon": 121.5208,
+        "postalCode": "103",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2019-09-02T04:27:41-04:00"
+  },
+  {
+    "id": "263609768",
+    "title": "[Special Series] R在野生動物族群估算方面的應用",
+    "description": "[Agenda]\n• 19:30 ~ 20:30 (60 mins) 主議程: R在野生動物族群估算方面的應用 @Trica\n• 20:30 ~ 21:00 (30 mins) 閃電秀: Scrum 中毒者的經驗分享 @Tony Yang\n• 21:00 ~ 自由交流時間\n\n[Talk Information]\n• R在野生動物族群估算方面的應用\n動物族群量是野生動物與棲地經營管理不可或缺的基礎資訊，也是生態研究的重要依據。族群估算的方法從1930年代起演進至今，是許多生態學家與統計學家合作無間的成果，從21世紀初期，R在此領域方法學的提升扮演不可或缺的角色，講者將從R coding的視角分享族群估算方法的演進以及常應用的模型，主要以北美常見中小型哺乳動物的資料為例(ex. 白尾鹿、北美負子鼠、浣熊及一些萌鼠輩朋友們.....)。\n\n• Scrum 中毒者的經驗分享\n\n[Speaker Information]\n• Trica\n生態研究出身，長達十多年的山林野人經驗，因緣際會在coding的過程對統計及資料科學產生更大了的熱忱，毅然決然出山(誤!)，走出象牙塔，幸好筋很軟一腳跨進業界，現為某新創科技公司的資料科學家。\n\n• Tony Yang\n叡揚資訊雲端與巨資事業群 處長\n\n[Host Information]\n• Kristen Chan： 活動主持人、聯絡講者、活動場地\n\n[地點] DigiBlock C棟 (待確定)\n\n[Code of Conduct]\n基本上這是一個女性學習社群，因此若你不是女性，但出現在我們的實體聚會的話，你很可能被要求以下行為：\n• 發言的機會請優先留給女生\n• 座位請優先保留給女生\n• 必須對 R-Ladies Taipei 有貢獻，例如：提供高品質的 3分鐘技術閃電秀\n\n[Event Tags]\n#RladiesTaipei",
+    "status": "PAST",
+    "dateTime": "2019-08-26T19:30:00+08:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/263609768/",
+    "featuredEventPhoto": {
+      "id": "483608636",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/1/b/c/highres_483608636.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/1/b/c/600_483608636.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/1/b/c/thumb_483608636.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 25,
+      "waitlistCount": 0,
+      "totalCount": 25
+    },
+    "venues": [
+      {
+        "id": "26309211",
+        "name": "digiBlock C數位創新基地",
+        "address": "No. 287號, Section 3, Chengde Rd, 重慶里",
+        "city": "Datong District",
+        "state": "Ta",
+        "country": "tw",
+        "lat": 25.074,
+        "lon": 121.5205,
+        "postalCode": "103",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2019-07-31T05:42:01-04:00"
+  },
+  {
+    "id": "262838107",
+    "title": "R-Ladies Taipei x LINE Taiwan 以看圖寫詩為例的創意文本生成 ",
+    "description": "本月活動為R-Ladies Taipei x LINE Taiwan共同舉辦，\n地點在LINE Taiwan 辦公室\n＊因場地座位有限，請務必確認能否出席再報名唷，謝謝！\n\n[Code of Conduct]\n基本上這是一個女性學習社群，因此若你不是女性，但出現在我們的實體聚會的話，你很可能被要求以下行為：\n• 發言的機會請優先留給女生\n• 座位請優先保留給女生\n• 必須對 R-Ladies Taipei 有貢獻，例如：給 R-Ladies Taipei 一場 Talk\n\n[地點] LINE Taiwan\n台北市內湖區瑞光路610號 (於一樓大廳辦理報到)\n\n[Agenda]\n• 19:10 ~ 19:30 於一樓大廳辦理報到\n• 19:30 ~ 20:30 (60 mins) 主議程: 以看圖寫詩為例的創意文本生成 @Johnson Wu\n• 20:30 ~ 20:45 (15 mins) 主議程 Q&A\n• 20:45 - 21:15 (15 mins) 閃電秀: The dynamic of R programming styles @Yen\n• 21:15 ~ 自由交流時間\n\n[Talk Information]\n• 以看圖寫詩為例的創意文本生成 @Johnson Wu\n隨著深度學習發展，自然語言處理在機器翻譯、摘要生成等領域獲得巨大的成果，而在除去這些伴隨著標準答案來學習的課題之外，近年來人工智慧在難以有標準來衡量的人文創意方面也有很大的進步，本講題會從ＮＬＰ中的自動內容生成課題出發，以看圖寫詩為例介紹近年來人工智慧在生成與評價方面的成果\n\n[Speaker Information]\n• Johnson Wu\nLINE 資料科學家\n\n• Yen\nR-Ladies Taipei co-founder. 現為 Ｍannheim Business School 財務博士。\n\n[Host Information]\n• Angie Hsu： 活動主持人、聯絡講者、活動場地\n• Summit Suen： 聯絡講者\n• Kristen Chan： 聯絡講者\n\n[Event Tags]\n#RladiesTaipei\n#LINETaiwan\n#NLP\n#DeepLearning",
+    "status": "PAST",
+    "dateTime": "2019-07-29T19:00:00+08:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/262838107/",
+    "featuredEventPhoto": {
+      "id": "482803780",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/b/0/4/highres_482803780.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/b/0/4/600_482803780.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/b/0/4/thumb_482803780.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 69,
+      "waitlistCount": 16,
+      "totalCount": 69
+    },
+    "venues": [
+      {
+        "id": "26122620",
+        "name": "LINE Taiwan",
+        "address": "No. 333號, Ruiguang Rd, 港墘里",
+        "city": "Neihu District",
+        "state": "Ta",
+        "country": "tw",
+        "lat": 25.0803,
+        "lon": 121.5657,
+        "postalCode": "114",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2019-07-03T07:49:29-04:00"
+  },
+  {
+    "id": "262306564",
+    "title": "[ML Series] 平行化計算在電信資料的應用",
+    "description": "[Agenda]\n• 19:30 ~ 20:30 (60 mins) 主議程: 平行化計算在電信資料的應用 @Jack Tsai\n• 20:30 ~ 自由交流時間\n\n[Talk Information]\n• 平行化計算在電信資料的應用\n將簡介幾種平行化方法，介紹在緬甸與台灣電信業的工作實例。行銷大數據注重的是與客戶的關係，但在基地台供應商下，著重的卻是利用基地台資料，給予客戶建站建議。R可以快速的幫助我解決遇到的問題，將分享R哪些套件幫助我從整理資料、分析建模甚至利用平行化運算結合電信知識幫助我在不同的團隊說服不同的人。\n\n[Speaker Information]\n• Jack Tsai\n目前在軟體公司擔任資料科學家(資料分析師)，同時也是淡江統計的兼任講師，曾在台灣電信業與緬甸電信產業擔任資料分析師，很常在網路資料社群中潛水，最近被學姊出賣，短時間浮出水面兩次XD\n\n[Host Information]\n• Kristen Chan： 活動主持人、聯絡講者、活動場地\n\n[地點] DigiBlock C棟\n\n[Code of Conduct]\n基本上這是一個女性學習社群，因此若你不是女性，但出現在我們的實體聚會的話，你很可能被要求以下行為：\n• 發言的機會請優先留給女生\n• 座位請優先保留給女生\n• 必須對 R-Ladies Taipei 有貢獻，例如：提供高品質的 3分鐘技術閃電秀\n\n[Event Tags]\n#RladiesTaipei",
+    "status": "PAST",
+    "dateTime": "2019-06-17T19:30:00+08:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/262306564/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 18,
+      "waitlistCount": 0,
+      "totalCount": 18
+    },
+    "venues": [
+      {
+        "id": "26309211",
+        "name": "digiBlock C數位創新基地",
+        "address": "No. 287號, Section 3, Chengde Rd, 重慶里",
+        "city": "Datong District",
+        "state": "Ta",
+        "country": "tw",
+        "lat": 25.074,
+        "lon": 121.5205,
+        "postalCode": "103",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2019-06-13T22:54:45-04:00"
+  },
+  {
+    "id": "261094154",
+    "title": "[Data Series] 從網路封包看待資料科學的應用 | R Basic 讀書會分享",
+    "description": "[Agenda]\n• 19:30 ~ 20:30 (60 mins) 主議程: 從網路封包看待資料科學的應用 @邱宏瑋(@Hwchiu)\n• 20:30 ~ 20:50 (20 mins) 閃電秀: R Basic 讀書會分享 - 關聯規則 @Angie Hsu\n• 21:10 ~ 自由交流時間\n\n[Talk Information]\n• 從網路封包看待資料科學的應用\n在網路封包的世界中，資料科學與分析能夠做到什麼樣的地步? 會從基本的網路概念介紹起，最後搭配一些分析的應用介紹\n\n• R Basic 讀書會分享- 關聯規則的應用\n談到關聯規則，大家很常聽到的都市傳說-啤酒與尿布就是一例，是個很容易理解分析邏輯的一種資料探勘方法，但然後呢?可以怎麼樣應用呢?\n這次閃電秀將分享:\n1. 關聯規則的演算法與R套件\n2. 案例分享\n3. 關聯規則限制與優勢\n\n[Speaker Information]\n• 邱宏瑋(Hwchiu)\n• MST @ Open Networking Foundation (ONF)\n• Linux/Network/Container/Kubernetes/Golang/DevOps\n\n• Angie Hsu\n經濟與MBA出身的資深資料分析師，專案經歷橫跨策略、行銷、通路管理、網路訊號優化、異業結盟、催收績效提升、家暴防治等多維度，擅長商業分析與資料科學專案問題架構(Problem Framing)，熱愛參與社群活動，近期與幾位R Ladies 夥伴組織R Basic讀書會交流學習\n\n[Host Information]\n• Kristen Chan： 活動主持人、聯絡講者、活動場地\n• Mia Chang： 聯絡講者\n• Ning Chen： 活動宣傳\n\n[地點] DigiBlock C棟 (台北市大同區承德路三段287號C棟)\n\n[Code of Conduct]\n基本上這是一個女性學習社群，因此若你不是女性，但出現在我們的實體聚會的話，你很可能被要求以下行為：\n• 發言的機會請優先留給女生\n• 座位請優先保留給女生\n• 必須對 R-Ladies Taipei 有貢獻，例如：提供高品質的 3分鐘技術閃電秀\n\n[Event Tags]\n#RladiesTaipei\n#網路封包\n#DataScience\n#AssociationRule\n#R",
+    "status": "PAST",
+    "dateTime": "2019-05-27T19:30:00+08:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/261094154/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 48,
+      "waitlistCount": 0,
+      "totalCount": 48
+    },
+    "venues": [
+      {
+        "id": "26309211",
+        "name": "digiBlock C數位創新基地",
+        "address": "No. 287號, Section 3, Chengde Rd, 重慶里",
+        "city": "Datong District",
+        "state": "Ta",
+        "country": "tw",
+        "lat": 25.0744,
+        "lon": 121.5202,
+        "postalCode": "103",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2019-05-01T22:53:43-04:00"
+  },
+  {
+    "id": "260495774",
+    "title": "R-Ladies Taipei x CNTUG Kubeflow 對於機器學習平台的願景 | R Basic 讀書會分享",
+    "description": "[地點] DigiBlock C棟 (台北市大同區承德路三段287號C棟)\n捷運圓山站2號出口步行約5分鐘\n\n[Agenda]\n• 19:30 ~ 20:30 (60 mins) 主議程: Kubeflow 對於機器學習平台的願景 @林義洋(@yylin1)\n• 20:30 ~ 21:10 (40 mins) 閃電秀: R Basic 讀書會分享 - 實用的資料視覺化小技巧 @Lulu Kuo\n• 21:10 ~ 自由交流時間\n\n[Talk Information]\n• Kubeflow 對於機器學習平台的願景 @林義洋(@yylin1)\nKubeflow 是由 Google 與相關公司共同發起的開源專案，其目標是利用 Kubernetes 容器平台上來簡化運維機器學習環境建置與工作負載的流程，使之更簡單、可攜帶性與擴展，並提供一套標準的雲原生 (Cloud Native) 機器學習解決方案，以幫助資料科學家在工作流中實現一套流水線。這次的分享將會透過實際應用案例與分享機器學習平台與相關組件所帶來的幫助，並且介紹 kubeflow 的基本概念與願景。\n\n• R Basic 讀書會分享 - 實用的資料視覺化小技巧\n@ Lulu Kuo\n\n[Speaker Information]\n• 林義洋(@yylin1)\n目前在長庚AI中心兼任實習，並與碩論奮鬥中的研究生。由於實驗室GPU主機需要有效利用環境資源而接觸容器與分散式管理平台kubernetes，當時機器學習平台崛起，而接觸到 kubeflow 開源專案，現階段正進行研究深度學習進行分散式作業排程，並致力於推廣kubeflow平台與分享學習經驗。\n\n• Lulu Kuo\n現任於市場調查公司的資料處理部門, 主要將問卷資料統整成報表並以SPSS做統計分析 / 大學統計系畢業, 現任工作沒有用到很多R所以另覓新歡想在R Ladies精進學習, 第一次參加讀書會, 還在摸索中, 有任何建議請不吝指教!\n\n[Host Information]\n• Kristen Chan： 活動主持人、聯絡講者、活動場地\n• Summit Suen： 聯絡講者\n• Ed Hsu： 活動場地\n• Angie： 聯絡講者\n\n[Code of Conduct]\n基本上這是一個女性學習社群，因此若你不是女性，但出現在我們的實體聚會的話，你很可能被要求以下行為：\n• 發言的機會請優先留給女生\n• 座位請優先保留給女生\n• 必須對 R-Ladies Taipei 有貢獻，例如：提供高品質的 3分鐘技術閃電秀\n\n[Event Tags]\n#RladiesTaipei\n#Kubeflow\n#Visualization\n#R",
+    "status": "PAST",
+    "dateTime": "2019-04-29T19:30:00+08:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/260495774/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 32,
+      "waitlistCount": 0,
+      "totalCount": 32
+    },
+    "venues": [
+      {
+        "id": "26309211",
+        "name": "digiBlock C數位創新基地",
+        "address": "No. 287號, Section 3, Chengde Rd, 重慶里",
+        "city": "Datong District",
+        "state": "Ta",
+        "country": "tw",
+        "lat": 25.0744,
+        "lon": 121.5202,
+        "postalCode": "103",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2019-04-09T22:25:22-04:00"
+  },
+  {
+    "id": "259664436",
+    "title": "[Special Series] 資料新聞 & 電信資料",
+    "description": "[Special Series] 資料新聞 & 電信資料\n\n[地點] 社會創新實驗中心 (教室待定)\n\n[Agenda]\n• 19:30 ~ 20:20 (50 mins) 閃電秀: 資料新聞中的資料與新聞 @簡信昌 @李又如\n• 20:20 ~ 21:10 (50 mins) 閃電秀: 在電信業做Data Science 的日常 @Kevin\n• 21:10 ~ 自由交流時間\n\n[Talk Information]\n• 資料新聞中的資料與新聞 @簡信昌 @李又如\n資料新聞近幾年在國外新聞媒體圈越來越受到重視，主要在於資料數位化的普及，以及電腦對於資料處理的能力越來越強。而且資料新聞的報導方向，可以作為新聞事件中整體環境的描述，盡量避免以偏概全的情況。不過，資料的來源可信度以及正確性都有可能影響新聞的內容，加上目前資料新聞的資料來源都是政府單位，如何驗證，是目前的一大挑戰。因此資料新聞要討論的不單單只是怎麼透過資料來完成新聞，也要探討資料的取得，清理跟統計分析\n\n• 在電信業做Data Science 的日常 @Kevin\n近來資料科學家、AI等buzzword喊的震天價響，但實際工作上資料科學(DS)是怎麼運作的，國內實際案例卻較為少見，我會以自身在電信業大數據部門兩年的體驗，說明團隊從初步階段到穩定成長及人員的組成，還有工作上日常運作與代表性專案，最後是未來可能出現的瓶頸，以及常見的職涯規劃。\n\n[Speaker Information]\n• 簡信昌，曾任台灣 Yahoo 工程師，「報導者」技術長，現任鏡傳媒技術長。2014 年加入新聞媒體後，開始嘗試結合技術與新聞，製作互動及數據新聞專題。2018 年開始另一個新聞媒體實驗—「READr」。\n\n• 李又如，曾任新新聞周刊記者，2017 年開始跟工程師和設計師一起做新聞。作品曾獲亞洲卓越新聞獎（SOPA）、華文永續報導獎。\n\n• Kevin\n我是Kevin，在電信業做了兩年的資料分析，歷經用戶流失模型、離線推薦模型的完整流程，此外，資料處理(ETL)、爬蟲與視覺化等日常作業也沒少碰。從團隊的初期，到歷經不同主管的領導下，逐漸體會到技術作為業務上的輔佐，要時時刻刻注意分析的 「價值」，才能累積團隊的credit，有更大的影響力。平時會將一些ML、DL、NLP等學習心得放在medium(https://medium.com/@chungyizhen)。\n\n[Host Information]\n• Kristen Chan： 聯絡講者、活動場地\n• Pei Lee： 活動主持人、聯絡講者、活動場地\n• Ning Chen： 聯絡講者\n\n[Code of Conduct]\n基本上這是一個女性學習社群，因此若你不是女性，但出現在我們的實體聚會的話，你很可能被要求以下行為：\n• 發言的機會請優先留給女生\n• 座位請優先保留給女生\n• 必須對 R-Ladies Taipei 有貢獻，例如：提供高品質的 3分鐘技術閃電秀",
+    "status": "PAST",
+    "dateTime": "2019-03-25T19:30:00+08:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/259664436/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 59,
+      "waitlistCount": 0,
+      "totalCount": 59
+    },
+    "venues": [
+      {
+        "id": "26051361",
+        "name": "Social Innovation Lab",
+        "address": "No. 99, Section 3, Ren'ai Rd, 義村里",
+        "city": "Da’an District",
+        "state": "Ta",
+        "country": "tw",
+        "lat": 25.0387,
+        "lon": 121.5412,
+        "postalCode": "106",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2019-03-11T05:30:33-04:00"
+  },
+  {
+    "id": "258863557",
+    "title": "R ladies x Google Cloud Study Jam",
+    "description": "[Note] 講者建議大家攜帶筆電\n[地點] 社會創新實驗中心 一樓 A2 教室\n\n[Agenda]\n• 19:30 ~ 20:30 (60 mins) R ladies x Google Cloud Study Jam @ericsk\n• 20:30 ~ 自由交流時間\n\n[Talk Information]\n• R ladies x Google Cloud Study Jam @ericsk\n透過實際操作體驗，認識如何使用 Google Cloud 的各項服務如 BigQuery、Data Studio、AutoML 來處理資料分析、以及機器學習的工作任務，在此活動中，你可以獲得 Qwiklabs 一個月免費額度、按照自己的學習步伐，學會掌握 Google Cloud 成為你事半功倍的夥伴！\n\n[Speaker Information]\n• Eric ShangKuan (@ericsk)\n現任 Google 開發者生態系計劃主持人，與台灣及香港的開發社群互動交流，不僅提供開發人員瞭解學習 Google 開發技術的資源，也協助討論並使用 Google 開發技術的開發人員成功。過去 Eric 曾在 Microsoft 擔任資深技術傳教士、GDG Taipei 創辦人、中華電信從事開發的工作，持續與開發社群互動\n\n[Host Information]\n• Kristen Chan：聯絡講者、活動場地\n• Ning：活動主持人、聯絡講者\n\n[Code of Conduct]\n基本上這是一個女性學習社群，因此若你不是女性，但出現在我們的實體聚會的話，你很可能被要求以下行為：\n• 發言的機會請優先留給女生\n• 座位請優先保留給女生\n• 必須對 R-Ladies Taipei 有貢獻，例如：提供高品質的 3分鐘技術閃電秀",
+    "status": "PAST",
+    "dateTime": "2019-02-25T19:30:00+08:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/258863557/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 49,
+      "waitlistCount": 0,
+      "totalCount": 49
+    },
+    "venues": [
+      {
+        "id": "26051361",
+        "name": "Social Innovation Lab",
+        "address": "No. 99, Section 3, Ren'ai Rd, 義村里",
+        "city": "Da’an District",
+        "state": "Ta",
+        "country": "tw",
+        "lat": 25.0385,
+        "lon": 121.5406,
+        "postalCode": "106",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2019-02-11T01:15:01-05:00"
+  },
+  {
+    "id": "257854289",
+    "title": "[GIS Series] 政府開放資料與地理資訊系統的串連應用 & 數位治理",
+    "description": "[地點] 社會創新實驗中心 (A-3教室)\n\n[Agenda]\n• 19:30 ~ 20:00 (30 mins) 閃電秀: 政府開放資料與地理資訊系統的串連應用 @蔡咏諭\n• 20:00 ~ 20:20 (30 mins) 閃電秀: 數位國情調查資料庫的簡介與應用 @黃宗賢\n• 20:50 ~ 自由交流時間\n\n[Talk Information]\n• 政府開放資料與地理資訊系統的串連應用 @蔡咏諭\n分享使用臺北市的Taipei-Free熱點資料、各民間商家免費的熱點資訊以及各類政府公開資訊，應用地理資訊系統（GIS）進行分析的經驗。\n事實上，我只是R的初學者，在處理這個議題時，都不是透過R進行。因此主要分享自己在使用這些資料時發現哪些有趣的議題或是值得進一步探討的方向，以及在資料使用上遇到的限制，希望能與大家交流討論。\n\n• 數位國情調查資料庫的簡介與應用 @黃宗賢\n針對臺灣電子治理研究中心2013～2017中所蒐集的調查資料進行運用，並分享數位治理當中幾個有趣的研究議題與值得關注的現象\n\n[Speaker Information]\n• 蔡咏諭\n目前是政治大學公共行政學系的碩士生。對於資料處理與分析有莫名的熱情，因緣機會下接觸過許多不同的資料，包含研究調查、政府公開資訊、稅務行政資料，還有政府、公司與學校的會計財報資料等，喜歡串聯不同資料進行分析與應用。\n\n• 黃宗賢\n很擔心過年期間被詢問論文進度的政治大學公共行政所碩士生。\n曾上山下海地進行勞力密集的調查研究工作，因此對於調查資料的運用與視覺化特別好奇。碩士班開始接觸R，有一段時間對於網頁爬蟲與文字探勘很感興趣，有空的時候喜歡畫好看但實際用途不明的圖。\n\n[Host Information]\n• Kristen Chan：活動主持人、聯絡講者、活動場地\n\n[Code of Conduct]\n基本上這是一個女性學習社群，因此若你不是女性，但出現在我們的實體聚會的話，你很可能被要求以下行為：\n• 發言的機會請優先留給女生\n• 座位請優先保留給女生\n• 必須對 R-Ladies Taipei 有貢獻，例如：提供高品質的 3分鐘技術閃電秀",
+    "status": "PAST",
+    "dateTime": "2019-01-28T19:30:00+08:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/257854289/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 43,
+      "waitlistCount": 0,
+      "totalCount": 43
+    },
+    "venues": [
+      {
+        "id": "26051361",
+        "name": "Social Innovation Lab",
+        "address": "No. 99, Section 3, Ren'ai Rd, 義村里",
+        "city": "Da’an District",
+        "state": "Ta",
+        "country": "tw",
+        "lat": 25.039,
+        "lon": 121.5411,
+        "postalCode": "106",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2019-01-06T23:16:19-05:00"
+  },
+  {
+    "id": "266131216",
+    "title": "[Birthday Series] R-Ladies Taipei 五歲拉～",
+    "description": "R-Ladies 五歲生日吃吃喝喝聚會吧～\n#當天備有簡單的輕食\n#把沒參加過 R-Ladies 的女性朋友都帶來就對了\n\n[Agenda]\n• 19:15 ~ 19:35 (20 mins) R-Ladies Taipei 簡簡單單年度回顧\n• 19:35 ~ 20:15 (40 mins) R-Ladies Taipei 講者們回娘家分享大會\n• 20:15 ~ 20:45 (30 mins) R-Ladies Taipei 你一定也可以的閃電秀\n• 20:45 ~ 21:15 (30 mins) 自由交流時間\n\n[Talk Information]\n• R-Ladies Taipei 簡簡單單年度回顧\n我們會利用極短的時間，跟大家一起回憶今年我們做過哪些好玩的事\n也會快速預告明年的活動\n\n• R-Ladies Taipei 講者們回娘家分享大會\n今年特別找回眾多講者回來跟大家分享，其中很多從海外回來的講者喔\n想聽聽他們在海外的任何經驗，就一定要來參加\n\n• R-Ladies Taipei 你一定也可以的閃電秀\n趕快報名跟我們一起玩 R 的交換禮物吧。\n12/31 23:59 截止報名唷\nhttps://forms.gle/eD1ussGrXAsRQuJg9\n\n[Speaker Information]\n• 來自德國的Y大大\n• 來自德國的M大大\n• 來自美國的C大大\n• 首次登場的 satRdays LA 負責人\n• 網紅敏大大\n\n[Location]\ndigiBlock C\n地址：103台北市大同區承德路三段287號\n捷運：圓山站\n\n[Code of Conduct]\n基本上這是一個女性學習社群，因此若你不是女性，但出現在我們的實體聚會的話，你很可能被要求以下行為：\n• 發言的機會請優先留給女生\n• 座位請優先保留給女生\n• 必須對 R-Ladies Taipei 有貢獻，例如：提供高品質的 3分鐘技術閃電秀\n\n[Event Tags]\n#RladiesTaipei\n#R\n#我們只能透露這麼多，不知道他們是誰嗎來就對了\n#一年一度你一定也可以的閃電秀議程",
+    "status": "PAST",
+    "dateTime": "2020-01-06T19:20:00+08:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/266131216/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 25,
+      "waitlistCount": 0,
+      "totalCount": 25
+    },
+    "venues": [
+      {
+        "id": "26475051",
+        "name": "digiBlock C數位創新基地",
+        "address": "No. 287號, Section 3, Chengde Rd, 重慶里",
+        "city": "Datong District",
+        "state": "Ta",
+        "country": "tw",
+        "lat": 25.074,
+        "lon": 121.5205,
+        "postalCode": "103",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2019-11-01T05:34:41-04:00"
+  },
+  {
+    "id": "281837406",
+    "title": "[2021 Nov] Azure Machine Learning的眉角",
+    "description": "[Agenda]\n• 19:30 ~ 19:40 (10 mins) 入場\n• 19:40 ~ 20:40 (60 mins) 主議程 : Azure Machine Learning 的眉角 @Benjamin\n• 20:40 ~ 自由交流時間\n\n[Talk Information]\n• 完全沒有 R 的內容，除了自介。\n• 這是自己為了幫人上課，自己自修摸索出來的 Azure Machine Learning 心得。\n• 聽完之後，大概會知道一些眉角，或許對未來需要用到 AzureML 的時候，會有一點點幫助。\n\n[Speaker Information]\n• Benjamin Chen\nTaiwan R User Group的成員，但為了生活，漸漸變成 python 的形狀。雖然公司給面子，給了資料科學家的頭銜，但實際上比較像救火隊，真實的情況也只是一個試著用程式解決問題的平凡人。在各種因緣際會之下，不知不覺學到一些技能，在到達財務自由之前，大概就是會一直這樣一生懸命地，一邊學習一邊前進…\n\n[Host Information]\n• Kristen Chan： 聯絡講者\n• Ning：活動場地、活動主持人\n\n[地點] 線上 -- Google Meet\n\n[Event Tags]\n#RladiesTaipei\n#AzureMachineLearning\n\nR-Ladies Taipei 第一場線上分享會!!",
+    "status": "PAST",
+    "dateTime": "2021-11-29T19:30:00+08:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/281837406/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 37,
+      "waitlistCount": 0,
+      "totalCount": 37
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2021-11-03T02:34:46-04:00"
+  },
+  {
+    "id": "276578596",
+    "title": "[2021 Apr] 行銷文科生做資料",
+    "description": "[Code of Conduct]\n基本上這是一個女性學習社群，因此若你不是女性，但出現在我們的實體聚會的話，你很可能被要求以下行為：\n• 座位請優先保留給女生\n• 必須對 R-Ladies Taipei 有貢獻，例如：提供高品質的 3分鐘技術閃電秀\n• 發言的機會請優先留給女生\n※ 2021 年起嚴格實施 !!!!!!!!!!!!! (因為我們缺講者...)\n\n[因應疫情相關措施]\n• 活動期間請全程戴口罩\n• 視疫情狀況, 必要時將採實名制參加\n※ 若無法配合將無法進入活動場地\n\n[Agenda]\n• 19:30 ~ 19:40 (10 mins) 入場\n• 19:40 ~ 20:40 (60 mins) 主議程:行銷文科生做資料 @Pei\n• 20:40 ~ 自由交流時間\n\n[Talk Information]\n• 行銷文科生做資料\n- 從行銷文科生到資料工程師\n- 資料科學與數位行銷\n- 資料科學與數位轉型\n\n[Speaker Information]\n• Pei\n\n[Host Information]\n• Kristen Chan： 活動主持人、聯絡講者\n• Angie：活動場地\n\n[地點] DigiBlock C\n地址: 103 台北市大同區承德路三段287號\n(捷運圓山站附近)\n\n[Event Tags]\n#RladiesTaipei",
+    "status": "PAST",
+    "dateTime": "2021-04-26T19:30:00+08:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/276578596/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 30,
+      "waitlistCount": 0,
+      "totalCount": 30
+    },
+    "venues": [
+      {
+        "id": "26475051",
+        "name": "digiBlock C數位創新基地",
+        "address": "No. 287號, Section 3, Chengde Rd, 重慶里",
+        "city": "Datong District",
+        "state": "Ta",
+        "country": "tw",
+        "lat": 25.074,
+        "lon": 121.5205,
+        "postalCode": "103",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2021-02-25T02:33:36-05:00"
+  },
+  {
+    "id": "275622681",
+    "title": "[2021 Feb] Voice of Data 如何為你手中的數據發聲",
+    "description": "[Code of Conduct]\n基本上這是一個女性學習社群，因此若你不是女性，但出現在我們的實體聚會的話，你很可能被要求以下行為：\n• 座位請優先保留給女生\n• 必須對 R-Ladies Taipei 有貢獻，例如：提供高品質的 3分鐘技術閃電秀\n• 發言的機會請優先留給女生\n※ 2021 年起嚴格實施 !!!!!!!!!!!!! (因為我們缺講者...)\n\n[因應疫情相關措施]\n• 活動期間請全程戴口罩\n• 視疫情狀況, 必要時將採實名制參加\n※ 若無法配合將無法進入活動場地\n\n[Agenda]\n• 19:30 ~ 19:40 (10 mins) 入場\n• 19:40 ~ 20:40 (60 mins) 主議程: Voice of Data @Sally\n• 20:40 ~ 21:10 (30 mins) 與 Rladies 們聊聊天 -- 讓我們一起規劃未來的 Meetup\n• 21:10 ~ 自由交流時間\n\n[Talk Information]\n• Voice of Data 如何為你手中的數據發聲\n不管是數據分析師、工程師或科學家，在數據團隊建立或轉職初期，甚至是在安插在其他部門內的數據分析工作者，都將面臨來自四面八方的期待，期待你透過分析工具及模型來「點石成金」。但真實情況是你會面臨數據缺失、老闆非技術研究出身、上台報告時台下聽不懂、研究開發資源不到位、講了建議後執行團隊不理你等等情況。\n這個演講將融匯 Sally 在美國及中國遇到文化衝擊的小故事及解決方案，希望帶給在職場上為數據發聲的工作者，能更有勇氣與影響力。\n\n• 與 Rladies 們聊聊天 -- 讓我們一起規劃未來的 Meetup\n2020 因為疫情我們休息了一整年, 2021 我們決定重出江湖\n但我們想藉由久違付出的這次, 跟大家一起討論未來 Meetup 的方向和形式\n希望有大家的參與可以讓舊朋友和新朋友們都可以更融入 R-Ladies Taipei\n\n[Speaker Information]\n• Sally\n從百貨採購轉跳成數據分析師與科學家的 Sally，在數據職涯中歷經美國與中國企業文化，橫跨金融、醫藥、音樂娛樂與數位教育等產業，做過分析及建置數據產品開發團隊。\n目前在台灣美商 Viewsonic 做數據科學家。\n\n[Host Information]\n• Kristen Chan： 活動主持人、聯絡講者\n• Summit Suen：聯絡講者、活動場地\n• Agie：活動場地\n• Sylvia：活動場地\n\n[地點] Dcard\n地址: 臺北市大安區光復南路 102 號 14 樓\n(在 Dcard 14F 辦公室 不要走錯!!!!)\n\n[Event Tags]\n#RladiesTaipei",
+    "status": "PAST",
+    "dateTime": "2021-02-22T19:30:00+08:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/275622681/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 45,
+      "waitlistCount": 36,
+      "totalCount": 45
+    },
+    "venues": [
+      {
+        "id": "26419273",
+        "name": "Dcard",
+        "address": "華聲里 Guangfu S Rd, 102號",
+        "city": "Da’an District",
+        "state": "Ta",
+        "country": "tw",
+        "lat": 25.0435,
+        "lon": 121.5574,
+        "postalCode": "106",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2021-01-08T02:01:04-05:00"
+  },
+  {
+    "id": "290363644",
+    "title": "排隊系統設計簡介",
+    "description": "**[Agenda]**\n\n• 19:30 \\~ 19:40 (10 mins) 開場\n• 19:40 \\~ 20:40 (60 mins) 主議程 : **排隊系統設計簡介**\n• 20:40 \\~ 自由交流時間\n\n**[Talk Information]**\n\n排隊系統在生活中廣泛出現，在醫院、超市、博物館、銀行，在文明的社會中，只要人一多，都有排隊的議題。這次的短講將分享用數學模型來模擬並規劃一個排隊系統，需要考量的要素，以及如何評價一個排隊系統設計。\n\n**[Host Information]**\n\n• Benjamin Chen： 講者聯絡與協調、活動主持人\n• Kristen Chan：活動規劃\n• Ning：活動場地、活動主持人\n\n**[地點]** 線上：[https://reurl.cc/pZd1EZ](https://reurl.cc/pZd1EZ)\n**線上會議連結會在活動當天在網頁更新**\n最早可加入會議時間為晚上七點。",
+    "status": "PAST",
+    "dateTime": "2022-12-26T19:30:00+08:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/290363644/",
+    "featuredEventPhoto": {
+      "id": "509270690",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/6/0/2/highres_509270690.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/6/0/2/600_509270690.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/6/0/2/thumb_509270690.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 40,
+      "waitlistCount": 0,
+      "totalCount": 40
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2022-12-16T01:43:33-05:00"
+  },
+  {
+    "id": "288113036",
+    "title": "使用 R 處理基因數據與視覺化 Genomic Data Processing and Visualization in R",
+    "description": "**[Agenda]**\n\n• 19:30 \\~ 19:40 (10 mins) 開場\n• 19:40 \\~ 20:40 (60 mins) 主議程 : **使用 R 處理基因數據與視覺化 Genomic Data Processing and Visualization in R**\n• 20:40 \\~ 自由交流時間\n\n**[Talk Information]**\n\nR/Bioconductor提供了一個強大並標準的基因數據分析環境。搭配R豐富的繪圖套件，很容易能視覺化高維度的生物資訊。常見的視覺化方法包含了 heatmap和基因體坐標上的作圖。在本次分享中，我將介紹R與基因體學相關的資料處理套件和繪圖庫，如 GenomicRanges、ensembldb、SummarizedExperiment和ComplexHeatmap等等。我們將用一個腦癌的資料來示範。首先，我們會用這些套件來輸入 multi-omics 資料並連結相關的資訊和標記。接著，我們會用不同的視覺化方法來探索數據，在其中找尋一些有趣的生物現象（如：X染色體去活化、MGMT甲基化）。最後，我將分享我過去幾年使用R處理基因資料的經驗，以及它可能如何適用於未來的技術和需求。\n\nR/Bioconductor provides a powerful ecosystem to conduct genomic analysis in a standardized way. Together with the strong plotting libraries in R, it's easy to visualize the high dimension of biological data. Common visualizations include heatmaps and plotting along genomic coordinates. In this talk, I will cover R's ecosystem for genomics and the related plotting libraries, including packages like GenomicRanges, ensembldb, SummarizedExperiment, and ComplexHeatmap. We will then go through a series of examples using a brain tumor multi-omics dataset. First, we will load the dataset and demonstrate how to query the related biological information using these packages. We will then walk through some interesting biological observations (e.g., X-inactivation and MGMT inactivation) by exploring our data with different visualizations. Finally, I will share my lessons with R’s overall ecosystem and how it might adapt to the future technologies and new usage.\n\n**[Speaker Information]**\n\n• Liang-Bo Wang\nLiang-Bo 畢業於聖路易華盛頓大學計算與系統生物學系。博士研究為癌症蛋白質體基因體學。對基因相關的研究和工作開發都感興趣。\n\n**[Host Information]**\n\n• Benjamin Chen： 講者聯絡與協調、活動主持人\n• Kristen Chan：活動規劃\n• Ning：活動場地、活動主持人\n\n**[地點]** 線上: [https://reurl.cc/kqOMXd](https://reurl.cc/kqOMXd)\n**線上會議連結會在活動當天在網頁更新**\n最早可加入會議時間為晚上七點。\n\n**[Reference]**\nhttps://academic.oup.com/bioinformatics/article/35/17/3151/5301311",
+    "status": "PAST",
+    "dateTime": "2022-11-28T19:30:00+08:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/288113036/",
+    "featuredEventPhoto": {
+      "id": "506630658",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/5/e/2/highres_506630658.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/5/e/2/600_506630658.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/5/e/2/thumb_506630658.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 31,
+      "waitlistCount": 0,
+      "totalCount": 31
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2022-08-28T08:15:05-04:00"
+  },
+  {
+    "id": "288520262",
+    "title": "Microsoft Ignite x R-Ladies Taipei",
+    "description": "***10/31 19:30***\n***讓你用 90 分鐘快速掌握今年微軟 Ignite AI 領域最新情報***\n#全中文喔⋯⋯\n\n**[Agenda]**\n\n• 19:30 \\~ 19:40 (10 mins) 開場\n• 19:40 \\~ 20:00 (20mins) 微軟Applied AI & Cognitive Services 簡介\n• 20:00 \\~ 20:30 (30mins) Microsoft Ignite 上的 AI 新鮮事 - Build better customer experiences and business processes with Applied AI & Cognitive Services\n• 20:30 \\~ 討論交流時間\n\n**[Talk Information]**\n\nMicrosoft Ignite 是一個微軟行之有年的全球性活動。微軟近幾年在秋季大會時，都會發表微軟新的服務或者更新項目，內容包羅萬象。\n來聽這場Talk，即便你對微軟場品不熟，你也可以快速掌握微軟AI產品概況；你對AI產品很熟，想要聽聽MVP大家怎麼看今年的更新項目及服務，你就更應該參加。\n今年 R-Ladies Taipei 首次參與這件盛事，此次挑選的主題將會圍繞在微軟的 AI 新產品與實際應用案例上，讓我們看看這些新功能如何改善各種生活情境與商業應用吧！\n\n**另外我們要分享本次可取得免費 Microsoft 認證考試機會，讓你輕鬆掌握微軟認證考試- (Ignite 2022 雲技能挑戰賽 介紹)**\n\n目前預計可能會提到的服務：\n\n* Azure Machine Learning\n* DALL-E in Azure Open AI\n* Azure Cognitive Services\n\n**[Host And Speaker Information]**\n• Kui-Ming Chen： 講者、活動主持人\n• Kristen Chan：講者、活動規劃\n• Ning：講者\n\n**[地點]** [https://reurl.cc/pZd1EZ](https://reurl.cc/pZd1EZ)",
+    "status": "PAST",
+    "dateTime": "2022-10-31T19:30:00+08:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/288520262/",
+    "featuredEventPhoto": {
+      "id": "507775424",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/8/8/0/highres_507775424.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/8/8/0/600_507775424.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/8/8/0/thumb_507775424.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 32,
+      "waitlistCount": 0,
+      "totalCount": 32
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2022-09-16T05:09:27-04:00"
+  },
+  {
+    "id": "288375610",
+    "title": "資訊安全領域中的異常偵測 Anomaly detection in information security",
+    "description": "**[Agenda]**\n• 19:30 \\~ 19:40 (10 mins) 開場\n• 19:40 \\~ 20:40 (60 mins) 主議程 : **資訊安全領域中的異常偵測 Anomaly detection in information security**\n• 20:40 \\~ 自由交流時間\n\n**[Talk Information]**\n**我將分享資訊安全領域中常見的異常事件類型，及如何透過視覺發現與非監督式學習等方式進行異常偵測。**\n\n**[Speaker Information]**\n• **K**\nHi！我是K，是一個熱衷資安技術、資料處理與視覺化工作的工程師與一寶爸。\n\n**[Host Information]**\n• Benjamin Chen： 講者聯絡與協調\n• Kristen Chan：活動規劃\n• Ning：活動場地、活動主持人\n\n**[地點]** 線上：[https://reurl.cc/kEbQqx](https://reurl.cc/kEbQqx)\n**線上會議連結會在活動當天在網頁更新**",
+    "status": "PAST",
+    "dateTime": "2022-09-26T19:30:00+08:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/288375610/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 34,
+      "waitlistCount": 0,
+      "totalCount": 34
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2022-09-09T10:11:39-04:00"
+  },
+  {
+    "id": "286801131",
+    "title": "具有隱私保護的自然影像合成",
+    "description": "**[Agenda]**\n• 19:30 \\~ 19:40 (10 mins) 開場\n• 19:40 \\~ 20:40 (60 mins) 主議程 : **具有隱私保護的自然影像合成**\n• 20:40 \\~ 自由交流時間\n**[Talk Information]**\n**隨著相機與錄影設備普及, 許多行業越來越容易搜集各種圖像, 創造更多具有價值的應用. 但是這些圖像應用, 例如訓練電腦視覺模型, 並將模型發布給其他單位使用, 很可能無意間侵犯到個人隱私, 導致相關單位必須承擔賠償風險. 這次分享會介紹近年攻擊方如何從發布的電腦視覺模型獲取訓練資料集中的個人資訊, 以及防禦方如何抵禦並釋出具有保護與可用性的圖像生成模型.**\n**[Speaker Information]**\n• **Jiawei**\nJiawei 是機器學習安全與最佳化控制領域的研究人員, 目前在腦機介面實驗室專注於開發外骨骼的神經肌肉控制模型。\n\n**[Host Information]**\n• Benjamin Chen： 講者聯絡與協調\n• Kristen Chan：活動規劃\n• Ning：活動場地、活動主持人\n\n**[地點]** 線上：[https://reurl.cc/eOzWqx](https://reurl.cc/eOzWqx)\n**線上會議連結會在活動當天在網頁更新**\n\n**[相關論文](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_DPGEN_Differentially_Private_Generative_Energy-Guided_Network_for_Natural_Image_Synthesis_CVPR_2022_paper.pdf)**",
+    "status": "PAST",
+    "dateTime": "2022-08-29T19:30:00+08:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/286801131/",
+    "featuredEventPhoto": {
+      "id": "505112809",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/0/2/9/highres_505112809.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/0/2/9/600_505112809.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/0/2/9/thumb_505112809.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 26,
+      "waitlistCount": 0,
+      "totalCount": 26
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2022-06-25T23:26:46-04:00"
+  },
+  {
+    "id": "286104575",
+    "title": "D4SG:不當黨產委員會專案分享",
+    "description": "**[Agenda]**\n\n• 19:30 \\~ 19:40 (10 mins) 開場\n• 19:40 \\~ 20:40 (60 mins) 主議程 : **D4SG:不當黨產委員會專案分享**@蘇彥庭\n• 20:40 \\~ 自由交流時間\n\n**[Talk Information]**\n\n**D4SG(Data for Social Good)是一個用資料做公益計畫，透過媒合資料科學志工團隊，以數據科學方式，解決非營利組織或政府單位在業務上遇到的問題。今年初我以資料科學志工的身分加入團隊，與黨產會共同合作專案解決問題。本次演講將會介紹我們在三個月的計畫期程中，以文字探勘方法和網絡關係圖，協助黨產會在史料分析的流程上能夠更有效率，並有更多新的發現。**\n\n**[Speaker Information]**\n\n• 蘇彥庭\n畢業於中山財管所，目前在化工業擔任資料科學家。之前的研究領域為智能投資，現在則是轉往智慧製造，學習將數據科學應用於不同領域。並期許自己能夠發揮所長，為社會公益貢獻一份心力。\n\n**[Host Information]**\n\n• Benjamin Chen： 講者聯絡與協調\n• Kristen Chan：活動規劃\n• Ning：活動場地、活動主持人\n\n**[地點]** 線上: https://reurl.cc/lekKe6\n\n**線上會議連結會在活動當天在網頁更新**\n最早可加入會議時間為晚上七點。\n\n**[Reference]**\n\nhttps://www.cipas.gov.tw/stories/66",
+    "status": "PAST",
+    "dateTime": "2022-07-25T19:30:00+08:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/286104575/",
+    "featuredEventPhoto": {
+      "id": "504319166",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/a/d/e/highres_504319166.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/a/d/e/600_504319166.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/a/d/e/thumb_504319166.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 26,
+      "waitlistCount": 0,
+      "totalCount": 26
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2022-05-23T19:53:02-04:00"
+  },
+  {
+    "id": "285941920",
+    "title": "社會科學的資料與應用",
+    "description": "**[Agenda]**\n• 19:30 \\~ 19:40 (10 mins) 開場\n• 19:40 \\~ 20:40 (60 mins) 主議程 : **社會科學的資料與應用**\n• 20:40 \\~ 自由交流時間\n**[Talk Information]**\n**社會科學的分析資料相當多元，從典型的問卷資料、訪談逐字稿、歷史文件到總體指標與行政資料乃至實驗數據。這次的演講將簡介各類資料型態以及常見的資料來源，並且，我將引用數位研究學者的經典學術成果說明資料如何解答或者呈現重要的社會議題。**\n**[Speaker Information]**\n• **李俊穎**\n畢業於臺北大學社會學系，大一受到社會統計的啟蒙，至今一直從事著資料蒐集、處理與分析的工作。現於中央研究院社會學研究所擔任林宗弘研究員的專任助理，除了結構化的問卷資料分析，也會蒐集政府公開資料建構臺灣總體資料庫。\n**[Host Information]**\n• Benjamin Chen： 講者聯絡與協調\n• Kristen Chan：活動規劃\n• Ning：活動場地、活動主持人\n\n**[地點]** 線上\n**線上會議連結會在活動當天在網頁更新**\n線上會議網址：[社會科學的資料與應用](https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2Y4NTYzNGYtZmQ2OS00N2I4LTlkYTUtYjhkN2I1ODg3MmVi%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22db4cd81d-ee90-44e5-a591-523a2508986a%22%7d)",
+    "status": "PAST",
+    "dateTime": "2022-06-20T19:30:00+08:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/285941920/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 60,
+      "waitlistCount": 0,
+      "totalCount": 60
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2022-05-16T08:20:53-04:00"
+  },
+  {
+    "id": "284421238",
+    "title": "K12的科技教育-除了程式還可以教什麼？",
+    "description": "**[Agenda]**\n\n• 19:30 \\~ 19:40 (10 mins) 開場\n• 19:40 \\~ 20:40 (60 mins) 主議程 : **K12的科技教育-除了程式還可以教什麼？**@Joannie\n• 20:40 \\~ 自由交流時間\n\n**[Talk Information]**\n\n**近年來在108課綱，程式教育被討論的非常多遍地開花。在 Joannie 進入體制內教育教學的時間內，發現其實真正的電腦資訊課，在教學上反而有很多有趣的延伸與內容，資訊老師在校園內可以扮演什麼樣的角色？台灣在解讀未來人才培育上有什麼盲點？這次我們一起來聽聽她的經驗與觀點！**\n\n**[Speaker Information]**\n• Joannie Chen\n黃鐘瑩 Joannie Huang 資訊科學系畢業，曾擔任國內外IT產業工程師和新創專案經理。 期間，她加入了台灣不同的女性技術 (PyLadies Taiwan, Girls in Tech, Women Who Code 等) 與科技相關（Flutter Taipei） 社群，接觸許多想學程式的人以及組織多樣的活動與工作坊來鼓勵更多女生踏入跨域第一步！\n\n因著對台灣教育的熱情，決定轉換她的職涯道路，並開啟了程式教育生涯。曾經服務於宜蘭礁溪國中，及樂學程式學院。目前則服務於新北市汐止區青山國民中小學，在擔任國中資訊老師外，也負責執行新北市教育加速器與全市第一所程式教育體驗中心計畫。\n\n從業界轉往學界，Joannie 帶著跨國與多元的經驗，與這四年來在不同的程式教學單位服務，協助課程規劃、師資培育、課程教學與教案開發，持續在教育第一線的耕耘，期待能持續啟發更多學生掌握程式學習的精髓並找到自己的潛能與天賦，快樂、自在的運用它解決身邊感受到的問題。\n\n**[Host Information]**\n• Benjamin Chen： 講者聯絡與協調\n• Kristen Chan：活動規劃\n• Ning：活動場地、活動主持人\n\n**[地點]** 線上\n**線上會議連結會在活動當天在網頁更新**\n線上會議連結：https://reurl.cc/x9QrEb\n最早可加入會議時間為晚上七點。",
+    "status": "PAST",
+    "dateTime": "2022-05-09T19:30:00+08:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/284421238/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 28,
+      "waitlistCount": 0,
+      "totalCount": 28
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2022-03-05T02:23:33-05:00"
+  },
+  {
+    "id": "284918789",
+    "title": "Use cases of Machine Learning and Causal inference for social good",
+    "description": "**How to do good with data: Use cases of Machine Learning and Causal inference for social good**\n\n**[Agenda]**\n• 19:30 \\~ 19:40 (10 mins) Opening\n• 19:40 \\~ 20:40 (60 mins) Main Topic: **How to do good with data: Use cases of Machine Learning and Causal inference for social good**\n• 20:40 \\~ Q & A\n\n**[Talk Information]**\n\n* Using Machine Learning to predict poverty and wealth using mobile phone metadata.\n* Application of Causal Inference methods to measure the impact of social programs.\n* This is an English Event.\n\n**[Speaker Information]**\n**Robert On**\n\n* Robert has degrees in Electrical Engineering, Computer Science, Statistics, Economics, and Information Science.\n* Spent the first 10 years of his career working at **Google** as a Software Engineer under Google's Chief Economist, Hal Varian\n* He spent the next 10 years trying to answer the question: \"How do I do the most good and how can I measure this?\"\n\n**[Host Information]**\n• Benjamin Chen： 活動規劃、講者聯絡與協調\n• Kristen Chan：活動規劃\n• Ning：活動場地、活動主持人\n• Summit：活動宣傳\n\n**[地點]** 線上 -- Google Meet\n**線上會議連結會在活動當天在網頁更新**\n\n**[Reference]**\nFeatured Photo: [https://www.jblumenstock.com/files/papers/jblumenstock_2015_science.pdf](https://www.jblumenstock.com/files/papers/jblumenstock_2015_science.pdf)",
+    "status": "PAST",
+    "dateTime": "2022-04-25T19:30:00+08:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/284918789/",
+    "featuredEventPhoto": {
+      "id": "503015440",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/a/7/0/highres_503015440.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/a/7/0/600_503015440.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/a/7/0/thumb_503015440.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 63,
+      "waitlistCount": 0,
+      "totalCount": 63
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2022-03-28T21:44:11-04:00"
+  },
+  {
+    "id": "282500807",
+    "title": "Global AI Bootcamp in Taiwan",
+    "description": "一年一度 Azure相關的Global AI Bootcamp要在2/12 舉行。\n全中文進行....\n主題涵蓋Azure ML, Azure AI相關應用,是一個適合新手入門,也適合專家想快速掌握目前的發展概況。\n\n線上會議連結將會在會議當天早上釋出。\n\nAzure Pass：\n\n有需要 Azure Pass 的朋友，請填寫以下表格，我們將在 2022/02/12 當天透過 email 發放 Azure Pass。\nhttps://forms.gle/9eSRRLh63UsnBNa89\n\n活動網站：\nhttps://tinyurl.com/2p8zjm2a\n\n議程：\n09:30 ~ 10:00 Global AI Bootcamp 2022 - Keynote\n10:00 ~ 11:00 Azure machine learning 基礎 + designer - Ning Chen\n11:00 ~ 12:00 Azure machine learning advance - Benjamin Chen\n12:00 ~ 14:00 Lunch Break\n14:00 ~ 14:30 Bot Composer - 孫玉峰\n14:30 ~ 15:00 初探 Azure Cognitive Services - Speech Service - Migo Liao\n15:00 ~ 15:30 Azure Custom Vision running on Azure functions - Kristen Chan\n15:30 ~ 16:00 Tukey - the new wave of ESG technology with No-Code AI in manufacturing - 謝宗震 博士\n\n講者簡介：\n\nNing Chen\nMicrosoft MVP\n參與推動data for social good資料英雄計畫http://d4sg.org/fellowship/\n此計劃運作六年，推動公益性質組織及公部門的大量營運數據發揮價值。歷年來，已經有超過40個政府機關及NGO透過這個計畫更加深入了解資料價值，輔導過社會及環保相關議題的資料分析案，2017~2022連續五年在AI類別取得微軟MVP榮譽，活耀於AI、機器學習相關研究、社群、競賽活動並且多場海內外AI相關專題演講經驗。帶領AI團隊與台北市社會救助科拿到聯發科「智在家鄉」百萬首獎。\n\n陳奎銘（Benjamin Chen）\nMomagic 的資料科學家和 Azure 講師\n致力於用資料科學解決各個領域的疑難雜症，舉凡股票、期貨、廣告、生技醫療和環保，都有實務處理的經驗。除了資料科學以外，近年也投入參與 IoT 的開發與專利申請，開始進入跨足 AI、IoT、雲端的三棲狀態。\n\nKristen Chan\nR-Ladies Taipei 現任負責人\n喜歡學任何新鮮有趣的東西，期望能貢獻自己的能力運用資料解決問題。\n\nMigo Liao\n產品及使用者經驗優先原則的軟體工程師\n作為協助者的特性，點了許多超出畫面及不務正業的技能樹。工作外喜歡學習不同領域的新知及參與NGO專案，盡最大努力去結合不同面向的跨領域經驗並落地到實務上。希望自己能成為 - 設身處地洞察生活難題，了解如何利用資訊科技來提供最佳解決途徑的愛貓人士，並完成更多對社會有正向影響力的事情。\n\n孫玉峰\n台灣角川數據架構師\n在多個產業開發各種資料產品，包含推薦系統以及廣告數據平台（DMP／CDP），近年來的公開演講以及實務上則專注在資料工程與 MLOps 的建立，期望讓數據驅動（Data-Driven）的觀念帶動各個產業領域的創新。《數位時代》專欄作家、微軟最有價值專家（MVP）以及 Taiwan R User Group（常態活動 MLDM Monday 主辦單位）的共同主持人（Co-organizer）。\n\n謝宗震 博士（Johnson）\nChimes AI（詠鋐智能）創辦人暨執行長、資料玩家、連續創業者、二寶爸 (夜奶餵食中)。\nHas over 10 years of experience in machine learning. Able to play a key role to develop data products, make decisions and predictions from data. A devout believer in data science for anything good, when data scientist meet a domain expert.",
+    "status": "PAST",
+    "dateTime": "2022-02-12T09:30:00+08:00",
+    "duration": "PT6H30M",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/282500807/",
+    "featuredEventPhoto": {
+      "id": "501326668",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/8/2/c/highres_501326668.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/8/2/c/600_501326668.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/8/2/c/thumb_501326668.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 103,
+      "waitlistCount": 0,
+      "totalCount": 103
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2021-12-05T00:02:06-05:00"
+  },
+  {
+    "id": "297305466",
+    "title": "跟著 AI 叮叮噹！",
+    "description": "**[報名網址]**\n麻煩移駕至此報名：\n[rladiestaipei.kktix.cc/events/jinglewithai](rladiestaipei.kktix.cc/events/jinglewithai)\n\n**[Agenda]**\n\n* 19:00 \\~ 19:30 開放入場\n* 19:30 \\~ 19:40 (10 mins) 開場\n* 19:40 \\~ 20:40 (60 mins) 主議程：跟著 AI 叮叮噹！\n* 20:40 \\~ 自由交流時間\n\n**[Talk Information]**\n大概是這樣，有個講者自以為有趣地產生了一堆，不堪入耳的聲音，但多次嘗試之後，終於產出了好像有點樣子的音樂，還舔不知恥地到處炫耀，現在更變本加厲，想要邀請大家在聖誕節、光明節外加行憲紀念日的節慶期間，一起來叮叮噹～～分享如何跟 AI 創作出只屬於自己的音樂～\n這次活動也配合歡樂的節日，我們會準備小禮物，但我們不交換，我們只會“交付”禮物（參加現場活動才有）～～讓大家帶著音樂、冷知識和小禮物回家～～\n\n**[Host Information]**\n• Benjamin Chen： 講者聯絡與協調、活動主持人\n• Kristen Chan：活動規劃\n• Ning：活動場地、活動主持人\n\n**[地點]**\n這次會議我們將會同時開放線上會議和現場實體會議，建議大家盡量參加實體會議，會後還能跟講者互動喔～～\n\n實體會議地址：110台北市信義區光復南路133號 松菸創作者工廠內2樓\n[https://goo.gl/maps/R6xBGgZV4EFVuRwx6](https://goo.gl/maps/R6xBGgZV4EFVuRwx6)\n松菸位置圖\n\n1. [松菸位置圖 1](https://static.accupass.com/eventintro/2303220414431933715601.jpg)\n2. [松菸位置圖 2](https://static.accupass.com/eventintro/2303220414568161621430.jpg)\n\n同時我們也開放線上參與，活動連結將會在購票後提供。\n線上連結：**[https://reurl.cc/gDma3b](https://reurl.cc/gDma3b)**\n**[Code of Conduct]**\n基本上這是一個女性學習社群，因此若你不是女性，但出現在我們的實體聚會的話，你很可能被要求以下行為：\n\n• 發言的機會請優先留給女生\n• 座位請優先保留給女生\n• 必須對 R-Ladies Taipei 有貢獻，例如：請勇敢舉手發問\n\n**[活動合辦]**\n\n* R-Ladeis Taipei\n* 美國創新中心 （美國在台協會）\n* 松菸創作者工廠（松山文創園區）\n* OneLab",
+    "status": "PAST",
+    "dateTime": "2023-12-18T19:30:00+08:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/297305466/",
+    "featuredEventPhoto": {
+      "id": "517216489",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/0/6/9/highres_517216489.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/0/6/9/600_517216489.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/0/6/9/thumb_517216489.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 7,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "27639410",
+        "name": "No. 133, Guangfu S Rd",
+        "address": "No. 133, Guangfu S Rd, 新仁里",
+        "city": "Xinyi District",
+        "state": "Ta",
+        "country": "tw",
+        "lat": 25.044,
+        "lon": 121.5606,
+        "postalCode": "110",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2023-11-11T18:25:19-05:00"
+  },
+  {
+    "id": "296783341",
+    "title": "DNA Investing: 新手投資入門，建構屬於您自己的投資策略",
+    "description": "**[Agenda]**\n\n• 19:30 \\~ 19:40 (10 mins) 開場\n• 19:40 \\~ 20:40 (60 mins) 主議程 : **DNA Investing: 新手投資入門，建構屬於您自己的投資策略**\n• 20:40 \\~ 自由交流時間\n\n**[Talk Information]**\n\n這是Ken Ku的演講主題，他將為新手投資者提供寶貴的指導，教您如何建立一個適合自己的獨特投資策略。\n在這場令人期待的演講中，Ken將探討什麼是\"DNA Investing\"，並分享關於如何開始建立個人化的投資策略的關鍵步驟。他將強調考慮個人風險偏好、財務目標和時間限制的重要性。\nKen Ku將向您展示如何利用您的投資DNA來制定策略，以確保您在投資世界中能夠達到成功並實現財務目標。如果您想開始投資並建立一個獨特的投資策略，這場演講絕對不容錯過。\n\n**[Host Information]**\n\n• Benjamin Chen： 講者聯絡與協調、活動主持人\n• Kristen Chan：活動規劃\n• Ning：活動主持人\n\n**[地點]**\n**線上會議：**[https://reurl.cc/gDma3b](https://reurl.cc/gDma3b)",
+    "status": "PAST",
+    "dateTime": "2023-11-27T19:30:00+08:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/296783341/",
+    "featuredEventPhoto": {
+      "id": "516622084",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/6/4/4/highres_516622084.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/6/4/4/600_516622084.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/6/4/4/thumb_516622084.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 49,
+      "waitlistCount": 0,
+      "totalCount": 49
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2023-10-16T18:47:27-04:00"
+  },
+  {
+    "id": "296239571",
+    "title": "旅遊服務銜接 AIGC 的各種坑",
+    "description": "**[Agenda]**\n\n• 19:30 \\~ 19:40 (10 mins) 開場\n\n• 19:40 \\~ 20:40 (60 mins) 主議程 : 旅遊服務銜接 AIGC 的各種坑\n\n• 20:40 \\~ 自由交流時間\n\n**[Talk Information]**\n\n聊聊真程旅行社嘗試將旅遊服務和AIGC- AI Generated Content（也就是那個超級酷炫的人工智慧）結合時，會遇到的一些...(嗯 其實很多)，讓人啼笑皆非的坑。\n\n超級依賴症：當我們完全依賴AI建議行程，結果它帶你去了一家已經關門大吉的餐廳。旅行社可以跟客人一起嘆氣說：“哎，我知道我不該那麼懶...”嗎?\n\n路線的驚喜：AI可能會安排：“我們要太魯閣玩完去住逢甲夜市的飯店！”，這可以排嗎?\n\n無字天書猜猜看：有資料才能計算，資料的清理永遠是第一個大魔王。客人輸入的文字SML，SL market是甚麼?\n\n**[Host Information]**\n\n• Benjamin Chen： 講者聯絡與協調、活動主持人\n\n• Kristen Chan：活動規劃\n\n• Ning：活動場地、活動主持人\n\n**[地點]**\n\n這次會議我們將會同時開放線上會議和現場實體會議，建議大家盡量參加實體會議，會後還能跟講者互動喔～～\n\n實體會議地址：110台北市信義區光復南路133號 松菸創作者工廠內2樓\n[https://goo.gl/maps/R6xBGgZV4EFVuRwx6](https://goo.gl/maps/R6xBGgZV4EFVuRwx6)\n松菸位置圖\n\n1. [松菸位置圖 1](https://static.accupass.com/eventintro/2303220414431933715601.jpg)\n2. [松菸位置圖 2](https://static.accupass.com/eventintro/2303220414568161621430.jpg)\n\n**線上會議連結：[https://reurl.cc/gDma3b ](https://reurl.cc/gDma3b)**\n**（千萬不要按右邊的 online event 連結）**\n\n**[Code of Conduct]**\n\n基本上這是一個女性學習社群，因此若你不是女性，但出現在我們的實體聚會的話，你很可能被要求以下行為：\n\n• 發言的機會請優先留給女生\n• 座位請優先保留給女生\n• 必須對 R-Ladies Taipei 有貢獻，例如：請勇敢舉手發問\n\n**[活動合辦]**\n• 松菸創作者工廠（松山文創園區）\n• 美國創新中心 （美國在台協會）",
+    "status": "PAST",
+    "dateTime": "2023-10-30T19:30:00+08:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/296239571/",
+    "featuredEventPhoto": {
+      "id": "516015468",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/c/6/c/highres_516015468.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/c/6/c/600_516015468.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/c/6/c/thumb_516015468.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 45,
+      "waitlistCount": 0,
+      "totalCount": 45
+    },
+    "venues": [
+      {
+        "id": "27639410",
+        "name": "No. 133, Guangfu S Rd",
+        "address": "No. 133, Guangfu S Rd, 新仁里",
+        "city": "Xinyi District",
+        "state": "Ta",
+        "country": "tw",
+        "lat": 25.044,
+        "lon": 121.5606,
+        "postalCode": "110",
+        "venueType": ""
+      },
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": 25.044,
+        "lon": 121.5606,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2023-09-20T18:57:51-04:00"
+  },
+  {
+    "id": "295452194",
+    "title": "從 MLOps 到 LLMOps 的混合雲實踐",
+    "description": "**[Agenda]**\n\n• 19:30 \\~ 19:40 (10 mins) 開場\n\n• 19:40 \\~ 20:40 (60 mins) 主議程 : 從 MLOps 到 LLMOps 的混合雲實踐\n\n• 20:40 \\~ 自由交流時間\n\n**[Talk Information]**\n\n從 MLOps 到 LLMOps 的混合雲實踐 系列\n\n* MLOps 混合雲的實踐\n* LLM 簡介與 MLOps 關係\n* 使用 MLOps & LLMOps 的工具與生態圈\n* Databricks, Azure Machine Learning, SageMaker, or Vertex AI\n* MLflow\n\n**[Host Information]**\n\n• Benjamin Chen： 講者聯絡與協調、活動主持人\n\n• Kristen Chan：活動規劃\n\n• Ning：活動場地、活動主持人\n\n**[地點]**\n\n實體會議地址：110台北市信義區光復南路133號 創作者工廠內2樓\n\n[https://goo.gl/maps/R6xBGgZV4EFVuRwx6](https://goo.gl/maps/R6xBGgZV4EFVuRwx6)\n\n線上會議連結：[https://reurl.cc/gDma3b](https://reurl.cc/gDma3b)\n\n松菸位置圖\n\n1. [松菸位置圖 1](https://static.accupass.com/eventintro/2303220414431933715601.jpg)\n2. [松菸位置圖 2](https://static.accupass.com/eventintro/2303220414568161621430.jpg)\n\n**[Code of Conduct]**\n\n基本上這是一個女性學習社群，因此若你不是女性，但出現在我們的實體聚會的話，你很可能被要求以下行為：\n\n• 發言的機會請優先留給女生\n\n• 座位請優先保留給女生\n\n• 必須對 R-Ladies Taipei 有貢獻，例如：請勇敢舉手發問",
+    "status": "PAST",
+    "dateTime": "2023-09-25T19:30:00+08:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/295452194/",
+    "featuredEventPhoto": {
+      "id": "515149433",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/1/1/9/highres_515149433.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/1/1/9/600_515149433.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/1/1/9/thumb_515149433.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 39,
+      "waitlistCount": 5,
+      "totalCount": 39
+    },
+    "venues": [
+      {
+        "id": "27639410",
+        "name": "No. 133, Guangfu S Rd",
+        "address": "No. 133, Guangfu S Rd, 新仁里",
+        "city": "Xinyi District",
+        "state": "Ta",
+        "country": "tw",
+        "lat": 25.044,
+        "lon": 121.5606,
+        "postalCode": "110",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2023-08-14T18:56:48-04:00"
+  },
+  {
+    "id": "295567095",
+    "title": "AI & VR in Sports",
+    "description": "**[Agenda]**\n\n• 19:30 \\~ 19:40 (10 mins) 開場\n\n• 19:40 \\~ 20:40 (60 mins) 主議程 : AI & VR in Sports\n\n• 20:40 \\~ 自由交流時間\n\n**[Talk Information]**\n\n胡敏君教授目前任職於國立清華大學資訊工程系，本場演講將分享其近年致力於投入運動科技研發、協助國家隊在國際賽事中進行情蒐分析並走上創業之路的歷程。此外也將分享與產業合作培育跨領域與女性 STEM 人才之經驗。\n\n**[Host Information]**\n\n• Summit Suen：講者聯絡與協調、活動主持人\n\n• Benjamin Chen：活動主持人\n\n• Kristen Chan：活動規劃\n\n• Ning：活動場地、活動主持人\n\n**[地點]**\n\n**線上會議**\n\n**[Code of Conduct]**\n\n基本上這是一個女性學習社群，因此若你不是女性，但出現在我們的實體聚會的話，你很可能被要求以下行為：\n\n• 發言的機會請優先留給女生\n\n• 座位請優先保留給女生\n\n• 必須對 R-Ladies Taipei 有貢獻，例如：請勇敢舉手發問",
+    "status": "PAST",
+    "dateTime": "2023-08-28T19:30:00+08:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/295567095/",
+    "featuredEventPhoto": {
+      "id": "515268342",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/c/d/6/highres_515268342.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/c/d/6/600_515268342.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/c/d/6/thumb_515268342.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 33,
+      "waitlistCount": 0,
+      "totalCount": 33
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2023-08-20T10:46:15-04:00"
+  },
+  {
+    "id": "294283382",
+    "title": "入門 AI 開源的生態系平台 Hugging Face",
+    "description": "**[Agenda]**\n\n• 19:30 \\~ 19:40 (10 mins) 開場\n• 19:40 \\~ 20:40 (60 mins) 主議程 : **入門 AI 開源的生態系平台 Hugging Face**\n• 20:40 \\~ 自由交流時間\n\n**[Talk Information]**\n\nGoogle 之前內部流出的文件說 OpenAI 沒有護城河，他們自己也沒有。該文件指出說，開源的自然語言模型會在接下來的市場上成為主流。如果這篇文章的論述是真的，那麼 Hugging Face 就會成為接下來最重要的一個平台。\n\nHugging Face 可視為 AI 模型界的 GitHub，一個專門針對解決自然語言處理模型的難度和不兼容性問題而設立的平台。現今，其除了自然語言處理的開放原始碼 AI 模型之外，還匯集了大量其他種類的開放原始碼 AI 模型。Hugging Face 可以被看作是一個自然語言處理應用的寶庫，它提供了大量的開源模型，相較於閉源的 ChatGPT，讓使用者能夠輕易地下載和訓練自己的新模型。本次演講會帶大家入門 Hugging Face 生態系，並示範與操作 Hugging Face。\n\n**[Host Information]**\n\n• Benjamin Chen： 講者聯絡與協調、活動主持人\n• Kristen Chan：活動規劃\n• Ning：活動主持人\n\n**[地點]**\n**線上會議：**[https://reurl.cc/gDma3b](https://reurl.cc/gDma3b)",
+    "status": "PAST",
+    "dateTime": "2023-07-31T19:30:00+08:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/294283382/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 84,
+      "waitlistCount": 0,
+      "totalCount": 84
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": 0,
+        "lon": 0,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2023-06-19T08:54:24-04:00"
+  },
+  {
+    "id": "293871408",
+    "title": "面對戰爭與傳染病威脅的資料科學應用",
+    "description": "**[Agenda]**\n\n• 19:30 \\~ 19:40 (10 mins) 開場\n• 19:40 \\~ 20:40 (60 mins) 主議程 : **面對戰爭與傳染病威脅的資料科學應用**\n• 20:40 \\~ 自由交流時間\n\n**[Talk Information]**\n\n分享2篇講者於2023年發表於國際學術期刊的文章\n\n1. Influence of resilience on perceived stress and depression among Taiwanese army military personnel (第1作者,主要負責資料分析)\n面對中共軍機擾台成為常態, 全世界都知道台灣海峽不平靜…\n2. Determinants of quality of life in frontline healthcare providers caring for COVID-19 patients (第2作者,主要負責資料分析)\n第一線照顧新冠肺炎的醫護人員生活品質的決定因素是?\n\n**[Host Information]**\n\n• Benjamin Chen： 講者聯絡與協調、活動主持人\n• Kristen Chan：活動規劃\n• Ning：活動主持人\n• Summit：活動場地\n\n**[地點]** 100台北市中正區思源街18號[https://maps.app.goo.gl/wKS68QwnNwkp2Hrj8](https://maps.app.goo.gl/wKS68QwnNwkp2Hrj8)\n詳細位置：[https://hackmd.io/@uslSdeP_TqebnDUvvt7i0g/HkhhVaTw3](https://hackmd.io/@uslSdeP_TqebnDUvvt7i0g/HkhhVaTw3)\n**線上會議：**[https://reurl.cc/gDma3b](https://reurl.cc/gDma3b)\n\n**[Reference]**\n\n* [https://onlinelibrary.wiley.com/doi/epdf/10.1111/jocn.16723](https://onlinelibrary.wiley.com/doi/epdf/10.1111/jocn.16723)\n* [https://onlinelibrary.wiley.com/doi/epdf/10.1002/smi.3247](https://onlinelibrary.wiley.com/doi/epdf/10.1002/smi.3247)\n\n**[Code of Conduct]**\n\n基本上這是一個女性學習社群，因此若你不是女性，但出現在我們的實體聚會的話，你很可能被要求以下行為：\n• 發言的機會請優先留給女生\n• 座位請優先保留給女生\n• 必須對 R-Ladies Taipei 有貢獻，例如：提供高品質的 3分鐘技術閃電秀",
+    "status": "PAST",
+    "dateTime": "2023-06-26T19:30:00+08:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/293871408/",
+    "featuredEventPhoto": {
+      "id": "513280263",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/d/4/7/highres_513280263.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/d/4/7/600_513280263.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/d/4/7/thumb_513280263.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 24,
+      "waitlistCount": 0,
+      "totalCount": 24
+    },
+    "venues": [
+      {
+        "id": "27602146",
+        "name": "No. 18, Siyuan St",
+        "address": "No. 18, Siyuan St, 富水里",
+        "city": "Zhongzheng District",
+        "state": "Ta",
+        "country": "tw",
+        "lat": 25.0137,
+        "lon": 121.5297,
+        "postalCode": "100",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2023-05-30T18:22:12-04:00"
+  },
+  {
+    "id": "293170581",
+    "title": "大型語言模型時代下，建置解決方案該有的姿勢/知識 (Building solutions with LLMs)",
+    "description": "**[Agenda]**\n\n• 19:30 \\~ 19:40 (10 mins) 開場\n• 19:40 \\~ 20:40 (60 mins) 主議程 : **大型語言模型時代下，建置解決方案該有的姿勢/知識 (Building solutions with LLMs)**\n• 20:40 \\~ 自由交流時間\n\n**[Talk Information]**\n\n分享整理有關整合大型語言模型，打造企業解決方案時，必須知道的基本技術原理，以及該如何使用現有的相關程式庫。\n\n**[Host Information]**\n\n• Benjamin Chen： 講者聯絡與協調、活動主持人\n• Kristen Chan：活動規劃\n• Ning：活動場地、活動主持人\n\n**[地點] 線上會議：**[https://reurl.cc/gDma3b](https://reurl.cc/gDma3b)\n**線上會議連結會在活動當天在網頁更新**\n最早可加入會議時間為晚上七點。",
+    "status": "PAST",
+    "dateTime": "2023-06-12T19:30:00+08:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/293170581/",
+    "featuredEventPhoto": {
+      "id": "512415601",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/c/f/1/highres_512415601.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/c/f/1/600_512415601.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/c/f/1/thumb_512415601.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 90,
+      "waitlistCount": 0,
+      "totalCount": 90
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2023-04-27T10:21:52-04:00"
+  },
+  {
+    "id": "292789109",
+    "title": "BYOC：打造自己的 ChatGPT－大型語言模型分散式訓練分享",
+    "description": "**[Agenda]**\n• 19:30 \\~ 19:40 (10 mins) 開場\n• 19:40 \\~ 20:40 (60 mins) 主議程：\n**BYOC：打造自己的 ChatGPT－大型語言模型分散式訓練分享**\n• 20:40 \\~ 自由交流時間\n\n**[Talk Information]**\n整理並分享 PyTorch 分散式訓練、大型語言模型節省 GPU 資源的方法\n\\- 知道有分散式訓練這個技巧\n\\- 知道怎麼在多顆 GPU 的單台機器上啟動分散式訓練\n\\- 知道大型語言模型要節省運算量要克服哪些問題、對解決方式的專有名詞有基礎了解\n\n大綱：\n\\- 為什麼要使用分散式訓練？\n\\- 分散式訓練概念介紹\n\\- 如何使用 torchrun 運行分散式訓練\n\\- 大型語言模型要運行在消費級 GPU 上的挑戰\n\\- 訓練加速工具介紹\n\\- 模型壓縮方法介紹\n\\- 模型剪枝 Pruning\n\\- 模型蒸餾\n\\- 模型量化：將預訓練模型權重轉為低位數 \\(ex: 8bit\\)\n\\- 提升 Fine\\-Tuning 效率的方法介紹\n\\- Low\\-Rank Adaption\n\n**[Host Information]**\n• Summit Suen：講者聯絡與協調、活動主持人\n• Benjamin Chen：活動規劃\n• Kristen Chan：活動規劃\n\n**[地點]** 線上\n**線上會議連結會在活動當天在網頁更新**\n最早可加入會議時間為晚上七點。",
+    "status": "PAST",
+    "dateTime": "2023-04-24T19:30:00+08:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/292789109/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 131,
+      "waitlistCount": 0,
+      "totalCount": 131
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2023-04-09T13:35:16-04:00"
+  },
+  {
+    "id": "291384125",
+    "title": "ChatGPT 與他們的產地",
+    "description": "2023 年即將是 AI 大爆發的一年，不但各種超強人工智慧會橫空出世，更多衍生出來的軟體應用，可能會無孔不入地入侵你的生活！\n為了讓大家無痛接軌跟上這班車，本活動邀請了微軟的專家們，用3小時的時間，讓你追上這個 AI 畫圖和對話機器人的時代，快速站上 AI 浪潮！\n\n本活動適合各種程度的群眾參加，不論你是否懂 AI，是否會寫程式，只要你有興趣了解最新的 AI 議題，都歡迎你來與我們分享及交流！\n\nP.S.:\n\n* 終於要辦實體活動啦～～\n* 感謝各單位的贊助與幫忙，我們將提供各式小贈品，等著大家來領取，先到先拿，送完為止。\n* 現場也會備有一些小點心，歡迎大家跟我們一邊吃吃喝喝，一邊跟大家交流。\n\n**[注意事項]**\n\n*R-Ladies Taipei 是女性為主的社群，不過，為了慶祝久違的實體活動，此次活動特地開放男性參加。但是與此同時，我們還是希望參加的男性受眾盡量與女性朋友協同參加。*\n\n**[活動場地]**\n\n*digiBlock C 數位創新基地*\n臺北市大同區承德路三段287號\n距離圓山捷運站2號出口約5分鐘\n\n**[活動網站]**\n\n[https://globalai.community/bootcamp-2023/asia-r-ladies-taipei-6035/](https://globalai.community/bootcamp-2023/asia-r-ladies-taipei-6035/)\n\n**[議程]**\n***人數眾多，請各位儘早報到***\n13:30 \\~ 14:15 報到\n14:15 \\~ 14:30 微軟？OpenAI？ChatGPT？各種 AI 產品大爆發 - Ning Chen\n14:30 \\~ 15:15 Global AI Bootcamp 2023 Keynote - Kui-Ming Chen\n15:15 \\~ 16:00 Form Recognizer: 不寫程式也能從零打造自己的 AI 紙本表單辨識系統 - Kristen Chan\n16:00 \\~ 16:30 Microsoft x OpenAI 的初體驗- Gene Liang\n16:30 \\~ 16:45 AI 生成海報的利器：Designer - Kui-Ming Chen\n16:45 \\~ 17:00 把 ChatGPT 收到自己的 iphone 裡 - Kui-Ming Chen\n17:00 \\~ 17:15 Azure OpenAI 使用案例分享 - Kristen Chan\n17:15 \\~ 17:30 自由交流時間\n\n**[講者與主持簡介]**\n\n*Kristen Chan*\n台灣微軟 Microsoft Technical Trainer / R-Ladies Taipei 現任負責人\n喜歡學任何新鮮有趣的東西，期望能貢獻自己的能力運用資料解決問題。\n\n*Kui-Ming Chen (Benjamin)*\nChimes AI 技術顧問 / Microsoft MVP\n致力於用資料科學解決各個領域的疑難雜症，舉凡股票、期貨、廣告、生技醫療和環保，都有實務處理的經驗。除了資料科學以外，近年也投入參與 IoT 的開發與專利申請，開始進入跨足 AI、IoT、雲端的三棲狀態。\n\n*Gene Liang*\n商智雲 協理 / Microsoft MVP / 科技 Youtuber\n對人工智慧和低代碼開發投入實務應用有極大熱忱，積極吸收資訊產業對新技術的發展。除此之外，我也是一個喜歡跑步和閱讀科幻小說的人，喜歡在閒暇時間裡放鬆心情。我相信，通過不斷學習和挑戰自我，我能夠不斷創造自己的價值。\n\n*孫玉峰*\n台灣角川數據架構師\n在多個產業開發各種資料產品，包含推薦系統以及廣告數據平台（DMP／CDP），近年來的公開演講以及實務上則專注在資料工程與 MLOps 的建立，期望讓數據驅動（Data-Driven）的觀念帶動各個產業領域的創新。《數位時代》專欄作家、微軟最有價值專家（MVP）以及 Taiwan R User Group（常態活動 MLDM Monday 主辦單位）的共同主持人（Co-organizer）。\n\n*Ning Chen*\nMicrosoft MVP / R-Ladies Taipei Organizer / D4SG Manager\n參與推動data for social good資料英雄計畫 [http://d4sg.org/fellowship/](http://d4sg.org/fellowship/)，此計劃運作六年，推動公益性質組織及公部門的大量營運數據發揮價值。歷年來，已經有超過40個政府機關及NGO透過這個計畫更加深入了解資料價值，輔導過社會及環保相關議題的資料分析案，2017\\~2022連續五年在AI類別取得微軟MVP榮譽，活耀於AI、機器學習相關研究、社群、競賽活動並且多場海內外AI相關專題演講經驗。帶領AI團隊與台北市社會救助科拿到聯發科「智在家鄉」百萬首獎。\n\n**[贊助單位]**\n\n* [台灣微軟](https://www.microsoft.com/zh-tw/abouttaiwan)\n* [digiBlock C](https://www.facebook.com/digiBlockC/?locale=zh_TW)\n* [ASSIN ANNEIL](https://www.assin-anneil.com/)\n* [Cross Club](https://www.crossclub.tw/)",
+    "status": "PAST",
+    "dateTime": "2023-03-04T13:30:00+08:00",
+    "duration": "PT1H33M",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/291384125/",
+    "featuredEventPhoto": {
+      "id": "501326668",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/8/2/c/highres_501326668.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/8/2/c/600_501326668.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/8/2/c/thumb_501326668.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 70,
+      "waitlistCount": 53,
+      "totalCount": 70
+    },
+    "venues": [
+      {
+        "id": "27512118",
+        "name": "No. 287, Section 3, Chengde Rd",
+        "address": "No. 287, Section 3, Chengde Rd, 重慶里",
+        "city": "Datong District",
+        "state": "Ta",
+        "country": "tw",
+        "lat": 25.0742,
+        "lon": 121.5206,
+        "postalCode": "103",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2023-02-03T10:18:42-05:00"
+  },
+  {
+    "id": "290280800",
+    "title": "淺談總經數據與金融市場應用",
+    "description": "**[Agenda]**\n\n• 19:30 \\~ 19:40 (10 mins) 開場\n• 19:40 \\~ 20:40 (60 mins) 主議程 : **淺談總經數據與金融市場應用**\n• 20:40 \\~ 自由交流時間\n\n**[Talk Information]**\n\n淺談總經數據與金融市場應用：總經數據千百種，願分享個人淺見，盡可能化繁為簡，洞悉並掌握經濟週期\n\n**[Host Information]**\n\n• Benjamin Chen： 講者聯絡與協調、活動主持人\n• Kristen Chan：活動規劃\n• Ning：活動場地、活動主持人\n\n**[地點]** 線上:https://reurl.cc/pZd1EZ\n**線上會議連結會在活動當天在網頁更新**\n最早可加入會議時間為晚上七點。",
+    "status": "PAST",
+    "dateTime": "2023-02-27T19:30:00+08:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/290280800/",
+    "featuredEventPhoto": {
+      "id": "509197618",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/2/f/2/highres_509197618.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/2/f/2/600_509197618.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/2/f/2/thumb_509197618.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 65,
+      "waitlistCount": 0,
+      "totalCount": 65
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2022-12-12T00:00:15-05:00"
+  },
+  {
+    "id": "305306204",
+    "title": "揭露：環保資料調查",
+    "description": "報名請到：[https://www.accupass.com/go/rladies_evironment](https://www.accupass.com/go/rladies_evironment)\n\n**[Agenda]**\n19:00 \\~ 19:30 開放入場\n19:30 \\~ 19:40 開場\n19:40 \\~ 20:40 揭露：環保資料與行動\n20:4 0\\~ 自由交流時間\n\n**[Talk Information]**\n面對全球環境挑戰，環保工作不應僅依賴直覺或情感驅動，而是需要建立在紮實的數據基礎上，以有效推動環境保護的議題。在大數據時代，我們可以從政府開放數據、衛星影像、以及網路爬蟲等技術中獲取大量資料，並結合民眾參與和實地調查，取得寶貴的第一手資料。這些數據不僅能為環境倡議提供科學依據，還能使我們更精準地識別環境問題並提出有效的解決方案。\n本次分享會將探討國際環保組織如何透過數據的力量推動環境倡議。我們將分享如何運用數據分析，揭示漁船過度捕撈對海洋的壓力，透過公民科學倡導塑膠污染源頭減量，以及將百年氣候數據轉化為吸引大眾關注的氣候變遷倡議。歡迎對環保議題或資料分析感興趣的朋友參加，一起來聽聽數據如何成為環保行動的力量來源。\n\n**[Speaker Information]**\n***簡妙蓉 研究員***\n我是一個擁有GIS與自然科學背景的雜食性 programmer，擁有幾年的程式設計經驗，但很多時間都是在自個鬼打牆。我的起點始於R語言資料分析，因為好奇或身不由己而延伸到 Python 和網站開發。\n目前在Greenpeace擔任研究員，但事實上在這裡當志工的時間比到職的時間還要長五倍。每天都體驗著被理想喚醒、被現實擊沉的循環。\n\n**[Host Information]**\n\n* Ben Chen：活動主持人\n* Ning Chen：活動規劃\n* Kristen Chan: 活動場地規劃\n\n**[活動單位]**\n\n* 主辦單位：[R-Ladies Taipei](https://www.facebook.com/groups/RLadiesTaipei)\n* 場地贊助：台北大學統計系\n\n**[活動地點]**\n\n* 臺北市中山區民生東路三段67號 教學大樓 9樓\n* 從捷運中山國中站出發，依照 [Google Map 路線](https://maps.app.goo.gl/ChUs67wDu8F9W9Pp9)前往臺北大學民生校區教學大樓。\n* 進入教學大樓正門後，搭乘左側電梯至 **九樓**，再依照指示圖（橘線）找到活動場地。\n\n**[線上活動連結]**\n**[https://reurl.cc/gDma3b](https://reurl.cc/gDma3b)**\n\n**[注意事項]**\n基本上這是一個女性學習社群，因此若你不是女性，但出現在我們的實體聚會的話，你很可能被要求以下行為：\n\n* 發言的機會請優先留給女生\n* 座位請優先保留給女生\n* 必須對 R-Ladies Taipei 有貢獻，例如：請勇敢舉手發問",
+    "status": "PAST",
+    "dateTime": "2024-12-30T19:30:00+08:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/305306204/",
+    "featuredEventPhoto": {
+      "id": "525423659",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/e/4/b/highres_525423659.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/e/4/b/600_525423659.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/4/b/thumb_525423659.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "27945641",
+        "name": "台北大學",
+        "address": "臺北市中山區民生東路三段67號",
+        "city": "Taipei",
+        "state": "",
+        "country": "tw",
+        "lat": 25.0584,
+        "lon": 121.5421,
+        "postalCode": "meetup1",
+        "venueType": ""
+      },
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": 25.0584,
+        "lon": 121.5421,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2024-12-28T19:44:46-05:00"
+  },
+  {
+    "id": "303989737",
+    "title": "Exploring Azure AI Services and Certification Pathways",
+    "description": "報名請到：[https://www.accupass.com/go/rladies_azureai](https://www.accupass.com/go/rladies_azureai)\n\n**[Agenda]**\n19:00 \\~ 19:30 開放入場\n19:30 \\~ 19:40 開場\n19:40 \\~ 20:40 Exploring Azure AI Services and Certification Pathways\n20:40 \\~ 自由交流時間\n\n**[Talk Information]**\n\n帶你一起了解 Azure AI 服務的世界\n\n第一部分：Azure AI 服務網頁應用展示\n了解如何利用 Azure AI 服務網頁應用，透過實際 demo 帶你一步步進入 Azure AI 服務的各種實驗和探索，包括 Azure AI 語言服務、Azure AI 語音服務、Azure AI 翻譯服務等。當天會有現場演示，學習如何將這些工具應用於你的專案中。\n第二部分：認證與實用技能\n對於 Azure AI 服務不熟悉的朋友，沒關係讓我們一起來了解如何通過認證途徑和實用技能來掌握 Azure AI 服務。我們將介紹關鍵認證、學習資源以及在 AI 領域取得卓越表現所需的實際技能。\n不要錯過這次機會，通過 Azure 的強大工具和認證提升您的 AI 知識與技能。我們期待與您相見！\n\n**[Speaker Information]**\n\n***Vincent***\nMicrosoft Technical Trainer\n專注於激勵、參與並培養學習者 Azure 雲服務技能的 Microsoft Technical Trainer。熱衷於教授與雲端運算相關的最創新技術，同時也是一位 Microsoft 雲平台的推廣者。Vincent 喜歡與新朋友見面，他的最愛座右銘是 \"GET INSPIRED, MAKE GREAT THINGS HAPPEN!\"\n***Kristen***\nMicrosoft Technical Trainer\n專注於資料與 AI 領域超過 10 年，同時也是 R-Ladies Taipei Co-Organizer。她曾是一名資料科學家，喜歡學習和分享有關機器學習與深度學習的主題。希望我們能夠一起進行愉快的討論！\n\n**[Host Information]**\n\n* Ben Chen：活動主持人\n* Ning Chen：活動規劃\n* Kristen Chan: 活動場地規劃\n\n**[活動單位]**\n\n* 主辦單位：[R-Ladies Taipei](https://www.facebook.com/groups/RLadiesTaipei)\n\n**[線上活動連結]**\n[https://reurl.cc/gDma3b](https://reurl.cc/gDma3b)\n報名請到：[https://www.accupass.com/go/rladies_azureai](https://www.accupass.com/go/rladies_azureai)",
+    "status": "PAST",
+    "dateTime": "2024-11-25T19:00:00+08:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/303989737/",
+    "featuredEventPhoto": {
+      "id": "524044566",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/1/d/6/highres_524044566.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/1/d/6/600_524044566.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/1/d/6/thumb_524044566.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 2,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2024-10-13T10:02:01-04:00"
+  },
+  {
+    "id": "303989669",
+    "title": "將 AI 與 Power Automate 融合，進入智慧自動化時代",
+    "description": "報名請到：[https://www.accupass.com/go/power_rladies](https://www.accupass.com/go/power_rladies)\n\n**[Agenda]**\n19:00 \\~ 19:15 開放入場\n19:15 \\~ 19:25 開場\n19:25 \\~ 20:25 將 AI 與 Power Automate 融合，進入智慧自動化時代\n20:25 \\~ 自由交流時間\n\n**[Talk Information]**\n\n1. **RPA與DPA概念介紹**\n2. **Power Automate 介紹**\n3. **應用案例分析**\n4. **RPA與AI結合的應用**\n5. **Q&A**\n\n**[Speaker Information]**\n***楊琦森 老師***\n\n* 連續兩年榮獲微軟Business Application領域最有價值專家 (Microsoft MVP) 殊榮，專業實力廣受肯定。\n* 為科技製造業、傳統製造業、電子業、金融業、服務業及外商等10多家大型企業提供Microsoft 365及Power Platform顧問服務，具備豐富的實戰經驗，培訓超過數千名學員。 ．經營熱門YouTube頻道「Power Apps & Power Automate輕鬆學」，持續與全球分享數位工作效率的祕訣。\n* 創立Facebook社群「Power Platform Taiwan User Group社群」，幫助眾多有志於數位轉型的人士掌握高效工作術。\n* 《Power Automate輕鬆學》書籍作者，全面解析如何在企業中落實自動化工作流程。\n\n**[Host Information]**\n\n* Ben Chen：活動主持人\n* Ning Chen：活動規劃\n* Kristen Chan: 活動場地規劃\n\n**[活動單位]**\n\n* 主辦單位：[R-Ladies Taipei](https://www.facebook.com/groups/RLadiesTaipei)\n* 場地贊助：[言文字](https://www.instagram.com/emoji0701/)\n\n**[線上活動連結]**\n當天公佈\n\n報名請到：[https://www.accupass.com/go/power_rladies](https://www.accupass.com/go/power_rladies)\n\n**[注意事項]**\n1\\. 言文字的規定：低消一杯飲品，沒有服務費，自助取餐，自助回收\n\n* 店家資訊：[https://www.instagram.com/emoji0701/](https://www.instagram.com/emoji0701/)\n* 參考菜單：[https://shop.ichefpos.com/store/i6scJYuT/ordering](https://shop.ichefpos.com/store/i6scJYuT/ordering)\n\n2\\. 基本上這是一個女性學習社群，因此若你不是女性，但出現在我們的實體聚會的話，你很可能被要求以下行為：\n\n* 發言的機會請優先留給女生\n* 座位請優先保留給女生\n* 必須對 R-Ladies Taipei 有貢獻，例如：請勇敢舉手發問",
+    "status": "PAST",
+    "dateTime": "2024-10-28T19:00:00+08:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/303989669/",
+    "featuredEventPhoto": {
+      "id": "524044363",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/1/0/b/highres_524044363.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/1/0/b/600_524044363.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/1/0/b/thumb_524044363.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "27742872",
+        "name": "言文字 Emoji Cafe & Bar｜貓 x 插座 x 網路 x 深夜",
+        "address": "No. 6號, Section 1, Kaifeng St, 中正區",
+        "city": "Zhongzheng District",
+        "state": "",
+        "country": "tw",
+        "lat": 25.0459,
+        "lon": 121.514,
+        "postalCode": "100",
+        "venueType": ""
+      },
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2024-10-13T09:49:18-04:00"
+  },
+  {
+    "id": "303494056",
+    "title": "AI 工程師— Pre-Trained By TSMC",
+    "description": "報名請到：[https://www.accupass.com/event/2408181420559068361750](https://www.accupass.com/event/2408181420559068361750)\n\n**[Agenda]**\n19:00 \\~ 19:15 開放入場\n19:15 \\~ 19:25 開場\n19:25 \\~ 20:25 AI 工程師— pre-trained by TSMC\n20:25 \\~ 自由交流時間\n\n**[Talk Information]**\n「欸 ! 你在台積喔 ? 薪水很多吧 ? 」，「哇 ! 你兒子在台積喔 ? 很好的工作耶 !」，「裡面很常加班吧 ? 但拿到錢時就很值得了吧 ?」這些事一年前身為前公司的員工在買早餐、家族聚會、朋友聚會，甚至是無時無刻的聊天起手式。「你們這個部門在幹嘛阿 ?」 「如何在製造業為部門帶入資料科學的技術 ?」而這些是其他部門的同事對品質管理部門的無限疑惑。對一間世界級的大公司裡神秘的化學分析部門，大家總有無限的聽說與想法，不如，坐下來聽聽這次的分享，由小工程師的角度看大台積電，由製造業擁抱 AI 浪潮。\n「蛤 ! 你真的有想清楚了嗎? 」，「你真的知道你要甚麼嗎?」，「你知道你走了會損失多少嗎? 以後就回不來囉 !」這些一年後從台積下山的我，哪怕去樓下的麵攤吃麵都會被阿婆提醒的，碗裡少了一顆滷蛋，我怎麼覺悟的? 我考慮了些什麼? 有後悔嗎? 實不相瞞，我甚至比任何一個人更想知道答案。\n這次的分享，我會由小工程師的角度出發，希望讓你知道台積電的好與壞、人知與也許不為人知的台積電。另一方面，也會分享在不違反保密條約的前提下，怎麼使用 attention-based/ pre-train model。最後，經歷一遍離職的評估、掙扎，為此，我甚至走訪心理輔導，只為了找到什麼才是我想要的。相信我，這會很精彩、也很特別，同時很有收穫的一次分享。\n\n**[Speaker Information]**\n***邱威翔 Wilson***\n生成式 AI 工程師 @ NeuroWatt\n從做 AI 晶片的公司到寫 AI 的菜鳥工程師，從半導體晶片特用化學品質管理到人工智慧程式設計，從碩士到就業都在跨領域嘗試的科學家。喜歡運動、喜歡音樂、喜歡高科技、喜歡物理化學，我甚至喜歡經濟與法律，我想我就是對所有新事物充滿想像的那種人，願意在畫布上嘗試大膽的形狀，希望在彩虹上添加第八種顏色。而對於喜歡的事物也非三分鐘熱度，願意犧牲看劇的時間了解一個最新的 AI 模型，選擇詳細研究日本經濟貨幣政策而非社群軟體。夢想是走遍世界的每一個城市，聆聽屬於每個人的故事，並回報自己無限的能量。\n\n**[Host Information]**\n\n* Ben Chen：活動主持人\n* Ning Chen：活動規劃\n* Kristen Chan: 活動場地規劃\n\n**[活動單位]**\n\n* 主辦單位：[R-Ladies Taipei](https://www.facebook.com/groups/RLadiesTaipei)\n* 場地贊助：[言文字](https://www.instagram.com/emoji0701/)\n\n**[線上活動連結]**\n**[https://reurl.cc/gDma3b](https://reurl.cc/gDma3b)**\n\n報名請到：[https://www.accupass.com/event/240818142055906836175](https://www.accupass.com/event/2408181420559068361750)\n\n**[注意事項]**\n1\\. 言文字的規定：低消一杯飲品，沒有服務費，自助取餐，自助回收\n\n* 店家資訊：[https://www.instagram.com/emoji0701/](https://www.instagram.com/emoji0701/)\n* 參考菜單：[https://shop.ichefpos.com/store/i6scJYuT/ordering](https://shop.ichefpos.com/store/i6scJYuT/ordering)\n\n2\\. 基本上這是一個女性學習社群，因此若你不是女性，但出現在我們的實體聚會的話，你很可能被要求以下行為：\n\n* 發言的機會請優先留給女生\n* 座位請優先保留給女生\n* 必須對 R-Ladies Taipei 有貢獻，例如：請勇敢舉手發問",
+    "status": "PAST",
+    "dateTime": "2024-09-30T19:15:00+08:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/303494056/",
+    "featuredEventPhoto": {
+      "id": "523569249",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/4/2/1/highres_523569249.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/4/2/1/600_523569249.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/4/2/1/thumb_523569249.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "27742872",
+        "name": "言文字 Emoji Cafe & Bar｜貓 x 插座 x 網路 x 深夜",
+        "address": "No. 6號, Section 1, Kaifeng St, 中正區",
+        "city": "Zhongzheng District",
+        "state": "",
+        "country": "tw",
+        "lat": 25.0459,
+        "lon": 121.514,
+        "postalCode": "100",
+        "venueType": ""
+      },
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2024-09-17T19:29:14-04:00"
+  },
+  {
+    "id": "302047204",
+    "title": "《報導者》的AI初體驗：我們如何建置立委發言監測儀表板？",
+    "description": "請至以下連結報名：[https://www.accupass.com/go/RLadies_Reporter](https://www.accupass.com/go/RLadies_Reporter)\n\n**[Agenda]**\n19:00 \\~ 19:15 開放入場\n19:15 \\~ 19:25 開場\n19:25 \\~ 20:25 《報導者》的AI初體驗：我們如何建置立委發言監測儀表板？\n20:25 \\~ 自由交流時間\n\n**[Talk Information]**\n從今年年初的選舉開始，我們一直想從紛亂又龐雜的文字堆裡提煉出對選民、讀者有用的資訊，於是展開一系列我學習文字探勘和AI運作邏輯的旅程。從傳統的斷詞分析、LDA主題模型到串接生成式AI的API、RAG，我會分享我們如何洞察組織、讀者的需求，積極向外尋求資源與專家協助，最後完成《報導者》第一個AI產品的思考過程。\n無論你有沒有數據處理、文字探勘或AI應用經驗，都可以聽懂。\n\n**[Speaker Information]**\n\n***簡毅慧***\n報導者數據記者，誤闖資料科學和機器學習叢林的新聞系文組女，雖說是左手寫Python、右手寫報導，但ChatGPT問世後幾乎要變成左撇子，相信所有學到的技術，能帶大家看到更多角度的社會議題。作品獲得2024年Sigma Awards國際數據新聞獎肯定。\n\n**[Host Information]**\n\n* Ben Chen：活動主持人\n* Ning Chen：活動規劃\n* Kristen Chan: 活動場地規劃\n\n**[活動單位]**\n主辦單位：\n\n* R-Ladies Taipei\n\n場地贊助：\n\n* [言文字](https://www.instagram.com/emoji0701/)\n\n**[線上活動連結]**\n線上活動連結將在活動當天公佈\n\n**[注意事項]**\n1\\. 言文字的規定：低消一杯飲品，沒有服務費，自助取餐，自助回收\n\n* 店家資訊：https://www.instagram.com/emoji0701/\n* 參考菜單：https://shop.ichefpos.com/store/i6scJYuT/ordering\n\n2\\. 基本上這是一個女性學習社群，因此若你不是女性，但出現在我們的實體聚會的話，你很可能被要求以下行為：\n\n* 發言的機會請優先留給女生\n* 座位請優先保留給女生\n* 必須對 R-Ladies Taipei 有貢獻，例如：請勇敢舉手發問",
+    "status": "PAST",
+    "dateTime": "2024-08-26T19:00:00+08:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/302047204/",
+    "featuredEventPhoto": {
+      "id": "522133529",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/4/d/9/highres_522133529.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/4/d/9/600_522133529.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/4/d/9/thumb_522133529.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "27742872",
+        "name": "言文字 Emoji Cafe & Bar｜貓 x 插座 x 網路 x 深夜",
+        "address": "No. 6號, Section 1, Kaifeng St, 中正區",
+        "city": "Zhongzheng District",
+        "state": "",
+        "country": "tw",
+        "lat": 25.0459,
+        "lon": 121.514,
+        "postalCode": "100",
+        "venueType": ""
+      },
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2024-07-04T19:14:55-04:00"
+  },
+  {
+    "id": "301812934",
+    "title": "微軟MVP - 關於生成式AI的兩三事",
+    "description": "**報名請至**：[https://www.accupass.com/go/rladiestaipei_mvp](https://www.accupass.com/go/rladiestaipei_mvp)\n線上會議連結：[https://reurl.cc/gDma3b](https://reurl.cc/gDma3b)\n**[Agenda]**\n19:00 \\~ 19:30 開放入場\n19:30 \\~ 19:40 開場\n19:40 \\~ 20:40 主議程：\n\n* 向量資料庫與 Qdrant 的介紹 (Ko Ko)\n* 以 Memory Kernel 實作地端版 RAG (Ian Chen)\n* 解放大型語言模型 - Google Gemini 安全設定實驗 (Ryan Chung)\n\n20:40 \\~ 自由交流時間\n\n**[Talk Information]**\n\n***向量資料庫與 Qdrant 的介紹 （Ko Ko）***\n簡介：向量資料庫可以說已經成為當代 AI 應用的基礎設施，本次會分享向量資料庫的基礎知識，並且使用目前最火紅的向量資料庫之一：Qdrant，來做範例。並且在最後教大家如何使用 LLMs 結合向量資料庫來做應用。\n\n***以 Memory Kernel 實作地端版 RAG （Ian Chen）***\n簡介：從AI API到AI框架的應用，講述一個從天上到地下的RAG實作經驗\n\n***解放大型語言模型 - Google Gemini 安全設定實驗 （Ryan Chung）***\n簡介：大部分的大型語言模型，都有著立意良善的設計、不可談論色情、暴力、仇恨、歧視等敏感議題。然而在Google Gemini中，使用者可以選擇完全開放，不阻擋。真的可以跟大型語言模型百無禁忌地聊天嗎？讓我們一起來做一些實驗。\n\n**[Speaker Information]**\nKo Ko、Ryan Chung、Ian Chen均是Microsoft AI MVP，從2023年合著《駕馭 ChatGPT 4: 探索 Azure OpenAI 與 Cognitive Service for Language 開發實踐 (使用. NET 與 Node. Js)》，再到2024最新合著《極速 ChatGPT 開發者兵器指南：跨界整合 Prompt Flow、LangChain 與 Semantic Kernel 框架》。\n\n**[Host Information]**\n\n* Ben Chen：活動主持人、活動場地規劃\n* Kristen Chan：活動主持人\n* Ning Chen：活動規劃\n\n**[活動單位]**\n\n* 主辦單位：R-Ladies Taipei",
+    "status": "PAST",
+    "dateTime": "2024-07-22T19:30:00+08:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/301812934/",
+    "featuredEventPhoto": {
+      "id": "521903875",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/d/4/3/highres_521903875.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/d/4/3/600_521903875.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/d/4/3/thumb_521903875.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 1,
+      "waitlistCount": 7,
+      "totalCount": 1
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2024-06-23T09:12:35-04:00"
+  },
+  {
+    "id": "301812806",
+    "title": "用 Cypress 讓資料跑起來",
+    "description": "報名請至：[https://www.accupass.com/go/cypress](https://www.accupass.com/go/cypress)\n**[Agenda]**\n19:00 \\~ 19:30 開放入場\n19:30 \\~ 19:40 開場\n19:40 \\~ 20:40 主議程：用Cypress 讓資料跑起來～遊戲公司測試超輕鬆～\n20:40 \\~ 自由交流時間\n\n**[Talk Information]**\n在當前 AI 技術快速發展的背景下，各種生成式產品與應用層出不窮，對於開發者來說，加速了產品的迭代和資料更新速度。遊戲公司在這種快速變遷中，如何確保產品的穩定性和高品質，成為了重要課題。\n在本次講座中，我將介紹如何使用 Cypress 這一強大的自動化測試工具，來幫助遊戲公司進行測試和資料收集。我們將探討如何通過自動化測試，提升開發效率，確保產品的穩定性，同時發現潛在的漏洞。我作為公司的內部黑客，不斷挑戰系統的極限，找出各種潛在的問題，確保我們的遊戲產品在任何情況下都能穩定運行。\n我們將深入了解：\n\n* Cypress 如何進行自動化測試\n* 使用 Cypress 進行資料收集的方法\n* 實際應用案例，展示 Cypress 在遊戲公司中的強大效能\n* 通過自動化測試，提升產品質量，發現並修補漏洞\n\n讓我們一起探索如何運用 Cypress，為遊戲公司帶來高效、可靠的測試解決方案，確保每一款遊戲產品的成功。\n\n**[Speaker Information]**\n***Eason Tseng***\n\n* ONElab Software Engineer\n* 精誠資訊 軟體工程師\n* 中華網龍 遊戲工程師\n* 軒昂有限公司 前端工程師\n* 瑞嘉軟體科技 測試工程師\n* Udemy Egret 遊戲引擎講師\n\n**[Host Information]**\n\n* Ben Chen：活動主持人、活動場地規劃\n* Kristen Chan：活動主持人\n* Ning Chen：活動規劃\n\n**[活動單位]**\n\n* 主辦單位：R-Ladies Taipei\n* 協辦單位：ONElab\n\n**線上會議連結：[https://reurl.cc/gDma3b](https://reurl.cc/gDma3b)**",
+    "status": "PAST",
+    "dateTime": "2024-06-24T19:30:00+08:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/301812806/",
+    "featuredEventPhoto": {
+      "id": "521903491",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/b/c/3/highres_521903491.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/b/c/3/600_521903491.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/b/c/3/thumb_521903491.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 1,
+      "waitlistCount": 1,
+      "totalCount": 1
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2024-06-23T08:54:55-04:00"
+  },
+  {
+    "id": "301024916",
+    "title": "R 與 GPT 的魔法旅程：從入坑開始與 LLM 接軌",
+    "description": "**[報名連結]**\n請移駕至此報名：[https://www.accupass.com/go/rladiestaipei-GPT](https://www.accupass.com/go/rladiestaipei-GPT)\n\n**R-Ladies Taipei x Generative AI Week 衛星活動**\nGenerative AI Week 即將到來，R-Ladies Taipei 也參與了今年的盛事，將此次活動成為 Generative AI Week 的一環，一起共襄盛舉，為 AI 的浪潮盡一點綿薄之力！Generative AI 年會相關活動請參考這個連結：[https://2024.gaiconf.com/zh](https://2024.gaiconf.com/zh)。\n\n**[Agenda]**\n19:00 \\~ 19:15 開放入場\n19:15 \\~ 19:25 開場\n19:25 \\~ 19:55 我從零開始學 R 的歷程與如何推別人入坑\n19:55 \\~ 20:25 當 R 遇見 GPT：資料分析師的新魔法\n20:25 \\~ 自由交流時間\n\n**[Talk Information]**\n**我從零開始學 R 的歷程與如何推別人入坑**\n**講者：*李又如***\n2018 年開始做資料新聞之後，發現需要新技能才能存活，但從零開始無論是看書還是線上課程都只感受到「麻瓜」的挫折感，最後是從需求出發、像是越級打怪的學習方式，才慢慢學起來。\n但發現這種方式意外地適合新手。我將從自己的學習和教學經驗（新的同事、資料新聞的學生），分享麻瓜的困境（我們可能連變數是什麼都找不出來）跟可能的學習方法。\n去年開始的 chatGPT 風潮也馬上成為我寫 code 的小幫手，本來以為也會是新手的好助教，結果發現不是人人都能很順暢地與 chatGPT 互動。我將分享失敗經驗跟比較好的互動方式。\n\n**當 R 遇見 GPT：資料分析師的新魔法**\n**講者：*Kristen Chan***\n在資料的世界裡，R 語言一直是資料分析師手中的魔法杖。如今，隨著生成式預訓練變換器（GPT）技術的興起，一個新的法術即將被解鎖。本次演講將帶領大家探索如何將這兩大強力工具結合，從基本的 R 語言應用拓展至利用 GPT 開闢新的可能性。\n我們將從 R 語言的基礎出發，快速過渡到如何利用它與 GPT 相結合，不僅增強數據分析的深度，也拓寬了應用的範疇。無論是進行自然語言處理、自動化內容創建，還是構建更智能的預測模型，R 語言和 GPT 的結合將為數據分析帶來前所未有的靈活性和力量。\n精簡而充滿啟發性的本次演講，不僅適合 R 語言愛好者，也歡迎所有對於最新 AI 技術感興趣的朋友。\n\n**[Speaker Information]**\n**李又如**\n曾擔任週刊記者，沒有特定新聞路線的雜食系，2017 年進到一個工程師超過半數的團隊以後開始慢慢長理科腦。喜歡資料新聞不設限的特性，覺得每天都在學習新事物。作品曾入圍國內外各大新聞獎，曾獲亞洲卓越新聞獎（SOPA Awards）、全球華文永續報導獎。\n\n**Kristen Chan**\n台灣微軟 Microsoft Technical Trainer / R-Ladies Taipei 現任負責人\n喜歡學任何新鮮有趣的東西，期望能貢獻自己的能力運用資料解決問題。\n\n**[Host Information]**\nBen Chen：活動主持人\nNing Chen：活動規劃\nSummit Suen: 活動場地規劃\n\n**[活動單位]**\n主辦單位：\n\n* R-Ladies Taipei\n\n場地贊助：\n\n* [言文字](https://www.instagram.com/emoji0701/)\n\n**[注意事項]**\n1\\. 言文字的規定：低消一杯飲品，沒有服務費，自助取餐，自助回收\n\n* 店家資訊：https://www.instagram.com/emoji0701/\n* 參考菜單：https://shop.ichefpos.com/store/i6scJYuT/ordering\n\n2\\. 基本上這是一個女性學習社群，因此若你不是女性，但出現在我們的實體聚會的話，你很可能被要求以下行為：\n\n* 發言的機會請優先留給女生\n* 座位請優先保留給女生\n* 必須對 R-Ladies Taipei 有貢獻，例如：請勇敢舉手發問",
+    "status": "PAST",
+    "dateTime": "2024-05-27T19:15:00+08:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/301024916/",
+    "featuredEventPhoto": {
+      "id": "521070475",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/7/0/b/highres_521070475.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/7/0/b/600_521070475.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/7/0/b/thumb_521070475.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 11,
+      "waitlistCount": 0,
+      "totalCount": 11
+    },
+    "venues": [
+      {
+        "id": "27742872",
+        "name": "言文字 Emoji Cafe & Bar｜貓 x 插座 x 網路 x 深夜",
+        "address": "No. 6號, Section 1, Kaifeng St, 中正區",
+        "city": "Zhongzheng District",
+        "state": "",
+        "country": "tw",
+        "lat": 25.0459,
+        "lon": 121.514,
+        "postalCode": "100",
+        "venueType": ""
+      },
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": 25.0459,
+        "lon": 121.514,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2024-05-14T18:23:01-04:00"
+  },
+  {
+    "id": "300502334",
+    "title": "初探 Prompt Flow：開發生成式 AI 應用的利器！",
+    "description": "**[報名網址]**\n麻煩移駕至此報名：\n[https://www.accupass.com/go/rladies_promptflow](https://www.accupass.com/go/rladies_promptflow)\n\n**[Agenda]**\n19:00 \\~ 19:30 開放入場\n19:30 \\~ 19:40 開場\n19:40 \\~ 20:40 主議程：初探 Prompt Flow：開發生成式 AI 應用的利器！\n20:40 \\~ 自由交流時間\n\n**[Talk Information]**\n生成式人工智慧的應用日益普及，其帶來的效益已是眾所周知。\n然而，市面上的生成式 AI 通常傾向於通用應用。若要對特定領域或需求進行精準應用，則需要設計出適合的提示語。\n提示語可視為我們應用程式的原始碼，需要持續優化。不同於程式碼的是，提示語是非確定性的。\n換句話說，提示工程是一門玄學，這個和一般的應用開發完全不一樣。\n因此，擁有一個優秀的框架或工具將極大提高效率與便利性。\n讓我們一同來了解 Prompt Flow 吧！它是一個端到端旨在簡化提示工程的工具。\n\n**[Speaker Information]**\n**Alan Tsai**\n熱愛學習、分享與教學，專精於 .NET (Core)、ASP.NET Core、Azure、架構設計、Container、DevOps、Bot Framework (chatbot) 等領域。\n堅信教學是最佳的學習方式，喜歡將新知轉化為文章、影片、課程與演講，並在「Alan Tsai 的學習筆記」部落格分享。\n同時，也熱衷於翻譯軟體/文章，目前已翻譯了兩本書。\n榮幸擔任微軟最有價值專家 (MVP) - Azure和微軟認證講師 (MCT)，並擁有數十張與Azure相關的證照。\n除了工作之外，我也非常喜歡參與和協助社群活動，是Study4.TW的成員之一。閒暇時，我喜歡閱讀小說和打打手遊。\n如果有機會參加活動，歡迎找我聊聊哦！\n期待與大家建立聯繫，一同學習和成長！\n\n* 部落格：[https://blog.alantsai.net/](https://blog.alantsai.net/)\n* Facebook：[http://fb.alantsai.net/](http://fb.alantsai.net/)\n* Youtube：[http://yt.alantsai.net/](http://yt.alantsai.net/)\n* Linkedin：[http://ln.alantsai.net/](http://ln.alantsai.net/)\n\n**[活動地點]**\n此次活動為線上活動：https://reurl.cc/gDma3b\n\n**[Host Information]**\nBen Chen：活動主持人、活動場地規劃\nKristen Chan：活動主持人\nNing Chen：活動規劃\n\n**[活動單位]**\n主辦單位：\n\n* R-Ladies Taipei",
+    "status": "PAST",
+    "dateTime": "2024-04-29T19:30:00+08:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/300502334/",
+    "featuredEventPhoto": {
+      "id": "520487495",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/9/8/7/highres_520487495.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/9/8/7/600_520487495.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/9/8/7/thumb_520487495.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 11,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2024-04-18T18:53:56-04:00"
+  },
+  {
+    "id": "299761719",
+    "title": "Gemini Pro API 的 Function Calling 功能介紹",
+    "description": "**[報名網址]**\n麻煩移駕至此報名：\n[https://www.accupass.com/go/rladies-gemini](https://www.accupass.com/go/rladies-gemini)\n\n**[Agenda]**\n19:00 \\~ 19:30 開放入場\n19:30 \\~ 19:40 (10 mins) 開場\n19:40 \\~ 20:40 (30 mins) 主議程：Gemini Pro API 的 Function Calling 功能介紹\n20:40 \\~ 自由交流時間\n\n**[Talk Information]**\n\n* Function Calling 的概念和應用\n* 使用 Gemini Pro API 進行 Function Calling 的步驟\n* Function Calling 的範例\n\n**[Speaker Information]**\n\n***Let’s discover the journey of ReDSCOVR***\n\n* Jimmy Liao\n先後就職於 Microsoft/InfuseAI/Appier/IBM 。專業技能橫跨應用程式、手機應用、廣告投放、機器學習專案開發，近期致力於 Generative AI、LLM 相關應用開發推廣，協助客戶技術概念落實，以及技術諮詢。\n日常生活就是跑步，雖然完成 15 場全程馬拉松，但是還是朝著 Sub-4 的目標努力中。\n聲明：內容只代表個人意見/血淚史，不代表曾任職公司的立場。\n\n**[Host Information]**\n\n* Ben Chen：活動主持人、活動場地規劃\n* Kristen Chan：活動主持人\n* Ning Chen：活動規劃\n\n**[地點]**\n\n* 線上會議連結：[https://reurl.cc/gDma3b](https://reurl.cc/gDma3b)\n\n**[活動單位]**\n*主辦單位：*\n\n* R-Ladies Taipei",
+    "status": "PAST",
+    "dateTime": "2024-03-25T19:30:00+08:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/299761719/",
+    "featuredEventPhoto": {
+      "id": "519707354",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/8/f/a/highres_519707354.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/8/f/a/600_519707354.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/8/f/a/thumb_519707354.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 2,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": 25.0435,
+        "lon": 121.5574,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2024-03-12T21:25:06-04:00"
+  },
+  {
+    "id": "298983257",
+    "title": "2023 NASA 黑客松金牌隊伍經驗分享",
+    "description": "**[報名網址]**\n麻煩移駕至此報名：\n[https://www.accupass.com/go/2023nasahackathon](https://www.accupass.com/go/2023nasahackathon)\n\n**[Agenda]**\n19:00 \\~ 19:30 開放入場\n19:30 \\~ 19:40 (10 mins) 開場\n19:40 \\~ 20:10 (30 mins) 主議程一：Let’s discover the journey of ReDSCOVR\n20:10 \\~ 20:40 (30 mins) 主議程二：南非生物多樣性熱點\n20:40 \\~ 自由交流時間\n\n**[Talk Information]**\n\n* *台中金牌得主：Let’s discover the journey of ReDSCOVR*\n\n在2023年的NASA黑客松台中區比賽中，我們團隊榮獲金牌以及全球佳作的肯定，這次的講題將分享我們如何在短時間內從零開始，成功完成了這項挑戰。我們的任務是利用來自深空氣候觀測站（DSCOVR）的原始數據——即使包含了故障的數據——來預測地球上的地磁風暴。這個挑戰尤其困難，因為DSCOVR已超出其預期壽命，並且不時產生可能反映太空天氣狀況的故障。\n在這次分享中，我將詳細介紹我們如何應用“可解釋的人工智慧（Interpretable AI）”概念來解析和利用這些數據。此外，我還會談及這個過程如何啟發我在預測金融市場方面的思考，尤其是在處理具有不確定性和不穩定性的數據時。這次的經驗不僅是一次技術挑戰，也是對於數據解讀和應用上的深刻體悟。\n\n* *高雄金牌得主+全球總冠軍：南非生物多樣性熱點*\n\n此次演講將分享我們參與NASA黑客松比賽的收穫以及遭遇的挑戰。我們選擇的題目為：南非生物多樣性熱點，考驗一般人如何運用數據科學、研究意識、結合NASA提供的衛星資料，為生物多樣性保護開創新的可能性。期待與大家分享這場充滿啟發的經驗。\n\n**[Speaker Information]**\n\n***Let’s discover the journey of ReDSCOVR***\n\n* *林晉揚 John Lin*\nCryogenics Engineer @ Harmonized Cryogenics\n身為一名鍾情於物理學的學者，在一家創新的量子電腦公司裡，我專注於硬體設計的精密工作。然而，我的興趣遠不止於此。我熱衷於將機器學習技術應用於各種領域，如前沿的量子科技、廣闊的太空天文學、動態的金融市場乃至於策略豐富的博弈遊戲。可以說，我就像是一位涉獵廣泛的運動員，防守和進攻都游刃有餘。實際上，在我的日常生活中，我也是一位熱情的排球運動員，將同樣的多元思維和靈活性帶入球場與生活。\n* *邱威翔 Wilson*\nChemical Analysis Engineer @ TSMC\n目前於半導體業從事化學品分析與技術開發的工作，協助並處理工廠疑難雜症與 R&D 開發。\n個性上活潑外向帶點反骨的個性，讓我充滿想像力與創造力。因此，也不滿足於較為枯燥的工作上，總於工作之餘不斷精進自己，並就此迷上機器學習，願意捨去看一齣劇的時間去學習一個新的 Model。\n與晉揚相同，生活興趣非常廣泛，橋牌、撲克、宏觀經濟、貨幣經濟、籃球、棒球與音樂，甚至忘了自己原來是化學系畢業的，甚麼都能聊的同時，也永遠能回報以無限的能量。\n\n***南非生物多樣性熱點***\n\n* 賴泳在 段祥\n[https://www.cna.com.tw/news/ahel/202401260084.aspx](https://www.cna.com.tw/news/ahel/202401260084.aspx)\n\n**[Host Information]**\n\n* Ben Chen：活動主持人、活動場地規劃\n* Kristen Chan：活動主持人\n* Ning Chen：活動規劃\n\n**[地點]**\n\n* 實體活動地點：台北市大安區光復南路102號14樓 （Dcard辦公室）\n* 線上會議連結：[https://reurl.cc/gDma3b](https://reurl.cc/gDma3b)\n\n**[活動單位]**\n*主辦單位：*\n\n* R-Ladies Taipei\n\n*協辦單位：*\n\n* NASA 黑客松臺灣團隊\n* Dcard",
+    "status": "PAST",
+    "dateTime": "2024-02-26T19:30:00+08:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/298983257/",
+    "featuredEventPhoto": {
+      "id": "518895655",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/d/2/7/highres_518895655.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/d/2/7/600_518895655.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/d/2/7/thumb_518895655.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 3,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "27554006",
+        "name": "14 樓, No. 102, Guangfu S Rd",
+        "address": "No. 102, Guangfu S Rd, 華聲里",
+        "city": "Da’an District",
+        "state": "Ta",
+        "country": "tw",
+        "lat": 25.0435,
+        "lon": 121.5574,
+        "postalCode": "106",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2024-02-03T20:20:52-05:00"
+  },
+  {
+    "id": "298351285",
+    "title": "個性化紅包～十分鐘 GET！",
+    "description": "**[報名網址]**\n麻煩移駕至此報名：\n[https://www.accupass.com/event/2312261515571369232374](https://www.accupass.com/event/2312261515571369232374)\n\n**[Agenda]**\n\n* 19:00 \\~ 19:30 開放入場\n* 19:30 \\~ 19:40 (10 mins) 開場\n* 19:40 \\~ 20:40 (60 mins) 主議程：個性化紅包～十分鐘 GET！\n* 20:40 \\~ 自由交流時間\n\n**[Talk Information]**\n過年快到了，就是該送紅包了，想要做一點市面上買不到的紅包袋嗎？這時候就是應該要靠 Microsoft Designer 了！\nMicrosoft Designer 利用生成式 AI ，讓使用者可以快速將自己的想法，透過文字產生畫面，同時把文案、影像和排版，一口氣全部搞定！\n這次的活動，我們就是要結合 Microsoft Designer 和 AIC 提供的 UV 列印機，將各位美美的幻想，印在你的紅包袋上！讓你的紅包袋不但有裡子，更有面子～\n這次活動完全免費，只需要您帶著自己的筆電，勞駕前往松菸創作者工廠，跟我們一起動手完成自己的作品～\n\nps: 若時間許可，有機會開放讓大家列印在各種材料上。\n\n**[Host Information]**\n• Benjamin Chen： 講者聯絡與協調、活動主持人\n• Kristen Chan：活動規劃\n• Ning：活動場地、活動主持人\n\n**[地點]**\n\n實體會議地址：110台北市信義區光復南路133號 松菸創作者工廠內2樓\n[https://goo.gl/maps/R6xBGgZV4EFVuRwx6](https://goo.gl/maps/R6xBGgZV4EFVuRwx6)\n松菸位置圖\n\n1. [松菸位置圖 1](https://static.accupass.com/eventintro/2303220414431933715601.jpg)\n2. [松菸位置圖 2](https://static.accupass.com/eventintro/2303220414568161621430.jpg)\n\n**[Code of Conduct]**\n基本上這是一個女性學習社群，因此若你不是女性，但出現在我們的實體聚會的話，你很可能被要求以下行為：\n• 發言的機會請優先留給女生\n• 座位請優先保留給女生\n• 必須對 R-Ladies Taipei 有貢獻，例如：請勇敢舉手發問\n\n**[活動合辦]**\n\n* R-Ladeis Taipei\n* 美國創新中心 （美國在台協會）\n* 松菸創作者工廠（松山文創園區）\n* OneLab",
+    "status": "PAST",
+    "dateTime": "2024-01-31T19:30:00+08:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/298351285/",
+    "featuredEventPhoto": {
+      "id": "518311895",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/c/9/7/highres_518311895.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/c/9/7/600_518311895.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/c/9/7/thumb_518311895.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "27639410",
+        "name": "No. 133, Guangfu S Rd",
+        "address": "No. 133, Guangfu S Rd, 新仁里",
+        "city": "Xinyi District",
+        "state": "Ta",
+        "country": "tw",
+        "lat": 25.044,
+        "lon": 121.5606,
+        "postalCode": "110",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2024-01-05T08:47:15-05:00"
+  },
+  {
+    "id": "305281979",
+    "title": "Global AI Bootcamp - Taipei 2025",
+    "description": "報名連結：[https://www.accupass.com/go/ai_bootcamp_taipei25](https://www.accupass.com/go/ai_bootcamp_taipei25)\n\n**[Agenda]**\n\n* 13:00 \\~ 13:30 報到\n* 13:30 \\~ 14:00 Global AI Bootcamp Keynote\n* 14:00 \\~ 14:40 公開！微軟的 RAG 新招式- Ben\n* 14:40 \\~ 14:50 Break\n* 14:50 \\~ 15:30 AI agent 的基礎：Tool Call- Koko\n* 15:30 \\~ 15:40 Break\n* 15:40 \\~ 16:20 打造更聰明的 AI 代理人：從 0 到最佳化的實戰指南- Summit\n* 16:20 \\~ 16:30 Break\n* 16:30 \\~ 17:10 Interacting with Multimodal models in GitHub Models and Microsoft Copilot- Kristen\n* 17:10 \\~ 17:30 自由交流\n* 17:30 活動結束\n\n**[Talk Information]**\n\n*📣 公開！微軟的 RAG 新招式*\n微軟近來推出了一系列 RAG（檢索增強生成） 技術新解方，讓 AI 搜尋與知識應用更強大。本次分享將為你帶來一場 RAG 技術大補帖，拆解 Azure AI Search 最新功能、GraphRAG 的技術亮點，並帶你從 爬蟲、向量資料庫建立，一路實作到 Chatbot 應用。如果你對 AI 搜尋、RAG、Chatbot 應用 有興趣，這場分享將讓你一次掌握最新趨勢與實作技巧！\n\n*🤖 AI agent 的基礎：Tool Call*\nAI 代理人（Agent）能夠執行複雜任務的關鍵，在於如何正確地「呼叫工具」（Tool Call）。無論是檢索資訊、計算數值，還是與外部 API 互動，Tool Call 是 LLM 提升能力、接軌真實應用的基礎。本次分享將帶你了解 Tool Call 的核心概念，探討 LLM 如何決策與執行指令，並透過實作範例，讓你掌握讓 AI 代理人更聰明的第一步。適合對 AI 應用開發有興趣的開發者與技術愛好者！\n\n*🔨 打造更聰明的 AI 代理人：從 0 到最佳化的實戰指南*\n隨著大型語言模型（LLM）的發展，AI 代理人（Agent）已經成為許多應用的核心，但要讓它們真正發揮價值，從搭建到優化的過程至關重要。本次分享將帶你快速理解 AI 代理人的基礎架構，並探討如何提升其輸出品質，避免常見的陷阱與挑戰。無論你是剛入門還是希望進一步提升效能，這場演講都能幫助你建立更強大的 AI 代理人。\n\n*💼 Interacting with Multimodal models in GitHub Models and Microsoft Copilot*\n在這場實作體驗中，探索 Azure OpenAI 的 GPT-4o 多模態模型，並在 GitHub Models 和 Microsoft Copilot 上發揮創新應用。學習核心概念與最佳實踐，掌握如何透過 GPT-4o-mini 和 Copilot 生成 文本、聲音與圖像，有效提升 AI 互動與創作能力。\n\n**[Speaker Information]**\n*Ben Chen*\n瑞嘉軟體 Principal Data Scientist\n資料科學家，擅長以資料科學的視角切入，應對各類產業挑戰，涵蓋政府機關、非營利組織、產業數位轉型與生成式 AI 的實務應用。深信資料科學的價值在於實際落地，而非僅限於理論，致力於為組織創造具體效益。\n現任瑞嘉軟體首席資料科學家，並以微軟 AI MVP 身份活躍於技術社群，同時擔任 R-Ladies Taipei 協辦人，推動資料科學的交流與教育。經常受邀擔任顧問，提供從數據分析到創新落地的全方位解決方案。無論是拆解問題、優化流程，還是探索新技術，始終專注於讓資料科學成為解決問題的強大工具。\n\n*Koko*\nMicrosoft AI MVP\nKo Ko 是一位資深的軟體工程師，也獲得微軟 AI 領域的最有價值專家(Microsoft AI MVP)獎項。同時他也是台灣知名的講者。 他參與了無數的技術年會演講，包含了 COSCUP、ModernWeb、名古屋開源年會、香港開源年會、PyCon APAC、PyCon HK、DevDays Asia 等等的大型年會，累計已超過萬名聽眾。 他熱愛向聽眾分享他的經驗與所學，並且相信這樣分享的過程中能讓彼此都更進步。\n\n*孫玉峰 Summit*\n台灣角川數據架構師\n在多個產業開發各種資料產品，包含推薦系統以及廣告數據平台（DMP／CDP），近年來的公開演講以及實務上則專注在資料工程與 MLOps 的建立，期望讓數據驅動（Data-Driven）的觀念帶動各個產業領域的創新。《數位時代》專欄作家、微軟最有價值專家（MVP）以及 Taiwan R User Group（常態活動 MLDM Monday 主辦單位）的共同主持人（Co-organizer）。\n\n*Kristen*\nMicrosoft Technical Trainer\n專注於資料與 AI 領域超過 10 年，同時也是 R-Ladies Taipei Co-Organizer。她曾是一名資料科學家，喜歡學習和分享有關機器學習與深度學習的主題。希望我們能夠一起進行愉快的討論！\n\n**[Host Information]**\n\n* Ben Chen：活動主持人\n* Ning Chen：活動規劃\n* Kristen Chan: 活動場地規劃\n\n**[活動單位]**\n\n* 主辦單位：[R-Ladies Taipei](https://www.facebook.com/groups/RLadiesTaipei)\n* 場地贊助：台北大學統計系\n\n**[活動地點]**\n台北大學民生校區教學大樓九樓\n\n**[地點指引]**\n\n* 從捷運中山國中站出發，依照 [Google Map 路線](https://maps.app.goo.gl/ChUs67wDu8F9W9Pp9)前往臺北大學民生校區教學大樓。\n* 進入教學大樓正門後，搭乘左側電梯至 **九樓**，再依照指示圖（橘線）找到活動場地。\n\n![](https://static.accupass.com/eventintro/2412290035271815804230.jpg)\n**[線上活動連結]**\n**[https://reurl.cc/gDma3b](https://reurl.cc/gDma3b)**\n\n**[注意事項]**\n基本上這是一個女性學習社群，因此若你不是女性，但出現在我們的實體聚會的話，你很可能被要求以下行為：\n\n* 發言的機會請優先留給女生\n* 座位請優先保留給女生\n* 必須對 R-Ladies Taipei 有貢獻，例如：請勇敢舉手發問\n\n報名連結：[https://www.accupass.com/go/ai_bootcamp_taipei25](https://www.accupass.com/go/ai_bootcamp_taipei25)",
+    "status": "PAST",
+    "dateTime": "2025-03-15T13:30:00+08:00",
+    "duration": "PT4H",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/305281979/",
+    "featuredEventPhoto": {
+      "id": "501326668",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/8/2/c/highres_501326668.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/8/2/c/600_501326668.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/8/2/c/thumb_501326668.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 27,
+      "waitlistCount": 0,
+      "totalCount": 27
+    },
+    "venues": [
+      {
+        "id": "27944944",
+        "name": "台北大學",
+        "address": "中山區民生東路三段67號 教學大樓",
+        "city": "Taipei City",
+        "state": "",
+        "country": "tw",
+        "lat": 25.0584,
+        "lon": 121.5421,
+        "postalCode": "",
+        "venueType": ""
+      },
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": 25.0584,
+        "lon": 121.5421,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2024-12-27T10:03:20-05:00"
+  },
+  {
+    "id": "305698050",
+    "title": "我就懶 - 讓語言模型幫你關注 API Changelog",
+    "description": "報名請到：[https://www.accupass.com/go/ai_crawler_rladies](https://www.accupass.com/go/ai_crawler_rladies)\n\n**[Agenda]**\n19:00 \\~ 19:30 開放入場\n19:30 \\~ 19:40 開場\n19:40 \\~ 20:40 我就懶 - 讓語言模型幫你關注 API Changelog\n20:4 0\\~ 自由交流時間\n\n**[Talk Information]**\n介紹如何無腦抓更新日誌的網頁餵給語言模型吃，再叫語言模型抽取更新的日期和內容，最後利用 GitHub Actions 推送到 Slack 頻道。\n沒什麼高深的技術，只有讓你知道我有多懶，連 prompt 我都懶得寫。\n\n關鍵字：\n\n* SingleFile CLI\n* Prompt generation\n* OpenAI structured outputs\n* Github actions\n\n**[Speaker Information]**\n***Narumi***\n資料科學家/機器學習工程師\n十多年前覺得數學太難跑去當工程師因此接觸了機器學習\n目前在 MaiCoin 工作\n\n**[Host Information]**\n\n* Ben Chen：活動主持人\n* Ning Chen：活動規劃\n* Kristen Chan: 活動場地規劃\n\n**[活動單位]**\n\n* 主辦單位：[R-Ladies Taipei](https://www.facebook.com/groups/RLadiesTaipei)\n* 場地贊助：台北大學統計系\n\n**[活動地點]**\n\n* 臺北市中山區民生東路三段67號 教學大樓 9樓\n* 從捷運中山國中站出發，依照 [Google Map 路線](https://maps.app.goo.gl/ChUs67wDu8F9W9Pp9)前往臺北大學民生校區教學大樓。\n* 進入教學大樓正門後，搭乘左側電梯至 **九樓**，再依照指示圖（橘線）找到活動場地。\n\n**[線上活動連結]**\n**[https://reurl.cc/gDma3b](https://reurl.cc/gDma3b)**\n\n**[注意事項]**\n基本上這是一個女性學習社群，因此若你不是女性，但出現在我們的實體聚會的話，你很可能被要求以下行為：\n\n* 發言的機會請優先留給女生\n* 座位請優先保留給女生\n* 必須對 R-Ladies Taipei 有貢獻，例如：請勇敢舉手發問",
+    "status": "PAST",
+    "dateTime": "2025-01-20T19:30:00+08:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-taipei/events/305698050/",
+    "featuredEventPhoto": {
+      "id": "525799741",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/d/1/d/highres_525799741.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/d/1/d/600_525799741.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/d/1/d/thumb_525799741.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "27945641",
+        "name": "台北大學",
+        "address": "臺北市中山區民生東路三段67號",
+        "city": "Taipei",
+        "state": "",
+        "country": "tw",
+        "lat": 25.0584,
+        "lon": 121.5421,
+        "postalCode": "meetup1",
+        "venueType": ""
+      },
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": 25.0584,
+        "lon": 121.5421,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Taipei",
+      "urlname": "rladies-taipei"
+    },
+    "createdTime": "2025-01-19T06:08:42-05:00"
+  }
+]
