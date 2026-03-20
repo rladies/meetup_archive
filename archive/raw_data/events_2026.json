@@ -135,9 +135,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/e/9/8/thumb_532796984.jpeg"
     },
     "rsvps": {
-      "yesCount": 6,
+      "yesCount": 7,
       "waitlistCount": 0,
-      "totalCount": 6
+      "totalCount": 7
     },
     "venues": [
       {
@@ -234,6 +234,46 @@
     "createdTime": "2026-01-25T18:01:22-05:00"
   },
   {
+    "id": "313856954",
+    "title": " Industry Talks Through AI / AI Through Her Lens",
+    "description": "🚀 **Industry Talks Through AI \\| AI Through Her Lens**\n🤝 In collaboration with **AI Hub Albania**\n\n**R-Ladies Tirana** is excited to host a special edition dedicated to **Women in Technology and AI**, bringing together a dynamic community of professionals, researchers, and future innovators.\n\n🎤 **Open Lectures**\n• *AI Literacy in Modern STEM* \\- Joana Bala\n• *The Mirror and The Machine* \\- Alba Halilaj\n\nThis edition highlights how women are actively shaping AI and driving real-world impact across industries.\n\n👥 **Who should attend?**\n• Women in tech, data, and AI\n• Students and early-career professionals\n• Anyone interested in AI, innovation, and impact\n\n📍 AI Hub Albania, Tirana / Online",
+    "status": "ACTIVE",
+    "dateTime": "2026-03-27T18:30:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-tirane/events/313856954/",
+    "featuredEventPhoto": {
+      "id": "533281367",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/5/7/highres_533281367.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/5/7/600_533281367.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/5/7/thumb_533281367.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R Ladies Tirane",
+      "urlname": "rladies-tirane"
+    },
+    "createdTime": "2026-03-19T16:47:47-04:00"
+  },
+  {
     "id": "313222148",
     "title": "ChatGPT in RStudio with gptstudio: Better than GitHub Copilot?",
     "description": "**Supercharging Your R Workflow with a Native AI Assistant**\n\nIt’s no surprise that large language models like ChatGPT are helpful for coding. What makes gptstudio stand out is how it brings that help directly into RStudio through a clean, user-friendly add-in.\n\ngptstudio is an R package that integrates ChatGPT into RStudio, allowing you to generate code, explain functions, and write documentation using natural language, all without leaving your IDE. It supports various OpenAI models and offers an add-in panel that works like a built-in assistant. This tool is especially useful when you're experimenting, writing boilerplate code, or just need quick answers while staying in your flow.\nAdvantages of using the gptstudio package:\n\n✔️ Seamless integration into RStudio via an add-in panel\n✔️ Helps generate and explain R code using plain language prompts\n✔️ Supports multiple OpenAI models, including GPT-3.5 and GPT-4\n\n✔️ Useful for both beginners and experienced users looking to speed up their workflow",
@@ -289,9 +329,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/6/6/4/thumb_533169828.jpeg"
     },
     "rsvps": {
-      "yesCount": 66,
+      "yesCount": 71,
       "waitlistCount": 0,
-      "totalCount": 66
+      "totalCount": 71
     },
     "venues": [
       {
@@ -369,9 +409,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/8/3/a/thumb_532898970.jpeg"
     },
     "rsvps": {
-      "yesCount": 39,
+      "yesCount": 41,
       "waitlistCount": 0,
-      "totalCount": 39
+      "totalCount": 41
     },
     "venues": [],
     "group": {
@@ -396,9 +436,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/3/a/8/thumb_533030088.jpeg"
     },
     "rsvps": {
-      "yesCount": 99,
+      "yesCount": 98,
       "waitlistCount": 0,
-      "totalCount": 99
+      "totalCount": 98
     },
     "venues": [
       {
