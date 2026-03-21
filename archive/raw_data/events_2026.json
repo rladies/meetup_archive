@@ -160,6 +160,33 @@
     "createdTime": "2026-02-18T02:18:54-05:00"
   },
   {
+    "id": "313880594",
+    "title": "Lean about n-grams model and NLP",
+    "description": "Artificial Intelligence often feels like a black box, but many of its core ideas come from simple and elegant statistical concepts. In this session, we will step back from the hype and explore the foundations of AI through Natural Language Processing (NLP) and n-gram language models, using R as our working environment.\n\nThis talk will focus on understanding how machines learn from text, starting from basic tokenization and moving toward probabilistic models that were among the earliest building blocks of modern AI. Rather than focusing on large models, we will look at the statistical roots that still underpin many current approaches.\n\nDuring the session we will explore:\n• what Natural Language Processing is and why it matters\n• how text can be transformed into structured data\n• how n-grams help model language patterns\n• how probability drives language prediction\n• how these ideas connect to modern AI systems\n• practical examples using R\n\nThe goal of this session is to provide a clear conceptual understanding together with practical demonstrations, helping participants see how classical statistical thinking connects to current AI developments.\n\nWho should attend\n• R users interested in text analysis\n• Data scientists and statisticians curious about NLP\n• Students and researchers working with text data\n• Anyone wanting to understand the statistical foundations of AI\n\nNo prior experience in NLP is required. A basic familiarity with R will be helpful, but the session will focus on concepts and intuition as much as on code.\n\nJoin us for a practical and accessible introduction to the statistical roots of AI and how they still shape the tools we use today.",
+    "status": "ACTIVE",
+    "dateTime": "2026-04-23T19:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-rome/events/313880594/",
+    "featuredEventPhoto": {
+      "id": "533301989",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/5/e/5/highres_533301989.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/5/e/5/600_533301989.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/5/e/5/thumb_533301989.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 1,
+      "waitlistCount": 0,
+      "totalCount": 1
+    },
+    "venues": [],
+    "group": {
+      "name": "R-Ladies Rome",
+      "urlname": "rladies-rome"
+    },
+    "createdTime": "2026-03-21T07:10:11-04:00"
+  },
+  {
     "id": "312900982",
     "title": "Career panel and networking",
     "description": "Join us for a career panel and networking with established professionals who use R statistical programming language for data analysis in their career.",
