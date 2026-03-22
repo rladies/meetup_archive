@@ -161,8 +161,8 @@
   },
   {
     "id": "313880594",
-    "title": "Lean about n-grams model and NLP",
-    "description": "Artificial Intelligence often feels like a black box, but many of its core ideas come from simple and elegant statistical concepts. In this session, we will step back from the hype and explore the foundations of AI through Natural Language Processing (NLP) and n-gram language models, using R as our working environment.\n\nThis talk will focus on understanding how machines learn from text, starting from basic tokenization and moving toward probabilistic models that were among the earliest building blocks of modern AI. Rather than focusing on large models, we will look at the statistical roots that still underpin many current approaches.\n\nDuring the session we will explore:\n• what Natural Language Processing is and why it matters\n• how text can be transformed into structured data\n• how n-grams help model language patterns\n• how probability drives language prediction\n• how these ideas connect to modern AI systems\n• practical examples using R\n\nThe goal of this session is to provide a clear conceptual understanding together with practical demonstrations, helping participants see how classical statistical thinking connects to current AI developments.\n\nWho should attend\n• R users interested in text analysis\n• Data scientists and statisticians curious about NLP\n• Students and researchers working with text data\n• Anyone wanting to understand the statistical foundations of AI\n\nNo prior experience in NLP is required. A basic familiarity with R will be helpful, but the session will focus on concepts and intuition as much as on code.\n\nJoin us for a practical and accessible introduction to the statistical roots of AI and how they still shape the tools we use today.",
+    "title": "The roots of AI: Natural Language Processing & N-gram models",
+    "description": "Artificial Intelligence often feels like a black box, but many of its core ideas come from simple and elegant statistical concepts. In this session, we will step back from the hype and explore the foundations of AI through Natural Language Processing (NLP) and n-gram language models, using R as our working environment.\n\nThis talk will focus on understanding how machines learn from text, starting from basic tokenization and moving toward probabilistic models that were among the earliest building blocks of modern AI. Rather than focusing on large models, we will look at the statistical roots that still underpin many current approaches.\n\nDuring the session we will explore:\n• what Natural Language Processing is and why it matters\n• how text can be transformed into structured data\n• how n-grams help model language patterns\n• how probability drives language prediction\n• how these ideas connect to modern AI systems\n• practical examples using R\n\nThe goal of this session is to provide a clear conceptual understanding together with practical demonstrations, helping participants see how classical statistical thinking connects to current AI developments.\n\nWho should attend\n• R users interested in text analysis\n• Data scientists and statisticians curious about NLP\n• Students and researchers working with text data\n• Anyone wanting to understand the statistical foundations of AI\n\nNo prior experience in NLP is required. A basic familiarity with R will be helpful, but the session will focus on concepts and intuition as much as on code.\n\nJoin us for a practical and accessible introduction to the statistical roots of AI and how they still shape the tools we use today.\n\n\\-\\-\\-\n\nL’Intelligenza Artificiale spesso appare come una *black box*, ma molte delle sue idee fondamentali derivano da concetti statistici semplici ed eleganti. In questa sessione faremo un passo indietro rispetto all’hype per esplorare le basi dell’AI attraverso il **Natural Language Processing (NLP)** e i modelli linguistici **n-gram**, utilizzando **R** come ambiente di lavoro.\n\nIl talk si concentrerà su come le macchine imparano dai testi, partendo dalla tokenizzazione di base fino ad arrivare ai modelli probabilistici che hanno rappresentato alcuni dei primi mattoni dell’AI moderna. Piuttosto che concentrarci sui grandi modelli, guarderemo alle radici statistiche che ancora oggi sostengono molti approcci attuali.\n\nDurante la sessione esploreremo:\n\n• cos’è il Natural Language Processing e perché è importante\n• come il testo può essere trasformato in dati strutturati\n• come gli n-gram aiutano a modellare i pattern linguistici\n• come la probabilità guida la previsione del linguaggio\n• come queste idee si collegano ai sistemi di AI moderni\n• esempi pratici in R\n\nL’obiettivo della sessione è fornire una comprensione concettuale chiara insieme a dimostrazioni pratiche, aiutando i partecipanti a vedere come il pensiero statistico classico si collega agli sviluppi attuali dell’intelligenza artificiale.\n\n**A chi è rivolta la sessione**\n\n• utenti R interessati all’analisi del testo\n• data scientist e statistici curiosi di NLP\n• studenti e ricercatori che lavorano con dati testuali\n• chiunque voglia comprendere le basi statistiche dell’AI\n\nNon è richiesta esperienza precedente in NLP. Una conoscenza di base di R può essere utile, ma la sessione si concentrerà tanto sui concetti e sull’intuizione quanto sul codice.\n\nUnisciti a noi per un’introduzione pratica e accessibile alle radici statistiche dell’AI e a come queste continuano a influenzare gli strumenti che utilizziamo oggi.",
     "status": "ACTIVE",
     "dateTime": "2026-04-23T19:00:00+02:00",
     "duration": "PT2H",
@@ -175,11 +175,24 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/5/e/5/thumb_533301989.jpeg"
     },
     "rsvps": {
-      "yesCount": 1,
+      "yesCount": 3,
       "waitlistCount": 0,
-      "totalCount": 1
+      "totalCount": 3
     },
-    "venues": [],
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
     "group": {
       "name": "R-Ladies Rome",
       "urlname": "rladies-rome"
@@ -356,9 +369,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/6/6/4/thumb_533169828.jpeg"
     },
     "rsvps": {
-      "yesCount": 77,
+      "yesCount": 79,
       "waitlistCount": 0,
-      "totalCount": 77
+      "totalCount": 79
     },
     "venues": [
       {
@@ -463,9 +476,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/3/a/8/thumb_533030088.jpeg"
     },
     "rsvps": {
-      "yesCount": 96,
+      "yesCount": 95,
       "waitlistCount": 0,
-      "totalCount": 96
+      "totalCount": 95
     },
     "venues": [
       {
@@ -503,9 +516,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/0/e/a/thumb_533037578.jpeg"
     },
     "rsvps": {
-      "yesCount": 33,
+      "yesCount": 32,
       "waitlistCount": 0,
-      "totalCount": 33
+      "totalCount": 32
     },
     "venues": [
       {
