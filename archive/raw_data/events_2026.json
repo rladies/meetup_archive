@@ -175,9 +175,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/5/e/5/thumb_533301989.jpeg"
     },
     "rsvps": {
-      "yesCount": 4,
+      "yesCount": 5,
       "waitlistCount": 0,
-      "totalCount": 4
+      "totalCount": 5
     },
     "venues": [
       {
@@ -200,6 +200,46 @@
     "createdTime": "2026-03-21T07:10:11-04:00"
   },
   {
+    "id": "313908392",
+    "title": "Working Smarter in R: Tips, Tricks & Real-World Lessons",
+    "description": "Join us at R-Ladies Remote for an engaging panel discussion on how to *work smarter in R*.\n\nWhether you're an early-career user or an experienced practitioner, this session brings together a diverse group of R users to share practical insights from their real-world experience. We’ll explore workflows, tools, lessons learned, and small changes that can make a big difference in your day-to-day work.\n\nThis will be a relaxed, conversational panel - not formal talks - with guiding questions and space for discussion. Expect to come away with actionable tips, new ideas, and inspiration from how others approach working with R.\n\n**What we’ll cover**\n\n* **Productivity tips and workflows in R**: how to work more efficiently and structure your day-to-day analysis\n* **Data cleaning and working with real-world data**: approaches to handling messy, imperfect datasets\n* **Data visualisation and communication**: creating clear, effective visuals and communicating insights\n* **Debugging strategies and common pitfalls**: how to troubleshoot issues and avoid common mistakes\n* **Advanced R programming practices**: writing more scalable, reusable, and robust R code\n* **Lessons learned and practical advice**: insights, experiences, and tips for working smarter in R",
+    "status": "ACTIVE",
+    "dateTime": "2026-04-22T10:00:00-07:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-remote/events/313908392/",
+    "featuredEventPhoto": {
+      "id": "533348503",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/1/3/7/highres_533348503.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/1/3/7/600_533348503.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/1/3/7/thumb_533348503.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 34,
+      "waitlistCount": 0,
+      "totalCount": 34
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Remote",
+      "urlname": "rladies-remote"
+    },
+    "createdTime": "2026-03-23T07:31:10-04:00"
+  },
+  {
     "id": "312900982",
     "title": "Career panel and networking",
     "description": "Join us for a career panel and networking with established professionals who use R statistical programming language for data analysis in their career.",
@@ -209,9 +249,9 @@
     "eventUrl": "https://www.meetup.com/rladies-philly/events/312900982/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 7,
+      "yesCount": 8,
       "waitlistCount": 0,
-      "totalCount": 7
+      "totalCount": 8
     },
     "venues": [
       {
@@ -449,9 +489,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/8/3/a/thumb_532898970.jpeg"
     },
     "rsvps": {
-      "yesCount": 49,
+      "yesCount": 52,
       "waitlistCount": 0,
-      "totalCount": 49
+      "totalCount": 52
     },
     "venues": [],
     "group": {
@@ -476,9 +516,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/3/a/8/thumb_533030088.jpeg"
     },
     "rsvps": {
-      "yesCount": 94,
+      "yesCount": 93,
       "waitlistCount": 0,
-      "totalCount": 94
+      "totalCount": 93
     },
     "venues": [
       {
