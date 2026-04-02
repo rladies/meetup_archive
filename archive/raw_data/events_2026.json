@@ -175,9 +175,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/5/e/5/thumb_533301989.jpeg"
     },
     "rsvps": {
-      "yesCount": 14,
+      "yesCount": 15,
       "waitlistCount": 0,
-      "totalCount": 14
+      "totalCount": 15
     },
     "venues": [
       {
@@ -215,9 +215,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/1/3/7/thumb_533348503.jpeg"
     },
     "rsvps": {
-      "yesCount": 76,
+      "yesCount": 78,
       "waitlistCount": 0,
-      "totalCount": 76
+      "totalCount": 78
     },
     "venues": [
       {
@@ -238,6 +238,58 @@
       "urlname": "rladies-remote"
     },
     "createdTime": "2026-03-23T07:31:10-04:00"
+  },
+  {
+    "id": "313890140",
+    "title": "Using LLMs from R: Gemini API, RAG Workflows & RStudio",
+    "description": "Join us for a hands-on workshop designed specifically for researchers and students using R that want to leverage AI in their workflows. This workshop will cover the fundamentals of introducing Large Language Model queries into your analysis pipelines.\nExpect an intensive session as we work through provided **R Scripts** to demonstrate typical AI workflows. Participants will gain a practical understanding of:\n\n* **Using local Large Language Models:** Learn about the benefits and considerations of using local models privately for tasks like text summarisation, data generation, and more, all within your R environment.\n* **Querying cloud-based models with an API:** Access and interact with state-of-the-art (SOTA) LLMs enabling you to tap into advanced AI capabilities for tasks such as sentiment analysis, complex data extraction, and creative text generation, without needing extensive local computing resources.\n* **AI for Science:** Get hands-on experience using AI in various scientific domain problems with specific examples you can replicate to your workflows.\n\nThe course will be all hands-on exercises and live coding demonstrations to reinforce your learning and build confidence.\nRequirements:\n\n1. A Google account to use Colab with R [https://colab.research.google.com/](https://colab.research.google.com/) (or you can use RStudio locally).\n2. An API key from [https://aistudio.google.com/apikey](https://aistudio.google.com/apikey) to use web based models.\n3. A Kaggle account (you can use your Google credentials) to download AI models [https://www.kaggle.com/](https://www.kaggle.com/)\n4. **Familiarity with R is recommended** \\- but we will walk through the details\\.",
+    "status": "ACTIVE",
+    "dateTime": "2026-04-20T15:00:00+10:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-sydney/events/313890140/",
+    "featuredEventPhoto": {
+      "id": "533316923",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/0/3/b/highres_533316923.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/0/3/b/600_533316923.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/0/3/b/thumb_533316923.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 1,
+      "waitlistCount": 0,
+      "totalCount": 1
+    },
+    "venues": [
+      {
+        "id": "26532345",
+        "name": "48 Pirrama Rd",
+        "address": "48 Pirrama Rd",
+        "city": "Pyrmont",
+        "state": "NS",
+        "country": "au",
+        "lat": -33.8668,
+        "lon": 151.1954,
+        "postalCode": "2009",
+        "venueType": ""
+      },
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Sydney",
+      "urlname": "rladies-sydney"
+    },
+    "createdTime": "2026-03-21T22:06:25-04:00"
   },
   {
     "id": "312900982",
