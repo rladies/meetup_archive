@@ -215,9 +215,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/1/3/7/thumb_533348503.jpeg"
     },
     "rsvps": {
-      "yesCount": 80,
+      "yesCount": 81,
       "waitlistCount": 0,
-      "totalCount": 80
+      "totalCount": 81
     },
     "venues": [
       {
@@ -324,6 +324,46 @@
       "urlname": "rladies-philly"
     },
     "createdTime": "2026-01-15T14:26:48-05:00"
+  },
+  {
+    "id": "314111820",
+    "title": "Coding and Claude",
+    "description": "Come explore AI-powered workflows with R-Ladies Fort Collins! This is an informal event, guided by the task of exploring agentic AI tools like Claude Code to power our workflows. We will discuss what works well, what doesn't, and how we could see these types of AI tools improving efficiency in our coding tasks.\n\nPlease RSVP so we know how many seats to save!",
+    "status": "ACTIVE",
+    "dateTime": "2026-04-10T14:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-fort-collins/events/314111820/",
+    "featuredEventPhoto": {
+      "id": "533524209",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/0/7/1/highres_533524209.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/0/7/1/600_533524209.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/0/7/1/thumb_533524209.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "27974078",
+        "name": "The Neighbor",
+        "address": "144 S Mason St, Fort Collins, CO 80524",
+        "city": "Fort Collins",
+        "state": "CO",
+        "country": "us",
+        "lat": 40.5861,
+        "lon": -105.0785,
+        "postalCode": "80524",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R Ladies Fort Collins",
+      "urlname": "rladies-fort-collins"
+    },
+    "createdTime": "2026-04-03T17:43:14-04:00"
   },
   {
     "id": "313055670",
