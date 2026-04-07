@@ -341,9 +341,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/0/7/1/thumb_533524209.jpeg"
     },
     "rsvps": {
-      "yesCount": 3,
+      "yesCount": 6,
       "waitlistCount": 0,
-      "totalCount": 3
+      "totalCount": 6
     },
     "venues": [
       {
@@ -367,8 +367,8 @@
   },
   {
     "id": "313055670",
-    "title": "Save the Date: Maps in R",
-    "description": "This will be a virtual event.\nDescription is TBD. Topic is making maps in R.",
+    "title": "Maps in R",
+    "description": "This workshop will teach you how to create maps in R using real-world geospatial data. We'll start with the fundamentals, helping users understanding the simple features data model and the {sf} package. Next, we'll move on to practical skills like accessing geospatial data through R packages like {rnaturalearth}, {tigris}, {tidycensus}, importing raw data files, and geocoding addresses with {tidygeocoder}. Finally, we'll put those skills to use by making choropleth maps with {ggplot2}.\n\nThis is a virtual event.",
     "status": "ACTIVE",
     "dateTime": "2026-04-09T18:00:00-05:00",
     "duration": "PT2H",
@@ -381,9 +381,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/d/6/1/thumb_532436673.jpeg"
     },
     "rsvps": {
-      "yesCount": 33,
+      "yesCount": 36,
       "waitlistCount": 0,
-      "totalCount": 33
+      "totalCount": 36
     },
     "venues": [
       {
