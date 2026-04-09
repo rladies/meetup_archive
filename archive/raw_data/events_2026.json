@@ -204,7 +204,7 @@
     "title": "Working Smarter in R: Tips, Tricks & Real-World Lessons",
     "description": "Join us at R-Ladies Remote for an engaging panel discussion on how to *work smarter in R*.\n\nWhether you're an early-career user or an experienced practitioner, this session brings together a diverse group of R users to share practical insights from their real-world experience. We’ll explore workflows, tools, lessons learned, and small changes that can make a big difference in your day-to-day work.\n\nThis will be a relaxed, conversational panel - not formal talks - with guiding questions and space for discussion. Expect to come away with actionable tips, new ideas, and inspiration from how others approach working with R.\n\n**What we’ll cover**\n\n* **Productivity tips and workflows in R**: how to work more efficiently and structure your day-to-day analysis\n* **Data cleaning and working with real-world data**: approaches to handling messy, imperfect datasets\n* **Data visualisation and communication**: creating clear, effective visuals and communicating insights\n* **Debugging strategies and common pitfalls**: how to troubleshoot issues and avoid common mistakes\n* **Advanced R programming practices**: writing more scalable, reusable, and robust R code\n* **Lessons learned and practical advice**: insights, experiences, and tips for working smarter in R",
     "status": "ACTIVE",
-    "dateTime": "2026-04-22T10:00:00-07:00",
+    "dateTime": "2026-04-22T11:00:00-07:00",
     "duration": "PT1H",
     "eventUrl": "https://www.meetup.com/rladies-remote/events/313908392/",
     "featuredEventPhoto": {
@@ -215,9 +215,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/1/3/7/thumb_533348503.jpeg"
     },
     "rsvps": {
-      "yesCount": 97,
+      "yesCount": 98,
       "waitlistCount": 0,
-      "totalCount": 97
+      "totalCount": 98
     },
     "venues": [
       {
@@ -242,7 +242,7 @@
   {
     "id": "313890140",
     "title": "Using LLMs from R: Gemini API, RAG Workflows & RStudio",
-    "description": "Join us for a hands-on workshop designed specifically for researchers and students using R that want to leverage AI in their workflows. This workshop will cover the fundamentals of introducing Large Language Model queries into your analysis pipelines.\nExpect an intensive session as we work through provided **R Scripts** to demonstrate typical AI workflows. Participants will gain a practical understanding of:\n\n* **Using local Large Language Models:** Learn about the benefits and considerations of using local models privately for tasks like text summarisation, data generation, and more, all within your R environment.\n* **Querying cloud-based models with an API:** Access and interact with state-of-the-art (SOTA) LLMs enabling you to tap into advanced AI capabilities for tasks such as sentiment analysis, complex data extraction, and creative text generation, without needing extensive local computing resources.\n* **AI for Science:** Get hands-on experience using AI in various scientific domain problems with specific examples you can replicate to your workflows.\n\nThe course will be all hands-on exercises and live coding demonstrations to reinforce your learning and build confidence.\nRequirements:\n\n1. A Google account to use Colab with R [https://colab.research.google.com/](https://colab.research.google.com/) (or you can use RStudio locally).\n2. An API key from [https://aistudio.google.com/apikey](https://aistudio.google.com/apikey) to use web based models.\n3. A Kaggle account (you can use your Google credentials) to download AI models [https://www.kaggle.com/](https://www.kaggle.com/)\n4. **Familiarity with R is recommended** \\- but we will walk through the details\\.",
+    "description": "Join us for a hands-on workshop designed specifically for researchers and students using R that want to leverage AI in their workflows. This workshop will cover the fundamentals of introducing Large Language Model queries into your analysis pipelines.\nExpect an intensive session as we work through provided **R Scripts** to demonstrate typical AI workflows. Participants will gain a practical understanding of:\n\n* **Using local Large Language Models:** Learn about the benefits and considerations of using local models privately for tasks like text summarisation, data generation, and more, all within your R environment.\n* **Querying cloud-based models with an API:** Access and interact with state-of-the-art (SOTA) LLMs enabling you to tap into advanced AI capabilities for tasks such as sentiment analysis, complex data extraction, and creative text generation, without needing extensive local computing resources.\n* **AI for Science:** Get hands-on experience using AI in various scientific domain problems with specific examples you can replicate to your workflows.\n\nThe course will be all hands-on exercises and live coding demonstrations to reinforce your learning and build confidence.\nRequirements:\n\n1. A Google account to use Colab with R [https://colab.research.google.com/](https://colab.research.google.com/) (or you can use RStudio locally).\n2. An API key from [https://aistudio.google.com/apikey](https://aistudio.google.com/apikey) to use web based models.\n3. A Kaggle account (you can use your Google credentials) to download AI models [https://www.kaggle.com/](https://www.kaggle.com/)\n4. **Familiarity with R is recommended** \\- but we will walk through the details\\.\n\nWe encourage you to arrive 10-15 mins early on the day of the event to ensure minimal delays due to the environment setup.",
     "status": "ACTIVE",
     "dateTime": "2026-04-20T15:00:00+10:00",
     "duration": "PT2H",
@@ -255,9 +255,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/0/3/b/thumb_533316923.jpeg"
     },
     "rsvps": {
-      "yesCount": 9,
+      "yesCount": 10,
       "waitlistCount": 0,
-      "totalCount": 9
+      "totalCount": 10
     },
     "venues": [
       {
@@ -381,9 +381,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/d/6/1/thumb_532436673.jpeg"
     },
     "rsvps": {
-      "yesCount": 89,
+      "yesCount": 96,
       "waitlistCount": 0,
-      "totalCount": 89
+      "totalCount": 96
     },
     "venues": [
       {
