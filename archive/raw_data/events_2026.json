@@ -9,9 +9,9 @@
     "eventUrl": "https://www.meetup.com/rladies-philly/events/312901066/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 15,
+      "yesCount": 16,
       "waitlistCount": 0,
-      "totalCount": 15
+      "totalCount": 16
     },
     "venues": [
       {
@@ -43,9 +43,9 @@
     "eventUrl": "https://www.meetup.com/rladies-philly/events/312901048/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 13,
+      "yesCount": 14,
       "waitlistCount": 0,
-      "totalCount": 13
+      "totalCount": 14
     },
     "venues": [
       {
@@ -160,6 +160,46 @@
     "createdTime": "2026-02-18T02:18:54-05:00"
   },
   {
+    "id": "314294935",
+    "title": "Entre Dados e Decisões: A Engenharia por Trás de Tudo",
+    "description": "🚀 **Entre Dados e Decisões: A Engenharia por Trás de Tudo**\n\nVocê já parou pra pensar no que acontece antes de um dado virar decisão?\nPor trás de dashboards, análises e modelos, existe toda uma estrutura que organiza, transforma e viabiliza o uso dos dados: a Engenharia de Dados.\nNeste bate-papo, vamos explorar como esses processos acontecem na prática, os bastidores da área e os caminhos para quem quer iniciar ou migrar para esse universo.\n\n💡 Vamos falar sobre:\n• O papel da Engenharia de Dados no dia a dia\n• Como funcionam pipelines e arquitetura de dados\n• Ferramentas como AWS, Databricks, PySpark e SQL\n• Desafios reais e aprendizados da área\n\n🎯 Um encontro para entender, na prática, como dados se transformam em decisões.\n\nVem com a gente! 💬\n\nNos siga nas redes sociais: @rladiesgyn\n\n#VemAí #Positron",
+    "status": "ACTIVE",
+    "dateTime": "2026-04-25T14:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-goiania/events/314294935/",
+    "featuredEventPhoto": {
+      "id": "533719152",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/a/d/0/highres_533719152.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/a/d/0/600_533719152.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/a/d/0/thumb_533719152.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Goiânia",
+      "urlname": "rladies-goiania"
+    },
+    "createdTime": "2026-04-15T08:30:52-04:00"
+  },
+  {
     "id": "313880594",
     "title": "The roots of AI: Natural Language Processing & N-gram models",
     "description": "Artificial Intelligence often feels like a black box, but many of its core ideas come from simple and elegant statistical concepts. In this session, we will step back from the hype and explore the foundations of AI through Natural Language Processing (NLP) and n-gram language models, using R as our working environment.\n\nThis talk will focus on understanding how machines learn from text, starting from basic tokenization and moving toward probabilistic models that were among the earliest building blocks of modern AI. Rather than focusing on large models, we will look at the statistical roots that still underpin many current approaches.\n\nDuring the session we will explore:\n• what Natural Language Processing is and why it matters\n• how text can be transformed into structured data\n• how n-grams help model language patterns\n• how probability drives language prediction\n• how these ideas connect to modern AI systems\n• practical examples using R\n\nThe goal of this session is to provide a clear conceptual understanding together with practical demonstrations, helping participants see how classical statistical thinking connects to current AI developments.\n\nWho should attend\n• R users interested in text analysis\n• Data scientists and statisticians curious about NLP\n• Students and researchers working with text data\n• Anyone wanting to understand the statistical foundations of AI\n\nNo prior experience in NLP is required. A basic familiarity with R will be helpful, but the session will focus on concepts and intuition as much as on code.\n\nJoin us for a practical and accessible introduction to the statistical roots of AI and how they still shape the tools we use today.\n\n\\-\\-\\-\n\nL’Intelligenza Artificiale spesso appare come una *black box*, ma molte delle sue idee fondamentali derivano da concetti statistici semplici ed eleganti. In questa sessione faremo un passo indietro rispetto all’hype per esplorare le basi dell’AI attraverso il **Natural Language Processing (NLP)** e i modelli linguistici **n-gram**, utilizzando **R** come ambiente di lavoro.\n\nIl talk si concentrerà su come le macchine imparano dai testi, partendo dalla tokenizzazione di base fino ad arrivare ai modelli probabilistici che hanno rappresentato alcuni dei primi mattoni dell’AI moderna. Piuttosto che concentrarci sui grandi modelli, guarderemo alle radici statistiche che ancora oggi sostengono molti approcci attuali.\n\nDurante la sessione esploreremo:\n\n• cos’è il Natural Language Processing e perché è importante\n• come il testo può essere trasformato in dati strutturati\n• come gli n-gram aiutano a modellare i pattern linguistici\n• come la probabilità guida la previsione del linguaggio\n• come queste idee si collegano ai sistemi di AI moderni\n• esempi pratici in R\n\nL’obiettivo della sessione è fornire una comprensione concettuale chiara insieme a dimostrazioni pratiche, aiutando i partecipanti a vedere come il pensiero statistico classico si collega agli sviluppi attuali dell’intelligenza artificiale.\n\n**A chi è rivolta la sessione**\n\n• utenti R interessati all’analisi del testo\n• data scientist e statistici curiosi di NLP\n• studenti e ricercatori che lavorano con dati testuali\n• chiunque voglia comprendere le basi statistiche dell’AI\n\nNon è richiesta esperienza precedente in NLP. Una conoscenza di base di R può essere utile, ma la sessione si concentrerà tanto sui concetti e sull’intuizione quanto sul codice.\n\nUnisciti a noi per un’introduzione pratica e accessibile alle radici statistiche dell’AI e a come queste continuano a influenzare gli strumenti che utilizziamo oggi.",
@@ -215,9 +255,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/1/3/7/thumb_533348503.jpeg"
     },
     "rsvps": {
-      "yesCount": 133,
+      "yesCount": 138,
       "waitlistCount": 0,
-      "totalCount": 133
+      "totalCount": 138
     },
     "venues": [
       {
@@ -301,9 +341,9 @@
     "eventUrl": "https://www.meetup.com/rladies-philly/events/312900982/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 14,
+      "yesCount": 15,
       "waitlistCount": 0,
-      "totalCount": 14
+      "totalCount": 15
     },
     "venues": [
       {
