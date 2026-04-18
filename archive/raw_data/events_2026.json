@@ -83,9 +83,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/0/8/9/thumb_532901097.jpeg"
     },
     "rsvps": {
-      "yesCount": 15,
+      "yesCount": 16,
       "waitlistCount": 0,
-      "totalCount": 15
+      "totalCount": 16
     },
     "venues": [
       {
@@ -240,6 +240,46 @@
     "createdTime": "2026-03-21T07:10:11-04:00"
   },
   {
+    "id": "314334375",
+    "title": "Visualization of multivariate data - a talk at the FJS",
+    "description": "Our coorganiser Ursula Laa will be giving a talk orgranised by the Young Statistician Forum (FJS), and you are welcome to join! Expect a technical tour of visualisation tools for multivariate and high-dimensional data in R with practical examples!\n\n**ℹ️ Abstract**\nStatistical graphics are central to exploring and modeling complex data. As dimensionality increases, uncovering structure and dependencies becomes more challenging. This presentation gives an overview of practical tools for visualizing multivariate data, from strategic use of scatterplots and scatterplot matrices to linear and nonlinear projection methods. Special emphasis will be placed on tour methods—animated sequences of linear projections—that reveal clustering, outliers, and nonlinear relationships. All graphics will be demonstrated in R, with code to reproduce the results.\n\n**🗺️ Location**\nSeminarraum 16\n3rd floor\nOskar-Morgenstern-Platz 1, 1090 Vienna\n\nUse this [floor plan](https://event.univie.ac.at/fileadmin/user_upload/d_event/Dokumente/Raummanagement/PLAENE_NEU/Plaene_OMP/UEbersichtsplaene/01__3OG_Uebersicht.pdf) to help locate the room.",
+    "status": "ACTIVE",
+    "dateTime": "2026-04-23T18:30:00+02:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-vienna/events/314334375/",
+    "featuredEventPhoto": {
+      "id": "533748818",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/e/b/2/highres_533748818.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/e/b/2/600_533748818.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/e/b/2/thumb_533748818.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "25288256",
+        "name": "Oskar-Morgensternplatz 1",
+        "address": "1090 Wien",
+        "city": "Wien",
+        "state": "",
+        "country": "at",
+        "lat": 48.2249,
+        "lon": 16.357,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Vienna",
+      "urlname": "rladies-vienna"
+    },
+    "createdTime": "2026-04-17T11:18:27-04:00"
+  },
+  {
     "id": "313908392",
     "title": "Working Smarter in R: Tips, Tricks & Real-World Lessons",
     "description": "Join us at R-Ladies Remote for an engaging panel discussion on how to *work smarter in R*.\n\nWhether you're an early-career user or an experienced practitioner, this session brings together a diverse group of R users to share practical insights from their real-world experience. We’ll explore workflows, tools, lessons learned, and small changes that can make a big difference in your day-to-day work.\n\nThis will be a relaxed, conversational panel - not formal talks - with guiding questions and space for discussion. Expect to come away with actionable tips, new ideas, and inspiration from how others approach working with R.\n\n**What we’ll cover**\n\n* **Productivity tips and workflows in R**: how to work more efficiently and structure your day-to-day analysis\n* **Data cleaning and working with real-world data**: approaches to handling messy, imperfect datasets\n* **Data visualisation and communication**: creating clear, effective visuals and communicating insights\n* **Debugging strategies and common pitfalls**: how to troubleshoot issues and avoid common mistakes\n* **Advanced R programming practices**: writing more scalable, reusable, and robust R code\n* **Lessons learned and practical advice**: insights, experiences, and tips for working smarter in R",
@@ -255,9 +295,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/1/3/7/thumb_533348503.jpeg"
     },
     "rsvps": {
-      "yesCount": 149,
+      "yesCount": 150,
       "waitlistCount": 0,
-      "totalCount": 149
+      "totalCount": 150
     },
     "venues": [
       {
@@ -295,9 +335,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/0/3/b/thumb_533316923.jpeg"
     },
     "rsvps": {
-      "yesCount": 25,
+      "yesCount": 26,
       "waitlistCount": 0,
-      "totalCount": 25
+      "totalCount": 26
     },
     "venues": [
       {
