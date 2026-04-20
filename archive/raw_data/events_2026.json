@@ -83,9 +83,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/0/8/9/thumb_532901097.jpeg"
     },
     "rsvps": {
-      "yesCount": 17,
+      "yesCount": 18,
       "waitlistCount": 0,
-      "totalCount": 17
+      "totalCount": 18
     },
     "venues": [
       {
@@ -323,7 +323,7 @@
     "id": "313890140",
     "title": "Using LLMs from R: Gemini API, RAG Workflows & RStudio",
     "description": "Join us for a hands-on workshop designed specifically for researchers and students using R that want to leverage AI in their workflows. This workshop will cover the fundamentals of introducing Large Language Model queries into your analysis pipelines.\nExpect an intensive session as we work through provided **R Scripts** to demonstrate typical AI workflows. Participants will gain a practical understanding of:\n\n* **Using local Large Language Models:** Learn about the benefits and considerations of using local models privately for tasks like text summarisation, data generation, and more, all within your R environment.\n* **Querying cloud-based models with an API:** Access and interact with state-of-the-art (SOTA) LLMs enabling you to tap into advanced AI capabilities for tasks such as sentiment analysis, complex data extraction, and creative text generation, without needing extensive local computing resources.\n* **AI for Science:** Get hands-on experience using AI in various scientific domain problems with specific examples you can replicate to your workflows.\n\nThe course will be all hands-on exercises and live coding demonstrations to reinforce your learning and build confidence.\nRequirements:\n\n1. A Google account to use Colab with R [https://colab.research.google.com/](https://colab.research.google.com/) (or you can use RStudio locally).\n2. An API key from [https://aistudio.google.com/apikey](https://aistudio.google.com/apikey) to use web based models.\n3. A Kaggle account (you can use your Google credentials) to download AI models [https://www.kaggle.com/](https://www.kaggle.com/)\n4. **Familiarity with R is recommended** \\- but we will walk through the details\\.\n\nWe encourage you to arrive 10-15 mins early on the day of the event to ensure minimal delays due to the environment setup.",
-    "status": "ACTIVE",
+    "status": "PAST",
     "dateTime": "2026-04-20T15:00:00+10:00",
     "duration": "PT2H",
     "eventUrl": "https://www.meetup.com/rladies-sydney/events/313890140/",
@@ -335,9 +335,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/0/3/b/thumb_533316923.jpeg"
     },
     "rsvps": {
-      "yesCount": 30,
+      "yesCount": 36,
       "waitlistCount": 0,
-      "totalCount": 30
+      "totalCount": 36
     },
     "venues": [
       {
