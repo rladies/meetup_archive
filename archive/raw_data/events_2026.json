@@ -68,6 +68,58 @@
     "createdTime": "2026-04-23T11:29:00-04:00"
   },
   {
+    "id": "314446726",
+    "title": "Finding the Best Cherry Blossom Streets in Vancouver",
+    "description": "Finding the Best Cherry Blossom Streets in Vancouver: Geospatial Analysis, Route Optimization, and Science Communication with R\n\nEvery spring, Vancouver's streets burst into pink, but which ones are \\*actually\\* worth visiting? And could you see the best of them all in a single route?\n\nThis talk walks through an end-to-end open data science project that answers\nexactly those questions. Using freely available datasets from the\n[City of Vancouver Open Data Portal](https://opendata.vancouver.ca/) (public tree\ninventories, street networks, and neighbourhood boundaries) we filter thousands of\ntrees down to Japanese flowering cherry varieties, snap each tree to its nearest\nstreet segment using \\`{sf}\\`, and compute blossom density per block to rank the top\nstreets city-wide. We then solve a Traveling Salesman Problem with \\`{sfnetworks}\\`,\n\\`{igraph}\\`, and Kyle Walker's \\`{spopt}\\` package to produce the \\*\\*Vancouver Cherry\nBlossom Marathon\\*\\*: an optimized route through the 10 or 30 densest cherry blossom streets,\nexported as GPX files for Garmin/Strava and as a one-click Google Maps link.\n\nThe second half of the talk covers how \\`{Quarto}\\` ties the analysis into a public-\nfacing website with interactive maps using \\`{mapgl}\\` (MapLibre GL), sortable tables\nvia \\`{DT}\\`, neighbourhood choropleths, and a blog post that made it into local news.\nWe'll also discuss the reproducibility scaffolding (a \\`Makefile\\` pipeline) and what\nit means to do science communication with genuinely open tools: MIT-licensed code,\nCC-licensed public data, and an R ecosystem that anyone can run from scratch.\n\n\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\nNote: this will be a hybrid event, taking place at the Mt Pleasant branch of the Vancouver Public Library as well as online via Zoom. If you are coming to the event in person, you are welcome to join us for some food and drinks at Main Street Brewing after we have finished.\n\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*",
+    "status": "ACTIVE",
+    "dateTime": "2026-04-30T18:00:00-07:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-vancouver/events/314446726/",
+    "featuredEventPhoto": {
+      "id": "533868700",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/e/3/c/highres_533868700.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/e/3/c/600_533868700.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/e/3/c/thumb_533868700.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "21997792",
+        "name": "Vancouver Public Library - Mt. Pleasant Branch",
+        "address": "1 Kingsway",
+        "city": "Vancouver",
+        "state": "BC",
+        "country": "ca",
+        "lat": 49.2641,
+        "lon": -123.1001,
+        "postalCode": "",
+        "venueType": ""
+      },
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Vancouver",
+      "urlname": "rladies-vancouver"
+    },
+    "createdTime": "2026-04-23T18:39:08-04:00"
+  },
+  {
     "id": "312901048",
     "title": "Intro to tidyverse",
     "description": "BYOLaptop to learn data wrangling skills! Join us for a hybrid meeting either in-person or on zoom where participants will login to a virtual R session and learn to use Tidyverse packages and functions. The event is open to all members of the public (not limited to R-Ladies Philly members).",
@@ -329,9 +381,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/1/3/7/thumb_533348503.jpeg"
     },
     "rsvps": {
-      "yesCount": 193,
+      "yesCount": 191,
       "waitlistCount": 0,
-      "totalCount": 193
+      "totalCount": 191
     },
     "venues": [
       {
