@@ -1,5 +1,45 @@
 [
   {
+    "id": "314511787",
+    "title": "From Dictionaries to LLMs: Text Analysis in R  ",
+    "description": "This workshop walks through a complete text analysis pipeline in R, combining traditional methods with newer AI-powered tools.\n\nIn the first part, we will cover tokenization with tidytext, stopword removal (including custom stopwords), word frequency visualization with wordclouds and bar plots, dictionary-based sentiment analysis using three lexicons (AFINN, Bing, and NRC), topic modeling with LDA, and bigram analysis with word networks.\n\nIn the second part, we explore how the mall package can be used to perform sentiment analysis with local LLMs (via Ollama), comparing this approach to dictionary-based methods, and look at related tasks like text classification and entity extraction.\n\nFamiliarity with R and the tidyverse is assumed.",
+    "status": "ACTIVE",
+    "dateTime": "2026-05-20T18:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-rome/events/314511787/",
+    "featuredEventPhoto": {
+      "id": "533939272",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/e/7/8/8/highres_533939272.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/e/7/8/8/600_533939272.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/7/8/8/thumb_533939272.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 23,
+      "waitlistCount": 0,
+      "totalCount": 23
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Rome",
+      "urlname": "rladies-rome"
+    },
+    "createdTime": "2026-04-27T13:33:17-04:00"
+  },
+  {
     "id": "312901066",
     "title": "Intro to data visualization",
     "description": "BYOLaptop and learn the grammar of graphics in R using ggplot2. Join us in person or on Zoom for a hybrid workshop, where you’ll explore the power of data visualization in R. The event is open to all members of the public (not limited to R-Ladies Philly members).",
@@ -9,9 +49,9 @@
     "eventUrl": "https://www.meetup.com/rladies-philly/events/312901066/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 26,
+      "yesCount": 27,
       "waitlistCount": 0,
-      "totalCount": 26
+      "totalCount": 27
     },
     "venues": [
       {
@@ -43,9 +83,9 @@
     "eventUrl": "https://www.meetup.com/rladies-corvallis/events/314439391/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 4,
+      "yesCount": 5,
       "waitlistCount": 0,
-      "totalCount": 4
+      "totalCount": 5
     },
     "venues": [
       {
@@ -129,9 +169,9 @@
     "eventUrl": "https://www.meetup.com/rladies-philly/events/312901048/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 20,
+      "yesCount": 22,
       "waitlistCount": 0,
-      "totalCount": 20
+      "totalCount": 22
     },
     "venues": [
       {
@@ -169,9 +209,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/0/8/9/thumb_532901097.jpeg"
     },
     "rsvps": {
-      "yesCount": 19,
+      "yesCount": 18,
       "waitlistCount": 0,
-      "totalCount": 19
+      "totalCount": 18
     },
     "venues": [
       {
@@ -221,9 +261,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/e/9/8/thumb_532796984.jpeg"
     },
     "rsvps": {
-      "yesCount": 8,
+      "yesCount": 9,
       "waitlistCount": 0,
-      "totalCount": 8
+      "totalCount": 9
     },
     "venues": [
       {
@@ -301,9 +341,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/5/e/5/thumb_533301989.jpeg"
     },
     "rsvps": {
-      "yesCount": 56,
+      "yesCount": 55,
       "waitlistCount": 0,
-      "totalCount": 56
+      "totalCount": 55
     },
     "venues": [
       {
