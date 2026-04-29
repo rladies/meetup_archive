@@ -15,9 +15,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/7/8/8/thumb_533939272.jpeg"
     },
     "rsvps": {
-      "yesCount": 31,
+      "yesCount": 33,
       "waitlistCount": 0,
-      "totalCount": 31
+      "totalCount": 33
     },
     "venues": [
       {
@@ -40,6 +40,126 @@
     "createdTime": "2026-04-27T13:33:17-04:00"
   },
   {
+    "id": "314530835",
+    "title": "Psicometría con R:  Introducción a la teoría de respuesta al ítem (TRI)",
+    "description": "En este taller introductorio vamos a acercarnos a la **Teoría de Respuesta al Ítem (TRI)** de una manera práctica y accesible. La TRI sirve para entender mejor **cómo funcionan los ítems (preguntas) de un test y cómo miden una habilidad o rasgo**. Nos permite ver, por ejemplo, si un ítem es más fácil o más difícil, si discrimina bien entre personas con distinto nivel, y si funciona de manera consistente.\nTambién es una herramienta muy útil para seleccionar los mejores ítems, acortar tests sin perder calidad y diseñar escalas más precisas.\n\nA lo largo del encuentro, vas a:\n\\- Construir una comprensión conceptual de sus ideas principales\\.\n\\- Aplicar este método usando R\\.\n\\- Aprender a interpretar sus resultados para entender mejor cómo funcionan los ítems y qué aportan a la medición\\.\n\nEste taller es **introductorio** y está dirigido a personas con un **conocimiento básico de escalas psicométricas**. **No requiere conocimiento previo de Teoría de Respuesta al Ítem.**\n\n**Requerimientos:**\n\n* R: 4.5.1 (mínimo)\n* RStudio: 2025.05.1 (mínimo, descargar [aquí](https://posit.co/downloads/))\n* Instalar los paquetes **tidyverse, mirt y ltm**",
+    "status": "ACTIVE",
+    "dateTime": "2026-05-15T18:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-buenos-aires/events/314530835/",
+    "featuredEventPhoto": {
+      "id": "533958578",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/8/9/2/highres_533958578.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/8/9/2/600_533958578.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/8/9/2/thumb_533958578.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 6,
+      "waitlistCount": 0,
+      "totalCount": 6
+    },
+    "venues": [
+      {
+        "id": "28240316",
+        "name": "Perón y Uriburu",
+        "address": "Perón y Uriburu",
+        "city": "Ciudad Autónoma de Buenos Aires",
+        "state": "",
+        "country": "ar",
+        "lat": -34.6072,
+        "lon": -58.3978,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Buenos Aires",
+      "urlname": "rladies-buenos-aires"
+    },
+    "createdTime": "2026-04-28T15:24:13-04:00"
+  },
+  {
+    "id": "314532064",
+    "title": "Automatic NLP with LLMS Using {mall}",
+    "description": "🔜 We are excited to announce our next virtual meetup in collaboration with R-Ladies Abuja (https://www.meetup.com/rladies-abuja/).\n\nJoin us on May 13 from 7:00 pm to 8:00 pm CEST (GMT+2) for a talk on performing automatic NLP with LLMs using mall with Edgar Ruiz — Software Engineer at Posit.\n\nTalk abstract: We’re all too familiar with the grind of building functional NLP: labeling data, fitting models, and endless tuning. In this talk, we’ll see how mall lets us bypass model training entirely by using LLMs to handle complex multilingual translation, sentiment analysis, and entity extraction row-wise across our data. We’ll explore how to run these solutions using a familiar R syntax, whether you're working with local models for privacy or remote APIs for scale.\n\nWe look forward to seeing many of you there!",
+    "status": "ACTIVE",
+    "dateTime": "2026-05-13T19:00:00+02:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-paris/events/314532064/",
+    "featuredEventPhoto": {
+      "id": "533960270",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/f/2/e/highres_533960270.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/f/2/e/600_533960270.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/f/2/e/thumb_533960270.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 8,
+      "waitlistCount": 0,
+      "totalCount": 8
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Paris",
+      "urlname": "rladies-paris"
+    },
+    "createdTime": "2026-04-28T17:19:36-04:00"
+  },
+  {
+    "id": "314390595",
+    "title": "Creating your personal website with Quarto",
+    "description": "A personal website is a great way to showcase your data science skills, highlight projects, and share what you’re passionate about. In this workshop, we’ll learn to build a personal website using Quarto, an accessible and flexible publishing framework, to help you get started. Together, we’ll:\n\n* Build the core components of a Quarto website\n* Add a blog to share your work and projects\n* Use Sass to customize colors and fonts\n* Walk through deploying your website \\~for free\\~ using GitHub Pages\n\nWhether you’re just getting started or looking for a Quarto refresher, this workshop will provide you with the tools you need to share your work with an online audience.\n\nIf you’d like to follow along during the workshop, please install and configure a few tools ahead of time by working through these [initial setup instructions](https://samanthacsik.github.io/RLadiesSB-quarto-websites/#setup).",
+    "status": "ACTIVE",
+    "dateTime": "2026-05-13T17:30:00-07:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-santa-barbara/events/314390595/",
+    "featuredEventPhoto": {
+      "id": "533819312",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/e/7/b/0/highres_533819312.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/e/7/b/0/600_533819312.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/7/b/0/thumb_533819312.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 7,
+      "waitlistCount": 0,
+      "totalCount": 7
+    },
+    "venues": [
+      {
+        "id": "26159353",
+        "name": "National Center for Ecological Analysis and Synthesis",
+        "address": "1021 Anacapa St",
+        "city": "Santa Barbara",
+        "state": "CA",
+        "country": "us",
+        "lat": 34.4228,
+        "lon": -119.7019,
+        "postalCode": "93101",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santa Barbara",
+      "urlname": "rladies-santa-barbara"
+    },
+    "createdTime": "2026-04-20T18:51:36-04:00"
+  },
+  {
     "id": "312901066",
     "title": "Intro to data visualization",
     "description": "BYOLaptop and learn the grammar of graphics in R using ggplot2. Join us in person or on Zoom for a hybrid workshop, where you’ll explore the power of data visualization in R. The event is open to all members of the public (not limited to R-Ladies Philly members).",
@@ -49,9 +169,9 @@
     "eventUrl": "https://www.meetup.com/rladies-philly/events/312901066/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 27,
+      "yesCount": 28,
       "waitlistCount": 0,
-      "totalCount": 27
+      "totalCount": 28
     },
     "venues": [
       {
@@ -169,9 +289,9 @@
     "eventUrl": "https://www.meetup.com/rladies-philly/events/312901048/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 22,
+      "yesCount": 23,
       "waitlistCount": 0,
-      "totalCount": 22
+      "totalCount": 23
     },
     "venues": [
       {
@@ -249,7 +369,7 @@
     "id": "313409386",
     "title": "Writing reports and articles with R in Quarto",
     "description": "Quarto provides a convenient way to automatically create reports with results and figures generated from R-code. It can play an important role in a reproducible research workflow, and saves time since whenever the results change, the report is automatically up to date. It is a crucial tool in any R-lady's toolbox! Join us for an introductory tutorial in how to get the most use out of Quarto.\n\nWe are meeting in the first floor of Øya helsehus øst, the conference room ØHM11.\n\nYou can find a map for the room here: https://link.mazemap.com/UKTLR7Tu",
-    "status": "ACTIVE",
+    "status": "PAST",
     "dateTime": "2026-04-28T17:00:00+02:00",
     "duration": "PT1H30M",
     "eventUrl": "https://www.meetup.com/rladies-trondheim/events/313409386/",
@@ -341,9 +461,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/5/e/5/thumb_533301989.jpeg"
     },
     "rsvps": {
-      "yesCount": 55,
+      "yesCount": 54,
       "waitlistCount": 0,
-      "totalCount": 55
+      "totalCount": 54
     },
     "venues": [
       {
@@ -421,9 +541,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/1/3/7/thumb_533348503.jpeg"
     },
     "rsvps": {
-      "yesCount": 189,
+      "yesCount": 188,
       "waitlistCount": 0,
-      "totalCount": 189
+      "totalCount": 188
     },
     "venues": [
       {
