@@ -1,5 +1,39 @@
 [
   {
+    "id": "314550121",
+    "title": "Learning Positron Workshop",
+    "description": "Are you an R and/or Python user interested in learning about the [Positron IDE](https://positron.posit.co/)? Join the R-Ladies Corvallis community for a workshop led by Posit's very own Charlotte Wickham! You do not need to have any experience with Positron to attend.\nWe'll have snacks and time set aside for mingling and asking questions. We hope you join us!",
+    "status": "ACTIVE",
+    "dateTime": "2026-06-03T17:30:00-07:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-corvallis/events/314550121/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [
+      {
+        "id": "25474724",
+        "name": "Corvallis-Benton County Public Library",
+        "address": "645 Northwest Monroe Avenue",
+        "city": "Corvallis",
+        "state": "OR",
+        "country": "US",
+        "lat": 44.5656,
+        "lon": -123.2644,
+        "postalCode": "97330",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Corvallis",
+      "urlname": "rladies-corvallis"
+    },
+    "createdTime": "2026-04-29T18:25:12-04:00"
+  },
+  {
     "id": "314511787",
     "title": "From Dictionaries to LLMs: Text Analysis in R  ",
     "description": "This workshop walks through a complete text analysis pipeline in R, combining traditional methods with newer AI-powered tools.\n\nIn the first part, we will cover tokenization with tidytext, stopword removal (including custom stopwords), word frequency visualization with wordclouds and bar plots, dictionary-based sentiment analysis using three lexicons (AFINN, Bing, and NRC), topic modeling with LDA, and bigram analysis with word networks.\n\nIn the second part, we explore how the mall package can be used to perform sentiment analysis with local LLMs (via Ollama), comparing this approach to dictionary-based methods, and look at related tasks like text classification and entity extraction.\n\nFamiliarity with R and the tidyverse is assumed.",
@@ -15,9 +49,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/7/8/8/thumb_533939272.jpeg"
     },
     "rsvps": {
-      "yesCount": 34,
+      "yesCount": 36,
       "waitlistCount": 0,
-      "totalCount": 34
+      "totalCount": 36
     },
     "venues": [
       {
@@ -55,9 +89,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/8/9/2/thumb_533958578.jpeg"
     },
     "rsvps": {
-      "yesCount": 6,
+      "yesCount": 7,
       "waitlistCount": 0,
-      "totalCount": 6
+      "totalCount": 7
     },
     "venues": [
       {
@@ -95,9 +129,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/f/2/e/thumb_533960270.jpeg"
     },
     "rsvps": {
-      "yesCount": 10,
+      "yesCount": 13,
       "waitlistCount": 0,
-      "totalCount": 10
+      "totalCount": 13
     },
     "venues": [
       {
@@ -135,9 +169,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/7/b/0/thumb_533819312.jpeg"
     },
     "rsvps": {
-      "yesCount": 8,
+      "yesCount": 12,
       "waitlistCount": 0,
-      "totalCount": 8
+      "totalCount": 12
     },
     "venues": [
       {
@@ -162,29 +196,29 @@
   {
     "id": "312901066",
     "title": "Intro to data visualization",
-    "description": "BYOLaptop and learn the grammar of graphics in R using ggplot2. Join us in person or on Zoom for a hybrid workshop, where you’ll explore the power of data visualization in R. The event is open to all members of the public (not limited to R-Ladies Philly members).",
+    "description": "Event is on the 4th floor skyline room.\nBYOLaptop and learn the grammar of graphics in R using ggplot2. Join us in person or on Zoom for a hybrid workshop, where you’ll explore the power of data visualization in R. The event is open to all members of the public (not limited to R-Ladies Philly members).",
     "status": "ACTIVE",
     "dateTime": "2026-05-06T18:00:00-04:00",
     "duration": "PT1H30M",
     "eventUrl": "https://www.meetup.com/rladies-philly/events/312901066/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 28,
+      "yesCount": 30,
       "waitlistCount": 0,
-      "totalCount": 28
+      "totalCount": 30
     },
     "venues": [
       {
-        "id": "28166321",
-        "name": "Parkway Branch of the Free Library of Philadelphia",
-        "address": "1901 Vine Street",
-        "city": "Philadelphia",
-        "state": "PA",
-        "country": "us",
-        "lat": 39.9597,
-        "lon": -75.171,
-        "postalCode": "19103",
-        "venueType": ""
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
       }
     ],
     "group": {
@@ -282,7 +316,7 @@
   {
     "id": "312901048",
     "title": "Intro to tidyverse",
-    "description": "BYOLaptop to learn data wrangling skills! Join us for a hybrid meeting either in-person or on zoom where participants will login to a virtual R session and learn to use Tidyverse packages and functions. The event is open to all members of the public (not limited to R-Ladies Philly members).",
+    "description": "Event is on the 4th floor skyline room.\nBYOLaptop to learn data wrangling skills! Join us for a hybrid meeting either in-person or on zoom where participants will login to a virtual R session and learn to use Tidyverse packages and functions. The event is open to all members of the public (not limited to R-Ladies Philly members).",
     "status": "ACTIVE",
     "dateTime": "2026-04-29T18:00:00-04:00",
     "duration": "PT2H",
@@ -627,9 +661,9 @@
     "eventUrl": "https://www.meetup.com/rladies-philly/events/312900982/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 14,
+      "yesCount": 13,
       "waitlistCount": 0,
-      "totalCount": 14
+      "totalCount": 13
     },
     "venues": [
       {
