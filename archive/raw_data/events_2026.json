@@ -129,9 +129,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/f/2/e/thumb_533960270.jpeg"
     },
     "rsvps": {
-      "yesCount": 15,
+      "yesCount": 16,
       "waitlistCount": 0,
-      "totalCount": 15
+      "totalCount": 16
     },
     "venues": [
       {
@@ -265,7 +265,7 @@
     "id": "314446726",
     "title": "Finding the Best Cherry Blossom Streets in Vancouver",
     "description": "Finding the Best Cherry Blossom Streets in Vancouver: Geospatial Analysis, Route Optimization, and Science Communication with R\n\nEvery spring, Vancouver's streets burst into pink, but which ones are \\*actually\\* worth visiting? And could you see the best of them all in a single route?\n\nThis talk walks through an end-to-end open data science project that answers\nexactly those questions. Using freely available datasets from the\n[City of Vancouver Open Data Portal](https://opendata.vancouver.ca/) (public tree\ninventories, street networks, and neighbourhood boundaries) we filter thousands of\ntrees down to Japanese flowering cherry varieties, snap each tree to its nearest\nstreet segment using \\`{sf}\\`, and compute blossom density per block to rank the top\nstreets city-wide. We then solve a Traveling Salesman Problem with \\`{sfnetworks}\\`,\n\\`{igraph}\\`, and Kyle Walker's \\`{spopt}\\` package to produce the \\*\\*Vancouver Cherry\nBlossom Marathon\\*\\*: an optimized route through the 10 or 30 densest cherry blossom streets,\nexported as GPX files for Garmin/Strava and as a one-click Google Maps link.\n\nThe second half of the talk covers how \\`{Quarto}\\` ties the analysis into a public-\nfacing website with interactive maps using \\`{mapgl}\\` (MapLibre GL), sortable tables\nvia \\`{DT}\\`, neighbourhood choropleths, and a blog post that made it into local news.\nWe'll also discuss the reproducibility scaffolding (a \\`Makefile\\` pipeline) and what\nit means to do science communication with genuinely open tools: MIT-licensed code,\nCC-licensed public data, and an R ecosystem that anyone can run from scratch.\n\n\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\nNote: this will be a hybrid event, taking place at the Mt Pleasant branch of the Vancouver Public Library as well as online via Zoom. If you are coming to the event in person, you are welcome to join us for some food and drinks at Main Street Brewing after we have finished.\n\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*",
-    "status": "ACTIVE",
+    "status": "PAST",
     "dateTime": "2026-04-30T18:00:00-07:00",
     "duration": "PT1H30M",
     "eventUrl": "https://www.meetup.com/rladies-vancouver/events/314446726/",
@@ -277,9 +277,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/e/3/c/thumb_533868700.jpeg"
     },
     "rsvps": {
-      "yesCount": 10,
+      "yesCount": 13,
       "waitlistCount": 0,
-      "totalCount": 10
+      "totalCount": 13
     },
     "venues": [
       {
