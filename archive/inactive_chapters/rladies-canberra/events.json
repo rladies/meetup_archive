@@ -1,0 +1,913 @@
+[
+  {
+    "id": "265702847",
+    "title": "Keep calm and code!",
+    "description": "Following on from the highly successful Workshop for Design a Personal Website run by Dr Alison Hill of RStudio, we're organising a get-together for those who would like to continue working on their website, those who would like to get started on their website, and those who would simply like to keep calm and do a bit of R coding! All in a supportive atmosphere with the workshop webcast and some workshop attendees to help.\n\nBring your laptops and power cords and enjoy the hospitality at the Nous offices on the 9th floor of 121 Marcus Clarke Street, Civic.",
+    "status": "PAST",
+    "dateTime": "2019-11-21T15:30:00+11:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-canberra/events/265702847/",
+    "featuredEventPhoto": {
+      "id": "485798520",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/6/7/8/highres_485798520.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/6/7/8/600_485798520.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/6/7/8/thumb_485798520.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [
+      {
+        "id": "26685133",
+        "name": "Nous Group",
+        "address": "121 Marcus Clarke St",
+        "city": "Canberra",
+        "state": "AC",
+        "country": "au",
+        "lat": -35.2779,
+        "lon": 149.1257,
+        "postalCode": "2601",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Canberra",
+      "urlname": "rladies-canberra"
+    },
+    "createdTime": "2019-10-15T22:14:13-04:00"
+  },
+  {
+    "id": "265008352",
+    "title": "Literate Projecting by Alison Hill (RStudio)",
+    "description": "Literate Projecting\n\nWebcast: https://webcast.csiro.au/#/webcasts/literateprojecting\n\n\"Literate programming\" is an approach to writing software programs that weaves together the source code and documentation at the time of creation. The idea is to create programs that are easier for users to understand. But they are also easier for programmers to work on and maintain. In this talk, I will describe how data scientists can be inspired by this programming approach and start what I refer to as \"literate projecting.\" Literate projects are not only more pleasant to work on -- they are also easier for others to discover and explore. In my experiences as a researcher and now a data scientist at RStudio, I've had the pleasure to work on many literate projects, and I've felt the pain of working on illiterate ones too. What is the difference? What are the benefits? Based on my experiences, I'll share good literate projecting practices that have the potential to shift your mindset and reshape your workflow.\n\nBiography\n\nAlison Hill is a Data Scientist & Professional Educator on the RStudio Education team, whose mission is to train the next million R users globally. She received her PhD in psychology and quantitative methods from Vanderbilt University. Alison is an international keynote speaker, and regularly leads workshops and develops online learning materials on topics like reproducible research, machine learning, and data visualization. She lives in Portland, Oregon with her husband and young daughter.",
+    "status": "PAST",
+    "dateTime": "2019-10-03T13:00:00+10:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-canberra/events/265008352/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 14,
+      "waitlistCount": 0,
+      "totalCount": 14
+    },
+    "venues": [
+      {
+        "id": "26292280",
+        "name": "CSIRO Discovery Centre",
+        "address": "N Science Rd",
+        "city": "Acton",
+        "state": "AC",
+        "country": "au",
+        "lat": -35.2733,
+        "lon": 149.1153,
+        "postalCode": "2601",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Canberra",
+      "urlname": "rladies-canberra"
+    },
+    "createdTime": "2019-09-19T21:49:00-04:00"
+  },
+  {
+    "id": "265008318",
+    "title": "Workshop for Design a personal website with R by Dr Alison Hill (RStudio)",
+    "description": "Design a personal website with RStudio, R Markdown, and Hugo\n\nLink for webcast: https://webcast.csiro.au/#/webcasts/rladiesworkshop\n\nThe R package blogdown (https://bookdown.org/yihui/blogdown/) makes it possible to build beautiful \"out of the box\" websites from within your RStudio IDE. In this workshop, we'll create and publish a website using the blogdown package and the Hugo Academic theme (https://sourcethemes.com/academic/). You'll learn how to personalize both the style and content of your site. Bring your laptop, make sure you have the RStudio IDE installed and working, and don't forget your power cord! You can view related content from a similar workshop here: https://summer-of-blogdown.netlify.com/.\n\nPre-Work: Please complete the prework at https://ysc-rmarkdown.netlify.com/materials/prework/. The most important bits are to make sure you have a GitHub account (with a password you know), R (>=3.6), RStudio (>=1.2), and the blogdown package.\n\nArrival: Please arrive at least 20 mins before the start time to sign into the Synergy building via 1 of 2 ipads and get set up for the tutorial. When prompted for who you are visiting, select either Jiali Wang or Petra Kuhnert. Please DO NOT arrive late as someone will need to get you into the building.\n\nBiography\n\nAlison Hill is a Data Scientist & Professional Educator on the RStudio Education team, whose mission is to train the next million R users globally. She received her PhD in psychology and quantitative methods from Vanderbilt University. Alison is an international keynote speaker, and regularly leads workshops and develops online learning materials on topics like reproducible research, machine learning, and data visualization. She lives in Portland, Oregon with her husband and young daughter.",
+    "status": "PAST",
+    "dateTime": "2019-10-03T09:30:00+10:00",
+    "duration": "PT2H30M",
+    "eventUrl": "https://www.meetup.com/rladies-canberra/events/265008318/",
+    "featuredEventPhoto": {
+      "id": "485035973",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/a/a/5/highres_485035973.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/a/a/5/600_485035973.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/a/a/5/thumb_485035973.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 16,
+      "waitlistCount": 0,
+      "totalCount": 16
+    },
+    "venues": [
+      {
+        "id": "26658564",
+        "name": "Acacia room, Synergy, CSIRO",
+        "address": "Acacia Room, CSIRO - Synergy Building",
+        "city": "Canberra",
+        "state": "al",
+        "country": "au",
+        "lat": -35.2733,
+        "lon": 149.1143,
+        "postalCode": "meetup8",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Canberra",
+      "urlname": "rladies-canberra"
+    },
+    "createdTime": "2019-09-19T21:46:58-04:00"
+  },
+  {
+    "id": "263857194",
+    "title": "Visualising high-dimensional data tutorial by Prof Di Cook",
+    "description": "Visualising high-dimensional data\n\nThis workshop will focus on parts A and B, and if time allows we will venture into high dimensions, part C:\n\nA. Review basic visualisation and inference with graphics: This part covers making plots using the grammar of graphics and how this fits into statistical inference. We will use the packages ggplot2 and nullabor.\n\nB. Plotting multiple dimensions in a single static plot, adding interaction: The building blocks to viewing high-dimensions are generalised pairs plots and parallel coordinate plots, available in the R package GGally. There are many variations and options that will be discussed, along with making these interactive with the plotly package.\n\nC. Using dynamic plots (tours) to examine models in the data space, beyond 3D: This part will cover the use of tours to examine multivariate spaces, in relation to dimension reduction techniques like principal component analysis and t-SNE, supervised and unsupervised classification models. We will also examine high-dimension, low-sample size problems. The tourr and spinifex packages will be used.\n\nThe workshop is interactive, bring your laptop and work along with the instructor, and do challenge exercises.\n\nMaterials are designed for an intermediate audience, users who are familiar with R, basic visualisation and tidyverse tools, and who would like to improve their knowledge about data visualisation.\n\nBiography\n\nDianne Cook is Professor of Business Analytics at Monash University in Melbourne, Australia. She is a world leader in data visualisation, especially the visualisation of high-dimensional data using tours with low dimensional projections, and projection pursuit. She is currently focussing on bridging the gap between exploratory graphics an statistical inference. Di is a Fellow of the American Statistical Association, was recently the editor of the Journal of Computational and Graphical Statistics, and has been elected as an Ordinary Member of the R Foundation. Several of her students have won the prestigious American Statistical Association John Chambers Software Award, including Hadley Wickham, Yihui Xie, Carson Sievert, and most recently, Monash student Earo Wang.",
+    "status": "PAST",
+    "dateTime": "2019-09-18T14:30:00+10:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-canberra/events/263857194/",
+    "featuredEventPhoto": {
+      "id": "484008310",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/c/b/6/highres_484008310.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/c/b/6/600_484008310.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/c/b/6/thumb_484008310.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 30,
+      "waitlistCount": 0,
+      "totalCount": 30
+    },
+    "venues": [
+      {
+        "id": "26292280",
+        "name": "CSIRO Discovery Centre",
+        "address": "N Science Rd",
+        "city": "Acton",
+        "state": "AC",
+        "country": "au",
+        "lat": -35.2733,
+        "lon": 149.1153,
+        "postalCode": "2601",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Canberra",
+      "urlname": "rladies-canberra"
+    },
+    "createdTime": "2019-08-08T23:37:31-04:00"
+  },
+  {
+    "id": "264736060",
+    "title": "Statistics on Street Corners by Prof Di Cook",
+    "description": "Statistics on Street Corners: Bridging the gap between inferential and exploratory analysis using crowd-sourcing with data visualisation\n\nPlots of data often provoke the response \"is what we see really there\". In this talk we will discuss ways to give visual statistical methods an inferential framework. Statistical significance of \"graphical discoveries\" is measured by having the human viewer compare the plot of the real dataset with collections of plots of null datasets: plots take on the role of test statistics, and human cognition the role of statistical tests, in a process modeled after the \"lineup\", popular from criminal legal procedures. This is a simple but rigorous protocol that provides valid inference, yielding p-values for graphical findings. The procedure can also be used to objectively decide the best choice of graphical display of the same data, for communicating information.\n\nBiography\n\nDianne Cook is Professor of Business Analytics at Monash University in Melbourne, Australia. She is a world leader in data visualisation, especially the visualisation of high-dimensional data using tours with low-dimensional projections, and projection pursuit. She is currently focussing on bridging the gap between exploratory graphics and statistical inference. Di is a Fellow of the American Statistical Association, was recently the editor of the Journal of Computational and Graphical Statistics, and has been elected as an Ordinary Member of the R Foundation. Several of her students have won the prestigious American Statistical Association John Chambers Software Award, including Hadley Wickham, Yihui Xie, Carson Sievert, and most recently, Monash student Earo Wang.",
+    "status": "PAST",
+    "dateTime": "2019-09-18T11:00:00+10:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-canberra/events/264736060/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 16,
+      "waitlistCount": 0,
+      "totalCount": 16
+    },
+    "venues": [
+      {
+        "id": "26292280",
+        "name": "CSIRO Discovery Centre",
+        "address": "N Science Rd",
+        "city": "Acton",
+        "state": "AC",
+        "country": "au",
+        "lat": -35.2733,
+        "lon": 149.1153,
+        "postalCode": "2601",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Canberra",
+      "urlname": "rladies-canberra"
+    },
+    "createdTime": "2019-09-10T20:22:52-04:00"
+  },
+  {
+    "id": "263958590",
+    "title": "Ausvet: R in Business!",
+    "description": "Ausvet is an international One Health epidemiology consulting company. We are passionate about improving human and animal lives through applied epidemiology. R has been integral to both our projects and our internal business management systems since the early 2000s.\n\nIn this presentation, we will showcase some of our applications and projects that use R for more than routine data management and statistical analyses.\n\nTopics will include:\n• Epitools epidemiological calculators\n• Quantification of confidence in freedom from disease (simulation modelling)\n• Information management systems (Ausvet has designed and developed many; common to all is the use of R)\n• Development of business intelligence outputs when you are too small for an ERP (enterprise resource planning) suite\n• Decreasing the burden of routine repeated reporting of long-term project activities and costs (using LaTeX and knitr).\nWe will also touch on the choice and use of tools for working with R.\n\nSpeaker: Dr Jenny Hutchison and her team from Ausvet, Canberra, Australia.",
+    "status": "CANCELLED",
+    "dateTime": "2019-08-22T12:30:00+10:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-canberra/events/263958590/",
+    "featuredEventPhoto": {
+      "id": "483964051",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/f/d/3/highres_483964051.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/f/d/3/600_483964051.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/f/d/3/thumb_483964051.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 6,
+      "waitlistCount": 0,
+      "totalCount": 6
+    },
+    "venues": [
+      {
+        "id": "26569109",
+        "name": "Nous Offices",
+        "address": "9th floor, 121 Marcus Clarke St",
+        "city": "Canberra",
+        "state": "al",
+        "country": "au",
+        "lat": -35.2779,
+        "lon": 149.1257,
+        "postalCode": "meetup8",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Canberra",
+      "urlname": "rladies-canberra"
+    },
+    "createdTime": "2019-08-12T22:32:00-04:00"
+  },
+  {
+    "id": "262429355",
+    "title": "R skills workshop: R markdown and building R packages",
+    "description": "Dear R ladies,\n\nNick Tierney and Damjan Vukcevic will give an R skills workshop on Wednesday 3rd July. SSA Canberra has kindly offered discount registration for non-student R-Ladies members (for SSA student members the fee is $80), if she promised to give a talk this year or next year at one of the R-Ladies events. The topic of the talk can be anything related to using R at any level of proficiency. If interested, please email us (poshaugh@uow.edu.au) to get the discount voucher! For more details of the event and registration, please visit https://statsoc.org.au/event-3454117.\n\nAbout the workshop:\nWhen performing data analysis, you typically need to share your insights with others. In our morning workshop, you will learn how to share and communicate your findings with yourself and others using R Markdown. As you go further on your journey with R, you will write functions that you use to perform common tasks. In the afternoon workshop, you will learn how put these together into an R package, which makes them easier to use and very easy to share.\n\nR Markdown (morning session, 9:30am to 12:30pm)\nPresented by Nick Tierney\nFor a scientific report to be completely credible, it must be reproducible. The full computational environment used to derive the results, including the data and code used for statistical analysis should be available for others to reproduce. R Markdown is a tool that allows you integrate your code, text and figures in a single file in order to make high quality, reproducible reports. A paper published with an included R Markdown file and data sets can be reproduced by anyone with a computer. After completing this course, you will know how to:\n- Create your own R Markdown document\n- Create figures and tables that you can reference in text, and update with - your data\n- Export your R Markdown document to PDF, HTML, and Microsoft Word\n- Use keyboard shortcuts to improve workflow\n- Cite research articles and generate a bibliography\n\nBuilding R packages (afternoon session, 1:30pm to 5pm)\nPresented by: Damjan Vukcevic\nYou have developed a new statistical method. Now it is time to share it with the world. The methods that actually get used in practice are those with readily available and user-friendly implementations. Writing and disseminating software is therefore a key skill for modern statisticians, one that is generally not taught widely. This course aims to fill the gap. The R software environment is widely used for statistical analyses. One of its distinguishing features is the extensive range of R ‘packages’, which anyone can write and share via the internet. This used to be an intimidating process but modern tools have made it simple.\n\nWe begin our course with how to write a very basic package, and then show how to include documentation, examples and data. Further topics include: an efficient development workflow, managing relationships between packages, sharing your packages with others, and easy ways to manage packages (finding, installing, upgrading).",
+    "status": "PAST",
+    "dateTime": "2019-07-03T09:30:00+10:00",
+    "duration": "PT7H30M",
+    "eventUrl": "https://www.meetup.com/rladies-canberra/events/262429355/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [],
+    "group": {
+      "name": "R-Ladies Canberra",
+      "urlname": "rladies-canberra"
+    },
+    "createdTime": "2019-06-18T19:20:51-04:00"
+  },
+  {
+    "id": "261395008",
+    "title": "Geostatistics in the fast lane using R-TensorFlow and GPUs",
+    "description": "R-Ladies Canberra will run a joint event with SSA Canberra in May, and we are delighted to have Dr Andrew Zammit Mangion presenting Geostatistics in the fast lane using R-TensorFlow and GPUs. There will be some hands-on exercises so attendees are encouraged to bring their laptops. Please find below the instruction to download TensorFlow.\n\nThe talk will take place on the ground level, Hanna Neumann (MSI) building (building 145) on the ANU campus. There will be refreshments in foyer at 5.15 pm, and the talk will start at 6 pm. After the talk, there will be a dinner at China Plate, Kambri precinct ANU. Please RSVP SSA Canberra (ssacanberra@gmail.com) or R-Ladies Canberra (canberra@rladies.org) by 27 May if you would like to attend the dinner.\n\nAbstract:\nGeostatistics plays a key role in the analysis and prediction of spatial and spatio-temporal phenomena. Spatial/spatio-temporal model fitting generally involves multiple matrix operations that can be slow to execute on a CPU. RStudio's interface to TensorFlow provides an ideal vehicle for doing spatial model fitting on a GPU in a fraction of the time needed by a CPU.\n\nI will first briefly talk about Google's TensorFlow and the associated R interface. I will then derive the maximum likelihood estimator for the parameters in a simple spatial model and implement maximum-likelihood estimation in R. Finally, I will show how to implement the same fitting procedure using Google's TensorFlow and illustrate the speed improvement when using a GPU. Attendees are invited to bring their own laptop with R and TensorFlow installed (see https://tensorflow.rstudio.com/tensorflow/articles/installation.html).\n\nBiography:\nAndrew Zammit Mangion is Senior Lecturer and DECRA Research Fellow in the National Institute for Applied Statistics Research Australia (NIASRA), University of Wollongong, Australia. He is a co-author of two books and he has published over 20 peer-reviewed articles in the field of spatial and spatio-temporal statistics. He is also the author of a number of related R packages available on CRAN, including EFDR, FRK, and IDE. In 2013, Andrew was awarded a US National Academy of Sciences prize for his work on the modelling and prediction of armed conflicts.",
+    "status": "PAST",
+    "dateTime": "2019-05-28T17:15:00+10:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-canberra/events/261395008/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 9,
+      "waitlistCount": 0,
+      "totalCount": 9
+    },
+    "venues": [
+      {
+        "id": "26384921",
+        "name": "Hanna Neumann Building (#145)",
+        "address": "Science Rd",
+        "city": "Acton",
+        "state": "AC",
+        "country": "au",
+        "lat": -35.2754,
+        "lon": 149.1193,
+        "postalCode": "2601",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Canberra",
+      "urlname": "rladies-canberra"
+    },
+    "createdTime": "2019-05-12T06:13:45-04:00"
+  },
+  {
+    "id": "260634196",
+    "title": "Tidying and plotting in R",
+    "description": "R is primarily known as a tool for statistics and data analysis, but it is also great for \"simpler\" data wrangling and plotting purposes. As R is becoming more accessible and useful in this regards, it is becoming a more viable alternative to Microsoft Excel and other spreadsheet-based applications for wrangling, analysing and visualising data. This has resulted in more R-users who are not from the \"hardcore\" STEM disciplines - like linguists, psychologists and researchers in political science. In this talk, Hedvig will introduce the concept of tidy data, the wonders of the tidyverse and ggplot for beginner users of R and experienced users who mainly use non-tidyverse packages.\n\nHedvig (https://sites.google.com/site/hedvigskirgard/) is a linguist working on Pacific languages at ANU. She focuses on grammatical structure and diversification, how one language becomes many. This is her final year of her PhD, and one the side she helps other linguists and humanities students with R.\n\nHedvig has kindly shared her slides (https://drive.google.com/drive/folders/11BE_fQv_ov8cCflxCcqa8tC3NY7u1UKH), for you to have a glimpse before coming to the event.\n\nPlease NOTICE that the location for this event has changed to CSIRO black mountain site. The entrance of Synergy building is opposite to discovery centre. We will put a sign at the entrance to show the direction to the meeting room - Stingbark on the ground floor.\n\nBeginners and intermediate R users are all encouraged to come!",
+    "status": "PAST",
+    "dateTime": "2019-05-06T13:00:00+10:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-canberra/events/260634196/",
+    "featuredEventPhoto": {
+      "id": "480450923",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/8/c/b/highres_480450923.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/8/c/b/600_480450923.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/8/c/b/thumb_480450923.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 15,
+      "waitlistCount": 0,
+      "totalCount": 15
+    },
+    "venues": [
+      {
+        "id": "26287747",
+        "name": "CSIRO - Synergy Building",
+        "address": "N Science Rd",
+        "city": "Acton",
+        "state": "AC",
+        "country": "au",
+        "lat": -35.2733,
+        "lon": 149.1143,
+        "postalCode": "2601",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Canberra",
+      "urlname": "rladies-canberra"
+    },
+    "createdTime": "2019-04-15T01:55:59-04:00"
+  },
+  {
+    "id": "259812158",
+    "title": "Bayesian modelling with R",
+    "description": "Bayesian models become more prominent thanks to the modern computing technologies. In this meeting, you will take a Bayes tour with Jiali (Data61, CSIRO) of the basics in Bayesian inference, coding from scratch in R and implementation using Stan software (interface with R)! A normal model will serve as the building block, and then you will go through examples of hierarchical models and semi-parametric models for multilevel data or longitudinal data (different disciplines have different names for essentially the same model, but we will convergence!) The R examples will be demonstrated in R Markdown, so please come along if you are interested in learning basics of R Markdown.\n\nBringing a laptop is totally optional, but you are encouraged to do so if you are keen on having some hands-on experiences of running your own Bayesian models. Don’t worry about taking notes, all the materials and R code will be shared with you later.\n\nThere will be time for discussions /networking after the tutorial, so make sure to bring any of your questions; there might be experts in the room who can help solving your problems!\n\nLooking forward to seeing you there!",
+    "status": "PAST",
+    "dateTime": "2019-03-25T15:00:00+11:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-canberra/events/259812158/",
+    "featuredEventPhoto": {
+      "id": "479503844",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/b/4/4/highres_479503844.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/b/4/4/600_479503844.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/b/4/4/thumb_479503844.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 17,
+      "waitlistCount": 0,
+      "totalCount": 17
+    },
+    "venues": [
+      {
+        "id": "26132680",
+        "name": "Canberra",
+        "address": "",
+        "city": "Canberra",
+        "state": "AC",
+        "country": "au",
+        "lat": -35.2779,
+        "lon": 149.1258,
+        "postalCode": "2601",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Canberra",
+      "urlname": "rladies-canberra"
+    },
+    "createdTime": "2019-03-15T21:55:30-04:00"
+  },
+  {
+    "id": "258555277",
+    "title": "R-Ladies Canberra Launch!!!",
+    "description": "Hi R-Ladies and those that are interested in supporting gender diversity in the R community! We are thrilled to announce that R-Ladies Canberra is launching on Tue 26th February!\n\nYou are all invited to give a lightning talk about ANYTHING related to R, including but not limited to:\n\n-Your past experience of using R;\n-Your favourite packages;\n-Something that you want to learn but don't know where to start with;\n-Useful channels to learn R;\netc. etc.\n\n(Note you don't have to give a talk.)\nThese will be informal talks and we are really friendly people, so don't be stressed! We would recommend keeping your talk short and concise, 5-10 minutes will be perfect. We could always schedule your longer talks in the coming events.\n\nPlease come along to brainstorm, meet people, have fun and enjoy some goodies!\n\nA big thank you to the Nous Group who are providing the venue and catering for this event!\n\nPlease fill out the form below whether you are giving a lightning talk or not (such as your preference for future meeting time and other comments):\n\nhttps://docs.google.com/forms/d/e/1FAIpQLScaH5DHfs5kKCYbbJEOrCYCyoIbZwVDuTsWTW2unUq0OV_SbQ/viewform\n\nPlease also follow us on twitter @RLadiesCanberra (https://twitter.com/RLadiesCanberra) if you would like some R and R-Ladies tweets!\n\nWe look forward to seeing you!",
+    "status": "PAST",
+    "dateTime": "2019-02-26T15:00:00+11:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-canberra/events/258555277/",
+    "featuredEventPhoto": {
+      "id": "478278007",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/6/5/7/highres_478278007.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/6/5/7/600_478278007.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/6/5/7/thumb_478278007.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 23,
+      "waitlistCount": 0,
+      "totalCount": 23
+    },
+    "venues": [
+      {
+        "id": "26132680",
+        "name": "Canberra",
+        "address": "",
+        "city": "Canberra",
+        "state": "AC",
+        "country": "au",
+        "lat": -35.2779,
+        "lon": 149.1257,
+        "postalCode": "2601",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Canberra",
+      "urlname": "rladies-canberra"
+    },
+    "createdTime": "2019-01-31T04:48:30-05:00"
+  },
+  {
+    "id": "274501759",
+    "title": "RLadies Canberra Code-along part 1",
+    "description": "RLadies Canberra is pleased to announce an online code-along for their final event in a very eventful year! RLadies from across Australia and New Zealand have been invited through their local groups. This event is targeted for less experienced users of R, but all users are welcome to attend.\n\nErika Duan will be leading the code-along, introducing data visualisation using ggplot. We'll code for about half an hour, then break out into smaller groups for meet-and-greet, then return to coding for another half hour before closing with a second breakout.\n\nThe event is online, and once you RSVP you will be sent a Zoom link. RLadies Canberra is looking forward to seeing you there!",
+    "status": "PAST",
+    "dateTime": "2020-12-03T12:00:00+11:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-canberra/events/274501759/",
+    "featuredEventPhoto": {
+      "id": "493474310",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/6/0/6/highres_493474310.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/6/0/6/600_493474310.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/6/0/6/thumb_493474310.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 14,
+      "waitlistCount": 0,
+      "totalCount": 14
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Canberra",
+      "urlname": "rladies-canberra"
+    },
+    "createdTime": "2020-11-09T19:50:03-05:00"
+  },
+  {
+    "id": "271304673",
+    "title": "Beyond Beamer: Modern and Dynamic Presentations with R Markdown",
+    "description": "Emi Tanaka is an applied statistician whose primary interest is to develop impactful methods and tools that can be readily used by practitioners. Her research interests include mixed models and experimental designs, motivated primarily by the problems in bioinformatics and agricultural sciences. She recently joined as a lecturer at the Department of Econometrics and Business Statistics, Monash University. She is currently the Vice President of the Statistical Society of Australia Victoria Branch.\n\nIn this presentation, Emi takes us \"Beyond Beamer: Modern and Dynamic Presentations with R Markdown\". In many fields, scientific communications and publications are unimaginable without LaTeX. LaTeX, built on the TeX typesetting program, allows writing scientific documents with a markup language for structure and styling; capabilities for mathematical typesetting; ability to add cross-references and citations (though BibTeX or otherwise); and customisation through document classes, packages and macros. A particular LaTeX document class widely used for making presentation slides is Beamer. Beamer offers much of the same features as the original LaTeX in addition to special macros handy for presentation purposes and is used often by academics presenting mathematical content. Why then would we want another tool for presentation?\n\nIn this tutorial talk, Emi will talk about the capabilities and benefits of using R Markdown to make presentation slides based on the `xaringan` R-package. If you have two monitors or an extra laptop/desktop computer, then you are encouraged to try some coding yourself as you follow along with the talk.\n\nCoding requirements: you will need to be familiar with R, have R and the xaringan & tidyverse R packages installed. It is preferable that you use RStudio IDE although not required.",
+    "status": "PAST",
+    "dateTime": "2020-06-30T18:00:00+10:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-canberra/events/271304673/",
+    "featuredEventPhoto": {
+      "id": "490856581",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/d/0/5/highres_490856581.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/d/0/5/600_490856581.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/d/0/5/thumb_490856581.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 12,
+      "waitlistCount": 0,
+      "totalCount": 12
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Canberra",
+      "urlname": "rladies-canberra"
+    },
+    "createdTime": "2020-06-15T01:44:24-04:00"
+  },
+  {
+    "id": "269387948",
+    "title": "March 2020 Lightning talks",
+    "description": "You're invited to the first RLadies Canberra meeting for 2020! We will have up to four short talks to inspire you, showcasing aspects of R ranging from high dimensional biological data to volcano plots and general linear models. We are moving this meeting online due to cocerns over COVID19 infection, so please join us via Zoom. Here's all the link information:\nhttps://anu.zoom.us/j/731846469\nMeeting ID: 731 846 469\nOne tap mobile:\n+61280156011,,731846469# Australia\n+61370182005,,731846469# Australia\nDial by your location\n+61 2 8015 6011 Australia\n+61 3 7018 2005 Australia\n+61 8 7150 1149 Australia\nMeeting ID: 731 846 469\nFind your local number: https://anu.zoom.us/u/aeGnWSbT79\nJoin by SIP:\n731846469@113.197.7.147\n731846469@113.197.7.148\nJoin by H.323:\n113.197.7.147\n113.197.7.148\nMeeting ID: 731 846 469\nJoin by Skype for Business:\nhttps://anu.zoom.us/skype/731846469",
+    "status": "PAST",
+    "dateTime": "2020-03-26T17:00:00+11:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-canberra/events/269387948/",
+    "featuredEventPhoto": {
+      "id": "489737992",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/6/4/8/highres_489737992.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/6/4/8/600_489737992.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/6/4/8/thumb_489737992.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 12,
+      "waitlistCount": 0,
+      "totalCount": 12
+    },
+    "venues": [
+      {
+        "id": "26906541",
+        "name": "Online via Zoom!",
+        "address": "More details to come.",
+        "city": "Canberra",
+        "state": "al",
+        "country": "au",
+        "lat": -35.2809,
+        "lon": 149.13,
+        "postalCode": "meetup8",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Canberra",
+      "urlname": "rladies-canberra"
+    },
+    "createdTime": "2020-03-12T21:05:38-04:00"
+  },
+  {
+    "id": "276509700",
+    "title": "Joint R-Ladies Canberra and SSA Canberra event",
+    "description": "Welcome back to 2021. We will kick start our 2021 R-Ladies Canberra series with a joint meeting with SSA Canberra. Please register as per below to receive the Zoom link.\n\nDate: Tuesday 2 March 2021\nTime: 5:30pm – 6:00pm AEDT : Zoom meeting opens for pre-seminar mingling\n6:00pm – 6:45pm AEDT : Presentation\n\nRSVP: Please register in advance for this meeting at https://anu.zoom.us/meeting/register/tZErfu2ppjguG90C-xLADEVg1bvoYnEd_4WU. After registering, you will receive a confirmation email containing information about how to join the meeting. If you have any questions, please feel free to contact ssacanberra@gmail.com.\n\nAbout the dinner: On the evening of 2 March at 7:30pm, there will be dinner at Madam Lu Malaysian Restaurant, 20/42 West Row, Canberra City (no website, but reviews available by Google search). For safety and determining numbers for the booking, if you wish to attend this dinner, please\n1. Enter your details here: https://docs.google.com/spreadsheets/d/1tQgomRy2VN7q-VD6oKVey2W-APzqRcs7qFB_o6JtqN4/edit?usp=sharing\n2. Reply to this email (warren.muller@csiro.au) to confirm\n\nTalk details\nSpeaker: Gordana Popovic, University of New South Wales\n\nTopic: How to see the forest from the trees: Removing pesky artefacts from discrete data for better visualisation\n\nAbstract: Data sometimes have artefacts which obscure the patterns we are interested in visualising. You may have come across this when trying to interpret a residual plot from a logistic regression. For discrete data, these are not really artefacts, they are properties of the distribution of the data, like mean-variance relationships and lots of zeros. Generalised linear models and their extensions model the distribution of the data, including these properties, and so are a good way to remove them, to better see the patterns we are actually interested in. I will talk though some concepts and lots of examples of how we can use models to get the best out of our visualisations of discrete multivariate data in R.\n\nBiography: Gordana is a statistical consultant and research fellow at UNSW Sydney, with research interests in modelling and visualising multivariate discrete data in ecology. In her spare time, Gordana can be found hiking or ocean swimming (poorly but enthusiastically).\n\nWebsite link: https://statsoc.org.au/event-4144562?CalendarViewType=1&SelectedDate=2/15/2021",
+    "status": "PAST",
+    "dateTime": "2021-03-02T18:00:00+11:00",
+    "duration": "PT45M",
+    "eventUrl": "https://www.meetup.com/rladies-canberra/events/276509700/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 10,
+      "waitlistCount": 0,
+      "totalCount": 10
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Canberra",
+      "urlname": "rladies-canberra"
+    },
+    "createdTime": "2021-02-21T21:26:53-05:00"
+  },
+  {
+    "id": "288071289",
+    "title": "Venables Award Winners 2022 seminar watch party",
+    "description": "This online event is hosted by the Statistical Society of Australia, SSA. The registration is though Eventbrite, please click [here](https://www.eventbrite.com.au/e/ssa-venables-award-winners-2022-seminar-tickets-407730612237) for further information and to register for the link. RLadies Canberra members are also invited to attend a \"watch party\" in-person at the Australian National University, Hanna Neumann Building 145, room 1.33. Light refreshments will be available.\n\nThere will be three short presentations from the Venables Award winners as follows:\n\"Tidy ABS data with readabs\" by Matt Cowgill\n\"Connecting to the Atlas of Living Australia with galah\" by Martin Westgate\n\"The Vizumap R Package and VizumApp Shiny App\" by Lydia Lucchesi, Sam Nelson and Petra Kuhnert.",
+    "status": "PAST",
+    "dateTime": "2022-09-08T12:00:00+10:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-canberra/events/288071289/",
+    "featuredEventPhoto": {
+      "id": "506571473",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/9/1/1/highres_506571473.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/9/1/1/600_506571473.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/9/1/1/thumb_506571473.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 2,
+      "waitlistCount": 0,
+      "totalCount": 2
+    },
+    "venues": [
+      {
+        "id": "27106842",
+        "name": "Hanna Neumann Building (#145)",
+        "address": "Science Rd",
+        "city": "Acton",
+        "state": "AC",
+        "country": "au",
+        "lat": -35.2754,
+        "lon": 149.1193,
+        "postalCode": "2601",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Canberra",
+      "urlname": "rladies-canberra"
+    },
+    "createdTime": "2022-08-26T00:21:16-04:00"
+  },
+  {
+    "id": "286622951",
+    "title": "Current state and prospects of R-packages for the design of experiments",
+    "description": "This event is hosted by the Canberra Branch is the Statistical Society of Australia. RLadies Canberra members are invited to attend in-person at [Allan Barton Forum](https://goo.gl/maps/NxtbGw1kie3oGmJK7), The Australian National University, or by the online stream via Zoom.\n\nThe presenter, Dr. Emi Tanaka, is a lecturer in statistics at Monash University whose primary interest is to develop impactful statistical methods and tools that can readily be used by practitioners. Her research area includes data visualisation, mixed models and experimental designs, motivated primarily by problems in bioinformatics and agricultural sciences.\n\nIn this presentation, Emi will give an overview about the current state and prospects of R-packages for the design of experiments. She will also introduce an object-oriented programming system, called the grammar of experimental designs, that is designed to specify experimental designs encapsulated in a cognitive framework and implemented as the edibble R-package.",
+    "status": "PAST",
+    "dateTime": "2022-06-29T17:45:00+10:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-canberra/events/286622951/",
+    "featuredEventPhoto": {
+      "id": "504891092",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/7/9/4/highres_504891092.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/7/9/4/600_504891092.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/7/9/4/thumb_504891092.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Canberra",
+      "urlname": "rladies-canberra"
+    },
+    "createdTime": "2022-06-16T20:33:26-04:00"
+  },
+  {
+    "id": "286319886",
+    "title": "R Users ANU launch",
+    "description": "RLadies Canberra members who are also members of the ANU community are invited to attend this social morning tea hosted by ANU's network for early career academics, NECTAR, and the Statistical Support Network, SSN. Join us for this opportunity for ANU peers working in R to connect across boundaries. Women and men who are curious about R can come and ask questions about what this software is good for and how it compares. Guest speakers will give short presentations about how they have utilised R to solve research challenges. ANU will be launching a Teams site for R users. RLadies Canberra organisers will be on hand to meet ANU-based RLadies, register new members, and discuss plans for the next 18 months.",
+    "status": "PAST",
+    "dateTime": "2022-06-21T10:00:00+10:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-canberra/events/286319886/",
+    "featuredEventPhoto": {
+      "id": "504541300",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/1/4/highres_504541300.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/1/4/600_504541300.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/1/4/thumb_504541300.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [
+      {
+        "id": "27106842",
+        "name": "Hanna Neumann Building (#145)",
+        "address": "Science Rd",
+        "city": "Acton",
+        "state": "AC",
+        "country": "au",
+        "lat": -35.2754,
+        "lon": 149.1193,
+        "postalCode": "2601",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Canberra",
+      "urlname": "rladies-canberra"
+    },
+    "createdTime": "2022-06-02T19:22:21-04:00"
+  },
+  {
+    "id": "302799575",
+    "title": "RLadies Sydney watch party",
+    "description": "This online event is hosted by R-Ladies Sydney. R-Ladies Canberra members are invited to attend a \"watch party\" in-person at the Australian National University, Hanna Neumann Building 145, room 1.33. Light refreshments will be available.\n\nWhile data scientists are often taught about training a machine learning model, building an MLOps strategy to deploy and maintain that model can be daunting. In this talk, learn about MLOps concepts like model deployment and model drift, the different ways the word “performance” is used with models, what you can monitor about a model, how feedback loops impact models, and how you can set yourself up for success with model maintenance.",
+    "status": "CANCELLED",
+    "dateTime": "2024-09-06T12:00:00+10:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-canberra/events/302799575/",
+    "featuredEventPhoto": {
+      "id": "522893067",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/f/4/b/highres_522893067.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/f/4/b/600_522893067.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/f/4/b/thumb_522893067.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 1,
+      "waitlistCount": 0,
+      "totalCount": 1
+    },
+    "venues": [
+      {
+        "id": "27106842",
+        "name": "Hanna Neumann Building (#145)",
+        "address": "Science Rd",
+        "city": "Acton",
+        "state": "AC",
+        "country": "au",
+        "lat": -35.2754,
+        "lon": 149.1193,
+        "postalCode": "2601",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Canberra",
+      "urlname": "rladies-canberra"
+    },
+    "createdTime": "2024-08-12T20:52:09-04:00"
+  },
+  {
+    "id": "300874704",
+    "title": "Creative coding: make generative art with R",
+    "description": "Location: Room 37 Level B of Building 7, University of Canberra.\n\nR is a programming language used widely for data analysis, but in this workshop, we will explore ways to make art! Building on the popular ggplot2 package, Dr. Emi Tanaka (ANU) will demonstrate how to draw Truchet tiles and other generative art where time permits. All codes demonstrated will be shared with the participants. Come join the workshop to meet fellow Rtists, potentially learn more about the ggplot2 system and showcase your inner creativity!\nPlease note that the registrants are expected to be proficient in R and some knowledge of tidyverse or ggplot2 as we do not have time to cover the basics in this workshop. Participants are expected also to bring their own laptops with R installed.",
+    "status": "PAST",
+    "dateTime": "2024-06-04T12:00:00+10:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-canberra/events/300874704/",
+    "featuredEventPhoto": {
+      "id": "520912434",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/c/d/2/highres_520912434.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/c/d/2/600_520912434.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/c/d/2/thumb_520912434.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [
+      {
+        "id": "27818510",
+        "name": "University of Canberra",
+        "address": "Building 7",
+        "city": "Canberra",
+        "state": "",
+        "country": "au",
+        "lat": -35.2365,
+        "lon": 149.0831,
+        "postalCode": "meetup8",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Canberra",
+      "urlname": "rladies-canberra"
+    },
+    "createdTime": "2024-05-06T22:44:37-04:00"
+  },
+  {
+    "id": "300938455",
+    "title": "Women in Mathematics Day at ANU: market day stall needs staff",
+    "description": "Women in Mathematics Day ([May12](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fmay12.womeninmaths.org%2F&data=05%7C02%7Calice.richardson%40anu.edu.au%7C2592de32c4d94b1b211908dc6cc5b8a8%7Ce37d725cab5c46249ae5f0533e486437%7C0%7C0%7C638504843672203376%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=GROKWD19ZNxhEBC75SlbhGyydsuCBRG1ORO9dwGPcH8%3D&reserved=0)) is celebrated on May 12 each year, but this year at ANU the main events will take place on Monday 13 May (: [https://maths.anu.edu.au/news-events/events/may12-celebrating-women-mathematics](https://maths.anu.edu.au/news-events/events/may12-celebrating-women-mathematics)). R-Ladies Canberra has taken up the offer of a stall at the market day session in the afternoon. We are looking for a couple of ANU-based R-Ladies to come along for all or part of that time to meet the participants in a market and explain what a great organisation R-Ladies is! We did send out an email about this but now that time is short, we've created this event to bring it back to your attention. Please RSVP if you are able to help out, even for a short time. Hope to see you there!",
+    "status": "PAST",
+    "dateTime": "2024-05-13T14:30:00+10:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-canberra/events/300938455/",
+    "featuredEventPhoto": {
+      "id": "520968938",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/f/2/a/highres_520968938.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/f/2/a/600_520968938.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/f/2/a/thumb_520968938.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 1,
+      "waitlistCount": 0,
+      "totalCount": 1
+    },
+    "venues": [
+      {
+        "id": "27106842",
+        "name": "Hanna Neumann Building (#145)",
+        "address": "Science Rd",
+        "city": "Acton",
+        "state": "AC",
+        "country": "au",
+        "lat": -35.2754,
+        "lon": 149.1193,
+        "postalCode": "2601",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Canberra",
+      "urlname": "rladies-canberra"
+    },
+    "createdTime": "2024-05-10T01:09:32-04:00"
+  },
+  {
+    "id": "299433532",
+    "title": "International Womens Day lunch",
+    "description": "International Womens Day on Friday 8 March is all about celebrating women's achievement, raising awareness about discrimination, and taking action to drive gender parity. R-Ladies Canberra will be celebrating IWD with a lunch at Badger & Co, located in Kambri on University Avenue at the ANU campus. Look out for the R-Ladies banner to find us! You can buy your own food and drink, and meet in person with members of Canberra's R-Ladies community. Come along and discuss what sort of activities you'd like to see R-Ladies Canberra offer in 2024, as we aim to re-invigorate the chapter this year.",
+    "status": "PAST",
+    "dateTime": "2024-03-08T12:30:00+11:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-canberra/events/299433532/",
+    "featuredEventPhoto": {
+      "id": "519387548",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/b/9/c/highres_519387548.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/b/9/c/600_519387548.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/b/9/c/thumb_519387548.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [
+      {
+        "id": "26451016",
+        "name": "Badger & Co",
+        "address": "",
+        "city": "Canberra",
+        "state": "AC",
+        "country": "au",
+        "lat": -35.2773,
+        "lon": 149.1203,
+        "postalCode": "0200",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Canberra",
+      "urlname": "rladies-canberra"
+    },
+    "createdTime": "2024-02-26T00:15:51-05:00"
+  },
+  {
+    "id": "298921997",
+    "title": "ANU meet and greet for International Day of Women and Girls in Science",
+    "description": "February 11 is the [International Day of Women and Girls in Science](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FInternational_Day_of_Women_and_Girls_in_Science&data=05%7C02%7Calice.richardson%40anu.edu.au%7C094e91010268497cb77008dc22953d80%7Ce37d725cab5c46249ae5f0533e486437%7C0%7C0%7C638423271581871573%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=1dGzcgUEXPooJupYskO1z8cveDwJhEACbpBHn8c%2BPEs%3D&reserved=0). To celebrate this day, and the start of O-Week, ANU student and staff members of RLadies are invited to meet some of ANU's amazing women scientists, as well as staff from the College of Science and the College of Engineering, Computing & Cybernetics working on Gender Equity (GE), plus representatives of staff and student groups with a GE focus (including [Fifty50](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Ffifty50.org.au%2F&data=05%7C02%7Calice.richardson%40anu.edu.au%7C094e91010268497cb77008dc22953d80%7Ce37d725cab5c46249ae5f0533e486437%7C0%7C0%7C638423271581878411%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=JBwqqftW3uq%2Fdqy5PDhIJmcM42KNTdk4wfdFvABkq9Q%3D&reserved=0), Women\\* in Physics, Astro and Engineering, [RLadies](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Frladies.org%2F&data=05%7C02%7Calice.richardson%40anu.edu.au%7C094e91010268497cb77008dc22953d80%7Ce37d725cab5c46249ae5f0533e486437%7C0%7C0%7C638423271581884957%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=CMEBXCacfiD8%2B8Y%2FCBNCGwsDrLeEq%2F0X4KW%2FTViTDmI%3D&reserved=0), and [ANUSA Women's Department](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fanusa.com.au%2Fadvocacy%2Fwomens-department%2F&data=05%7C02%7Calice.richardson%40anu.edu.au%7C094e91010268497cb77008dc22953d80%7Ce37d725cab5c46249ae5f0533e486437%7C0%7C0%7C638423271581891675%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=ecqozjiKDE0sqb2rFuf3mrYSe%2Frcm1njL1IYv3lcZ4s%3D&reserved=0)).\n\nThere will be no PowerPoint and no speeches, just mingling and chatting with people who fundamentally think that the World will be much better once Science achieves Gender Equality.\n\nLocation: University Avenue lawns, in front of the Hanna Neumann building.",
+    "status": "PAST",
+    "dateTime": "2024-02-12T14:00:00+11:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-canberra/events/298921997/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 2,
+      "waitlistCount": 0,
+      "totalCount": 2
+    },
+    "venues": [
+      {
+        "id": "27744971",
+        "name": "University Avenue",
+        "address": "University Ave",
+        "city": "Canberra",
+        "state": "",
+        "country": "au",
+        "lat": -35.2756,
+        "lon": 149.1192,
+        "postalCode": "2601",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Canberra",
+      "urlname": "rladies-canberra"
+    },
+    "createdTime": "2024-01-31T22:06:09-05:00"
+  },
+  {
+    "id": "307298255",
+    "title": "Cross-chapter: TidyTuesday with R-Ladies",
+    "description": "Come join us for a **fun session on coding with R and Rstudio**!\nR-Ladies Canberra, Melbourne and Sydney are thrilled to host our first ever cross-chapter ***TidyTuesday*** and we would love to have you come along!\n\nTidyTuesday is a weekly event created by the Data Science Learning Community for folks to develop new skills in a low-stakes, welcoming environment. Each week, a new dataset is released for everyone to play and explore. There is no limit to what you can do! You can produce a nice-looking table, or a story-telling graphic, perhaps even an intuitive Shiny interface – the choice is yours!\n\n**What to expect:**\nJoin a follow-along group or work independently on the same dataset for about 30 mins then come together to celebrate each other’s creations!\n*This event is online only. All you need is your laptop!*\n\n\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\n\n***Photos, Films and all other media/recordings***\\*: This event will not be recorded.\\*\n***Code of Conduct***\\*: R-Ladies Canberra is dedicated to providing a welcoming and harassment-free event experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, or religion (or lack thereof). We do not tolerate harassment of event participants in any form, for any event venue, including talks, workshops, parties, Twitter and other online media.\\*\n***Community Policies***\\*: Please note, cis men are welcome to join our meetups when they come as a guest of a woman participant or they bring a woman with them. We highly encourage speakers and teachers at R-Ladies Sydney events to be of minority genders.\\*",
+    "status": "PAST",
+    "dateTime": "2025-05-06T13:00:00+10:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-canberra/events/307298255/",
+    "featuredEventPhoto": {
+      "id": "527386818",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/6/e/2/highres_527386818.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/6/e/2/600_527386818.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/6/e/2/thumb_527386818.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 6,
+      "waitlistCount": 0,
+      "totalCount": 6
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Canberra",
+      "urlname": "rladies-canberra"
+    },
+    "createdTime": "2025-04-15T03:41:22-04:00"
+  }
+]
