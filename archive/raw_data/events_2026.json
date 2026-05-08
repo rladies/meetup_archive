@@ -74,6 +74,46 @@
     "createdTime": "2026-04-29T18:25:12-04:00"
   },
   {
+    "id": "314684648",
+    "title": "Deep Probabilistic and Generative Modeling",
+    "description": "**Deep Probabilistic and Generative Modelling**\n\n**Date:** 20th May, 2026\n**Time:** 6 PM\n**Where:** [Online](https://deakin.zoom.us/j/81881008885?pwd=CIWboin2izkWxBGwMSWbHeZkze92dP.1&from=addon)\n\nDeep probabilistic and generative models are becoming an important part of the modern machine learning toolkit, with growing applications in biomedical research and AI.\n\nIn this meetup, we’ll start with a primer on deep probabilistic modelling before exploring state-of-the-art generative approaches, including probabilistic graphical models, variational inference, diffusion models, and flow matching. The talk will also cover applications of these methods in biomedical research, followed by a short hands-on coding session introducing the basics of building a deep probabilistic model in PyTorch.\nSo come along if you’re interested in modern machine learning, generative AI, or computational biology, or if you’d like a practical introduction to probabilistic modelling techniques and their research applications.",
+    "status": "ACTIVE",
+    "dateTime": "2026-05-20T18:00:00+10:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-melbourne/events/314684648/",
+    "featuredEventPhoto": {
+      "id": "534119496",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/e/8/6/8/highres_534119496.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/e/8/6/8/600_534119496.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/8/6/8/thumb_534119496.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -37.82,
+        "lon": 144.9493,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Melbourne",
+      "urlname": "rladies-melbourne"
+    },
+    "createdTime": "2026-05-07T20:07:26-04:00"
+  },
+  {
     "id": "314511787",
     "title": "From Dictionaries to LLMs: Text Analysis in R  ",
     "description": "This workshop walks through a complete text analysis pipeline in R, combining traditional methods with newer AI-powered tools.\n\nIn the first part, we will cover tokenization with tidytext, stopword removal (including custom stopwords), word frequency visualization with wordclouds and bar plots, dictionary-based sentiment analysis using three lexicons (AFINN, Bing, and NRC), topic modeling with LDA, and bigram analysis with word networks.\n\nIn the second part, we explore how the mall package can be used to perform sentiment analysis with local LLMs (via Ollama), comparing this approach to dictionary-based methods, and look at related tasks like text classification and entity extraction.\n\nFamiliarity with R and the tidyverse is assumed.",
