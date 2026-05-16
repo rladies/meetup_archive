@@ -1,0 +1,1663 @@
+[
+  {
+    "id": "273826719",
+    "title": "ExploRando un mundo nuevo",
+    "description": "En esta ocasión nos hemos aliado con el equipo de W-STEM Uninorte para dar a conocer un poco de este mundo maravilloso de R y Rstudio a los estudiantes de décimo y undécimo grado de escuelas privadas y públicas. Para este taller nos apoyaremos en la herramienta Rstudio Cloud y se explicarán algunas funciones y gráficos básicos de estadística descriptiva.\n\nRequerimientos:\n1. Ser estudiante de décimo o undécimo grado de colegio.\n2. Tener una cuenta de correo electrónico (con el objetivo de utilizar RStudio Cloud).\n3. Contar con un computador o portátil que tenga conexión a internet.\n4. Ganas de aprender y buena disposición.\n\n¡Los esperamos!",
+    "status": "PAST",
+    "dateTime": "2020-11-14T09:30:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-barranquilla/events/273826719/",
+    "featuredEventPhoto": {
+      "id": "493119959",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/c/1/7/highres_493119959.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/c/1/7/600_493119959.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/c/1/7/thumb_493119959.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 19,
+      "waitlistCount": 0,
+      "totalCount": 19
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barranquilla",
+      "urlname": "rladies-barranquilla"
+    },
+    "createdTime": "2020-10-09T13:18:25-04:00"
+  },
+  {
+    "id": "273526916",
+    "title": "Manipulación y visualización de datos con dplyr",
+    "description": "En este taller manipularemos y realizaremos visualizaciones con ayuda del paquete dplyr del software R-Studio. Para esta sesión es necesario que tengas a la mano tu computador y tener instalado R, RStudio y el paquete dplyr. Para instalar el software en tu computador te invitamos a ingresar en el siguiente link: https://cran.rstudio.com/ El taller se realizará por la plataforma virtual Zoom. ¡Te invitamos a participar, no te pierdas de esta gran oportunidad! R-Ladies Barranquilla y R-Ladies Galápagos. 💜👩‍💻",
+    "status": "PAST",
+    "dateTime": "2020-10-10T10:30:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-barranquilla/events/273526916/",
+    "featuredEventPhoto": {
+      "id": "492540821",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/3/5/highres_492540821.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/3/5/600_492540821.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/3/5/thumb_492540821.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 41,
+      "waitlistCount": 0,
+      "totalCount": 41
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barranquilla",
+      "urlname": "rladies-barranquilla"
+    },
+    "createdTime": "2020-09-26T10:41:38-04:00"
+  },
+  {
+    "id": "273513946",
+    "title": "Importando datos desde hojas de cálculo",
+    "description": "Descripción del taller:\nA menudo se comparten hojas de cálculo con información poco estructurada, o codificada como formato del texto y/o de las celdas que no se trasladan directamente a un objeto de R (ej. celdas de colores para denotar categorías). Ésto resulta en pérdida de información potencialmente relevante, o bien, pérdida de tiempo al tener que interpretar y limpiar manualmente los valores de las celdas. En este taller se enseñará a importar y manejar este tipo de datos a R. Además, se demostrará la lectura y escritura de archivos .xls y .xlsx (paquetes readxl y writexl), el manejo de archivos con múltiples pestañas (paquete purrr), celdas con formato (paquetes tidyxl y unheadr), y la nueva funcionalidad del paquete googlesheets4 que permite leer y escribir en hojas de cálculo en línea, facilitando la colaboración de manera reproducible. Al final del taller, los asistentes serán capaces de compatibilizar el uso de R con las hojas de cálculo en sus flujos de trabajo y colaboraciones.\n\nRequerimientos:\nPara este taller es necesario tener instalado R igual o superior a 3.6 y los paquetes dplyr, readxl, purrr, writexl, tidyxl, googlesheets4, y unheadr (versiones de CRAN).\n\nPonente:\nDr. Luis D. Verde Arregoitia\nBiólogo, especialista en mamíferos. Autor de los paquetes unheadr y annotater, que se utilizan para manejar datos desordenados y añadir información sobre librerías externas a código existente. Interesado en la resolución de problemas usando R, en áreas como análisis espacial, deportes, biología evolutiva y videojuegos.",
+    "status": "PAST",
+    "dateTime": "2020-10-01T12:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-barranquilla/events/273513946/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 42,
+      "waitlistCount": 0,
+      "totalCount": 42
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barranquilla",
+      "urlname": "rladies-barranquilla"
+    },
+    "createdTime": "2020-09-25T18:38:43-04:00"
+  },
+  {
+    "id": "272005008",
+    "title": "Conversemos sobre violencia intrafamiliar",
+    "description": "En nuestro segundo encuentro realizaremos un conversatorio donde analizaremos la situación actual de Colombia, México y España referente a los casos de violencia intrafamiliar durante la cuarentena debido al COVID-19. Presentaremos un dashboard elaborado con el software estadístico RStudio, donde se pueden visualizar todas las estadísticas correspondientes a cada uno de los países y mostraremos los resultados y las variaciones en los índices de violencia.\n\nContaremos con la presencia de profesionales, quienes nos ayudarán analizar la situación por medio de preguntas y comentarios del público asistente para que desde la óptica profesional tengamos una acercamiento de lo que pueden ser las causas o condiciones que ocasionan el posible incremento de la violencia en medio de la pandemia.\n\nEl conversatorio se realizará por la plataforma virtual ZOOM, el enlace se compartirá minutos antes del evento.\n\nEl silencio es letal en el maltrato. Atrévete, sé valiente y denuncia.",
+    "status": "PAST",
+    "dateTime": "2020-08-01T09:30:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-barranquilla/events/272005008/",
+    "featuredEventPhoto": {
+      "id": "491405828",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/6/c/4/highres_491405828.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/6/c/4/600_491405828.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/6/c/4/thumb_491405828.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 16,
+      "waitlistCount": 0,
+      "totalCount": 16
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barranquilla",
+      "urlname": "rladies-barranquilla"
+    },
+    "createdTime": "2020-07-18T11:06:24-04:00"
+  },
+  {
+    "id": "271585964",
+    "title": "Primer encuentro R-Ladies Barranquilla",
+    "description": "En este taller realizaremos una introducción al software R-Studio y analizaremos las diferentes funciones que resultan útiles para el manejo de las bases de datos.\nPara esta sesión es necesario que tengas a la mano tu computador y tener instalado R y RStudio. Para instalar el software en tu computador te invitamos a ingresar en el siguiente link: https://cran.rstudio.com/\n\nEl taller se realizará por la plataforma virtual Zoom.\n¡Te invitamos a participar, no te pierdas de esta gran oportunidad!\n\nR-Ladies Barranquilla.",
+    "status": "PAST",
+    "dateTime": "2020-07-11T09:30:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-barranquilla/events/271585964/",
+    "featuredEventPhoto": {
+      "id": "491064586",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/0/0/a/highres_491064586.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/0/0/a/600_491064586.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/0/0/a/thumb_491064586.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 36,
+      "waitlistCount": 0,
+      "totalCount": 36
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barranquilla",
+      "urlname": "rladies-barranquilla"
+    },
+    "createdTime": "2020-06-28T13:43:14-04:00"
+  },
+  {
+    "id": "281659922",
+    "title": "Club de lectura R para Ciencia de Datos (Wickham & Grolemund) - Sesión 13 ",
+    "description": "Las R-Ladies de Barranquilla (COL), Galápagos, Guayaquil y Milagro (ECU) nos hemos unido para traerte un club de lectura basado en el libro R para Ciencia de Datos de Wickham y Grolemund. Este libro está disponible en español gracias al esfuerzo de la comunidad R latinoamericana y puede ser accedido de manera libre aquí: https://es.r4ds.hadley.nz.\n\nEn esta sesión 13 de nuestro club de lectura, Linda Cabrera Orellana de R-Ladies Guayaquil y Denisse Fierro Arcos de R-Ladies Galápagos hablarán sobre la creación y el uso de documentos Markdown en R (Capítulos 27, 29 y 30).\n\nEsta es la última sesión de nuestro club de lectura, la cual se llevará a cabo a través de Zoom y tendrá una duración de dos horas. Durante la sesión discutiremos y practicaremos los puntos más importantes de los capítulos relacionados a Markdown en R.\n\nEsta sesión se llevará a cabo el jueves 28 de octubre desde las 18:00 (UTC-5, Colombia y Ecuador Continental), o si estás en Galápagos desde las 17:00 (UTC-6).\n\nRecuerda que al participar en nuestros eventos estás aceptando nuestro código de conducta, el cual nos ayuda a crear un espacio amable y seguro para aprender: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish",
+    "status": "PAST",
+    "dateTime": "2021-10-28T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-barranquilla/events/281659922/",
+    "featuredEventPhoto": {
+      "id": "499755665",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/d/3/1/highres_499755665.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/d/3/1/600_499755665.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/d/3/1/thumb_499755665.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 8,
+      "waitlistCount": 0,
+      "totalCount": 8
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barranquilla",
+      "urlname": "rladies-barranquilla"
+    },
+    "createdTime": "2021-10-25T17:25:25-04:00"
+  },
+  {
+    "id": "281237052",
+    "title": "Club de lectura: R para Ciencia de Datos (Wickham & Grolemund) - Sesión 12",
+    "description": "Las R-Ladies de Barranquilla (COL), Galápagos, Guayaquil y Milagro (ECU) nos hemos unido para traerte un club de lectura basado en el libro R para Ciencia de Datos de Wickham y Grolemund. Este libro está disponible en español gracias a él esfuerzo de la comunidad R latinoamericana y puede ser accedido de manera libre aquí: https://es.r4ds.hadley.nz\nEn esta sesión 12 de nuestro club de lectura, Mercedes Soledispa, Naomy Vera y Julissa Magallanes de R-Ladies Milagro hablaran sobre la Construcción de modelos (capitulo 24) y muchos modelos (Capítulo 25)\nEste club de lectura incluirá varias sesiones quincenales que se llevarán a cabo a través de Zoom. Cada sesión durará dos horas durante las cuales discutiremos y practicaremos los puntos más importantes del capítulo en el que nos enfoquemos para esa sesión. Recuerda, las sesiones son los jueves de cada quincena empiezando a las 18:00(UTC-5, Colombia y Ecuador Continental), o si estás en Galápagos a las 17:00(UTC-6). Al participar en nuestros eventos recuerda que estás aceptando nuestro código de conducta, el cual nos ayuda a crear un espacio amable y seguro para aprender:\n\nhttps://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish",
+    "status": "PAST",
+    "dateTime": "2021-10-14T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-barranquilla/events/281237052/",
+    "featuredEventPhoto": {
+      "id": "499295595",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/b/0/b/highres_499295595.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/b/0/b/600_499295595.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/b/0/b/thumb_499295595.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 11,
+      "waitlistCount": 0,
+      "totalCount": 11
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barranquilla",
+      "urlname": "rladies-barranquilla"
+    },
+    "createdTime": "2021-10-05T19:37:01-04:00"
+  },
+  {
+    "id": "280943789",
+    "title": "Club de lectura R para Ciencia de Datos (Wickham & Grolemund) - Sesión 11",
+    "description": "Las R-Ladies de Barranquilla (COL), Galápagos, Guayaquil y Milagro (ECU) nos hemos unido para traerte un club de lectura basado en el libro R para Ciencia de Datos de Wickham y Grolemund. Este libro está disponible en español gracias al esfuerzo de la comunidad R latinoamericana y puede ser accedido de manera libre aquí: https://es.r4ds.hadley.nz.\n\nEn esta sesión 11 de nuestro club de lectura, Danisse y Viviana de R-Ladies Barranquilla hablarán sobre los conceptos básicos de cómo armar un modelo (Capítulo 23).\n\nEste club de lectura incluirá varias sesiones quincenales que se llevarán a cabo a través de Zoom. Cada sesión durará dos horas durante las cuales discutiremos y practicaremos los puntos más importantes del capítulo o capítulos en el que nos enfoquemos para esa sesión.\n\nRecuerda, las sesiones son los jueves de cada quincena empezando a las 18:00 (UTC-5, Colombia y Ecuador Continental), o si estás en Galápagos a las 17:00 (UTC-6).\n\nAl participar en nuestros eventos recuerda que estás aceptando nuestro código de conducta, el cual nos ayuda a crear un espacio amable y seguro para aprender: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish",
+    "status": "PAST",
+    "dateTime": "2021-09-30T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-barranquilla/events/280943789/",
+    "featuredEventPhoto": {
+      "id": "498993592",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/3/3/8/highres_498993592.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/3/3/8/600_498993592.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/3/3/8/thumb_498993592.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 12,
+      "waitlistCount": 0,
+      "totalCount": 12
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barranquilla",
+      "urlname": "rladies-barranquilla"
+    },
+    "createdTime": "2021-09-22T12:49:48-04:00"
+  },
+  {
+    "id": "280751511",
+    "title": "Club de lectura R para Ciencia de Datos (Wickham & Grolemund) - Sesión 10",
+    "description": "Las R-Ladies de Barranquilla (COL), Galápagos, Guayaquil y Milagro (ECU) nos hemos unido para traerte un club de lectura basado en el libro R para Ciencia de Datos de Wickham y Grolemund. Este libro está disponible en español gracias al esfuerzo de la comunidad R latinoamericana y puede ser accedido de manera libre aquí: https://es.r4ds.hadley.nz.\n\nEn esta octava sesión de nuestro club de lectura, Denisse Fierro Arcos de R-Ladies Galápagos hablará cómo llevar a cabo el análisis exploratorio de datos (Capítulo 7).\n\nEste club de lectura incluirá varias sesiones quincenales que se llevarán a cabo a través de Zoom. Cada sesión durará dos horas durante las cuales discutiremos y practicaremos los puntos más importantes del capítulo o capítulos en el que nos enfoquemos para esa sesión.\n\nRecuerda, las sesiones son los jueves de cada quincena empezando a las 18:00 (UTC-5, Colombia y Ecuador Continental), o si estás en Galápagos a las 17:00 (UTC-6).\n\nAl participar en nuestros eventos recuerda que estás aceptando nuestro código de conducta, el cual nos ayuda a crear un espacio amable y seguro para aprender: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish",
+    "status": "PAST",
+    "dateTime": "2021-09-16T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-barranquilla/events/280751511/",
+    "featuredEventPhoto": {
+      "id": "498808174",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/e/0/e/highres_498808174.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/e/0/e/600_498808174.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/e/0/e/thumb_498808174.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 16,
+      "waitlistCount": 0,
+      "totalCount": 16
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barranquilla",
+      "urlname": "rladies-barranquilla"
+    },
+    "createdTime": "2021-09-13T13:01:38-04:00"
+  },
+  {
+    "id": "280363933",
+    "title": "Club de lectura R para Ciencia de Datos (Wickham & Grolemund) - Sesión 9",
+    "description": "Las R-Ladies de Barranquilla (COL), Galápagos, Guayaquil y Milagro (ECU) nos hemos unido para traerte un club de lectura basado en el libro R para Ciencia de Datos de Wickham y Grolemund. Este libro está disponible en español gracias al esfuerzo de la comunidad R latinoamericana y puede ser accedido de manera libre aquí: https://es.r4ds.hadley.nz.\n\nEn esta octava sesión de nuestro club de lectura, Zulemma Bazurto Blacio y Linda Cabrera Orellana de R-Ladies Guayaquil hablarán sobre transformación de datos y flujos de trabajo que puedes aplicar para desarrollar y compartir tu código de manera más eficiente. Esto incluye los siguientes capítulos:\nCapítulo 4 - Flujo de trabajo: Conocimientos básicos.\nCapítulo 5 - Transformación de datos\nCapítulo 6 - Flujo de trabajo: Scripts\nCapítulo 8 - Flujo de trabajo: Proyectos\n\nEste club de lectura incluirá varias sesiones quincenales que se llevarán a cabo a través de Zoom. Cada sesión durará dos horas durante las cuales discutiremos y practicaremos los puntos más importantes del capítulo o capítulos en el que nos enfoquemos para esa sesión.\n\nRecuerda, las sesiones son los jueves de cada quincena empezando a las 18:00 (UTC-5, Colombia y Ecuador Continental), o si estás en Galápagos a las 17:00 (UTC-6).\n\nAl participar en nuestros eventos recuerda que estás aceptando nuestro código de conducta, el cual nos ayuda a crear un espacio amable y seguro para aprender: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish",
+    "status": "PAST",
+    "dateTime": "2021-09-02T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-barranquilla/events/280363933/",
+    "featuredEventPhoto": {
+      "id": "498421963",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/a/b/highres_498421963.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/a/b/600_498421963.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/a/b/thumb_498421963.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 12,
+      "waitlistCount": 0,
+      "totalCount": 12
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barranquilla",
+      "urlname": "rladies-barranquilla"
+    },
+    "createdTime": "2021-08-26T14:33:20-04:00"
+  },
+  {
+    "id": "280014575",
+    "title": "Club de lectura R para Ciencia de Datos (Wickham & Grolemund) - Sesión 8",
+    "description": "Las R-Ladies de Barranquilla (COL), Galápagos, Guayaquil y Milagro (ECU) nos hemos unido para traerte un club de lectura basado en el libro R para Ciencia de Datos de Wickham y Grolemund. Este libro está disponible en español gracias al esfuerzo de la comunidad R latinoamericana y puede ser accedido de manera libre aquí: https://es.r4ds.hadley.nz.\n\nEn esta octava sesión de nuestro club de lectura, Linda Cabrera Orellana (R-Ladies Guayaquil) hablará sobre las herramientas necesarias para crear buenos gráficos utilizando los paquetes ggplot2, ggrepel y viridis. Esto incluye al capítulo 28 (Comunicar con gráficos).\n\nEste club de lectura incluirá varias sesiones quincenales que se llevarán a cabo a través de Zoom. Cada sesión durará dos horas durante las cuales discutiremos y practicaremos los puntos más importantes del capítulo o capítulos en el que nos enfoquemos para esa sesión.\n\nRecuerda, las sesiones son los jueves de cada quincena empezando a las 18:00 (UTC-5, Colombia y Ecuador Continental), o si estás en Galápagos a las 17:00 (UTC-6).\n\nAl participar en nuestros eventos recuerda que estás aceptando nuestro código de conducta, el cual nos ayuda a crear un espacio amable y seguro para aprender: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish",
+    "status": "PAST",
+    "dateTime": "2021-08-19T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-barranquilla/events/280014575/",
+    "featuredEventPhoto": {
+      "id": "498081739",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/4/e/b/highres_498081739.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/4/e/b/600_498081739.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/4/e/b/thumb_498081739.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 12,
+      "waitlistCount": 0,
+      "totalCount": 12
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barranquilla",
+      "urlname": "rladies-barranquilla"
+    },
+    "createdTime": "2021-08-09T13:54:41-04:00"
+  },
+  {
+    "id": "280034860",
+    "title": "Programación Funcional con {purrr}",
+    "description": "En colaboración con RLadies Barranquilla y Growth Aceleration Partners, les traemos esta sesión en la que aprenderemos sobre el paquete purrr.\nPhilippe Heymans Smith nos enseñará cómo mejorar la manera en la que programamos con funciones.\n\nEl link de Zoom lo compartiremos algunos días antes de la sesión :)\n\n¡Les esperamos!",
+    "status": "PAST",
+    "dateTime": "2021-08-18T18:30:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-barranquilla/events/280034860/",
+    "featuredEventPhoto": {
+      "id": "498101264",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/1/3/0/highres_498101264.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/1/3/0/600_498101264.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/1/3/0/thumb_498101264.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 36,
+      "waitlistCount": 0,
+      "totalCount": 36
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barranquilla",
+      "urlname": "rladies-barranquilla"
+    },
+    "createdTime": "2021-08-10T13:55:51-04:00"
+  },
+  {
+    "id": "279722858",
+    "title": "Club de lectura R para Ciencia de Datos (Wickham & Grolemund) - Sesión 7",
+    "description": "Las R-Ladies de Barranquilla (COL), Galápagos, Guayaquil y Milagro (ECU) nos hemos unido para traerte un club de lectura basado en el libro R para Ciencia de Datos de Wickham y Grolemund. Este libro está disponible en español gracias al esfuerzo de la comunidad R latinoamericana y puede ser accedido de manera libre aquí: https://es.r4ds.hadley.nz.\n\nEn esta séptima sesión de nuestro club de lectura, Denisse Fierro Arcos (R-Ladies Galápagos) e Isabel Vásquez hablarán sobre cómo crear gráficos utilizando el paquete ggplot2. Esto incluye al capítulo 3 (Visualización de datos).\n\nEste club de lectura incluirá varias sesiones quincenales que se llevarán a cabo a través de Zoom. Cada sesión durará dos horas durante las cuales discutiremos y practicaremos los puntos más importantes del capítulo o capítulos en el que nos enfoquemos para esa sesión.\n\nRecuerda, las sesiones son los jueves de cada quincena empezando a las 18:00 (UTC-5, Colombia y Ecuador Continental), o si estás en Galápagos a las 17:00 (UTC-6).\n\nAl participar en nuestros eventos recuerda que estás aceptando nuestro código de conducta, el cual nos ayuda a crear un espacio amable y seguro para aprender: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish",
+    "status": "PAST",
+    "dateTime": "2021-08-05T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-barranquilla/events/279722858/",
+    "featuredEventPhoto": {
+      "id": "497797347",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/1/e/3/highres_497797347.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/1/e/3/600_497797347.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/1/e/3/thumb_497797347.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 13,
+      "waitlistCount": 0,
+      "totalCount": 13
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barranquilla",
+      "urlname": "rladies-barranquilla"
+    },
+    "createdTime": "2021-07-26T17:18:41-04:00"
+  },
+  {
+    "id": "279362833",
+    "title": "Club de lectura R para Ciencia de Datos (Wickham & Grolemund) - Sesión 6",
+    "description": "Las R-Ladies de Barranquilla (COL), Galápagos, Guayaquil y Milagro (ECU) nos hemos unido para traerte un club de lectura basado en el libro R para Ciencia de Datos de Wickham y Grolemund. Este libro está disponible en español gracias al esfuerzo de la comunidad R latinoamericana y puede ser accedido de manera libre aquí: https://es.r4ds.hadley.nz.\n\nEn esta cuarta sesión de nuestro club de lectura, María Isabel Arrieta y Viviana Florez Camacho (R-Ladies Barranquilla) hablarán sobre diferentes tipos de datos. Esto incluye a los capítulos 12 (Datos ordenados) y 13 (Datos relacionales).\n\nEste club de lectura incluirá varias sesiones quincenales que se llevarán a cabo a través de Zoom. Cada sesión durará dos horas durante las cuales discutiremos y practicaremos los puntos más importantes del capítulo o capítulos en el que nos enfoquemos para esa sesión.\n\nRecuerda, las sesiones son los jueves de cada quincena empezando a las 18:00 (UTC-5, Colombia y Ecuador Continental), o si estás en Galápagos a las 17:00 (UTC-6).\n\nAl participar en nuestros eventos recuerda que estás aceptando nuestro código de conducta, el cual nos ayuda a crear un espacio amable y seguro para aprender:\nhttps://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish",
+    "status": "PAST",
+    "dateTime": "2021-07-22T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-barranquilla/events/279362833/",
+    "featuredEventPhoto": {
+      "id": "497404706",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/2/6/2/highres_497404706.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/2/6/2/600_497404706.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/2/6/2/thumb_497404706.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 10,
+      "waitlistCount": 0,
+      "totalCount": 10
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barranquilla",
+      "urlname": "rladies-barranquilla"
+    },
+    "createdTime": "2021-07-09T09:09:41-04:00"
+  },
+  {
+    "id": "279097758",
+    "title": "Club de lectura R para Ciencia de Datos (Wickham & Grolemund) - Sesión 5",
+    "description": "Las R-Ladies de Barranquilla (COL), Galápagos, Guayaquil y Milagro (ECU) nos hemos unido para traerte un club de lectura basado en el libro R para Ciencia de Datos de Wickham y Grolemund. Este libro está disponible en español gracias al esfuerzo de la comunidad R latinoamericana y puede ser accedido de manera libre aquí: https://es.r4ds.hadley.nz.\n\nEn esta cuarta sesión de nuestro club de lectura, Danisse Carrascal y Mary Jane Rivero (R-Ladies Barranquilla) hablarán sobre Tibbles e importación de datos. Esto incluye a los capítulos 10 (Tibble) y 11 (Importación de datos).\n\nEste club de lectura incluirá varias sesiones quincenales que se llevarán a cabo a través de Zoom. Cada sesión durará dos horas durante las cuales discutiremos y practicaremos los puntos más importantes del capítulo o capítulos en el que nos enfoquemos para esa sesión.\n\nRecuerda, las sesiones son los jueves de cada quincena empezando a las 18:00 (UTC-5, Colombia y Ecuador Continental), o si estás en Galápagos a las 17:00 (UTC-6).\n\nAl participar en nuestros eventos recuerda que estás aceptando nuestro código de conducta, el cual nos ayuda a crear un espacio amable y seguro para aprender: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish",
+    "status": "PAST",
+    "dateTime": "2021-07-08T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-barranquilla/events/279097758/",
+    "featuredEventPhoto": {
+      "id": "497161589",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/3/5/highres_497161589.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/3/5/600_497161589.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/3/5/thumb_497161589.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 12,
+      "waitlistCount": 0,
+      "totalCount": 12
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barranquilla",
+      "urlname": "rladies-barranquilla"
+    },
+    "createdTime": "2021-06-26T21:16:55-04:00"
+  },
+  {
+    "id": "278829846",
+    "title": "Club de lectura R para Ciencia de Datos (Wickham & Grolemund) - Sesión 4",
+    "description": "Las R-Ladies de Barranquilla (COL), Galápagos, Guayaquil y Milagro (ECU) nos hemos unido para traerte un club de lectura basado en el libro R para Ciencia de Datos de Wickham y Grolemund. Este libro está disponible en español gracias al esfuerzo de la comunidad R latinoamericana y puede ser accedido de manera libre aquí: https://es.r4ds.hadley.nz.\n\nEn esta cuarta sesión de nuestro club de lectura, Denisse (R-Ladies Galápagos) hablará sobre cómo escribir funciones para automatizar flujos de trabajo. Esto incluye al capítulo 21 (Iteración).\n\nEste club de lectura incluirá varias sesiones quincenales que se llevarán a cabo a través de Zoom. Cada sesión durará dos horas durante las cuales discutiremos y practicaremos los puntos más importantes del capítulo o capítulos en el que nos enfoquemos para esa sesión.\n\nRecuerda, las sesiones son los jueves de cada quincena empezando a las 18:00 (UTC-5, Colombia y Ecuador Continental), o si estás en Galápagos a las 17:00 (UTC-6).\n\nAl participar en nuestros eventos recuerda que estás aceptando nuestro código de conducta, el cual nos ayuda a crear un espacio amable y seguro para aprender: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish",
+    "status": "PAST",
+    "dateTime": "2021-06-24T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-barranquilla/events/278829846/",
+    "featuredEventPhoto": {
+      "id": "496919270",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/e/7/8/6/highres_496919270.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/e/7/8/6/600_496919270.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/7/8/6/thumb_496919270.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 12,
+      "waitlistCount": 0,
+      "totalCount": 12
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barranquilla",
+      "urlname": "rladies-barranquilla"
+    },
+    "createdTime": "2021-06-14T11:46:51-04:00"
+  },
+  {
+    "id": "278477142",
+    "title": "Club de lectura R para Ciencia de Datos (Wickham & Grolemund) - Sesión 3",
+    "description": "Las R-Ladies de Barranquilla (COL), Galápagos, Guayaquil y Milagro (ECU) nos hemos unido para traerte un club de lectura basado en el libro R para Ciencia de Datos de Wickham y Grolemund. Este libro está disponible en español gracias al esfuerzo de la comunidad R latinoamericana y puede ser accedido de manera libre aquí: https://es.r4ds.hadley.nz.\n\nEn esta tercera sesión de nuestro club de lectura, Isabel Vásquez (R-Ladies Barranquilla) hablará sobre cómo escribir funciones para automatizar flujos de trabajo. Esto incluye al capítulo 19 (Funciones).\n\nEste club de lectura incluirá varias sesiones quincenales que se llevarán a cabo a través de Zoom. Cada sesión durará dos horas durante las cuales discutiremos y practicaremos los puntos más importantes del capítulo o capítulos en el que nos enfoquemos para esa sesión.\n\nRecuerda, las sesiones son los jueves de cada quincena empezando a las 18:00 (UTC-5, Colombia y Ecuador Continental), o si estás en Galápagos a las 17:00 (UTC-6).\n\nAl participar en nuestros eventos recuerda que estás aceptando nuestro código de conducta, el cual nos ayuda a crear un espacio amable y seguro para aprender: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish",
+    "status": "PAST",
+    "dateTime": "2021-06-10T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-barranquilla/events/278477142/",
+    "featuredEventPhoto": {
+      "id": "496559864",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/e/9/d/8/highres_496559864.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/e/9/d/8/600_496559864.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/9/d/8/thumb_496559864.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 15,
+      "waitlistCount": 0,
+      "totalCount": 15
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barranquilla",
+      "urlname": "rladies-barranquilla"
+    },
+    "createdTime": "2021-05-28T16:11:05-04:00"
+  },
+  {
+    "id": "278189922",
+    "title": "Club de lectura R para Ciencia de Datos (Wickham & Grolemund) - Sesión 2",
+    "description": "Las R-Ladies de Barranquilla (COL), Galápagos, Guayaquil y Milagro (ECU) nos hemos unido para traerte un club de lectura basado en el libro R para Ciencia de Datos de Wickham y Grolemund. Este libro está disponible en español gracias al esfuerzo de la comunidad R latinoamericana y puede ser accedido de manera libre aquí: https://es.r4ds.hadley.nz.\n\nEn esta segunda sesión de nuestro club de lectura, Denisse (R-Ladies Galápagos) hablará sobre cómo trabajar con fechas y horas en R, y también qué son los pipes y cómo utilizarlos. Esto incluye al capítulo 16 (Fechas y horas) y el capítulo 18 (Pipes).\n\nEste club de lectura incluirá varias sesiones quincenales que se llevarán a cabo a través de Zoom. Cada sesión durará dos horas durante las cuales discutiremos y practicaremos los puntos más importantes del capítulo o capítulos en el que nos enfoquemos para esa sesión.\n\nRecuerda, las sesiones son los jueves de cada quincena empezando a las 18:00 (UTC-5, Colombia y Ecuador Continental), o si estás en Galápagos a las 17:00 (UTC-6).\n\nAl participar en nuestros eventos recuerda que estás aceptando nuestro código de conducta, el cual nos ayuda a crear un espacio amable y seguro para aprender: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish",
+    "status": "PAST",
+    "dateTime": "2021-05-27T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-barranquilla/events/278189922/",
+    "featuredEventPhoto": {
+      "id": "496283774",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/c/d/e/highres_496283774.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/c/d/e/600_496283774.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/c/d/e/thumb_496283774.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 17,
+      "waitlistCount": 0,
+      "totalCount": 17
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barranquilla",
+      "urlname": "rladies-barranquilla"
+    },
+    "createdTime": "2021-05-14T19:34:12-04:00"
+  },
+  {
+    "id": "277925336",
+    "title": "Club de lectura: R para Ciencia de Datos (Wickham & Grolemund)",
+    "description": "Las R-Ladies de Barranquilla (COL), Galápagos, Guayaquil y Milagro (ECU) nos hemos unido para traerte un club de lectura basado en el libro R para Ciencia de Datos de Wickham y Grolemund. Este libro está disponible en español gracias al esfuerzo de la comunidad R latinoamericana y puede ser accedido de manera libre aquí: https://es.r4ds.hadley.nz. Estamos felices de crear este grupo de lectura y aprender sobre cómo hacer ciencia de datos, lo cual incluye desde la importación de datos a R, manipular su estructura y transformarlos, hasta visualizarlos e incluso crear modelos y comunicar resultados. Este club de lectura incluirá varias sesiones quincenales que se llevarán a cabo los jueves empezando el 13 de mayo a través de Zoom. Cada sesión durará dos horas durante las cuales discutiremos y practicaremos los puntos más importantes del capítulo en el que nos enfoquemos para esa sesión. Durante esta primera sesión Danisse Carrascal y Mary Jane Rivero (R-Ladies Barranquilla) hablarán sobre los tipos de datos y estructuras que utilizaremos en R. Esto incluye al capítulo 14 (Cadenas de caracteres), capítulo 15 (Factores), y el capítulo 20 (Vectores). Recuerda, las sesiones son los jueves de cada quincena desde el xx de mayo, y empiezan a las 18:00 (UTC-5, Colombia y Ecuador Continental), o si estás en Galápagos a las 17:00 (UTC-6). Al participar en nuestros eventos recuerda que estás aceptando nuestro código de conducta, el cual nos ayuda a crear un espacio amable y seguro para aprender: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish",
+    "status": "PAST",
+    "dateTime": "2021-05-13T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-barranquilla/events/277925336/",
+    "featuredEventPhoto": {
+      "id": "496046666",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/8/2/a/highres_496046666.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/8/2/a/600_496046666.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/8/2/a/thumb_496046666.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 19,
+      "waitlistCount": 0,
+      "totalCount": 19
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barranquilla",
+      "urlname": "rladies-barranquilla"
+    },
+    "createdTime": "2021-05-01T16:10:33-04:00"
+  },
+  {
+    "id": "289887142",
+    "title": "Creando hermosas tablas en RStudio ",
+    "description": "En este taller crearemos hermosas tablas con ayuda de los paquetes: gt, Dt y reactable del software R-Studio. Para esta sesión es necesario que tengas a la mano tu computador y tener instalado R, RStudio y los paquetes mencionados. Para instalar el software en tu computador te invitamos a ingresar en el siguiente link: https://cran.rstudio.com/ El taller se realizará por la plataforma virtual Zoom.\n\nEl link de zoom lo estaremos compartiendo horas antes de la sesión.\n\n¡Te invitamos a participar, no te pierdas de esta gran oportunidad! R-Ladies Barranquilla. 💜👩‍💻",
+    "status": "PAST",
+    "dateTime": "2022-12-14T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-barranquilla/events/289887142/",
+    "featuredEventPhoto": {
+      "id": "508750858",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/a/6/a/highres_508750858.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/a/6/a/600_508750858.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/a/6/a/thumb_508750858.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 56,
+      "waitlistCount": 0,
+      "totalCount": 56
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barranquilla",
+      "urlname": "rladies-barranquilla"
+    },
+    "createdTime": "2022-11-21T08:52:44-05:00"
+  },
+  {
+    "id": "286739304",
+    "title": "Club de lectura \"Efficient R Programming\" (Gillespie & Lovelace)",
+    "description": "El Semillero de R de la Universidad Nacional de Colombia, las R-Ladies de Medellín, Barranquilla (COL) y Galápagos (ECU) nos hemos unido para traerte un Club de Lectura del libro “Efficient R programming” de Colin Gillespie y Robin Lovelace (https://csgillespie.github.io/efficientR/). Las sesiones del Club se llevarán a cabo a través de Zoom, tendrán una duración de una hora y se realizarán de manera quincenal. Durante las sesiones discutiremos y practicaremos los puntos más importantes de cada capítulo. En la novena sesión del Club de Lectura, Freddy Hernández del semillero de R de la Unal, nos hablará sobre el capítulo 7 del libro Efficient R Programming. Recuerda que al participar en nuestros eventos estás aceptando nuestro código de conducta, el cual nos ayuda a crear un espacio amable y seguro para aprender: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\nFecha: 21 de junio de 2022 Hora: 18:00 - 19:30 (UTC-5, Colombia y Ecuador Continental), 17:00 - 18:30(UTC-6)\nEspacio virtual: https://udea.zoom.us/j/92691196249",
+    "status": "PAST",
+    "dateTime": "2022-07-05T18:00:00-05:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-barranquilla/events/286739304/",
+    "featuredEventPhoto": {
+      "id": "505044805",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/0/e/5/highres_505044805.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/0/e/5/600_505044805.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/0/e/5/thumb_505044805.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 11,
+      "waitlistCount": 0,
+      "totalCount": 11
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barranquilla",
+      "urlname": "rladies-barranquilla"
+    },
+    "createdTime": "2022-06-22T18:53:20-04:00"
+  },
+  {
+    "id": "286554246",
+    "title": "Club de lectura \"Efficient R Programming\" (Gillespie & Lovelace)",
+    "description": "El Semillero de R de la Universidad Nacional de Colombia, las R-Ladies de Medellín, Barranquilla (COL) y Galápagos (ECU) nos hemos unido para traerte un Club de Lectura del libro “Efficient R programming” de Colin Gillespie y Robin Lovelace (https://csgillespie.github.io/efficientR/). Las sesiones del Club se llevarán a cabo a través de Zoom, tendrán una duración de una hora y se realizarán de manera quincenal. Durante las sesiones discutiremos y practicaremos los puntos más importantes de cada capítulo. En la octava sesión del Club de Lectura, Danisse Carrascal y Denisse Fierro de R-Ladies Barranquilla y Galápagos, nos hablarán sobre los capítulos 6.4-6.7 del libro Efficient R Programming. Recuerda que al participar en nuestros eventos estás aceptando nuestro código de conducta, el cual nos ayuda a crear un espacio amable y seguro para aprender: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\n\nFecha: 21 de junio de 2022 Hora: 18:00 - 19:30 (UTC-5, Colombia y Ecuador Continental), 17:00 - 18:30(UTC-6)\n\nEspacio virtual: https://udea.zoom.us/j/92691196249",
+    "status": "PAST",
+    "dateTime": "2022-06-21T18:00:00-05:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-barranquilla/events/286554246/",
+    "featuredEventPhoto": {
+      "id": "504832093",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/b/7/d/highres_504832093.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/b/7/d/600_504832093.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/b/7/d/thumb_504832093.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 13,
+      "waitlistCount": 0,
+      "totalCount": 13
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barranquilla",
+      "urlname": "rladies-barranquilla"
+    },
+    "createdTime": "2022-06-13T16:45:43-04:00"
+  },
+  {
+    "id": "286311123",
+    "title": "Club de lectura \"Efficient R Programming\" (Gillespie & Lovelace)",
+    "description": "El Semillero de R de la Universidad Nacional de Colombia, las R-Ladies de Medellín, Barranquilla (COL) y Galápagos (ECU) nos hemos unido para traerte un Club de Lectura del libro “Efficient R programming” de Colin Gillespie y Robin Lovelace (https://csgillespie.github.io/efficientR/). Las sesiones del Club se llevarán a cabo a través de Zoom, tendrán una duración de una hora y se realizarán de manera quincenal. Durante las sesiones discutiremos y practicaremos los puntos más importantes de cada capítulo. En la sexta sesión del Club de Lectura, Carmen Patiño y Stephany Lobo de R-Ladies Medellín, nos hablarán sobre el capítulo 5: Efficient input/output del libro Efficient R Programming. Recuerda que al participar en nuestros eventos estás aceptando nuestro código de conducta, el cual nos ayuda a crear un espacio amable y seguro para aprender: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\n Fecha: 08 de mayo de 2022 Hora: 18:00 - 19:00 (UTC-5, Colombia y Ecuador Continental), 17:00 - 18:00(UTC-6)\n\nEspacio virtual: https://udea.zoom.us/j/92691196249",
+    "status": "PAST",
+    "dateTime": "2022-06-08T18:00:00-05:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-barranquilla/events/286311123/",
+    "featuredEventPhoto": {
+      "id": "504534528",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/5/0/0/highres_504534528.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/5/0/0/600_504534528.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/5/0/0/thumb_504534528.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 9,
+      "waitlistCount": 0,
+      "totalCount": 9
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barranquilla",
+      "urlname": "rladies-barranquilla"
+    },
+    "createdTime": "2022-06-02T12:36:40-04:00"
+  },
+  {
+    "id": "286149752",
+    "title": "Club de lectura \"Efficient R Programming\" (Gillespie & Lovelace)",
+    "description": "El Semillero de R de la Universidad Nacional de Colombia, las R-Ladies de Medellín, Barranquilla (COL) y Galápagos (ECU) nos hemos unido para traerte un Club de Lectura del libro “Efficient R programming” de Colin Gillespie y Robin Lovelace (https://csgillespie.github.io/efficientR/). Las sesiones del Club se llevarán a cabo a través de Zoom, tendrán una duración de una hora y se realizarán de manera quincenal. Durante las sesiones discutiremos y practicaremos los puntos más importantes de cada capítulo. En la sexta sesión del Club de Lectura, Carmen Patiño y Stephany Lobo de R-Ladies Medellín, nos hablarán sobre el capítulo 5: Efficient input/output del libro Efficient R Programming. Recuerda que al participar en nuestros eventos estás aceptando nuestro código de conducta, el cual nos ayuda a crear un espacio amable y seguro para aprender: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish Fecha: 31 de mayo de 2022 Hora: 18:00 - 19:00 (UTC-5, Colombia y Ecuador Continental), 17:00 - 18:00(UTC-6) Espacio virtual: https://udea.zoom.us/j/92691196249",
+    "status": "PAST",
+    "dateTime": "2022-05-31T18:00:00-05:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-barranquilla/events/286149752/",
+    "featuredEventPhoto": {
+      "id": "504357481",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/e/0/8/9/highres_504357481.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/e/0/8/9/600_504357481.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/0/8/9/thumb_504357481.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 7,
+      "waitlistCount": 0,
+      "totalCount": 7
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barranquilla",
+      "urlname": "rladies-barranquilla"
+    },
+    "createdTime": "2022-05-25T21:48:35-04:00"
+  },
+  {
+    "id": "285831639",
+    "title": "Club de lectura \"Efficient R Programming\" (Gillespie & Lovelace)",
+    "description": "El Semillero de R de la Universidad Nacional de Colombia, las R-Ladies de Medellín, Barranquilla (COL) y Galápagos (ECU) nos hemos unido para traerte un Club de Lectura del libro “Efficient R programming” de Colin Gillespie y Robin Lovelace (https://csgillespie.github.io/efficientR/). Las sesiones del Club se llevarán a cabo a través de Zoom, tendrán una duración de una hora y se realizarán de manera quincenal. Durante las sesiones discutiremos y practicaremos los puntos más importantes de cada capítulo. En la quinta sesión del Club de Lectura, Denisse Fierro y Olga Usuga de R-Ladies Galápagos y R-Ladies Medellín, nos hablarán sobre el flujo de trabajo eficiente con R (Capítulo 4 – Efficient Programming). Recuerda que al participar en nuestros eventos estás aceptando nuestro código de conducta, el cual nos ayuda a crear un espacio amable y seguro para aprender: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish Fecha: 3 de mayo de 2022 Hora: 18:00 - 19:00 (UTC-5, Colombia y Ecuador Continental), 17:00 - 18:00(UTC-6) Espacio virtual: https://udea.zoom.us/j/92691196249",
+    "status": "PAST",
+    "dateTime": "2022-05-17T18:00:00-05:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-barranquilla/events/285831639/",
+    "featuredEventPhoto": {
+      "id": "504023425",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/b/8/1/highres_504023425.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/b/8/1/600_504023425.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/b/8/1/thumb_504023425.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 10,
+      "waitlistCount": 0,
+      "totalCount": 10
+    },
+    "venues": [],
+    "group": {
+      "name": "R-Ladies Barranquilla",
+      "urlname": "rladies-barranquilla"
+    },
+    "createdTime": "2022-05-10T19:56:28-04:00"
+  },
+  {
+    "id": "285663278",
+    "title": "Club de lectura \"Efficient R Programming\" (Gillespie & Lovelace)",
+    "description": "El Semillero de R de la Universidad Nacional de Colombia, las R-Ladies de Medellín, Barranquilla (COL) y Galápagos (ECU) nos hemos unido para traerte un Club de Lectura del libro “Efficient R programming” de Colin Gillespie y Robin Lovelace (https://csgillespie.github.io/efficientR/). Las sesiones del Club se llevarán a cabo a través de Zoom, tendrán una duración de una hora y se realizarán de manera quincenal. Durante las sesiones discutiremos y practicaremos los puntos más importantes de cada capítulo. En la cuarta sesión del Club de Lectura, Sara Garcés y Alejandra Londoño de R-Ladies Medellín, nos hablarán sobre la clave para la programación eficiente con R (Capítulo 3 – Efficient Programming). Recuerda que al participar en nuestros eventos estás aceptando nuestro código de conducta, el cual nos ayuda a crear un espacio amable y seguro para aprender: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish Fecha: 3 de mayo de 2022 Hora: 18:00 - 19:00 (UTC-5, Colombia y Ecuador Continental), 17:00 - 18:00(UTC-6) Espacio virtual: https://udea.zoom.us/j/92691196249",
+    "status": "PAST",
+    "dateTime": "2022-05-03T18:00:00-05:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-barranquilla/events/285663278/",
+    "featuredEventPhoto": {
+      "id": "503842026",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/6/0/a/highres_503842026.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/6/0/a/600_503842026.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/6/0/a/thumb_503842026.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barranquilla",
+      "urlname": "rladies-barranquilla"
+    },
+    "createdTime": "2022-05-02T19:42:04-04:00"
+  },
+  {
+    "id": "285092206",
+    "title": "Club de lectura \"Efficient R Programming\" (Gillespie & Lovelace)",
+    "description": "El Semillero de R de la Universidad Nacional de Colombia, las R-Ladies de Medellín, Barranquilla (COL) y Galápagos (ECU) nos hemos unido para traerte un Club de Lectura del libro “Efficient R programming” de Colin Gillespie y Robin Lovelace (https://csgillespie.github.io/efficientR/).\nLas sesiones del Club se llevarán a cabo a través de Zoom, tendrán una duración de una hora y se realizarán de manera quincenal. Durante las sesiones discutiremos y practicaremos los puntos más importantes de cada capítulo.\nEn esta segunda sesión del Club de Lectura, Sara Garcés y Alejandra Londoño de R-Ladies Medellín, nos hablarán sobre el capítulo 2 del libro: \"Efficient Set-Up\".\nRecuerda que al participar en nuestros eventos estás aceptando nuestro código de conducta, el cual nos ayuda a crear un espacio amable y seguro para aprender: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\nTe esperamos...\nFecha: 19 de abril de 2022\nHora: 18:00 - 19:00 (UTC-5, Colombia y Ecuador Continental), 17:00 - 18:00(UTC-6)",
+    "status": "PAST",
+    "dateTime": "2022-04-19T18:00:00-05:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-barranquilla/events/285092206/",
+    "featuredEventPhoto": {
+      "id": "503197746",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/3/7/2/highres_503197746.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/3/7/2/600_503197746.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/3/7/2/thumb_503197746.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 13,
+      "waitlistCount": 0,
+      "totalCount": 13
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barranquilla",
+      "urlname": "rladies-barranquilla"
+    },
+    "createdTime": "2022-04-05T20:06:08-04:00"
+  },
+  {
+    "id": "284909766",
+    "title": "Club de lectura Efficient R Programming.",
+    "description": "El Semillero de R de la Universidad Nacional de Colombia, las R-Ladies de Medellín, Barranquilla (COL) y Galápagos (ECU) nos hemos unido para traerte un Club de Lectura del libro “Efficient R programming” de Colin Gillespie y Robin Lovelace (https://csgillespie.github.io/efficientR/).\nLas sesiones del Club se llevarán a cabo a través de Zoom, tendrán una duración de una hora y se realizarán de manera quincenal. Durante las sesiones discutiremos y practicaremos los puntos más importantes de cada capítulo.\nEn esta primera sesión del Club de Lectura, Olga Cecilia Usuga Manco de R-Ladies Medellín y Freddy Hernández Barajas del Semillero de R de la Universidad Nacional de Colombia, nos hablarán sobre los elementos básicos que debemos considerar para escribir de forma eficiente nuestro código en R (Capítulo 1 – Introduction).\nRecuerda que al participar en nuestros eventos estás aceptando nuestro código de conducta, el cual nos ayuda a crear un espacio amable y seguro para aprender: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\nTe esperamos...\nFecha: 29 de marzo de 2022\nHora: 18:00 - 19:00 (UTC-5, Colombia y Ecuador Continental), 17:00 - 18:00(UTC-6)\nEspacio virtual: https://udea.zoom.us/j/92691196249",
+    "status": "PAST",
+    "dateTime": "2022-03-29T18:00:00-05:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-barranquilla/events/284909766/",
+    "featuredEventPhoto": {
+      "id": "503005268",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/2/b/4/highres_503005268.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/2/b/4/600_503005268.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/2/b/4/thumb_503005268.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 7,
+      "waitlistCount": 0,
+      "totalCount": 7
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barranquilla",
+      "urlname": "rladies-barranquilla"
+    },
+    "createdTime": "2022-03-28T13:47:45-04:00"
+  },
+  {
+    "id": "293027309",
+    "title": "Creando tablas en RStudio Parte 2",
+    "description": "En esta segunda sesión continuaremos crearemos hermosas tablas con ayuda de los paquetes: gt, Dt y reactable del software R-Studio. Es necesario que tengas a la mano tu computador y tener instalado R, RStudio y los paquetes mencionados. Para instalar el software en tu computador te invitamos a ingresar en el siguiente link: https://cran.rstudio.com/ El taller se realizará por la plataforma virtual Zoom.\n\nEl link de zoom lo estaremos compartiendo horas antes de la sesión.\n\n¡Te invitamos a participar, no te pierdas de esta gran oportunidad! R-Ladies Barranquilla. 💜👩‍💻",
+    "status": "PAST",
+    "dateTime": "2023-04-27T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-barranquilla/events/293027309/",
+    "featuredEventPhoto": {
+      "id": "512239996",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/e/1/c/highres_512239996.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/e/1/c/600_512239996.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/e/1/c/thumb_512239996.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 28,
+      "waitlistCount": 0,
+      "totalCount": 28
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barranquilla",
+      "urlname": "rladies-barranquilla"
+    },
+    "createdTime": "2023-04-20T15:10:58-04:00"
+  },
+  {
+    "id": "304699901",
+    "title": "Club de lectura Fundamentos de ciencia de datos con R - Sesión 11",
+    "description": "¡Nos emociona invitarles a nuestro club de lectura! 📚 Para esta edición, utilizaremos el libro Fundamentos de Ciencia de Datos con R, disponible aquí.\nEn la undécima sesión del club de lectura, Luis Casas Ballestas, analista de datos, nos hablará sobre el capítulo 46.\nRecuerda que al participar en nuestros eventos, aceptas nuestro código de conducta, el cual nos ayuda a crear un espacio amable y seguro para aprender.\n📅Fecha: 28 de noviembre de 2024\n⏰Hora: 18:00 - 20:00 (UTC-5, Colombia y Ecuador Continental)\nTe sugerimos tener a la mano tu computadora con R y RStudio instalados. Puedes descargar e instalar el software desde este enlace.\nEl link de meet se encuentra publicado en este evento. No te olvides de agendarlo en tu calendario.\n¡Te invitamos a participar! ¡No te pierdas esta gran oportunidad!\nR-Ladies Barranquilla 💜👩‍💻",
+    "status": "PAST",
+    "dateTime": "2024-11-28T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-barranquilla/events/304699901/",
+    "featuredEventPhoto": {
+      "id": "524828630",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/1/b/6/highres_524828630.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/1/b/6/600_524828630.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/1/b/6/thumb_524828630.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 7,
+      "waitlistCount": 0,
+      "totalCount": 7
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barranquilla",
+      "urlname": "rladies-barranquilla"
+    },
+    "createdTime": "2024-11-21T21:23:02-05:00"
+  },
+  {
+    "id": "304068553",
+    "title": "Reprogramado: Club de lectura Fundamentos de ciencia de datos con R - Sesión 10",
+    "description": "¡Nos emociona invitarles a nuestro club de lectura! 📚 Para esta edición, utilizaremos el libro **Fundamentos de Ciencia de Datos con R**, disponible [aquí](https://cdr-book.github.io/index.html).\nEn la décima sesión del club de lectura, José Navarro, científico de datos, nos hablará sobre el capítulo 36,9.\nRecuerda que al participar en nuestros eventos, aceptas nuestro [código de conducta](https://rladies.org/coc/), el cual nos ayuda a crear un espacio amable y seguro para aprender.\n**📅Fecha:** 31 de octubre de 2024\n**⏰Hora:** 18:00 - 20:00 (UTC-5, Colombia y Ecuador Continental)\n\nTe sugerimos tener a la mano tu computadora con R y RStudio instalados. Puedes descargar e instalar el software desde [este enlace](https://cran.rstudio.com/).\nEl link de meet se encuentra publicado en este evento. No te olvides de agendarlo en tu calendario.\n¡Te invitamos a participar! ¡No te pierdas esta gran oportunidad!\n**R-Ladies Barranquilla** 💜👩‍💻",
+    "status": "PAST",
+    "dateTime": "2024-10-31T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-barranquilla/events/304068553/",
+    "featuredEventPhoto": {
+      "id": "524385347",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/1/2/3/highres_524385347.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/1/2/3/600_524385347.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/1/2/3/thumb_524385347.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 17,
+      "waitlistCount": 0,
+      "totalCount": 17
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barranquilla",
+      "urlname": "rladies-barranquilla"
+    },
+    "createdTime": "2024-10-17T19:25:31-04:00"
+  },
+  {
+    "id": "304115515",
+    "title": "Club de lectura Fundamentos de ciencia de datos con R - Sesión 9",
+    "description": "¡Nos emociona invitarles a nuestro club de lectura! 📚 Para esta edición, utilizaremos el libro **Fundamentos de Ciencia de Datos con R**, disponible [aquí](https://cdr-book.github.io/index.html).\nEn la novena sesión del club de lectura, Linda Cabrera, analista de datos y coorganizadora RLadies Guayaquil, nos hablará sobre el capítulo 38.\nRecuerda que al participar en nuestros eventos, aceptas nuestro [código de conducta](https://rladies.org/coc/), el cual nos ayuda a crear un espacio amable y seguro para aprender.\n**📅Fecha:** 26 de octubre de 2024\n**⏰Hora:** 10:00 - 12:00 (UTC-5, Colombia y Ecuador Continental)\n\nTe sugerimos tener a la mano tu computadora con R y RStudio instalados. Puedes descargar e instalar el software desde [este enlace](https://cran.rstudio.com/).\nEl link de meet se encuentra publicado en este evento. No te olvides de agendarlo en tu calendario.\n¡Te invitamos a participar! ¡No te pierdas esta gran oportunidad!\n**R-Ladies Barranquilla** 💜👩‍💻",
+    "status": "PAST",
+    "dateTime": "2024-10-26T10:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-barranquilla/events/304115515/",
+    "featuredEventPhoto": {
+      "id": "524130258",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/6/3/2/highres_524130258.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/6/3/2/600_524130258.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/6/3/2/thumb_524130258.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 11,
+      "waitlistCount": 0,
+      "totalCount": 11
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barranquilla",
+      "urlname": "rladies-barranquilla"
+    },
+    "createdTime": "2024-10-20T16:05:55-04:00"
+  },
+  {
+    "id": "304068522",
+    "title": "Club de lectura Fundamentos de ciencia de datos con R - Sesión 9",
+    "description": "¡Nos emociona invitarles a nuestro club de lectura! 📚 Para esta edición, utilizaremos el libro **Fundamentos de Ciencia de Datos con R**, disponible [aquí](https://cdr-book.github.io/index.html).\nEn la novena sesión del club de lectura, Linda Cabrera, analista de datos y coorganizadora RLadies Guayaquil, nos hablará sobre el capítulo 38.\nRecuerda que al participar en nuestros eventos, aceptas nuestro [código de conducta](https://rladies.org/coc/), el cual nos ayuda a crear un espacio amable y seguro para aprender.\n**📅Fecha:** 26 de octubre de 2024\n**⏰Hora:** 10:00 - 12:00 (UTC-5, Colombia y Ecuador Continental)\n\nTe sugerimos tener a la mano tu computadora con R y RStudio instalados. Puedes descargar e instalar el software desde [este enlace](https://cran.rstudio.com/).\nEl link de meet se encuentra publicado en este evento. No te olvides de agendarlo en tu calendario.\n¡Te invitamos a participar! ¡No te pierdas esta gran oportunidad!\n**R-Ladies Barranquilla** 💜👩‍💻",
+    "status": "PAST",
+    "dateTime": "2024-10-18T10:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-barranquilla/events/304068522/",
+    "featuredEventPhoto": {
+      "id": "524130258",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/6/3/2/highres_524130258.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/6/3/2/600_524130258.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/6/3/2/thumb_524130258.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 8,
+      "waitlistCount": 0,
+      "totalCount": 8
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barranquilla",
+      "urlname": "rladies-barranquilla"
+    },
+    "createdTime": "2024-10-17T19:22:07-04:00"
+  },
+  {
+    "id": "303517598",
+    "title": "Club de lectura Fundamentos de ciencia de datos con R - Sesión 8",
+    "description": "¡Nos emociona invitarles a nuestro club de lectura! 📚 Para esta edición, utilizaremos el libro **Fundamentos de Ciencia de Datos con R**, disponible [aquí](https://cdr-book.github.io/index.html).\nEn la octava sesión del club de lectura, Daniel Bolivar, psicólogo y candidato a magister en ciencia de datos, nos hablará sobre los capítulos 30 y 31 del libro.\nRecuerda que al participar en nuestros eventos, aceptas nuestro [código de conducta](https://rladies.org/coc/), el cual nos ayuda a crear un espacio amable y seguro para aprender.\n**📅Fecha:** 25 de septiembre de 2024\n**⏰Hora:** 18:00 - 20:00 (UTC-5, Colombia y Ecuador Continental)\n\nTe sugerimos tener a la mano tu computadora con R y RStudio instalados. Puedes descargar e instalar el software desde [este enlace](https://cran.rstudio.com/).\nEl link de meet se encuentra publicado en este evento. No te olvides de agendarlo en tu calendario.\n¡Te invitamos a participar! ¡No te pierdas esta gran oportunidad!\n**R-Ladies Barranquilla** 💜👩‍💻",
+    "status": "PAST",
+    "dateTime": "2024-09-25T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-barranquilla/events/303517598/",
+    "featuredEventPhoto": {
+      "id": "523586699",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/8/4/b/highres_523586699.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/8/4/b/600_523586699.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/8/4/b/thumb_523586699.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 10,
+      "waitlistCount": 0,
+      "totalCount": 10
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barranquilla",
+      "urlname": "rladies-barranquilla"
+    },
+    "createdTime": "2024-09-18T21:26:56-04:00"
+  },
+  {
+    "id": "303215359",
+    "title": "Club de lectura Fundamentos de ciencia de datos con R - Sesión 6",
+    "description": "¡Nos emociona invitarles a nuestro club de lectura! 📚 Para esta edición, utilizaremos el libro **Fundamentos de Ciencia de Datos con R**, disponible [aquí](https://cdr-book.github.io/index.html).\nEn la séptima sesión del club de lectura, José Navarro, científico de datos, nos hablará sobre los capítulos 24,26 y 29 del libro.\nRecuerda que al participar en nuestros eventos, aceptas nuestro [código de conducta](https://rladies.org/coc/), el cual nos ayuda a crear un espacio amable y seguro para aprender.\n**📅Fecha:** 10 de septiembre de 2024\n**⏰Hora:** 18:00 - 20:00 (UTC-5, Colombia y Ecuador Continental)\n\nTe sugerimos tener a la mano tu computadora con R y RStudio instalados. Puedes descargar e instalar el software desde [este enlace](https://cran.rstudio.com/).\nEl link de meet se encuentra publicado en este evento. No te olvides de agendarlo en tu calendario.\n¡Te invitamos a participar! ¡No te pierdas esta gran oportunidad!\n**R-Ladies Barranquilla** 💜👩‍💻",
+    "status": "PAST",
+    "dateTime": "2024-09-10T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-barranquilla/events/303215359/",
+    "featuredEventPhoto": {
+      "id": "523302670",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/6/a/e/highres_523302670.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/6/a/e/600_523302670.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/6/a/e/thumb_523302670.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 22,
+      "waitlistCount": 0,
+      "totalCount": 22
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barranquilla",
+      "urlname": "rladies-barranquilla"
+    },
+    "createdTime": "2024-09-03T12:40:29-04:00"
+  },
+  {
+    "id": "302979717",
+    "title": "Club de lectura Fundamentos de ciencia de datos con R - Sesión 6",
+    "description": "¡Nos emociona invitarles a nuestro club de lectura! 📚 Para esta edición, utilizaremos el libro **Fundamentos de Ciencia de Datos con R**, disponible [aquí](https://cdr-book.github.io/index.html).\nEn la sexta sesión del club de lectura, Danisse Carrascal, ingeniera industrial, nos hablará sobre los capítulos 10 y 11 del libro.\nRecuerda que al participar en nuestros eventos, aceptas nuestro [código de conducta](https://rladies.org/coc/), el cual nos ayuda a crear un espacio amable y seguro para aprender.\n**📅Fecha:** 28 de agosto de 2024\n**⏰Hora:** 18:00 - 20:00 (UTC-5, Colombia y Ecuador Continental)\nTe sugerimos tener a la mano tu computadora con R y RStudio instalados. Puedes descargar e instalar el software desde [este enlace](https://cran.rstudio.com/).\nEl link de zoom se encuentra publicado en este evento. No te olvides de agendarlo en tu calendario.\n¡Te invitamos a participar! ¡No te pierdas esta gran oportunidad!\n**R-Ladies Barranquilla** 💜👩‍💻",
+    "status": "PAST",
+    "dateTime": "2024-08-28T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-barranquilla/events/302979717/",
+    "featuredEventPhoto": {
+      "id": "523063428",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/9/a/4/highres_523063428.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/9/a/4/600_523063428.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/9/a/4/thumb_523063428.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 9,
+      "waitlistCount": 0,
+      "totalCount": 9
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barranquilla",
+      "urlname": "rladies-barranquilla"
+    },
+    "createdTime": "2024-08-22T10:19:55-04:00"
+  },
+  {
+    "id": "302284315",
+    "title": "Club de lectura Fundamentos de ciencia de datos con R - Sesión 5",
+    "description": "¡Nos emociona invitarles a nuestro club de lectura! 📚 Para esta edición, utilizaremos el libro **Fundamentos de Ciencia de Datos con R**, disponible [aquí](https://cdr-book.github.io/index.html).\nEn la quinta sesión del club de lectura, Viviana Flórez y José Cuenca, científicos de datos, nos hablará sobre los capítulos 6 y7 del libro. Recuerda que al participar en nuestros eventos, aceptas nuestro código de conducta, el cual nos ayuda a crear un espacio amable y seguro para aprender.\n**📅Fecha:** 31 de julio de 2024\n**⏰Hora:** 18:00 - 20:00 (UTC-5, Colombia y Ecuador Continental)\n\nTe sugerimos tener a la mano tu computadora con R y RStudio instalados. Puedes descargar e instalar el software desde [este enlace](https://cran.rstudio.com/).\n\nEl link de zoom se encuentra publicado en este evento. No te olvides de agendarlo en tu calendario.\n¡Te invitamos a participar! ¡No te pierdas esta gran oportunidad!\n**R-Ladies Barranquilla** 💜👩‍💻",
+    "status": "PAST",
+    "dateTime": "2024-07-31T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-barranquilla/events/302284315/",
+    "featuredEventPhoto": {
+      "id": "522522563",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/6/4/3/highres_522522563.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/6/4/3/600_522522563.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/6/4/3/thumb_522522563.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 17,
+      "waitlistCount": 0,
+      "totalCount": 17
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barranquilla",
+      "urlname": "rladies-barranquilla"
+    },
+    "createdTime": "2024-07-16T22:56:49-04:00"
+  },
+  {
+    "id": "302078872",
+    "title": "Club de lectura Fundamentos de ciencia de datos con R - Sesión 4",
+    "description": "¡Nos emociona invitarles a nuestro club de lectura! 📚 Para esta edición, utilizaremos el libro **Fundamentos de Ciencia de Datos con R**, disponible [aquí](https://cdr-book.github.io/index.html).\nEn la tercera sesión del club de lectura, Denisse Fierro Arcos, científica marina ecuatoriana, nos hablará sobre el capítulo 5 del libro. Recuerda que al participar en nuestros eventos, aceptas nuestro código de conducta, el cual nos ayuda a crear un espacio amable y seguro para aprender.\n**📅Fecha:** 24 de julio de 2024\n**⏰Hora:** 18:00 - 20:00 (UTC-5, Colombia y Ecuador Continental)\n\nTe sugerimos tener a la mano tu computadora con R y RStudio instalados. Puedes descargar e instalar el software desde [este enlace](https://cran.rstudio.com/).\n\nEl link de zoom se encuentra publicado en este evento. No te olvides de agendarlo en tu calendario.\n¡Te invitamos a participar! ¡No te pierdas esta gran oportunidad!\n**R-Ladies Barranquilla** 💜👩‍💻",
+    "status": "PAST",
+    "dateTime": "2024-07-24T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-barranquilla/events/302078872/",
+    "featuredEventPhoto": {
+      "id": "522390942",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/8/d/e/highres_522390942.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/8/d/e/600_522390942.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/8/d/e/thumb_522390942.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 38,
+      "waitlistCount": 0,
+      "totalCount": 38
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barranquilla",
+      "urlname": "rladies-barranquilla"
+    },
+    "createdTime": "2024-07-06T10:20:49-04:00"
+  },
+  {
+    "id": "301933143",
+    "title": "Club de lectura Fundamentos de ciencia de datos con R.",
+    "description": "¡Nos emociona invitarles a nuestro club de lectura! 📚 Para esta edición, utilizaremos el libro **Fundamentos de Ciencia de Datos con R**, disponible [aquí](https://cdr-book.github.io/index.html).\nEn la tercera sesión del club de lectura, Azalea Reyes, integrante del capítulo de R-Ladies Querétaro, nos hablará sobre los capítulos 3.6.3 - 4 del libro. Recuerda que al participar en nuestros eventos, aceptas nuestro código de conducta, el cual nos ayuda a crear un espacio amable y seguro para aprender.\n**📅Fecha:** 04 de julio de 2024\n**⏰Hora:** 18:00 - 20:00 (UTC-5, Colombia y Ecuador Continental)\n\nTe sugerimos tener a la mano tu computadora con R y RStudio instalados. Puedes descargar e instalar el software desde [este enlace](https://cran.rstudio.com/).\n\nEl link de zoom se encuentra publicado en este evento.\n¡Te invitamos a participar! ¡No te pierdas esta gran oportunidad!\n**R-Ladies Barranquilla** 💜👩‍💻",
+    "status": "PAST",
+    "dateTime": "2024-07-04T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-barranquilla/events/301933143/",
+    "featuredEventPhoto": {
+      "id": "522007307",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/c/8/b/highres_522007307.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/c/8/b/600_522007307.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/c/8/b/thumb_522007307.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 14,
+      "waitlistCount": 0,
+      "totalCount": 14
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barranquilla",
+      "urlname": "rladies-barranquilla"
+    },
+    "createdTime": "2024-06-28T22:10:54-04:00"
+  },
+  {
+    "id": "301643454",
+    "title": "Club de lectura Fundamentos de ciencia de datos con R.",
+    "description": "¡Nos emociona invitarles a nuestro club de lectura! 📚 Para esta edición, utilizaremos el libro **Fundamentos de Ciencia de Datos con R**, disponible [aquí](https://cdr-book.github.io/index.html).\nEn la segunda sesión del club de lectura, Danisse Carrascal y Mary Jane Rivero, integrantes del capítulo de R-Ladies Barranquilla, nos hablarán sobre el capítulo 3.5.2 - 3.6.2.3 del libro. Recuerda que al participar en nuestros eventos, aceptas nuestro código de conducta, el cual nos ayuda a crear un espacio amable y seguro para aprender.\n**📅Fecha:** 29 de junio de 2024\n**⏰Hora:** 15:30 - 17:30 (UTC-5, Colombia y Ecuador Continental)\n\nTe sugerimos tener a la mano tu computadora con R y RStudio instalados. Puedes descargar e instalar el software desde [este enlace](https://cran.rstudio.com/).\n\nEl link de zoom se encuentra publicado en este evento.\n¡Te invitamos a participar! ¡No te pierdas esta gran oportunidad!\n**R-Ladies Barranquilla** 💜👩‍💻",
+    "status": "PAST",
+    "dateTime": "2024-06-29T15:30:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-barranquilla/events/301643454/",
+    "featuredEventPhoto": {
+      "id": "521728025",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/d/7/9/highres_521728025.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/d/7/9/600_521728025.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/d/7/9/thumb_521728025.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 20,
+      "waitlistCount": 0,
+      "totalCount": 20
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barranquilla",
+      "urlname": "rladies-barranquilla"
+    },
+    "createdTime": "2024-06-14T13:07:04-04:00"
+  },
+  {
+    "id": "301220360",
+    "title": "Club de lectura Fundamentos de ciencia de datos con R.",
+    "description": "¡Nos emociona invitarles a nuestro club de lectura! 📚 Para esta edición, utilizaremos el libro **Fundamentos de Ciencia de Datos con R**, disponible [aquí](https://cdr-book.github.io/index.html).\nEn la primera sesión del club de lectura, Isabel Vásquez y Viviana Florez, integrantes del capítulo de R-Ladies Barranquilla, nos hablarán sobre los capítulos 1, 2 y 3 del libro. Recuerda que al participar en nuestros eventos, aceptas nuestro código de conducta, el cual nos ayuda a crear un espacio amable y seguro para aprender.\n**📅Fecha:** 6 de junio de 2024\n**⏰Hora:** 18:00 - 20:00 (UTC-5, Colombia y Ecuador Continental)\n\nTe sugerimos tener a la mano tu computadora con R y RStudio instalados. Puedes descargar e instalar el software desde [este enlace](https://cran.rstudio.com/).\n\nCompartiremos el enlace de Zoom unas horas antes de la sesión.\n¡Te invitamos a participar! ¡No te pierdas esta gran oportunidad!\n**R-Ladies Barranquilla** 💜👩‍💻",
+    "status": "PAST",
+    "dateTime": "2024-06-06T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-barranquilla/events/301220360/",
+    "featuredEventPhoto": {
+      "id": "521267572",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/9/d/4/highres_521267572.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/9/d/4/600_521267572.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/9/d/4/thumb_521267572.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 24,
+      "waitlistCount": 0,
+      "totalCount": 24
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barranquilla",
+      "urlname": "rladies-barranquilla"
+    },
+    "createdTime": "2024-05-24T12:00:37-04:00"
+  },
+  {
+    "id": "307669958",
+    "title": "Club de lectura Fundamentos de ciencia de datos con R - Sesión 12",
+    "description": "¡Nos emociona invitarles a nuestro club de lectura! 📚 Para esta edición, utilizaremos el libro **Fundamentos de Ciencia de Datos con R**, disponible [aquí](https://cdr-book.github.io/index.html).\nEn la sesión 12 del club de lectura, Driselda Sánchez, integrante del capítulo de R-Ladies Querétaro, nos hablará sobre el capítulo 20 del libro. Recuerda que al participar en nuestros eventos, aceptas nuestro código de conducta, el cual nos ayuda a crear un espacio amable y seguro para aprender.\n**📅Fecha:** 15 de mayo de 2025\n**⏰Hora:** 18:00 - 20:00 (UTC-5, Colombia y Ecuador Continental)\nTe sugerimos tener a la mano tu computadora con R y RStudio instalados. Puedes descargar e instalar el software desde [este enlace](https://cran.rstudio.com/).\nEl link de zoom se encuentra publicado en este evento.\n¡Te invitamos a participar! ¡No te pierdas esta gran oportunidad!\n**R-Ladies Barranquilla** 💜👩‍💻",
+    "status": "PAST",
+    "dateTime": "2025-05-15T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-barranquilla/events/307669958/",
+    "featuredEventPhoto": {
+      "id": "527791617",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/b/8/1/highres_527791617.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/b/8/1/600_527791617.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/b/8/1/thumb_527791617.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 18,
+      "waitlistCount": 0,
+      "totalCount": 18
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Barranquilla",
+      "urlname": "rladies-barranquilla"
+    },
+    "createdTime": "2025-05-05T22:22:16-04:00"
+  }
+]
