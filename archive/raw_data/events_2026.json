@@ -1,5 +1,45 @@
 [
   {
+    "id": "314673305",
+    "title": "HePriceR: An R Package for Health Insurance",
+    "description": "We are pleased to welcome **Eva Flonner** from UNIQA Insurance Group to present an R package for health insurance. Join us to explore how R can be put to work in actuarial practice, from data to modeling to simulation. As we promote gender diversity and inclusion in the R community, all genders and skill levels in R are welcome!\n\n**ℹ️ Abstract**\n**HePriceR** is an R package for health insurance pricing that provides a framework for modeling expected claims and their uncertainty. The package consolidates classical actuarial approaches with modern statistical modeling, enabling transparent, reproducible, and extensible actuarial workflows.\n\nThe core focus of HePriceR lies in the estimation of expected claims and their uncertainty. It implements multiple methodological approaches, including the Rusam method for expected claims, as well as comprehensive frequency–severity modeling. The package further provides technical implementations for common product design features, such as deductibles, sublimits, and benefit caps, ensuring that modeled claim distributions align with contractual reality. From a software design perspective, HePriceR relies on a structured system of S3 classes and methods, including dedicated hpr_pricing_data objects and corresponding fit objects. This design enables consistent handling of data, fitted models, diagnostics, and downstream simulation. On top of the fitted models, the package offers Monte Carlo simulation capabilities. Overall, HePriceR provides a cohesive actuarial toolkit that bridges actuarial methodology and statistical modeling, supporting both daily operations and advanced analytical use cases. This package is based on joint work with Herr Kompott.\n\n**🗺️ Location**\nTU Wien Freihaus\nWiedner Hauptstraße 8-10, 1040 Vienna ([map](https://maps.app.goo.gl/N8PSCZfdi97KirFY6))\nExact room to be announced soon.",
+    "status": "ACTIVE",
+    "dateTime": "2026-06-10T18:00:00+02:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-vienna/events/314673305/",
+    "featuredEventPhoto": {
+      "id": "534328067",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/d/a/3/highres_534328067.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/d/a/3/600_534328067.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/d/a/3/thumb_534328067.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "28156662",
+        "name": "TU Wien Freihaus",
+        "address": "Wiedner Hauptstraße 8-10",
+        "city": "Vienna",
+        "state": "",
+        "country": "at",
+        "lat": 48.1988,
+        "lon": 16.3677,
+        "postalCode": "meetup1",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Vienna",
+      "urlname": "rladies-vienna"
+    },
+    "createdTime": "2026-05-07T07:08:04-04:00"
+  },
+  {
     "id": "314655645",
     "title": "R bugs and bites",
     "description": "Join us for a relaxed evening with tea, snacks, and good company. Bring an R challenge you've been stuck on, a project you want to make progress on, or just yourself. There's no agenda, no slides -- just a room full of people who like R (and snacks).\nWhether you're a beginner looking for a nudge in the right direction or a seasoned R-user happy to share what you know, you're welcome here.\n\nThe event will take place in the room ØHM11. The outer door is locked, but we will wait outside to let you in, or call me on 47641800.\nMazemap: https://link.mazemap.com/E1NxhvoO\nGoogle maps: https://maps.app.goo.gl/MbuZZPL8m2simBwd9\n\nThe room may be a bit confusing to find, because it is NOT in the main building of Øya helsehus, it is in a smaller building right east of it.",
@@ -89,9 +129,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/9/9/5/thumb_534299797.jpeg"
     },
     "rsvps": {
-      "yesCount": 15,
+      "yesCount": 16,
       "waitlistCount": 0,
-      "totalCount": 15
+      "totalCount": 16
     },
     "venues": [
       {
@@ -129,9 +169,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/8/6/8/thumb_534119496.jpeg"
     },
     "rsvps": {
-      "yesCount": 36,
+      "yesCount": 35,
       "waitlistCount": 0,
-      "totalCount": 36
+      "totalCount": 35
     },
     "venues": [
       {
@@ -157,7 +197,7 @@
     "id": "314511787",
     "title": "From Dictionaries to LLMs: Text Analysis in R  ",
     "description": "This workshop walks through a complete text analysis pipeline in R, combining traditional methods with newer AI-powered tools.\n\nIn the first part, we will cover tokenization with tidytext, stopword removal (including custom stopwords), word frequency visualization with wordclouds and bar plots, dictionary-based sentiment analysis using three lexicons (AFINN, Bing, and NRC), topic modeling with LDA, and bigram analysis with word networks.\n\nIn the second part, we explore how the mall package can be used to perform sentiment analysis with local LLMs (via Ollama), comparing this approach to dictionary-based methods, and look at related tasks like text classification and entity extraction.\n\nFamiliarity with R and the tidyverse is assumed.",
-    "status": "ACTIVE",
+    "status": "PAST",
     "dateTime": "2026-05-20T18:00:00+02:00",
     "duration": "PT2H",
     "eventUrl": "https://www.meetup.com/rladies-rome/events/314511787/",
@@ -169,9 +209,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/7/8/8/thumb_533939272.jpeg"
     },
     "rsvps": {
-      "yesCount": 58,
+      "yesCount": 59,
       "waitlistCount": 0,
-      "totalCount": 58
+      "totalCount": 59
     },
     "venues": [
       {
@@ -289,9 +329,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/7/b/0/thumb_533819312.jpeg"
     },
     "rsvps": {
-      "yesCount": 13,
+      "yesCount": 12,
       "waitlistCount": 0,
-      "totalCount": 13
+      "totalCount": 12
     },
     "venues": [
       {
