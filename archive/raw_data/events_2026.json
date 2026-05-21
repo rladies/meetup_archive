@@ -114,6 +114,46 @@
     "createdTime": "2026-04-29T18:25:12-04:00"
   },
   {
+    "id": "314887433",
+    "title": " From open match data to the warehouse: World Cup Football Analytics",
+    "description": "Every few years attention swings to national teams, but the most granular analytics still start from structured match and event data. How\ndo you move from flat extracts to queryable tables analysts can use and\nwhen you care about both domestic leagues and international windows, how do you keep the questions aligned with the data (lineups and events vs.\nresults and goals alone)?\n\nThis talk walks through a football analytics pipeline built on open\nStatsBomb-style data reduced to Parquet, uploaded to Google Cloud\nStorage, and loaded into BigQuery with the ingestion and cloud steps\nshown in R (arrow or readr, googleCloudStorageR, bigrquery). On top of\nthose tables, we outline a club vs international comparison using\nmatch-level metadata where the data actually supports per-player,\nper-context contrasts.\n\nA shorter second thread uses historical international results and goal\nrecords from public CSVs for country and tournament-level patterns.\nThere we show a small dashboard tuned to that international dataset. We\nfinish with hands-on exploration: a Looker Studio view on BigQuery so\nthe audience can see how analysts browse the same tables the pipeline\npublishes and we peek at a simple model or prediction sketch.\n\n\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\nYou are welcome to join us for some food and drinks at a nearby restaurant after we have finished.\n\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\n\n\\*\\*\\*\n\n1. If this is your first R-Ladies event, please take a moment to review our R-Ladies Global code of conduct: [https://github.com/rladies/starter-kit/wiki/Code-of-Conduct](https://github.com/rladies/starter-kit/wiki/Code-of-Conduct)\n2. Who is this allowed to attend the event?\n\nEveryone is welcome to join us at our events and to be a part of our mission to empower gender minorities with the skills and knowledge to code in one of the top programming language in data science, which is R.\n3\\. To fulfill this mission we do ask participants to respect a focus on the encouragement and support for women and non\\-binary people during our events\\.\n\nSee you there!\nJasmine, and Melissa",
+    "status": "ACTIVE",
+    "dateTime": "2026-05-28T18:00:00-07:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-vancouver/events/314887433/",
+    "featuredEventPhoto": {
+      "id": "534335184",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/9/7/0/highres_534335184.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/9/7/0/600_534335184.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/9/7/0/thumb_534335184.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "21997792",
+        "name": "Vancouver Public Library - Mt. Pleasant Branch",
+        "address": "1 Kingsway",
+        "city": "Vancouver",
+        "state": "BC",
+        "country": "ca",
+        "lat": 49.2641,
+        "lon": -123.1001,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Vancouver",
+      "urlname": "rladies-vancouver"
+    },
+    "createdTime": "2026-05-21T00:35:30-04:00"
+  },
+  {
     "id": "314847504",
     "title": "Primeros pasos en Quarto",
     "description": "**¿Te interesa aprender a crear reportes, presentaciones y documentos reproducibles en R de una manera moderna y sencilla?**\n\nEn este taller de introducción conocerás las bases de **Quarto**, una poderosa herramienta para generar documentos dinámicos integrando texto, código y visualizaciones en un solo flujo de trabajo.\n\n# Requerimientos de software\n\n* Instalación de R y Rstudio\n* Instalación de Quarto ([https://quarto.org/docs/get-started/](https://quarto.org/docs/get-started/))\n\n**CÓDIGO DE CONDUCTA**\nRecuerda leer y atender nuestro código de conducta disponible en [https://rladies.org/code-of-conduct/](https://rladies.org/code-of-conduct/) o [https://rladiesmx.netlify.app/codigo_de_conducta/](https://rladiesmx.netlify.app/codigo_de_conducta/)",
@@ -169,9 +209,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/8/6/8/thumb_534119496.jpeg"
     },
     "rsvps": {
-      "yesCount": 35,
+      "yesCount": 34,
       "waitlistCount": 0,
-      "totalCount": 35
+      "totalCount": 34
     },
     "venues": [
       {
@@ -209,9 +249,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/7/8/8/thumb_533939272.jpeg"
     },
     "rsvps": {
-      "yesCount": 59,
+      "yesCount": 57,
       "waitlistCount": 0,
-      "totalCount": 59
+      "totalCount": 57
     },
     "venues": [
       {
