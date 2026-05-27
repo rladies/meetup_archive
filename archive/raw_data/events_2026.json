@@ -1,5 +1,45 @@
 [
   {
+    "id": "314962750",
+    "title": "17º Meet Up: Dominando o ggplot2 - do zero a gráficos profissionais",
+    "description": "Já tentou construir um gráfico no R usando o pacote ggplot2 e teve a sensação de que estava aprendendo outra língua? Pois é: o ggplot2 tem uma lógica própria. A boa notícia é que, depois de entendê-la, dificilmente você vai querer voltar a montar gráficos manualmente no Excel. Neste minicurso, vamos explorar os princípios fundamentais do ggplot2, partindo do zero até recursos mais avançados de personalização, para que você consiga construir gráficos elegantes, informativos e reproduzíveis no R.",
+    "status": "ACTIVE",
+    "dateTime": "2026-06-15T17:00:00-03:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-niteroi/events/314962750/",
+    "featuredEventPhoto": {
+      "id": "534420518",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/0/6/highres_534420518.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/0/6/600_534420518.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/0/6/thumb_534420518.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 23,
+      "waitlistCount": 0,
+      "totalCount": 23
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Niterói",
+      "urlname": "rladies-niteroi"
+    },
+    "createdTime": "2026-05-26T12:04:34-04:00"
+  },
+  {
     "id": "314673305",
     "title": "HePriceR: An R Package for Health Insurance",
     "description": "We are pleased to welcome **Eva Flonner** from UNIQA Insurance Group to present an R package for health insurance. Join us to explore how R can be put to work in actuarial practice, from data to modeling to simulation. As we promote gender diversity and inclusion in the R community, all genders and skill levels in R are welcome!\n\n**ℹ️ Abstract**\n**HePriceR** is an R package for health insurance pricing that provides a framework for modeling expected claims and their uncertainty. The package consolidates classical actuarial approaches with modern statistical modeling, enabling transparent, reproducible, and extensible actuarial workflows.\n\nThe core focus of HePriceR lies in the estimation of expected claims and their uncertainty. It implements multiple methodological approaches, including the Rusam method for expected claims, as well as comprehensive frequency–severity modeling. The package further provides technical implementations for common product design features, such as deductibles, sublimits, and benefit caps, ensuring that modeled claim distributions align with contractual reality. From a software design perspective, HePriceR relies on a structured system of S3 classes and methods, including dedicated hpr_pricing_data objects and corresponding fit objects. This design enables consistent handling of data, fitted models, diagnostics, and downstream simulation. On top of the fitted models, the package offers Monte Carlo simulation capabilities. Overall, HePriceR provides a cohesive actuarial toolkit that bridges actuarial methodology and statistical modeling, supporting both daily operations and advanced analytical use cases. This package is based on joint work with Herr Kompott.\n\n**🗺️ Location**\nTU Wien Freihaus\nWiedner Hauptstraße 8-10, 1040 Vienna ([map](https://maps.app.goo.gl/N8PSCZfdi97KirFY6))\nExact room to be announced soon.",
@@ -95,9 +135,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/a/b/6/thumb_534415990.jpeg"
     },
     "rsvps": {
-      "yesCount": 5,
+      "yesCount": 7,
       "waitlistCount": 0,
-      "totalCount": 5
+      "totalCount": 7
     },
     "venues": [
       {
@@ -129,9 +169,9 @@
     "eventUrl": "https://www.meetup.com/rladies-corvallis/events/314550121/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 12,
+      "yesCount": 13,
       "waitlistCount": 0,
-      "totalCount": 12
+      "totalCount": 13
     },
     "venues": [
       {
@@ -209,9 +249,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/4/2/4/thumb_534406116.jpeg"
     },
     "rsvps": {
-      "yesCount": 22,
+      "yesCount": 23,
       "waitlistCount": 0,
-      "totalCount": 22
+      "totalCount": 23
     },
     "venues": [
       {
