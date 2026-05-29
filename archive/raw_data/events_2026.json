@@ -15,9 +15,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/0/6/thumb_534420518.jpeg"
     },
     "rsvps": {
-      "yesCount": 38,
+      "yesCount": 39,
       "waitlistCount": 0,
-      "totalCount": 38
+      "totalCount": 39
     },
     "venues": [
       {
@@ -197,7 +197,7 @@
     "id": "314887433",
     "title": "World Cup Football Analytics + Sampling and Monte Carlo in R",
     "description": "**From open match data to the warehouse: World Cup Football Analytics**\nWith Rabin Duran\n\nEvery few years attention swings to national teams, but the most granular analytics still start from structured match and event data. How\ndo you move from flat extracts to queryable tables analysts can use and\nwhen you care about both domestic leagues and international windows, how do you keep the questions aligned with the data (lineups and events vs.\nresults and goals alone)?\n\nThis talk walks through a football analytics pipeline built on open\nStatsBomb-style data reduced to Parquet, uploaded to Google Cloud\nStorage, and loaded into BigQuery with the ingestion and cloud steps\nshown in R (arrow or readr, googleCloudStorageR, bigrquery). On top of\nthose tables, we outline a club vs international comparison using\nmatch-level metadata where the data actually supports per-player,\nper-context contrasts.\n\nA shorter second thread uses historical international results and goal\nrecords from public CSVs for country and tournament-level patterns.\nThere we show a small dashboard tuned to that international dataset. We\nfinish with hands-on exploration: a Looker Studio view on BigQuery so\nthe audience can see how analysts browse the same tables the pipeline\npublishes and we peek at a simple model or prediction sketch.\n\n**Sampling and Monte Carlo in R**\nWith Conor Morrison\n\nThis presentation will briefly review some concepts in statistics, and show how mathematically tricky problems can be solved, approximately, by sampling random variables in R and computing functions of these samples.\n\n\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\nYou are welcome to join us for some food and drinks at a nearby restaurant after we have finished.\n\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\n\n\\*\\*\\*\n\n1. If this is your first R-Ladies event, please take a moment to review our R-Ladies Global code of conduct: [https://github.com/rladies/starter-kit/wiki/Code-of-Conduct](https://github.com/rladies/starter-kit/wiki/Code-of-Conduct)\n2. Who is this allowed to attend the event?\n\nEveryone is welcome to join us at our events and to be a part of our mission to empower gender minorities with the skills and knowledge to code in one of the top programming language in data science, which is R.\n3\\. To fulfill this mission we do ask participants to respect a focus on the encouragement and support for women and non\\-binary people during our events\\.\n\nSee you there!\nJasmine, and Melissa",
-    "status": "ACTIVE",
+    "status": "PAST",
     "dateTime": "2026-05-28T18:00:00-07:00",
     "duration": "PT1H30M",
     "eventUrl": "https://www.meetup.com/rladies-vancouver/events/314887433/",
@@ -209,9 +209,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/b/0/4/thumb_534339684.jpeg"
     },
     "rsvps": {
-      "yesCount": 17,
+      "yesCount": 16,
       "waitlistCount": 0,
-      "totalCount": 17
+      "totalCount": 16
     },
     "venues": [
       {
