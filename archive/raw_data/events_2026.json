@@ -1,5 +1,32 @@
 [
   {
+    "id": "315092217",
+    "title": "Working Smarter with {dplyr} 1.2.0",
+    "description": "Discover how the latest features in **{dplyr} 1.2.0** can help you write cleaner, faster, and more maintainable data transformation workflows. This session explores practical techniques for filtering, joining, summarizing, and reshaping data more efficiently, with real-world examples that demonstrate how to streamline your R code and improve productivity.",
+    "status": "ACTIVE",
+    "dateTime": "2026-06-24T18:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-abuja/events/315092217/",
+    "featuredEventPhoto": {
+      "id": "534558075",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/6/9/b/highres_534558075.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/6/9/b/600_534558075.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/6/9/b/thumb_534558075.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 8,
+      "waitlistCount": 0,
+      "totalCount": 8
+    },
+    "venues": [],
+    "group": {
+      "name": "R-Ladies Abuja",
+      "urlname": "rladies-abuja"
+    },
+    "createdTime": "2026-06-03T17:01:43-04:00"
+  },
+  {
     "id": "315065879",
     "title": "Coffee and Code",
     "description": "Come join us for a casual coffee and code. There will be a short demo in beginning on getting your computer setup to use OpenAI models from GitHub models by Daniel. We can proceed to trying those out or focus on what you are interested in. Bring any projects, talks you are prepping or questions you may have.\n\nRladies Stickers and other R swag may make an appearance!\n\n\\*\\*\\*\n\n1. If this is your first R-Ladies event, please take a moment to review our R-Ladies Global code of conduct: [https://github.com/rladies/starter-kit/wiki/Code-of-Conduct](https://github.com/rladies/starter-kit/wiki/Code-of-Conduct)\n2. Who is this allowed to attend the event?\n\nEveryone is welcome to join us at our events and to be a part of our mission to empower gender minorities with the skills and knowledge to code in one of the top programming language in data science, which is R.\n3\\. To fulfill this mission we do ask participants to respect a focus on the encouragement and support for women and non\\-binary people during our events\\.",
@@ -95,9 +122,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/d/a/3/thumb_534328067.jpeg"
     },
     "rsvps": {
-      "yesCount": 4,
+      "yesCount": 5,
       "waitlistCount": 0,
-      "totalCount": 4
+      "totalCount": 5
     },
     "venues": [
       {
@@ -160,10 +187,50 @@
     "createdTime": "2026-05-06T04:46:51-04:00"
   },
   {
+    "id": "315086834",
+    "title": "Sharing Vienna<-R's \"Travel Paths: Animal movement algorithms\" event",
+    "description": "We would like to share the upcoming event from the [Vienna<-R](https://www.meetup.com/viennar/) meetup group: [Travel Paths: Animal movement algorithms](https://www.meetup.com/viennar/events/314973700/?eventOrigin=group_upcoming_events), where Katrina Brock from Max Planck Society presents an R package for analyzing animal movement data and shares how R can be put to work in animal behaviour research.\n\n**Details**:\nThe behavior ecology literature offers a rich library of approaches for finding patterns in animal movement data. While many of the biologists developing these algorithms publish their code, it is rarely optimized for reuse. Even well-designed packages with similar workflows have different interfaces that potential users need to learn one by one. By wrapping these algorithms in a standardized interface, the “Travel Paths” framework reduces researcher toil. Instead of digging through scripts and learning disparate conventions, they can run many methods with just a few functions. The framework is composed of two packages: the trackframe package provides a flexible and interoperable format for input data while the travelpaths package, taking inspiration from parsnip, offers the interface for movement models. In this talk, we’ll discuss how we designed this framework and how it can be leveraged to enable even novice R users to apply a variety of methods to their animal movement data.",
+    "status": "ACTIVE",
+    "dateTime": "2026-06-05T17:00:00+02:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-vienna/events/315086834/",
+    "featuredEventPhoto": {
+      "id": "534552577",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/1/2/1/highres_534552577.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/1/2/1/600_534552577.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/1/2/1/thumb_534552577.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "28156662",
+        "name": "TU Wien Freihaus",
+        "address": "Wiedner Hauptstraße 8-10",
+        "city": "Vienna",
+        "state": "",
+        "country": "at",
+        "lat": 48.1988,
+        "lon": 16.3677,
+        "postalCode": "meetup1",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Vienna",
+      "urlname": "rladies-vienna"
+    },
+    "createdTime": "2026-06-03T10:43:56-04:00"
+  },
+  {
     "id": "314959284",
     "title": "Data Wrangling with Tidyverse",
     "description": "🚀 Ready to level up your data skills? Join us for “Data Wrangling with Tidyverse” and discover how to clean, transform, and organize data efficiently using the power of R and the Tidyverse ecosystem.\n\n🎤 Speaker: Lule Basha, Associate Professor, Faculty of Natural Sciences, University of Tirana\n\n📅 Data: June 3, 2026\n🌐 Format: Online\n\nWhether you are a beginner or looking to strengthen your data analysis workflow, this session will guide you from 0 to hero in handling messy datasets with confidence!",
-    "status": "ACTIVE",
+    "status": "PAST",
     "dateTime": "2026-06-03T18:00:00+02:00",
     "duration": "PT1H",
     "eventUrl": "https://www.meetup.com/rladies-tirane/events/314959284/",
@@ -175,9 +242,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/a/b/6/thumb_534415990.jpeg"
     },
     "rsvps": {
-      "yesCount": 17,
+      "yesCount": 19,
       "waitlistCount": 0,
-      "totalCount": 17
+      "totalCount": 19
     },
     "venues": [
       {
