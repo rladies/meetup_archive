@@ -446,7 +446,7 @@ metrics_comparison <- tibble(
 
 knitr::kable(
   metrics_comparison,
-  caption = "Key metrics comparison across quarters"
+  caption = "Key metrics comparison across quarters: last closed quarter, prior quarter, and year-ago quarter"
 )
 ```
 
