@@ -132,7 +132,10 @@ ggplot(chapter_activity, aes(x = quarter, y = active_chapters)) +
     x = "Quarter",
     y = "Number of Active Chapters"
   ) +
-  scale_x_date(date_labels = "%Y Q%q", date_breaks = "3 months") +
+  scale_x_date(
+    date_breaks = "3 months",
+    labels = function(d) paste0(year(d), " Q", quarter(d))
+  ) +
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 ```
 
@@ -254,7 +257,10 @@ ggplot(format_trends, aes(x = quarter, y = n, fill = format)) +
     y = "Number of Events",
     fill = "Format"
   ) +
-  scale_x_date(date_labels = "%Y Q%q", date_breaks = "3 months") +
+  scale_x_date(
+    date_breaks = "3 months",
+    labels = function(d) paste0(year(d), " Q", quarter(d))
+  ) +
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 ```
 
