@@ -26,8 +26,9 @@ This quarterly report provides a snapshot of R-Ladies community activity, highli
 
 ```{r}
 #| label: quarterly-metrics
-# Define current and previous quarters
-current_quarter_end <- floor_date(Sys.Date(), "quarter") + months(3) - days(1)
+# Define reporting quarters: current = last closed quarter, plus the
+# preceding quarter and the same quarter one year earlier for comparison.
+current_quarter_end <- floor_date(Sys.Date(), "quarter") - days(1)
 current_quarter_start <- floor_date(current_quarter_end, "quarter")
 
 previous_quarter_end <- current_quarter_start - days(1)
@@ -105,9 +106,9 @@ year_ago_q <- paste0(
 )
 ```
 
-### Quarter: `r current_q`
+### Quarter: `r current_q` (last closed quarter)
 
-**Period**: `r format(current_quarter_start, "%B %d")` - `r format(current_quarter_end, "%B %d, %Y")`
+**Period** (last closed quarter): `r format(current_quarter_start, "%B %d")` - `r format(current_quarter_end, "%B %d, %Y")`
 
 - **Total Events**: `r format(current_total, big.mark = ",")`  
   - Quarter-over-quarter: `r if_else(qoq_growth >= 0, paste0("+", qoq_growth), as.character(qoq_growth))`%  
@@ -468,6 +469,6 @@ Based on current trends and historical patterns:
 
 ---
 
-*Report period: `r format(current_quarter_start, "%B %d")` - `r format(current_quarter_end, "%B %d, %Y")`*  
+*Report period (last closed quarter): `r format(current_quarter_start, "%B %d")` - `r format(current_quarter_end, "%B %d, %Y")`*  
 *Report generated: `r format(Sys.time(), "%Y-%m-%d %H:%M %Z")`*  
 *Data source: R-Ladies Meetup Archive*
