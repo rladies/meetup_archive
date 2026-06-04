@@ -147,7 +147,7 @@ ggplot(quarterly_data, aes(x = quarter, y = events)) +
   ) +
   labs(
     title = "Event Volume Comparison",
-    subtitle = "Last three quarters",
+    subtitle = "Last three closed quarters",
     x = "Quarter",
     y = "Number of Events"
   ) +
@@ -190,7 +190,7 @@ ggplot(chapter_quarterly, aes(x = quarter, y = chapters)) +
 
 ```{r}
 #| label: format-distribution
-#| fig-cap: "Virtual vs in-person events this quarter"
+#| fig-cap: "Virtual vs in-person events in the last closed quarter"
 
 format_data <- current_events |>
   mutate(format = if_else(is_virtual, "Virtual", "In-Person")) |>
@@ -226,7 +226,7 @@ ggplot(format_data, aes(x = "", y = n, fill = format)) +
 
 ```{r}
 #| label: monthly-activity
-#| fig-cap: "Event activity by month within current quarter"
+#| fig-cap: "Event activity by month within the last closed quarter"
 
 monthly_current <- current_events |>
   mutate(month = floor_date(event_date, "month")) |>
@@ -252,7 +252,7 @@ ggplot(monthly_current, aes(x = month, y = n)) +
 
 ```{r}
 #| label: top-chapters
-#| fig-cap: "Most active chapters this quarter"
+#| fig-cap: "Most active chapters in the last closed quarter"
 
 top_current <- current_events |>
   count(group_urlname, sort = TRUE) |>
@@ -277,7 +277,7 @@ ggplot(top_current, aes(x = n, y = reorder(group_urlname, n))) +
 
 ```{r}
 #| label: regional-performance
-#| fig-cap: "Event distribution by region this quarter"
+#| fig-cap: "Event distribution by region in the last closed quarter"
 
 regional_current <- current_events |>
   mutate(
@@ -363,7 +363,7 @@ ggplot(chapter_status, aes(x = status, y = count)) +
 
 ```{r}
 #| label: timing-patterns
-#| fig-cap: "Day of week distribution this quarter"
+#| fig-cap: "Day of week distribution in the last closed quarter"
 
 dow_current <- current_events |>
   mutate(
@@ -457,7 +457,7 @@ knitr::kable(
 Based on current trends and historical patterns:
 
 - Expected events next quarter: **`r round(current_total * 1.05)`** (assuming 5% growth)  
-- Chapters needing support: **`r nrow(inactive_chapters)`** (became inactive this quarter)  
+- Chapters needing support: **`r nrow(inactive_chapters)`** (became inactive in the last closed quarter)  
 - Growth opportunity: Focus on `r if(nrow(new_chapters) > 0) paste("sustaining momentum of", nrow(new_chapters), "new/reactivated chapters") else "reactivating dormant chapters"`  
 
 ### Recommendations
