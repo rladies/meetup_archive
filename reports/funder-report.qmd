@@ -170,15 +170,13 @@ ggplot(regional_events, aes(x = n, y = reorder(region, n))) +
 #| label: regional-summary
 #| include: false
 
-regions_served <- sum(
-  regional_events$n[regional_events$region != "Virtual (Global)"] > 0
-)
-continents <- regional_events |>
-  filter(region != "Virtual (Global)", region != "Other") |>
+regions_served <- regional_events |>
+  filter(region != "Other") |>
   nrow()
+
 ```
 
-R-Ladies events reached **`r continents`** major geographic regions with **`r format(sum(regional_events$n), big.mark = ",")`** total events.
+R-Ladies events reached **`r regions_served`** major geographic regions with **`r format(sum(regional_events$n), big.mark = ",")`** total events.
 
 ## Event Activity and Impact
 
