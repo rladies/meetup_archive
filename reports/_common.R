@@ -17,6 +17,49 @@ chapters <- read_json(
   simplifyVector = TRUE
 )
 
+# Enrich events with chapter country (chapter, not venue).
+# The chapter country comes from the Meetup GraphQL API and is the
+# canonical "where this chapter is from" — independent of where any
+# given event was held (virtual, traveling speaker, cross-chapter event).
+events <- events |>
+  left_join(
+    chapters |> select(
+      urlname,
+      chapter_country = country,
+      chapter_country_iso = country_acronym
+    ),
+    by = c("group_urlname" = "urlname")
+  )
+
+# Map ISO2 chapter country code to the 6 reporting regions.
+# Uses countrycode's UN sub-region mapping for full country coverage,
+# then collapses to the project's 6 buckets. Returns NA for codes that
+# countrycode cannot resolve; callers decide how to handle NA (e.g.
+# bucket as "Other", filter out, etc.).
+chapter_region <- function(country_iso2) {
+  subregion <- countrycode::countrycode(
+    country_iso2,
+    origin = "iso2c",
+    destination = "un.regionsub.name",
+    warn = FALSE
+  )
+  case_when(
+    subregion == "Northern America" ~ "North America",
+    subregion %in% c("Latin America and the Caribbean") ~ "Latin America",
+    subregion %in% c(
+      "Northern Europe", "Western Europe",
+      "Southern Europe", "Eastern Europe"
+    ) ~ "Europe",
+    subregion %in% c("Australia and New Zealand", "Melanesia",
+                     "Micronesia", "Polynesia") ~ "Oceania",
+    subregion %in% c("Eastern Asia", "South-eastern Asia",
+                     "Southern Asia", "Central Asia", "Western Asia") ~ "Asia",
+    subregion %in% c("Northern Africa", "Sub-Saharan Africa") ~ "Africa",
+    TRUE ~ NA_character_
+  )
+}
+
+
 # R-Ladies brand colors
 rladies_colors <- list(
   purple = "#88398A",

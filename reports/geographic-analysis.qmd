@@ -134,55 +134,13 @@ ggplot(chapter_activity, aes(x = quarter, y = active_chapters)) +
 #| label: geographic-reach
 #| fig-cap: "Event distribution by region"
 
-# Extract country from location (last part after comma)
+# Bucket events by region using the chapter's country (not the venue's).
+# chapter_country_iso is joined in via reports/_common.R. Virtual events
+# are attributed to the region of the chapter that organized them.
 regional_events <- current_events |>
-  filter(!is.na(location)) |>
   mutate(
-    # Extract country code (last 2 characters after last comma)
-    country_code = str_extract(location, "[A-Z]{2}$"),
-    region = case_when(
-      country_code %in% c("US", "CA", "MX") ~ "North America",
-      country_code %in%
-        c(
-          "BR",
-          "AR",
-          "CL",
-          "CO",
-          "PE",
-          "UY",
-          "EC",
-          "BO",
-          "VE"
-        ) ~ "Latin America",
-      country_code %in%
-        c(
-          "GB",
-          "FR",
-          "DE",
-          "ES",
-          "IT",
-          "NL",
-          "BE",
-          "CH",
-          "AT",
-          "IE",
-          "PT",
-          "SE",
-          "NO",
-          "DK",
-          "FI",
-          "PL",
-          "CZ",
-          "GR",
-          "TR"
-        ) ~ "Europe",
-      country_code %in% c("AU", "NZ") ~ "Oceania",
-      country_code %in%
-        c("CN", "JP", "KR", "IN", "SG", "TH", "MY", "ID", "PH", "TW") ~ "Asia",
-      country_code %in% c("ZA", "KE", "NG", "EG", "MA") ~ "Africa",
-      is_virtual ~ "Virtual (Global)",
-      TRUE ~ "Other"
-    )
+    region = chapter_region(chapter_country_iso),
+    region = tidyr::replace_na(region, "Other")
   ) |>
   count(region, sort = TRUE)
 
