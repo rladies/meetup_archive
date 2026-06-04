@@ -98,8 +98,15 @@ inperson_count <- sum(!current_events$is_virtual, na.rm = TRUE)
 #| fig-cap: "Growth in active chapters over time"
 
 # Calculate active chapters by quarter over last 3 years
+## Use whole, closed quarters only. Anchor both bounds to quarter starts:
+## the upper bound (current quarter start, excluded) drops the in-progress
+## quarter, and the lower bound (3 years before that) ensures the first
+## quarter is complete rather than a partial slice from `Sys.Date() - years(3)`.
 chapter_activity <- events_analyzed |>
-  filter(event_date >= Sys.Date() - years(3)) |>
+    filter(
+      event_date >= floor_date(Sys.Date(), "quarter") - years(3),
+      event_date < floor_date(Sys.Date(), "quarter")
+  ) |>
   mutate(
     quarter = floor_date(event_date, "quarter"),
     quarter_label = paste0(year(quarter), " Q", quarter(quarter))
@@ -175,7 +182,7 @@ regions_served <- regional_events |>
   nrow()
 ```
 
-R-Ladies events reached **`r regions_served`** major geographic regions with **`r format(sum(regional_events$n), big.mark = ",")`** total events.
+R-Ladies events reached **`r regions_served`** geographic regions with **`r format(sum(regional_events$n), big.mark = ",")`** total events.
 
 ## Event Activity and Impact
 
@@ -215,8 +222,14 @@ ggplot(monthly_events, aes(x = month, y = n)) +
 #| label: format-evolution
 #| fig-cap: "Virtual vs in-person event distribution over time"
 
+# Use whole, closed quarters only (same rationale as the chapter-growth
+# chart): both bounds anchored to quarter starts so neither the first nor
+# the last quarter is a partial period.
 format_trends <- events_analyzed |>
-  filter(event_date >= Sys.Date() - years(2)) |>
+  filter(
+    event_date >= floor_date(Sys.Date(), "quarter") - years(2),
+    event_date < floor_date(Sys.Date(), "quarter")
+  ) |>
   mutate(
     quarter = floor_date(event_date, "quarter"),
     quarter_label = paste0(year(quarter), " Q", quarter(quarter)),
