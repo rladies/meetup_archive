@@ -196,7 +196,10 @@ R-Ladies events reached **`r regions_served`** geographic regions with **`r form
 #| fig-cap: "Monthly event activity"
 
 monthly_events <- events_analyzed |>
-  filter(event_date >= Sys.Date() - years(2)) |>
+  filter(
+    event_date >= floor_date(Sys.Date(), "month") - years(2),
+    event_date < floor_date(Sys.Date(), "month")
+  ) |>
   mutate(month = floor_date(event_date, "month")) |>
   count(month)
 
