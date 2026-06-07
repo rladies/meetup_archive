@@ -15,9 +15,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/6/9/b/thumb_534558075.jpeg"
     },
     "rsvps": {
-      "yesCount": 14,
+      "yesCount": 19,
       "waitlistCount": 0,
-      "totalCount": 14
+      "totalCount": 19
     },
     "venues": [],
     "group": {
@@ -42,9 +42,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/6/2/8/thumb_534545672.jpeg"
     },
     "rsvps": {
-      "yesCount": 3,
+      "yesCount": 4,
       "waitlistCount": 0,
-      "totalCount": 3
+      "totalCount": 4
     },
     "venues": [
       {
@@ -141,7 +141,7 @@
       }
     ],
     "group": {
-      "name": "R-Ladies Vienna",
+      "name": "R-Ladies+ Vienna",
       "urlname": "rladies-vienna"
     },
     "createdTime": "2026-05-07T07:08:04-04:00"
@@ -190,7 +190,7 @@
     "id": "315086834",
     "title": "Sharing Vienna<-R's \"Travel Paths: Animal movement algorithms\" event",
     "description": "We would like to share the upcoming event from the [Vienna<-R](https://www.meetup.com/viennar/) meetup group: [Travel Paths: Animal movement algorithms](https://www.meetup.com/viennar/events/314973700/?eventOrigin=group_upcoming_events), where Katrina Brock from Max Planck Society presents an R package for analyzing animal movement data and shares how R can be put to work in animal behaviour research.\n\n**Details**:\nThe behavior ecology literature offers a rich library of approaches for finding patterns in animal movement data. While many of the biologists developing these algorithms publish their code, it is rarely optimized for reuse. Even well-designed packages with similar workflows have different interfaces that potential users need to learn one by one. By wrapping these algorithms in a standardized interface, the “Travel Paths” framework reduces researcher toil. Instead of digging through scripts and learning disparate conventions, they can run many methods with just a few functions. The framework is composed of two packages: the trackframe package provides a flexible and interoperable format for input data while the travelpaths package, taking inspiration from parsnip, offers the interface for movement models. In this talk, we’ll discuss how we designed this framework and how it can be leveraged to enable even novice R users to apply a variety of methods to their animal movement data.",
-    "status": "ACTIVE",
+    "status": "PAST",
     "dateTime": "2026-06-05T17:00:00+02:00",
     "duration": "PT1H",
     "eventUrl": "https://www.meetup.com/rladies-vienna/events/315086834/",
@@ -221,7 +221,7 @@
       }
     ],
     "group": {
-      "name": "R-Ladies Vienna",
+      "name": "R-Ladies+ Vienna",
       "urlname": "rladies-vienna"
     },
     "createdTime": "2026-06-03T10:43:56-04:00"
@@ -941,7 +941,7 @@
       }
     ],
     "group": {
-      "name": "R-Ladies Vienna",
+      "name": "R-Ladies+ Vienna",
       "urlname": "rladies-vienna"
     },
     "createdTime": "2026-04-18T11:08:30-04:00"
