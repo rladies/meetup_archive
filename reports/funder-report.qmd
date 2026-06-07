@@ -27,8 +27,8 @@ This annual report demonstrates the impact and reach of R-Ladies Global, highlig
 
 ```{r}
 #| label: annual-metrics
-# Define reporting period (last 12 months)
-report_end <- Sys.Date()
+# Define reporting period: the last 12 *closed* months.
+report_end <- floor_date(Sys.Date(), "month")
 report_start <- report_end - years(1)
 previous_start <- report_start - years(1)
 previous_end <- report_start
@@ -81,7 +81,7 @@ virtual_count <- sum(current_events$is_virtual, na.rm = TRUE)
 inperson_count <- sum(!current_events$is_virtual, na.rm = TRUE)
 ```
 
-### Key Achievements (`r format(report_start, "%B %Y")` - `r format(report_end, "%B %Y")`)
+### Key Achievements (`r format(report_start, "%B %Y")` - `r format(report_end - days(1), "%B %Y")`)
 
 - **`r format(total_events_current, big.mark = ",")`** events hosted (`r if_else(event_growth >= 0, paste0("+", event_growth), as.character(event_growth))`% vs. previous year)  
 - **`r active_chapters_current`** active chapters (`r if_else(chapter_growth >= 0, paste0("+", chapter_growth), as.character(chapter_growth))`% vs. previous year)  
@@ -98,8 +98,15 @@ inperson_count <- sum(!current_events$is_virtual, na.rm = TRUE)
 #| fig-cap: "Growth in active chapters over time"
 
 # Calculate active chapters by quarter over last 3 years
+## Use whole, closed quarters only. Anchor both bounds to quarter starts:
+## the upper bound (current quarter start, excluded) drops the in-progress
+## quarter, and the lower bound (3 years before that) ensures the first
+## quarter is complete rather than a partial slice from `Sys.Date() - years(3)`.
 chapter_activity <- events_analyzed |>
-  filter(event_date >= Sys.Date() - years(3)) |>
+    filter(
+      event_date >= floor_date(Sys.Date(), "quarter") - years(3),
+      event_date < floor_date(Sys.Date(), "quarter")
+  ) |>
   mutate(
     quarter = floor_date(event_date, "quarter"),
     quarter_label = paste0(year(quarter), " Q", quarter(quarter))
@@ -125,7 +132,10 @@ ggplot(chapter_activity, aes(x = quarter, y = active_chapters)) +
     x = "Quarter",
     y = "Number of Active Chapters"
   ) +
-  scale_x_date(date_labels = "%Y Q%q", date_breaks = "3 months") +
+  scale_x_date(
+    date_breaks = "3 months",
+    labels = function(d) paste0(year(d), " Q", quarter(d))
+  ) +
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 ```
 
@@ -158,7 +168,7 @@ ggplot(regional_events, aes(x = n, y = reorder(region, n))) +
       "Reporting period:",
       format(report_start, "%b %Y"),
       "-",
-      format(report_end, "%b %Y")
+      format(report_end - days(1), "%b %Y")
     ),
     x = "Number of Events",
     y = NULL
@@ -170,15 +180,12 @@ ggplot(regional_events, aes(x = n, y = reorder(region, n))) +
 #| label: regional-summary
 #| include: false
 
-regions_served <- sum(
-  regional_events$n[regional_events$region != "Virtual (Global)"] > 0
-)
-continents <- regional_events |>
-  filter(region != "Virtual (Global)", region != "Other") |>
+regions_served <- regional_events |>
+  filter(region != "Other") |>
   nrow()
 ```
 
-R-Ladies events reached **`r continents`** major geographic regions with **`r format(sum(regional_events$n), big.mark = ",")`** total events.
+R-Ladies events reached **`r regions_served`** geographic regions with **`r format(sum(regional_events$n), big.mark = ",")`** total events.
 
 ## Event Activity and Impact
 
@@ -189,7 +196,10 @@ R-Ladies events reached **`r continents`** major geographic regions with **`r fo
 #| fig-cap: "Monthly event activity"
 
 monthly_events <- events_analyzed |>
-  filter(event_date >= Sys.Date() - years(2)) |>
+  filter(
+    event_date >= floor_date(Sys.Date(), "month") - years(2),
+    event_date < floor_date(Sys.Date(), "month")
+  ) |>
   mutate(month = floor_date(event_date, "month")) |>
   count(month)
 
@@ -218,8 +228,14 @@ ggplot(monthly_events, aes(x = month, y = n)) +
 #| label: format-evolution
 #| fig-cap: "Virtual vs in-person event distribution over time"
 
+# Use whole, closed quarters only (same rationale as the chapter-growth
+# chart): both bounds anchored to quarter starts so neither the first nor
+# the last quarter is a partial period.
 format_trends <- events_analyzed |>
-  filter(event_date >= Sys.Date() - years(2)) |>
+  filter(
+    event_date >= floor_date(Sys.Date(), "quarter") - years(2),
+    event_date < floor_date(Sys.Date(), "quarter")
+  ) |>
   mutate(
     quarter = floor_date(event_date, "quarter"),
     quarter_label = paste0(year(quarter), " Q", quarter(quarter)),
@@ -244,7 +260,10 @@ ggplot(format_trends, aes(x = quarter, y = n, fill = format)) +
     y = "Number of Events",
     fill = "Format"
   ) +
-  scale_x_date(date_labels = "%Y Q%q", date_breaks = "3 months") +
+  scale_x_date(
+    date_breaks = "3 months",
+    labels = function(d) paste0(year(d), " Q", quarter(d))
+  ) +
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 ```
 
@@ -275,7 +294,7 @@ ggplot(top_chapters, aes(x = n, y = reorder(group_urlname, n))) +
       "Top 20 chapters:",
       format(report_start, "%b %Y"),
       "-",
-      format(report_end, "%b %Y")
+      format(report_end - days(1), "%b %Y")
     ),
     x = "Number of Events",
     y = NULL
@@ -387,6 +406,6 @@ Thank you for supporting R-Ladies Global in promoting gender diversity in the R 
 
 ---
 
-*Report period: `r format(report_start, "%B %d, %Y")` - `r format(report_end, "%B %d, %Y")`*  
+*Report period: `r format(report_start, "%B %d, %Y")` - `r format(report_end - days(1), "%B %d, %Y")`*  
 *Report generated: `r format(Sys.time(), "%Y-%m-%d %H:%M %Z")`*  
 *Data source: R-Ladies Meetup Archive*
