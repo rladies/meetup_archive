@@ -18,133 +18,170 @@ draft: false
 #| label: setup
 #| include: false
 source(here::here("reports/_common.R"))
+library(maps)
 ```
 
-## Executive Summary
+## Geographic Analysis
 
-This annual report demonstrates the impact and reach of R-Ladies Global, highlighting community growth, event activity, and geographic expansion over the past year.
+This report maps the global footprint of R-Ladies, showing where chapters are located and how they cluster across countries and regions.
+
+### Active countries
 
 ```{r}
-#| label: annual-metrics
-# Define reporting period (last 12 months)
+#| label: active-chapters
+#| include: false
+
+# Restrict to chapters active in the last year, working from `events` just like
+# funder-report.qmd and chapter-health.qmd. chapter_country / chapter_country_iso
+# are joined onto events in reports/_common.R (the chapter's country, not the
+# venue's), so geography comes straight from the event table.
 report_end <- Sys.Date()
 report_start <- report_end - years(1)
-previous_start <- report_start - years(1)
-previous_end <- report_start
 
-# Prepare events data
-events_analyzed <- events |>
-  filter(!status %in% c("cancelled", "CANCELLED")) |>
+active_chapters <- events |>
+  mutate(event_date = as.Date(datetime_utc)) |>
+  filter(
+    event_date >= report_start,
+    event_date < report_end,
+    !status %in% c("cancelled", "CANCELLED")
+  ) |>
+  # one row per active chapter, carrying its country fields
+  distinct(group_urlname, chapter_country, chapter_country_iso)
+
+total_chapters <- n_distinct(active_chapters$group_urlname)
+total_countries <- n_distinct(active_chapters$chapter_country_iso)
+```
+
+In the last year, **`r total_chapters`** R-Ladies chapters were active across **`r total_countries`** countries worldwide.
+
+## Chapters by Country
+
+```{r}
+#| label: choropleth-map
+#| fig-cap: "Number of active R-Ladies chapters per country (last year)"
+#| fig-width: 10
+#| fig-height: 5.5
+
+# Count active chapters per country. Reconcile the few country names that the
+# Meetup data spells differently from maps::map_data("world").
+chapters_by_country <- active_chapters |>
+  count(chapter_country, name = "n_chapters") |>
   mutate(
-    event_date = as.Date(datetime_utc),
-    year = year(event_date),
-    is_virtual = str_detect(
-      tolower(location %||% ""),
-      "online|virtual|zoom|meet|not announced"
+    map_region = recode(
+      chapter_country,
+      "United States of America" = "USA",
+      "United Kingdom of Great Britain and Northern Ireland" = "UK",
+      "Iran (Islamic Republic of)" = "Iran",
+      "Bolivia (Plurinational State of)" = "Bolivia",
+      "Venezuela (Bolivarian Republic of)" = "Venezuela",
+      "Viet Nam" = "Vietnam",
+      "Türkiye" = "Turkey"
     )
   )
 
-# Current reporting period
-current_events <- events_analyzed |>
-  filter(event_date >= report_start, event_date < report_end)
-
-# Previous period for comparison
-previous_events <- events_analyzed |>
-  filter(event_date >= previous_start, event_date < previous_end)
-
-# Active chapters (hosted at least one event in period)
-active_chapters_current <- n_distinct(current_events$group_urlname)
-active_chapters_previous <- n_distinct(previous_events$group_urlname)
-
-# Total chapters
-total_chapters <- n_distinct(chapters$urlname)
-
-# Event counts
-total_events_current <- nrow(current_events)
-total_events_previous <- nrow(previous_events)
-
-# Calculate growth rates
-chapter_growth <- round(
-  (active_chapters_current - active_chapters_previous) /
-    active_chapters_previous *
-    100,
-  1
-)
-event_growth <- round(
-  (total_events_current - total_events_previous) / total_events_previous * 100,
-  1
-)
-
-# Virtual vs in-person
-virtual_count <- sum(current_events$is_virtual, na.rm = TRUE)
-inperson_count <- sum(!current_events$is_virtual, na.rm = TRUE)
-```
-
-### Key Achievements (`r format(report_start, "%B %Y")` - `r format(report_end, "%B %Y")`)
-
-- **`r format(total_events_current, big.mark = ",")`** events hosted (`r if_else(event_growth >= 0, paste0("+", event_growth), as.character(event_growth))`% vs. previous year)  
-- **`r active_chapters_current`** active chapters (`r if_else(chapter_growth >= 0, paste0("+", chapter_growth), as.character(chapter_growth))`% vs. previous year)  
-- **`r total_chapters`** total chapters worldwide  
-- **`r format(virtual_count, big.mark = ",")`** virtual events ensuring global accessibility  
-- **`r format(inperson_count, big.mark = ",")`** in-person events fostering local community  
-
-## Community Growth
-
-### Chapter Network Expansion
-
-```{r}
-#| label: chapter-growth
-#| fig-cap: "Growth in active chapters over time"
-
-# Calculate active chapters by quarter over last 3 years
-chapter_activity <- events_analyzed |>
-  filter(event_date >= Sys.Date() - years(3)) |>
-  mutate(
-    quarter = floor_date(event_date, "quarter"),
-    quarter_label = paste0(year(quarter), " Q", quarter(quarter))
-  ) |>
-  group_by(quarter, quarter_label) |>
-  summarise(
-    active_chapters = n_distinct(group_urlname),
-    .groups = "drop"
+# World basemap from the `maps` package (bundled with ggplot2), joined to the
+# chapter counts by country name.
+world_chapters <- map_data("world") |>
+  filter(region != "Antarctica") |>
+  left_join(
+    chapters_by_country |> select(map_region, n_chapters),
+    by = c("region" = "map_region")
   )
 
-ggplot(chapter_activity, aes(x = quarter, y = active_chapters)) +
-  geom_line(color = rladies_colors$purple, linewidth = 1.2) +
-  geom_point(color = rladies_colors$purple, size = 3) +
-  geom_smooth(
-    method = "loess",
-    se = TRUE,
-    alpha = 0.2,
-    color = rladies_colors$dark_purple
+# Build integer legend breaks so the colour key reads as whole chapters
+# (1, 2, 3, ...) rather than decimals. We always include 1 (lightest purple)
+# and the observed maximum (darkest purple), plus pretty intermediate steps.
+max_chapters <- max(chapters_by_country$n_chapters)
+chapter_breaks <- scales::breaks_pretty(n = 5)(c(1, max_chapters))
+chapter_breaks <- chapter_breaks[chapter_breaks >= 1 & chapter_breaks <= max_chapters]
+if (!1 %in% chapter_breaks) chapter_breaks <- c(1, chapter_breaks)
+if (!max_chapters %in% chapter_breaks) chapter_breaks <- c(chapter_breaks, max_chapters)
+
+ggplot(
+  world_chapters,
+  aes(x = long, y = lat, group = group, fill = n_chapters)
+) +
+  geom_polygon(color = "white", linewidth = 0.1) +
+  scale_fill_gradient(
+    low = rladies_colors$light_purple,
+    high = rladies_colors$dark_purple,
+    na.value = rladies_colors$grey,
+    name = "Chapters per country",
+    breaks = chapter_breaks,
+    labels = scales::label_number(accuracy = 1),  # whole numbers only
+    limits = c(1, max_chapters),                   # scale starts at 1 chapter
+    guide = guide_colorbar(
+      barwidth = 14,
+      barheight = 0.6,
+      title.position = "top",
+      title.hjust = 0.5,
+      ticks.colour = "white",
+      frame.colour = NA
+    )
   ) +
+  coord_fixed(ratio = 1.3, xlim = c(-180, 180)) +
   labs(
-    title = "Active Chapters Over Time",
-    subtitle = "Chapters hosting at least one event per quarter",
-    x = "Quarter",
-    y = "Number of Active Chapters"
+    title = "Active R-Ladies Chapters Around the World",
+    subtitle = paste(
+      total_chapters, "active chapters across", total_countries, "countries",
+      "(last 12 months)"
+    ),
+    x = NULL,
+    y = NULL
   ) +
-  scale_x_date(date_labels = "%Y Q%q", date_breaks = "3 months") +
-  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+  theme(
+    axis.text = element_blank(),
+    axis.ticks = element_blank(),
+    panel.grid = element_blank(),
+    legend.position = "bottom",
+    legend.title = element_text(size = 9, color = rladies_colors$dark_purple),
+    legend.text = element_text(size = 8)
+  )
 ```
 
-### Geographic Reach
+Countries shown in grey have no active R-Ladies chapter; darker purple indicates a greater number of active chapters in that country.
+
+## Top Countries by Chapter Count
 
 ```{r}
-#| label: geographic-reach
-#| fig-cap: "Event distribution by region"
+#| label: top-countries
+#| fig-cap: "Countries with the most active R-Ladies chapters"
 
-# Bucket events by region using the chapter's country (not the venue's).
-# chapter_country_iso is joined in via reports/_common.R. Virtual events
-# are attributed to the region of the chapter that organized them.
-regional_events <- current_events |>
+top_countries <- chapters_by_country |>
+  slice_max(n_chapters, n = 15) |>
+  mutate(chapter_country = reorder(chapter_country, n_chapters))
+
+ggplot(top_countries, aes(x = n_chapters, y = chapter_country)) +
+  geom_col(fill = rladies_colors$purple) +
+  geom_text(
+    aes(label = n_chapters),
+    hjust = -0.2,
+    size = 3.5
+  ) +
+  labs(
+    title = "Top Countries by Number of Active Chapters",
+    x = "Number of Chapters",
+    y = NULL
+  ) +
+  scale_x_continuous(expand = expansion(mult = c(0, 0.12)))
+```
+
+## Chapters by Region
+
+```{r}
+#| label: chapters-by-region
+#| fig-cap: "Active chapter distribution across the six reporting regions"
+
+# Bucket active chapters by region using the chapter's ISO2 code, exactly as
+# the event reports do via chapter_region() from reports/_common.R.
+chapters_by_region <- active_chapters |>
   mutate(
     region = chapter_region(chapter_country_iso),
     region = tidyr::replace_na(region, "Other")
   ) |>
   count(region, sort = TRUE)
 
-ggplot(regional_events, aes(x = n, y = reorder(region, n))) +
+ggplot(chapters_by_region, aes(x = n, y = reorder(region, n))) +
   geom_col(fill = rladies_colors$purple) +
   geom_text(
     aes(label = sprintf("%d (%.1f%%)", n, n / sum(n) * 100)),
@@ -152,240 +189,288 @@ ggplot(regional_events, aes(x = n, y = reorder(region, n))) +
     size = 3.5
   ) +
   labs(
-    title = "Events by Region",
-    subtitle = paste(
-      "Reporting period:",
-      format(report_start, "%b %Y"),
-      "-",
-      format(report_end, "%b %Y")
-    ),
-    x = "Number of Events",
+    title = "Active Chapters by Region",
+    subtitle = "Chapters active in the last year, grouped into the six regions",
+    x = "Number of Chapters",
     y = NULL
   ) +
   scale_x_continuous(expand = expansion(mult = c(0, 0.15)))
 ```
 
 ```{r}
-#| label: regional-summary
+#| label: region-metrics
 #| include: false
 
-regions_served <- sum(
-  regional_events$n[regional_events$region != "Virtual (Global)"] > 0
-)
-continents <- regional_events |>
-  filter(region != "Virtual (Global)", region != "Other") |>
+regions_with_chapters <- chapters_by_region |>
+  filter(region != "Other") |>
   nrow()
+
+leading_region <- chapters_by_region |>
+  slice_max(n, n = 1) |>
+  pull(region)
 ```
 
-R-Ladies events reached **`r continents`** major geographic regions with **`r format(sum(regional_events$n), big.mark = ",")`** total events.
+Active chapters are present in **`r regions_with_chapters`** of the six reporting regions, with **`r leading_region`** hosting the largest share.
 
-## Event Activity and Impact
-
-### Event Volume Trends
+### Growing countries
 
 ```{r}
-#| label: event-trends
-#| fig-cap: "Monthly event activity"
+#| label: growing-countries
+#| fig-cap: "Top 5 countries by year-over-year attendance growth (last 12 months)"
 
-monthly_events <- events_analyzed |>
-  filter(event_date >= Sys.Date() - years(2)) |>
-  mutate(month = floor_date(event_date, "month")) |>
-  count(month)
+# Attendance ("going") by chapter country, comparing the last 12 months against
+# the 12 months before that. 
 
-ggplot(monthly_events, aes(x = month, y = n)) +
+previous_start <- report_start - years(1)
+
+attendance_periods <- events |>
+  mutate(event_date = as.Date(datetime_utc)) |>
+  filter(!status %in% c("cancelled", "CANCELLED")) |>
+  mutate(
+    period = case_when(
+      event_date >= report_start & event_date < report_end ~ "current",
+      event_date >= previous_start & event_date < report_start ~ "previous",
+      TRUE ~ NA_character_
+    )
+  ) |>
+  filter(!is.na(period)) |>
+  group_by(chapter_country, period) |>
+  summarise(attendance = sum(going, na.rm = TRUE), .groups = "drop") |>
+  tidyr::pivot_wider(names_from = period, values_from = attendance, values_fill = 0)
+
+# Keep countries present in both periods, compute YoY % growth, take top 5 of only countries that have shown growth.
+growing_countries <- attendance_periods |>
+  filter(previous > 0, current > previous) |>
+  mutate(growth_pct = (current - previous) / previous * 100) |>
+  slice_max(growth_pct, n = 5) |>
+  mutate(chapter_country = reorder(chapter_country, growth_pct))
+
+ggplot(growing_countries, aes(x = growth_pct, y = chapter_country)) +
   geom_col(fill = rladies_colors$purple) +
-  geom_smooth(
-    method = "loess",
-    se = TRUE,
-    alpha = 0.2,
-    color = rladies_colors$dark_purple,
-    linewidth = 1
+  geom_text(
+    aes(label = sprintf("+%.0f%% (%d→%d)", growth_pct, previous, current)),
+    hjust = -0.05,
+    size = 3.5
   ) +
   labs(
-    title = "Monthly Event Activity",
-    subtitle = "Last 24 months with trend line",
-    x = "Month",
-    y = "Number of Events"
+    title = "Highest Growing Countries by Attendance",
+    subtitle = "Year-over-year change in total attendance (last 12 months)",
+    x = "Attendance Growth (%)",
+    y = NULL
   ) +
-  scale_x_date(date_labels = "%b %Y", date_breaks = "3 months") +
-  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+  scale_x_continuous(expand = expansion(mult = c(0, 0.25)))
 ```
 
-### Event Format Evolution
+
+### Event type by country and region
 
 ```{r}
-#| label: format-evolution
-#| fig-cap: "Virtual vs in-person event distribution over time"
+#| label: event-type-base
+#| fig-cap: "In-person vs online events by region (last 12 months)"
 
-format_trends <- events_analyzed |>
-  filter(event_date >= Sys.Date() - years(2)) |>
-  mutate(
-    quarter = floor_date(event_date, "quarter"),
-    quarter_label = paste0(year(quarter), " Q", quarter(quarter)),
-    format = if_else(is_virtual, "Virtual", "In-Person")
+# Classify last-year events as Online vs In-Person using the same location
+# heuristic as funder-report.qmd, and attach the chapter's country and region
+# (chapter_country / chapter_country_iso are joined onto events in _common.R).
+events_typed <- events |>
+  mutate(event_date = as.Date(datetime_utc)) |>
+  filter(
+    event_date >= report_start,
+    event_date < report_end,
+    !status %in% c("cancelled", "CANCELLED")
   ) |>
-  count(quarter, quarter_label, format) |>
-  group_by(quarter) |>
-  mutate(percentage = n / sum(n) * 100)
+  mutate(
+    format = if_else(
+      str_detect(tolower(location %||% ""), "online|virtual|zoom|meet|not announced"),
+      "Online",
+      "In-Person"
+    ),
+    region = tidyr::replace_na(chapter_region(chapter_country_iso), "Other")
+  )
 
-ggplot(format_trends, aes(x = quarter, y = n, fill = format)) +
-  geom_col(position = "stack") +
+# Count by region and format.
+type_by_region <- events_typed |>
+  count(region, format)
+
+ggplot(type_by_region, aes(x = n, y = reorder(region, n), fill = format)) +
+  geom_col() +
   scale_fill_manual(
     values = c(
-      "Virtual" = rladies_colors$purple,
+      "Online" = rladies_colors$purple,
       "In-Person" = rladies_colors$light_purple
     )
   ) +
   labs(
-    title = "Event Format Distribution",
-    subtitle = "Quarterly breakdown of virtual and in-person events",
-    x = "Quarter",
-    y = "Number of Events",
+    title = "Event Format by Region",
+    subtitle = "In-person and online events (last 12 months)",
+    x = "Number of Events",
+    y = NULL,
     fill = "Format"
   ) +
-  scale_x_date(date_labels = "%Y Q%q", date_breaks = "3 months") +
+  scale_x_continuous(expand = expansion(mult = c(0, 0.05)))
+```
+
+```{r}
+#| label: event-type-country
+#| fig-cap: "In-person vs online events by country (last 12 months)"
+#| fig-height: 7
+
+# Same breakdown at country level. Many countries have few events, so we show
+# the top 20 by total events to keep the axis readable.
+type_by_country <- events_typed |>
+  count(chapter_country, format) |>
+  group_by(chapter_country) |>
+  mutate(total = sum(n)) |>
+  ungroup() |>
+  slice_max(total, n = 40, with_ties = FALSE) |>  # 40 rows = up to 20 countries x 2 formats
+  mutate(chapter_country = reorder(chapter_country, total))
+
+ggplot(type_by_country, aes(x = n, y = chapter_country, fill = format)) +
+  geom_col() +
+  scale_fill_manual(
+    values = c(
+      "Online" = rladies_colors$purple,
+      "In-Person" = rladies_colors$light_purple
+    )
+  ) +
+  labs(
+    title = "Event Format by Country",
+    subtitle = "Top countries by total events (last 12 months)",
+    x = "Number of Events",
+    y = NULL,
+    fill = "Format"
+  ) +
+  scale_x_continuous(expand = expansion(mult = c(0, 0.05)))
+```
+
+```{r}
+#| label: event-type-trend-global
+#| fig-cap: "Monthly trend of event formats (last 12 months)"
+
+# Monthly counts of Online vs In-Person across all chapters.
+trend_global <- events_typed |>
+  mutate(month = lubridate::floor_date(event_date, "month")) |>
+  count(month, format)
+
+ggplot(trend_global, aes(x = month, y = n, color = format)) +
+  geom_line(linewidth = 1) +
+  geom_point(size = 2) +
+  scale_color_manual(
+    values = c(
+      "Online" = rladies_colors$purple,
+      "In-Person" = rladies_colors$light_purple
+    )
+  ) +
+  labs(
+    title = "Monthly Event Format Trend",
+    subtitle = "Last 12 months, all chapters",
+    x = "Month",
+    y = "Number of Events",
+    color = "Format"
+  ) +
+  scale_x_date(date_labels = "%b %Y", date_breaks = "2 months") +
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 ```
 
-Virtual events comprise **`r round(virtual_count / total_events_current * 100, 1)`%** of all events, ensuring accessibility for members regardless of location or mobility constraints.
-
-## Community Engagement
-
-### Most Active Chapters
-
 ```{r}
-#| label: top-chapters
-#| fig-cap: "Top 20 chapters by event count"
+#| label: event-type-trend-region
+#| fig-cap: "Monthly trend of event formats by region (last 12 months)"
+#| fig-height: 7
 
-top_chapters <- current_events |>
-  count(group_urlname, sort = TRUE) |>
-  slice_head(n = 20)
+# Same monthly trend, faceted by region. "Other" is dropped to avoid a sparse,
+# uninformative panel; remove the filter to keep it.
+trend_region <- events_typed |>
+  filter(region != "Other") |>
+  mutate(month = lubridate::floor_date(event_date, "month")) |>
+  count(month, region, format)
 
-ggplot(top_chapters, aes(x = n, y = reorder(group_urlname, n))) +
-  geom_col(fill = rladies_colors$purple) +
-  geom_text(
-    aes(label = n),
-    hjust = -0.2,
-    size = 3
+ggplot(trend_region, aes(x = month, y = n, color = format)) +
+  geom_line(linewidth = 0.8) +
+  geom_point(size = 1.5) +
+  facet_wrap(~ region, ncol = 2) +
+  scale_color_manual(
+    values = c(
+      "Online" = rladies_colors$purple,
+      "In-Person" = rladies_colors$light_purple
+    )
   ) +
   labs(
-    title = "Most Active Chapters",
-    subtitle = paste(
-      "Top 20 chapters:",
-      format(report_start, "%b %Y"),
-      "-",
-      format(report_end, "%b %Y")
-    ),
-    x = "Number of Events",
-    y = NULL
+    title = "Monthly Event Format Trend by Region",
+    subtitle = "Last 12 months",
+    x = "Month",
+    y = "Number of Events",
+    color = "Format"
   ) +
-  scale_x_continuous(expand = expansion(mult = c(0, 0.15)))
+  scale_x_date(date_labels = "%b", date_breaks = "3 months") +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
 ```
 
-### Chapter Health and Sustainability
+### Venue diversity by chapter
 
 ```{r}
-#| label: chapter-health
-#| fig-cap: "Chapter activity distribution"
+#| label: venue-diversity-calc
+#| include: false
 
-chapter_health <- current_events |>
-  count(group_urlname, name = "events") |>
+# Count distinct venues per chapter over the last 12 months. A venue is either
+# a distinct in-person venue_name OR "Online" treated as a single venue type.
+# Example: 5 events = 2 online + 3 at 3 different places -> 4 venues.
+venue_diversity <- events |>
+  mutate(event_date = as.Date(datetime_utc)) |>
+  filter(
+    event_date >= report_start,
+    event_date < report_end,
+    !status %in% c("cancelled", "CANCELLED")
+  ) |>
   mutate(
-    activity_level = case_when(
-      events >= 12 ~ "Very Active (12+ events)",
-      events >= 6 ~ "Active (6-11 events)",
-      events >= 3 ~ "Moderate (3-5 events)",
-      TRUE ~ "New/Emerging (1-2 events)"
-    ),
-    activity_level = factor(
-      activity_level,
-      levels = c(
-        "Very Active (12+ events)",
-        "Active (6-11 events)",
-        "Moderate (3-5 events)",
-        "New/Emerging (1-2 events)"
-      )
+    # Collapse all online events into one venue label; keep in-person venues
+    # as their own names. Unnamed in-person events fall back to "Unknown venue".
+    venue = case_when(
+      str_detect(tolower(location %||% ""), "online|virtual|zoom|meet|not announced") ~ "Online",
+      !is.na(venue_name) & venue_name != "" ~ venue_name,
+      TRUE ~ "Unknown venue"
     )
   ) |>
-  count(activity_level)
+  group_by(group_urlname, group_name) |>
+  summarise(n_venues = n_distinct(venue), .groups = "drop") |>
+  arrange(desc(n_venues))
 
-ggplot(chapter_health, aes(x = activity_level, y = n)) +
+# Headline indicator: the single most venue-diverse chapter.
+most_diverse_chapter <- venue_diversity |> slice_max(n_venues, n = 1, with_ties = FALSE)
+median_venues <- median(venue_diversity$n_venues)
+```
+
+The most venue-diverse chapter in the last year is
+**`r most_diverse_chapter$group_name`**, with
+**`r most_diverse_chapter$n_venues`** distinct venues (online counts as one).
+The median active chapter used **`r median_venues`** venue(s).
+
+```{r}
+#| label: venue-diversity-plot
+#| fig-cap: "Chapters with the most venue variety (last 12 months)"
+
+# Top 15 chapters by number of distinct venues. group_name is the readable
+# chapter label; fall back to group_urlname only if a name is missing.
+top_venue_chapters <- venue_diversity |>
+  slice_max(n_venues, n = 15, with_ties = FALSE) |>
+  mutate(
+    chapter = coalesce(group_name, group_urlname),
+    chapter = reorder(chapter, n_venues)
+  )
+
+ggplot(top_venue_chapters, aes(x = n_venues, y = chapter)) +
   geom_col(fill = rladies_colors$purple) +
   geom_text(
-    aes(label = sprintf("%d\n(%.1f%%)", n, n / sum(n) * 100)),
-    vjust = -0.3,
+    aes(label = n_venues),
+    hjust = -0.3,
     size = 3.5
   ) +
   labs(
-    title = "Chapter Activity Distribution",
-    x = "Activity Level",
-    y = "Number of Chapters"
+    title = "Most Venue-Diverse Chapters",
+    subtitle = "Distinct venues per chapter, online counted as one (last 12 months)",
+    x = "Number of Distinct Venues",
+    y = NULL
   ) +
-  scale_y_continuous(expand = expansion(mult = c(0, 0.15))) +
-  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+  scale_x_continuous(expand = expansion(mult = c(0, 0.12)), breaks = scales::breaks_pretty())
 ```
-
-```{r}
-#| label: health-metrics
-#| include: false
-
-very_active <- chapter_health |>
-  filter(activity_level == "Very Active (12+ events)") |>
-  pull(n)
-active_plus <- chapter_health |>
-  filter(
-    activity_level %in% c("Very Active (12+ events)", "Active (6-11 events)")
-  ) |>
-  summarise(n = sum(n)) |>
-  pull(n)
-```
-
-**`r very_active`** chapters hosted 12+ events (monthly or more frequent), demonstrating strong community engagement.
-**`r active_plus`** chapters maintained regular programming with 6+ events throughout the year.
-
-## Looking Forward
-
-### Strategic Priorities
-
-Based on this year's data and community feedback, our priorities for the coming year include:
-
-1. **Chapter Support**: Provide resources and mentorship to chapters in the "Moderate" category to increase activity  
-2. **Geographic Expansion**: Focus outreach in underserved regions, particularly Africa and Asia  
-3. **Sustainability**: Develop leadership succession planning for very active chapters  
-4. **Accessibility**: Maintain strong virtual programming while supporting return to in-person events  
-5. **Network Effects**: Facilitate cross-chapter collaborations and speaker sharing  
-
-### Goals for Next Year
-
-- Increase active chapters by 15-20%  
-- Support 50+ new chapter launches  
-- Host 1,000+ events globally  
-- Expand presence in underrepresented regions  
-- Develop comprehensive organizer training program  
-
-## Financial Stewardship
-
-Funding received this year has directly supported:
-
-- **Infrastructure**: Meetup.com platform costs for `r total_chapters` chapters  
-- **Programming**: Virtual event platform licenses and technical support  
-- **Outreach**: Marketing materials and promotional campaigns  
-- **Development**: Website maintenance and community tools  
-- **Training**: Organizer resources and leadership development  
-
-All funds are used exclusively for community benefit, with volunteer leadership ensuring efficient resource allocation.
-
-## Acknowledgments
-
-This impact was made possible by:
-
-- **`r active_chapters_current`** chapter organizing teams  
-- Hundreds of volunteer speakers and workshop leaders  
-- Our dedicated global leadership team  
-- Technical contributors to R-Ladies infrastructure  
-- Our generous funders and sponsors  
-
-Thank you for supporting R-Ladies Global in promoting gender diversity in the R community.
 
 ---
 
