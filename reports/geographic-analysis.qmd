@@ -25,7 +25,7 @@ library(maps)
 
 This report maps the global footprint of R-Ladies, showing where chapters are located and how they cluster across countries and regions.
 
-### Active countries
+### Active countries last year
 
 ```{r}
 #| label: active-chapters
@@ -35,7 +35,7 @@ This report maps the global footprint of R-Ladies, showing where chapters are lo
 # funder-report.qmd and chapter-health.qmd. chapter_country / chapter_country_iso
 # are joined onto events in reports/_common.R (the chapter's country, not the
 # venue's), so geography comes straight from the event table.
-report_end <- Sys.Date()
+report_end <- lubridate::floor_date(Sys.Date(), "month")
 report_start <- report_end - years(1)
 
 active_chapters <- events |>
@@ -53,8 +53,6 @@ total_countries <- n_distinct(active_chapters$chapter_country_iso)
 ```
 
 In the last year, **`r total_chapters`** R-Ladies chapters were active across **`r total_countries`** countries worldwide.
-
-## Chapters by Country
 
 ```{r}
 #| label: choropleth-map
@@ -146,9 +144,7 @@ ggplot(
   )
 ```
 
-Countries shown in grey have no active R-Ladies chapter; darker purple indicates a greater number of active chapters in that country.
-
-## Top Countries by Chapter Count
+#### Countries by Chapter Count
 
 ```{r}
 #| label: top-countries
@@ -166,59 +162,12 @@ ggplot(top_countries, aes(x = n_chapters, y = chapter_country)) +
     size = 3.5
   ) +
   labs(
-    title = "Top Countries by Number of Active Chapters",
-    x = "Number of Chapters",
+    title = "Top Countries by Number of Chapters last year",
+    x = "Number of active Chapters",
     y = NULL
   ) +
   scale_x_continuous(expand = expansion(mult = c(0, 0.12)))
 ```
-
-## Chapters by Region
-
-```{r}
-#| label: chapters-by-region
-#| fig-cap: "Active chapter distribution across the six reporting regions"
-
-# Bucket active chapters by region using the chapter's ISO2 code, exactly as
-# the event reports do via chapter_region() from reports/_common.R.
-chapters_by_region <- active_chapters |>
-  mutate(
-    region = chapter_region(chapter_country_iso),
-    region = tidyr::replace_na(region, "Other")
-  ) |>
-  count(region, sort = TRUE)
-
-ggplot(chapters_by_region, aes(x = n, y = reorder(region, n))) +
-  geom_col(fill = rladies_colors$purple) +
-  geom_text(
-    aes(label = sprintf("%d (%.1f%%)", n, n / sum(n) * 100)),
-    hjust = -0.1,
-    size = 3.5
-  ) +
-  labs(
-    title = "Active Chapters by Region",
-    subtitle = "Chapters active in the last year, grouped into the six regions",
-    x = "Number of Chapters",
-    y = NULL
-  ) +
-  scale_x_continuous(expand = expansion(mult = c(0, 0.15)))
-```
-
-```{r}
-#| label: region-metrics
-#| include: false
-
-regions_with_chapters <- chapters_by_region |>
-  filter(region != "Other") |>
-  nrow()
-
-leading_region <- chapters_by_region |>
-  slice_max(n, n = 1) |>
-  pull(region)
-```
-
-Active chapters are present in **`r regions_with_chapters`** of the six reporting regions, with **`r leading_region`** hosting the largest share.
-
 ### Growing countries
 
 ```{r}
@@ -267,6 +216,52 @@ ggplot(growing_countries, aes(x = growth_pct, y = chapter_country)) +
   ) +
   scale_x_continuous(expand = expansion(mult = c(0, 0.25)))
 ```
+
+### Chapters by Region
+
+```{r}
+#| label: chapters-by-region
+#| fig-cap: "Active chapter distribution across the six reporting regions"
+
+# Bucket active chapters by region using the chapter's ISO2 code, exactly as
+# the event reports do via chapter_region() from reports/_common.R.
+chapters_by_region <- active_chapters |>
+  mutate(
+    region = chapter_region(chapter_country_iso),
+    region = tidyr::replace_na(region, "Other")
+  ) |>
+  count(region, sort = TRUE)
+
+ggplot(chapters_by_region, aes(x = n, y = reorder(region, n))) +
+  geom_col(fill = rladies_colors$purple) +
+  geom_text(
+    aes(label = sprintf("%d (%.1f%%)", n, n / sum(n) * 100)),
+    hjust = -0.1,
+    size = 3.5
+  ) +
+  labs(
+    title = "Active Chapters by Region",
+    subtitle = "Chapters active in the last year, grouped into the six regions",
+    x = "Number of Chapters",
+    y = NULL
+  ) +
+  scale_x_continuous(expand = expansion(mult = c(0, 0.15)))
+```
+
+```{r}
+#| label: region-metrics
+#| include: false
+
+regions_with_chapters <- chapters_by_region |>
+  filter(region != "Other") |>
+  nrow()
+
+leading_region <- chapters_by_region |>
+  slice_max(n, n = 1) |>
+  pull(region)
+```
+
+Active chapters are present in **`r regions_with_chapters`** of the six reporting regions, with **`r leading_region`** hosting the largest share.
 
 
 ### Event type by country and region
@@ -388,7 +383,8 @@ ggplot(trend_global, aes(x = month, y = n, color = format)) +
 trend_region <- events_typed |>
   filter(region != "Other") |>
   mutate(month = lubridate::floor_date(event_date, "month")) |>
-  count(month, region, format)
+  count(month, region, format) |>
+  tidyr::complete(month, region, format, fill = list(n = 0))
 
 ggplot(trend_region, aes(x = month, y = n, color = format)) +
   geom_line(linewidth = 0.8) +
@@ -408,7 +404,11 @@ ggplot(trend_region, aes(x = month, y = n, color = format)) +
     color = "Format"
   ) +
   scale_x_date(date_labels = "%b", date_breaks = "3 months") +
-  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+  theme(
+    axis.text.x = element_text(angle = 45, hjust = 1),
+    panel.spacing.y = unit(3, "lines"),
+    strip.text = element_text(margin = margin(b = 4))
+  )
 ```
 
 ### Venue diversity by chapter
