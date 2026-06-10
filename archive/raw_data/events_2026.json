@@ -15,9 +15,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/6/9/b/thumb_534558075.jpeg"
     },
     "rsvps": {
-      "yesCount": 22,
+      "yesCount": 23,
       "waitlistCount": 0,
-      "totalCount": 22
+      "totalCount": 23
     },
     "venues": [],
     "group": {
@@ -67,6 +67,58 @@
     "createdTime": "2026-06-02T02:17:06-04:00"
   },
   {
+    "id": "315187789",
+    "title": "TechLegion Summer School: Claude AI Cerified Architect!",
+    "description": "Want to become a certified Claude AI Architect?\n\nSpend this summer learning skills that employers are actively looking for.\nAI Architects, AI Agents, MCP, prompt engineering, and agentic systems are becoming some of the fastest-growing areas in tech. Want to be part of it?\n\nTechLegion Summer School 2026 was created to help you learn these skills, prepare for an official certification, and connect with a community of professionals doing the same.\nAs a partner in the Claude Partner Network, TechLegion offers members the opportunity to prepare for and earn official Anthropic certifications through our dedicated study cohort.\n\n🤖 Registration for cohort: https://linkly.link/2kCF8\n\nThe study cohort is free for TechLegion members. Please note that TechLegion membership is required to join the programme, as participants receive a TechLegion email account and access to member resources under our domain.\n\nLearn together. Get certified. Build your AI skills this summer!.",
+    "status": "ACTIVE",
+    "dateTime": "2026-06-19T19:00:00+03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-kyiv/events/315187789/",
+    "featuredEventPhoto": {
+      "id": "534668004",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/f/4/4/highres_534668004.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/f/4/4/600_534668004.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/f/4/4/thumb_534668004.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 1,
+      "waitlistCount": 0,
+      "totalCount": 1
+    },
+    "venues": [
+      {
+        "id": "27855105",
+        "name": "Zurich online and offline",
+        "address": "Zwinglipl. 7, 8001 Zürich",
+        "city": "Zürich",
+        "state": "",
+        "country": "ch",
+        "lat": 47.3702,
+        "lon": 8.5439,
+        "postalCode": "meetup1",
+        "venueType": ""
+      },
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Kyiv",
+      "urlname": "rladies-kyiv"
+    },
+    "createdTime": "2026-06-09T15:48:15-04:00"
+  },
+  {
     "id": "314962750",
     "title": "17º Meet Up: Dominando o ggplot2 - do zero a gráficos profissionais",
     "description": "Já tentou construir um gráfico no R usando o pacote ggplot2 e teve a sensação de que estava aprendendo outra língua? Pois é: o ggplot2 tem uma lógica própria. A boa notícia é que, depois de entendê-la, dificilmente você vai querer voltar a montar gráficos manualmente no Excel. Neste minicurso, vamos explorar os princípios fundamentais do ggplot2, partindo do zero até recursos mais avançados de personalização, para que você consiga construir gráficos elegantes, informativos e reproduzíveis no R.",
@@ -82,9 +134,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/0/6/thumb_534420518.jpeg"
     },
     "rsvps": {
-      "yesCount": 49,
+      "yesCount": 68,
       "waitlistCount": 0,
-      "totalCount": 49
+      "totalCount": 68
     },
     "venues": [
       {
@@ -150,7 +202,7 @@
     "id": "314655645",
     "title": "R bugs and bites",
     "description": "Join us for a relaxed evening with tea, snacks, and good company. Bring an R challenge you've been stuck on, a project you want to make progress on, or just yourself. There's no agenda, no slides -- just a room full of people who like R (and snacks).\nWhether you're a beginner looking for a nudge in the right direction or a seasoned R-user happy to share what you know, you're welcome here.\n\nThe event will take place in the room ØHM11. The outer door is locked, but we will wait outside to let you in, or call me on 47641800.\nMazemap: https://link.mazemap.com/E1NxhvoO\nGoogle maps: https://maps.app.goo.gl/MbuZZPL8m2simBwd9\n\nThe room may be a bit confusing to find, because it is NOT in the main building of Øya helsehus, it is in a smaller building right east of it.",
-    "status": "ACTIVE",
+    "status": "PAST",
     "dateTime": "2026-06-09T17:00:00+02:00",
     "duration": "PT1H30M",
     "eventUrl": "https://www.meetup.com/rladies-trondheim/events/314655645/",
