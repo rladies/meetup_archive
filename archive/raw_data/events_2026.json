@@ -27,6 +27,46 @@
     "createdTime": "2026-06-03T17:01:43-04:00"
   },
   {
+    "id": "315198238",
+    "title": "From data analysis to publication: Reproducible research with R and Quarto",
+    "description": "Research is most valuable when others can understand it, reproduce it, and build upon it.\n\nYet many research workflows still rely on disconnected files, manual copy-and-paste steps, and documents that are difficult to update or share.\n\nIn this workshop, we will explore how **R** and **Quarto** can help create reproducible research workflows that take you from data analysis to publication using open-source tools.\n\nParticipants will learn how to integrate code, results, figures, tables, and narrative into a single document, making it possible to generate academic manuscripts, technical reports, presentations, and even theses from the same source.\n\nBy combining analysis and writing in a reproducible workflow, researchers can improve transparency, reduce errors, and make their work easier to maintain and share.\n\nDuring the session, we will cover:\n\n* Creating reproducible research documents with Quarto\n* Combining R code, results, figures, and narrative\n* Generating reports, manuscripts, presentations, and other outputs\n* Organizing research projects for transparency and reproducibility\n* Sharing and publishing research using open-source tools\n\nThis workshop is designed for undergraduate and graduate students, early-career researchers, and anyone interested in adopting reproducible research practices.\n\nWhether you are preparing a thesis, writing a manuscript, or creating analytical reports, this session will provide practical tools to streamline your workflow and improve the reproducibility of your work.",
+    "status": "ACTIVE",
+    "dateTime": "2026-06-23T18:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-rome/events/315198238/",
+    "featuredEventPhoto": {
+      "id": "534678930",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/9/f/2/highres_534678930.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/9/f/2/600_534678930.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/9/f/2/thumb_534678930.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 25,
+      "waitlistCount": 0,
+      "totalCount": 25
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Rome",
+      "urlname": "rladies-rome"
+    },
+    "createdTime": "2026-06-10T10:56:40-04:00"
+  },
+  {
     "id": "315065879",
     "title": "Coffee and Code",
     "description": "Come join us for a casual coffee and code. There will be a short demo in beginning on getting your computer setup to use OpenAI models from GitHub models by Daniel. We can proceed to trying those out or focus on what you are interested in. Bring any projects, talks you are prepping or questions you may have.\n\nRladies Stickers and other R swag may make an appearance!\n\n\\*\\*\\*\n\n1. If this is your first R-Ladies event, please take a moment to review our R-Ladies Global code of conduct: [https://github.com/rladies/starter-kit/wiki/Code-of-Conduct](https://github.com/rladies/starter-kit/wiki/Code-of-Conduct)\n2. Who is this allowed to attend the event?\n\nEveryone is welcome to join us at our events and to be a part of our mission to empower gender minorities with the skills and knowledge to code in one of the top programming language in data science, which is R.\n3\\. To fulfill this mission we do ask participants to respect a focus on the encouragement and support for women and non\\-binary people during our events\\.",
@@ -180,9 +220,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/0/6/thumb_534420518.jpeg"
     },
     "rsvps": {
-      "yesCount": 69,
+      "yesCount": 70,
       "waitlistCount": 0,
-      "totalCount": 69
+      "totalCount": 70
     },
     "venues": [
       {
@@ -208,7 +248,7 @@
     "id": "314673305",
     "title": "HePriceR: An R Package for Health Insurance",
     "description": "We are pleased to welcome **Eva Flonner** from UNIQA Insurance Group to present an R package for health insurance. Join us to explore how R can be put to work in actuarial practice, from data to modeling to simulation. As we promote gender diversity and inclusion in the R community, all genders and skill levels in R are welcome!\n\n**ℹ️ Abstract**\n**HePriceR** is an R package for health insurance pricing that provides a framework for modeling expected claims and their uncertainty. The package consolidates classical actuarial approaches with modern statistical modeling, enabling transparent, reproducible, and extensible actuarial workflows.\n\nThe core focus of HePriceR lies in the estimation of expected claims and their uncertainty. It implements multiple methodological approaches, including the Rusam method for expected claims, as well as comprehensive frequency–severity modeling. The package further provides technical implementations for common product design features, such as deductibles, sublimits, and benefit caps, ensuring that modeled claim distributions align with contractual reality. From a software design perspective, HePriceR relies on a structured system of S3 classes and methods, including dedicated hpr_pricing_data objects and corresponding fit objects. This design enables consistent handling of data, fitted models, diagnostics, and downstream simulation. On top of the fitted models, the package offers Monte Carlo simulation capabilities. Overall, HePriceR provides a cohesive actuarial toolkit that bridges actuarial methodology and statistical modeling, supporting both daily operations and advanced analytical use cases. This package is based on joint work with Herr Kompott.\n\n**🗺️ Location**\nSeminar Room DC red 07 / Sem.R. DC rot 07\n(DC07A15)\n7th floor, red area\nTU Wien Freihaus\nWiedner Hauptstraße 8-10, 1040 Vienna ([map](https://maps.app.goo.gl/N8PSCZfdi97KirFY6))\n\n**📍 How to find us**\nIn the red area of TU Wien Freihaus, take the lift to the 7th floor. After exiting the lift, turn right and walk through the door. The seminar room will be on your left.\nUse this [floor plan](https://maps.tuwien.ac.at/?q=DC07A15#map) to help locate the room.",
-    "status": "ACTIVE",
+    "status": "PAST",
     "dateTime": "2026-06-10T18:00:00+02:00",
     "duration": "PT1H30M",
     "eventUrl": "https://www.meetup.com/rladies-vienna/events/314673305/",
