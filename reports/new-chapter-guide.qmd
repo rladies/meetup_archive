@@ -1,8 +1,8 @@
 ---
-title: "R-Ladies New Chapter Guide"
+title: "R-Ladies+ New Chapter Guide"
 subtitle: "Guidelines and Insights for Starting and Growing New Chapters"
 date: "`r Sys.Date()`"
-author: "R-Ladies Global"
+author: "R-Ladies+ Global"
 slug: new-chapter-guide
 categories:
   - reports
@@ -22,7 +22,7 @@ source(here::here("reports/_common.R"))
 
 ## Executive Summary
 
-This guide gives new R-Ladies organizers a feel for what the community actually runs and what draws a crowd. It focuses on popularity rather than volume: which topics, difficulty levels, and formats attract the most RSVPs, and how widely they spread across chapters.
+This guide gives new R-Ladies+ organizers a feel for what the community actually runs and what draws a crowd. It focuses on popularity rather than volume: which topics, difficulty levels, and formats attract the most RSVPs, and how widely they spread across chapters.
 Topics are detected by keyword matching, so the categories below reflect the themes we could reliably capture from event text, not an exhaustive list of every topic covered in the period. 
 For a fuller breakdown of what gets published regardless of turnout, see the Topic Analysis report.
 
@@ -431,9 +431,6 @@ topic_trends <- topic_long |>
   mutate(quarter = floor_date(event_date, "quarter")) |>
   count(quarter, category)
 
-# Five distinguishable R-Ladies purples. unname() is essential: a *named* value
-# vector makes scale_color_manual match by name, find no matching category, and
-# fall back to grey for every line (the "No shared levels" warning).
 rladies_purples <- unname(c(
   "#88398A",  # purple
   "#C26DBC",  # mid purple
@@ -442,7 +439,6 @@ rladies_purples <- unname(c(
   "#3B1639"   # deepest purple
 ))
 
-# Direct labels: one per line, placed at each category's last quarter.
 trend_labels <- topic_trends |>
   group_by(category) |>
   filter(quarter == max(quarter)) |>
@@ -479,5 +475,5 @@ ggplot(topic_trends, aes(x = quarter, y = n, color = category)) +
 
 *Reporting period: `r format(report_start, "%B %Y")` - `r format(report_end - days(1), "%B %Y")` (24 closed months)*  
 *Report generated: `r format(Sys.time(), "%Y-%m-%d %H:%M %Z")`*  
-*Data source: R-Ladies Meetup Archive*  
+*Data source: R-Ladies+ Meetup Archive*  
 
