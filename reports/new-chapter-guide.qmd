@@ -1,16 +1,16 @@
 ---
-title: "R-Ladies Quarterly Summary"
-subtitle: "Period-over-Period Community Insights"
+title: "R-Ladies+ New Chapter Guide"
+subtitle: "Guidelines and Insights for Starting and Growing New Chapters"
 date: "`r Sys.Date()`"
-author: "R-Ladies Global"
-slug: quarterly-summary
+author: "R-Ladies+ Global"
+slug: new-chapter-guide
 categories:
   - reports
-  - quarterly
+  - guide
 tags:
-  - summary
-  - trends
-  - metrics
+  - topics
+  - popularity
+  - new-chapters
 draft: false
 ---
 
@@ -22,453 +22,458 @@ source(here::here("reports/_common.R"))
 
 ## Executive Summary
 
-This quarterly report provides a snapshot of R-Ladies community activity, highlighting key metrics and trends compared to previous periods.
+This guide gives new R-Ladies+ organizers a feel for what the community actually runs and what draws a crowd. It focuses on popularity rather than volume: which topics, difficulty levels, and formats attract the most RSVPs, and how widely they spread across chapters.
+Topics are detected by keyword matching, so the categories below reflect the themes we could reliably capture from event text, not an exhaustive list of every topic covered in the period. 
+For a fuller breakdown of what gets published regardless of turnout, see the Topic Analysis report.
 
 ```{r}
-#| label: quarterly-metrics
-# Define current and previous quarters
-current_quarter_end <- floor_date(Sys.Date(), "quarter") + months(3) - days(1)
-current_quarter_start <- floor_date(current_quarter_end, "quarter")
+#| label: guide-metrics
+# Define reporting period: the last 12 *closed* months. "Closed" excludes the
+# in-progress current month, so RSVP-based popularity is not biased by events
+# that have not happened yet.
+report_end <- floor_date(Sys.Date(), "month")
+report_start <- report_end - months(12)
 
-previous_quarter_end <- current_quarter_start - days(1)
-previous_quarter_start <- floor_date(previous_quarter_end, "quarter")
+# Word-boundary keyword matcher. Substring matching produced severe false
+# positives ("git" in "digit", "gis" in "register"), so we anchor on word
+# boundaries. Keywords may contain regex fragments (e.g. "ggplot2?").
+detect_any <- function(text, keywords) {
+  str_detect(
+    text,
+    regex(paste0("\\b(", paste(keywords, collapse = "|"), ")\\b"), ignore_case = TRUE)
+  )
+}
 
-year_ago_quarter_end <- current_quarter_end - years(1)
-year_ago_quarter_start <- current_quarter_start - years(1)
-
-# Prepare events data
+# Prepare events data: non-cancelled events in the window, with title +
+# description as the text surface and RSVPs (`going`) as the popularity signal.
 events_analyzed <- events |>
   filter(!status %in% c("cancelled", "CANCELLED")) |>
   mutate(
     event_date = as.Date(datetime_utc),
-    is_virtual = str_detect(
-      tolower(location %||% ""),
-      "online|virtual|zoom|meet|not announced"
-    )
-  )
+    full_text = paste(title, description),
+    rsvps = going
+  ) |>
+  filter(event_date >= report_start, event_date < report_end)
 
-# Current quarter
-current_events <- events_analyzed |>
-  filter(event_date >= current_quarter_start, event_date <= current_quarter_end)
-
-# Previous quarter
-previous_events <- events_analyzed |>
-  filter(
-    event_date >= previous_quarter_start,
-    event_date <= previous_quarter_end
-  )
-
-# Year ago quarter
-year_ago_events <- events_analyzed |>
-  filter(
-    event_date >= year_ago_quarter_start,
-    event_date <= year_ago_quarter_end
-  )
-
-# Calculate metrics
-current_total <- nrow(current_events)
-previous_total <- nrow(previous_events)
-year_ago_total <- nrow(year_ago_events)
-
-current_chapters <- n_distinct(current_events$group_urlname)
-previous_chapters <- n_distinct(previous_events$group_urlname)
-year_ago_chapters <- n_distinct(year_ago_events$group_urlname)
-
-# Growth rates
-qoq_growth <- round((current_total - previous_total) / previous_total * 100, 1)
-yoy_growth <- round((current_total - year_ago_total) / year_ago_total * 100, 1)
-
-chapter_qoq <- round(
-  (current_chapters - previous_chapters) / previous_chapters * 100,
-  1
-)
-chapter_yoy <- round(
-  (current_chapters - year_ago_chapters) / year_ago_chapters * 100,
-  1
-)
-
-# Format quarter labels
-current_q <- paste0(
-  year(current_quarter_start),
-  " Q",
-  quarter(current_quarter_start)
-)
-previous_q <- paste0(
-  year(previous_quarter_start),
-  " Q",
-  quarter(previous_quarter_start)
-)
-year_ago_q <- paste0(
-  year(year_ago_quarter_start),
-  " Q",
-  quarter(year_ago_quarter_start)
-)
+total_events <- nrow(events_analyzed)
+total_chapters <- n_distinct(events_analyzed$group_urlname)
 ```
 
-### Quarter: `r current_q`
+This report covers **`r format(total_events, big.mark = ",")`** events held by **`r total_chapters`** chapters over the 12 closed months from `r format(report_start, "%B %Y")` to `r format(report_end - days(1), "%B %Y")`.
+Throughout, popularity is measured by **median RSVPs** per event (interest signals, not verified attendance).
 
-**Period**: `r format(current_quarter_start, "%B %d")` - `r format(current_quarter_end, "%B %d, %Y")`
+## Diagnostics
 
-- **Total Events**: `r format(current_total, big.mark = ",")`  
-  - Quarter-over-quarter: `r if_else(qoq_growth >= 0, paste0("+", qoq_growth), as.character(qoq_growth))`%  
-  - Year-over-year: `r if_else(yoy_growth >= 0, paste0("+", yoy_growth), as.character(yoy_growth))`%  
-- **Active Chapters**: `r current_chapters`  
-  - Quarter-over-quarter: `r if_else(chapter_qoq >= 0, paste0("+", chapter_qoq), as.character(chapter_qoq))`%  
-  - Year-over-year: `r if_else(chapter_yoy >= 0, paste0("+", chapter_yoy), as.character(chapter_yoy))`%  
-
-## Quarterly Comparison
-
-### Event Volume Trends
+Before reporting anything, we check how the keyword dictionary behaves on the real data.
+Small or ambiguous keywords can match far more, or far less, than intended, so we verify per-keyword hit counts and how much of the corpus stays unclassified.
 
 ```{r}
-#| label: quarterly-comparison
-#| fig-cap: "Event volume comparison across quarters"
+#| label: topic-keywords
+# Topic dictionary, anchored on word boundaries via detect_any. Ambiguous short
+# tokens are fixed ("ggplot2?", no bare "ml"/"api"); ES/PT terms are included
+# given the network's Spanish- and Portuguese-speaking chapters. Keywords were
+# widened by inspecting the most popular previously-unclassified events.
+topic_keywords <- tribble(
+  ~keyword                       , ~category                       ,
+  "\\w*(dataviz|visual|ggplot|chart|plot)\\w*"  , "Visualization"  ,
+  "shiny"                        , "Shiny/Apps"                    ,
+  "dashboards?"                  , "Shiny/Apps"                    ,
+  "web app"                      , "Shiny/Apps"                    ,
+  "machine learning"             , "Machine Learning & AI"         ,
+  "deep learning"                , "Machine Learning & AI"         ,
+  "tidymodels"                   , "Machine Learning & AI"         ,
+  "llm"                          , "Machine Learning & AI"         ,
+  "chatgpt"                      , "Machine Learning & AI"         ,
+  "ellmer"                       , "Machine Learning & AI"         ,
+  "artificial intelligence"      , "Machine Learning & AI"         ,
+  "model(l?ing|s)?"              , "Machine Learning & AI"         ,
+  "data science"                 , "Machine Learning & AI"         ,
+  "tidyverse"                    , "Data Wrangling & Programming"   ,
+  "dplyr"                        , "Data Wrangling & Programming"   ,
+  "data cleaning"                , "Data Wrangling & Programming"   ,
+  "data wrangling"               , "Data Wrangling & Programming"   ,
+  "sql"                          , "Data Wrangling & Programming"   ,
+  "an[\u00e1a]lisis de datos"    , "Data Wrangling & Programming"   ,
+  "an[\u00e1a]lise de dados"     , "Data Wrangling & Programming"   ,
+  "debugging"                    , "Data Wrangling & Programming"   ,
+  "functions?"                   , "Data Wrangling & Programming"   ,
+  "funciones"                    , "Data Wrangling & Programming"   ,
+  "programaci[\u00f3o]n"         , "Data Wrangling & Programming"   ,
+  "introducci[\u00f3o]n"         , "Data Wrangling & Programming"   ,
+  "introdu[\u00e7c][\u00e3a]o"   , "Data Wrangling & Programming"   ,
+  "r ?studio"                    , "Data Wrangling & Programming"   ,
+  "posit"                        , "Data Wrangling & Programming"   ,
+  "positron"                     , "Data Wrangling & Programming"   ,
+  "quarto"                       , "Publishing"                    ,
+  "rmarkdown"                    , "Publishing"                    ,
+  "r markdown"                   , "Publishing"                    ,
+  "reproducib(le|ility)"         , "Publishing"                    ,
+  "gtsummary"                    , "Publishing"                    ,
+  "tabelas"                      , "Publishing"                    ,
+  "package development"          , "Package Development"           ,
+  "r packages?"                  , "Package Development"           ,
+  "git"                          , "Git/GitHub"                    ,
+  "github"                       , "Git/GitHub"                    ,
+  "version control"              , "Git/GitHub"                    ,
+  "python"                       , "Python/Reticulate"                ,
+  "reticulate"                   , "Python/Reticulate"                ,
+  "statistics"                   , "Statistics & Bioinformatics"   ,
+  "statistical"                  , "Statistics & Bioinformatics"   ,
+  "regression"                   , "Statistics & Bioinformatics"   ,
+  "estad[\u00edi]stica"          , "Statistics & Bioinformatics"   ,
+  "bioinformatics"               , "Statistics & Bioinformatics"   ,
+  "transcriptomics"              , "Statistics & Bioinformatics"   ,
+  "single-cell"                  , "Statistics & Bioinformatics"   ,
+  "genomics"                     , "Statistics & Bioinformatics"   ,
+  "gwas"                         , "Statistics & Bioinformatics"   ,
+  "seurat"                       , "Statistics & Bioinformatics"   ,
+  "spatial"                      , "Spatial Analysis"              ,
+  "geospatial"                   , "Spatial Analysis"              ,
+  "gis"                          , "Spatial Analysis"              ,
+  "mapping"                      , "Spatial Analysis"              ,
+  "geocomputation"               , "Spatial Analysis"              ,
+  "rgee"                         , "Spatial Analysis"              ,
+  "rgbif"                        , "Spatial Analysis"              ,
+  "espacia(l|is)"                , "Spatial Analysis"              ,
+  "text mining"                  , "Text Mining/NLP"               ,
+  "nlp"                          , "Text Mining/NLP"               ,
+  "sentiment"                    , "Text Mining/NLP"               ,
+  "api"                          , "APIs/Web"                      ,
+  "web scraping"                 , "APIs/Web"                      ,
+  "docker"                       , "Reproducibility/DevOps"        ,
+  "renv"                         , "Reproducibility/DevOps"        ,
+  "nix"                          , "Reproducibility/DevOps"        ,
+  "pipelines?"                   , "Reproducibility/DevOps"        ,
+  "serverless"                   , "Reproducibility/DevOps"        ,
+  "cloud"                        , "Reproducibility/DevOps"        ,
+  "networking"                   , "Networking"                    ,
+  "first meetup"                 , "Networking"                    ,
+  "career"                       , "Networking"                    ,
+  "social"                       , "Networking"                    ,
+  "coffee"                       , "Networking"                    ,
+  "happy hour"                   , "Networking"                    ,
+  "encuentro"                    , "Networking"                    ,
+  "women in tech"                , "Networking"                    ,
+  "diversity"                    , "Networking"                    ,
+  "mentorship"                   , "Networking"                    ,
+  "mentor[\u00edi]a"             , "Networking"
+)
 
-quarterly_data <- tibble(
-  quarter = c(year_ago_q, previous_q, current_q),
-  events = c(year_ago_total, previous_total, current_total),
-  quarter_date = c(
-    year_ago_quarter_start,
-    previous_quarter_start,
-    current_quarter_start
-  )
-) |>
-  mutate(
-    quarter = factor(quarter, levels = c(year_ago_q, previous_q, current_q))
-  )
+categories <- unique(topic_keywords$category)
+```
 
-ggplot(quarterly_data, aes(x = quarter, y = events)) +
+## Most Popular Topics
+
+The topics below are those the keyword dictionary could capture; they are the most popular *among recognized topics*, not necessarily the most popular topics overall.
+**Reach** is how many different chapters ran the topic at least once, signalling a safe, widely-run choice.
+**Pull** is the median RSVPs per event, signalling how much it draws a crowd when it is run.
+
+```{r}
+#| label: topic-long
+# One row per (event, matched category); events matching no category are absent.
+topic_long <- categories |>
+  lapply(function(cat) {
+    kws <- topic_keywords$keyword[topic_keywords$category == cat]
+    events_analyzed |>
+      filter(detect_any(full_text, kws)) |>
+      transmute(group_urlname, rsvps, event_date, category = cat)
+  }) |>
+  bind_rows()
+
+topic_summary <- topic_long |>
+  group_by(category) |>
+  summarise(
+    chapters = n_distinct(group_urlname),
+    events = n(),
+    median_rsvps = median(rsvps, na.rm = TRUE),
+    .groups = "drop"
+  )
+```
+
+```{r}
+#| label: topic-reach
+#| fig-cap: "Distinct chapters running each topic over the last 12 months"
+ggplot(topic_summary, aes(x = chapters, y = reorder(category, chapters))) +
   geom_col(fill = rladies_colors$purple) +
-  geom_text(
-    aes(label = format(events, big.mark = ",")),
-    vjust = -0.5,
-    size = 4
-  ) +
+  geom_text(aes(label = chapters), hjust = -0.2, size = 3.5) +
   labs(
-    title = "Event Volume Comparison",
-    subtitle = "Last three quarters",
-    x = "Quarter",
-    y = "Number of Events"
-  ) +
-  scale_y_continuous(expand = expansion(mult = c(0, 0.15)))
-```
-
-### Active Chapter Trends
-
-```{r}
-#| label: chapter-comparison
-#| fig-cap: "Active chapter comparison across quarters"
-
-chapter_quarterly <- tibble(
-  quarter = c(year_ago_q, previous_q, current_q),
-  chapters = c(year_ago_chapters, previous_chapters, current_chapters)
-) |>
-  mutate(
-    quarter = factor(quarter, levels = c(year_ago_q, previous_q, current_q))
-  )
-
-ggplot(chapter_quarterly, aes(x = quarter, y = chapters)) +
-  geom_col(fill = rladies_colors$purple) +
-  geom_text(
-    aes(label = chapters),
-    vjust = -0.5,
-    size = 4
-  ) +
-  labs(
-    title = "Active Chapters Comparison",
-    subtitle = "Chapters hosting at least one event per quarter",
-    x = "Quarter",
-    y = "Number of Active Chapters"
-  ) +
-  scale_y_continuous(expand = expansion(mult = c(0, 0.15)))
-```
-
-## Current Quarter Highlights
-
-### Event Format Distribution
-
-```{r}
-#| label: format-distribution
-#| fig-cap: "Virtual vs in-person events this quarter"
-
-format_data <- current_events |>
-  mutate(format = if_else(is_virtual, "Virtual", "In-Person")) |>
-  count(format) |>
-  mutate(percentage = n / sum(n) * 100)
-
-ggplot(format_data, aes(x = "", y = n, fill = format)) +
-  geom_col(width = 1) +
-  coord_polar("y") +
-  scale_fill_manual(
-    values = c(
-      "Virtual" = rladies_colors$purple,
-      "In-Person" = rladies_colors$light_purple
-    )
-  ) +
-  geom_text(
-    aes(label = sprintf("%d\n(%.1f%%)", n, percentage)),
-    position = position_stack(vjust = 0.5),
-    size = 4
-  ) +
-  labs(
-    title = paste("Event Format Distribution:", current_q),
-    fill = "Format"
-  ) +
-  theme_void() +
-  theme(
-    plot.title = element_text(hjust = 0.5, face = "bold"),
-    legend.position = "bottom"
-  )
-```
-
-### Monthly Activity Within Quarter
-
-```{r}
-#| label: monthly-activity
-#| fig-cap: "Event activity by month within current quarter"
-
-monthly_current <- current_events |>
-  mutate(month = floor_date(event_date, "month")) |>
-  count(month)
-
-ggplot(monthly_current, aes(x = month, y = n)) +
-  geom_col(fill = rladies_colors$purple) +
-  geom_text(
-    aes(label = n),
-    vjust = -0.5,
-    size = 4
-  ) +
-  labs(
-    title = paste("Monthly Event Distribution:", current_q),
-    x = "Month",
-    y = "Number of Events"
-  ) +
-  scale_x_date(date_labels = "%B", date_breaks = "1 month") +
-  scale_y_continuous(expand = expansion(mult = c(0, 0.15)))
-```
-
-### Top Performing Chapters
-
-```{r}
-#| label: top-chapters
-#| fig-cap: "Most active chapters this quarter"
-
-top_current <- current_events |>
-  count(group_urlname, sort = TRUE) |>
-  slice_head(n = 15)
-
-ggplot(top_current, aes(x = n, y = reorder(group_urlname, n))) +
-  geom_col(fill = rladies_colors$purple) +
-  geom_text(
-    aes(label = n),
-    hjust = -0.2,
-    size = 3.5
-  ) +
-  labs(
-    title = paste("Top 15 Chapters:", current_q),
-    x = "Number of Events",
+    title = "Topic Reach Across Chapters",
+    subtitle = "How widespread each topic is",
+    x = "Number of Chapters",
     y = NULL
   ) +
-  scale_x_continuous(expand = expansion(mult = c(0, 0.15)))
+  scale_x_continuous(expand = expansion(mult = c(0, 0.12)))
 ```
 
-## Regional Performance
+Wide reach indicates topics that are commonly run across the network and therefore safe choices for a new chapter.
+The category "Data Wrangling & Programming" tends to be broad partly because it counts any mention of RStudio, Posit, or Positron, which often appear as background tooling rather than as the event's main subject; treat its size as a ceiling rather than a precise measure of wrangling-focused events.
 
 ```{r}
-#| label: regional-performance
-#| fig-cap: "Event distribution by region this quarter"
-
-regional_current <- current_events |>
-  mutate(
-    region = chapter_region(chapter_country_iso),
-    region = tidyr::replace_na(region, "Other")
-  ) |>
-  filter(region != "Other") |>
-  count(region, sort = TRUE) |>
-  mutate(percentage = n / sum(n) * 100)
-
-ggplot(regional_current, aes(x = n, y = reorder(region, n))) +
-  geom_col(fill = rladies_colors$purple) +
+#| label: topic-pull
+#| fig-cap: "Median RSVPs per event by topic, with the number of events in parentheses"
+ggplot(topic_summary, aes(x = median_rsvps, y = reorder(category, median_rsvps))) +
+  geom_col(fill = rladies_colors$light_purple) +
   geom_text(
-    aes(label = sprintf("%d (%.1f%%)", n, percentage)),
+    aes(label = sprintf("%g (n=%d)", median_rsvps, events)),
     hjust = -0.1,
-    size = 3.5
+    size = 3.2
   ) +
   labs(
-    title = paste("Regional Distribution:", current_q),
-    x = "Number of Events",
+    title = "Topic Pull",
+    subtitle = "Median RSVPs drawn per event",
+    x = "Median RSVPs per Event",
     y = NULL
   ) +
-  scale_x_continuous(expand = expansion(mult = c(0, 0.2)))
+  scale_x_continuous(expand = expansion(mult = c(0, 0.18)))
 ```
 
-## New and Returning Chapters
+A topic can be widespread but routine, or niche but a strong draw.
 
 ```{r}
-#| label: chapter-status
-#| fig-cap: "Chapter activity status"
-
-# Identify new vs returning chapters
-new_chapters <- current_events |>
-  anti_join(
-    previous_events |> select(group_urlname),
-    by = "group_urlname"
-  ) |>
-  distinct(group_urlname)
-
-returning_chapters <- current_events |>
-  semi_join(
-    previous_events |> select(group_urlname),
-    by = "group_urlname"
-  ) |>
-  distinct(group_urlname)
-
-inactive_chapters <- previous_events |>
-  anti_join(
-    current_events |> select(group_urlname),
-    by = "group_urlname"
-  ) |>
-  distinct(group_urlname)
-
-chapter_status <- tibble(
-  status = c("New/Reactivated", "Continuing", "Now Inactive"),
-  count = c(
-    nrow(new_chapters),
-    nrow(returning_chapters),
-    nrow(inactive_chapters)
-  )
-)
-
-ggplot(chapter_status, aes(x = status, y = count)) +
-  geom_col(fill = rladies_colors$purple) +
-  geom_text(
-    aes(label = count),
-    vjust = -0.5,
-    size = 4
-  ) +
+#| label: topic-reach-vs-pull
+#| fig-cap: "Topic reach versus pull. Top-right topics are both widespread and well-attended; top-left are niche but draw a crowd; bottom-right are ubiquitous but routine."
+ggplot(topic_summary, aes(x = chapters, y = median_rsvps)) +
+  geom_point(color = rladies_colors$purple, size = 3) +
+  geom_text(aes(label = category), vjust = -0.8, size = 3, check_overlap = TRUE) +
   labs(
-    title = "Chapter Activity Status",
-    subtitle = paste("Comparing", current_q, "to", previous_q),
-    x = NULL,
-    y = "Number of Chapters"
+    title = "Topic Reach vs Pull",
+    subtitle = "Widespread versus well-attended",
+    x = "Chapters Running the Topic",
+    y = "Median RSVPs per Event"
   ) +
-  scale_y_continuous(expand = expansion(mult = c(0, 0.15)))
+  scale_y_continuous(expand = expansion(mult = c(0.08, 0.12)))
 ```
 
-**New or reactivated chapters** (`r nrow(new_chapters)` total):
-`r if(nrow(new_chapters) > 0 && nrow(new_chapters) <= 20) paste("-", new_chapters$group_urlname, collapse = "\n") else if(nrow(new_chapters) > 20) paste("See full list in appendix (", nrow(new_chapters), "chapters)") else "None this quarter"`
+## Difficulty Levels 
 
-## Event Timing Patterns
+We classify each event by explicit difficulty cues, in English, Spanish, and Portuguese, and report median RSVPs per level to assess their popularity.
 
 ```{r}
-#| label: timing-patterns
-#| fig-cap: "Day of week distribution this quarter"
+#| label: difficulty
+#| fig-cap: "Median RSVPs per event by difficulty level. Bars in grey, marked *, rest on fewer than 10 events and are not reliable."
+beginner_kw <- c(
+  "beginner", "intro", "introduction", "getting started", "basics",
+  "fundamentals", "101", "principiante", "introducci[\u00f3o]n",
+  "b[\u00e1a]sico", "iniciante", "introdu[\u00e7c][\u00e3a]o"
+)
+intermediate_kw <- c("intermediate", "intermedio", "intermedi[\u00e1a]rio")
+advanced_kw <- c("advanced", "deep dive", "expert", "avanzado", "avan[\u00e7c]ado")
 
-dow_current <- current_events |>
+difficulty_data <- events_analyzed |>
   mutate(
-    event_datetime = ymd_hms(datetime_utc, quiet = TRUE),
-    dow = wday(event_date, label = TRUE, week_start = 1)
+    difficulty = case_when(
+      detect_any(full_text, advanced_kw) ~ "Advanced",
+      detect_any(full_text, intermediate_kw) ~ "Intermediate",
+      detect_any(full_text, beginner_kw) ~ "Beginner",
+      TRUE ~ "Not Specified"
+    )
   ) |>
-  filter(!is.na(dow)) |>
-  count(dow) |>
-  mutate(percentage = n / sum(n) * 100)
+  group_by(difficulty) |>
+  summarise(
+    events = n(),
+    median_rsvps = median(rsvps, na.rm = TRUE),
+    .groups = "drop"
+  ) |>
+  mutate(
+    low_n = events < 10,
+    label = sprintf("%g (n=%d%s)", median_rsvps, events, if_else(low_n, "*", ""))
+  )
 
-ggplot(dow_current, aes(x = dow, y = n)) +
-  geom_col(fill = rladies_colors$purple) +
-  geom_text(
-    aes(label = sprintf("%d\n(%.1f%%)", n, percentage)),
-    vjust = -0.3,
-    size = 3.5
+ggplot(difficulty_data, aes(x = median_rsvps, y = reorder(difficulty, median_rsvps))) +
+  geom_col(aes(fill = low_n)) +
+  geom_text(aes(label = label), hjust = -0.1, size = 3.3) +
+  scale_fill_manual(
+    values = c(`FALSE` = rladies_colors$purple, `TRUE` = rladies_colors$grey),
+    guide = "none"
   ) +
   labs(
-    title = paste("Events by Day of Week:", current_q),
-    x = "Day of Week",
-    y = "Number of Events"
+    title = "Which Difficulty Levels Draw RSVPs",
+    subtitle = "Median RSVPs per event by difficulty",
+    x = "Median RSVPs per Event",
+    y = NULL
   ) +
-  scale_y_continuous(expand = expansion(mult = c(0, 0.15)))
+  scale_x_continuous(expand = expansion(mult = c(0, 0.18)))
+
+# Does explicitly-beginner content draw at least as well as the rest? Compared
+# against the median of the other levels' medians. Drives the prose below and
+# the recommendation later, so both stay correct on re-render.
+beginner_median <- difficulty_data |>
+  filter(difficulty == "Beginner") |>
+  pull(median_rsvps)
+other_median <- difficulty_data |>
+  filter(difficulty != "Beginner") |>
+  summarise(m = median(median_rsvps, na.rm = TRUE)) |>
+  pull(m)
+beginner_holds <- length(beginner_median) == 1 &&
+  !is.na(beginner_median) &&
+  beginner_median >= other_median
 ```
 
-## Performance Indicators
+`r if (beginner_holds) "Setting aside the low-n levels in grey, explicitly beginner-labelled events draw at least as well as the rest. That is reassuring for a new chapter weighing how much introductory content to run." else "Setting aside the low-n levels in grey, explicitly beginner-labelled events draw a smaller crowd than more advanced material here, so a new chapter should not assume introductory content is the bigger draw."`
+
+## Formats That Draw a Crowd
+
+Each event is assigned to its first matching format, with cues in English, Spanish, and Portuguese.
 
 ```{r}
-#| label: performance-table
-
-# Calculate key metrics for comparison
-metrics_comparison <- tibble(
-  Metric = c(
-    "Total Events",
-    "Active Chapters",
-    "Avg Events/Chapter",
-    "Virtual Events (%)",
-    "In-Person Events (%)"
-  ),
-  !!sym(current_q) := c(
-    current_total,
-    current_chapters,
-    round(current_total / current_chapters, 1),
-    round(
-      sum(current_events$is_virtual, na.rm = TRUE) / current_total * 100,
-      1
-    ),
-    round(
-      sum(!current_events$is_virtual, na.rm = TRUE) / current_total * 100,
-      1
+#| label: formats
+#| fig-cap: "Median RSVPs per event by format. Bars in grey, marked *, rest on fewer than 10 events and are not reliable."
+format_data <- events_analyzed |>
+  mutate(
+    format = case_when(
+      detect_any(full_text, c("workshop", "hands-on", "tutorial", "lab",
+                              "taller", "pr[\u00e1a]ctica", "oficina")) ~ "Workshop",
+      detect_any(full_text, c("talk", "presentation", "speaker", "lecture",
+                              "charla", "ponencia", "palestra")) ~ "Talk",
+      detect_any(full_text, c("hackathon", "datathon", "sprint")) ~ "Hackathon/Sprint",
+      detect_any(full_text, c("book club", "reading", "club de lectura",
+                              "clube do livro")) ~ "Book Club",
+      detect_any(full_text, c("networking", "social", "coffee", "happy hour",
+                              "encuentro", "convivio")) ~ "Social/Networking",
+      detect_any(full_text, c("career", "job", "interview", "carrera",
+                              "empleo", "carreira")) ~ "Career",
+      TRUE ~ "Other/Mixed"
     )
-  ),
-  !!sym(previous_q) := c(
-    previous_total,
-    previous_chapters,
-    round(previous_total / previous_chapters, 1),
-    round(
-      sum(previous_events$is_virtual, na.rm = TRUE) / previous_total * 100,
-      1
-    ),
-    round(
-      sum(!previous_events$is_virtual, na.rm = TRUE) / previous_total * 100,
-      1
-    )
-  ),
-  !!sym(year_ago_q) := c(
-    year_ago_total,
-    year_ago_chapters,
-    round(year_ago_total / year_ago_chapters, 1),
-    round(
-      sum(year_ago_events$is_virtual, na.rm = TRUE) / year_ago_total * 100,
-      1
-    ),
-    round(
-      sum(!year_ago_events$is_virtual, na.rm = TRUE) / year_ago_total * 100,
-      1
-    )
+  ) |>
+  group_by(format) |>
+  summarise(
+    events = n(),
+    median_rsvps = median(rsvps, na.rm = TRUE),
+    .groups = "drop"
+  ) |>
+  mutate(
+    low_n = events < 10,
+    label = sprintf("%g (n=%d%s)", median_rsvps, events, if_else(low_n, "*", ""))
   )
-)
 
-knitr::kable(
-  metrics_comparison,
-  caption = "Key metrics comparison across quarters"
-)
+ggplot(format_data, aes(x = median_rsvps, y = reorder(format, median_rsvps))) +
+  geom_col(aes(fill = low_n)) +
+  geom_text(aes(label = label), hjust = -0.1, size = 3.3) +
+  scale_fill_manual(
+    values = c(`FALSE` = rladies_colors$purple, `TRUE` = rladies_colors$grey),
+    guide = "none"
+  ) +
+  labs(
+    title = "Which Formats Draw RSVPs",
+    subtitle = "Median RSVPs per event by format",
+    x = "Median RSVPs per Event",
+    y = NULL
+  ) +
+  scale_x_continuous(expand = expansion(mult = c(0, 0.18)))
+
+# Derive the top and bottom draws from reliable (n >= 10) formats, so the prose
+# below reflects the data rather than a fixed claim. "Other/Mixed" is excluded
+# as it is not a real format.
+format_ranked <- format_data |>
+  filter(!low_n, format != "Other/Mixed") |>
+  arrange(desc(median_rsvps))
+
+top_formats <- head(format_ranked$format, 2)
+bottom_formats <- tail(format_ranked$format, 2)
+
+# Join a character vector as "A and B" (or "A, B and C").
+and_list <- function(x) {
+  if (length(x) <= 1) return(paste(x))
+  paste(paste(head(x, -1), collapse = ", "), "and", tail(x, 1))
+}
 ```
 
-## Looking Ahead
 
-### Upcoming Quarter Preparation
+## Most Active Recent Chapters
 
-Based on current trends and historical patterns:
+A new organizer benefits from concrete examples of chapters that got going and stayed active.
+We rank by event count within the window and show each chapter's first-ever event date as an age cue.
 
-- Expected events next quarter: **`r round(current_total * 1.05)`** (assuming 5% growth)  
-- Chapters needing support: **`r nrow(inactive_chapters)`** (became inactive this quarter)  
-- Growth opportunity: Focus on `r if(nrow(new_chapters) > 0) paste("sustaining momentum of", nrow(new_chapters), "new/reactivated chapters") else "reactivating dormant chapters"`  
+```{r}
+#| label: active-chapters
+#| tbl-cap: "Top 15 chapters by event count over the last 12 months. A recent first-event date alongside high activity makes a useful model for new organizers."
+chapter_first <- events |>
+  filter(!status %in% c("cancelled", "CANCELLED")) |>
+  mutate(event_date = as.Date(datetime_utc)) |>
+  group_by(group_urlname, group_name) |>
+  summarise(first_event = min(event_date), .groups = "drop")
 
-### Recommendations
+active_chapters <- events_analyzed |>
+  group_by(group_urlname, group_name) |>
+  summarise(
+    events = n(),
+    median_rsvps = median(rsvps, na.rm = TRUE),
+    .groups = "drop"
+  ) |>
+  left_join(chapter_first, by = c("group_urlname", "group_name")) |>
+  arrange(desc(events)) |>
+  slice_head(n = 15) |>
+  transmute(
+    Chapter = group_name,
+    Events = events,
+    `Median RSVPs` = median_rsvps,
+    `First Event` = format(first_event, "%Y-%m")
+  )
 
-1. **Chapter support**: Reach out to `r nrow(inactive_chapters)` chapters that went inactive  
-2. **New chapter onboarding**: Provide resources to `r nrow(new_chapters)` new/reactivated chapters  
-3. **Best practices**: Share success strategies from top performing chapters  
-4. **Regional focus**: `r regional_current |> slice_min(n, n = 1) |> pull(region)` shows lowest activity - consider targeted support  
+knitr::kable(active_chapters)
+```
+
+## Topic Trends Over Time
+
+Topic popularity shifts as tools emerge and interests evolve.
+Tracking a handful of high-signal topics by quarter helps a new chapter see what is rising versus established.
+
+```{r}
+#| label: topic-trends
+#| fig-cap: "Quarterly event counts for selected topics over the last 12 months"
+trend_categories <- c(
+  "Visualization", "Shiny/Apps", "Machine Learning & AI",
+  "Data Wrangling & Programming", "Publishing"
+)
+
+topic_trends <- topic_long |>
+  filter(category %in% trend_categories) |>
+  mutate(quarter = floor_date(event_date, "quarter")) |>
+  count(quarter, category)
+
+rladies_purples <- unname(c(
+  "#88398A",  # purple
+  "#C26DBC",  # mid purple
+  "#562457",  # dark purple
+  "#E08FC9",  # light purple-pink
+  "#3B1639"   # deepest purple
+))
+
+trend_labels <- topic_trends |>
+  group_by(category) |>
+  filter(quarter == max(quarter)) |>
+  ungroup()
+
+ggplot(topic_trends, aes(x = quarter, y = n, color = category)) +
+  geom_line(linewidth = 1) +
+  geom_point(size = 2) +
+  geom_text(
+    data = trend_labels,
+    aes(label = category),
+    hjust = 0,
+    nudge_x = 15,
+    size = 3,
+    show.legend = FALSE
+  ) +
+  scale_color_manual(values = rladies_purples) +
+  labs(
+    title = "Topic Trends Over Time",
+    subtitle = "Quarterly event counts by topic",
+    x = "Quarter",
+    y = "Number of Events",
+    color = "Topic"
+  ) +
+  scale_x_date(
+    date_labels = "%b %Y",
+    date_breaks = "3 months",
+    expand = expansion(mult = c(0.02, 0.22))
+  ) +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+```
 
 ---
 
-*Report period: `r format(current_quarter_start, "%B %d")` - `r format(current_quarter_end, "%B %d, %Y")`*  
+*Reporting period: `r format(report_start, "%B %Y")` - `r format(report_end - days(1), "%B %Y")` (24 closed months)*  
 *Report generated: `r format(Sys.time(), "%Y-%m-%d %H:%M %Z")`*  
-*Data source: R-Ladies Meetup Archive*
-```
+*Data source: R-Ladies+ Meetup Archive*  
+
