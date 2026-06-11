@@ -35,11 +35,22 @@ events_analyzed <- events |>
     event_date = as.Date(datetime_utc),
     year = year(event_date),
     is_recent = event_date >= Sys.Date() - months(12),
-    # Combine title and description for topic analysis
-    full_text = paste(tolower(title), tolower(description))
+    full_text = paste(title, description)
   )
 
-# Recent events for current trends
+# Word-boundary keyword matcher, shared across the topic,
+# format, and difficulty blocks. Anchors on word boundaries
+# to avoid substring false positives ("git" in "digit").
+detect_any <- function(text, keywords) {
+  str_detect(
+    text,
+    regex(
+      paste0("\\b(", paste(keywords, collapse = "|"), ")\\b"),
+      ignore_case = TRUE
+    )
+  )
+}
+
 recent_events <- events_analyzed |> filter(is_recent)
 
 total_analyzed <- nrow(recent_events)
@@ -54,63 +65,105 @@ This gives us insight into which R-related skills and tools are most frequently 
 
 ```{r}
 #| label: topic-keywords
-#| fig-cap: "Technical topics most frequently mentioned in R-Ladies events. Categories are determined by keyword matching in event titles and descriptions."
+#| fig-cap: "Technical topics most frequently mentioned in R-Ladies events. Categories are determined by word-boundary keyword matching."
 
-# Define topic keywords
+# Topic dictionary shared with the New Chapter Guide so both
+# reports classify topics identically.
 topic_keywords <- tribble(
-  ~keyword           , ~category             ,
-  "ggplot"           , "Visualization"       ,
-  "visualization"    , "Visualization"       ,
-  "plot"             , "Visualization"       ,
-  "shiny"            , "Shiny/Apps"          ,
-  "dashboard"        , "Shiny/Apps"          ,
-  "app"              , "Shiny/Apps"          ,
-  "machine learning" , "Machine Learning"    ,
-  "ml"               , "Machine Learning"    ,
-  "model"            , "Machine Learning"    ,
-  "prediction"       , "Machine Learning"    ,
-  "tidyverse"        , "Data Wrangling"      ,
-  "dplyr"            , "Data Wrangling"      ,
-  "data cleaning"    , "Data Wrangling"      ,
-  "wrangle"          , "Data Wrangling"      ,
-  "transform"        , "Data Wrangling"      ,
-  "quarto"           , "Publishing"          ,
-  "rmarkdown"        , "Publishing"          ,
-  "report"           , "Publishing"          ,
-  "markdown"         , "Publishing"          ,
-  "package"          , "Package Development" ,
-  "git"              , "Git/GitHub"          ,
-  "github"           , "Git/GitHub"          ,
-  "version control"  , "Git/GitHub"          ,
-  "python"           , "Python/Reticulate"   ,
-  "reticulate"       , "Python/Reticulate"   ,
-  "statistics"       , "Statistics"          ,
-  "statistical"      , "Statistics"          ,
-  "regression"       , "Statistics"          ,
-  "analysis"         , "Statistics"          ,
-  "spatial"          , "Spatial Analysis"    ,
-  "map"              , "Spatial Analysis"    ,
-  "gis"              , "Spatial Analysis"    ,
-  "text"             , "Text Mining"         ,
-  "nlp"              , "Text Mining"         ,
-  "sentiment"        , "Text Mining"         ,
-  "api"              , "APIs/Web"            ,
-  "web scraping"     , "APIs/Web"            ,
-  "scrape"           , "APIs/Web"
+  ~keyword                       , ~category                       ,
+  "\\w*(viz|visual|ggplot|chart|plot)\\w*"      , "Visualization"  ,
+  "shiny"                        , "Shiny/Apps"                    ,
+  "dashboards?"                  , "Shiny/Apps"                    ,
+  "web app"                      , "Shiny/Apps"                    ,
+  "machine learning"             , "Machine Learning & AI"         ,
+  "deep learning"                , "Machine Learning & AI"         ,
+  "tidymodels"                   , "Machine Learning & AI"         ,
+  "llm"                          , "Machine Learning & AI"         ,
+  "chatgpt"                      , "Machine Learning & AI"         ,
+  "ellmer"                       , "Machine Learning & AI"         ,
+  "artificial intelligence"      , "Machine Learning & AI"         ,
+  "model(l?ing|s)?"              , "Machine Learning & AI"         ,
+  "data science"                 , "Machine Learning & AI"         ,
+  "tidyverse"                    , "Data Wrangling & Programming"   ,
+  "dplyr"                        , "Data Wrangling & Programming"   ,
+  "data cleaning"                , "Data Wrangling & Programming"   ,
+  "data wrangling"               , "Data Wrangling & Programming"   ,
+  "sql"                          , "Data Wrangling & Programming"   ,
+  "an[\u00e1a]lisis de datos"    , "Data Wrangling & Programming"   ,
+  "an[\u00e1a]lise de dados"     , "Data Wrangling & Programming"   ,
+  "debugging"                    , "Data Wrangling & Programming"   ,
+  "functions?"                   , "Data Wrangling & Programming"   ,
+  "funciones"                    , "Data Wrangling & Programming"   ,
+  "programaci[\u00f3o]n"         , "Data Wrangling & Programming"   ,
+  "introducci[\u00f3o]n"         , "Data Wrangling & Programming"   ,
+  "introdu[\u00e7c][\u00e3a]o"   , "Data Wrangling & Programming"   ,
+  "r ?studio"                    , "Data Wrangling & Programming"   ,
+  "posit"                        , "Data Wrangling & Programming"   ,
+  "positron"                     , "Data Wrangling & Programming"   ,
+  "quarto"                       , "Publishing"                    ,
+  "rmarkdown"                    , "Publishing"                    ,
+  "r markdown"                   , "Publishing"                    ,
+  "reproducib(le|ility)"         , "Publishing"                    ,
+  "gtsummary"                    , "Publishing"                    ,
+  "tabelas"                      , "Publishing"                    ,
+  "package development"          , "Package Development"           ,
+  "r packages?"                  , "Package Development"           ,
+  "git"                          , "Git/GitHub"                    ,
+  "github"                       , "Git/GitHub"                    ,
+  "version control"              , "Git/GitHub"                    ,
+  "python"                       , "Python/Interop"                ,
+  "reticulate"                   , "Python/Interop"                ,
+  "statistics"                   , "Statistics & Bioinformatics"   ,
+  "statistical"                  , "Statistics & Bioinformatics"   ,
+  "regression"                   , "Statistics & Bioinformatics"   ,
+  "estad[\u00edi]stica"          , "Statistics & Bioinformatics"   ,
+  "bioinformatics"               , "Statistics & Bioinformatics"   ,
+  "transcriptomics"              , "Statistics & Bioinformatics"   ,
+  "single-cell"                  , "Statistics & Bioinformatics"   ,
+  "genomics"                     , "Statistics & Bioinformatics"   ,
+  "gwas"                         , "Statistics & Bioinformatics"   ,
+  "seurat"                       , "Statistics & Bioinformatics"   ,
+  "spatial"                      , "Spatial Analysis"              ,
+  "geospatial"                   , "Spatial Analysis"              ,
+  "gis"                          , "Spatial Analysis"              ,
+  "mapping"                      , "Spatial Analysis"              ,
+  "geocomputation"               , "Spatial Analysis"              ,
+  "rgee"                         , "Spatial Analysis"              ,
+  "rgbif"                        , "Spatial Analysis"              ,
+  "espacia(l|is)"                , "Spatial Analysis"              ,
+  "text mining"                  , "Text Mining/NLP"               ,
+  "nlp"                          , "Text Mining/NLP"               ,
+  "sentiment"                    , "Text Mining/NLP"               ,
+  "api"                          , "APIs/Web"                      ,
+  "web scraping"                 , "APIs/Web"                      ,
+  "docker"                       , "Reproducibility/DevOps"        ,
+  "renv"                         , "Reproducibility/DevOps"        ,
+  "nix"                          , "Reproducibility/DevOps"        ,
+  "pipelines?"                   , "Reproducibility/DevOps"        ,
+  "serverless"                   , "Reproducibility/DevOps"        ,
+  "cloud"                        , "Reproducibility/DevOps"        ,
+  "networking"                   , "Networking"                    ,
+  "first meetup"                 , "Networking"                    ,
+  "career"                       , "Networking"                    ,
+  "social"                       , "Networking"                    ,
+  "coffee"                       , "Networking"                    ,
+  "happy hour"                   , "Networking"                    ,
+  "encuentro"                    , "Networking"                    ,
+  "women in tech"                , "Networking"                    ,
+  "diversity"                    , "Networking"                    ,
+  "mentorship"                   , "Networking"                    ,
+  "mentor[\u00edi]a"             , "Networking"
 )
 
-# Count keyword occurrences
+# Mentions per keyword (as in the original), now via detect_any.
 keyword_counts <- topic_keywords |>
   rowwise() |>
   mutate(
-    count = sum(str_detect(recent_events$full_text, keyword))
+    count = sum(detect_any(recent_events$full_text, keyword))
   ) |>
   ungroup() |>
   group_by(category) |>
-  summarise(
-    total_count = sum(count),
-    .groups = "drop"
-  ) |>
+  summarise(total_count = sum(count), .groups = "drop") |>
   arrange(desc(total_count)) |>
   slice_head(n = 12)
 
@@ -119,14 +172,10 @@ ggplot(
   aes(x = total_count, y = reorder(category, total_count))
 ) +
   geom_col(fill = rladies_colors$purple) +
-  geom_text(
-    aes(label = total_count),
-    hjust = -0.2,
-    size = 3.5
-  ) +
+  geom_text(aes(label = total_count), hjust = -0.2, size = 3.5) +
   labs(
     title = "Most Common Technical Topics",
-    subtitle = "Based on keywords in event titles and descriptions (last 12 months)",
+    subtitle = "Based on keywords in titles and descriptions (last 12 months)",
     x = "Number of Events Mentioning Topic",
     y = NULL
   ) +
@@ -143,31 +192,34 @@ Different event types serve different purposes: workshops provide hands-on pract
 
 ```{r}
 #| label: event-types
-#| fig-cap: "Classification of events by type based on keywords in titles and descriptions. Events may be counted in multiple categories if they combine formats."
+#| fig-cap: "Classification of events by format based on word-boundary keyword matching (EN/ES/PT). Each event is assigned to its first matching format."
 
-# Identify event types from titles
 event_types <- recent_events |>
   mutate(
     event_type = case_when(
-      str_detect(full_text, "workshop|hands-on|tutorial|lab") ~ "Workshop",
-      str_detect(
-        full_text,
-        "talk|presentation|speaker|lecture"
-      ) ~ "Talk/Presentation",
-      str_detect(
-        full_text,
-        "social|networking|coffee|happy hour|meetup"
-      ) ~ "Social/Networking",
-      str_detect(full_text, "hackathon|hack|sprint") ~ "Hackathon",
-      str_detect(full_text, "book club|reading|discussion") ~ "Book Club",
-      str_detect(
-        full_text,
-        "career|job|interview|resume"
-      ) ~ "Career Development",
-      str_detect(
-        full_text,
-        "beginner|intro|getting started|101"
-      ) ~ "Beginner-Friendly",
+      detect_any(full_text, c(
+        "workshop", "hands-on", "tutorial", "lab",
+        "taller", "pr\u00e1ctica", "oficina"
+      )) ~ "Workshop",
+      detect_any(full_text, c(
+        "talk", "presentation", "speaker", "lecture",
+        "charla", "ponencia", "palestra"
+      )) ~ "Talk",
+      detect_any(full_text, c(
+        "hackathon", "datathon", "sprint"
+      )) ~ "Hackathon/Sprint",
+      detect_any(full_text, c(
+        "book club", "reading", "club de lectura",
+        "clube do livro"
+      )) ~ "Book Club",
+      detect_any(full_text, c(
+        "networking", "social", "coffee", "happy hour",
+        "encuentro", "convivio"
+      )) ~ "Social/Networking",
+      detect_any(full_text, c(
+        "career", "job", "interview", "carrera",
+        "empleo", "carreira"
+      )) ~ "Career",
       TRUE ~ "Other/Mixed"
     )
   ) |>
@@ -200,15 +252,10 @@ Tracking trends over time helps identify which topics are gaining or losing trac
 
 ```{r}
 #| label: topic-trends
-#| fig-cap: "Quarterly trends for selected popular topics over the past two years. Lines show the number of events mentioning each topic per quarter."
+#| fig-cap: "Quarterly trends for selected topics over the past two years."
 
-# Track selected topics over time
 trending_topics <- c(
-  "shiny",
-  "quarto",
-  "machine learning",
-  "tidyverse",
-  "python"
+  "shiny", "quarto", "machine learning", "tidyverse", "python"
 )
 
 topic_timeline <- events_analyzed |>
@@ -216,19 +263,37 @@ topic_timeline <- events_analyzed |>
   mutate(quarter = floor_date(event_date, "quarter")) |>
   crossing(topic = trending_topics) |>
   mutate(
-    mentions = str_detect(full_text, fixed(topic, ignore_case = TRUE))
+    mentions = str_detect(full_text, regex(topic, ignore_case = TRUE))
   ) |>
   group_by(quarter, topic) |>
-  summarise(
-    count = sum(mentions),
-    .groups = "drop"
-  ) |>
+  summarise(count = sum(mentions), .groups = "drop") |>
   filter(count > 0)
+
+# Five distinguishable R-Ladies purples. unname() is essential:
+# a *named* value vector makes scale_color_manual match by name,
+# find no match, and fall back to grey ("No shared levels").
+rladies_purples <- unname(c(
+  "#88398A", "#C26DBC", "#562457", "#E08FC9", "#3B1639"
+))
+
+# Direct labels: one per line, at each topic's last quarter.
+trend_labels <- topic_timeline |>
+  group_by(topic) |>
+  filter(quarter == max(quarter)) |>
+  ungroup()
 
 ggplot(topic_timeline, aes(x = quarter, y = count, color = topic)) +
   geom_line(linewidth = 1) +
   geom_point(size = 2) +
-  scale_color_rladies() +
+  geom_text(
+    data = trend_labels,
+    aes(label = topic),
+    hjust = 0,
+    nudge_x = 15,
+    size = 3,
+    show.legend = FALSE
+  ) +
+  scale_color_manual(values = rladies_purples) +
   labs(
     title = "Trending Topics Over Time",
     subtitle = "Quarterly mentions of popular topics",
@@ -236,7 +301,11 @@ ggplot(topic_timeline, aes(x = quarter, y = count, color = topic)) +
     y = "Number of Events",
     color = "Topic"
   ) +
-  scale_x_date(date_labels = "%Y Q%q", date_breaks = "3 months") +
+  scale_x_date(
+    date_labels = "%b %Y",
+    date_breaks = "3 months",
+    expand = expansion(mult = c(0.02, 0.22))
+  ) +
   theme(
     axis.text.x = element_text(angle = 45, hjust = 1),
     legend.position = "bottom"
@@ -253,20 +322,27 @@ The balance between beginner and advanced content affects who feels welcomed in 
 
 ```{r}
 #| label: difficulty-levels
-#| fig-cap: "Distribution of events by explicitly stated difficulty level. 'Not Specified' indicates events that did not include difficulty indicators in their descriptions."
+#| fig-cap: "Distribution of events by explicitly stated difficulty level (EN/ES/PT cues). 'Not Specified' indicates no difficulty indicator."
+
+beginner_kw <- c(
+  "beginner", "intro", "introduction", "getting started",
+  "basics", "fundamentals", "101", "principiante",
+  "introducci\u00f3n", "b\u00e1sico", "iniciante", "introdu\u00e7\u00e3o"
+)
+intermediate_kw <- c(
+  "intermediate", "intermedio", "intermedi\u00e1rio"
+)
+advanced_kw <- c(
+  "advanced", "deep dive", "expert", "optimi[sz]ation",
+  "production", "avanzado", "avan\u00e7ado"
+)
 
 difficulty_data <- recent_events |>
   mutate(
     difficulty = case_when(
-      str_detect(
-        full_text,
-        "beginner|intro|introduction|getting started|101|basics|fundamentals"
-      ) ~ "Beginner",
-      str_detect(
-        full_text,
-        "advanced|expert|deep dive|optimization|production"
-      ) ~ "Advanced",
-      str_detect(full_text, "intermediate") ~ "Intermediate",
+      detect_any(full_text, advanced_kw) ~ "Advanced",
+      detect_any(full_text, intermediate_kw) ~ "Intermediate",
+      detect_any(full_text, beginner_kw) ~ "Beginner",
       TRUE ~ "Not Specified"
     )
   ) |>
@@ -288,7 +364,7 @@ ggplot(difficulty_data, aes(x = difficulty, y = n)) +
   ) +
   labs(
     title = "Event Difficulty Levels",
-    subtitle = "Based on explicit difficulty indicators in event descriptions",
+    subtitle = "Based on explicit difficulty indicators",
     x = "Difficulty Level",
     y = "Number of Events"
   ) +
@@ -506,68 +582,89 @@ Understanding seasonal rhythms helps with strategic event planning.
 seasonal_topics <- c("workshop", "beginner", "career", "social")
 
 seasonal_data <- events_analyzed |>
-  filter(event_date >= Sys.Date() - years(2)) |>
+  filter(
+    event_date >= Sys.Date() - years(2),
+    event_date < floor_date(Sys.Date(), "month")
+  ) |>
   mutate(
+    year_q = floor_date(event_date, "quarter"),
     quarter_num = quarter(event_date),
     quarter_label = paste0("Q", quarter_num)
   ) |>
   crossing(topic = seasonal_topics) |>
   mutate(
-    mentions = str_detect(full_text, fixed(topic, ignore_case = TRUE))
+    mentions = str_detect(full_text, regex(topic, ignore_case = TRUE))
   ) |>
-  group_by(quarter_label, topic) |>
-  summarise(
-    count = sum(mentions),
-    .groups = "drop"
-  ) |>
+  # Count mentions per individual quarter-period first, then average
+  # those across years so the value is a true per-quarter average.
+  group_by(topic, quarter_label, year_q) |>
+  summarise(count = sum(mentions), .groups = "drop") |>
+  group_by(topic, quarter_label) |>
+  summarise(avg_count = mean(count), .groups = "drop") |>
   mutate(quarter_label = factor(quarter_label, levels = paste0("Q", 1:4)))
 
-ggplot(seasonal_data, aes(x = quarter_label, y = count, fill = topic)) +
-  geom_col(position = "dodge") +
-  scale_fill_rladies() +
+ggplot(seasonal_data, aes(x = quarter_label, y = avg_count)) +
+  geom_col(fill = rladies_colors$purple) +
+  facet_wrap(~topic) +
   labs(
     title = "Seasonal Topic Patterns",
-    subtitle = "Event types by quarter (averaged over last 2 years)",
+    subtitle = "Average events per quarter by topic (last 2 years)",
     x = "Quarter",
-    y = "Average Number of Events",
-    fill = "Topic"
+    y = "Average Number of Events"
   ) +
-  theme(legend.position = "bottom")
+  theme(
+    panel.spacing = unit(1.5, "lines")
+  )
 ```
 
-Seasonal patterns might show increased beginner content at the start of academic years, or more social events during summer months.
 Recognizing these patterns helps organizers align programming with predictable attendance cycles.
 
 ## Content Recommendations
 
+```{r}
+#| label: recommendation-values
+#| include: false
+# Derive the recommendation lists from the data so the prose
+# below stays correct on re-render.
+
+# Top and bottom technical topics by mentions (from keyword_counts,
+# which already holds total_count per category, top 12).
+top_topics <- keyword_counts |>
+  slice_max(total_count, n = 5) |>
+  pull(category)
+
+bottom_topics <- keyword_counts |>
+  slice_min(total_count, n = 5) |>
+  pull(category)
+
+# Observed format mix (from event_types, computed earlier).
+format_mix <- event_types |>
+  arrange(desc(percentage)) |>
+  mutate(line = sprintf("%s: %.0f%%", event_type, percentage))
+
+# Helper to render a character vector as a markdown list.
+as_md_list <- function(x) paste("-", x, collapse = "\n")
+```
+
 ### For Event Organizers
 
-**Most Popular Topics** (high engagement):
+**Most mentioned technical topics** (last 12 months):
 
-1. Data visualization (ggplot2, plotly)  
-2. Shiny applications and dashboards  
-3. Data wrangling with tidyverse  
-4. Machine learning basics  
-5. Reproducible research (Quarto, R Markdown)  
+`r as_md_list(top_topics)`
 
-**Underserved Topics** (opportunity areas):
+**Least mentioned among tracked topics** (possible growth areas):
 
-- Advanced statistical methods  
-- Package development  
-- Production/deployment  
-- Specific domain applications  
-- Performance optimization  
+`r as_md_list(bottom_topics)`
 
-### Content Mix Recommendations
+### Observed Content Mix
 
-Based on successful chapter patterns:
+Rather than a prescribed split, here is the format mix actually
+observed across events in the period:
 
-- **60-70%** technical content (coding, packages, methods)  
-- **20-30%** professional development (career, networking)  
-- **10-20%** social/community building  
-- **30-40%** explicitly beginner-friendly  
+`r as_md_list(format_mix$line)`
 
-This balance ensures technical skill development while supporting career growth and community cohesion.
+A healthy programme typically balances technical learning with
+community-building; compare your chapter's mix against the network's.
 
 ### Topic Diversity
 
@@ -581,7 +678,7 @@ chapter_topics <- recent_events |>
   crossing(topic_keywords |> distinct(category)) |>
   rowwise() |>
   mutate(
-    has_topic = any(str_detect(
+    has_topic = any(detect_any(
       full_text,
       topic_keywords$keyword[topic_keywords$category == category]
     ))
