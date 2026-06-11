@@ -1,8 +1,8 @@
 ---
-title: "R-Ladies Topic Analysis"
+title: "R-Ladies+ Topic Analysis"
 subtitle: "Event Content Trends and Popular Themes"
 date: "`r Sys.Date()`"
-author: "R-Ladies Global"
+author: "R-Ladies+ Global"
 slug: topic-analysis
 categories:
   - reports
@@ -23,7 +23,7 @@ library(tidytext)
 
 ## Executive Summary
 
-This report analyzes event titles and descriptions to identify popular topics, emerging trends, and content patterns across the R-Ladies network.
+This report analyzes event titles and descriptions to identify popular topics, emerging trends, and content patterns across the R-Ladies+ network.
 Understanding what topics resonate with the community helps organizers plan relevant programming and identify content gaps.
 
 ```{r}
@@ -65,7 +65,7 @@ This gives us insight into which R-related skills and tools are most frequently 
 
 ```{r}
 #| label: topic-keywords
-#| fig-cap: "Technical topics most frequently mentioned in R-Ladies events. Categories are determined by word-boundary keyword matching."
+#| fig-cap: "Technical topics most frequently mentioned in R-Ladies+ events. Categories are determined by word-boundary keyword matching."
 
 # Topic dictionary shared with the New Chapter Guide so both
 # reports classify topics identically.
@@ -269,7 +269,7 @@ topic_timeline <- events_analyzed |>
   summarise(count = sum(mentions), .groups = "drop") |>
   filter(count > 0)
 
-# Five distinguishable R-Ladies purples. unname() is essential:
+# Five distinguishable R-Ladies+ purples. unname() is essential:
 # a *named* value vector makes scale_color_manual match by name,
 # find no match, and fall back to grey ("No shared levels").
 rladies_purples <- unname(c(
@@ -447,7 +447,7 @@ Core tidyverse packages typically dominate due to their fundamental role in R wo
 
 ## Application Domains
 
-R-Ladies events often connect R skills to specific fields or industries.
+R-Ladies+ events often connect R skills to specific fields or industries.
 Domain-specific events help members see how R applies to their professional work and build specialized knowledge communities.
 
 ```{r}
@@ -754,5 +754,5 @@ Consider featuring these topics to stay current with community interests and eco
 ---
 
 *Report generated: `r format(Sys.time(), "%Y-%m-%d %H:%M %Z")`*  
-*Data source: R-Ladies Meetup Archive*  
+*Data source: R-Ladies+ Meetup Archive*  
 *Note: Topic detection based on keyword matching in event titles and descriptions*
