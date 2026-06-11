@@ -1,8 +1,8 @@
 ---
-title: "R-Ladies Chapter Health Report"
+title: "R-Ladies+ Chapter Health Report"
 subtitle: "Monitoring Chapter Activity and Engagement"
 date: "`r Sys.Date()`"
-author: "R-Ladies Global"
+author: "R-Ladies+ Global"
 slug: chapter-health-report
 categories:
   - reports
@@ -21,7 +21,7 @@ source(here::here("reports/_common.R"))
 
 ## Executive Summary
 
-This report identifies chapters needing support and highlights successful chapters to help the Chapter Monitoring Team maintain healthy community engagement across the R-Ladies network.
+This report identifies chapters needing support and highlights successful chapters to help the Chapter Monitoring Team maintain healthy community engagement across the R-Ladies+ network.
 
 ```{r}
 #| label: summary-stats
@@ -255,4 +255,4 @@ ggplot(activity_summary, aes(x = maturity, y = n, fill = activity_level)) +
 ---
 
 *Report generated: `r format(Sys.time(), "%Y-%m-%d %H:%M %Z")`*  
-*Data source: R-Ladies Meetup Archive*
+*Data source: R-Ladies+ Meetup Archive*

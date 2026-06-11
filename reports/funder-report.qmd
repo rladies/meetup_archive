@@ -1,8 +1,8 @@
 ---
-title: "R-Ladies Annual Impact Report"
+title: "R-Ladies+ Annual Impact Report"
 subtitle: "Community Growth and Achievements"
 date: "`r Sys.Date()`"
-author: "R-Ladies Global"
+author: "R-Ladies+ Global"
 slug: funder-report
 categories:
   - reports
@@ -185,7 +185,7 @@ regions_served <- regional_events |>
   nrow()
 ```
 
-R-Ladies events reached **`r regions_served`** geographic regions with **`r format(sum(regional_events$n), big.mark = ",")`** total events.
+R-Ladies+ events reached **`r regions_served`** geographic regions with **`r format(sum(regional_events$n), big.mark = ",")`** total events.
 
 ## Event Activity and Impact
 
@@ -399,13 +399,13 @@ This impact was made possible by:
 - **`r active_chapters_current`** chapter organizing teams  
 - Hundreds of volunteer speakers and workshop leaders  
 - Our dedicated global leadership team  
-- Technical contributors to R-Ladies infrastructure  
+- Technical contributors to R-Ladies+ infrastructure  
 - Our generous funders and sponsors  
 
-Thank you for supporting R-Ladies Global in promoting gender diversity in the R community.
+Thank you for supporting R-Ladies+ Global in promoting gender diversity in the R community.
 
 ---
 
 *Report period: `r format(report_start, "%B %d, %Y")` - `r format(report_end - days(1), "%B %d, %Y")`*  
 *Report generated: `r format(Sys.time(), "%Y-%m-%d %H:%M %Z")`*  
-*Data source: R-Ladies Meetup Archive*
+*Data source: R-Ladies+ Meetup Archive*
