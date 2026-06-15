@@ -1,8 +1,8 @@
 ---
-title: "R-Ladies+ Quarterly Summary"
+title: "RLadies+ Quarterly Summary"
 subtitle: "Period-over-Period Community Insights"
 date: "`r Sys.Date()`"
-author: "R-Ladies+ Global"
+author: "RLadies+ Global"
 slug: quarterly-summary
 categories:
   - reports
@@ -22,7 +22,7 @@ source(here::here("reports/_common.R"))
 
 ## Executive Summary
 
-This quarterly report provides a snapshot of R-Ladies+ community activity, highlighting key metrics and trends compared to previous periods.
+This quarterly report provides a snapshot of RLadies+ community activity, highlighting key metrics and trends compared to previous periods.
 
 ```{r}
 #| label: quarterly-metrics
@@ -471,4 +471,4 @@ Based on current trends and historical patterns:
 
 *Report period (last closed quarter): `r format(current_quarter_start, "%B %d")` - `r format(current_quarter_end, "%B %d, %Y")`*  
 *Report generated: `r format(Sys.time(), "%Y-%m-%d %H:%M %Z")`*  
-*Data source: R-Ladies+ Meetup Archive*
+*Data source: RLadies+ Meetup Archive*

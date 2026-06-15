@@ -1,8 +1,8 @@
 ---
-title: "R-Ladies+ New Chapter Guide"
+title: "RLadies+ New Chapter Guide"
 subtitle: "Guidelines and Insights for Starting and Growing New Chapters"
 date: "`r Sys.Date()`"
-author: "R-Ladies+ Global"
+author: "RLadies+ Global"
 slug: new-chapter-guide
 categories:
   - reports
@@ -22,7 +22,7 @@ source(here::here("reports/_common.R"))
 
 ## Executive Summary
 
-This guide gives new R-Ladies+ organizers a feel for what the community actually runs and what draws a crowd. It focuses on popularity rather than volume: which topics, difficulty levels, and formats attract the most RSVPs, and how widely they spread across chapters.
+This guide gives new RLadies+ organizers a feel for what the community actually runs and what draws a crowd. It focuses on popularity rather than volume: which topics, difficulty levels, and formats attract the most RSVPs, and how widely they spread across chapters.
 Topics are detected by keyword matching, so the categories below reflect the themes we could reliably capture from event text, not an exhaustive list of every topic covered in the period. 
 For a fuller breakdown of what gets published regardless of turnout, see the Topic Analysis report.
 
@@ -475,5 +475,5 @@ ggplot(topic_trends, aes(x = quarter, y = n, color = category)) +
 
 *Reporting period: `r format(report_start, "%B %Y")` - `r format(report_end - days(1), "%B %Y")` (24 closed months)*  
 *Report generated: `r format(Sys.time(), "%Y-%m-%d %H:%M %Z")`*  
-*Data source: R-Ladies+ Meetup Archive*  
+*Data source: RLadies+ Meetup Archive*  
 

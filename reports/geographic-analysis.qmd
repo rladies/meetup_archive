@@ -1,8 +1,8 @@
 ---
-title: "R-Ladies+ Geographic Analysis"
+title: "RLadies+ Geographic Analysis"
 subtitle: "Community activity by region, country and mode"
 date: "`r Sys.Date()`"
-author: "R-Ladies+ Global"
+author: "RLadies+ Global"
 slug: funder-report
 categories:
   - reports
@@ -23,7 +23,7 @@ library(maps)
 
 ## Geographic Analysis
 
-This report maps the global footprint of R-Ladies+, showing where chapters are located and how they cluster across countries and regions.
+This report maps the global footprint of RLadies+, showing where chapters are located and how they cluster across countries and regions.
 
 ### Active countries last year
 
@@ -52,11 +52,11 @@ total_chapters <- n_distinct(active_chapters$group_urlname)
 total_countries <- n_distinct(active_chapters$chapter_country_iso)
 ```
 
-In the last year, **`r total_chapters`** R-Ladies+ chapters were active across **`r total_countries`** countries worldwide.
+In the last year, **`r total_chapters`** RLadies+ chapters were active across **`r total_countries`** countries worldwide.
 
 ```{r}
 #| label: choropleth-map
-#| fig-cap: "Number of active R-Ladies+ chapters per country (last year)"
+#| fig-cap: "Number of active RLadies+ chapters per country (last year)"
 #| fig-width: 10
 #| fig-height: 5.5
 
@@ -126,7 +126,7 @@ ggplot(
   ) +
   coord_fixed(ratio = 1.3, xlim = c(-180, 180)) +
   labs(
-    title = "Active R-Ladies+ Chapters Around the World",
+    title = "Active RLadies+ Chapters Around the World",
     subtitle = paste(
       total_chapters, "active chapters across", total_countries, "countries",
       "(last 12 months)"
@@ -148,7 +148,7 @@ ggplot(
 
 ```{r}
 #| label: top-countries
-#| fig-cap: "Countries with the most active R-Ladies+ chapters"
+#| fig-cap: "Countries with the most active RLadies+ chapters"
 
 top_countries <- chapters_by_country |>
   slice_max(n_chapters, n = 15) |>
@@ -483,4 +483,4 @@ ggplot(top_venue_chapters, aes(x = n_venues, y = chapter)) +
 
 *Report period: `r format(report_start, "%B %d, %Y")` - `r format(report_end, "%B %d, %Y")`*  
 *Report generated: `r format(Sys.time(), "%Y-%m-%d %H:%M %Z")`*  
-*Data source: R-Ladies+ Meetup Archive*
+*Data source: RLadies+ Meetup Archive*

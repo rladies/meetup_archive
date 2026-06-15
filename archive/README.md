@@ -1,6 +1,6 @@
 # Full archive of R-Ladies Meetup data
 
-This folder contains a full archive of data from R-Ladies Meetups around the world. 
+This folder contains a full archive of data from RLadies+ Meetups around the world. 
 The data includes information about meetups, events, member counts, and organizers.
 
 ## Contents

@@ -60,7 +60,7 @@ chapter_region <- function(country_iso2) {
 }
 
 
-# R-Ladies brand colors
+# RLadies+ brand colors
 rladies_colors <- list(
   purple = "#88398A",
   dark_purple = "#562457",
@@ -69,7 +69,7 @@ rladies_colors <- list(
   black = "#222222"
 )
 
-# R-Ladies ggplot2 theme
+# RLadies+ ggplot2 theme
 theme_rladies <- function(base_size = 12) {
   theme_minimal(base_size = base_size) +
     theme(
@@ -91,7 +91,7 @@ theme_rladies <- function(base_size = 12) {
 # Set as default theme
 theme_set(theme_rladies())
 
-# R-Ladies color scale for discrete values
+# RLadies+ color scale for discrete values
 scale_fill_rladies <- function(...) {
   scale_fill_manual(
     values = unlist(rladies_colors),

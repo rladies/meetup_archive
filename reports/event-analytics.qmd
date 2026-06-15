@@ -1,8 +1,8 @@
 ---
-title: "R-Ladies+ Event Analytics"
+title: "RLadies+ Event Analytics"
 subtitle: "Understanding Event Patterns and Formats"
 date: "`r Sys.Date()`"
-author: "R-Ladies+ Global"
+author: "RLadies+ Global"
 slug: event-analytics
 categories:
   - reports
@@ -38,7 +38,7 @@ offset_to_hours <- function(offset) {
 
 ## Executive Summary
 
-This report analyzes event characteristics across the R-Ladies+ network to identify successful patterns and guide organizers in planning effective events.
+This report analyzes event characteristics across the RLadies+ network to identify successful patterns and guide organizers in planning effective events.
 
 ```{r}
 #| label: summary-metrics
@@ -391,11 +391,11 @@ Based on successful patterns:
 
 - **Regular meetups**: Consistent schedule on popular days  
 - **Quarterly workshops**: Longer format for skill-building  
-- **Annual celebrations**: Large events for milestones (IWD, R-Ladies+ Day)  
+- **Annual celebrations**: Large events for milestones (IWD, RLadies+ Day)  
 - **Co-working sessions**: Regular low-structure community time  
 
 ---
 
 *Report generated: `r format(Sys.time(), "%Y-%m-%d %H:%M %Z")`*  
-*Data source: R-Ladies+ Meetup Archive*
+*Data source: RLadies+ Meetup Archive*
 
