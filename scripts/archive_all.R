@@ -1,6 +1,6 @@
 #!/usr/bin/env Rscript
 
-# Archive R-Ladies Meetup Data (Raw JSON - GDPR Compliant)
+# Archive RLadies+ Meetup Data (Raw JSON - GDPR Compliant)
 # Creates timestamped archives using raw GraphQL responses
 # Excludes personally identifiable information (member names, etc.)
 
@@ -31,7 +31,7 @@ timestamp <- format(time, "%Y%m%d_%H%M%S")
 time_str <- format(time, "%Y-%m-%d %H:%M:%S")
 date_str <- format(time, "%Y-%m-%d")
 
-cli_h1("R-Ladies Meetup Archive")
+cli_h1("RLadies+ Meetup Archive")
 cli_alert_info("Starting archive process at {time_str}")
 
 # Fetch All Events via Pro Network ----------------------------------------
@@ -246,7 +246,7 @@ jsonlite::write_json(
 cli_alert_success("Saved raw chapters data: {.file {basename(chapters_file)}}")
 
 cli_alert_info(
-  "Found {.strong {length(chapters)}} chapters in R-Ladies network"
+  "Found {.strong {length(chapters)}} chapters in RLadies+ network"
 )
 
 
