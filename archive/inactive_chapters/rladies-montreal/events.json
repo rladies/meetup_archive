@@ -1,0 +1,3635 @@
+[
+  {
+    "id": "255400939",
+    "title": "R-Ladies Montreal: Wishes you a Merry Christmas",
+    "description": "Hello Everyone,\n\nThe Holiday season is here and due to these happy family days we have decided to skip this event and start over on January 17th of 2019.\n\nWe are happy to wish you a Merry Christmas and a wonderful and prosperous New Year 2019.\n\nMay all your coding and wishes come true.\n\nSee you next year,\n\nRLadies Montreal.",
+    "status": "CANCELLED",
+    "dateTime": "2018-12-20T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/255400939/",
+    "featuredEventPhoto": {
+      "id": "476580066",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/2/highres_476580066.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/2/600_476580066.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/2/thumb_476580066.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 16,
+      "waitlistCount": 0,
+      "totalCount": 16
+    },
+    "venues": [],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2018-03-15T21:28:45-04:00"
+  },
+  {
+    "id": "254278585",
+    "title": "R-Ladies Meeting: Data Cleaning &Introduction to Social Network Analysis.",
+    "description": "This upcoming Thursday we will be learning and discussing about Data cleaning and Social Network Analysis. We are excited to be receiving both presentations by 2 lovely members of the RLadies Montreal, Jessica Renaud and Jennifer Yu.\n\nRemember to update R & Rstudio to the newest version and to install (if not already) :\ninstall.packages(\"readxl\")\ninstall.packages(\"dplyr\")\ninstall.packages(\"tidyr\")\ninstall.packages(\"igraph\")\n\nFood and Drinks will be provided at location.\n\nWe can't wait to see you on Thursday!",
+    "status": "PAST",
+    "dateTime": "2018-11-15T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/254278585/",
+    "featuredEventPhoto": {
+      "id": "476317485",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/2/6/d/highres_476317485.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/2/6/d/600_476317485.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/2/6/d/thumb_476317485.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 20,
+      "waitlistCount": 0,
+      "totalCount": 20
+    },
+    "venues": [
+      {
+        "id": "25991561",
+        "name": "Precision Analytics",
+        "address": "5555 Ave. de Gaspe Suit #108",
+        "city": "Montreal",
+        "state": "qc",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2018-03-15T21:28:45-04:00"
+  },
+  {
+    "id": "253881617",
+    "title": "R-Ladies Meeting: Introduction to Shiny",
+    "description": "The session will include an introduction to shiny https://shiny.rstudio.com/ Please come with R and the shiny package installed!",
+    "status": "PAST",
+    "dateTime": "2018-10-18T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/253881617/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 24,
+      "waitlistCount": 0,
+      "totalCount": 24
+    },
+    "venues": [
+      {
+        "id": "24300420",
+        "name": "Plotly HQ",
+        "address": "5555 Avenue de Gaspé, suite 201",
+        "city": "Montréal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2018-03-15T21:28:45-04:00"
+  },
+  {
+    "id": "252870584",
+    "title": "September Meetup - Welcome back!",
+    "description": "We'll hold a planning session where we set the objectives for the fall session and decide what topics we'd like to cover. Pizza will be served!",
+    "status": "PAST",
+    "dateTime": "2018-09-20T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/252870584/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 19,
+      "waitlistCount": 0,
+      "totalCount": 19
+    },
+    "venues": [
+      {
+        "id": "24300420",
+        "name": "Plotly HQ",
+        "address": "5555 Avenue de Gaspé, suite 201",
+        "city": "Montréal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2018-03-15T21:28:45-04:00"
+  },
+  {
+    "id": "252631305",
+    "title": "September Meetup - Welcome back!",
+    "description": "We'll hold a planning session where we set the objectives for the fall session and decide what topics we'd like to cover. Pizza will be served!",
+    "status": "PAST",
+    "dateTime": "2018-09-20T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/252631305/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 16,
+      "waitlistCount": 0,
+      "totalCount": 16
+    },
+    "venues": [
+      {
+        "id": "24300420",
+        "name": "Plotly HQ",
+        "address": "5555 Avenue de Gaspé, suite 201",
+        "city": "Montréal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2018-03-15T21:28:45-04:00"
+  },
+  {
+    "id": "249706911",
+    "title": "R-Ladies Meeting: topic to be determined",
+    "description": "To be determined",
+    "status": "CANCELLED",
+    "dateTime": "2018-07-19T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/249706911/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 6,
+      "waitlistCount": 0,
+      "totalCount": 6
+    },
+    "venues": [],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2018-03-15T21:28:45-04:00"
+  },
+  {
+    "id": "248613754",
+    "title": "R-Ladies Meeting: topic to be determined",
+    "description": "To be determined",
+    "status": "CANCELLED",
+    "dateTime": "2018-06-21T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/248613754/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 6,
+      "waitlistCount": 0,
+      "totalCount": 6
+    },
+    "venues": [],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2018-02-08T18:32:14-05:00"
+  },
+  {
+    "id": "248613750",
+    "title": "R-Ladies Meeting: R Markdown for reproducible reports",
+    "description": "In this month's session, we will be viewing R Studio's webinar on R markdown. Bring your laptops to follow along. The materials for the meetup are found here: https://github.com/rstudio/webinars/tree/master/25-Notebooks. Please download them in advance!",
+    "status": "PAST",
+    "dateTime": "2018-05-17T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/248613750/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 26,
+      "waitlistCount": 0,
+      "totalCount": 26
+    },
+    "venues": [
+      {
+        "id": "23844086",
+        "name": "District 3",
+        "address": "1250 Guy Street",
+        "city": "Montréal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.4948,
+        "lon": -73.5776,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2018-02-08T18:32:14-05:00"
+  },
+  {
+    "id": "248613747",
+    "title": "R-Ladies Meeting: ggplot2 workshop",
+    "description": "What to expect: The focus of this month's meetup is ggplot2! Ggplot2 is a powerful R package for data visualization. The main benefit is the \"grammar of graphics\" that ggplot2 employs. In this workshop, we will learn ggplot2 via example. We'll provide the sample data to work with and create increasingly beautiful and complex visualizations. As a bonus, we'll also use the dplyr and plotly skills introduced last session.\n\nWhat to bring: Please bring your laptops! Please see our GitHub page (https://github.com/rladies/meetup-presentations_montreal/tree/master/20180419_ggplot) for this workshop and follow the set up instructions *before* the meeting! We can definitely help out if you run into issues.",
+    "status": "PAST",
+    "dateTime": "2018-04-19T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/248613747/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 27,
+      "waitlistCount": 0,
+      "totalCount": 27
+    },
+    "venues": [
+      {
+        "id": "25237962",
+        "name": "La Gare",
+        "address": "5333 Avenue Casgrain, Suite 102",
+        "city": "Montréal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.5262,
+        "lon": -73.595,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2018-02-08T18:32:14-05:00"
+  },
+  {
+    "id": "247618957",
+    "title": "R-Ladies Kick-off: Meet, greet, treat + code!",
+    "description": "• What we'll do\nAt last, R-Ladies Montreal is a-go! We'll start with a round table for everyone to introduce themselves, followed by four 10 min. lightning sessions on R tips and tricks aimed at the new and intermediate R user. Then we'll open the floor and brainstorm topics for future sessions, have time for chatting, networking, and for folks to mention if they're hiring or looking for work. There will be pizza supplied by this meeting's sponsor, Precision Analytics -- thanks, ladies!\n\n• What to bring\nBring a laptop if you want to install discuss packages and learn as you go. We aim to post the code of the lightning talks beforehand.\n\n• Important to know\nWe have a code of conduct -- please read it: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct",
+    "status": "PAST",
+    "dateTime": "2018-03-15T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/247618957/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 27,
+      "waitlistCount": 0,
+      "totalCount": 27
+    },
+    "venues": [
+      {
+        "id": "24300420",
+        "name": "Plotly HQ",
+        "address": "5555 Avenue de Gaspé, suite 201",
+        "city": "Montréal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2018-02-08T12:50:00-05:00"
+  },
+  {
+    "id": "266646439",
+    "title": "R-Ladies Meeting: TBC",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "CANCELLED",
+    "dateTime": "2019-12-19T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/266646439/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:37:20-04:00"
+  },
+  {
+    "id": "266506889",
+    "title": "R-Ladies Meeting: Holiday Break! ",
+    "description": "Dear R-Ladies,\n\nAs many of us will, must likely, be on Holiday Break we have decided to postpone this meetup until the next one on January 16th.\n\nHappy Holidays and Happy Coding :-)",
+    "status": "CANCELLED",
+    "dateTime": "2019-12-19T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/266506889/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 6,
+      "waitlistCount": 0,
+      "totalCount": 6
+    },
+    "venues": [
+      {
+        "id": "26628359",
+        "name": "Upgrade, Inc",
+        "address": "1080 Beaver Hall Hl Suite 200",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.5024,
+        "lon": -73.5655,
+        "postalCode": "H2Z 1S8",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:36:59-04:00"
+  },
+  {
+    "id": "265685164",
+    "title": "R-Ladies Meeting: TBC",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "CANCELLED",
+    "dateTime": "2019-11-21T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/265685164/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:37:20-04:00"
+  },
+  {
+    "id": "265684588",
+    "title": "R-Ladies Meeting: dplyr workshop",
+    "description": "*** PLEASE NOTE CHANGE OF LOCATION ***\n1080 Cote du Beaver Hall, Montreal QC\nSuite 200\n*************************************************\n\nWe'll be holding a hands-on dplyr workshop. We'll present a brief intro to dplyr, and then have everyone work on a problem set of increasingly difficulty. It'll allow you to work alone and together using dplyr's many functions.\n\nPlease come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "PAST",
+    "dateTime": "2019-11-21T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/265684588/",
+    "featuredEventPhoto": {
+      "id": "486770529",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/5/6/1/highres_486770529.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/5/6/1/600_486770529.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/5/6/1/thumb_486770529.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 16,
+      "waitlistCount": 0,
+      "totalCount": 16
+    },
+    "venues": [
+      {
+        "id": "26628359",
+        "name": "Upgrade, Inc",
+        "address": "1080 Beaver Hall Hl Suite 200",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.5024,
+        "lon": -73.5655,
+        "postalCode": "H2Z 1S8",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:36:59-04:00"
+  },
+  {
+    "id": "263843785",
+    "title": "R-Ladies Meeting: TBC",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "CANCELLED",
+    "dateTime": "2019-10-17T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/263843785/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 8,
+      "waitlistCount": 0,
+      "totalCount": 8
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:36:59-04:00"
+  },
+  {
+    "id": "263596249",
+    "title": "R-Ladies Meeting: TBC",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "CANCELLED",
+    "dateTime": "2019-10-17T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/263596249/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 8,
+      "waitlistCount": 0,
+      "totalCount": 8
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-06-18T10:57:31-04:00"
+  },
+  {
+    "id": "261906506",
+    "title": "R-Ladies Meeting: DashR by Ryan Kyle ",
+    "description": "Ryan Kyle will be giving a talk about Plotly's Dash for R package https://community.plot.ly/t/announcing-dash-for-r/25692. Dash for R creates beautiful web applications that allows you to harness the power of interactive analytics dashboards (learn more https://dash.plot.ly/).\n\nLink to the material for the meetup https://github.com/rpkyle/rladies-mtl-demo\n\nLink to the Dash for R github repo https://github.com/plotly/dashR!\n\nPlease come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "PAST",
+    "dateTime": "2019-09-19T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/261906506/",
+    "featuredEventPhoto": {
+      "id": "484977067",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/e/e/b/highres_484977067.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/e/e/b/600_484977067.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/e/e/b/thumb_484977067.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 31,
+      "waitlistCount": 0,
+      "totalCount": 31
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-02-22T15:31:12-05:00"
+  },
+  {
+    "id": "261906495",
+    "title": "R-Ladies Meeting: Introduction To R",
+    "description": "Hello RLadies,\n\nWith the best wishes and biggest consideration for everyone's vacation we are postponing this session until September.\n\nEnjoy summer and Happy coding :-)",
+    "status": "CANCELLED",
+    "dateTime": "2019-08-15T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/261906495/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 8,
+      "waitlistCount": 0,
+      "totalCount": 8
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-02-22T15:31:12-05:00"
+  },
+  {
+    "id": "261906520",
+    "title": "R-Ladies Meeting: Introduction To R",
+    "description": "Hello R-Ladies,\n\nWith the best wishes and biggest consideration for everyone's vacation we are postponing this session and the following August session until September.\n\nEnjoy summer and Happy coding :-)",
+    "status": "CANCELLED",
+    "dateTime": "2019-07-18T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/261906520/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 18,
+      "waitlistCount": 0,
+      "totalCount": 18
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-02-22T15:31:12-05:00"
+  },
+  {
+    "id": "260557820",
+    "title": "R-Ladies Meeting: Introduction To R",
+    "description": "We're so excited to host Isabella Gollini, PhD from University of Dublin https://sites.google.com/site/isabellagollini/\n\nShe'll be presenting an Introduction of R aimed at beginners!\n\nPlease come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "PAST",
+    "dateTime": "2019-06-20T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/260557820/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 47,
+      "waitlistCount": 0,
+      "totalCount": 47
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-02-22T15:31:12-05:00"
+  },
+  {
+    "id": "259178864",
+    "title": "R-Ladies Meeting: Topic to be confirmed. ",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal",
+    "status": "CANCELLED",
+    "dateTime": "2019-05-16T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/259178864/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 17,
+      "waitlistCount": 0,
+      "totalCount": 17
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-02-21T14:01:02-05:00"
+  },
+  {
+    "id": "258016293",
+    "title": "Introduction to Git and Github",
+    "description": "In preparation for this meetup, please arrive with the following:\n\n- The most updated version of R - https://cran.r-project.org/\n- RStudio - https://www.rstudio.com/products/rstudio/download/ installed on your laptop.\n- Create a free Github account https://github.com/\n\nPlease see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nIf you'd like to be added to our slack channel, please send me a message on the meetup platform. We share R tips, share details about conferences and events, and post jobs!\n\nWe'll have drinks and snacks 🍕",
+    "status": "PAST",
+    "dateTime": "2019-04-18T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/258016293/",
+    "featuredEventPhoto": {
+      "id": "480062948",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/8/4/highres_480062948.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/8/4/600_480062948.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/8/4/thumb_480062948.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 38,
+      "waitlistCount": 0,
+      "totalCount": 38
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2018-03-15T21:28:45-04:00"
+  },
+  {
+    "id": "256568682",
+    "title": "R-Ladies Meeting: Analyzing the impact of all-women tech groups",
+    "description": "Hi everyone!\n\nAt this month's R-Ladies meetup, I'll be presenting an analysis on the impact of women's tech groups (like this one!), on women's presence in the tech community. I'll be using some super cool publicly available data sets, making plots in ggplot2, and just having a great time exploring an interesting research question.\n\nI'll have the R code, data and slides up by Thursday AM.\n\nThey'll be pizza, snacks and beers served :)\nCan't wait to see you all there!\n\nErika\n\nPlease come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal",
+    "status": "PAST",
+    "dateTime": "2019-03-21T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/256568682/",
+    "featuredEventPhoto": {
+      "id": "479276833",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/e/0/1/highres_479276833.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/e/0/1/600_479276833.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/e/0/1/thumb_479276833.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 23,
+      "waitlistCount": 0,
+      "totalCount": 23
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2018-03-15T21:28:45-04:00"
+  },
+  {
+    "id": "257080515",
+    "title": "R-Ladies Meeting: Introduction to Machine Learning and Deep Learning",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal",
+    "status": "PAST",
+    "dateTime": "2019-02-21T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/257080515/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 36,
+      "waitlistCount": 0,
+      "totalCount": 36
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2018-03-15T21:28:45-04:00"
+  },
+  {
+    "id": "255400943",
+    "title": "R-Ladies Meeting: Introduction to dplyr",
+    "description": "Come learn the ins- and outs of one of our favourite packages, dplyr, to learn loads about data manipulation\nhttps://dplyr.tidyverse.org/\n\nFor meetup materials click here\nhttps://github.com/rladies/meetup-presentations_montreal/tree/master/20190117_dplyr\n\nRemember that R-Ladies Montreal is part of a worldwide organization to promote gender diversity in the R community. We seek to support women as they learn to use R, or expand their R toolkit, by hosting demos, workshops, and coding sessions. For more information, please send us a message through meetup.\n\nAll our slides can be found online: https://github.com/rladies/meetup-presentations_montreal\n\nFood and drinks will be provided by our corporate sponsor Upgrade, Inc. https://www.upgrade.com/ and the space is provided by Plotly https://plot.ly/",
+    "status": "PAST",
+    "dateTime": "2019-01-17T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/255400943/",
+    "featuredEventPhoto": {
+      "id": "477675848",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/d/e/8/highres_477675848.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/d/e/8/600_477675848.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/d/e/8/thumb_477675848.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 25,
+      "waitlistCount": 0,
+      "totalCount": 25
+    },
+    "venues": [
+      {
+        "id": "25991561",
+        "name": "Precision Analytics",
+        "address": "5555 Ave. de Gaspe Suit #108",
+        "city": "Montreal",
+        "state": "qc",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2018-03-15T21:28:45-04:00"
+  },
+  {
+    "id": "275130932",
+    "title": "R-Ladies Meeting: TBC",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "PAST",
+    "dateTime": "2020-12-17T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/275130932/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:36:59-04:00"
+  },
+  {
+    "id": "274927239",
+    "title": "R-Ladies Meeting: TBC",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "PAST",
+    "dateTime": "2020-12-17T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/274927239/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 6,
+      "waitlistCount": 0,
+      "totalCount": 6
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:37:20-04:00"
+  },
+  {
+    "id": "274584159",
+    "title": "R-Ladies Meeting: TBC",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "PAST",
+    "dateTime": "2020-11-19T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/274584159/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:36:59-04:00"
+  },
+  {
+    "id": "274584158",
+    "title": "R-Ladies Meeting: TBC",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "PAST",
+    "dateTime": "2020-11-19T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/274584158/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:37:20-04:00"
+  },
+  {
+    "id": "273826482",
+    "title": "R-Ladies Meeting: TBC",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "PAST",
+    "dateTime": "2020-10-15T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/273826482/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:37:20-04:00"
+  },
+  {
+    "id": "273649022",
+    "title": "R-Ladies Meeting: TBC",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "PAST",
+    "dateTime": "2020-10-15T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/273649022/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:36:59-04:00"
+  },
+  {
+    "id": "272883236",
+    "title": "R-Ladies Meeting: TBC",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "CANCELLED",
+    "dateTime": "2020-09-17T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/272883236/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:36:59-04:00"
+  },
+  {
+    "id": "272577228",
+    "title": "R-Ladies Meeting: TBC",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "PAST",
+    "dateTime": "2020-08-20T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/272577228/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:37:20-04:00"
+  },
+  {
+    "id": "272103390",
+    "title": "R-Ladies Meeting: TBC",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "PAST",
+    "dateTime": "2020-08-20T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/272103390/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:36:59-04:00"
+  },
+  {
+    "id": "271844141",
+    "title": "R-Ladies Meeting: TBC",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "CANCELLED",
+    "dateTime": "2020-07-16T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/271844141/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:36:59-04:00"
+  },
+  {
+    "id": "271610094",
+    "title": "R-Ladies Meeting: TBC",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "CANCELLED",
+    "dateTime": "2020-07-16T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/271610094/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 6,
+      "waitlistCount": 0,
+      "totalCount": 6
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:37:20-04:00"
+  },
+  {
+    "id": "267889457",
+    "title": "R-Ladies Meeting: Has been Cancelled for the month of March.",
+    "description": "After carefully reviewing the guidelines of the Government of Quebec and in the best interest of our guests and organizers we are proceeding with the cancellation of March’s R-Ladies Meet up. We will resume meet-ups as the ever-changing circumstances improve for the good of everyone.",
+    "status": "CANCELLED",
+    "dateTime": "2020-03-19T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/267889457/",
+    "featuredEventPhoto": {
+      "id": "489715104",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/7/4/0/highres_489715104.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/7/4/0/600_489715104.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/7/4/0/thumb_489715104.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 29,
+      "waitlistCount": 0,
+      "totalCount": 29
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:37:20-04:00"
+  },
+  {
+    "id": "267888666",
+    "title": "Leaving academia and diving into data science! Myths, tips and tricks.",
+    "description": "In this talk, Erika Braithwaite will discuss some myths about jobs in data science and tricks about how to rebrand yourself if you're leaving academia. Erika will also present some analysis on the 2018 Kaggle Data Scientist Survey to help make talk more data-driven :)\n\nPlease come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided by our sponsor Upgrade INC.!!\n\nHappy coding :-)",
+    "status": "PAST",
+    "dateTime": "2020-02-20T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/267888666/",
+    "featuredEventPhoto": {
+      "id": "488136301",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/d/c/d/highres_488136301.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/d/c/d/600_488136301.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/d/c/d/thumb_488136301.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 27,
+      "waitlistCount": 0,
+      "totalCount": 27
+    },
+    "venues": [
+      {
+        "id": "26628357",
+        "name": "1080 Côte du Beaver Hall",
+        "address": "1080 Côte du Beaver Hall",
+        "city": "Montréal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.5024,
+        "lon": -73.5655,
+        "postalCode": "H2Z 1S8",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:37:20-04:00"
+  },
+  {
+    "id": "266807744",
+    "title": "R-Ladies Meeting: TBC",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "CANCELLED",
+    "dateTime": "2020-02-20T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/266807744/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:36:59-04:00"
+  },
+  {
+    "id": "266806553",
+    "title": "R-Ladies Meeting: TBC",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "CANCELLED",
+    "dateTime": "2020-01-16T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/266806553/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:37:20-04:00"
+  },
+  {
+    "id": "266785968",
+    "title": "R-Ladies Meeting: Stock Market Analysis using R",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided by our Sponsor UPGRADE INC!!\n\nHappy coding :)",
+    "status": "PAST",
+    "dateTime": "2020-01-16T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/266785968/",
+    "featuredEventPhoto": {
+      "id": "488130106",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/5/9/a/highres_488130106.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/5/9/a/600_488130106.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/5/9/a/thumb_488130106.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 19,
+      "waitlistCount": 0,
+      "totalCount": 19
+    },
+    "venues": [
+      {
+        "id": "26628359",
+        "name": "Upgrade, Inc",
+        "address": "1080 Beaver Hall Hl Suite 200",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.5024,
+        "lon": -73.5654,
+        "postalCode": "H2Z 1S8",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:36:59-04:00"
+  },
+  {
+    "id": "282616829",
+    "title": "R-Ladies Meeting: TBC",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "PAST",
+    "dateTime": "2021-12-16T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/282616829/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:36:59-04:00"
+  },
+  {
+    "id": "282616828",
+    "title": "R-Ladies Meeting: TBC",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "PAST",
+    "dateTime": "2021-12-16T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/282616828/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:37:20-04:00"
+  },
+  {
+    "id": "282053632",
+    "title": "R-Ladies Meeting: TBC",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "PAST",
+    "dateTime": "2021-11-18T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/282053632/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:37:20-04:00"
+  },
+  {
+    "id": "282046472",
+    "title": "R-Ladies Meeting: TBC",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "PAST",
+    "dateTime": "2021-11-18T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/282046472/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:36:59-04:00"
+  },
+  {
+    "id": "281454631",
+    "title": "R-Ladies Meeting: TBC",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "PAST",
+    "dateTime": "2021-10-21T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/281454631/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:36:59-04:00"
+  },
+  {
+    "id": "280824875",
+    "title": "R-Ladies Meeting: TBC",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "PAST",
+    "dateTime": "2021-10-21T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/280824875/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:37:20-04:00"
+  },
+  {
+    "id": "280699408",
+    "title": "R-Ladies Meeting: TBC",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "PAST",
+    "dateTime": "2021-09-16T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/280699408/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 6,
+      "waitlistCount": 0,
+      "totalCount": 6
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:36:59-04:00"
+  },
+  {
+    "id": "280699407",
+    "title": "R-Ladies Meeting: TBC",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "PAST",
+    "dateTime": "2021-09-16T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/280699407/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:37:20-04:00"
+  },
+  {
+    "id": "280104067",
+    "title": "R-Ladies Meeting: TBC",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "PAST",
+    "dateTime": "2021-08-19T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/280104067/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:36:59-04:00"
+  },
+  {
+    "id": "280104066",
+    "title": "R-Ladies Meeting: TBC",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "PAST",
+    "dateTime": "2021-08-19T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/280104066/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:37:20-04:00"
+  },
+  {
+    "id": "279373831",
+    "title": "R-Ladies Meeting: TBC",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "PAST",
+    "dateTime": "2021-07-15T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/279373831/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:36:59-04:00"
+  },
+  {
+    "id": "279373830",
+    "title": "R-Ladies Meeting: TBC",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "PAST",
+    "dateTime": "2021-07-15T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/279373830/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:37:20-04:00"
+  },
+  {
+    "id": "278780598",
+    "title": "R-Ladies Meeting: TBC",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "PAST",
+    "dateTime": "2021-06-17T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/278780598/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:36:59-04:00"
+  },
+  {
+    "id": "278773899",
+    "title": "R-Ladies Meeting: TBC",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "PAST",
+    "dateTime": "2021-06-17T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/278773899/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:37:20-04:00"
+  },
+  {
+    "id": "278190353",
+    "title": "R-Ladies Meeting: TBC",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "PAST",
+    "dateTime": "2021-05-20T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/278190353/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:37:20-04:00"
+  },
+  {
+    "id": "277759734",
+    "title": "R-Ladies Meeting: TBC",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "PAST",
+    "dateTime": "2021-05-20T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/277759734/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:36:59-04:00"
+  },
+  {
+    "id": "277016641",
+    "title": "R-Ladies Meeting: TBC",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "PAST",
+    "dateTime": "2021-04-15T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/277016641/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:37:20-04:00"
+  },
+  {
+    "id": "277016534",
+    "title": "R-Ladies Meeting: TBC",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "PAST",
+    "dateTime": "2021-04-15T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/277016534/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:36:59-04:00"
+  },
+  {
+    "id": "276898919",
+    "title": "R-Ladies Meeting: TBC",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "PAST",
+    "dateTime": "2021-03-18T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/276898919/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:37:20-04:00"
+  },
+  {
+    "id": "276893558",
+    "title": "R-Ladies Meeting: TBC",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "PAST",
+    "dateTime": "2021-03-18T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/276893558/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:36:59-04:00"
+  },
+  {
+    "id": "276337236",
+    "title": "R-Ladies Meeting: TBC",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "PAST",
+    "dateTime": "2021-02-18T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/276337236/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:36:59-04:00"
+  },
+  {
+    "id": "276337235",
+    "title": "R-Ladies Meeting: TBC",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "PAST",
+    "dateTime": "2021-02-18T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/276337235/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:37:20-04:00"
+  },
+  {
+    "id": "275777587",
+    "title": "R-Ladies Meeting: TBC",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "PAST",
+    "dateTime": "2021-01-21T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/275777587/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:36:59-04:00"
+  },
+  {
+    "id": "275777586",
+    "title": "R-Ladies Meeting: TBC",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "PAST",
+    "dateTime": "2021-01-21T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/275777586/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:37:20-04:00"
+  },
+  {
+    "id": "288828513",
+    "title": "R-Ladies Meeting: TBC",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "PAST",
+    "dateTime": "2022-10-20T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/288828513/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:36:59-04:00"
+  },
+  {
+    "id": "288828512",
+    "title": "R-Ladies Meeting: TBC",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "PAST",
+    "dateTime": "2022-10-20T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/288828512/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 8,
+      "waitlistCount": 0,
+      "totalCount": 8
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:37:20-04:00"
+  },
+  {
+    "id": "288086396",
+    "title": "R-Ladies Meeting: TBC",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "PAST",
+    "dateTime": "2022-09-15T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/288086396/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:36:59-04:00"
+  },
+  {
+    "id": "288086395",
+    "title": "R-Ladies Meeting: TBC",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "PAST",
+    "dateTime": "2022-09-15T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/288086395/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:37:20-04:00"
+  },
+  {
+    "id": "287502158",
+    "title": "R-Ladies Meeting: TBC",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "PAST",
+    "dateTime": "2022-08-18T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/287502158/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:37:20-04:00"
+  },
+  {
+    "id": "286609449",
+    "title": "R-Ladies Meeting: TBC",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "PAST",
+    "dateTime": "2022-08-18T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/286609449/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:36:59-04:00"
+  },
+  {
+    "id": "286609448",
+    "title": "R-Ladies Meeting: TBC",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "PAST",
+    "dateTime": "2022-08-18T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/286609448/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 10,
+      "waitlistCount": 0,
+      "totalCount": 10
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:36:59-04:00"
+  },
+  {
+    "id": "286927948",
+    "title": "R-Ladies Meeting: TBC",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "PAST",
+    "dateTime": "2022-07-21T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/286927948/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:37:20-04:00"
+  },
+  {
+    "id": "286500794",
+    "title": "R-Ladies Meeting: TBC",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "PAST",
+    "dateTime": "2022-07-21T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/286500794/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:36:59-04:00"
+  },
+  {
+    "id": "286500793",
+    "title": "R-Ladies Meeting: TBC",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "PAST",
+    "dateTime": "2022-07-21T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/286500793/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 10,
+      "waitlistCount": 0,
+      "totalCount": 10
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:36:59-04:00"
+  },
+  {
+    "id": "286191478",
+    "title": "R-Ladies Meeting: TBC",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "PAST",
+    "dateTime": "2022-06-16T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/286191478/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:36:59-04:00"
+  },
+  {
+    "id": "286191477",
+    "title": "R-Ladies Meeting: TBC",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "PAST",
+    "dateTime": "2022-06-16T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/286191477/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:37:20-04:00"
+  },
+  {
+    "id": "285601844",
+    "title": "R-Ladies Meeting: TBC",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "PAST",
+    "dateTime": "2022-05-19T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/285601844/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:36:59-04:00"
+  },
+  {
+    "id": "285601843",
+    "title": "R-Ladies Meeting: TBC",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "PAST",
+    "dateTime": "2022-05-19T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/285601843/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:37:20-04:00"
+  },
+  {
+    "id": "285008443",
+    "title": "R-Ladies Meeting: TBC",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "PAST",
+    "dateTime": "2022-04-21T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/285008443/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:36:59-04:00"
+  },
+  {
+    "id": "285008442",
+    "title": "R-Ladies Meeting: TBC",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "PAST",
+    "dateTime": "2022-04-21T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/285008442/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:37:20-04:00"
+  },
+  {
+    "id": "284257832",
+    "title": "R-Ladies Meeting: TBC",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "PAST",
+    "dateTime": "2022-03-17T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/284257832/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:36:59-04:00"
+  },
+  {
+    "id": "284170458",
+    "title": "R-Ladies Meeting: TBC",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "PAST",
+    "dateTime": "2022-03-17T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/284170458/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:37:20-04:00"
+  },
+  {
+    "id": "283930853",
+    "title": "R-Ladies Meeting: TBC",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "PAST",
+    "dateTime": "2022-02-17T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/283930853/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 6,
+      "waitlistCount": 0,
+      "totalCount": 6
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:37:20-04:00"
+  },
+  {
+    "id": "283568499",
+    "title": "R-Ladies Meeting: TBC",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "PAST",
+    "dateTime": "2022-02-17T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/283568499/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:36:59-04:00"
+  },
+  {
+    "id": "283268733",
+    "title": "R-Ladies Meeting: TBC",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "PAST",
+    "dateTime": "2022-01-20T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/283268733/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:36:59-04:00"
+  },
+  {
+    "id": "283066822",
+    "title": "R-Ladies Meeting: TBC",
+    "description": "Please come with the most updated version of R and RStudio installed on your laptop. Please see our github page for more details on current and past events, including materials and code! https://github.com/rladies/meetup-presentations_montreal\n\nAs usual, snacks and drinks will be provided!!\n\nHappy coding :-)",
+    "status": "PAST",
+    "dateTime": "2022-01-20T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/283066822/",
+    "featuredEventPhoto": {
+      "id": "478242902",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/highres_478242902.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/600_478242902.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/6/thumb_478242902.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "26186482",
+        "name": "Plotly",
+        "address": "5555 Av. de Gaspé #118",
+        "city": "Montreal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.528,
+        "lon": -73.5975,
+        "postalCode": "H2T 2A3",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2019-08-08T15:37:20-04:00"
+  },
+  {
+    "id": "297337676",
+    "title": "Introduction to base R and ggplot2",
+    "description": "***\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*IMPORTANT\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\****\n\n**DATE:** TUESDAY, NOVEMBER 28th\n\n**LOCATION:** ROOM 189, 550 RUE SHERBROOKE OUEST (H3A 1B9), IN DOWNTOWN MONTRÉAL\n\n***\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*IMPORTANT\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\****\n\n## Details\n\nJoin us on **TUESDAY November 28th** for our final meetup of the year!\n\n**Agenda:**\n\n* Settling in and and request for talks\n* Speaker\n* Networking / practical coding time\n\n**Topic:**\nThis month we'll be discussing commonly used base R commands and an introduction to the R package ggplot2 for visualizing data.\n\nThis session, we will work through exercises related to:\n\n* essential commands in base R (getting started, handling data, etc.)\n* visualizing data in graphs using ggplot2\n* exploring resources outside of Rstudio/Posit to support your R learning\n\nWhile this is a more introductory R meetup, all levels are welcome!\nExperienced R-users are encouraged to help new R users!\n\n**What to bring:**\nBring your laptop if you'd like to follow along with the examples. We recommend installing the latest version of [R](https://www.r-project.org/) and [RStudio](https://posit.co/products/open-source/rstudio/) before you arrive.\n\n**Other:**\nR-Ladies events always have been and will always be free to attend! RSVPs are not required, but do help us plan space requirements. Please note have changed our location to McGill campus at 550 rue Sherbrooke for this meetup, with space generously provided by the Quantitative Life Sciences department. See above for location details.\n\n**Questions?**\nPlease comment or message the organizers with any questions.",
+    "status": "CANCELLED",
+    "dateTime": "2023-11-28T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/297337676/",
+    "featuredEventPhoto": {
+      "id": "517272172",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/f/8/c/highres_517272172.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/f/8/c/600_517272172.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/f/8/c/thumb_517272172.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 10,
+      "waitlistCount": 0,
+      "totalCount": 10
+    },
+    "venues": [
+      {
+        "id": "27700720",
+        "name": "550 Rue Sherbrooke O room 189",
+        "address": "550 Rue Sherbrooke O room 189",
+        "city": "Montréal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.5058,
+        "lon": -73.5723,
+        "postalCode": "H3A 1B9",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2023-11-13T11:35:23-05:00"
+  },
+  {
+    "id": "296559481",
+    "title": "RLadies October Meetup - \"R-omics\": Using R for bioinformatics",
+    "description": "Join us on October 30th for our second meetup of the 2023-24 season!\n\n**Agenda:**\n\n* Settling in and and request for talks\n* Speaker\n* Networking / practical coding time\n\n**Topic:**\nThis month we'll be discussing how to use R for bioinformatics. Bioinformatics is a rapidly evolving field that combines aspects of data science, biostatistics, and natural sciences in order to analyze biological datasets. Many research areas can fall under the umbrella of bioinformatics, from modelling the 3D structure of proteins to identifying gene mutations associated with disease.\n\nThis session, we will work through exercises related to:\n\n* essential resources for working with genomic data, like Bioconductor packages\n* visualizing high-dimensional data such as spatial transcriptomics\n* calling command-line tools from R\n\nWhile some biology background will be helpful for this session, everyone is welcome.\n\n**What to bring:**\nBring your laptop if you'd like to follow along with the examples. We recommend installing the latest version of [R](https://www.r-project.org/) and [RStudio](https://posit.co/products/open-source/rstudio/) before you arrive.\n\n**Other:**\nR-Ladies events always have been and will always be free to attend! RSVPs are not required, but do help us plan space requirements.\n\n**Questions?**\nPlease comment or message the organizers with any questions.",
+    "status": "PAST",
+    "dateTime": "2023-10-30T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/296559481/",
+    "featuredEventPhoto": {
+      "id": "516354395",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/4/7/b/highres_516354395.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/4/7/b/600_516354395.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/4/7/b/thumb_516354395.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 9,
+      "waitlistCount": 0,
+      "totalCount": 9
+    },
+    "venues": [
+      {
+        "id": "27648835",
+        "name": "1275 Av. des Canadiens-de-Montréal",
+        "address": "1275 Av. des Canadiens-de-Montréal",
+        "city": "Montréal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.4963,
+        "lon": -73.5706,
+        "postalCode": "H3B 5E6",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2023-10-05T12:39:55-04:00"
+  },
+  {
+    "id": "295738074",
+    "title": "RLadies 2023-24 Kickoff: Introduction to data wrangling with dplyr",
+    "description": "Join us on September 25 as we kick-off R-Ladies for the 2023-24 season!\n\n**Agenda:**\n\n* Welcome and introductions\n\n* Some history about R-Ladies Montreal and request for talks\n\n* Introduction to data wrangling using dplyr\n\n* Networking / practical coding time\n\nFor this introduction to data wrangling in dplyr, we assume only a basic level of R knowledge, but all are welcome. If you are proficient in R, we encourage you to attend for the planning, networking, and ideally to help out your fellow useRs! Ideally come with R and RStudio already installed, as well as the dplyr package, but we can help troubleshoot as needed.\n\nThe event will be held at WeWork L'avenue, on the 5th floor just past reception.\n\nPlease comment or message the organizers with any questions.\n\nR-Ladies events always have been and will always be free to attend! RSVPs are not required, but do help us plan space requirements.",
+    "status": "PAST",
+    "dateTime": "2023-09-25T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/295738074/",
+    "featuredEventPhoto": {
+      "id": "515475434",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/c/4/a/highres_515475434.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/c/4/a/600_515475434.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/c/4/a/thumb_515475434.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 13,
+      "waitlistCount": 0,
+      "totalCount": 13
+    },
+    "venues": [
+      {
+        "id": "27648835",
+        "name": "1275 Av. des Canadiens-de-Montréal",
+        "address": "1275 Av. des Canadiens-de-Montréal",
+        "city": "Montréal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.4963,
+        "lon": -73.5706,
+        "postalCode": "H3B 5E6",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2023-08-28T12:12:09-04:00"
+  },
+  {
+    "id": "299316045",
+    "title": "RLadies February Meetup - Introduction to R and RStudio",
+    "description": "Join us on Tuesday, February 27th for an intro to R night!\nPlease note our location for this meetup has changed to:\n\nRoom 189\n550 Rue Sherbrooke O\nMontréal, QC H3A 1B9\n\n**Agenda:**\n\n* Settling in and and request for talks\n* Speaker\n* Networking / practical coding time\n\n**Topic:**\nIn this session, we will first discuss how to get started in R language for new users and paths to careers in coding. We will then learn about the basics of R language and how to use RStudio integrated development environment (IDE). We will learn how to import and do basic manipulations of data sets, and how to then visualize these datasets in graphs using ggplot2 package. Feel free to bring your own datasets to test out! Toy datasets will also be provided through our Github page.\n\nThere will be pizza!!\n\n**What to bring:**\nBring your laptop if you'd like to follow along with the examples. We recommend installing the latest version of [R](https://www.r-project.org/) and [RStudio](https://posit.co/products/open-source/rstudio/) before you arrive.\n\n**Other:**\nR-Ladies events always have been and will always be free to attend! RSVPs are not required, but do help us plan space requirements. We would like to thank the Quantitative Life Sciences department at McGill University for hosting this session!\n\n**Questions?**\nPlease comment or message the organizers with any questions.",
+    "status": "PAST",
+    "dateTime": "2024-02-27T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/299316045/",
+    "featuredEventPhoto": {
+      "id": "519261423",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/3/a/f/highres_519261423.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/3/a/f/600_519261423.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/3/a/f/thumb_519261423.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 7,
+      "waitlistCount": 0,
+      "totalCount": 7
+    },
+    "venues": [
+      {
+        "id": "27740072",
+        "name": "550 Rue Sherbrooke O",
+        "address": "550 Rue Sherbrooke O",
+        "city": "Montréal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.5058,
+        "lon": -73.5723,
+        "postalCode": "H3A 1B9",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2024-02-20T13:22:12-05:00"
+  },
+  {
+    "id": "298762683",
+    "title": "RLadies January Meetup - Introduction to Python in RStudio",
+    "description": "Join us on Tuesday, January 30th for our first meetup of 2024!\nPlease note our location for this meetup has changed to:\n\nRoom 189\n550 Rue Sherbrooke O\nMontréal, QC H3A 1B9\n\n**Agenda:**\n\n* Settling in and and request for talks\n* Speaker\n* Networking / practical coding time\n\n**Topic:**\nIn this session, we will first go over the basics of the Python Programming Language. Next, we will learn to use Python modules for efficient data wrangling and visualization. And finally, we will cover the different methods to implement Python code into RStudio.\n\n**What to bring:**\nBring your laptop if you'd like to follow along with the examples. We recommend installing the latest version of [R](https://www.r-project.org/) and [RStudio](https://posit.co/products/open-source/rstudio/) before you arrive. Installation of [Python](https://www.python.org/downloads/) is highly recommended for practicing Python code during this session's tutorial.\n\n**Other:**\nR-Ladies events always have been and will always be free to attend! RSVPs are not required, but do help us plan space requirements. We would like to thank the Quantitative Life Sciences department at McGill University for hosting this session!\n\n**Questions?**\nPlease comment or message the organizers with any questions.",
+    "status": "PAST",
+    "dateTime": "2024-01-30T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/298762683/",
+    "featuredEventPhoto": {
+      "id": "518686287",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/4/c/f/highres_518686287.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/4/c/f/600_518686287.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/4/c/f/thumb_518686287.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 9,
+      "waitlistCount": 0,
+      "totalCount": 9
+    },
+    "venues": [
+      {
+        "id": "27740072",
+        "name": "550 Rue Sherbrooke O",
+        "address": "550 Rue Sherbrooke O",
+        "city": "Montréal",
+        "state": "QC",
+        "country": "ca",
+        "lat": 45.5058,
+        "lon": -73.5723,
+        "postalCode": "H3A 1B9",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2024-01-24T16:30:36-05:00"
+  },
+  {
+    "id": "308391618",
+    "title": "R-Ladies Montreal: Reboot + Refresh Virtual Meetup",
+    "description": "Monday, June 16 @ 7:00pm\n\nLet’s shape the future of our local R & data science community together!\nWe're bringing R-Ladies Montreal back to life—and we want your input!\n\nJoin us for a casual, community-focused **virtual** meetup on June 16, where we will:\n\\- Share plans for rebooting the group and gather your feedback\n\\- Discuss the results from our recent community survey\n\\- Brainstorm ideas for future events \\(in\\-person and virtual\\)\n\\- Enjoy two short\\, fun presentations on interesting R packages\nWe will also preview and plan upcoming events.\nWhether you're brand new to R or a longtime data nerd, your voice matters. Help us build the kind of community you want to be part of!",
+    "status": "PAST",
+    "dateTime": "2025-06-16T19:00:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-montreal/events/308391618/",
+    "featuredEventPhoto": {
+      "id": "528450857",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/8/8/9/highres_528450857.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/8/8/9/600_528450857.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/8/8/9/thumb_528450857.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 8,
+      "waitlistCount": 0,
+      "totalCount": 8
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Montreal",
+      "urlname": "rladies-montreal"
+    },
+    "createdTime": "2025-06-09T09:19:17-04:00"
+  }
+]
