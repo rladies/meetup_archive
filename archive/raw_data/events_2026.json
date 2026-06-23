@@ -1,5 +1,39 @@
 [
   {
+    "id": "315377579",
+    "title": "crosspost - PyLadies Vancouver July Meetup",
+    "description": "Join PyLadies Vancouver for our July meetup, hosted at Improving Vancouver! This month we have two talks on AI agents and large language models.\n⚠️ **Please RSVP through Luma, not Meetup:** [https://luma.com/3oxfwqry](https://luma.com/3oxfwqry)\nYour spot is only confirmed once you register on Luma, so we can plan for the right headcount and space.\n**Talk 1: What Happens When Your Agent Has to Wait for a Human by Melanie Warrick**\nYou built an agent in Python. It reasons, calls tools, handles its own steps. Then it hits a step that needs a human to approve something, and that approval might take five minutes or five days. The process sits there holding all its state in memory, waiting, until it crashes and everything the agent figured out is gone. This talk is about that moment: the agentic loop, why its state is only as durable as the process running it, and how durable execution with Temporal makes the loop survive crashes and long waits. Includes a short live demo.\nMelanie has been developing AI solutions for over a decade and leads developer relations at Temporal, focused on AI and durable execution.\n**Talk 2: A Practical Introduction to Generative AI and Large Language Models by Daniel Chen**\nA grounded, practical look at how generative AI and LLMs actually work: how they generate responses, why the same prompt can give different outputs, and what that means for applications that need reliability. We'll also look at how LLMs fit into real data science workflows in Python, with a focus on building intuition for what these models can and can't do.\nDaniel is a Data Science Lecturer in the Statistics Department at UBC and teaches for the UBC Master of Data Science program.\n**Support PyLadies Vancouver**\nThe event is free to attend. If you'd like to support us, donations help keep our meetups running, and a $25 donation gets you a PyLadies Vancouver tote bag: [https://psfmember.org/civicrm/contribute/transact/?reset=1&id=60](https://psfmember.org/civicrm/contribute/transact/?reset=1&id=60)\n​A huge thank you to [Improving Vancouver](https://improving.com/locations/vancouver/?utm_source=luma) for hosting us in their space **and providing pizza** for the evening! 🍕\n\\#\\# ​Thank you to our venue host: Improving Vancouver\n​Improving Vancouver is an IT consulting and software development firm (formerly Bit Quill Technologies) based in Vancouver, BC. They specialize in application development, data engineering, and AI solutions — helping teams build modern, scalable, data-driven applications. We're grateful for their support of the local Python community.\n👉 **Remember: RSVP on Luma to secure your spot —** [https://luma.com/3oxfwqry](https://luma.com/3oxfwqry)",
+    "status": "ACTIVE",
+    "dateTime": "2026-07-06T18:00:00-07:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-vancouver/events/315377579/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 1,
+      "waitlistCount": 0,
+      "totalCount": 1
+    },
+    "venues": [
+      {
+        "id": "27921041",
+        "name": "improving",
+        "address": "116 W 6th Avenue Suite 300",
+        "city": "Vancouver",
+        "state": "BC",
+        "country": "ca",
+        "lat": 49.2655,
+        "lon": -123.1073,
+        "postalCode": "V5Y 1K6",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Vancouver",
+      "urlname": "rladies-vancouver"
+    },
+    "createdTime": "2026-06-22T20:59:59-04:00"
+  },
+  {
     "id": "315263218",
     "title": "R-Ladies+ Melbourne Social Event",
     "description": "Come unwind and connect after work with the R-Ladies+ Melbourne committee and members to celebrate the middle of the year!\n\n🕕 Time: 6pm\n📅 When: Tuesday 30th June 2026\n📍 Where: Quarterhouse, 693 Collins St, Docklands VIC 3008\n(right near Southern Cross Station).\n\nGreat opportunity to meet others that are using R. The idea is build our community and network with like minded coders. Whether you have been to our past events, or want to join for the first time, please come and join us.\n\n🎉 Everyone is welcome! 🎉\n\n\\*Please note that food and drinks are not provided at this event and are at the attendee’s expense. It's more of an opportunity to come and socialise with the group and learn more about upcoming events and opportunities.\n\n**‼️ Please RSVP** (and update your RSVP if your circumstances change). **‼️**",
@@ -15,9 +49,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/1/3/4/thumb_534773556.jpeg"
     },
     "rsvps": {
-      "yesCount": 8,
+      "yesCount": 9,
       "waitlistCount": 0,
-      "totalCount": 8
+      "totalCount": 9
     },
     "venues": [
       {
@@ -55,9 +89,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/6/9/b/thumb_534558075.jpeg"
     },
     "rsvps": {
-      "yesCount": 40,
+      "yesCount": 42,
       "waitlistCount": 0,
-      "totalCount": 40
+      "totalCount": 42
     },
     "venues": [],
     "group": {
@@ -82,9 +116,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/9/f/2/thumb_534678930.jpeg"
     },
     "rsvps": {
-      "yesCount": 46,
+      "yesCount": 50,
       "waitlistCount": 0,
-      "totalCount": 46
+      "totalCount": 50
     },
     "venues": [
       {
