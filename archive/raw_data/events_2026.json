@@ -1,5 +1,85 @@
 [
   {
+    "id": "315411350",
+    "title": "ChatGPT in RStudio with gptstudio: Better than GitHub Copilot?",
+    "description": "**Supercharging Your R Workflow with a Native AI Assistant**\n\nIt’s no surprise that large language models like ChatGPT are helpful for coding. What makes gptstudio stand out is how it brings that help directly into RStudio through a clean, user-friendly add-in.\n\ngptstudio is an R package that integrates ChatGPT into RStudio, allowing you to generate code, explain functions, and write documentation using natural language, all without leaving your IDE. It supports various OpenAI models and offers an add-in panel that works like a built-in assistant. This tool is especially useful when you're experimenting, writing boilerplate code, or just need quick answers while staying in your flow.\nAdvantages of using the gptstudio package:\n\n✔️ Seamless integration into RStudio via an add-in panel\n✔️ Helps generate and explain R code using plain language prompts\n✔️ Supports multiple OpenAI models, including GPT-3.5 and GPT-4\n\n✔️ Useful for both beginners and experienced users looking to speed up their workflow",
+    "status": "ACTIVE",
+    "dateTime": "2026-08-06T12:00:00-05:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-st-louis/events/315411350/",
+    "featuredEventPhoto": {
+      "id": "532597192",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/1/4/8/highres_532597192.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/1/4/8/600_532597192.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/1/4/8/thumb_532597192.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 22,
+      "waitlistCount": 0,
+      "totalCount": 22
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies St. Louis",
+      "urlname": "rladies-st-louis"
+    },
+    "createdTime": "2026-06-25T09:32:53-04:00"
+  },
+  {
+    "id": "315412315",
+    "title": "Summertime 5 à 7",
+    "description": "Connect with fellow data enthusiasts in a relaxed, casual setting. Drop by anytime! A variety of alcoholic and non-alcoholic beverages, along with food, will be available for purchase. Please note that participants are responsible for their own tabs.\n\nSeating is limited so please only RSVP if you're planning to join us in person. If your plans change, kindly cancel your RSVP so others can take your spot. We appreciate it!\n\n⚠️ **Please note that the mission of R-Ladies+ is to increase gender diversity in the R community. This event is intended to provide a safe space for women and gender minorities. We ask for male allies to be invited by and accompanied by a woman or gender minority.**",
+    "status": "ACTIVE",
+    "dateTime": "2026-07-28T17:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-ottawa/events/315412315/",
+    "featuredEventPhoto": {
+      "id": "534915940",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/e/4/4/highres_534915940.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/e/4/4/600_534915940.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/e/4/4/thumb_534915940.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "27220864",
+        "name": "Braumeister Bierhalle",
+        "address": "175 Carruthers Ave",
+        "city": "Ottawa",
+        "state": "ON",
+        "country": "ca",
+        "lat": 45.4061,
+        "lon": -75.7284,
+        "postalCode": "K1Y 1P8",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Ottawa",
+      "urlname": "rladies-ottawa"
+    },
+    "createdTime": "2026-06-25T10:53:02-04:00"
+  },
+  {
     "id": "315377579",
     "title": "crosspost - PyLadies Vancouver July Meetup",
     "description": "Join PyLadies Vancouver for our July meetup, hosted at Improving Vancouver! This month we have two talks on AI agents and large language models.\n⚠️ **Please RSVP through Luma, not Meetup:** [https://luma.com/3oxfwqry](https://luma.com/3oxfwqry)\nYour spot is only confirmed once you register on Luma, so we can plan for the right headcount and space.\n**Talk 1: What Happens When Your Agent Has to Wait for a Human by Melanie Warrick**\nYou built an agent in Python. It reasons, calls tools, handles its own steps. Then it hits a step that needs a human to approve something, and that approval might take five minutes or five days. The process sits there holding all its state in memory, waiting, until it crashes and everything the agent figured out is gone. This talk is about that moment: the agentic loop, why its state is only as durable as the process running it, and how durable execution with Temporal makes the loop survive crashes and long waits. Includes a short live demo.\nMelanie has been developing AI solutions for over a decade and leads developer relations at Temporal, focused on AI and durable execution.\n**Talk 2: A Practical Introduction to Generative AI and Large Language Models by Daniel Chen**\nA grounded, practical look at how generative AI and LLMs actually work: how they generate responses, why the same prompt can give different outputs, and what that means for applications that need reliability. We'll also look at how LLMs fit into real data science workflows in Python, with a focus on building intuition for what these models can and can't do.\nDaniel is a Data Science Lecturer in the Statistics Department at UBC and teaches for the UBC Master of Data Science program.\n**Support PyLadies Vancouver**\nThe event is free to attend. If you'd like to support us, donations help keep our meetups running, and a $25 donation gets you a PyLadies Vancouver tote bag: [https://psfmember.org/civicrm/contribute/transact/?reset=1&id=60](https://psfmember.org/civicrm/contribute/transact/?reset=1&id=60)\n​A huge thank you to [Improving Vancouver](https://improving.com/locations/vancouver/?utm_source=luma) for hosting us in their space **and providing pizza** for the evening! 🍕\n\\#\\# ​Thank you to our venue host: Improving Vancouver\n​Improving Vancouver is an IT consulting and software development firm (formerly Bit Quill Technologies) based in Vancouver, BC. They specialize in application development, data engineering, and AI solutions — helping teams build modern, scalable, data-driven applications. We're grateful for their support of the local Python community.\n👉 **Remember: RSVP on Luma to secure your spot —** [https://luma.com/3oxfwqry](https://luma.com/3oxfwqry)",
@@ -89,9 +169,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/6/9/b/thumb_534558075.jpeg"
     },
     "rsvps": {
-      "yesCount": 44,
+      "yesCount": 43,
       "waitlistCount": 0,
-      "totalCount": 44
+      "totalCount": 43
     },
     "venues": [],
     "group": {
