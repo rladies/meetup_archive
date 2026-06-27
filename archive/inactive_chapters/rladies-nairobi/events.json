@@ -1,0 +1,736 @@
+[
+  {
+    "id": "274539322",
+    "title": "Introduction to Shiny App Development",
+    "description": "We cordially invite you to a tutorial on \"Introduction to Shiny App Development\" scheduled on Saturday, 5th December, 11:00 a.m. - 2:00 p.m. GMT+3.\n\nTrainer: Dorcas Kareithi, Study Design and Analysis Lead, CcHUB Design Lab.\n\nRequirements: install R, RStudio and packages - shiny, ggplot2, plyr, dplyr, shinyWidgets, RColorBrewer, plotly, leaflet, and readxl, shinythemes.\n\nWe look forward to e-meeting you!\n\nYou will receive a confirmation email with more details on the meeting upon registering.\n\nShould you have any inquiries or comments, contact us on;\n\nEmail address: nairobi@rladies.org\n\nLinkedIn: https://www.linkedin.com/in/r-ladies-nairobi-2572841b3/\n\nMeetup: https://www.meetup.com/rladies-nairobi/\n\nTwitter: https://twitter.com/RLadiesNairobi",
+    "status": "PAST",
+    "dateTime": "2020-12-05T11:00:00+03:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-nairobi/events/274539322/",
+    "featuredEventPhoto": {
+      "id": "493497872",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/e/2/1/0/highres_493497872.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/e/2/1/0/600_493497872.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/2/1/0/thumb_493497872.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 96,
+      "waitlistCount": 0,
+      "totalCount": 96
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Nairobi",
+      "urlname": "rladies-nairobi"
+    },
+    "createdTime": "2020-11-11T17:33:01-05:00"
+  },
+  {
+    "id": "273732209",
+    "title": "Text Mining in R",
+    "description": "We welcome you to a tutorial on \"Text mining in R\" on Saturday, November 7, 2020, from 11 am to 1 pm GMT+3.\n\nTrainer: Shelmith Macharia, Data Scientist, Ajua.\n\nRequirements: Install R, RStudio, packages: tidytext, tidyverse, wordcloud, topicmodels.\n\nWe look forward to e-meeting you!\n\nAfter registering, you will receive a confirmation email with more details on the meeting.\n\nShould you have any queries or comments, contact us on;\n\nEmail address: nairobi@rladies.org\n\nLinkedIn: https://www.linkedin.com/in/r-ladies-nairobi-2572841b3/\n\nTwitter: @RLadiesNairobi",
+    "status": "PAST",
+    "dateTime": "2020-11-07T11:00:00+03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-nairobi/events/273732209/",
+    "featuredEventPhoto": {
+      "id": "492803407",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/b/6/f/highres_492803407.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/b/6/f/600_492803407.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/b/6/f/thumb_492803407.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 100,
+      "waitlistCount": 0,
+      "totalCount": 100
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Nairobi",
+      "urlname": "rladies-nairobi"
+    },
+    "createdTime": "2020-10-05T14:28:26-04:00"
+  },
+  {
+    "id": "273090993",
+    "title": "Data Manipulation in R - Part 2",
+    "description": "We invite you to part two of \"Data Manipulation with R\", which will be held on Saturday, October 3, 2020, from 11 am to 1 pm GMT+3.\n\nTrainer: Christine Okeyo, Data Analyst, Greenlight Planet.\n\nRequirements: Install R, RStudio and tidyverse package.\n\nWe look forward to e-meeting you!\n\nAfter registering, you will receive a confirmation email with more details on the meeting.\n\nShould you have any queries or comments, reach us on;\n\n#Email address: nairobi@rladies.org\n\n#LinkedIn: https://www.linkedin.com/in/r-ladies-nairobi-2572841b3/\n\n#Twitter: @RLadiesNairobi\n\n#Meetup: https://www.meetup.com/rladies-nairobi/",
+    "status": "PAST",
+    "dateTime": "2020-10-03T11:00:00+03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-nairobi/events/273090993/",
+    "featuredEventPhoto": {
+      "id": "492215312",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/9/f/0/highres_492215312.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/9/f/0/600_492215312.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/9/f/0/thumb_492215312.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 66,
+      "waitlistCount": 0,
+      "totalCount": 66
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Nairobi",
+      "urlname": "rladies-nairobi"
+    },
+    "createdTime": "2020-09-07T07:56:16-04:00"
+  },
+  {
+    "id": "272424740",
+    "title": "Data Manipulation in R - Part 1",
+    "description": "We invite you to our second meetup scheduled for Saturday, 5th September, 11:00 a.m. - 12:30 p.m. GMT+3: Data Manipulation in R - Part 1.\n\nTrainer: Naomi Ng'ang'a, Data analytics and visualization officer, International Centre for Humanitarian Affairs (ICHA) - Kenya Red Cross.\n\nWe look forward to e-meeting you!\n\nAfter registering, you will receive a confirmation email with more details on the meeting.\n\nShould you have any queries or comments, get in touch with us on;\n\n#Email address: nairobi@rladies.org\n\n#LinkedIn: https://www.linkedin.com/in/r-ladies-nairobi-2572841b3/\n\n#Meetup: https://www.meetup.com/rladies-nairobi/",
+    "status": "PAST",
+    "dateTime": "2020-09-05T11:00:00+03:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-nairobi/events/272424740/",
+    "featuredEventPhoto": {
+      "id": "491695615",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/9/3/f/highres_491695615.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/9/3/f/600_491695615.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/9/3/f/thumb_491695615.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 73,
+      "waitlistCount": 0,
+      "totalCount": 73
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Nairobi",
+      "urlname": "rladies-nairobi"
+    },
+    "createdTime": "2020-08-07T10:10:20-04:00"
+  },
+  {
+    "id": "272076734",
+    "title": "R-Ladies Nairobi launch",
+    "description": "Hello Everyone,\n\nWe are excited to finally launch R-Ladies Nairobi!\n\nYour presence in the upcoming R-Ladies Nairobi launch scheduled for Saturday, 8th August, 11:00 a.m. - 1:15 p.m. EAT will be highly appreciated.\nThe sessions will involve talks and interactive sessions from the R-Ladies Nairobi organisers, mentors and so much more!\n\nWe will also host some R-Ladies chapters organisers as they share their journeys, milestones and lessons learnt.\n\nMark your calendars!!!!!\n\nWe look forward to e-meeting you!\n\nAfter registering, you will receive a confirmation email with more details on the meeting.\n\nShould you have any queries or comments, get in touch with us on;\n\n#Email address: nairobi@rladies.org\n\n#LinkedIn: https://www.linkedin.com/in/r-ladies-nairobi-2572841b3/\n\n#Meetup: https://www.meetup.com/rladies-nairobi/\n\n#Twitter: https://twitter.com/RLadiesNairobi\n\nPlease, fill out the pre-launch survey: bit.ly/RLadiesNairobiPLS\n\nThank You and Kind Regards,\nR-Ladies Nairobi organisers",
+    "status": "PAST",
+    "dateTime": "2020-08-08T11:00:00+03:00",
+    "duration": "PT2H15M",
+    "eventUrl": "https://www.meetup.com/rladies-nairobi/events/272076734/",
+    "featuredEventPhoto": {
+      "id": "491447711",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/a/5/f/highres_491447711.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/a/5/f/600_491447711.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/a/5/f/thumb_491447711.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 48,
+      "waitlistCount": 0,
+      "totalCount": 48
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Nairobi",
+      "urlname": "rladies-nairobi"
+    },
+    "createdTime": "2020-07-22T04:59:39-04:00"
+  },
+  {
+    "id": "282161983",
+    "title": "Introduction to creating maps with leaflet",
+    "description": "We warmly welcome you to our last virtual meetup of the year on \"Introduction to creating maps with leaflet\" by Dr. Laurie Baker.\n\n📆 November 27th, 2021 3 PM - 5 PM (GMT+3)\n\nOur trainer➡️ Dr. Laurie is a disease ecologist and marine biologist by training. She earned her BSc and MSc in marine biology at the University of St. Andrews and Dalhousie University (MSc) respectively, and her doctorate in epidemiology at the University of Glasgow. Dr. Laurie is a certified RStudio Instructor with a keen interest in programming, data science, and the use of novel data sources in research. The core of her research focuses on spatial and temporal patterns in human and biological systems including disease spread, animal movement, and fisheries management.\n\nWe will share the zoom link and event details with the registered participants.\n\nAll are welcome!\n\nFor any queries or comments, contact us on;\n\nEmail address: nairobi@rladies.org\n\nLinkedIn: https://www.linkedin.com/in/r-ladies-nairobi-2572841b3/\n\nTwitter: @RLadiesNairobi",
+    "status": "PAST",
+    "dateTime": "2021-11-27T15:00:00+03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-nairobi/events/282161983/",
+    "featuredEventPhoto": {
+      "id": "500296179",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/f/3/3/highres_500296179.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/f/3/3/600_500296179.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/f/3/3/thumb_500296179.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 69,
+      "waitlistCount": 0,
+      "totalCount": 69
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Nairobi",
+      "urlname": "rladies-nairobi"
+    },
+    "createdTime": "2021-11-18T07:24:12-05:00"
+  },
+  {
+    "id": "281445553",
+    "title": "1st R-Ladies Nairobi Anniversary Celebration",
+    "description": "Greetings members!\n\nR-Ladies Nairobi marked its first anniversary on August 8th 2021. To celebrate it, we warmly invite you all to a virtual event scheduled for November 13th 2021, 6 - 8 pm GMT+3.\n\n📆 November 13th 2021, 6 - 8 pm (GMT+3)\n\nThe event will consist of two main speakers and guest speakers from other R-Ladies chapters in Africa.\n\nWe will share the zoom link and event details with the registered participants.\n\nAll are welcome!\n\nFor any queries or comments, contact us on;\n\nEmail address: nairobi@rladies.org\n\nLinkedIn: https://www.linkedin.com/in/r-ladies-nairobi-2572841b3/\n\nTwitter: @RLadiesNairobi",
+    "status": "PAST",
+    "dateTime": "2021-11-13T18:00:00+03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-nairobi/events/281445553/",
+    "featuredEventPhoto": {
+      "id": "499493794",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/2/2/2/highres_499493794.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/2/2/2/600_499493794.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/2/2/2/thumb_499493794.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 52,
+      "waitlistCount": 0,
+      "totalCount": 52
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Nairobi",
+      "urlname": "rladies-nairobi"
+    },
+    "createdTime": "2021-10-15T11:03:58-04:00"
+  },
+  {
+    "id": "279935848",
+    "title": "satRday Nairobi Conference 2021",
+    "description": "Greetings members!\n\nWelcome to satRday Nairobi, organised by R-Ladies Nairobi in collaboration with NairobiR. It will be hosted virtually via zoom on 4th September 2021, from 0900hrs to 1800hrs(GMT+3). This event consists of keynotes, workshops & talks on data manipulation, data visualisation, statistical modelling, R shiny, spatial analysis and R markdown.\n\nPlease, register on the website: https://nairobi2021.satrdays.org/\n\nWe will share the zoom links and conference details with the registered participants.\n\nAll are welcome!\n\nFor any queries or comments, contact us on;\n\nEmail address: nairobi@rladies.org\n\nLinkedIn: https://www.linkedin.com/in/r-ladies-nairobi-2572841b3/\n\nTwitter: @RLadiesNairobi",
+    "status": "PAST",
+    "dateTime": "2021-09-04T09:00:00+03:00",
+    "duration": "PT9H10M",
+    "eventUrl": "https://www.meetup.com/rladies-nairobi/events/279935848/",
+    "featuredEventPhoto": {
+      "id": "497998126",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/e/3/0/e/highres_497998126.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/e/3/0/e/600_497998126.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/3/0/e/thumb_497998126.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 51,
+      "waitlistCount": 0,
+      "totalCount": 51
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Nairobi",
+      "urlname": "rladies-nairobi"
+    },
+    "createdTime": "2021-08-05T15:25:42-04:00"
+  },
+  {
+    "id": "279416002",
+    "title": "Making Web-Ready Maps",
+    "description": "Greetings members!\n\nWe are pleased to welcome you to our virtual meetup on \"Making Web-Ready Maps\" by Asmae Toumi scheduled for 28th July 2021.\n\n📆 July 28th, 2021 6 PM - 8 PM (GMT+3)\n\nOur trainer➡️ Asmae Toumi is the Director of Analytics and Research at PursueCare, a telehealth company specializing in treating substance use disorder. She is also the editor-in-chief of Hockey-Graphs, a hockey sports analytics blog.\n\nWe will share the zoom link and event details with the registered participants.\n\nAll are welcome!\n\nFor any queries or comments, contact us on;\n\nEmail address: nairobi@rladies.org\n\nLinkedIn: https://www.linkedin.com/in/r-ladies-nairobi-2572841b3/\n\nTwitter: @RLadiesNairobi",
+    "status": "PAST",
+    "dateTime": "2021-07-28T18:00:00+03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-nairobi/events/279416002/",
+    "featuredEventPhoto": {
+      "id": "497480493",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/0/0/d/highres_497480493.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/0/0/d/600_497480493.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/0/0/d/thumb_497480493.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 92,
+      "waitlistCount": 0,
+      "totalCount": 92
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Nairobi",
+      "urlname": "rladies-nairobi"
+    },
+    "createdTime": "2021-07-12T03:32:15-04:00"
+  },
+  {
+    "id": "278272999",
+    "title": "Working with Databases in R",
+    "description": "In collaboration with #NairobiR, we are delighted to welcome you to our next joint virtual meetup on 12th June as the invited trainer Christopher Maronga takes us through Working with Databases in R!\n\n📆 June 12th, 2021 11 AM- 1 PM (EAT)\n\nTo sign up ➡️https://bit.ly/databasesinR\n\nAbout the Trainer, ➡️ Christopher Maronga is a Data Manager (Clinical) at KEMRI-Wellcome Trust. He has over 6 years of experience in health research data management and analysis mostly working using R, SQL and REDCap. Leveraging R’s API capability to seamlessly extract data from data repositories such as RDBMs and web-based databases such as REDCap has made data use very easy and efficient across industries.\n\nIn this talk, Maronga will share with us practically gained experience in accessing these databases, and how you can turn your R into a powerful tool for accessing MySQL database and writing SQL code to pull and query your data from within the R environment.\nWe will share the zoom link and event details with the registered participants.\n\nAll are welcome!\n\nLooking forward to e-seeing y'all.\n\nFor any inquiries or comments, contact us on;\n\nEmail address: nairobi@rladies.org\n\nLinkedIn: https://www.linkedin.com/in/r-ladies-nairobi-2572841b3/\n\nTwitter: @RLadiesNairobi",
+    "status": "PAST",
+    "dateTime": "2021-06-12T11:00:00+03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-nairobi/events/278272999/",
+    "featuredEventPhoto": {
+      "id": "496380961",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/c/1/highres_496380961.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/c/1/600_496380961.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/c/1/thumb_496380961.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 74,
+      "waitlistCount": 0,
+      "totalCount": 74
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Nairobi",
+      "urlname": "rladies-nairobi"
+    },
+    "createdTime": "2021-05-19T02:14:42-04:00"
+  },
+  {
+    "id": "277599692",
+    "title": "R for Official Statistics",
+    "description": "Greetings members!\nWe are pleased to invite you to the tutorial on \"R for Official Statistics\" scheduled for Saturday, 8th May, 11:00 a.m. - 1:00 p.m. GMT+3.\n\nOur trainer: Ngugi Mwenda, Statistician - Sampling Standards and Methods, Kenya National Bureau of Statistics\n\nBibliography: Ngugi Mwenda holds a Bachelor of Science in Statistics and a Master of Science in Applied Statistics from Jomo Kenyatta University of Technology (JKUAT). He is currently pursuing another Masters of Science in health economics from the University of Nairobi (set to graduate in December) and is finalising his PhD in Biostatistics from Moi University (set to graduate in June). Ngugi has worked in Kenya National Bureau of Statistics (KNBS) from 2012 up to date as a statistician within different departments and in various capacities.\n\nWe will share a zoom link and the event details with the registered participants before the meetup.\n\nWe look forward to e-meeting you!\n\nFor any queries or comments, reach us on;\n\nEmail address: nairobi@rladies.org\n\nLinkedIn: https://www.linkedin.com/in/r-ladies-nairobi-2572841b3/\n\nTwitter: @RLadiesNairobi",
+    "status": "PAST",
+    "dateTime": "2021-05-08T11:00:00+03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-nairobi/events/277599692/",
+    "featuredEventPhoto": {
+      "id": "495730372",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/8/8/4/highres_495730372.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/8/8/4/600_495730372.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/8/8/4/thumb_495730372.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 123,
+      "waitlistCount": 0,
+      "totalCount": 123
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Nairobi",
+      "urlname": "rladies-nairobi"
+    },
+    "createdTime": "2021-04-15T21:36:35-04:00"
+  },
+  {
+    "id": "277007519",
+    "title": "Introduction to Package Development in R",
+    "description": "Join us on Saturday, 10th April, 11:00 a.m. - 1:00 p.m. GMT+3 as we go through \"Introduction to Package Development\".\n\nOur trainer: Shelmith Kariuki, Data Analyst Consultant\n\nA zoom link and the event details will be shared with the registered participants before the meetup.\n\nWe look forward to e-meeting you!\n\nIf you have any queries or comments, contact us on;\n\nEmail address: nairobi@rladies.org\n\nLinkedIn: https://www.linkedin.com/in/r-ladies-nairobi-2572841b3/\n\nTwitter: @RLadiesNairobi",
+    "status": "PAST",
+    "dateTime": "2021-04-10T11:00:00+03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-nairobi/events/277007519/",
+    "featuredEventPhoto": {
+      "id": "495238392",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/e/4/1/8/highres_495238392.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/e/4/1/8/600_495238392.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/4/1/8/thumb_495238392.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 98,
+      "waitlistCount": 0,
+      "totalCount": 98
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Nairobi",
+      "urlname": "rladies-nairobi"
+    },
+    "createdTime": "2021-03-18T07:37:24-04:00"
+  },
+  {
+    "id": "276514214",
+    "title": "Networks and Graphs in R for Biology",
+    "description": "We, as R-Ladies Nairobi, are excited to collaborate with R-Ladies Abuja, R-Ladies Algiers, R-Ladies Jozi and R-Ladies Tunis, on our first event in 2021.\nAs R-Ladies Africa, we cordially invite you to a tutorial on \"Networks and Graphs in R for Biology\" scheduled on Saturday, 13th March, 09:00 a.m. - 11:00 a.m. UTC.\n\nTrainer: Dr. Susan Holmes, Professor of Statistics at Stanford University.\n\nWe look forward to e-meeting you!\n\nPlease, register here for the event: https://docs.google.com/forms/d/e/1FAIpQLSePrnf2If6gd0tX1dC6KivzMvMq1NvzwM2l-dSG-hYX8lkz6Q/viewform?usp=pp_url\nAfter registering, you will receive a confirmation email with the Zoom and YouTube links. Plus, additional event details.\n\nThe zoom channel will be available to only the first 100 participants to join. The rest of the participants follow us on the R-Ladies Global YouTube channel since we will be streaming.\n\nIf you have any inquiries or comments, contact us on;\n\nEmail address: nairobi@rladies.org\n\nLinkedIn: https://www.linkedin.com/in/r-ladies-nairobi-2572841b3/\n\nMeetup: https://www.meetup.com/rladies-nairobi/\n\nTwitter: https://twitter.com/RLadiesNairobi",
+    "status": "PAST",
+    "dateTime": "2021-03-13T12:00:00+03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-nairobi/events/276514214/",
+    "featuredEventPhoto": {
+      "id": "494862901",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/5/highres_494862901.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/5/600_494862901.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/7/9/5/thumb_494862901.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 50,
+      "waitlistCount": 0,
+      "totalCount": 50
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Nairobi",
+      "urlname": "rladies-nairobi"
+    },
+    "createdTime": "2021-02-22T04:47:28-05:00"
+  },
+  {
+    "id": "286157572",
+    "title": "#rstats hangout with Shannon Pileggi",
+    "description": "We are excited to join forces with R-Ladies Cologne and host a data hangout with Shannon Pileggi **✨**\n\n**About the data hangout**\nFor the first time, we will be meeting on a Twitter\nspace to have our data hangout, an informal Q&A session where we will talk with Shannon about #rstats, data, career trajectories and all the things we all love 💜\n\n**About Shannon**\nShannon Pileggi PhD is a Data Scientist with more than ten years of experience partnering on data analysis with diverse stakeholders in academic, corporate, tech, public health, and clinical research settings. An enthusiastic educator and statistical collaborator, Shannon started her career in academia as a Lecturer with the Institute for Quantitative Theory and Methods at Emory University, and later as an Assistant Professor at California Polytechnic State University, San Luis Obispo.\nWhen she transitioned to the industry in 2019, Shannon leveraged open source and community resources to adopt modern programming practices and workflows in R. In 2020, Shannon began to give back to the R community through blogging and developing R-Ladies workshops; she currently serves as a member of the R-Ladies Global Team.\nShannon spends her days wrangling data, creating reproducible reports, building shiny apps, developing R packages, and mentoring junior Data Scientists at The Prostate Cancer Clinical Trials Consortium, housed under Memorial Sloan Kettering Cancer Center.\nYou can find her when piping hot data on her website ([pipinghotdata.com](https://www.pipinghotdata.com/)), GitHub ([@shannonpileggi](https://github.com/shannonpileggi)) or Twitter ([@PipingHotData](https://twitter.com/PipingHotData)).\n\n**Fancy joining us?**\nTo join, check out our Twitter and make sure to tune in on June 2, 2022, at 7:00 PM GMT + 3/ 6:00 PM GMT + 2/12 PM ET.",
+    "status": "PAST",
+    "dateTime": "2022-06-02T19:00:00+03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-nairobi/events/286157572/",
+    "featuredEventPhoto": {
+      "id": "504364612",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/2/0/4/highres_504364612.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/2/0/4/600_504364612.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/2/0/4/thumb_504364612.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 22,
+      "waitlistCount": 0,
+      "totalCount": 22
+    },
+    "venues": [],
+    "group": {
+      "name": "R-Ladies Nairobi",
+      "urlname": "rladies-nairobi"
+    },
+    "createdTime": "2022-05-26T10:00:57-04:00"
+  },
+  {
+    "id": "285981897",
+    "title": "#30DayChartChallenge: Nicola's Experience",
+    "description": "Greetings members!\n\n✨ We welcome you to our virtual meetup:\n\nTopic: **#30DayChartChallenge: Nicola's Experience**\n\nDate: **May 26th, 2022, 8 PM - 10 PM (GMT+3)**\n\nOur speaker: **Dr Nicola Rennie**\n\n**Biography:** Nicola Rennie is a statistician and data scientist, passionate about using R to solve problems. She currently works as a data scientist at Jumping Rivers, having previously completed her PhD in statistics and operational research at Lancaster University.\n\n**Abstract of the talk:** During April 2022, I participated in the #30DayChartChallenge - a data visualisation challenge where participants create a new chart each day based on the daily prompt. In this talk, I'll discuss why and how I created 30 charts, the aspects I found most challenging, and some interesting things I discovered in R along the way!\n\nWe will share the zoom link with the registered participants.\n\n***All are welcome!***\n\nFor any comments & questions, contact us on;\n\nEmail address: nairobi@rladies.org\nLinkedIn: https://www.linkedin.com/in/r-ladies-nairobi-2572841b3/\nTwitter: @RLadiesNairobi",
+    "status": "PAST",
+    "dateTime": "2022-05-26T20:00:00+03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-nairobi/events/285981897/",
+    "featuredEventPhoto": {
+      "id": "504207243",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/a/6/b/highres_504207243.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/a/6/b/600_504207243.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/a/6/b/thumb_504207243.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 36,
+      "waitlistCount": 0,
+      "totalCount": 36
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Nairobi",
+      "urlname": "rladies-nairobi"
+    },
+    "createdTime": "2022-05-18T03:55:30-04:00"
+  },
+  {
+    "id": "284920623",
+    "title": "Learning Together at the R4DS Online Learning Community",
+    "description": "Greetings members!\n\n✨ We welcome you to our virtual meetup:\n\nTopic: **Learning Together at the R4DS Online Learning Community**\n\nDate: **April 19th, 2022, 8 PM - 10 PM (GMT+3)**\n\nOur speaker: **Jon Harmon**\n\nBiography: Jon runs the R4DS Online Learning Community and is the Principal Data Scientist of the Content Science team at Macmillan Learning. When he isn't trying to analyze and improve educational content, he tries to \"pay it forward\" for all the awesome help he's gotten learning R over the last several years. He lives in Austin, Texas, with his spouse, two children, and two large dogs.\n\nWe will share the zoom link with the registered participants.\n\n***All are welcome!***\n\nFor any comments & questions, contact us on;\n\nEmail address: nairobi@rladies.org\nLinkedIn: https://www.linkedin.com/in/r-ladies-nairobi-2572841b3/\nTwitter: @RLadiesNairobi",
+    "status": "PAST",
+    "dateTime": "2022-04-19T20:00:00+03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-nairobi/events/284920623/",
+    "featuredEventPhoto": {
+      "id": "503018208",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/5/4/0/highres_503018208.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/5/4/0/600_503018208.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/5/4/0/thumb_503018208.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 56,
+      "waitlistCount": 0,
+      "totalCount": 56
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Nairobi",
+      "urlname": "rladies-nairobi"
+    },
+    "createdTime": "2022-03-29T01:14:42-04:00"
+  },
+  {
+    "id": "283720920",
+    "title": "Job hunting for Data Analysts: Why it's hard and what one can do about it",
+    "description": "Happy new year 2022, members!\n\nWe welcome you to our first meetup of the year:\n\nTopic: Job hunting for Data Analysts: Why it's hard and what one can do about it\n\nDate: February 19th, 2022 11 AM - 1 PM (GMT+3)\n\nTrainer: Oscar Baruffa\n\nBiography: Oscar Baruffa is a Data Specialist helping non-profits achieve the United Nations Sustainable Development goals and is currently working in the international development sector directing the development of a full data and analytics pipeline. Previous roles have seen him modeling energy consumption of buildings, auditing energy use and carbon emission metrics, and closely following macro and micro-economic trends in plastic recycling value chains. His 15-year career has seen him on both sides of the hiring table many times and has valuable insights to share.\n\n➡️ The presentation will aim to demystify the hiring process and give concrete examples of how to improve one's chances.\n\nOscar will explain why it is that applying to hundreds of jobs can still result in getting no interviews or even responses. He’ll help to alleviate the \"sense of failure\" from participants. He’ll then go on to the single biggest improvement he thinks people can make, and that's to their CV and cover letter. He’s seen so many poor ones that can be improved in the same way. He’ll also touch on a strategy he uses when job hunting to conserve his energy and emotional state!\n\nWe will share the zoom link with the registered participants.\n\nAll are welcome!\n\nFor any comments & questions, contact us on;\n\nEmail address: nairobi@rladies.org\n\nLinkedIn: https://www.linkedin.com/in/r-ladies-nairobi-2572841b3/\n\nTwitter: @RLadiesNairobi",
+    "status": "PAST",
+    "dateTime": "2022-02-19T11:00:00+03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-nairobi/events/283720920/",
+    "featuredEventPhoto": {
+      "id": "501799482",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/c/1/a/highres_501799482.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/c/1/a/600_501799482.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/c/1/a/thumb_501799482.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 101,
+      "waitlistCount": 0,
+      "totalCount": 101
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Nairobi",
+      "urlname": "rladies-nairobi"
+    },
+    "createdTime": "2022-02-04T13:49:30-05:00"
+  },
+  {
+    "id": "298652674",
+    "title": "Getting started with report writing using Quarto",
+    "description": "Greetings members!\n\n✨ We welcome you to our virtual meetup:\n\nTopic: **Getting started with report writing using Quarto**\n\nDate: **January 23rd, 2024, 8 P.M. - 9.30 P.M. (GMT+3)**\n\nOur speaker: **Isabella C. Velásquez**\n\n**Biography:** Isabella C. Velásquez is a content strategist, data enthusiast, and author with a strong background in analytics and a passion for leveraging data to drive informed decision-making. She holds a Master's degree in Analytics from the University of Chicago. In her current role as a Senior Product Marketing Manager at Posit Software (formerly RStudio), Isabella produces compelling content that effectively communicates how Posit products can address the needs of target audiences and enhance workflows.\n\nWe will share the zoom link with the registered participants.\n\n***All are welcome!***\n\nFor any comments & questions, contact us on;\n\nEmail address: nairobi@rladies.org\nLinkedIn: https://www.linkedin.com/in/r-ladies-nairobi-2572841b3/\nTwitter: @RLadiesNairobi",
+    "status": "PAST",
+    "dateTime": "2024-01-23T20:00:00+03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-nairobi/events/298652674/",
+    "featuredEventPhoto": {
+      "id": "518584621",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/2/0/d/highres_518584621.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/2/0/d/600_518584621.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/2/0/d/thumb_518584621.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 118,
+      "waitlistCount": 0,
+      "totalCount": 118
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Nairobi",
+      "urlname": "rladies-nairobi"
+    },
+    "createdTime": "2024-01-19T09:57:49-05:00"
+  },
+  {
+    "id": "308627362",
+    "title": "🌍 R-Ladies Global Rotating Curation on Bluesky: Amplifying African Voices in DS",
+    "description": "In collaboration with **R-Ladies Gaborone**, we’re excited to host a special meetup exploring the **R-Ladies Global Rotating Curation** initiative and how it’s creating space for African voices in the global R community.\n\n🔊 Talks & Speakers:\n⚙️ Simisani Ndaba — Member of the global R-Ladies admin team, will offer a behind-the-scenes look at how the curation program works, why it matters, and how to get involved.\n💜 Njoki Njuki — Data Analyst, MSc student, and recent #WeAreRLadies curator, will share her lived experience curating for the global R-Ladies account and reflections on community, code, and representation.\n\n✨ What to expect:\n\n* Tips for engaging in the global R community\n* Insights into curation as a tool for community storytelling\n* A spotlight on the importance of visibility for African data scientists\n\n🗓️June 26th, 2025\n🕒 1 p\\.m\\. EAT \\(12 p\\.m\\. for SAST \\| CAT\\)\n📍 Online: [https://bit.ly/4k2J9bO](https://bit.ly/4k2J9bO) (participant password: 202020)\n\nJoin us for an inspiring and informative session that celebrates leadership, storytelling, and data science across the continent!\n\n#RLadies #WeAreRLadies #DataScience #RStats #AfricaInData",
+    "status": "PAST",
+    "dateTime": "2025-06-26T13:00:00+03:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-nairobi/events/308627362/",
+    "featuredEventPhoto": {
+      "id": "528726378",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/8/e/a/highres_528726378.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/8/e/a/600_528726378.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/8/e/a/thumb_528726378.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 7,
+      "waitlistCount": 0,
+      "totalCount": 7
+    },
+    "venues": [],
+    "group": {
+      "name": "R-Ladies Nairobi",
+      "urlname": "rladies-nairobi"
+    },
+    "createdTime": "2025-06-24T09:09:33-04:00"
+  }
+]
