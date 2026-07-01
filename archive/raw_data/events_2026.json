@@ -1,5 +1,45 @@
 [
   {
+    "id": "315491724",
+    "title": "RLadies+ Xalapa: Reencuentro",
+    "description": "Después de seis años de encuentros virtuales, RLadies+ Xalapa regresa a lo presencial y queremos celebrarlo contigo.\n\nTe invitamos al *Reencuentro*, una sesión introductoria pensada para conocernos, compartir quiénes somos y hacia dónde vamos como capítulo. Será también el momento perfecto para presentarte la nueva identidad de nuestra comunidad, ya que en marzo de 2026 se consolidó a nivel global el rebranding de R-Ladies a RLadies+, un cambio que hace explícito lo que siempre ha sido nuestra esencia: un espacio inclusivo para personas de géneros subrepresentados en la comunidad de R.\n\nSi ya nos conoces o si es tu primera vez con nosotras, esta es una gran oportunidad para sumarte a esta nueva etapa.\n\nLa sesión tendrá una duración aproximada de dos horas e incluirá una bienvenida, la presentación de nuestro capítulo y sus objetivos, un espacio para conocer a fondo el rebranding a RLadies+ y un breve recorrido por lo que hacemos con R, con ejemplos y proyectos que muestran el poder de esta comunidad.\n\nCerraremos con un momento de convivencia y networking para reconectar en persona, acompañado de coffee break y algunos bocadillos.\n\nY esto es solo el inicio: en nuestra próxima sesión tendremos una introducción a R pensada para quienes quieren dar sus primeros pasos, así que este es el mejor momento para sumarte.\n\nTe esperamos el sábado 5 de septiembre de 2026 a las 17:00 horas (GMT-6). Reserva tu lugar y forma parte de este reencuentro. 💜\n\n**Código de conducta**\nRecuerda leer y atender nuestro código de conducta disponible [aquí](https://rladies.org/about-us/coc/).",
+    "status": "ACTIVE",
+    "dateTime": "2026-09-05T17:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-xalapa/events/315491724/",
+    "featuredEventPhoto": {
+      "id": "535004217",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/c/b/9/highres_535004217.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/c/b/9/600_535004217.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/c/b/9/thumb_535004217.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 1,
+      "waitlistCount": 0,
+      "totalCount": 1
+    },
+    "venues": [
+      {
+        "id": "28273254",
+        "name": "Capital Verde Hub",
+        "address": "C. Gustavo Díaz Ordaz 82, Predio de la Virgen, 91150 Xalapa-Enríquez, Ver.",
+        "city": "Xalapa",
+        "state": "",
+        "country": "MX",
+        "lat": 19.5483,
+        "lon": -96.9047,
+        "postalCode": "meetup38",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Xalapa",
+      "urlname": "rladies-xalapa"
+    },
+    "createdTime": "2026-06-30T19:30:58-04:00"
+  },
+  {
     "id": "315411350",
     "title": "ChatGPT in RStudio with gptstudio: Better than GitHub Copilot?",
     "description": "**Supercharging Your R Workflow with a Native AI Assistant**\n\nIt’s no surprise that large language models like ChatGPT are helpful for coding. What makes gptstudio stand out is how it brings that help directly into RStudio through a clean, user-friendly add-in.\n\ngptstudio is an R package that integrates ChatGPT into RStudio, allowing you to generate code, explain functions, and write documentation using natural language, all without leaving your IDE. It supports various OpenAI models and offers an add-in panel that works like a built-in assistant. This tool is especially useful when you're experimenting, writing boilerplate code, or just need quick answers while staying in your flow.\nAdvantages of using the gptstudio package:\n\n✔️ Seamless integration into RStudio via an add-in panel\n✔️ Helps generate and explain R code using plain language prompts\n✔️ Supports multiple OpenAI models, including GPT-3.5 and GPT-4\n\n✔️ Useful for both beginners and experienced users looking to speed up their workflow",
