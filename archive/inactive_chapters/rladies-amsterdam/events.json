@@ -1,0 +1,1588 @@
+[
+  {
+    "id": "256669920",
+    "title": "Efficient R- programming: Speeding up your R- code",
+    "description": "Hi Everyone! We are thrilled to announce our next workshop, a workshop on efficient R- programming brought to you by Josephine Daub, a post- doctoral researcher and bioinformatician at the Prinses Maxima Centrum.\n\n---------------------------------------------------------\n18:30 Doors open, & welcome\n\n19.00 Introduction to R- Ladies\n\n19.05 Getting into efficient programming part 1\n\n19.45 Break\n\n19.55 Getting into efficient programming part 2\n\n20.45- 21.30 Socialising & look ahead\n---------------------------------------------------------\n\nPROGRAMME\nR is a popular programming language because of its ease of scripting and visualisation, and because of the availability of a huge number of packages that allow for any kind of statistical analysis. However, the often-heard complaint is that R can be very slow, especially when using for-loops. During this workshop we will first look at ways to find out which part of our script is slow. We next try simple tricks to speed up our R code, and we will discuss how to avoid for-loops (or keep them, but run them in another language). Finally, if time allows, we will find fast solutions to aggregate data as alternative to the slow R function ‘aggregate’.\n\nREQUIREMENTS\nIn order to most benefit from this workshop, a basic understanding of R is required! Also, please don’t forget your fully charged laptop!\n\nCODE OF CONDUCT\nWe expect all attendees to abide by our Code of Conduct. Anyone who violates this community's Code of Conduct will be refused entry, expelled, and/or any other action deemed appropriate by the Organizer, regardless of event registration, meetup membership or other condition. We are emphatically queer and trans-friendly. This group was created so those who identify as women have a comfortable place to learn.",
+    "status": "PAST",
+    "dateTime": "2018-12-11T18:30:00+01:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-amsterdam/events/256669920/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 44,
+      "waitlistCount": 0,
+      "totalCount": 44
+    },
+    "venues": [
+      {
+        "id": "25823763",
+        "name": "Roeterseiland Campus- Building C- Room TBA",
+        "address": "Nieuwe Achtergracht 166",
+        "city": "Amsterdam",
+        "state": "",
+        "country": "nl",
+        "lat": 52.3629,
+        "lon": 4.9124,
+        "postalCode": "meetup1",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Amsterdam",
+      "urlname": "rladies-amsterdam"
+    },
+    "createdTime": "2018-11-24T08:27:25-05:00"
+  },
+  {
+    "id": "254991862",
+    "title": "Introduction to hidden Markov Chains",
+    "description": "Hi Everyone! We are thrilled to announce our fourth workshop, an introduction to hidden Markov chains in R brought to you by Emmeke Aarts, an assistant professor based at the Social Sciences- Methodology and Statistics Department at Utrecht University.\n\n---------------------------------------------------------\n18:00 Doors open, & welcome\n\n18.30 Introduction to R- Ladies\n\n18.35 Introduction to Hidden Markov Chains\n\n19.35 Break\n\n19.45 Hands-on​ hidden Markov chains\n\n20.45- 21.15 Networking & wrap up\n---------------------------------------------------------\n\nPROGRAMME\nHidden Markov models are a powerful statistical technique to model generative observable sequence data that is characterised by naturally occurring latent states. It’s application cover a number of domains from Signal processing in Electronics, Random Walks in Statistics, speech processing, phrase chucking and extracting information​ from documents in machine learning, up to modelling of behavioural states in psychology and genomic features in computational biology. Emmeke will cover the theoretical and practical basics that will help and allow you to apply these methods in your research.\n\nREQUIREMENTS\nIn order to most benefit from this workshop, a basic understanding of R and statistics is required! Also, please don’t forget your fully charged laptop!\n\nCODE OF CONDUCT\nWe expect all attendees to abide by our Code of Conduct. Anyone who violates this community's Code of Conduct will be refused entry, expelled, and/or any other action deemed appropriate by the Organizer, regardless of event registration, meetup membership or other condition. We are emphatically queer and trans-friendly. This group was created so those who identify as women have a comfortable place to learn.",
+    "status": "PAST",
+    "dateTime": "2018-10-24T18:00:00+02:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-amsterdam/events/254991862/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 36,
+      "waitlistCount": 0,
+      "totalCount": 36
+    },
+    "venues": [
+      {
+        "id": "25823763",
+        "name": "Roeterseiland Campus- Building C- Room TBA",
+        "address": "Nieuwe Achtergracht 166",
+        "city": "Amsterdam",
+        "state": "",
+        "country": "nl",
+        "lat": 52.3629,
+        "lon": 4.9124,
+        "postalCode": "meetup1",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Amsterdam",
+      "urlname": "rladies-amsterdam"
+    },
+    "createdTime": "2018-09-25T10:40:23-04:00"
+  },
+  {
+    "id": "254648137",
+    "title": "POSTPONED -Introduction to hidden Markov Chains",
+    "description": "The event has been postponed to the 24th October!",
+    "status": "CANCELLED",
+    "dateTime": "2018-09-26T18:00:00+02:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-amsterdam/events/254648137/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 55,
+      "waitlistCount": 0,
+      "totalCount": 55
+    },
+    "venues": [
+      {
+        "id": "25823763",
+        "name": "Roeterseiland Campus- Building C- Room TBA",
+        "address": "Nieuwe Achtergracht 166",
+        "city": "Amsterdam",
+        "state": "",
+        "country": "nl",
+        "lat": 52.3629,
+        "lon": 4.9124,
+        "postalCode": "meetup1",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Amsterdam",
+      "urlname": "rladies-amsterdam"
+    },
+    "createdTime": "2018-09-13T07:33:07-04:00"
+  },
+  {
+    "id": "253069706",
+    "title": "Show me shiny- an introduction to R Shiny applications",
+    "description": "SPECIAL THANKS to Pacmed and FreedomLab for sponsoring our event as part of their generous support and efforts towards a more diverse tech & data science community. Visit the website to check out all the cool things that are happening at Pacmed http://www.pacmed.ai/en/ and all the awesome companies hosted at FreedomLab http://freedomlab.org/\n\nHi Everyone! It's happening again! We are thrilled to announce our third workshop, an introduction to ShinyR apps brought to you by Sarah Stolle, soon to have completed her PhD on the biology of healthy ageing and a rising star of the Xccelerated programme.\n\n---------------------------------------------------------\n18:30 Doors open, Pizza & welcome\n\n19.00 Introduction to R- Ladies & Pacmed\n\n19.20 Introduction to ShinyR by Sarah Stolle\n\n21.00- 21.30 Networking, drinks & Wrap up\n---------------------------------------------------------\n\nPROGRAMME\nShiny is great for building web apps that let other people explore your datasets without having to be technical R user. For a little inspiration, check out the web apps here: https://www.showmeshiny.com/\n\nCome to a 1.5 hrs hands on session where Sarah will show you the basics of reactivity, UI and Server scripts. Once you catches up on the basics, you‘ll get to build your first shiny app!\n\nREQUIREMENTS\nIn order to most benefit from this workshop, a basic understanding of R is required! Also, please don’t forget your fully charged laptop!\n\nCODE OF CONDUCT\nWe expect all attendees to abide by our Code of Conduct. Anyone who violates this community's Code of Conduct will be refused entry, expelled, and/or any other action deemed appropriate by the Organizer, regardless of event registration, meetup membership or other condition. We are emphatically queer and trans-friendly. This group was created so those who identify as women have a comfortable place to learn.",
+    "status": "PAST",
+    "dateTime": "2018-08-23T18:30:00+02:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-amsterdam/events/253069706/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 63,
+      "waitlistCount": 0,
+      "totalCount": 63
+    },
+    "venues": [
+      {
+        "id": "25751795",
+        "name": "Freedom Lab",
+        "address": "Plantage Middellaan 62",
+        "city": "Amsterdam",
+        "state": "",
+        "country": "nl",
+        "lat": 52.3646,
+        "lon": 4.9163,
+        "postalCode": "meetup1",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Amsterdam",
+      "urlname": "rladies-amsterdam"
+    },
+    "createdTime": "2018-07-23T14:33:04-04:00"
+  },
+  {
+    "id": "251586233",
+    "title": " Intermediate R- Users workshop- Tidy text mining",
+    "description": "SPECIAL THANKS to Accenture for sponsoring our event as part of their generous support and efforts towards a more diverse tech & data science community and an open community to share knowledge.\n\nHi Everyone! We are super excited to announce our second workshop, tidy text mining in R brought to you by Laury van Bedaf and Eline Tjeng, two R- loving data scientists @ Accenture!\n\n---------------------------------------------------------\n17:30 Doors open & welcome\n\n18.00 Introduction to R- Ladies & Accenture,\nby Janine Khuc & Laury van Bedaf\n\n18.10 Accenture, Diversity and Applied Intelligence\nby Thijs van den Broek\n\n18.30 Quick recap to tidyverse by Janine Khuc\n\n18:40 Break & Pizza\n\n19:10 Tidy Text mining workshop\nby Eline Tjeng & Laury van Bedaf\n\n21.10- 21.30 Networking & Wrap up\n---------------------------------------------------------\n\nTidy text mining in R\nText mining is a way of discovering knowledge from text-based content such as Word documents, emails, news and postings on social media streams such as Facebook, Twitter and LinkedIn. Text data can be found everywhere and knowledge acquisition from these sets are increasingly important in many domains, and tidy data principles can make text mining easier and more effective! Join us for the hands- on workshop, in which Eline and Laury will introduce you to the essential techniques of text mining, demonstrate you how to manipulate, summarize, visualize and model the characteristics of texts using all the benefits tidyverse packages have to offer.\n\nREQUIREMENTS\nThis event is for intermediate R- users. The minimum requirements are an basic understanding of tidy data specifically the packages dplyr and ggplot2, as well as the %>% pipe operator. If you are unfamiliar with tidyverse principles, please consider going through an online tutorial such as https://cran.r-project.org/web/packages/dplyr/vignettes/dplyr.html , in order to most benefit from this workshop! Also, please don’t forget your fully charged laptop!\n\nCODE OF CONDUCT\nAnyone who violates this community's Code of Conduct will be refused entry, expelled, and/or any other action deemed appropriate by the Organizer, regardless of event registration, meetup membership or other condition. We are emphatically queer and trans friendly. This group was created so those who identify as women have a comfortable place to learn.",
+    "status": "PAST",
+    "dateTime": "2018-07-17T17:30:00+02:00",
+    "duration": "PT4H",
+    "eventUrl": "https://www.meetup.com/rladies-amsterdam/events/251586233/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 45,
+      "waitlistCount": 0,
+      "totalCount": 45
+    },
+    "venues": [
+      {
+        "id": "3379232",
+        "name": "Accenture Amsterdam",
+        "address": "Gustav Mahlerplein 90, 1082 MA",
+        "city": "Amsterdam",
+        "state": "",
+        "country": "nl",
+        "lat": 52.3375,
+        "lon": 4.8701,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Amsterdam",
+      "urlname": "rladies-amsterdam"
+    },
+    "createdTime": "2018-06-09T08:56:48-04:00"
+  },
+  {
+    "id": "250483622",
+    "title": "Intro to R (for data science) & Lightning Talks",
+    "description": "SPECIAL THANKS to TIQETS for sponsoring our event. Check out their website here: https://www.tiqets.com/\n\nHi Everyone! We are super excited to announce our first workshop, followed by a series of inspiring lightning talks!\n---------------------------------------------------------\n6.30 pm - 7.00 pm Welcome & Pizza\n7.00 pm - 7.10 pm Data @ Tiqets by Uri Shimron\n7.10 pm - 7.15 pm R- Ladies by Janine\n7.15 pm - 7.20 pm Quick Intro to R by Janine\n7.20 pm - 8.30 pm Basics of R & Hands-on by Ilse\n8.30 pm - 8.40 pm Break\n8.40 pm - 9.15 pm Lightning Talks (by Sarah Stolle, Ingrid Szilagyi, Martine Jansen, Tess Korthout, Irma Karabegovic, Iris de Vries & Lilly Wiggers)\n9.15 pm - 9.45 pm Networking & Drinks\n---------------------------------------------------------\n\nBEGINNERS:\nCome along to our first workshop where we will introduce you to the basics of R for data science. No prior experience with programming is required. If you are not excited enough after the workshop, be ready to be amazed by a series of lightning talks, that will showcase some of the fantastic work done by our community!\n\nINTERMEDIATE- ADVANCED USERS:\nHelp us out by contributing as a tutor or give a lightning talk (5 min) and show us what you do in R! Any topic is welcome, whether you’d like to share your work, a cool package or some tips and tricks in R!\nPlease email us via amsterdam@rladies.org by 19th May if you would like to do either! We would love to have your contribution to the event!\n\nREQUIREMENTS\nLots of enthusiasm & your laptop with R and RStudio installed.\nCheck out this video to see how to download and install: https://www.youtube.com/watch?v=cX532N_XLIs\n\nCODE OF CONDUCT\nAnyone who violates this community's Code of Conduct will be refused entry, expelled, and/or any other action deemed appropriate by the Organizer, regardless of event registration, meetup membership or other condition.\nWe are emphatically queer and trans friendly.\nThis group was created so those who identify as women have a comfortable place to learn. If you would like to attend and feel excluded, please introduce yourself to an organizer.",
+    "status": "PAST",
+    "dateTime": "2018-05-24T18:30:00+02:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-amsterdam/events/250483622/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 50,
+      "waitlistCount": 0,
+      "totalCount": 50
+    },
+    "venues": [
+      {
+        "id": "25840997",
+        "name": "Roeterseiland Campus- Building B - Room B3.08",
+        "address": "Nieuwe Achtergracht 166 - B3.08",
+        "city": "Amsterdam",
+        "state": "",
+        "country": "nl",
+        "lat": 52.3629,
+        "lon": 4.9124,
+        "postalCode": "meetup1",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Amsterdam",
+      "urlname": "rladies-amsterdam"
+    },
+    "createdTime": "2018-05-05T08:40:15-04:00"
+  },
+  {
+    "id": "248764069",
+    "title": "Launching R- Ladies Amsterdam!",
+    "description": "]R- Ladies is finally in Amsterdam! We are happy to announce that our first meetup will be held on 12th April. Join us for the launch of Amsterdam’s first R community for women! Everyone with interest in the R language and supports diversity in the field is welcome!\n\nFor our kick-off- event we would like to present you with the ideas and motivation driving the global R- Ladies community and some statistics that triggered us to create R- Ladies here in Amsterdam. We would also like to discuss with you topics of your interest and plan the year ahead of us. To do so, we created the survey to get an idea of your interests and skill- level. If you have not yet done so, please fill out the survey (https://goo.gl/forms/5XcMHtesgZcepMBr1). Feel free to fill out the survey even if you cannot make it to the meeting, so we can pick speakers and topics that are of most interest to you!\n\nWe would also like to get to know you. Therefore, everyone will get the opportunity to introduce themselves in a few minutes, share your passion for R or some work you have done with R. This is not obligatory of course, but we’d love to get to know you, no matter if you are a complete newbie to R, intermediate or professional R- user! If you would like to show some slides, please email (amsterdam@rladies.org) them to us by 8th April.\n\nAdditionally, we are super excited to be having Min Fang as our first speaker! She is a data scientist at Trivago in Amsterdam and she will inspire you with “The life-changing magic of tidying up”!\n\nEdit: As if it's not already exciting enough, we will also have a special guest Ineke Scheffers, founder of GirlCode paying us a visit, and inspiring us with how she contributes to increasing gender diversity in the world of programming!\n\nKnow other people interested in R? Bring them along!\nPlease only RSVP if you can come!\nWe are so much looking forward to meeting all enthusiastic R- Ladies of Amsterdam!\n____________________________________________________________________________\nSchedule\n6.30 pm- 7.00 pm Welcome and networking\n7.00 pm- 7.20 pm Introduction to R- Ladies\n7.20 pm - 8.20 pm Min Fang, data scientist at Trivago\n8.20 pm- 8.30 pm Ineke Scheffers, founder of GirlCode\n8.30 pm- 9.00 pm get to know your fellow- R- Ladies\n9.00 pm- 9.30 pm More networking\n______________________________________________________________________________\nSpecial thanks to TRIVAGO Amsterdam for hosting us!",
+    "status": "PAST",
+    "dateTime": "2018-04-12T18:30:00+02:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-amsterdam/events/248764069/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 59,
+      "waitlistCount": 0,
+      "totalCount": 59
+    },
+    "venues": [
+      {
+        "id": "25662544",
+        "name": "trivago",
+        "address": "Lange Leidsedwarsstraat 74, 3rd floor, Kitchen",
+        "city": "Amsterdam",
+        "state": "",
+        "country": "nl",
+        "lat": 52.3644,
+        "lon": 4.8838,
+        "postalCode": "meetup1",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Amsterdam",
+      "urlname": "rladies-amsterdam"
+    },
+    "createdTime": "2018-03-15T06:48:28-04:00"
+  },
+  {
+    "id": "266686614",
+    "title": "Please, explain! Interpretable machine learning based on ranking data",
+    "description": "Opening the black box is a fertile area of research today. It is apparent to anyone who has ever worked on a machine learning project that in order to realise a wide spread acceptance delivering a high accuracy model is not enough. Stakeholders are demanding transparency in how and why an algorithm is making specific predictions. A variety of approaches can be used to shed light on how algorithms make their decision: from creating alternative and more transparent algorithms that can compete with the black-box one to using robust statistical techniques. During this talk we will explore different methods for unboxing the black-box model, their pros and cons and how I have used them in TripActions.\nWe will cover the following topics:\n1. Importance of human interpretable machine learning and criteria for model interpretation methods.\n2. Challenges and limitations of traditional techniques for model interpretation\n3. Hands-on example on the latest model interpretation frameworks on a supervised learning example. Using the iml package we will cover permutation importance, SHAP and LIME.\n\nThis workshop is brought to you by Teodora Vrabcheva. :)\n\nPROGRAM\n------------------\n18.00-18.30 Welcoming :)\n18.30- 18.50 Introduction to R-Ladies & Tripactions\n18.50- 19.30- Workshop part 1\n19.30- 19.45 Break\n19.45- 20.30 Workshop part 2\n20.30- 21.30 Socialising\n\nABOUT TEODORA\n--------------------------\nhttps://www.linkedin.com/in/teodora-vrabcheva-8b841826/\n\nMy name is Teodora and I am a data scientist with background in statistics. I have 8 years of experience in data analytics and data science. I started my career in London working as a statistician in healthcare and marketing research. For the past 3 years I am based in Amsterdam and currently I work for TripActions where my main focus is recommender systems.\n\nREQUIREMENTS\n----------------------------\nBasic knowledge of machine learning/random forest is sufficient. Installation of `iml`- package.\n\nABOUT TripActions\n--------------------------\nTripActions is an end-to-end business travel platform making business travel as easy and delightful as possible for road warriors. With unrivaled flight, lodging and rental car inventory and global 24/7 365 proactive live human support we maintain 97% traveler satisfaction. In the data team we are responsible for building a scalable data warehouse, reporting and advanced analytics, and providing personalised customer experience through machine learning.\n\nCODE OF CONDUCT\n----------------------------\nWe expect all attendees to abide by our Code of Conduct. Anyone who violates this community's Code of Conduct will be refused entry, expelled, and/or any other action deemed appropriate by the Organizer, regardless of event registration, meetup membership or other condition. We are emphatically queer and trans-friendly. This group was created so those who identify as women have a comfortable place to learn.",
+    "status": "PAST",
+    "dateTime": "2019-12-10T18:00:00+01:00",
+    "duration": "PT3H30M",
+    "eventUrl": "https://www.meetup.com/rladies-amsterdam/events/266686614/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 44,
+      "waitlistCount": 0,
+      "totalCount": 44
+    },
+    "venues": [
+      {
+        "id": "26746124",
+        "name": "Navan Amsterdam",
+        "address": "Strawinskylaan 4117",
+        "city": "Amsterdam",
+        "state": "NH",
+        "country": "nl",
+        "lat": 52.3403,
+        "lon": 4.8704,
+        "postalCode": "1077 ZX",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Amsterdam",
+      "urlname": "rladies-amsterdam"
+    },
+    "createdTime": "2019-11-23T09:59:44-05:00"
+  },
+  {
+    "id": "266327348",
+    "title": "How to create tangible business value with AI",
+    "description": "The amount of data in the world is growing exponentially and the opportunities of Artificial Intelligence (AI) are endless. But to create AI breakthroughs you need more than only complex algorithms. During this evening at MIcompany we will talk about the components of successful AI use cases that create tangible business value. We will give examples of successful real life AI use cases across different industries. And you will practice with a hands-on case that involves modelling but also all the other steps in the AI use case process. Do you want to find out if you have the skills to change organizations with AI?\n\nPROGRAM\n------------------\n17:30-18:00 Welcome & food\n18:00-18:15 Introduction Rladies & MIcompany\n18:15-18:45 Introduction to AI driven use cases\n18:45-20:15 Workshop\n20:15 Drinks\n\nABOUT LAURA & MIcompany\n----------------------\nLaura is a Principal Data Analytics in MIcompany. MIcompany is an Artificial Intelligence (AI) company with offices in Tel Aviv and Amsterdam. From these offices, they drive AI transformations by building AI solutions and skills. The team of more than 70 data scientists, AI engineers & software engineers serves industry-leading companies such as Nike, eBay, Booking.com, Heineken, KPN, Lease Plan, Aegon and Shufersal. In more than 25 countries.\n\nCODE OF CONDUCT\n----------------------------\nWe expect all attendees to abide by our Code of Conduct. Anyone who violates this community's Code of Conduct will be refused entry, expelled, and/or any other action deemed appropriate by the Organizer, regardless of event registration, meetup membership or other condition. We are emphatically queer and trans-friendly. This group was created so those who identify as women have a comfortable place to learn.",
+    "status": "PAST",
+    "dateTime": "2019-11-21T17:30:00+01:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-amsterdam/events/266327348/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 16,
+      "waitlistCount": 0,
+      "totalCount": 16
+    },
+    "venues": [
+      {
+        "id": "26723966",
+        "name": "MIcompany B.V.",
+        "address": "Vijzelstraat 72",
+        "city": "Amsterdam",
+        "state": "NH",
+        "country": "nl",
+        "lat": 52.363,
+        "lon": 4.8918,
+        "postalCode": "1017 HL",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Amsterdam",
+      "urlname": "rladies-amsterdam"
+    },
+    "createdTime": "2019-11-08T17:49:58-05:00"
+  },
+  {
+    "id": "266029689",
+    "title": "Winter Code-a-thon Kick-Off (womxn-only)",
+    "description": "We are partnering with She's coding and the WiT Regatta fo this event. A brief description is provided here- more information about the event can be found at: https://www.meetup.com/shescoding-amsterdam/events/265645848/?_xtd=gqFypzk5MTU4NTWhcKdhbmRyb2lk&from=ref\n___________________________________________________________________\nDo you have an idea for a project that you would love to work on - but not alone? Or are you on the lookout for a team that you can join and become creative with?\n\nCome and join us for the Code-a-thon in collaboration with She's coding and the WiT regatta - an event spanning two to three months functioning like a hack-a-thon, but giving you and your team the flexibility to build out the project in more depth with a schedule that works for you. You choose when you work and how much time you want to invest.\n\nNovember 2nd will be kick-off day! Bring your ideas or be open to listen to other people's pitches. We will facilitate the formation of teams around project ideas, and if needed, we can help provide ideas as well. At the end of the day you will want to be part of a team, have some initial planning done, and have some idea of additional skills and/or mentorship you need to build your project.\n\nTo follow-up on the kick-off day, we will have one (optional) Saturday afternoon check-in day in December (date TBD), where we will all meet together, work on our projects, and get help from mentors if wanted/needed. Finally we will have a demo-day in January (date TBD), where your team can show off what it has built over the past two months - yay!\n\n* Tentative Schedule: *\n\n10:30 Registration opens\n10:50 Welcome & Pitches start\n12:00 Lunch (Bring your own)\n13:00 Team building around project ideas\n15:45 Wrapping up",
+    "status": "PAST",
+    "dateTime": "2019-11-02T10:00:00+01:00",
+    "duration": "PT6H",
+    "eventUrl": "https://www.meetup.com/rladies-amsterdam/events/266029689/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "26189072",
+        "name": "Codaisseur Academy",
+        "address": "Naritaweg 106",
+        "city": "Amsterdam",
+        "state": "NH",
+        "country": "nl",
+        "lat": 52.3882,
+        "lon": 4.824,
+        "postalCode": "1076 GR",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Amsterdam",
+      "urlname": "rladies-amsterdam"
+    },
+    "createdTime": "2019-10-28T16:48:52-04:00"
+  },
+  {
+    "id": "265346733",
+    "title": "GitHub 101: Keep better track of your code",
+    "description": "When working on an R project, you constantly change your code. But how do you keep track of your changes? GitHub is a popular solution and can be used through the command line and a user- friendly User interface. During the workshop, you'll learn to\n1. Set up repositories and track changes to your code\nHere you will learn how to set up your first repository, add your code and commit your changes to the code.\n2. Branches and collaborative projects\nIn this second part we'll dive into creating branches and a few basic show cases.\n\nIn our next workshop you will learn how git works & how it can make your life a lot easier! :) This workshop is brought to you by Sinziana Cristea.\n\nPROGRAM\n------------------\n17.30-18.30 Welcoming & Pokebowls :)\n18.30- 18.50 Introduction to R-Ladies & Xomnia\n18.50- 19.30- Workshop part 1\n19.30- 19.45 Break\n19.45- 20.30 Workshop part 2\n20.30- 21.30 Socialising\n\nABOUT SINZIANA\n----------------------\nhttps://www.linkedin.com/in/cristeas/\nI am a pharmacist pursuing my PhD at Leiden University at the department of Systems Biomedicine & Pharmacology focusing on the development of non-linear mixed effects models that describe drug disposition and can be used for optimised dosing in children.\n\nCODE OF CONDUCT\n----------------------------\nWe expect all attendees to abide by our Code of Conduct. Anyone who violates this community's Code of Conduct will be refused entry, expelled, and/or any other action deemed appropriate by the Organizer, regardless of event registration, meetup membership or other condition. We are emphatically queer and trans-friendly. This group was created so those who identify as women have a comfortable place to learn.",
+    "status": "PAST",
+    "dateTime": "2019-10-24T17:30:00+02:00",
+    "duration": "PT3H30M",
+    "eventUrl": "https://www.meetup.com/rladies-amsterdam/events/265346733/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 44,
+      "waitlistCount": 0,
+      "totalCount": 44
+    },
+    "venues": [
+      {
+        "id": "26510875",
+        "name": "Xomnia",
+        "address": "Raamstraat 7",
+        "city": "Amsterdam",
+        "state": "NH",
+        "country": "nl",
+        "lat": 52.3664,
+        "lon": 4.8818,
+        "postalCode": "1016 XL",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Amsterdam",
+      "urlname": "rladies-amsterdam"
+    },
+    "createdTime": "2019-10-02T13:08:28-04:00"
+  },
+  {
+    "id": "264758006",
+    "title": "Handling missing data in R",
+    "description": "When you work with data, it is most likely you will encounter missing data. Especially in application-oriented fields, available datasets are almost always incomplete. As most analyses require complete data, what to do with the missing values?\n\nAn often used and easy solution to handle missing data is deleting incomplete rows and/or columns from the dataset. Is this method the most appropriate one, though? What other methods are available and what is their influence on the outcome of the analysis?\n\nThe workshop has the following three parts.\n1. Missing Values Analysis\nWhat amount and what kind of missing data do I have in my dataset? What are possible reasons/mechanisms underlying the missingness?\n2. Evaluating Missing Data methods\nHow do I know whether I choose the right missing data method? What should I take into account when deciding about a missing data method?\n3. Implementing Missing Data Methods\nHow can I implement missing data methods in my analysis and/or in my pipeline?\n\nIn our next workshop you will learn how to handle missing data in R. This workshop is brought to you by Rianne Schouten.\n\nPROGRAM\n------------------\n17:30 - 18:00 Welcome & Pizza\n18:00 - 18:20 Intro to RLadies & AACSB\n18:20 - 19:05 Workshop Part 1\n19:05 - 19:20 Break\n19:20 - 20:05 Workshop Part 2\n20:05 - 21:00 Networking & Drinks\n\nABOUT RIANNE\n----------------------\nhttps://rianneschouten.github.io\nhttps://www.linkedin.com/in/rianne-schouten-5bb29491/\n\nMy name is Rianne Schouten and I am a data enthusiast. When I studied Methodology and Statistics, I co-developed a procedure to generate missing data in complete datasets. I implemented the procedure in R-function ampute, and it is now part of imputation package mice.\n\nThen, I worked as an external PhD candidate under supervision of dr. Gerko Vink and prof. dr. Stef van Buuren. My work focused on the effect of missing data on prediction oriented analyses. Unfortunately, I had to quit with my research when I changed jobs and no more funding was available.\n\nNow, I work at Samen Veilig Midden-Nederland (i.e. a youth care organization) as Developer Data & Analytics. It is my job to structure and standardize the analyses of sensitive and highly classified data. I mainly work with databases and visualization software and I lead several projects.\n\nREQUIREMENTS\n------------------------\nA basic knowledge of R is required.\n\nCODE OF CONDUCT\n----------------------------\nWe expect all attendees to abide by our Code of Conduct. Anyone who violates this community's Code of Conduct will be refused entry, expelled, and/or any other action deemed appropriate by the Organizer, regardless of event registration, meetup membership or other condition. We are emphatically queer and trans-friendly. This group was created so those who identify as women have a comfortable place to learn.",
+    "status": "PAST",
+    "dateTime": "2019-10-02T17:30:00+02:00",
+    "duration": "PT3H30M",
+    "eventUrl": "https://www.meetup.com/rladies-amsterdam/events/264758006/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 69,
+      "waitlistCount": 0,
+      "totalCount": 69
+    },
+    "venues": [
+      {
+        "id": "26624399",
+        "name": "Roeterseiland Campus Building A",
+        "address": "Nieuwe Achtergracht 166, REC A2.07",
+        "city": "Amsterdam",
+        "state": "al",
+        "country": "nl",
+        "lat": 52.363,
+        "lon": 4.9116,
+        "postalCode": "meetup1",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Amsterdam",
+      "urlname": "rladies-amsterdam"
+    },
+    "createdTime": "2019-09-11T15:30:40-04:00"
+  },
+  {
+    "id": "263535115",
+    "title": "Machine learning: ensembling and using prediction models with Caret and Shiny",
+    "description": "For those wanting to take a step further in the machine learning world, here is the moment! Now that you are familiar with machine learning techniques, let's put several elements together and put those models in real-life use. Ensemble methods have been developed to address those very complex relationships between predictors and response variables in the presence of several candidate models. Therefore, there is no need to decide for a unique final model if you can combine them all to make more accurate predictions!. Besides this, it is also time to put those prediction models into actual action for users.\n\nIn this workshop, you will learn about ensemble methods such as voting, bagging, boosting and stacking. You will also be shown how to actually put these models into a shiny app for future use. Having a set of candidate models and an ensemble strategy, you will then get the challenge of training your own models and make a basic shiny app for the use of them.\nThis workshop is brought to you by Valeria Fonseca Diaz, who is currently pursuing a PhD at KU Leuven in Belgium focusing on prediction models for quality control processes in the Agrofood industry.\n\nPROGRAM\n------------------\n17:30 - 18:00 Welcome & Food\n18:00 - 18:30 Intro to RLadies & Deloitte\n18:30 - 19:15 Workshop Part 1\n19:15 - 19:30 Break\n19:30 - 20:15 Workshop Part 2\n20:15 - 21:00 Networking & Drinks\n\nImportantly, please send us your real name (amsterdam@rladies.org). For security reasons, all visitors to Deloitte will be registered at the front desk. Please also bring your ID card, on the day of the workshop. Your name will not be used for any other purpose than registration and will not be stored.\n\nFurthermore, if you have any food allergies, please let us know. We will try to accommodate them as much as possible.\n\nREQUIREMENTS\n------------------------\nKnowledge of data handling packages such as tidyverse or data.table, basic knowledge of machine learning regression or classification models with Caret and basic knowledge of Shiny.\n\nCODE OF CONDUCT\n----------------------------\nWe expect all attendees to abide by our Code of Conduct. Anyone who violates this community's Code of Conduct will be refused entry, expelled, and/or any other action deemed appropriate by the Organizer, regardless of event registration, meetup membership or other condition. We are emphatically queer and trans-friendly. This group was created so those who identify as women have a comfortable place to learn.",
+    "status": "PAST",
+    "dateTime": "2019-08-06T17:30:00+02:00",
+    "duration": "PT3H30M",
+    "eventUrl": "https://www.meetup.com/rladies-amsterdam/events/263535115/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 47,
+      "waitlistCount": 0,
+      "totalCount": 47
+    },
+    "venues": [
+      {
+        "id": "26319753",
+        "name": "Deloitte Amsterdam",
+        "address": "Gustav Mahlerlaan 2970",
+        "city": "Amsterdam",
+        "state": "NH",
+        "country": "nl",
+        "lat": 52.337,
+        "lon": 4.8619,
+        "postalCode": "1081 LA",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Amsterdam",
+      "urlname": "rladies-amsterdam"
+    },
+    "createdTime": "2019-07-28T15:35:10-04:00"
+  },
+  {
+    "id": "262755363",
+    "title": "Building dashboards in R with flexdashboard",
+    "description": "Hi y’all!\nDid you ever struggle to communicate your findings? Often when we present our results, we dive into too many details and lose sight of the main question. In that case it could help to create a dashboard, that summarises and highlights the main conclusions, and additionally enables others to ask questions.\n\nIn our next workshop you will learn how to create dashboards in R using flexdashboard. This workshop is brought to you by Olga Sholderer. She is a Senior Associate, Data Services at AACSB International and comes from a non-technical background: she earned her degrees in Political Science and Public Administration and previously worked in non-profits and international organizations.\n\nSPECIAL THANKS this time goes to XCCELERATED for making this event possible!\n\n-------------------------------------------------\n17:30 –Welcome & Pizza\n18.00- 18.20 Introduction to R-Ladies & Xccelerated\n18.20- 19.00- Workshop part 1 by Olga Sholderer\n19.00 – 19:15 Break\n19.15- 20.00 Workshop part 2 by Olga Sholderer\n20:00 - 21.00 Socialising\n-------------------------------------------------\n\nFlexdashboard is an extension to RMarkdown to combine different plots into dashboards. To start off, we will explore how you can create simple dashboard. Then we will explore the ways to display datatables, graphs, key metrics and progress indicators, as well as how to customize the look and feel of your first dashboard.\n\nREQUIREMENTS\nA basic knowledge of R is required. Please, bring your own laptop with installed R, R Studio, ggplot2 and flexdashboard.\n\nCODE OF CONDUCT\nWe expect all attendees to abide by our Code of Conduct. Anyone who violates this community's Code of Conduct will be refused entry, expelled, and/or any other action deemed appropriate by the Organizer, regardless of event registration, meetup membership or other condition. We are emphatically queer and trans-friendly. This group was created so those who identify as women have a comfortable place to learn.",
+    "status": "PAST",
+    "dateTime": "2019-07-18T17:30:00+02:00",
+    "duration": "PT3H30M",
+    "eventUrl": "https://www.meetup.com/rladies-amsterdam/events/262755363/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 62,
+      "waitlistCount": 0,
+      "totalCount": 62
+    },
+    "venues": [
+      {
+        "id": "26487447",
+        "name": "Xccelerated",
+        "address": "Sarphatistraat 640",
+        "city": "Amsterdam",
+        "state": "NH",
+        "country": "nl",
+        "lat": 52.3522,
+        "lon": 4.9129,
+        "postalCode": "1091 GS",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Amsterdam",
+      "urlname": "rladies-amsterdam"
+    },
+    "createdTime": "2019-06-30T11:58:01-04:00"
+  },
+  {
+    "id": "262502914",
+    "title": "Summer social mingle",
+    "description": "Looks like summer might arrive to Amsterdam next week, therefore we decided to celebrate it with a social in a park and enjoy the sun! We have organised a fair amount of workshops so far, but we would really like to get to know our group a bit better, collect some feedback about our events and simply have fun. This one will be all about networking :)\n\nWe invite you to have a picnic in the sunny Vondelpark with us, please bring some snacks, drinks or whatever you fancy! We will probably have some blankets but depending on the amount of attendees it may be a good idea to bring your own as well. Most importantly, bring a good mood (!) and join us in Vondelpark (probably near Groot Melkhuis, so we can hide there in case of rain)! The exact location will be shared on the day of the meetup, but for easier navigation we created a Whatsapp group - for which we'll share the link a few days before. See you there!",
+    "status": "PAST",
+    "dateTime": "2019-06-26T18:00:00+02:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-amsterdam/events/262502914/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 20,
+      "waitlistCount": 0,
+      "totalCount": 20
+    },
+    "venues": [
+      {
+        "id": "26333190",
+        "name": "Vondelpark",
+        "address": "",
+        "city": "Amsterdam",
+        "state": "NH",
+        "country": "nl",
+        "lat": 52.358,
+        "lon": 4.8686,
+        "postalCode": "1071",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Amsterdam",
+      "urlname": "rladies-amsterdam"
+    },
+    "createdTime": "2019-06-21T03:05:31-04:00"
+  },
+  {
+    "id": "261344327",
+    "title": "How to get into and around data science",
+    "description": "Ready to meet amazing women and learn from their experience with a glass of Heineken? As part of the Dutch Data Science Week, we are bringing you a special R-Ladies edition! We are having a panel discussion on finding your way into Data Science. Moving into or making a career change into a new and fast changing field like data science comes with great uncertainty and endless questions. Come join us, as we bring together a panel of professionals with diverse backgrounds to discuss what it takes to succeed in Data Science. We'll explore their experience, trainings, their typical day, and problems that they are facing and solving day in day out.\n\nPRELIMINARY PLAN\n17.00- 17.30 Welcome\n17.30 - 17.45 Intro Rladies & Heineken\n17.45 - 19.15 Panel discussion & Breakout sessions\n19.15 - 20.00 Socializing\n\nPROGRAMME\nThis meetup is not only for the beginners in Data Science and Data Engineering, but also for more advanced members, who already work in the fields for some time. You will get a first-hand experience in how other women handle challenges in their daily work, how they communicate, and how they build the working process. After the panel discussion (~45 min), we will move to smaller groups, where you will have the chance to discuss and learn from someone nearby and envision your professional life from a new perspective. We are excited to have such an amazing bunch of people on board:\n\nLaury van Bedaf\nLaury is a data scientist at Accenture, where last fiscal year she was awarded the young talent award for her work and personal growth. As a data scientist she is creating and finding solutions for different clients by applying machine learning techniques. She is a great fan of open source software and the communities build around it, with her favorite being R. She has a strong social engagement and this can been seen in her focus on the health and public services industries. Ideally she would like to combine her education in neuroscience and her work experience in data science to gain insight in patient treatment and diagnostics.\n\nMin Fang\nMin’s formal background is in Computer Science and Natural Language Processing and when she joined trivago 3.5 years ago she started her data science career with a focus on NLP problems. About a year ago she became a team lead and is now leading a team of data scientists and a product manager distributed in two office locations. In her spare time she likes to go rock climbing and eat brunch.\n\nChristina Stamm\nChristina Stamm is a medical data scientist at Pacmed. Christina holds a master’s degree in Mathematics from Technical University of Munich. She joined Pacmed in 2019 to develop and interpret state of the art machine learning models to help patients receive more personal and precise care. The past four years Christina has been working as a big data analyst at Audi Business Innovation, where she developed big data analytics solutions for Audi’s sales and production department.\n\nNynke ter Heide\nI am Nynke ter Heide, I’m 38 years old. I live in a small town in the southern part of the Netherlands with my husband and our two kids.\nI earned a Master’s degree in Civil Engineering from the Delft University of Technology and worked for 12 years in the construction industry in engineering roles. In 2017 I founded my own company Vidabo and started working as an independent data scientist. What I love about this role is that I can combine technical challenges, creativity and collaboration with people in a wide variety of roles.\n\nCamille Denning\nCamille is an organizer of Dutch Data Science Week and runs strategic brand marketing for GoDataDriven. An American, Filipina, Australian whose Dutch is atrocious, she is also the author of the children's book, 'Dogs & Data Science.'\n\nREQUIREMENTS\nA good mood and enthusiasms to listen to others.\n\nCODE OF CONDUCT\nWe expect all attendees to abide by our Code of Conduct.",
+    "status": "PAST",
+    "dateTime": "2019-06-05T17:00:00+02:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-amsterdam/events/261344327/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 68,
+      "waitlistCount": 8,
+      "totalCount": 68
+    },
+    "venues": [
+      {
+        "id": "26381276",
+        "name": "Heineken",
+        "address": "Stadhouderskade 84",
+        "city": "Amsterdam",
+        "state": "",
+        "country": "nl",
+        "lat": 52.3577,
+        "lon": 4.8936,
+        "postalCode": "meetup1",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Amsterdam",
+      "urlname": "rladies-amsterdam"
+    },
+    "createdTime": "2019-05-10T02:33:14-04:00"
+  },
+  {
+    "id": "260500228",
+    "title": "Exploring the layers of visualisation- an introduction to ggplot2",
+    "description": "Are you one of the R-lovers that always wondered how to (effectively) visualise your data, then this workshop is for you. Together we explore layers of data visualisation: from the theory to the technical implementation in ggplot2. It will be cooked for you by Janine Khuc, Sarah Stolle and Olga Ivanova - three awesome R-Ladies co-organizers.\n\nBig-big thanks to Ubiqum Code Academy for making this event possible!\n\nPRELIMINARY PLAN\n18.00-18.30 Doors open & Welcome\n18.30- 18.50 Introduction to R-Ladies & Ubiqum\n18.50- 19.30- Workshop part 1\n19.30- 19.45 Break\n19.45- 20.30 Workshop part 2\n20.30- 21.00 Socialising\n\nPROGRAMME\nEveryone from the data science community wants to produce a beautiful plot that is also convincing, informative and clear enough. This can be a truly challenging task! We will start out with a short introduction on how it all started and think with you about how to do it more properly. But of course, through thinking data visualisations won't create themselves, we need tools to do so effectively!\n\nAs such, we will explain and deep dive into the basic concepts of ggplot2 as it is one of the most powerful libraries in R available today for visualization. We’ll cover the basics step by step, using code examples to explore the datasets. At the end we'll set you free - so you can play around with your newly gained knowledge of ggplot2 and go on to explore data (and the world).\n\nREQUIREMENTS\nA basic knowledge of R and an urge to study data vis/ggplot2. Please, bring your own laptop with installed R, R Studio, ggplot2 and tidyr/reshape2.\n\nCODE OF CONDUCT\nWe expect all attendees to abide by our Code of Conduct. Anyone who violates this community's Code of Conduct will be refused entry, expelled, and/or any other action deemed appropriate by the Organizer, regardless of event registration, meetup membership or other condition. We are emphatically queer and trans-friendly. This group was created so those who identify as women have a comfortable place to learn.",
+    "status": "PAST",
+    "dateTime": "2019-04-30T18:00:00+02:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-amsterdam/events/260500228/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 58,
+      "waitlistCount": 0,
+      "totalCount": 58
+    },
+    "venues": [
+      {
+        "id": "26314816",
+        "name": "Ubiqum Code Academy",
+        "address": "John M. Keynesplein 12-46",
+        "city": "Amsterdam",
+        "state": "al",
+        "country": "nl",
+        "lat": 52.3411,
+        "lon": 4.8232,
+        "postalCode": "meetup1",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Amsterdam",
+      "urlname": "rladies-amsterdam"
+    },
+    "createdTime": "2019-04-10T03:17:21-04:00"
+  },
+  {
+    "id": "259442752",
+    "title": "Deep Dive into basic Machine Learning concepts in R",
+    "description": "Hi Everyone! We are very excited to announce our next workshop, a workshop on Machine Learning brought to you by Kelly Pisane, a data scientist at booking.com.\n\nSPECIAL THANKS to Booking for sponsoring our event as part of their generous support and efforts towards a more diverse tech & data science community.\n\n---------------------------------------------------------\n17.00 Doors open, welcome, food & drinks\n\n17.30 Introduction to R- Ladies by Janine Khuc\nand Introduction to Booking by Lucie de Nooij\n\n17.55 R- Workshop part 1 by Kelly Pisane\n\n18.45- 19.00 Break\n\n19.00- 20.00 Workshop part 2 by Kelly Pisane\n\n20.00- 20.30 Socialising\n---------------------------------------------------------\n\nPROGRAMME\nBooking.com is one of the world's leading digital travel platforms. However, with millions of customers and partners across the globe comes the challenge of categorising thousands of customer service enquiries on a daily basis.\n\nTo meet this challenge, Booking.com data scientists are using customised machine learning techniques. One of these data scientists is Kelly Pisane. Kelly has a PHD in experimental nanoscale magnetism, and was a former research and development scientist in integrity testing for integrated circuits. She will be discussing how Booking.com uses ML to categorise calls, as well as the algorithms in R they use and how performance is evaluated. Kelly will talk about what's happening behind the scenes and the math involved, by keeping it simple and accessible at the same time. The basic classifiers will be covered, applied to datasets and their performance will be evaluated.\n\nAlso speaking at the Meet-Up will be Booking.com data scientist and team lead, Lucie de Nooij. In 2017, Lucie was awarded the first-ever internal Booking.com Tech Playmaker Award for her work as a mentor to women in tech throughout the company. She'll be presenting a short introduction to data science and machine learning at Booking.com.\n\nREQUIREMENTS\nA basic knowledge of R is required. Bring your own laptop with R, R Studio installed. We will use the packages caret and tidyverse.\n\nCODE OF CONDUCT\nWe expect all attendees to abide by our Code of Conduct. Anyone who violates this community's Code of Conduct will be refused entry, expelled, and/or any other action deemed appropriate by the Organizer, regardless of event registration, meetup membership or other condition. We are emphatically queer and trans-friendly. This group was created so those who identify as women have a comfortable place to learn.",
+    "status": "PAST",
+    "dateTime": "2019-03-28T17:00:00+01:00",
+    "duration": "PT3H30M",
+    "eventUrl": "https://www.meetup.com/rladies-amsterdam/events/259442752/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 71,
+      "waitlistCount": 0,
+      "totalCount": 71
+    },
+    "venues": [
+      {
+        "id": "26049550",
+        "name": "Booking.com",
+        "address": "Oosterdokskade 163",
+        "city": "Amsterdam",
+        "state": "NH",
+        "country": "nl",
+        "lat": 52.3656,
+        "lon": 4.8985,
+        "postalCode": "1017 CE",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Amsterdam",
+      "urlname": "rladies-amsterdam"
+    },
+    "createdTime": "2019-03-03T08:59:29-05:00"
+  },
+  {
+    "id": "258366034",
+    "title": "R Markdown – Composing Reproducible Documents with Graphs and Tables",
+    "description": "Hi Everyone! We are very excited to announce our next workshop, a workshop on R- Markdown brought to you by Martine Jansen, an institutional researcher and lecturer in statistics at the Fontys Hogescholen.\n\nSPECIAL THANKS to Elsevier for sponsoring our event as part of their generous support and efforts towards a more diverse tech & data science community.\n\nPRELIMINARY PLAN\n---------------------------------------------------------\n18:00 Doors open, & welcome\n\n18.30 Introduction to R- Ladies & Elsevier\n\n19.00 R- Markdown workshop\n\n20.45- 21.30 Socialising\n---------------------------------------------------------\n\nPROGRAMME\nAfter a great lightning talk in 2018, Martine will now give us a full introduction into how to create reproducible documents with table and figures in R-Markdown. During this workshop you'll transform a given data set into a reproducible, custom styled Word document containing a descriptive analysis with (ggplot2) graphs and tables.\n\nWorking with R Markdown saves a lot of time, effort and repeated work. All the steps, blocks with R code for very simple descriptives or very complex statistical analysis, text for the document, and if you wish useful personal reflections (not shown in resulting word document), are contained in one single Markdown document, which can easily be shared with co-workers. Or be reused for another analysis.\nThe graphs we will make during the workshop, use custom colors and include a stacked barchart, with value labels.\n\nREQUIREMENTS\nSome prior familiarity with R is useful, but not necessary (though in that case the information density will probably be very high). Bring your own laptop with R, R Studio and Word installed. We will use the packages knitr, gridExtra and tidyverse, so install them as well (ggplot2 is part of the tidyverse).\n\nCODE OF CONDUCT\nWe expect all attendees to abide by our Code of Conduct. Anyone who violates this community's Code of Conduct will be refused entry, expelled, and/or any other action deemed appropriate by the Organizer, regardless of event registration, meetup membership or other condition. We are emphatically queer and trans-friendly. This group was created so those who identify as women have a comfortable place to learn.",
+    "status": "PAST",
+    "dateTime": "2019-02-21T18:00:00+01:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-amsterdam/events/258366034/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 42,
+      "waitlistCount": 3,
+      "totalCount": 42
+    },
+    "venues": [
+      {
+        "id": "26113683",
+        "name": "Elsevier",
+        "address": "Radarweg 29a",
+        "city": "Amsterdam",
+        "state": "NH",
+        "country": "nl",
+        "lat": 52.3933,
+        "lon": 4.8374,
+        "postalCode": "1043 NX",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Amsterdam",
+      "urlname": "rladies-amsterdam"
+    },
+    "createdTime": "2019-01-24T16:07:12-05:00"
+  },
+  {
+    "id": "274961085",
+    "title": "Automatic & Explainable Machine Learning in R with H2O",
+    "description": "Hi, everybody!\nWe hope that you and your family are doing well. We are super excited to have Erin, co-founder of R-Ladies global, founder of the Women in Machine Learning and Data Science and Chief Machine Learning Scientist at H2O.ai to bring you a workshop on Automatic and Explainable Machine Learning in R with H2O!\n\nDESCRIPTION\n----------------------\n\nH2O is an open source, distributed machine learning platform is designed to scale to very large datasets. H2O AutoML provides an easy-to-use interface which automates data pre-processing, training and tuning a large selection of candidate models from a single function, `h2o.automl()`. The result of the AutoML run is a \"leaderboard\" of H2O models, which can be then be explained automatically using the H2O Explainability interface.\n\nThe models can be explained individually, and also compared as a group and both global (model-wise) and local (row-wise) explainations are available. The `h2o.explain()` function generates a list of explanations – individual units of explanation such as a Partial Dependence plot or a Variable Importance plot. Most of the explanations are visual – these plots can also be created by individual utility functions outside the `h2o.explain()` function. The visualization engine used in the R interface is the ggplot2 package and in Python, we use matplotlib.\n\nR code with a full demo will be provided, which can be used to automatically train and explain models on your own dataset.\n\nPROGRAMME\n----------------------\n19.00-19.05 Virtual Welcome\n19.05- 20.30 Talk & Q&A\n\nABOUT ERIN\n----------------------\nhttps://www.linkedin.com/in/erin-ledell/\nErin LeDell is the Chief Machine Learning Scientist at H2O.ai, the company that produces the open source, distributed machine learning platform, H2O. At H2O.ai, she leads the H2O AutoML project and her current research focus is automated machine learning. Before joining H2O.ai, she was the Principal Data Scientist at Wise.io (acquired by GE) and Marvin Mobile Security (acquired by Veracode), the founder of DataScientific, Inc. and a software engineer. She is also founder of the Women in Machine Learning and Data Science (WiMLDS) organization (wimlds.org) and co-founder of R-Ladies Global (rladies.org). Erin received her Ph.D. in Biostatistics with a Designated Emphasis in Computational Science and Engineering from University of California, Berkeley and has a B.S. and M.A. in Mathematics.\n\nCODE OF CONDUCT\n----------------------------\nWe expect all attendees to abide by our Code of Conduct. Anyone who violates this community's Code of Conduct will be refused entry, expelled, and/or any other action deemed appropriate by the Organizer, regardless of event registration, meetup membership or other condition. We are emphatically queer and trans-friendly. This group was created so those who identify as women have a comfortable place to learn.",
+    "status": "PAST",
+    "dateTime": "2020-12-17T19:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-amsterdam/events/274961085/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 96,
+      "waitlistCount": 5,
+      "totalCount": 96
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Amsterdam",
+      "urlname": "rladies-amsterdam"
+    },
+    "createdTime": "2020-12-03T04:10:49-05:00"
+  },
+  {
+    "id": "274527445",
+    "title": "[ONLINE] #IamRemarkable Workshop",
+    "description": "Hi everyone,\n\nWe hope you are well during this time! While we as R-Ladies Amsterdam typically focus on developing hands- on skills- it's also important to learn how to vocalise your developed skills and achievements! As such, we are excited to invite you to attend the #IamRemarkable workshop as part of the #IamRemarkable Week running from 12-19 November. Join us to celebrate the power of diversity and allyship- and get inspired by remarkable stories and improve your confidence and self-promotion skills.\n\n#IamRemarkable is a Google initiative empowering women and\nunderrepresented groups to speak openly about their\naccomplishments in the workplace and beyond, thereby\nbreaking modesty norms and glass ceilings. Learn more at\ng.co/IamRemarkable\n\nIn this interactive session, you will participate in group\ndiscussions and exercises to develop the confidence and skills to\npromote yourself effectively.\n\nDuring the 90 min #IamRemarkable workshop we will:\n- Share data and research regarding self promotion and\nunconscious bias\n- Go through the main exercise to help you articulate your\nachievements and practice self promotion\n- Have a discussion and share take home exercises\nFeel free to sign up to discuss one of the chapters there!\n\nPROGRAMME\n---------------------\n18.00 - 18.10 Virtual Welcome & R-Ladies introductions\n18.10 - 18.20 Introductions\n18.20 - 20.00 #IamRemarkable workshop\n\nABOUT Janine\n----------------------\nJanine is a data scientist and one of the R-Ladies Amsterdam co-founders. Within the data science world she loves the intricacies that come with data science in the medical world, involving messy data (generation) and medical decision making that go beyond the technical nitty gritty. With her background in psychology she is well equipped to thoroughly understand the the requirements that go into a well designed data science project. She entered the world of data science through R- where her love for the language and the community developed. Now she is busy bringing the community in Amsterdam together supporting others in achieving their full programming potential through R.\n\nREQUIREMENTS\n----------------------\nJust bring yourself! :)\n\nLINK TO MEETUP\n———————————\nSee on the right\n\nCODE OF CONDUCT\n----------------------------\nWe expect all attendees to abide by our Code of Conduct. Anyone who violates this community's Code of Conduct will be refused entry, expelled, and/or any other action deemed appropriate by the Organizer, regardless of event registration, Meetup membership or other condition. We are emphatically queer and trans-friendly. This group was created so those who identify as women have a comfortable place to learn. Please read the Code of Conduct here: https://rladies.org/code-of-conduct/",
+    "status": "PAST",
+    "dateTime": "2020-11-19T18:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-amsterdam/events/274527445/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 25,
+      "waitlistCount": 3,
+      "totalCount": 25
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Amsterdam",
+      "urlname": "rladies-amsterdam"
+    },
+    "createdTime": "2020-11-11T04:52:34-05:00"
+  },
+  {
+    "id": "273596985",
+    "title": "[ONLINE] Metaprogramming- Big picture! R-Ladies NL bookclub Advanced R- Ch 17",
+    "description": "Hi everyone,\n\nThe R Ladies chapters of the Netherlands are partnering up and are hosting an online book club. As a first book, we chose to read and discuss Hadley Wickham's Advanced R book (https://adv-r.hadley.nz/).\nJoin us for our next meeting, in which Janine Khuc will present the key points of Chapter 17: “Big Picture\"- that introduces us to the key concepts of metaprogramming, a powerful idea that deeply influences much R code. At the most basic level the idea is explored 'that code is data that can be inspected and modified programmatically'. We'll discover why we can write things like library(purrr) instead of library(\"purrr\") within R and many more things.\n\nYou can find the full schedule and more information here: https://github.com/rladiesnl/book_club\n\nFeel free to sign up to discuss one of the chapters there!\n\nABOUT Janine\n----------------------\nJanine is a data scientist and one of the R-Ladies Amsterdam co-founders. Within the data science world she loves the intricacies that come with data science in the medical world, involving messy data (generation) and medical decision making that go beyond the technical nitty gritty. With her background in psychology she is well equipped to thoroughly understand the the requirements that go into a well designed data science project. She entered the world of data science through R- where her love for the language and the community developed. Now she is busy bringing the community in Amsterdam together supporting others in achieving their full programming potential through R.\n\nREQUIREMENTS\n----------------------\nMake sure to read the chapter (17) in advance!\n\nLINK TO MEETUP\n———————————\nSee on the right\n\nCODE OF CONDUCT\n----------------------------\nWe expect all attendees to abide by our Code of Conduct. Anyone who violates this community's Code of Conduct will be refused entry, expelled, and/or any other action deemed appropriate by the Organizer, regardless of event registration, Meetup membership or other condition. We are emphatically queer and trans-friendly. This group was created so those who identify as women have a comfortable place to learn. Please read the Code of Conduct here: https://rladies.org/code-of-conduct/",
+    "status": "PAST",
+    "dateTime": "2020-10-13T18:00:00+02:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-amsterdam/events/273596985/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 27,
+      "waitlistCount": 0,
+      "totalCount": 27
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Amsterdam",
+      "urlname": "rladies-amsterdam"
+    },
+    "createdTime": "2020-09-29T15:44:22-04:00"
+  },
+  {
+    "id": "272195412",
+    "title": "[ONLINE] - Prototyping with R Packages: Case Study on E-Commerce Fraud Detection",
+    "description": "[ONLINE EVENT]\n-----------------------\nYou all have been patiently waiting ... and the time has finally come!!!\n\nAfter a couple of months hiatus, R-Ladies Amsterdam is back in full swing! On August 19th, 2020, we have a very exciting R Ladies presentation by Irene Steves and Yogev Herz, tuning in from Tel Aviv! (Yes, R-Ladies Amsterdam is globalizing =) !)\n\n[TOPIC]\n-----------\nIrene and Yogev work in Tel Aviv for the eCommerce fraud protection company Riskified.\n\nIn their work, they often come across fraud patterns in eCommerce that their regular models cannot detect. While retraining models on newer data can solve some of these problems, some patterns require entirely new analyses.\n\nIn this talk, Irene and Yogev will discuss how they tackled fraudsters taking advantage of \"Buy Online Pay in Store\" policies, and how R packages helped gradually transition from analyses to production-ready code.\n\n[ABOUT IRENE and YOGEV]\n-------------------------------------\n\nIrene holds an M.Sc. in Ecology and a B.A. in Integrative Biology, through which she first discovered R and data science. Her interest in data-led her to the Arctic Data Center at the University of California Santa Barbara, a summer internship at RStudio, and ultimately to the Research department at Riskified, where she now explores the fascinating patterns of fraud in e-commerce.\n\nYogev first encountered R when studying the social organization of bumblebees for his M.Sc. in evolutionary biology. He transitioned to full-time R user and programmer when he left the hot and humid beehive to the air-conditioned office space of the research department in Riskified. He enjoys learning new R tricks and packages to improve the department’s data science capabilities.\n\n[PROGRAMME]\n---------------------\n18.30 - 18.35 Virtual Welcome\n18.35 - 18.45 Intro to R-Ladies and today's presentation\n18.45 - 19.20 Interactive presentation by Irene Steves and Yogev Herz\n19.15- 19.30 Questions and Discussion\n\n[ZOOM LINK]\n-------------------\nSee on the right.\n\nCODE OF CONDUCT\n----------------------------\nWe expect all attendees to abide by our Code of Conduct. Anyone who violates this community's Code of Conduct will be refused entry, expelled, and/or any other action deemed appropriate by the Organizer, regardless of event registration, Meetup membership, or other condition. We are emphatically queer and trans-friendly. This group was created so those who identify as women have a comfortable place to learn. Please read the Code of Conduct here: https://rladies.org/code-of-conduct/\n\n[OTHER LINKS]\n---------------------\nhackmd: https://hackmd.io/@jmueB-RAQc69rBgNQ6KHnw/BkbJK-wMv\nGithub: https://github.com/rladiesamsterdam/2020_August_FraudDetection",
+    "status": "PAST",
+    "dateTime": "2020-08-19T18:30:00+02:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-amsterdam/events/272195412/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 41,
+      "waitlistCount": 0,
+      "totalCount": 41
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Amsterdam",
+      "urlname": "rladies-amsterdam"
+    },
+    "createdTime": "2020-07-27T18:27:21-04:00"
+  },
+  {
+    "id": "272213195",
+    "title": "[ONLINE] Function Factories! R-Ladies NL book club Advanced R Chapter 10",
+    "description": "Hi everyone,\n\nThe R Ladies chapters of the Netherlands are partnering up and are hosting an online book club. As a first book, we chose to read and discuss Hadley Wickham's Advanced R book (https://adv-r.hadley.nz/).\nJoin us for our next meeting, in which Sarah Stolle will present the key points of Chapter 10: “Function Factories\". After that, we'll try some exercises together and help each other clear up any doubts and get over any hurdles :)\n\nYou can find the full schedule and more information here: https://github.com/rladiesnl/book_club\n\nAdd questions and expectations in the collaborative HackMD:\nhttps://hackmd.io/jwzoC61qRTOn8C3t3_X-kA?both\n\nAlso feel free to sign up to discuss one of the chapters there!\n\nABOUT SARAH\n----------------------\nSarah has a history in molecular life science and learned R during her PhD studies in the Biology of Ageing. After her academic studies she transitioned into a career in Data Science. She now works as a Data Scientist for Heineken in Amsterdam. Her main programming language at the moment is Python, but she keeps her love for R alive through R-Ladies and in personal projects.\n\nREQUIREMENTS\n----------------------\nMake sure to read the chapter (10) in advance!\n\nLINK TO MEETUP\n———————————\nSee on the right\n\nCODE OF CONDUCT\n----------------------------\nWe expect all attendees to abide by our Code of Conduct. Anyone who violates this community's Code of Conduct will be refused entry, expelled, and/or any other action deemed appropriate by the Organizer, regardless of event registration, Meetup membership or other condition. We are emphatically queer and trans-friendly. This group was created so those who identify as women have a comfortable place to learn. Please read the Code of Conduct here: https://rladies.org/code-of-conduct/",
+    "status": "PAST",
+    "dateTime": "2020-08-04T18:00:00+02:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-amsterdam/events/272213195/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 23,
+      "waitlistCount": 0,
+      "totalCount": 23
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Amsterdam",
+      "urlname": "rladies-amsterdam"
+    },
+    "createdTime": "2020-07-28T15:56:32-04:00"
+  },
+  {
+    "id": "270584806",
+    "title": "R Ladies Netherlands Book Club - Advanced R Chapter 5",
+    "description": "[ONLINE EVENT]\n----------------------\nHi everyone!\nThe R Ladies chapters of the Netherlands are partnering up! Together, R-Ladies Rotterdam, R-Ladies Den Bosch, R-Ladies Nijmegen, , R-Ladies Utrecht and R-Ladies Amsterdam we are hosting an online book club. Online meetings will take place every two weeks. Our first book is Hadley Wickham's Advanced R (https://adv-r.hadley.nz/).\n\nIn our fourth meeting, Margaux Sleckman from R Ladies Amsterdam will present the key points of Chapter 5: \"Control Flows\". After that, we'll try some exercises together and help each other clear up any doubts and get over any hurdles :)\n\nThe link to the event meeting will be provided via **email**, closer to the date. Check the full schedule, previous slides at https://rladiesnl.github.io/book_club/. you may volunteer to sign up to present a chapter at this link as well!\n\nSee you soon and stay safe!\n\nABOUT MARGAUX\n----------------------\nhttps://www.linkedin.com/in/margaux-sleckman-88ba02ba/\nMargaux is a consultant/data scientist at Metabolic, an Amsterdam's based environmental firm. She is also a core member of R-Ladies Amsterdam. She's a recent Master's graduate from the University of California, Santa Barbara working to advance climate mitigation and adaptation efforts in urban areas. More broadly, She is passionate about using data science for more effective problem-solving vis a vis environmental challenges.\n\nREQUIREMENTS\n----------------------\nMake sure to read the chapter in advance!\n\nCODE OF CONDUCT\n----------------------------\nWe expect all attendees to abide by our Code of Conduct. Anyone who violates this community's Code of Conduct will be refused entry, expelled, and/or any other action deemed appropriate by the Organizer, regardless of event registration, meetup membership or other condition. We are emphatically queer and trans-friendly. This group was created so those who identify as women have a comfortable place to learn.",
+    "status": "PAST",
+    "dateTime": "2020-05-26T18:00:00+02:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-amsterdam/events/270584806/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 41,
+      "waitlistCount": 0,
+      "totalCount": 41
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Amsterdam",
+      "urlname": "rladies-amsterdam"
+    },
+    "createdTime": "2020-05-11T11:21:57-04:00"
+  },
+  {
+    "id": "269795394",
+    "title": "[ONLINE]- Blogdown: Creating blogs and websites with R Markdown",
+    "description": "[ONLINE EVENT]\n----------------------\nHi, everybody!\nWe hope that you and your family are doing well. Though times are currently challenging for many of us- we'd like to still give you the opportunity to meet and continue to learn together. Therefore we are excited for to bring you an online workshop with Aurore!\n\n----------------------\n\nHave you ever been curious to create a website in the R environment that is fast, easy, free and beautiful? R Markdown and Hugo magic combined makes it possible. This workshop will teach you how to use the Blogdown package to create and deploy your first static website and host it for free on the dedicated domain of the R community.\n\nWe'll cover the steps from your first blogpost up to its deployment in this workshop such that you are all set to start sharing youR passion with the rest of the world.\n\nPROGRAMME\n----------------------\n18.30 - 18.45 Virtual Welcome\n18.45- 19.00 Intro to R-Ladies and a little announcement\n19.00- 19.45 Part A of the workshop- creating your first blog post\n19.45- 19.55 Break\n19.55- 20.35 Part B of the workshop- deploying the website online\n20.35- 20.45 Closing\n\nABOUT AURORE\n----------------------\nhttps://www.linkedin.com/in/aurorepaligot/\nAurore holds a Ph.D. in linguistics from the University of Namur (Belgium) and a specialization in advanced analytics and machine learning from Ubiqum Code Academy (Amsterdam). She has more than 8 years of experience working with quantitative and experimental research methods and is currently a collaborator at Tapp, a smart-city cooperative that helps citizens and authorities building more resilient urban environments. As a linguist turned data specialist, she cares about delivering meaningful insights and human-centric visualizations.\n\nREQUIREMENTS\n----------------------\nYour laptop, a github account and the downloaded package blockdown.\n\nCODE OF CONDUCT\n----------------------------\nWe expect all attendees to abide by our Code of Conduct. Anyone who violates this community's Code of Conduct will be refused entry, expelled, and/or any other action deemed appropriate by the Organizer, regardless of event registration, meetup membership or other condition. We are emphatically queer and trans-friendly. This group was created so those who identify as women have a comfortable place to learn.",
+    "status": "PAST",
+    "dateTime": "2020-04-16T18:30:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-amsterdam/events/269795394/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 79,
+      "waitlistCount": 0,
+      "totalCount": 79
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Amsterdam",
+      "urlname": "rladies-amsterdam"
+    },
+    "createdTime": "2020-04-01T16:25:20-04:00"
+  },
+  {
+    "id": "268324425",
+    "title": "Putting your R-code into production using Docker containers",
+    "description": "Making a quick script for a model or visual in R is something we do everyday. But what if we have some kind of script, model or visual that we would like to use many times a day or make available in a robust way to many users? That's what production is about!\nNowadays, putting code into production, is a complicated story of containers, pipelines, infrastructure, clusters etc. We are going to learn the basics of how to \"containerize\" your code for production-ready R-coding using Docker-containers. This skill will make you ready to discuss on how to bring your R-code into production within your IT department or in any cloud-environment. We will work in small groups and go step by step so you are ready to rock your code in production!\n\nPROGRAM\n---------------\n18:00 - 18:30 Welcome & Food\n18:30 - 18:45 Intro RLadies and SiaPartners\n18:45 - 19:30 Introduction to R in Production\n19:30 - 19:45 Break\n19:45 - 20:30 Workshop dockerize your R code\n20:30 - 21:00 Drinks & Networking\n\nIMPORTANT\nFor security reasons we need to provide a list of participants. Please use this form to submit your name https://forms.gle/916kPtLAh6qx4n9r9 .\n\nABOUT INDERDEEP\n--------------------------\nhttps://www.linkedin.com/in/inderdeep-singh/\nInderdeep holds a BSc degree in Econometrics from the Free University of Amsterdam and a MSc degree in Econometrics from the Erasmus University of Rotterdam. She has more than 3 years of experience applying data science methods in the insurance industry, lease companies, health care and banking industry. Inderdeep is part of the Data Science Center of Excellence at Sia Partners Amsterdam.\n\nABOUT SIAPARTNERS\n------------------------------\nhttps://sia-partners.com/\nSia Partners is a next-generation consulting firm focused on delivering superior value and tangible results to its clients as they navigate the digital revolution. Our global footprint and our expertise in more than 30 sectors and services allow us to enhance our clients' businesses worldwide. We guide their projects and initiatives in strategy, business transformation, IT & digital strategy, and Data Science. As the pioneer of Consulting 4.0, we develop consulting bots and integrate AI in our solutions.\n\nREQUIREMENTS\n----------------------\nYou should be comfortable to work with R (medium/advanced).\n\nWe will use Docker during the meetup. Try if you can install docker on your laptop to get the most out of the event. You need Docker Desktop to work along with the tutorial. https://www.docker.com/products/docker-desktop\nWe can also help at the beginning to setup docker with you, so pass by at the beginning if you need some help. :)\n\nCODE OF CONDUCT\n----------------------------\nWe expect all attendees to abide by our Code of Conduct. Anyone who violates this community's Code of Conduct will be refused entry, expelled, and/or any other action deemed appropriate by the Organizer, regardless of event registration, meetup membership or other condition. We are emphatically queer and trans-friendly. This group was created so those who identify as women have a comfortable place to learn.",
+    "status": "PAST",
+    "dateTime": "2020-02-26T18:00:00+01:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-amsterdam/events/268324425/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 45,
+      "waitlistCount": 0,
+      "totalCount": 45
+    },
+    "venues": [
+      {
+        "id": "26837783",
+        "name": "Sia Partners",
+        "address": "Amstelplein 1",
+        "city": "Amsterdam",
+        "state": "NH",
+        "country": "nl",
+        "lat": 52.3451,
+        "lon": 4.9171,
+        "postalCode": "1096 HA",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Amsterdam",
+      "urlname": "rladies-amsterdam"
+    },
+    "createdTime": "2020-01-30T12:40:16-05:00"
+  },
+  {
+    "id": "280751349",
+    "title": "[ONLINE]- Intro to Bayesian Statistics in R",
+    "description": "Hi, everybody!\nWe are super excited to have Angelika Stefan with us PhD candidate at the Psychological Methods department at the University of Amsterdam, - sharing her knowledge with us Bayesian statistics with R!\n\nDESCRIPTION\n-------------------\nBayesian data analysis presents an attractive alternative to p-value hypothesis testing. In the past years, Bayesian methods have become increasingly popular because they provide several advantages to the applied researcher, such as the ability to quantify evidence and successively update it as data come in.\n\nIn this workshop, I will give an introduction to the basic concepts of Bayesian statistics, such as the prior distribution, the posterior distribution, and the Bayes factor. After a brief conceptual introduction, we will fit a simple Bayesian model using just Base-R. I will finish the workshop by giving an outlook to more complex models, and present R-packages that can be used for advanced hypothesis testing and parameter estimation in the Bayesian framework.\n\nABOUT ANGELIKA\n---------------------\n\nI am a PhD student in the Psychological Methods department at the University of Amsterdam. My research mostly focuses on subjective Bayesian methods and experimental design planning; that is, I investigate statistical methods that can make research in psychology more efficient and allow researchers to incorporate existing knowledge into their models. I am a member of the JASP team and a co-founder of the ReproducibiliTea Amsterdam chapter. I am passionate about making science and statistics accessible to everyone, and have given various workshops about Bayesian statistics and Open Science in the past.",
+    "status": "PAST",
+    "dateTime": "2021-09-28T18:30:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-amsterdam/events/280751349/",
+    "featuredEventPhoto": {
+      "id": "498807810",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/c/a/2/highres_498807810.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/c/a/2/600_498807810.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/c/a/2/thumb_498807810.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 119,
+      "waitlistCount": 9,
+      "totalCount": 119
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Amsterdam",
+      "urlname": "rladies-amsterdam"
+    },
+    "createdTime": "2021-09-13T12:48:59-04:00"
+  },
+  {
+    "id": "278542847",
+    "title": "[ONLINE]- R in Production",
+    "description": "Hi, everybody!\nWe are super excited to have Veerle van Leemput with us, Managing Director and Head of Data Science from Analytic Health- sharing her knowledge with us on how to run R in production!\n\nDESCRIPTION\n-------------------\nWe often hear that R can’t be used for production, but is this true? Isn’t the statement that R is ‘just a research-only language mainly used by academia’ outdated?\n\nSpoiler alert: you definitely can use R in production. From ETL to (Shiny) web applications to machine learning models: some of the main business processes at Analytic Health are powered by R. During this talk, Veerle will dive into what “production” means and how you can use R in a context outside of academia. By showing how R is being used at Analytic Health and how processes and applications are deployed and managed we hope to show you that R can do more than statistics only. This talk will inspire you to take R one step further, and by providing pointers to which tools you can use to build robust processes you’ll leave this talk ready to use R in production yourself!\n\nABOUT VEERLE\n---------------------\n\nVeerle is an entrepreneur and Data Scientist who gets excited about data and programming. She is Managing Director and Head of Data Science at Analytic Health, a UK-based company that develops intelligent and accessible technology which gives organisations the tools they need to accelerate innovation in healthcare. She is a R developer with a Master’s Degree in Data Science and multiple years of experience in the pharmaceutical market. Besides programming in R (and Shiny) she also develops multiple web applications for healthcare organisations using Vue.js and Node.",
+    "status": "PAST",
+    "dateTime": "2021-06-22T18:30:00+02:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-amsterdam/events/278542847/",
+    "featuredEventPhoto": {
+      "id": "496638617",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/8/b/9/highres_496638617.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/8/b/9/600_496638617.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/8/b/9/thumb_496638617.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 96,
+      "waitlistCount": 25,
+      "totalCount": 96
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Amsterdam",
+      "urlname": "rladies-amsterdam"
+    },
+    "createdTime": "2021-06-01T02:13:54-04:00"
+  },
+  {
+    "id": "276401407",
+    "title": "[ONLINE]- Introduction to Tidyverse",
+    "description": "Hi, everybody!\nWe hope that you and your family are doing well. We are super excited to have Nutsa Nanuashvili, a data enthusiast that recently graduated in Cognitive Sciences to introduce you to the tidyverse universe!\n\nDESCRIPTION\n-------------------\nThe goal of this workshop is to get familiar with some useful and easy to use data transformation techniques in R. For this, we are going to go through some handy functions and commands from the famous tidyverse ecosystem. Hopefully with these tricks and tips you’re going to get more confident around transforming & organizing data.\nDuring the meeting we will discuss some concepts and provide code examples, after which we’ll go through exercises to try out the newly learned concepts by ourselves. Some of the topics we’ll cover are, tidy data concept, reshaping datasets, what is and how to use the pipe %>% operator, and manipulating data columns and rows.\nFor all these we're going to use the dataset about penguins from palmerpenguins package.\n\nPROGRAMME\n----------------------\n18.30- 18.45 Virtual Welcome\n18.45- 20.30 Workshop and Q&A\n\nABOUT NUTSA\n-------------------\nI recently graduated with a master’s degree in Cognitive Neuroscience from the University of Amsterdam, Institute of Interdisciplinary Studies. I love programming and working on data. I especially love coding in R and I used it a lot while doing my master's projects. While looking for new adventures, I enjoy working on data and learning new concepts as part of my side-projects.\n\nPREREQUISITES\n-----------------------\nA basic knowledge of R is recommended. Please install the tidyverse package.\n\nCODE OF CONDUCT\n----------------------------\nWe expect all attendees to abide by our Code of Conduct. Anyone who violates this community's Code of Conduct will be refused entry, expelled, and/or any other action deemed appropriate by the Organizer, regardless of event registration, meetup membership or other condition. We are emphatically queer and trans-friendly. This group was created so those who identify as women have a comfortable place to learn.",
+    "status": "PAST",
+    "dateTime": "2021-03-24T18:30:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-amsterdam/events/276401407/",
+    "featuredEventPhoto": {
+      "id": "494781226",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/2/e/a/highres_494781226.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/2/e/a/600_494781226.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/2/e/a/thumb_494781226.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 90,
+      "waitlistCount": 0,
+      "totalCount": 90
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Amsterdam",
+      "urlname": "rladies-amsterdam"
+    },
+    "createdTime": "2021-02-16T12:25:15-05:00"
+  },
+  {
+    "id": "275910059",
+    "title": "[ONLINE]- Introduction to Network analysis in R",
+    "description": "Hi, everybody!\nWe hope that you and your family are doing well. We are super excited to have Jill de Ron, PhD student at the psychological methods department of the University of Amsterdam (UvA) to bring you a workshop on Network analysis in R!\n\nDESCRIPTION\n-------------------\nWe can use networks to provide insights into a variety of settings: A network connecting our Facebook friends gains understanding in our social structure; a human contact network gains insight into disease transmission; and a network of public transport lines informs us about the most central subway stations. In these examples, the relationships between components in the network are known. But in a lot of other cases, the relationships between components are unknown and are what we are interested in. For example, when we want to investigate the relationships between different personality traits. Network psychometrics makes it possible to estimate relationships between a large number of variables. Once you estimated a network, you can perform network-based statistics that give you information about the network’s local and global characteristics. In this workshop, you will learn how to estimate, analyze and interpret (psychological) network models. After a short introduction to network models, we will follow by a tutorial on analyzing data with network models.\n\nPROGRAMME\n----------------------\n18.30- 18.45 Virtual Welcome\n18.45- 20.30 Workshop and Q&A\n\nABOUT JILL\n-------------------\nI am a PhD student at the psychological methods department of the University of Amsterdam (UvA). My research is concerned with computational models of anxiety disorders and (formal) theory construction in psychology. I have a master’s degree in both Behavioral Data Science and Psychology. During my master programs I have been teaching assistant for the network analysis course at the UvA.\n\nPREREQUISITES\n-----------------------\nA basic knowledge of R is recommended. To join the tutorial, please install the bootnet package and the qgraph package.\n\nCODE OF CONDUCT\n----------------------------\nWe expect all attendees to abide by our Code of Conduct. Anyone who violates this community's Code of Conduct will be refused entry, expelled, and/or any other action deemed appropriate by the Organizer, regardless of event registration, meetup membership or other condition. We are emphatically queer and trans-friendly. This group was created so those who identify as women have a comfortable place to learn.",
+    "status": "PAST",
+    "dateTime": "2021-02-10T18:30:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-amsterdam/events/275910059/",
+    "featuredEventPhoto": {
+      "id": "494478386",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/7/d/2/highres_494478386.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/7/d/2/600_494478386.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/7/d/2/thumb_494478386.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 45,
+      "waitlistCount": 7,
+      "totalCount": 45
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Amsterdam",
+      "urlname": "rladies-amsterdam"
+    },
+    "createdTime": "2021-01-22T11:42:24-05:00"
+  },
+  {
+    "id": "304684945",
+    "title": "R-Ladies Book Club: Happy Git and GitHub for the useR (Third meeting)",
+    "description": "Join us for the third meet-up for the online boook club discussing **‘[Happy Git and Github for the useR](https://happygitwithr.com/)**’ by Jenny Bryan.\n\n**When:** Tuesday December 3 @ 17:00 CET (11:00 ET)\n**Where:** Zoom (https://us02web.zoom.us/j/85611960494?pwd=2P8qDlty8mbj464DacHaaUoDpwBHNp.1 Password: 104070)\n**What:** We will discuss the part **Early Github Wins**\n**Who:** Martine Jansen from R-Ladies Den Bosch.\n**Why:** For this book club we - the Bergen, Den Bosch and Amsterdam chapters of R Ladies - are joining forces. In each meeting, we will work through a chapter(s) of the book together. We are doing this book club, because we like to learn together. It is not the case presenters are necessarily the experts on the matter. To make this a group effort, the idea is that all participants take turns in presenting chapters. If you’re not comfortable presenting, just listening is also okay.\n\nIf you cannot make it this time, feel free to join in on one of the subsequent meetings.\n\nCross-posting: This event is cross posted by [R-Ladies Den Bosch](https://www.meetup.com/rladies-den-bosch/events/304669774/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link) and R-Ladies Bergen.\n\nR-Ladies is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form. See the [code of conduct](https://rladies.org/coc/).",
+    "status": "PAST",
+    "dateTime": "2024-12-03T17:00:00+01:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-amsterdam/events/304684945/",
+    "featuredEventPhoto": {
+      "id": "524819079",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/e/6/c/7/highres_524819079.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/e/6/c/7/600_524819079.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/6/c/7/thumb_524819079.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 8,
+      "waitlistCount": 0,
+      "totalCount": 8
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Amsterdam",
+      "urlname": "rladies-amsterdam"
+    },
+    "createdTime": "2024-11-21T03:14:17-05:00"
+  },
+  {
+    "id": "304454190",
+    "title": "R-Ladies Boook club: Happy Git and GitHub for the useR (Second meeting)",
+    "description": "Join us for the second meeting of the online book club discussing **‘[Happy Git and Github for the useR](https://happygitwithr.com/)**’ by Jenny Bryan.\n\n**When:** Tuesday November 19 @ 17:00 CET (11:00 ET)\n**Where:** [Zoom](https://us02web.zoom.us/j/87240540921?pwd=E4Lm8qap1SGhIWgakNCVtyjjcs95b6.1)\n**What:** We will discuss the parts *Installation* and *Connect Git, GitHub, RStudio* of the [book](https://happygitwithr.com/).\nBook club materials can be found on our [Github](https://github.com/rladiesboookclub/happygitwithr). The Github also has a discussions page where participants can ask questions or discuss different aspects of the book as they move through it. For help using GitHub discussions see [here](https://docs.github.com/en/discussions/quickstart).\n**Who:** Our presenter will be co-host **Sehee Rim** from [R-Ladies Bergen](https://www.meetup.com/rladies-bergen/).\n**Why:** For this boook club we - the Bergen, Den Bosch and Amsterdam chapters of R Ladies - are joining forces. We will meet every two weeks, and in each meeting, we will work through a different chapter of the book together. We are doing this boook club (spelling intentional), because we like to learn together. It is not the case presenters are necessarily the experts on the matter. To make this a group effort, the idea is that all participants take turns presenting chapters. If you’re not comfortable presenting, just listening is also okay.\nIf you cannot make it this time, feel free to join in on one of the subsequent meetings.\n\nR-Ladies is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form. See the [code of conduct](https://rladies.org/coc/).\n\n*As always, everyone, regardless of gender identity, is welcome to join our events!*\n\n**Cross-posting:** This event is cross posted on the [R-Ladies Den Bosch](https://www.meetup.com/rladies-den-bosch/events/304441935) and R-Ladies Bergen meet-up pages.",
+    "status": "PAST",
+    "dateTime": "2024-11-19T17:00:00+01:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-amsterdam/events/304454190/",
+    "featuredEventPhoto": {
+      "id": "524580613",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/6/5/highres_524580613.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/6/5/600_524580613.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/6/5/thumb_524580613.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 15,
+      "waitlistCount": 0,
+      "totalCount": 15
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Amsterdam",
+      "urlname": "rladies-amsterdam"
+    },
+    "createdTime": "2024-11-08T08:37:54-05:00"
+  },
+  {
+    "id": "304310352",
+    "title": "R-Ladies Book club: Happy Git and GitHub for the useR (kick-off session)",
+    "description": "Interested in streamlining your workflow by connecting Git and R? Join our **book club** for “**[Happy Git and GitHub for the useR](https://happygitwithr.com/)”** by Jennifer (Jenny) Bryan! The book describes the use of the version control system Git and the hosting site GitHub for statistical and data scientific workflows in R.\nAfter our engaging sessions on “Building Reproducible Analytical Pipelines with R” by R-Ladies Bergen and “Hands-On Machine Learning with R” by R-Ladies Den Bosch, we're excited to team up for a joint book club, together with R-Ladies Amsterdam!\nJenny Bryan herself will introduce the book and be available for questions during the kick-off session!\n**When**: Kicking off on Wednesday, November 6, 2024, at 16:30 CET (Den Bosch/Bergen/Amsterdam time) – thereafter 17.00 CET every 2 weeks\n**Where**: [Zoom](https://uib.zoom.us/j/2556087302?pwd=R21rYlpYOG9LZS9PaFRMOU55KzQydz09&omn=65724123346)\nMeeting ID: 255 608 7302\nPassword: PfYaV9kU\n**What to expect?**\n\n* Book Club Format: Every two weeks, we’ll work through each chapter together. To make this a group effort, the idea is that all participants take turns in presenting chapters. Participants are encouraged to present chapter summaries, but listening in is equally welcome.\n* Presentations summarizing key points from each chapter\n* Open discussions for questions, insights, and collaborative learning\n\nFeel free to join us at any session, even if you miss the first one. We’ll explore “**[Happy Git and GitHub for the useR](https://happygitwithr.com/)”** together – learning is better in good company! You do not have to prepare anything for the kick-off session.\n**Code of Conduct**\nR-Ladies is committed to a welcoming, harassment-free experience for everyone. We have a strict Code of Conduct and do not tolerate harassment in any form. See the [code of conduct](https://rladies.org/coc/)\n**Cross Posting**\nThis event will be cross posted on the [R-Ladies Den Bosch](https://www.meetup.com/rladies-den-bosch/events/304310072/) and [R-Ladies Bergen](https://www.meetup.com/rladies-bergen/events/304343658/?notificationId=%3Cinbox%3E%21412845906-1730558848262&eventOrigin=notifications) meet-up pages.",
+    "status": "PAST",
+    "dateTime": "2024-11-06T16:30:00+01:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-amsterdam/events/304310352/",
+    "featuredEventPhoto": {
+      "id": "524434337",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/6/2/1/highres_524434337.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/6/2/1/600_524434337.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/6/2/1/thumb_524434337.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 28,
+      "waitlistCount": 0,
+      "totalCount": 28
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Amsterdam",
+      "urlname": "rladies-amsterdam"
+    },
+    "createdTime": "2024-10-31T15:18:36-04:00"
+  },
+  {
+    "id": "302733016",
+    "title": "BaR Chat",
+    "description": "Join R-Ladies Amsterdam for the second event in our networking series: BaR Chat!\n\nWhether you're new in town or a local; a student or working professional; new to programming or experienced; you are invited to join R-Ladies Amsterdam for a drink. This will be a great opportunity to network, share experiences, and get to know like-minded people.\n\nAre you a programmer who doesn't use R? No problem. Join us!\n\nLocation: Hanneke's Boom (Dijksgracht 4 Amsterdam)\nTime: 28 August 2024 from 18:00 - 21:00\n\n\\*Drinks at own expense.",
+    "status": "PAST",
+    "dateTime": "2024-08-28T18:00:00+02:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-amsterdam/events/302733016/",
+    "featuredEventPhoto": {
+      "id": "522807578",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/b/b/a/highres_522807578.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/b/b/a/600_522807578.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/b/b/a/thumb_522807578.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [
+      {
+        "id": "6867152",
+        "name": "Hannekes Boom",
+        "address": "1019BS",
+        "city": "Amsterdam",
+        "state": "",
+        "country": "nl",
+        "lat": 52.3767,
+        "lon": 4.9134,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Amsterdam",
+      "urlname": "rladies-amsterdam"
+    },
+    "createdTime": "2024-08-09T04:35:47-04:00"
+  },
+  {
+    "id": "301061615",
+    "title": "Launch of BaR Chat Networking Series",
+    "description": "R-ladies Amsterdam is launching the very first **BaR Chat** event.\nAfter two successful events and the summer ahead of us, we thought it would be a great moment to introduce a networking event series.\n\nWhether you're new in town or a local; a student or working professional; a tea-lover or coffee-lover, new to R or experienced; you are invited to join R-Ladies Amsterdam for a drink.\n\nLocation: Volkshotel (ground floor on the left)\nWalk-in between 18:00 - 21:00\nDrinks at own expense.\n\nHope to see you on the June 5th!\n\nPS: If you can't make it this time don't worry, there will be more events like this in the future ;)",
+    "status": "PAST",
+    "dateTime": "2024-06-05T18:00:00+02:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-amsterdam/events/301061615/",
+    "featuredEventPhoto": {
+      "id": "494478428",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/7/f/c/highres_494478428.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/7/f/c/600_494478428.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/7/f/c/thumb_494478428.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 14,
+      "waitlistCount": 0,
+      "totalCount": 14
+    },
+    "venues": [
+      {
+        "id": "26022499",
+        "name": "Volkshotel",
+        "address": "Wibautstraat 150",
+        "city": "Amsterdam",
+        "state": "NH",
+        "country": "nl",
+        "lat": 52.3538,
+        "lon": 4.9115,
+        "postalCode": "1091 GR",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Amsterdam",
+      "urlname": "rladies-amsterdam"
+    },
+    "createdTime": "2024-05-16T12:23:35-04:00"
+  },
+  {
+    "id": "300367908",
+    "title": "Introduction to R",
+    "description": "Do you want to work with R but have no idea where to start? Are you intimidated by the idea of learning a programming language? Have you always been interested in R but found the amount of online resources overwhelming?\n\nR-ladies Amsterdam is hosting a beginner's event to give you a gentle introduction to the R programming language. This event will be an in-person workshop at the University of Amsterdam. We will explain some basic concepts of R and run code together. You get the opportunity to ask questions and work together with other people who are learning R. We will also provide some snacks :)\n\nItinerary:\n18.30 - 18.45 Welcome\n18.45 - 20.30 Workshop\n20.30 - 21.00 Networking\n\nWe kindly ask you to bring your own laptop and install R and RStudio before you arrive! You can find instructions on how to do so here: [https://posit.co/download/rstudio-desktop/](https://posit.co/download/rstudio-desktop/)",
+    "status": "PAST",
+    "dateTime": "2024-05-01T18:30:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-amsterdam/events/300367908/",
+    "featuredEventPhoto": {
+      "id": "520422283",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/5/2/b/highres_520422283.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/5/2/b/600_520422283.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/5/2/b/thumb_520422283.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 13,
+      "waitlistCount": 0,
+      "totalCount": 13
+    },
+    "venues": [
+      {
+        "id": "26051283",
+        "name": "Roeterseiland Campus",
+        "address": "Roetersstraat 11",
+        "city": "Amsterdam",
+        "state": "NH",
+        "country": "nl",
+        "lat": 52.364,
+        "lon": 4.9123,
+        "postalCode": "1018 WV",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Amsterdam",
+      "urlname": "rladies-amsterdam"
+    },
+    "createdTime": "2024-04-12T05:26:37-04:00"
+  },
+  {
+    "id": "299765964",
+    "title": "R-Ladies Amsterdam Relaunch",
+    "description": "After a hiatus due to COVID-19, R-ladies Amsterdam is back with new organisers! At this Relaunch event, members will meet the new organisers, network with each other, and share ideas for future workshops. Space is limited, so sign up! Below is a tentative event agenda.\n\nWelcome 18:30 - 18:45\nIntroductions 18:45 - 19:00\nGetting to know each other 19:00 - 19:20\nGroup discussion of ideas for future workshops and events 19:20 - 20:00\nNetworking 20:00 - 20:30\n\nNorstat has kindly offered to host our relaunch event. Norstat is one of the leading data collectors for market research in Europe. Their mission is to deliver trustworthy data of the highest quality to enable well-informed analysis and decision-making ([https://norstat.co/company/](https://norstat.co/company/)).\nR-Ladies is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form. See the [code of conduct](https://rladies.org/coc/).",
+    "status": "PAST",
+    "dateTime": "2024-03-27T18:30:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-amsterdam/events/299765964/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 20,
+      "waitlistCount": 0,
+      "totalCount": 20
+    },
+    "venues": [
+      {
+        "id": "26205384",
+        "name": "Norstat",
+        "address": "Oostenburgervoorstraat 83",
+        "city": "Amsterdam",
+        "state": "NH",
+        "country": "nl",
+        "lat": 52.3704,
+        "lon": 4.9246,
+        "postalCode": "1093 NB",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Amsterdam",
+      "urlname": "rladies-amsterdam"
+    },
+    "createdTime": "2024-03-13T04:43:28-04:00"
+  },
+  {
+    "id": "308525573",
+    "title": "From Code to Crisis Response: Using R for Real-World Impact [ONLINE]",
+    "description": "Please join us for an online meetup with [Kelly Charniga](https://bsky.app/profile/kcharniga.bsky.social) on applying R to public health challenges while serving as a Prevention Effectiveness Fellow at the U.S. Centers for Disease Control and Prevention (CDC).\n\n**Topic:** As a Prevention Effectiveness Fellow at the U.S. Centers for Disease Control and Prevention (CDC), Kelly had the opportunity to apply R to interesting public health challenges. In this talk, she'll share two projects that show how R moves beyond academic exercises into work that directly impacts public health.\nFirst, she'll walk through how she used existing R packages to model mpox transmission potential ahead of the 2022 global outbreak. You'll see the practical side of epidemiological modelling—the packages she relied on, the data challenges she faced, and how the results foreshadowed the current mpox epidemic in Africa.\nNext, she'll discuss developing an RShiny app for rabies risk assessments that's now being used across the U.S. She'll share the development process, from initial concept to deployment, including the lessons learned about building tools for non-technical end users.\nWhether you're curious about public health applications of R, interested in Shiny development, or wondering how your R skills might translate to government work, this talk will give you concrete examples and practical insights you can apply to your own projects.\n\n**Disclaimer:** Kelly is not a current CDC employee and speaks in a personal capacity. Her views are her own and do not represent the CDC or the US Government.\n\n**Prerequisites:** There are no prerequisites. All members are encouraged to attend.\n\n**Code of Conduct:** R-Ladies is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form. For more information, see the [code of conduct](https://rladies.org/coc/).",
+    "status": "PAST",
+    "dateTime": "2025-07-01T16:00:00+02:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-amsterdam/events/308525573/",
+    "featuredEventPhoto": {
+      "id": "528579605",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/a/b/5/highres_528579605.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/a/b/5/600_528579605.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/a/b/5/thumb_528579605.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 51,
+      "waitlistCount": 0,
+      "totalCount": 51
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Amsterdam",
+      "urlname": "rladies-amsterdam"
+    },
+    "createdTime": "2025-06-16T04:56:06-04:00"
+  },
+  {
+    "id": "307692896",
+    "title": "Scrollytelling Science with Quarto and Closeread [ONLINE]",
+    "description": "Please join us for an online meetup with [Cecilia Baldoni](https://bsky.app/profile/cecibaldoni.bsky.social) on Scrollytelling science with [Quarto](https://quarto.org/) and [Closeread](https://closeread.dev/).\n\n**Topic:** If you enjoy building things with R and Markdown, scrollytelling might be your next favorite tool!\nIn this talk, Cecilia will show how she used Quarto and its Closeread format to build an interactive scrollytelling website that presents her research on brain plasticity in shrews. She will walk through the structure of a Closeread project, show how R-generated plots can be integrated, and share layout tips, and common pitfalls. This session is a hands-on look at turning any topic into a compelling visual story using tools many R users already know.\n\n**Prerequisites:** There are no prerequisites. All members are encouraged to attend.\n\n**Code of Conduct:** R-Ladies is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form. For more information, see the [code of conduct](https://rladies.org/coc/).",
+    "status": "PAST",
+    "dateTime": "2025-05-28T18:00:00+02:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-amsterdam/events/307692896/",
+    "featuredEventPhoto": {
+      "id": "527812658",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/d/b/2/highres_527812658.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/d/b/2/600_527812658.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/d/b/2/thumb_527812658.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 91,
+      "waitlistCount": 0,
+      "totalCount": 91
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Amsterdam",
+      "urlname": "rladies-amsterdam"
+    },
+    "createdTime": "2025-05-07T08:02:05-04:00"
+  },
+  {
+    "id": "305454925",
+    "title": " [ONLINE] Tidy Data, Weighted Insights: Analyzing Complex Survey Data in R",
+    "description": "Please join us for a meet-up with co-authors Stephanie Zimmer, Rebecca Powell, and Isabella Velásquez on **Analyzing Complex Survey Data in R**! This meet-up is being co-organized with **[R-Ladies RTP](https://www.meetup.com/rladies-rtp/events/305348585/)**.\n\n**Topic:** Surveys are powerful tools, but to ensure the accurate interpretation of results, they require specific analysis methods. With the \\`srvyr\\` package and \\`tidyverse\\` family of functions, we are able to analyze survey data with weights to derive meaningful results. Our new book, Exploring Complex Survey Data Analysis Using R, goes through how to do this step-by-step. You can view the book here: [https://tidy-survey-r.github.io/tidy-survey-book/](https://tidy-survey-r.github.io/tidy-survey-book/).\n\n**Agenda:** This webinar will start with an overview of the importance of weighting in survey analysis and the framework for conducting survey analysis in R. We will highlight examples from the book, including how to calculate means and perform t-tests. Knowing that publication-ready tables are important, we will show you how to efficiently create reproducible tables using your final weighted data! We will end with time for Q&A and discussion.\n\n**Prerequisites:** There are no prerequisites. All members are encouraged to attend.\n\n**Code of Conduct:** R-Ladies is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form. For more information, see the [code of conduct](https://rladies.org/coc/).",
+    "status": "PAST",
+    "dateTime": "2025-02-25T18:00:00+01:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-amsterdam/events/305454925/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 114,
+      "waitlistCount": 0,
+      "totalCount": 114
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Amsterdam",
+      "urlname": "rladies-amsterdam"
+    },
+    "createdTime": "2025-01-06T08:08:35-05:00"
+  },
+  {
+    "id": "306115369",
+    "title": "Happy Git Collab: Forks, Pull Requests, and Merge Conflicts (R-Ladies book club)",
+    "description": "Effective version control is essential for reproducible and collaborative data science. This online session will guide participants through key concepts from the *[Happy Git with R](https://happygitwithr.com/)* book, focusing on **[Daily Workflows](https://happygitwithr.com/time-travel-see-past), part 2 (Chapters 30-34)**. Participants will learn how to collaborate effectively using Git and GitHub. Key topics include forking repositories, making pull requests, managing remotes, and handling merge conflicts. By the end of the session, attendees will be able to contribute to open-source projects, sync changes across different repositories, and troubleshoot common collaboration challenges.\n\nWhether you're new to Git or looking to refine your workflow, this session, the fifth in the R-Ladies book club series, will equip you with actionable strategies to integrate version control into your R programming routine.\n\n**When:** **Tuesday February 18 from 17:00 - 18:30 CET**\n**Who:** The session will be presented by Josefina Bernardo from [R-Ladies Amsterdam](https://bsky.app/profile/rladiesamsterdam.bsky.social).\n**Where:** Online\n\nR-Ladies is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form. See the [code of conduct](https://rladies.org/coc/).",
+    "status": "PAST",
+    "dateTime": "2025-02-18T17:00:00+01:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-amsterdam/events/306115369/",
+    "featuredEventPhoto": {
+      "id": "526207290",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/c/7/a/highres_526207290.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/c/7/a/600_526207290.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/c/7/a/thumb_526207290.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 19,
+      "waitlistCount": 0,
+      "totalCount": 19
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Amsterdam",
+      "urlname": "rladies-amsterdam"
+    },
+    "createdTime": "2025-02-11T06:28:45-05:00"
+  },
+  {
+    "id": "305752338",
+    "title": "[ONLINE] Daily workflows and remote setups with Git (R-Ladies book club)",
+    "description": "Effective version control is essential for reproducible and collaborative data science. This online session will guide participants through key concepts from the *[Happy Git with R](https://happygitwithr.com/)* book, focusing on **[Git remote setups](https://happygitwithr.com/remote-scenarios-intro)**[ ](https://happygitwithr.com/remote-scenarios-intro) and **[Daily Workflows](https://happygitwithr.com/workflows-intro)**. Participants will learn how to configure remote repositories, manage connections between local and remote projects, and adopt best practices for seamless collaboration using Git and GitHub. Through practical demonstrations, we will cover common daily Git operations, including committing, pushing, pulling, and resolving conflicts, ensuring a smooth and efficient workflow for R projects. Whether you're new to Git or looking to refine your workflow, this session, the fifth in the R-Ladies book club series, will equip you with actionable strategies to integrate version control into your R programming routine.\n\n**When:** **Tuesday February 4 from 17:00 - 18:30 CET**\n**Who:** The session will be presented by Kylie Ainslie from R-Ladies Amsterdam.\n**Where:** Online\n\nR-Ladies is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form. See the [code of conduct](https://rladies.org/coc/).",
+    "status": "PAST",
+    "dateTime": "2025-02-04T17:00:00+01:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-amsterdam/events/305752338/",
+    "featuredEventPhoto": {
+      "id": "525850914",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/a/a/2/highres_525850914.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/a/a/2/600_525850914.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/a/a/2/thumb_525850914.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 25,
+      "waitlistCount": 0,
+      "totalCount": 25
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Amsterdam",
+      "urlname": "rladies-amsterdam"
+    },
+    "createdTime": "2025-01-22T07:24:33-05:00"
+  },
+  {
+    "id": "305519196",
+    "title": "Boook club Happy Git and GitHub for the useR - Fourth meeting",
+    "description": "Join us for the fourth meetup for the **online** book club discussing **‘[Happy Git and Github for the useR](https://happygitwithr.com/)**’ by Jenny Bryan. On **Tuesday January 21 from 17:00 - 18:30**, we discuss the part **[Github Fundamentals](https://happygitwithr.com/git-intro)**, presented by Michelle from R-Ladies Bergen.\n\nFor this boook club we - the Bergen, Den Bosch and Amsterdam chapters of R Ladies - are joining forces. Over several months, we will work through all the chapters in the book together. We are doing this book club, because we like to learn together. It is not the case presenters are necessarily the experts on the matter. To make this a group effort, the idea is that all participants take turns in presenting chapters. If you’re not comfortable presenting, just listening is also okay.\n\nIf you cannot make it this time, feel free to join in on one of the subsequent meetings.\n\nR-Ladies is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form. See the [code of conduct](https://rladies.org/coc/).\n\nThe book can be found at [https://happygitwithr.com/](https://happygitwithr.com/)",
+    "status": "PAST",
+    "dateTime": "2025-01-21T17:00:00+01:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-amsterdam/events/305519196/",
+    "featuredEventPhoto": {
+      "id": "525623710",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/c/9/e/highres_525623710.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/c/9/e/600_525623710.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/c/9/e/thumb_525623710.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Amsterdam",
+      "urlname": "rladies-amsterdam"
+    },
+    "createdTime": "2025-01-09T13:06:27-05:00"
+  }
+]
