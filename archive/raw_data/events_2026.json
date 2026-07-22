@@ -40,6 +40,46 @@
     "createdTime": "2026-06-30T19:30:58-04:00"
   },
   {
+    "id": "315756564",
+    "title": "R-Ladies+ Melbourne & Statistical Society of Australia (SSA) Networking Event",
+    "description": "R-Ladies+ Melbourne and the Statistical Society of Australia (SSA) Victoria are excited to bring our communities together for an evening of networking and connection.\n\n**Event details**\n📅 Wednesday 12th of August 2026\n🕕 6:00pm\n📍 Hotel Nacional, Level 3 Rooftop (it is undercover with heaters)\n23-25 Hardware Lane, Melbourne, 3000\n\nIf you use R for programming, data analysis, visualisation, statistics, or you're a statistician looking to connect, this event is for you.\n\nWe're looking forward to bringing our two communities together for a relaxed evening of networking and sharing knowledge and experiences.\n\nWhether you're a regular attendee of either organisation or joining us for the first time, you'll be warmly welcomed.\n\nAnd yes… food will be provided! 🎉\n\n**Please RSVP by 4th of August** (for catering purposes - we kindly ask you update your registration so we can accurately notify the venue and order appropriate amount of food)",
+    "status": "ACTIVE",
+    "dateTime": "2026-08-12T18:00:00+10:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-melbourne/events/315756564/",
+    "featuredEventPhoto": {
+      "id": "535286693",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/8/4/5/highres_535286693.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/8/4/5/600_535286693.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/8/4/5/thumb_535286693.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "27972357",
+        "name": "Hotel Nacional",
+        "address": "23-25 Hardware Lane",
+        "city": "Melbourne CBD",
+        "state": "",
+        "country": "au",
+        "lat": -37.8141,
+        "lon": 144.9613,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies+ Melbourne",
+      "urlname": "rladies-melbourne"
+    },
+    "createdTime": "2026-07-20T00:41:18-04:00"
+  },
+  {
     "id": "315411350",
     "title": "ChatGPT in RStudio with gptstudio: Better than GitHub Copilot? (w R-LadiesUrmia)",
     "description": "**Supercharging Your R Workflow with a Native AI Assistant**\n\nIt’s no surprise that large language models like ChatGPT are helpful for coding. What makes gptstudio stand out is how it brings that help directly into RStudio through a clean, user-friendly add-in.\n\ngptstudio is an R package that integrates ChatGPT into RStudio, allowing you to generate code, explain functions, and write documentation using natural language, all without leaving your IDE. It supports various OpenAI models and offers an add-in panel that works like a built-in assistant. This tool is especially useful when you're experimenting, writing boilerplate code, or just need quick answers while staying in your flow.\nAdvantages of using the gptstudio package:\n\n✔️ Seamless integration into RStudio via an add-in panel\n✔️ Helps generate and explain R code using plain language prompts\n✔️ Supports multiple OpenAI models, including GPT-3.5 and GPT-4\n\n✔️ Useful for both beginners and experienced users looking to speed up their workflow\n\nThis event is co-hosted with R-Ladies Urmia. To find out more about their events, see their Meetup page [here](https://www.meetup.com/rladies-urmia/).",
@@ -95,9 +135,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/6/b/4/thumb_535186772.jpeg"
     },
     "rsvps": {
-      "yesCount": 34,
+      "yesCount": 35,
       "waitlistCount": 0,
-      "totalCount": 34
+      "totalCount": 35
     },
     "venues": [
       {
