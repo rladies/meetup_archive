@@ -40,6 +40,46 @@
     "createdTime": "2026-06-30T19:30:58-04:00"
   },
   {
+    "id": "315798255",
+    "title": "PyLadies × R-Ladies Vancouver Lightning Talks",
+    "description": "​**PyLadies Vancouver** and **R-Ladies Vancouver** are teaming up for a night of lightning talks: short talks from speakers in both communities. Come for a fast, friendly mix of Python and R, ideas, tools, and stories, all in bite-sized form.\n\nPlease sign up on Luma so we know to expect you: https://luma.com/3gsm7kqq\n\n## ​📢 We're looking for speakers!\n\n​We're looking for short presentations, **5 to 15 minutes long**, from speakers in either community, PyLadies or R-Ladies.\n​• **Beginners especially encouraged.** A lightning talk is a great first talk, and great practice before a conference.\n​• **Never done public speaking?** We'd love to debut you and help launch your speaking journey.\n​• **Yes, you can reuse a talk you've given elsewhere.** New members may not have heard it.\n​• **Python or R**, plus adjacent technology topics. When we polled our last meetup, people asked for: AI/ML and LLMs, web development, data science,Python internals, testing and tooling, and live coding.\n​• **Not sure your topic is interesting enough?** Let us be the judge, sign up with your idea.\n​New to the format? [Our lightning guide](https://vancouver.pyladies.com/lightning-talks/?utm_source=luma) covers what a lightning talk is, how to prepare, topic ideas, example talks to watch, and common questions.\n​[Sign up](https://sessionize.com/pyladies-vancouver-meetup/?utm_source=luma) to give a lightning talk.\n\n​**Free to attend.** We're run entirely by volunteers, so donations are always appreciated and help keep our meetups free and welcoming: [https://psfmember.org/civicrm/contribute/transact/?reset=1&id=60](https://psfmember.org/civicrm/contribute/transact/?reset=1&id=60&utm_source=luma)\n​\n**Everyone is welcome.** This is a joint event with R-Ladies Vancouver.\n​PyLadies events follow the [PyLadies Code of Conduct](https://www.pyladies.com/CodeOfConduct/?utm_source=luma).\n​If it's your first R-Ladies event, please review the[ R-Ladies Global Code of Conduct](https://www.pyladies.com/CodeOfConduct/?utm_source=luma).\n​Both communities share a focus on supporting women and gender-diverse people in ourfield.",
+    "status": "ACTIVE",
+    "dateTime": "2026-08-19T18:00:00-07:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-vancouver/events/315798255/",
+    "featuredEventPhoto": {
+      "id": "535324102",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/0/0/6/highres_535324102.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/0/0/6/600_535324102.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/0/0/6/thumb_535324102.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "28283285",
+        "name": "See Luma page",
+        "address": "11111",
+        "city": "Vancouver",
+        "state": "BC",
+        "country": "ca",
+        "lat": 49.2827,
+        "lon": -123.1207,
+        "postalCode": "V5K 0A1",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Vancouver",
+      "urlname": "rladies-vancouver"
+    },
+    "createdTime": "2026-07-22T21:27:40-04:00"
+  },
+  {
     "id": "315756564",
     "title": "R-Ladies+ Melbourne & Statistical Society of Australia (SSA) Networking Event",
     "description": "R-Ladies+ Melbourne and the Statistical Society of Australia (SSA) Victoria are excited to bring our communities together for an evening of networking and connection.\n\n**Event details**\n📅 Wednesday 12th of August 2026\n🕕 6:00pm\n📍 Hotel Nacional, Level 3 Rooftop (it is undercover with heaters)\n23-25 Hardware Lane, Melbourne, 3000\n\nIf you use R for programming, data analysis, visualisation, statistics, or you're a statistician looking to connect, this event is for you.\n\nWe're looking forward to bringing our two communities together for a relaxed evening of networking and sharing knowledge and experiences.\n\nWhether you're a regular attendee of either organisation or joining us for the first time, you'll be warmly welcomed.\n\nAnd yes… food will be provided! 🎉\n\n**Please RSVP by 4th of August** (for catering purposes - we kindly ask you update your registration so we can accurately notify the venue and order appropriate amount of food)",
@@ -55,9 +95,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/8/4/5/thumb_535286693.jpeg"
     },
     "rsvps": {
-      "yesCount": 5,
+      "yesCount": 6,
       "waitlistCount": 0,
-      "totalCount": 5
+      "totalCount": 6
     },
     "venues": [
       {
@@ -78,6 +118,40 @@
       "urlname": "rladies-melbourne"
     },
     "createdTime": "2026-07-20T00:41:18-04:00"
+  },
+  {
+    "id": "315797911",
+    "title": "RLadies+ Albany Kick-Off Meeting",
+    "description": "Albany, NY now has its own RLadies+ chapter!\n\nPlease join us for the Albany Chapter's Kick-Off Meeting on August 6, 2026 at 6 pm in the Community Room at the Albany Public Library Bach Branch on New Scotland Ave. Meet fellow R users of all levels and help determine the direction of this new RLadies+ chapter. You can learn more about RLadies+ at https://rladies.org/.",
+    "status": "ACTIVE",
+    "dateTime": "2026-08-06T18:00:00-04:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-albany-ny/events/315797911/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 1,
+      "waitlistCount": 0,
+      "totalCount": 1
+    },
+    "venues": [
+      {
+        "id": "25519844",
+        "name": "Albany Public Library - Bach Branch",
+        "address": "455 New Scotland Avenue",
+        "city": "Albany",
+        "state": "NY",
+        "country": "US",
+        "lat": 42.655,
+        "lon": -73.7961,
+        "postalCode": "12208",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "RLadies+ Albany",
+      "urlname": "rladies-albany-ny"
+    },
+    "createdTime": "2026-07-22T20:59:26-04:00"
   },
   {
     "id": "315411350",
@@ -135,9 +209,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/6/b/4/thumb_535186772.jpeg"
     },
     "rsvps": {
-      "yesCount": 43,
+      "yesCount": 48,
       "waitlistCount": 0,
-      "totalCount": 43
+      "totalCount": 48
     },
     "venues": [
       {
