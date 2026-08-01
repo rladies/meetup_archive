@@ -1,0 +1,1201 @@
+[
+  {
+    "id": "266291166",
+    "title": "Introducción a tidyverse y ggplot",
+    "description": "En esta ocasión tenemos dos micro talleres super interesantes: Karen nos introducirá al análisis de datos en R con apoyo de Tidyverse. Y Eli nos mostrará todas las oportunidades que hay al utilizar ggplot para visualizar datos y Mike estará apoyando el desarrollo de los talleres. Recuerda traer tu laptop y aunque no es necesario saber R es conveniente instalar R (https://cran.r-project.org), RStudio (https://www.rstudio.com/products/rstudio/download/). ¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2019-11-21T17:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-queretaro/events/266291166/",
+    "featuredEventPhoto": {
+      "id": "486455324",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/9/f/c/highres_486455324.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/9/f/c/600_486455324.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/9/f/c/thumb_486455324.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 19,
+      "waitlistCount": 0,
+      "totalCount": 19
+    },
+    "venues": [
+      {
+        "id": "26721788",
+        "name": "ENES Juriquilla",
+        "address": "Campus UNAM 3001",
+        "city": "Juriquilla",
+        "state": "Qr",
+        "country": "mx",
+        "lat": 20.7056,
+        "lon": -100.4476,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Queretaro",
+      "urlname": "rladies-queretaro"
+    },
+    "createdTime": "2019-11-07T12:17:01-05:00"
+  },
+  {
+    "id": "264567433",
+    "title": "Micro taller de Git, Github y RStudio",
+    "description": "En esta tercer reunión tenemos como objetivo explorar y aprender lo básico de Git, Gtihub y Rstudio de la mano de Edgar @nekrum, Maribel, Marisol @emmsol y Joana @joanux810.\nUnete con tu laptop y aunque no es necesario saber R es conveniente instalar R (https://cran.r-project.org), RStudio (https://www.rstudio.com/products/rstudio/download/) y Git (https://git-scm.com/book/es/v1/Empezando-Instalando-Git) antes del taller.\nTe esperamos para aprender juntxs :)",
+    "status": "PAST",
+    "dateTime": "2019-09-20T17:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-queretaro/events/264567433/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 19,
+      "waitlistCount": 0,
+      "totalCount": 19
+    },
+    "venues": [
+      {
+        "id": "26610767",
+        "name": "Faculty of Psychology UAQ",
+        "address": "Cerro de las Campanas",
+        "city": "Santiago de Querétaro",
+        "state": "Qr",
+        "country": "mx",
+        "lat": 20.5914,
+        "lon": -100.409,
+        "postalCode": "76010",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Queretaro",
+      "urlname": "rladies-queretaro"
+    },
+    "createdTime": "2019-09-04T19:19:57-04:00"
+  },
+  {
+    "id": "262610318",
+    "title": "Taller de introducción a R",
+    "description": "Nuestra segunda reunión de RLadies Qro consistirá en un taller de R para principiantes impartido por Joana Ramirez (Software Engineer y Padawan de Scrum Master con 6 años de experiencia, entusiasta de la tecnología y programación), la encuentras en twitter como @joanux810\nUnete con tu laptop y aunque no es necesario saber R es conveniente instalar R (https://cran.r-project.org) y RStudio (https://www.rstudio.com/products/rstudio/download/) antes del taller. Ambos son gratis y este es tu primer paso para aprender R!.\nEn esta ocasión Grupo Cantares patrocina el coffee break y posiblemente tendremos pizza :)",
+    "status": "PAST",
+    "dateTime": "2019-07-26T17:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-queretaro/events/262610318/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 22,
+      "waitlistCount": 0,
+      "totalCount": 22
+    },
+    "venues": [
+      {
+        "id": "26477749",
+        "name": "UNAM Institute of Neurobiology",
+        "address": "Campus UNAM 3001",
+        "city": "Juriquilla",
+        "state": "Qr",
+        "country": "mx",
+        "lat": 20.7005,
+        "lon": -100.4455,
+        "postalCode": "76230",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Queretaro",
+      "urlname": "rladies-queretaro"
+    },
+    "createdTime": "2019-06-25T10:29:36-04:00"
+  },
+  {
+    "id": "260516422",
+    "title": "Primer Encuentro R-Ladies Querétaro!!!! :) ",
+    "description": "¿Conoces R? ¿Lo has utilizado o tienes ganas de aprender a usarlo? Únete a la primer reunión de RLadies Querétaro, charlaremos sobre temas generales, las aplicaciones de R en diferentes ámbitos.\n\nEl objetivo principal es formar una comunidad de apoyo para aprender a programar y a compartir conocimientos en R en un ambiente tranquilo y amigable.\n\n¿Qué haremos en esta reunión?\n\n--> Bienvenida por parte de Ana Villaseñor (del International Laboratory for Human Genome Research de la UNAM; @AnaBetty2304 en Twitter), Azalea Reyes (del Laboratorio de Neurocognición Social de la UNAM; @azaleareyaguila en twitter) y Driselda Sánchez (Facultad de Contaduría y Administración de la UAQ; @DrisPaty en Twitter)\n\n---> Introducción general acerca de RLadies Global\n\n---> Presentaciones individuales y brainstorming para próximas reuniones.\n\n---> Networking. Estamos en búsqueda de patrocinadores para hacer networking con bocadillos, pizzas o lo que sea durante la reunión, así que si sabes de alguien que pueda apoyar a la causa por favor ¡contáctanos (a cualquiera de las co-organizadoras del evento)!",
+    "status": "PAST",
+    "dateTime": "2019-05-24T17:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-queretaro/events/260516422/",
+    "featuredEventPhoto": {
+      "id": "480524940",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/f/8/c/highres_480524940.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/f/8/c/600_480524940.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/f/8/c/thumb_480524940.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 20,
+      "waitlistCount": 0,
+      "totalCount": 20
+    },
+    "venues": [
+      {
+        "id": "26322012",
+        "name": "Facultad de Contaduría y Administración UAQ",
+        "address": "Hidalgo s/n",
+        "city": "Santiago de Querétaro",
+        "state": "Qr",
+        "country": "mx",
+        "lat": 20.5897,
+        "lon": -100.41,
+        "postalCode": "76010",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Queretaro",
+      "urlname": "rladies-queretaro"
+    },
+    "createdTime": "2019-04-10T16:15:51-04:00"
+  },
+  {
+    "id": "274854493",
+    "title": "Experimento conductual y optogenética: Análisis estadístico básico en R",
+    "description": "En este taller revisaremos estadística en R de datos obtenidos de experimentos con la Dra. Sofia González Salinas.\n\nSofia González Salinas es investigadora postdoctoral en la Universidad de Rutgers en Nueva Jersey y estudia las bases neurobiológicas de la conducta materna y de los desórdenes del ánimo. Realizó sus estudios de licenciatura y doctorado en la UNAM. Utiliza R para analizar diversos tipos de datos tales como medidas conductuales en roedores, análisis de la expresión génica mediante qPCR, baterías psicológicas y potenciales relacionados con eventos.\n\nSofia.- En este taller los llevaré de la mano para conocer el diseño experimental y el análisis de datos empleando R de un estudio de conducta materna donde empleo la técnica de optogenética.\n\nTe esperamos para seguir aprendiendo juntxs!!!",
+    "status": "PAST",
+    "dateTime": "2020-12-10T17:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-queretaro/events/274854493/",
+    "featuredEventPhoto": {
+      "id": "493714224",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/5/b/0/highres_493714224.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/5/b/0/600_493714224.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/5/b/0/thumb_493714224.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 50,
+      "waitlistCount": 0,
+      "totalCount": 50
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Queretaro",
+      "urlname": "rladies-queretaro"
+    },
+    "createdTime": "2020-11-27T19:53:21-05:00"
+  },
+  {
+    "id": "274516240",
+    "title": "Análisis estadísticos de experimentos: diseños factoriales",
+    "description": "En está ocasión tendremos a Patricia E. García como invitada de Argentína para darnos el taller de \"Análisis estadísticos de experimentos: diseños factoriales\".\n\nNo faltes! Te esperamos",
+    "status": "PAST",
+    "dateTime": "2020-11-28T11:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-queretaro/events/274516240/",
+    "featuredEventPhoto": {
+      "id": "493484308",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/d/1/4/highres_493484308.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/d/1/4/600_493484308.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/d/1/4/thumb_493484308.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 55,
+      "waitlistCount": 0,
+      "totalCount": 55
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Queretaro",
+      "urlname": "rladies-queretaro"
+    },
+    "createdTime": "2020-11-10T15:20:42-05:00"
+  },
+  {
+    "id": "273508288",
+    "title": "Aplicaciones web interactivas con Shiny",
+    "description": "Taller a cargo de Florencia D'Andrea, Juan Cruz Rodríguez y Vilma Romero\n\nFecha\n\nMartes 29/09 | 18:00 a 20:00 UTC-3 | 16:00 a 18:00 (MEX)\n\nSobre el taller\n\n¿Quieres generar una página web interactiva a partir de tu código de R? Con el paquete Shiny, resulta sencillo tomar tu trabajo en R y exponerlo a través de un navegador web para que cualquiera pueda usarlo.En este taller inicial desarrollaremos una Shiny app de principio a fin. Te acompañaremos para que puedas generar la interfaz de usuario y el código del servidor. Brindaremos a la par algunas prácticas y tips al momento de su construcción así como recomendaciones de paquetes que pueden mejorar sustancialmente la app.Para finalizar te mostraremos formas gratuitas en las que podrás compartir la misma.\n\nMás información sobre LatinR:\nhttps://latin-r.com/\nhttps://github.com/LatinR/talleres-2020/blob/master/README.md",
+    "status": "PAST",
+    "dateTime": "2020-09-29T16:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-queretaro/events/273508288/",
+    "featuredEventPhoto": {
+      "id": "492523279",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/9/0/f/highres_492523279.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/9/0/f/600_492523279.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/9/0/f/thumb_492523279.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 27,
+      "waitlistCount": 18,
+      "totalCount": 27
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Queretaro",
+      "urlname": "rladies-queretaro"
+    },
+    "createdTime": "2020-09-25T13:49:09-04:00"
+  },
+  {
+    "id": "272986368",
+    "title": "RLadies México",
+    "description": "R-Ladies Global es una organización mundial cuya principal misión es promover la diversidad de género en la comunidad del lenguaje de programación R. A mediados de 2017 el primer capítulo de R-Ladies en México se integró a la creciente lista de capítulos de R-Ladies alrededor del mundo. Tres años después, 8 capítulos más se han formado y ahora somos casi 3,000 participantes.\n\nEste año, deseamos unir fuerzas y estrechar lazos reuniendo a las y los miembros de R-Ladies de todo el país en el Primer Encuentro Anual R-Ladies México.\n\nEste jueves 24 de septiembre a las 5:00 pm (Centro de México) te esperamos para crecer y fortalecer la comunidad.\n\nEstaremos transmitiendo por YouTubeLive también!!!\nhttps://www.youtube.com/channel/UCrG34lup96IfDweTSDkPHDA\n\nPrograma\n\n17:00-17:05\nBienvenida\n\n17:05-17:15\nPresentación de la organización R-Ladies\n\n17:15-17:45\nConferencia 1: Estadísticas e historia de los capítulos en México\n\n17:45-18:45\nPanel de discusión: Retos y Perspectivas\n\n18:45-19:00\nCoffee break y networking\n\n19:00-19:30\nSesión de pláticas cortas: Aplicaciones de R\n\n19:30-19:55\nConferencia 2: Cómo crear un nuevo capítulo.\n\n19:55-20:00\nCierre\n\nEste evento se llevará a cabo mediante Zoom, el link para conectarse al evento será enviado por correo electrónico a los asistentes registrados 60 minutos antes de iniciar. Por seguridad de todos, no compartas el link con personas no registradas en el evento.\n\nLes pedimos conectarse 15 minutos antes de la hora de inicio para corroborar su inscripción.\n\nRecuerda leer y atender el código de conducta disponible en https://rladies.org/code-of-conduct/",
+    "status": "PAST",
+    "dateTime": "2020-09-24T17:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-queretaro/events/272986368/",
+    "featuredEventPhoto": {
+      "id": "492133556",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/4/f/4/highres_492133556.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/4/f/4/600_492133556.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/4/f/4/thumb_492133556.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 24,
+      "waitlistCount": 19,
+      "totalCount": 24
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Queretaro",
+      "urlname": "rladies-queretaro"
+    },
+    "createdTime": "2020-09-02T14:12:36-04:00"
+  },
+  {
+    "id": "272298491",
+    "title": "Blogdown: Crear blogs y sitios web estáticos con R Markdown",
+    "description": "En esta ocasión Aurore, una chica de RLadies Amsterdam impartirá un taller sobre crear páginas webs y blogs desde RMarkdown.Para este taller es necesario que tengas una cuenta GitHub y el paquete Blogdown descargado.",
+    "status": "PAST",
+    "dateTime": "2020-08-15T11:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-queretaro/events/272298491/",
+    "featuredEventPhoto": {
+      "id": "491599691",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/c/e/b/highres_491599691.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/c/e/b/600_491599691.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/c/e/b/thumb_491599691.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 39,
+      "waitlistCount": 0,
+      "totalCount": 39
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Queretaro",
+      "urlname": "rladies-queretaro"
+    },
+    "createdTime": "2020-08-01T13:43:27-04:00"
+  },
+  {
+    "id": "272050787",
+    "title": "Conversatorio sobre violencia familiar",
+    "description": "Realizaremos un conversatorio donde analizaremos la situación actual de Colombia, México y España referente a los casos de violencia familiar durante la cuarentena debido al COVID-19. Presentaremos un dashboard elaborado con el software estadístico RStudio y contaremos con la presencia de expertos en la temática como la politóloga Yazmin Salgado y los psicólogos Isaura y Fabián.",
+    "status": "PAST",
+    "dateTime": "2020-08-01T09:30:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-queretaro/events/272050787/",
+    "featuredEventPhoto": {
+      "id": "491427281",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/a/9/1/highres_491427281.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/a/9/1/600_491427281.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/a/9/1/thumb_491427281.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 26,
+      "waitlistCount": 0,
+      "totalCount": 26
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Queretaro",
+      "urlname": "rladies-queretaro"
+    },
+    "createdTime": "2020-07-20T18:11:37-04:00"
+  },
+  {
+    "id": "271971863",
+    "title": "Analizando políticas públicas con datos ",
+    "description": "En esta ocasión Laura Herrera, asociada de México Evalúa e investigadora de la iniciativa de Educación con Equidad y Calidad , nos mostrará aplicaciones en gganimate y mapas cuya interpretación contribuye al desarrollo y mejora de políticas públicas sobre educación en México.\nPara el desarrollo del taller te pedimos que instales los paquetes sf, ggplot y gganimate",
+    "status": "PAST",
+    "dateTime": "2020-07-31T17:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-queretaro/events/271971863/",
+    "featuredEventPhoto": {
+      "id": "491358094",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/6/a/e/highres_491358094.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/6/a/e/600_491358094.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/6/a/e/thumb_491358094.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 65,
+      "waitlistCount": 0,
+      "totalCount": 65
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Queretaro",
+      "urlname": "rladies-queretaro"
+    },
+    "createdTime": "2020-07-16T18:43:38-04:00"
+  },
+  {
+    "id": "268828191",
+    "title": "R-Ladies_Qro<-retos(dataset,by=mujeres)",
+    "description": "Únete a una reunión de retos y trabajo en equipo.\nEl objetivo de esta sesión es que todas participemos, juntas analizaremos dos bases de datos utilizando RStudio y sus múltiples paquetes.\nNo te preocupes por tu nivel de experiencia, compartiremos conocimientos entre todas y formaremos equipos equilibrados, sólo recuerda traer tu laptop con R y RStudio previamente instalado.\nTambién puedes traer algo de alimentos o bebidas no alcohólicas para compartir y hacer más amena la reunión",
+    "status": "PAST",
+    "dateTime": "2020-02-27T17:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-queretaro/events/268828191/",
+    "featuredEventPhoto": {
+      "id": "489149254",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/2/4/6/highres_489149254.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/2/4/6/600_489149254.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/2/4/6/thumb_489149254.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 14,
+      "waitlistCount": 0,
+      "totalCount": 14
+    },
+    "venues": [
+      {
+        "id": "26721788",
+        "name": "ENES Juriquilla",
+        "address": "Campus UNAM 3001",
+        "city": "Juriquilla",
+        "state": "Qr",
+        "country": "mx",
+        "lat": 20.7051,
+        "lon": -100.4483,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Queretaro",
+      "urlname": "rladies-queretaro"
+    },
+    "createdTime": "2020-02-19T10:51:47-05:00"
+  },
+  {
+    "id": "280931313",
+    "title": "Programadoras Mexicanas: Segundo Encuentro Anual R-Ladies México",
+    "description": "A mediados de 2017 fue el primer encuentro de R-LadiesCDMX, el primer capítulo local en México de la organización mundial que busca cerrar la brecha de género en el lenguaje de programación de R.\nSólo cuatro años después somos más de 7,000 integrantes en 12 ciudades a lo largo de todo el país.\nCreemos que la diversidad de género es muy importante en la comunidad de R y es por eso que por segundo año consecutivo volvemos a unir fuerzas y estrechamos lazos, reuniendo a las/los/les integrantes de R-Ladies en México en nuestro Segundo Encuentro Anual.\n\nEl objetivo de este año se enfoca en la visibilización de mujeres programadoras. A través de una sesión intensiva, esperamos mostrar y aplaudir el trabajo de diversas mujeres en R como desarrolladoras de paquetes dentro de la comunidad.\n\nSin embargo, también sabemos que estamos en crecimiento y el nivel de los usos de R varían. Por esto, estamos diseñando un programa en el que puedan participar aquellas personas que se integran de manera reciente al mundo de R. De esta manera, se podrá generar una comunidad R en México más diversa, donde se busca dar voz a aquellas personas con falta de representación y el apoyo colaborativo persista como la regla más que la excepción.\n\nObjetivos\n\n- Compartir experiencias y retos enfrentados.\n- Escuchar la experiencia de mujeres en el desarrollo de paquetes de R.\n- Empoderar a más mujeres para crear nuevos capítulos.\n- Unir fuerzas para generar conferencias y talleres conjuntos que hagan crecer aún más la comunidad de usuarias y usuarios de R.\n\nPrograma\n\n5:00-5:10 pm: ¿Quiénes somos? R-Ladies México\n5:10-6:10 pm: Talleres:\nVisualización de Datos en R\nDesarrollo de Paquetes en R\n6:10-6:20: Toma de Foto y Break\n6:20-7:05: Tallerista principal\n7:05-7:50: Tallerista principal\n7:50-8:10 pm: ¿Cómo abrir un capítulo de R en mi ciudad?\n8:10-8:40: Evento Social & Trivia",
+    "status": "PAST",
+    "dateTime": "2021-09-24T17:00:00-05:00",
+    "duration": "PT4H",
+    "eventUrl": "https://www.meetup.com/rladies-queretaro/events/280931313/",
+    "featuredEventPhoto": {
+      "id": "498982146",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/6/8/2/highres_498982146.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/6/8/2/600_498982146.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/6/8/2/thumb_498982146.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 48,
+      "waitlistCount": 0,
+      "totalCount": 48
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Queretaro",
+      "urlname": "rladies-queretaro"
+    },
+    "createdTime": "2021-09-21T21:51:18-04:00"
+  },
+  {
+    "id": "278748917",
+    "title": "Tableros en Shiny",
+    "description": "Aprendamos juntas sobre Shiny.\nEn esta ocasión Aliza nos guiará en la realización de tableros shiny y nos compartirá la utilidad de ellos para analizar datos que influyen en la toma de decisiones\n¡No te lo puedes perder!",
+    "status": "PAST",
+    "dateTime": "2021-06-19T10:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-queretaro/events/278748917/",
+    "featuredEventPhoto": {
+      "id": "496831462",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/a/e/6/highres_496831462.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/a/e/6/600_496831462.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/a/e/6/thumb_496831462.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 57,
+      "waitlistCount": 0,
+      "totalCount": 57
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Queretaro",
+      "urlname": "rladies-queretaro"
+    },
+    "createdTime": "2021-06-10T12:00:00-04:00"
+  },
+  {
+    "id": "276714809",
+    "title": "Aprende ggplot2",
+    "description": "¡Rladies Querétaro te invita a aprender ggplot2!\n\nCon la participación de Judith Pérez Granado quien es estudiante de doctorado en el programa de Research Programme on Biomedical Informatics (GRIB) del Hospital del Mar Medical Research Institute (IMIM) (http://www.imim.es/) and the Department of Experimental and Health Sciences of the Universitat Pompeu Fabra (UPF) (http://www.upf.edu/).",
+    "status": "PAST",
+    "dateTime": "2021-03-10T18:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-queretaro/events/276714809/",
+    "featuredEventPhoto": {
+      "id": "495096410",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/e/3/a/highres_495096410.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/e/3/a/600_495096410.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/e/3/a/thumb_495096410.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 71,
+      "waitlistCount": 0,
+      "totalCount": 71
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Queretaro",
+      "urlname": "rladies-queretaro"
+    },
+    "createdTime": "2021-03-03T12:47:21-05:00"
+  },
+  {
+    "id": "276391951",
+    "title": "Club de lectura",
+    "description": "¡Primer club de lectura de RLadies Mx!\n\nNos entusiasma mucho crear este espacio de lectura, ¡esperamos verles!\n\nEl libro que leeremos será Advanced R de Hadley Wickham (https://adv-r.hadley.nz).\n\nEste libro es ideal si te interesa saber porqué R funciona de la manera que funciona.\n\nEn cada sesión haremos énfasis en los puntos importantes del capítulo en turno, resolveremos algunos ejercicios de este, y entre todxs aclararemos dudas.\n\nLas sesiones serán cada dos semanas, Jueves a las 6:30pm hora central de México.\n\nEn la siguiente sesión, el 25 de febrero, revisaremos el capítulo de vectores con Ana Betty!",
+    "status": "PAST",
+    "dateTime": "2021-02-25T18:30:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-queretaro/events/276391951/",
+    "featuredEventPhoto": {
+      "id": "494774712",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/9/7/8/highres_494774712.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/9/7/8/600_494774712.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/9/7/8/thumb_494774712.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 39,
+      "waitlistCount": 0,
+      "totalCount": 39
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Queretaro",
+      "urlname": "rladies-queretaro"
+    },
+    "createdTime": "2021-02-15T20:33:05-05:00"
+  },
+  {
+    "id": "288567966",
+    "title": "Tercer Encuentro Anual de R-Ladies México",
+    "description": "R-Ladies es una organización mundial que busca cerrar la brecha de género en el lenguaje de programación de R. En el 2012 se abrió el primer capítulo de R-Ladies en San Francisco.\n\nEn el 2017 se abrió el primer capítulo de R-Ladies en México, R-LadiesCDMX. Cinco años después somos más 11 capítulos a lo largo de todo el país.\n\nCreemos que la diversidad de género es muy importante en la comunidad de R, por eso hace tres años se realizó el primer encuentro nacional donde se reunieron los capítulos de R-Ladies en México. Por tercer año consecutivo volvemos a unir fuerzas y estrechar lazos, reuniendo a l@s integrantes de R-Ladies México en nuestro Tercer Encuentro Anual. En esta ocasión tenemos el gusto de informar que el evento será híbrido.\n\nEn la primera parte del evento, cada capítulo se reunirá independientemente. **L@s RLadies Querétaro nos reuniremos de manera presencial en el Aula V-301 la ENES Juriquilla, en Querétaro**. En esta ocasión tendremos de invitada a Mónica Padilla, quien es estudiante de licenciatura de Ciencias Genónomicas y nos impartirá el interesante taller titulado: **“Haz tu CV automatizado en Rmarkdown”**.\n\nRecuerda **traer** tu **equipo de cómputo con RStudio** previamente **instalado** [https://www.rstudio.com/products/rstudio/download/](https://www.rstudio.com/products/rstudio/download/)\n\nTendremos café, galletas y algunas sorpresas\n\nAl concluir el taller, en la segunda parte del evento nos conectaremos con l@s R-Ladies de los capítulos de México y veremos la transformación de RStudio, tendremos una sesión de networking y muchos otros temas.\n\n¡L@s esperamos!",
+    "status": "PAST",
+    "dateTime": "2022-09-24T11:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-queretaro/events/288567966/",
+    "featuredEventPhoto": {
+      "id": "507214626",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/7/4/2/highres_507214626.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/7/4/2/600_507214626.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/7/4/2/thumb_507214626.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 61,
+      "waitlistCount": 0,
+      "totalCount": 61
+    },
+    "venues": [
+      {
+        "id": "26721788",
+        "name": "ENES Juriquilla",
+        "address": "Campus UNAM 3001",
+        "city": "Juriquilla",
+        "state": "Qr",
+        "country": "mx",
+        "lat": 20.7051,
+        "lon": -100.4483,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Queretaro",
+      "urlname": "rladies-queretaro"
+    },
+    "createdTime": "2022-09-18T15:50:15-04:00"
+  },
+  {
+    "id": "286242443",
+    "title": "Primeros pasos en R",
+    "description": "**Descripción**\nEn esta sesión iniciaremos en el mundo de R, si estás buscando empezar con R éste taller es para ti.\n\n**Sobre las ponentes**\nDaniela, Fernanda e Ilse son estudiantes de licenciatura en la ENES Juriquilla con amplia experiendia en R y RStudio.\n\n**Requerimientos de software**\n\n* R >=4.0 y RStudio en su versión más actual",
+    "status": "PAST",
+    "dateTime": "2022-06-03T17:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-queretaro/events/286242443/",
+    "featuredEventPhoto": {
+      "id": "504462640",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/6/9/0/highres_504462640.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/6/9/0/600_504462640.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/6/9/0/thumb_504462640.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 50,
+      "waitlistCount": 0,
+      "totalCount": 50
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Queretaro",
+      "urlname": "rladies-queretaro"
+    },
+    "createdTime": "2022-05-30T12:16:36-04:00"
+  },
+  {
+    "id": "283553679",
+    "title": "Mapas por desagregaciones geográficas de México",
+    "description": "Te gustaría aprender a realizar gráficos de mapas por desagregaciones geográficas de México?\n\nEste taller es para ti!\n\nEn esta ocasión Diana Villasana impartirá este interesante taller. Diana es actuaria con especialidad en estadística. Trabaja ampliamente con temas de migración interna, desplazamientos internos y movilidad de la población, que sirven para la planeación demográfica de México.\n\nTe esperamos el viernes 25 de Febrero a las 6:00.",
+    "status": "PAST",
+    "dateTime": "2022-02-25T18:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-queretaro/events/283553679/",
+    "featuredEventPhoto": {
+      "id": "501651939",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/a/e/3/highres_501651939.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/a/e/3/600_501651939.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/a/e/3/thumb_501651939.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 70,
+      "waitlistCount": 0,
+      "totalCount": 70
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Queretaro",
+      "urlname": "rladies-queretaro"
+    },
+    "createdTime": "2022-01-28T13:32:24-05:00"
+  },
+  {
+    "id": "296063829",
+    "title": "4to. Encuentro Anual de R-Ladies México 🇲🇽",
+    "description": "## Detalles\n\nPor cuarto año consecutivo llevaremos a cabo nuestra reunión Anual de RLadies México, gran evento que reúne a todos los capítulos en México.\n\n**Programa**\n10:00 am Bienvenida\n10:15 am Sesión Plenaria\n**Ponente:** Yanina Bellini\n**Tema:** ROpenSci.\n11:15 am. Los capítulos de RLadies en Mexico\n12:00 am Platicas cortas:\n\n* **Uso de las Shiny apps para el desarrollo de plataformas.**\n* **Gráficación para el análisis de Datos**\n* **Haciendo presentaciones con R. (Xaringan)**\n\n12:45 Socialización, Networking, rifas\n\n¡Acompañanos este 23 de septiembre!",
+    "status": "PAST",
+    "dateTime": "2023-09-23T10:00:00-06:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-queretaro/events/296063829/",
+    "featuredEventPhoto": {
+      "id": "515830879",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/a/7/f/highres_515830879.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/a/7/f/600_515830879.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/a/7/f/thumb_515830879.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 16,
+      "waitlistCount": 0,
+      "totalCount": 16
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Queretaro",
+      "urlname": "rladies-queretaro"
+    },
+    "createdTime": "2023-09-12T16:28:45-04:00"
+  },
+  {
+    "id": "304693383",
+    "title": "Introducción a R y Rstudio",
+    "description": "¡Únete a R-Ladies Querétaro en nuestro próximo evento donde nos centramos en la Introducción a R y Rstudio!\n\nEste taller proporcionará a las mujeres interesadas en iniciar en el mundo de la programación en R y conocernos en persona. Exploraremos juntas el emocionante mundo del lenguaje de programación de R y la bella comunidad de R-Ladies.\n\nEste evento estará liderado por profesionales y expertas en tecnología, garantizando un espacio acogedor y de aprendizaje inclusivo para mujeres.\n\n¡No te lo pierdas y únete a la comunidad de R-Ladies Querétaro para crecer juntas en el campo de la tecnología!",
+    "status": "PAST",
+    "dateTime": "2024-12-05T17:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-queretaro/events/304693383/",
+    "featuredEventPhoto": {
+      "id": "524824146",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/0/3/2/highres_524824146.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/0/3/2/600_524824146.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/0/3/2/thumb_524824146.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 11,
+      "waitlistCount": 0,
+      "totalCount": 11
+    },
+    "venues": [
+      {
+        "id": "25569688",
+        "name": "KROW",
+        "address": "Héroes de Nacozari 25-B, Centro Histórico",
+        "city": "Querétaro",
+        "state": "",
+        "country": "mx",
+        "lat": 20.6009,
+        "lon": -100.3968,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Queretaro",
+      "urlname": "rladies-queretaro"
+    },
+    "createdTime": "2024-11-21T15:12:08-05:00"
+  },
+  {
+    "id": "304128867",
+    "title": "Aprendamos a hacer mapas con R",
+    "description": "¡RLadies Querétaro llega a CDMX por primera vez! 🎉\nTe invitamos al taller presencial\n\\*\\*\"Aprendiendo a hacer mapas con R\"\\*\\*,\n\nuna excelente oportunidad para desarrollar habilidades en visualización de datos espaciales con el lenguaje R. Este evento gratuito cuenta con el apoyo de la Fundación Linux, a través de RConsortium y ¡tendremos bocadillos y café para todas las personas asistentes! 🍴✨\n📅 Fecha: Jueves 21 de noviembre 2024\n🕒 Hora: 15:00 - 19:00\n📍 Lugar: Aula 201 ENCiT (Al lado de Tienda UNAM)\n👩‍💻 Ponente: Dra. Aline Pingarroni, investigadora de la FES-Iztacala, UNAM, experta en sistemas socioecológicos.\n👥 Cupo limitado previo registro: mínimo 5, máximo 20 participantes.\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2024-11-21T15:00:00-06:00",
+    "duration": "PT4H",
+    "eventUrl": "https://www.meetup.com/rladies-queretaro/events/304128867/",
+    "featuredEventPhoto": {
+      "id": "524214905",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/6/7/9/highres_524214905.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/6/7/9/600_524214905.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/6/7/9/thumb_524214905.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 40,
+      "waitlistCount": 38,
+      "totalCount": 40
+    },
+    "venues": [
+      {
+        "id": "27909161",
+        "name": "Escuela Nacional de Ciencias de la Tierra ENCIT",
+        "address": "Circuito de la Investigación Científica. (Frente a Tienda UNAM)",
+        "city": "Mexico City",
+        "state": "",
+        "country": "mx",
+        "lat": 19.3236,
+        "lon": -99.1748,
+        "postalCode": "meetup1",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Queretaro",
+      "urlname": "rladies-queretaro"
+    },
+    "createdTime": "2024-10-21T12:20:01-04:00"
+  },
+  {
+    "id": "303453429",
+    "title": "5to Encuentro Anual de R-Ladies México",
+    "description": "## Detalles\n\n¡Acompáñanos al **5to Encuentro Anual de R-Ladies México**! 🎉💜\nEste **sábado 28 de septiembre** a las **11:00 A.M**. (hora CDMX), te invitamos a formar parte de una jornada llena de conocimiento y comunidad, donde exploraremos proyectos innovadores liderados por expertas en el uso de **R**. 👩‍💻👩‍🔬\n🚀 Tendremos 3 charlas imperdibles con ponentes de primer nivel, quienes compartirán sus avances en:\n\n1. **Investigación** de la enfermedad de Parkinson 🧬\n2. Análisis de las **pasadas elecciones democráticas en Méxic**o 🗳️\n3. Cómo y por qué crear tu **primer paquete en R** 📦\n\n**¡No te lo pierdas!**\nRegístrate y únete a esta comunidad diversa, tendremos espacios de networking. 💪✨\nEl link de Zoom se enviará días antes a quienes hayan realizado su registro",
+    "status": "PAST",
+    "dateTime": "2024-09-28T11:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-queretaro/events/303453429/",
+    "featuredEventPhoto": {
+      "id": "523528755",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/0/5/3/highres_523528755.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/0/5/3/600_523528755.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/0/5/3/thumb_523528755.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 8,
+      "waitlistCount": 0,
+      "totalCount": 8
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Queretaro",
+      "urlname": "rladies-queretaro"
+    },
+    "createdTime": "2024-09-15T16:56:16-04:00"
+  },
+  {
+    "id": "302005144",
+    "title": "Club de lectura Fundamentos de ciencia de datos con R.",
+    "description": "¡Nos emociona invitarles a nuestro club de lectura! 📚 Para esta edición, utilizaremos el libro **Fundamentos de Ciencia de Datos con R**, disponible en la siguiente [liga](https://cdr-book.github.io/index.html).\nEn la tercera sesión del club de lectura, Azalea Reyes, integrante del capítulo de R-Ladies Querétaro, nos hablará sobre los capítulos 3.6.3 - 4 del libro. Recuerda que al participar en nuestros eventos, aceptas nuestro código de conducta, el cual nos ayuda a crear un espacio amable y seguro para aprender.\n**📅Fecha:** 04 de julio de 2024\n**⏰Hora:** 17:00 - 19:00 (UTC-5, Ciudad de México)\nTe sugerimos tener a la mano tu computadora con R y RStudio instalados.\nEl link de zoom se encuentra publicado en este evento.\n¡Te invitamos a participar! ¡No te pierdas esta gran oportunidad!",
+    "status": "PAST",
+    "dateTime": "2024-07-04T17:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-queretaro/events/302005144/",
+    "featuredEventPhoto": {
+      "id": "522095616",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/b/2/0/highres_522095616.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/b/2/0/600_522095616.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/b/2/0/thumb_522095616.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 6,
+      "waitlistCount": 0,
+      "totalCount": 6
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Queretaro",
+      "urlname": "rladies-queretaro"
+    },
+    "createdTime": "2024-07-02T16:50:59-04:00"
+  },
+  {
+    "id": "301162753",
+    "title": "Hackaton 2024: R-Ladies Morelia y R-Ladies Querétaro",
+    "description": "## Detalles\n\n**Día 1**\n**Tema 1 : Funciones y programación defensiva**\nInstructora: Driselda Sanchez Aguirre\nHorario: 1:00 - 1:50\n\n* [Funciones](https://swcarpentry.github.io/r-novice-gapminder-es/10-functions.html)\n* Programación defensiva\n\n**Tema 2: Introducción al paquete data.table**\nInstructoras: Sofia Zorrilla y Maria Jose Palma Martinez\nHorario: 2:00 - 2:50\n\n* [Taller data.table](https://github.com/sofiazorrilla/Taller_data.table)\n\n**Tema 3: Manipulación de data frames con dplyr**\nInstructora: Mayra Fragoso\nHorario: 4:10 - 5:00\n\n* [Manipulación de data frames con dplyr](https://swcarpentry.github.io/r-novice-gapminder-es/13-dplyr.html)\n* [Guardando datos](https://swcarpentry.github.io/r-novice-gapminder-es/11-writing-data.html)\n* **Día 2 : 1ro de Junio**\n**Tema 1: Buenas prácticas en bioinformática**\nInstructora: Evelia Coss\nHorario: 10:00-10:50\n* [Escribiendo un buen software](https://swcarpentry.github.io/r-novice-gapminder-es/16-wrap-up.html)\n* [Writing Reproducible Manuscripts in R & Python](https://utrechtuniversity.github.io/workshop-reproducible-manuscripts/)\n* [Best Practices for Writing Reproducible Code](https://utrechtuniversity.github.io/workshop-computational-reproducibility/)\n\n**Tema 2: Creando informes con Rmarkdown**\nInstructura: Anahi Aguilera\nHorario: 11:00 - 11:50\n* [Produciendo informes con knitr](https://swcarpentry.github.io/r-novice-gapminder-es/15-knitr-markdown.html)\n\n**Tema 3: Crear tu CV en R**\nInstructora: Aline Pingarroni\nHorario: 11:00 - 11:50\n* [makeyourCV](https://github.com/EveliaCoss/Make_yourCV)\n\n**Tema 4:** **Crea tu pagina web en R**\nInstructora: Haydeé Peruyero\nHorario: 12:00 - 12:50\n* [RLadies-webpage](https://github.com/HaydeePeruyero/RLadies-webpage)\n\n**Modalidad híbrida**",
+    "status": "PAST",
+    "dateTime": "2024-06-01T13:00:00-06:00",
+    "duration": "PT26H",
+    "eventUrl": "https://www.meetup.com/rladies-queretaro/events/301162753/",
+    "featuredEventPhoto": {
+      "id": "521222450",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/9/2/highres_521222450.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/9/2/600_521222450.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/9/2/thumb_521222450.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 14,
+      "waitlistCount": 0,
+      "totalCount": 14
+    },
+    "venues": [
+      {
+        "id": "27304742",
+        "name": "Centro de Ciencias Matemáticas",
+        "address": "Antigua Carretera a Pátzcuaro # 8701",
+        "city": "Morelia",
+        "state": "Mi",
+        "country": "mx",
+        "lat": 19.6468,
+        "lon": -101.2285,
+        "postalCode": "58089",
+        "venueType": ""
+      },
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": 19.6468,
+        "lon": -101.2285,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Queretaro",
+      "urlname": "rladies-queretaro"
+    },
+    "createdTime": "2024-05-21T17:33:16-04:00"
+  },
+  {
+    "id": "301140270",
+    "title": "R en negocios. Introducción básica",
+    "description": "¿Sabías que R también es util en los negocios?\nEn este taller daremos una breve introducción a las aplicaciones de R en Investigación de mercados y en Finanzas.\nPara la primera parte nos basaremos en este libro\nhttps://r-marketing.r-forge.r-project.org/\nEn la segunda parte daremos tips de ahorros e inversiones.\n¡Te esperamos!!\nSi nos puedes acompañar presencial habrá café y galletas, si no te esperamos en Zoom.\n\nTopic: R en negocios. Introducción básica\nTime: May 30, 2024 12:00 PM Mexico City\nJoin Zoom Meeting\nhttps://cuaieed-unam.zoom.us/j/81413300840\nMeeting ID: 814 1330 0840",
+    "status": "PAST",
+    "dateTime": "2024-05-30T12:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-queretaro/events/301140270/",
+    "featuredEventPhoto": {
+      "id": "521197876",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/3/f/4/highres_521197876.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/3/f/4/600_521197876.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/3/f/4/thumb_521197876.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 18,
+      "waitlistCount": 0,
+      "totalCount": 18
+    },
+    "venues": [
+      {
+        "id": "26721788",
+        "name": "ENES Juriquilla",
+        "address": "Campus UNAM 3001",
+        "city": "Juriquilla",
+        "state": "Qr",
+        "country": "mx",
+        "lat": 20.7051,
+        "lon": -100.4484,
+        "postalCode": "",
+        "venueType": ""
+      },
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": 20.7051,
+        "lon": -100.4484,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Queretaro",
+      "urlname": "rladies-queretaro"
+    },
+    "createdTime": "2024-05-20T13:54:19-04:00"
+  },
+  {
+    "id": "300394464",
+    "title": "Control de flujo y gráficos en R",
+    "description": "En esta sesión vamos a:\n\\* Escribir declaraciones condicionales utilizando `if()` y `else()`.\n\n* Escribir y entender los bucles con `for()`.\n* Utilizar ggplot2 para generar gráficos con calidad para publicación.\n* Entender la gramática básica de los gráficos, incluyendo estética y capas geométricas, agregando estadísticas, transformando las escalas y los colores, o dividiendo por grupos.",
+    "status": "PAST",
+    "dateTime": "2024-04-25T15:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-queretaro/events/300394464/",
+    "featuredEventPhoto": {
+      "id": "520367519",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/9/9/f/highres_520367519.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/9/9/f/600_520367519.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/9/9/f/thumb_520367519.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 16,
+      "waitlistCount": 0,
+      "totalCount": 16
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Queretaro",
+      "urlname": "rladies-queretaro"
+    },
+    "createdTime": "2024-04-13T13:43:21-04:00"
+  },
+  {
+    "id": "299889167",
+    "title": "Explorando data frames y Haciendo gráficas de violín con ggplot2",
+    "description": "Aprenderemos a:\n\n* Poder agregar y quitar filas y columnas.\n* Poder quitar filas con valores `NA`.\n* Poder anexar dos *data frames*.\n* Poder articular qué es un `factor` y cómo convertir entre `factor` y `character`.\n* Poder entender las propiedades básicas de un *data frame*, incluyendo tamaño, clase o tipo de columnas, nombres y primeras filas.\n* Hacer gráficos de violín con ggplot2\n\nEvento gratuito ¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2024-03-21T15:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-queretaro/events/299889167/",
+    "featuredEventPhoto": {
+      "id": "519853078",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/3/1/6/highres_519853078.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/3/1/6/600_519853078.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/3/1/6/thumb_519853078.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 14,
+      "waitlistCount": 0,
+      "totalCount": 14
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Queretaro",
+      "urlname": "rladies-queretaro"
+    },
+    "createdTime": "2024-03-19T11:49:16-04:00"
+  },
+  {
+    "id": "299339527",
+    "title": "Introducción a R y RStudio",
+    "description": "Curso \"Introducción a R y RStudio\"\nImparte: Karina Verdel Aranda y Quetzally Medina\nTemas:\nIntroducción a R y RStudio\nGestión de proyectos con RStudio\nBuscando ayuda\nEstructuras de datos\n\n29 de Febrero del 2024, Jueves de 15:00 a 17:00 h\nCentro de Ciencias Matemáticas, UNAM Campus Morelia\nMujeres de Querétaro ¡Nos vemos por Zoom!\nModalidad Híbrida",
+    "status": "PAST",
+    "dateTime": "2024-02-29T15:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-queretaro/events/299339527/",
+    "featuredEventPhoto": {
+      "id": "519279163",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/8/f/b/highres_519279163.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/8/f/b/600_519279163.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/8/f/b/thumb_519279163.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 20,
+      "waitlistCount": 0,
+      "totalCount": 20
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Queretaro",
+      "urlname": "rladies-queretaro"
+    },
+    "createdTime": "2024-02-21T15:10:26-05:00"
+  },
+  {
+    "id": "309309116",
+    "title": "Introducción a R: desde cero a tu primer análisis de datos (EDA)",
+    "description": "Hiromi Kameyama diseñó este taller para quienes desean iniciarse en el uso de **R** y dar sus primeros pasos en el análisis de datos. A lo largo de la sesión aprenderás a manejar R de forma sencilla, desde su instalación y uso básico, hasta realizar un **análisis exploratorio de datos (EDA)** completo.\n\nTrabajaremos paso a paso para:\n✅ Entender la interfaz de R y RStudio.\n✅ Importar y manipular datos de forma clara.\n✅ Aplicar transformaciones básicas y limpieza de datos.\n✅ Generar visualizaciones descriptivas.\n✅ Extraer conclusiones iniciales para tus propios proyectos.\n\nNo necesitas experiencia previa: **empezaremos desde cero**, con explicaciones accesibles y ejemplos prácticos. Al final del taller tendrás las herramientas necesarias para comenzar a explorar y analizar tus propios conjuntos de datos usando R.",
+    "status": "PAST",
+    "dateTime": "2025-07-31T16:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-queretaro/events/309309116/",
+    "featuredEventPhoto": {
+      "id": "529022395",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/5/b/highres_529022395.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/5/b/600_529022395.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/5/b/thumb_529022395.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 55,
+      "waitlistCount": 0,
+      "totalCount": 55
+    },
+    "venues": [],
+    "group": {
+      "name": "R-Ladies Queretaro",
+      "urlname": "rladies-queretaro"
+    },
+    "createdTime": "2025-07-11T17:16:06-04:00"
+  }
+]
