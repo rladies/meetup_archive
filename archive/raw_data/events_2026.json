@@ -40,6 +40,46 @@
     "createdTime": "2026-06-30T19:30:58-04:00"
   },
   {
+    "id": "315989153",
+    "title": "Typst for Efficient Typesetting",
+    "description": "Creating professional-looking PDFs for articles, reports, lecture notes, and books has traditionally meant learning LaTeX.\n\nToday, **Typst** offers a modern alternative that combines beautiful typography with a simpler syntax and remarkably fast compilation, while integrating seamlessly with **Quarto**.\n\nIn this workshop, we will explore how Quarto and Typst work together to produce publication-quality documents using reproducible workflows. Participants will learn how to customize document layouts, control typography, work with figures, tables, citations, and cross-references, and generate polished PDFs directly from Quarto projects.\n\nWhether you're preparing research papers, teaching material, technical reports, or books, this session will introduce a modern typesetting workflow that combines the flexibility of Quarto with the design capabilities of Typst. No previous experience with Typst or LaTeX is required—just curiosity about creating beautiful documents with open-source tools.\n\n**Speaker:**\n\n**Derek Sollberger** is a Lecturer in the Department of Statistics and Data Science at **Princeton University**, where he teaches data science, statistics, and reproducible research. An active member of the R community, Derek is passionate about open-source tools and modern publishing workflows. Through his teaching, workshops, and technical writing, he helps researchers, educators, and students create clear, reproducible, and beautifully formatted documents using R, Quarto, and emerging technologies such as Typst.",
+    "status": "ACTIVE",
+    "dateTime": "2026-08-19T18:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-rome/events/315989153/",
+    "featuredEventPhoto": {
+      "id": "535528144",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/d/f/0/highres_535528144.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/d/f/0/600_535528144.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/d/f/0/thumb_535528144.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 24,
+      "waitlistCount": 0,
+      "totalCount": 24
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Rome",
+      "urlname": "rladies-rome"
+    },
+    "createdTime": "2026-08-05T11:31:17-04:00"
+  },
+  {
     "id": "315798255",
     "title": "PyLadies × R-Ladies Vancouver Lightning Talks",
     "description": "​**PyLadies Vancouver** and **R-Ladies Vancouver** are teaming up for a night of lightning talks: short talks from speakers in both communities. Come for a fast, friendly mix of Python and R, ideas, tools, and stories, all in bite-sized form.\n\nPlease sign up on Luma so we know to expect you: https://luma.com/3gsm7kqq\n\n## ​📢 We're looking for speakers!\n\n​We're looking for short presentations, **5 to 15 minutes long**, from speakers in either community, PyLadies or R-Ladies.\n​• **Beginners especially encouraged.** A lightning talk is a great first talk, and great practice before a conference.\n​• **Never done public speaking?** We'd love to debut you and help launch your speaking journey.\n​• **Yes, you can reuse a talk you've given elsewhere.** New members may not have heard it.\n​• **Python or R**, plus adjacent technology topics. When we polled our last meetup, people asked for: AI/ML and LLMs, web development, data science,Python internals, testing and tooling, and live coding.\n​• **Not sure your topic is interesting enough?** Let us be the judge, sign up with your idea.\n​New to the format? [Our lightning guide](https://vancouver.pyladies.com/lightning-talks/?utm_source=luma) covers what a lightning talk is, how to prepare, topic ideas, example talks to watch, and common questions.\n​[Sign up](https://sessionize.com/pyladies-vancouver-meetup/?utm_source=luma) to give a lightning talk.\n\n​**Free to attend.** We're run entirely by volunteers, so donations are always appreciated and help keep our meetups free and welcoming: [https://psfmember.org/civicrm/contribute/transact/?reset=1&id=60](https://psfmember.org/civicrm/contribute/transact/?reset=1&id=60&utm_source=luma)\n​\n**Everyone is welcome.** This is a joint event with R-Ladies Vancouver.\n​PyLadies events follow the [PyLadies Code of Conduct](https://www.pyladies.com/CodeOfConduct/?utm_source=luma).\n​If it's your first R-Ladies event, please review the[ R-Ladies Global Code of Conduct](https://www.pyladies.com/CodeOfConduct/?utm_source=luma).\n​Both communities share a focus on supporting women and gender-diverse people in ourfield.",
@@ -95,9 +135,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/8/4/5/thumb_535286693.jpeg"
     },
     "rsvps": {
-      "yesCount": 29,
+      "yesCount": 32,
       "waitlistCount": 0,
-      "totalCount": 29
+      "totalCount": 32
     },
     "venues": [
       {
@@ -129,9 +169,9 @@
     "eventUrl": "https://www.meetup.com/rladies-albany-ny/events/315797911/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 2,
+      "yesCount": 3,
       "waitlistCount": 0,
-      "totalCount": 2
+      "totalCount": 3
     },
     "venues": [
       {
@@ -169,9 +209,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/1/4/8/thumb_532597192.jpeg"
     },
     "rsvps": {
-      "yesCount": 47,
+      "yesCount": 48,
       "waitlistCount": 0,
-      "totalCount": 47
+      "totalCount": 48
     },
     "venues": [
       {
