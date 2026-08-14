@@ -1,0 +1,482 @@
+[
+  {
+    "id": "255671017",
+    "title": "3º Meetup R-Ladies Porto Alegre",
+    "description": "Olá, Ladies!\n\nJá está na hora de mais um encontro!\n\nGostaríamos de ver como vocês, ladies, têm usado o R em seus trabalhos e pesquisas, inscreva-se para apresentação! Basta entrar em contato com a gente aqui pelo Meetup ou através de nosso e-mail poa@rladies.org.\n\nTodas são muito bem vindas. Não esqueça de convidar outras ladies a participar! (:\n\n****\n19: 00 Uma introdução ao R-Ladies\n\n****\n19:30 Breve introdução ao RMarkdown\nPalestrante: Bruna Martini Dalmoro\n\nResumo: Cansada de montar relatórios no Word e ficar brigando com a formatação? Quando tem que entregar algum trabalho, passa mais tempo formatando e tentando entender porque o Word não te obedece do que analisando os dados? Passa raiva quando abre o .doc em outro computador e o documento desformata e vai tudo por água abaixo? Seus problemas acabaram! Nessa breve introdução ao RMarkdown venho mostrar como este formato de documento facilita a formatação de relatórios, integrados com o R, deixando seu documento mais bonito e reproduzível.\n\nBio: Bruna Martini Dalmoro é estatística formada pela UFRGS, trabalha atualmente na Plataforma Digital do Sicredi com modelagem de crédito. Em relacionamento sério com o R há 3 anos. Organizadora do R-Ladies Porto Alegre.\n\n****\n\n20:30 Aquela pausa pro coffee e network.\n\n****\n20:50 Manipulando Strings com o pacote stringr\nPalestrante: Beatrice Victoria Fernandes\n\nResumo: Variáveis de texto são muito comuns nos bancos de dados e, geralmente, dão bastante trabalho para serem manipuladas. É muito comum encontrarmos colunas com categorias não padronizadas, como, por exemplo, uma variável Estado com “SP”, “sp”, “Sao Paulo”, “São Paulo” etc, todas indicando o mesmo estado.\nO R possui várias funções para manipular textos (ou strings). No entanto, as funções do base não possuem uma interface consistente e cada uma tem a sua forma de passar os parâmetros, dificultando a programação durante a análise.\nPensando nisso, Hadley Wickham deu aquela força para a comunidade R e criou o pacote stringr, que possui uma sintaxe consistente, permitindo o usuário manipular textos com muito mais facilidade.\n\nFonte: http://material.curso-r.com/stringr/\n\nBio: Mobile Developer, apaixonada por linguagens de programação e tecnologias. Com um forte crush em Data Science e Big Data. Amante de IA e IOT <3\n\n****\n21:30 Encerramento: considerações, sugestões e próximo encontro.\n\nAté lá!\n\nLembramos que R-Ladies tem como objetivo proporcionar uma experiência livre de assédio para todos. Não toleramos nenhuma forma de assédio aos participantes. Para ter acesso ao código de conduta, acesse: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#portuguese",
+    "status": "PAST",
+    "dateTime": "2018-11-29T19:00:00-02:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-porto-alegre/events/255671017/",
+    "featuredEventPhoto": {
+      "id": "469419390",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/9/d/e/highres_469419390.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/9/d/e/600_469419390.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/9/d/e/thumb_469419390.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 7,
+      "waitlistCount": 0,
+      "totalCount": 7
+    },
+    "venues": [
+      {
+        "id": "25887519",
+        "name": "Plataforma Digital Sicredi",
+        "address": "Bento Gonçalves, 4314, Prédio 32 (Escola Politécnica da PUC-RS) 8 andar",
+        "city": "Porto Alegre",
+        "state": "",
+        "country": "br",
+        "lat": -30.0612,
+        "lon": -51.1738,
+        "postalCode": "meetup11",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Porto Alegre",
+      "urlname": "rladies-porto-alegre"
+    },
+    "createdTime": "2018-10-19T13:07:48-04:00"
+  },
+  {
+    "id": "252837889",
+    "title": "2º Meetup R-Ladies Porto Alegre",
+    "description": "Olá, Ladies!\n\nJá está na hora de mais um encontro!\n\nPara propor algum trabalho, basta entrar em contato com a gente aqui pelo Meetup ou através de nosso e-mail poa@rladies.org.\n\nTodas são muito bem vindas. Não esqueça de convidar outras ladies a participar!\n\nProgramação:\n\n****\nPara começar: uma introdução ao R-Ladies\n\n****\nPalestra: \"Do armazenamento ao uso dos dados em saúde: REDCap e R\"\nPalestrante: Karlyse Claudino Belli\n\nResumo: Plataformas colaborativas e gratuitas facilitam o armazenamento, análise e uso dos dados em saúde, podendo gerar informações úteis para pacientes, profissionais e gestores(as). Nessa linha, o uso do REDCap juntamente com o R apresenta uma interoperabilidade adequada para produzir resultados em tempo real a partir de dados coletados sistematicamente.\n\nBio: Karlyse é doutora em Ciências da Saúde com ênfase em Cardiologia pela UFRGS. Atualmente é coordenadora do setor de Registros Clínicos no Instituto de Cardiologia de Porto Alegre e professora/orientadora em programas de pós graduação (lato e stricto sensu).\n\n****\nPalestra: \"Introdução a análise de dados com pesos amostrais usando o pacote survey\"\nPalestrante: Vanessa Bielefeldt Leotti\n\nResumo: Em variáveis situações, amostragens complexas são utilizadas para se obter amostras. As unidades de tais amostras muito provavelmente possuirão pesos amostrais diferentes e este peso deve ser incorporado na análise. O pacote survey foi criado com o objetivo de incorporar esses pesos tanto na análise descritiva quanto em análises mais sofisticadas como regressão. Na palestra, se falará brevemente sobre o cálculo de pesos amostrais, sobre a diferença entre amostragem estratificada e por conglomerados e se mostrará exemplos de análises com o survey.\n\nBio: Vanessa é bacharel em Estatística e tem mestrado e doutorado em Epidemiologia. É professora da UFRGS, ministrando a disciplina de Amostragem, entre outras. Usa o R desde a graduação e este é seu software favorito. Atende consultorias no Hospital de Clínicas onde, por força das circunstâncias, tem que usar o SPSS, mas sonha com o dia em que todos entendam R :)\n\n****\nEncerramento: considerações, sugestões e próximo encontro.\n\nAté lá!\n\nLembramos que R-Ladies tem como objetivo proporcionar uma experiência livre de assédio para todos. Não toleramos nenhuma forma de assédio aos participantes. Para ter acesso ao código de conduta, acesse: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#portuguese",
+    "status": "PAST",
+    "dateTime": "2018-08-14T19:00:00-03:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-porto-alegre/events/252837889/",
+    "featuredEventPhoto": {
+      "id": "469419390",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/9/d/e/highres_469419390.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/9/d/e/600_469419390.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/9/d/e/thumb_469419390.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 20,
+      "waitlistCount": 0,
+      "totalCount": 20
+    },
+    "venues": [
+      {
+        "id": "25887171",
+        "name": "Sicredi Plataforma Digital",
+        "address": "Av Ipiranga, 6681, Prédio 32, 8° andar",
+        "city": "Porto Alegre",
+        "state": "",
+        "country": "BR",
+        "lat": -30.0612,
+        "lon": -51.174,
+        "postalCode": "meetup11",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Porto Alegre",
+      "urlname": "rladies-porto-alegre"
+    },
+    "createdTime": "2018-07-16T11:41:49-04:00"
+  },
+  {
+    "id": "248922652",
+    "title": "1º Meetup R-Ladies Porto Alegre",
+    "description": "Olá, Ladies!\n\nÉ com muito orgulho que anunciamos o nosso primeiro meetup aqui em Porto Alegre!\n\nSerá realizado dia 16/04 na ThoughtWorks Porto Alegre.\n\nEm breve divulgaremos a programação.\n\nInscrições para as talks\nUtiliza o R no seu trabalho, na sua pesquisa? Conte um pouco para nós como tem sido utilizá-lo em sua área.\nAs talks terão duração de 15 a 20 minutos e visam oportunizar uma troca entre as participantes sobre as possibilidades de uso da linguagem R nas diversas áreas.\nInscrições para as talks pelo email: poa[at]rladies[dot]org",
+    "status": "PAST",
+    "dateTime": "2018-04-16T19:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-porto-alegre/events/248922652/",
+    "featuredEventPhoto": {
+      "id": "469419390",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/9/d/e/highres_469419390.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/9/d/e/600_469419390.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/9/d/e/thumb_469419390.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 15,
+      "waitlistCount": 0,
+      "totalCount": 15
+    },
+    "venues": [
+      {
+        "id": "21674012",
+        "name": "ThoughtWorks",
+        "address": "Avenida Ipiranga, 6681 - prédio  99a - 14 andar - sala 1402",
+        "city": "Porto Alegre",
+        "state": "",
+        "country": "br",
+        "lat": -30.0567,
+        "lon": -51.173,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Porto Alegre",
+      "urlname": "rladies-porto-alegre"
+    },
+    "createdTime": "2018-03-20T10:08:51-04:00"
+  },
+  {
+    "id": "266643948",
+    "title": "6º Meetup R-Ladies Porto Alegre",
+    "description": "ATENÇÃO! A data do evento é 16/12 - 19h30\n\nOlá, Ladies!\n\nVamos nos encontrar antes do final do ano?\n\nGostaríamos de ver como vocês, ladies, têm usado o R em seus trabalhos e pesquisas, inscreva-se para apresentação! Basta entrar em contato com a gente aqui pelo Meetup, através de nosso e-mail poa@rladies.org ou de nosso Twitter @RLadiesPOA.\n\nTodas são muito bem vindas. Não esqueça de convidar outras ladies a participar! (:\n\n***************\nPROGRAMAÇÃO:\n***************\nMachine Learning em modelos de Credit Scoring: um estudo de caso.\n\nResumo: Cansada de sempre desenvolver modelos com Regressão Logística quando se trata de crédito? A fim de contornar (ou justificar seu uso), fiz um estudo de caso comparando esta técnica padrão com alguns modelos de Machine Learning: Árvore de Decisão, Random Forest, Bagging, Support Vector Machine e Adaboost. Até que ponto vale o investimento nestas novas tecnologias quando o cenário envolve concessão de crédito?\n\nCinthia Becker - Formada em Estatística pela UFRGS, atualmente está cursando pós-graduação em Data Science e Big Data na Uniritter, além de trabalhar com modelagem de crédito na Realize CFI/Lojas Renner. Apaixonada pelo R desde a graduação, nos últimos anos tem-se aventurado em Python também.\n\n***************\nAnálise da evasão no grupo escoteiro Chama Farroupilha usando R.\n\nResumo: A fim de entender os motivos da evasão do grupo escoteiro Chama Faroupilha, foi feito trabalho de investigação através de análise dos resultados de pesquisa. No Meetup será apresentado todo o processo: desde a coleta da amostra, análise descritiva das variáveis, até a análise da importância usando Random Forest. Tudo isso usando a linguagem R (:\n\nRafaela Galetto - Cursa Bacharelado em Estatística na UFRGS, é Estagiária na Realize CFI, instituição financeira das Lojas Renner e trabalha voluntaramente como Coordenadora Regional de Estatística dos Escoteiros do RS.\n***************\n\nLembramos que R-Ladies tem como objetivo proporcionar uma experiência livre de assédio para todos. Não toleramos nenhuma forma de assédio aos participantes. Para ter acesso ao código de conduta, acesse: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#portuguese",
+    "status": "PAST",
+    "dateTime": "2019-12-16T19:30:00-03:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-porto-alegre/events/266643948/",
+    "featuredEventPhoto": {
+      "id": "469419390",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/9/d/e/highres_469419390.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/9/d/e/600_469419390.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/9/d/e/thumb_469419390.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 24,
+      "waitlistCount": 0,
+      "totalCount": 24
+    },
+    "venues": [
+      {
+        "id": "25887519",
+        "name": "Plataforma Digital Sicredi",
+        "address": "Bento Gonçalves, 4314, Prédio 32 (Escola Politécnica da PUC-RS) 8 andar",
+        "city": "Porto Alegre",
+        "state": "",
+        "country": "br",
+        "lat": -30.0612,
+        "lon": -51.1738,
+        "postalCode": "meetup11",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Porto Alegre",
+      "urlname": "rladies-porto-alegre"
+    },
+    "createdTime": "2019-11-21T15:36:45-05:00"
+  },
+  {
+    "id": "261870325",
+    "title": "5º Meetup R-Ladies Porto Alegre",
+    "description": "Olá, Ladies!\n\nGostaríamos de ver como vocês têm usado o R em seus trabalhos e pesquisas, inscreva-se para apresentação! Basta entrar em contato com a gente aqui pelo Meetup, através de nosso e-mail poa@rladies.org ou de nosso Twitter @RLadiesPOA.\n\nTodos são muito bem vindos.\nNão esqueça de convidar outras ladies a participar! (:\n\n19:00 Welcome coffee\n\n19:15 Abertura e breve intro sobre R-ladies\n\n19:30 O uso de R na ciência de dados\nBeatrice Fernandes (https://www.linkedin.com/in/beatricefernandes/)\n\n20:30 People Analytics\nAndreia Barone(https://www.linkedin.com/in/andreia-barone/)\n\n21:00 Coffee e Networking\n\n21:15 Fishbowl\n\n***********************\nSugira um tema :D\n***********************\n\nLembramos que R-Ladies tem como objetivo proporcionar uma experiência livre de assédio para todos. Não toleramos nenhuma forma de assédio aos participantes. Para ter acesso ao código de conduta, acesse: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#portuguese",
+    "status": "PAST",
+    "dateTime": "2019-06-17T19:00:00-03:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-porto-alegre/events/261870325/",
+    "featuredEventPhoto": {
+      "id": "469419390",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/9/d/e/highres_469419390.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/9/d/e/600_469419390.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/9/d/e/thumb_469419390.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 25,
+      "waitlistCount": 0,
+      "totalCount": 25
+    },
+    "venues": [
+      {
+        "id": "26422276",
+        "name": "realize",
+        "address": "90 9º - Av. Dolores Alcaraz Caldas, 10º Andar",
+        "city": "Porto Alegre",
+        "state": "RS",
+        "country": "br",
+        "lat": -30.0462,
+        "lon": -51.2305,
+        "postalCode": "90110-180",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Porto Alegre",
+      "urlname": "rladies-porto-alegre"
+    },
+    "createdTime": "2019-05-29T13:58:38-04:00"
+  },
+  {
+    "id": "259774139",
+    "title": "4º Meetup R-Ladies Porto Alegre",
+    "description": "Olá, Ladies!\n\nJá está na hora de mais um encontro!\n\nGostaríamos de ver como vocês, ladies, têm usado o R em seus trabalhos e pesquisas, inscreva-se para apresentação! Basta entrar em contato com a gente aqui pelo Meetup, através de nosso e-mail poa@rladies.org ou de nosso Twitter @RLadiesPOA.\n\nTodas são muito bem vindas. Não esqueça de convidar outras ladies a participar! (:\n\n19:00 Um breve resumo do R-ladies\n\n19:20 Git: uma constante no seu dia com Catarina Nogueira\nVamos falar sobre a importância de versionamento de código (não no drive e não no hd do computador), que muitas vezes passa batido, especialmente por quem vem da estatistica para a area de ciencia de dados.\n\n20:00 Talk 2\n\n20:40 Coffee\n\n21:00 Fishbowl - Vamos debater assuntos e trocar idéias.\n\nLembramos que R-Ladies tem como objetivo proporcionar uma experiência livre de assédio para todos. Não toleramos nenhuma forma de assédio aos participantes. Para ter acesso ao código de conduta, acesse: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#portuguese",
+    "status": "PAST",
+    "dateTime": "2019-04-04T19:00:00-03:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-porto-alegre/events/259774139/",
+    "featuredEventPhoto": {
+      "id": "469419390",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/9/d/e/highres_469419390.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/9/d/e/600_469419390.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/9/d/e/thumb_469419390.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 15,
+      "waitlistCount": 0,
+      "totalCount": 15
+    },
+    "venues": [
+      {
+        "id": "25887519",
+        "name": "Plataforma Digital Sicredi",
+        "address": "Bento Gonçalves, 4314, Prédio 32 (Escola Politécnica da PUC-RS) 8 andar",
+        "city": "Porto Alegre",
+        "state": "",
+        "country": "br",
+        "lat": -30.0612,
+        "lon": -51.1738,
+        "postalCode": "meetup11",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Porto Alegre",
+      "urlname": "rladies-porto-alegre"
+    },
+    "createdTime": "2019-03-14T18:30:22-04:00"
+  },
+  {
+    "id": "271909699",
+    "title": "7º Meetup R-Ladies Porto Alegre - ONLINE",
+    "description": "Olá, Ladies!\n\nOs tempos atuais pedem cuidados especiais, entre eles evitar aglomerações. Assim, nossos encontros presenciais vão precisar esperar. Enquanto isso, que tal testar um novo formato?\n\nNosso encontro será pelo YouTube desta vez. Inscreva-se no nosso canal! https://www.youtube.com/channel/UCDCOvchmfUW7gFP5CrSIXrw\n\nTodas são muito bem vindas. Não esqueça de convidar outras ladies a participar! (:\n\n***************\nPROGRAMAÇÃO:\n***************\nContágio Financeiro de Crises Internacionais no Mercado Brasileiro: Uma Abordagem com Cópulas\n\nResumo: Este trabalho testa, através da metodologia de cópulas, a hipótese de contágio financeiro entre ações brasileiras e índices de mercado dos países que deram origem às crises do Terror em 2001, da Argentina em 2001, dos Subpprimes em 2007 e do Débito Soberano Europeu em 2009. Além disso, é feita uma análise dos setores econômicos que mais foram afetados por cada crise.\n\nLívia Linhares - Analista de Pricing no Sicredi. Economista pela Universidade Federal de Minas Gerais, mestre em Administração/Finanças e doutoranda em Administração/Pesquisa Operacional pela Universidade Federal do Rio Grande do Sul. R addicted desde 2015 :)\n\n***************\nProgressão da epidemia diante de intervenções - Simulador de progressão da Covid-19\n\nResumo: Pesquisadores do Instituto de Matemática e Estatística (IME) da UFRGS desenvolveram um aplicativo em R Shiny que contém um simulador de epidemias utilizando uma versão alterada do tradicional modelo SIR. Com ele é possível simular cenários para a epidemia considerando diferentes formas de intervenção para seu manejo e diferentes combinações para os parâmetros que regem sua evolução. Uma das ideias do simulador é permitir que o usuário interaja com essas questões e entenda um pouco da complexidade e da incerteza associadas a essas projeções. Link do aplicativo: http://miba-srv01.nuvem.ufrgs.br:8080/shiny/simcovid19/\n\nGabriela Cybis - Professora do Departamento de Estatística da Universidade Federal do Rio Grande do Sul. Possui graduação em Ciências Biológicas pela Universidade Federal do Rio Grande do Sul (2007), mestrado em Matemática pela Universidade Federal do Rio Grande do Sul (2009) e mestrado em Biomathematica pela University of California, Los Angeles (2010) e doutorado em Biomathematica pela University of California, Los Angeles (2014).\n***************\n\nGostaríamos de ver como vocês, ladies, têm usado o R em seus trabalhos e pesquisas, inscreva-se para apresentação! Basta entrar em contato com a gente aqui pelo Meetup ou de nosso Twitter @RLadiesPOA.\n\nLembramos que R-Ladies tem como objetivo proporcionar uma experiência livre de assédio para todos. Não toleramos nenhuma forma de assédio aos participantes. Para ter acesso ao código de conduta, acesse: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#portuguese",
+    "status": "PAST",
+    "dateTime": "2020-07-30T19:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-porto-alegre/events/271909699/",
+    "featuredEventPhoto": {
+      "id": "469419390",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/9/d/e/highres_469419390.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/9/d/e/600_469419390.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/9/d/e/thumb_469419390.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 27,
+      "waitlistCount": 0,
+      "totalCount": 27
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -30.0612,
+        "lon": -51.1738,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Porto Alegre",
+      "urlname": "rladies-porto-alegre"
+    },
+    "createdTime": "2020-07-13T19:44:52-04:00"
+  },
+  {
+    "id": "287292197",
+    "title": "8º Meetup R-Ladies Porto Alegre",
+    "description": "Voltamos, gurias!\n\nEstávamos com muitas saudades de nos encontrarmos, conversamos, trocarmos. Contamos com a presença de todas! <3\n\nDessa vez nosso meetup irá ocorrer na DB Server, na Tecnopuc.\n\nPrecisamos que nos encaminhem nome completo e CPF para conseguirem acesso ao prédio por isso solicitamos que se inscrevam via plataforma Sympla no link: [INSCRIÇÕES AQUI NO SYMPLA](https://www.sympla.com.br/evento/8-meetup-r-ladies-porto-alegre/1626110)\nNão esqueçam de usar máscaras S2\n\n**Local: Sala de Convivência, DBServer, 5º andar**\n**Tecnopuc**\n**Av. Ipiranga, 6681 - Partenon, Porto Alegre - RS, 90619-900**\n\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\n**Programação**\n\n19:00 Um breve resumo do R-ladies\n\n19:20 Talk 1\n**Relatórios automatizados com RMarkdown**\nIara Passos - Socióloga e Cientista de Dados. Possui graduação e mestrado em Sociologia pela UFRGS e é graduanda em Estatística na mesma universidade. Atualmente é líder de pesquisa no Cappra Institute for Data Science.\n\n20:00 Talk 2\n\n20:40 Coffee\n\n21:00 Fishbowl - Vamos debater assuntos e trocar idéias.",
+    "status": "PAST",
+    "dateTime": "2022-08-11T19:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-porto-alegre/events/287292197/",
+    "featuredEventPhoto": {
+      "id": "505078498",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/e/4/8/2/highres_505078498.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/e/4/8/2/600_505078498.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/4/8/2/thumb_505078498.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [
+      {
+        "id": "26086403",
+        "name": "Tecnopuc",
+        "address": "Av. Ipiranga, 6681",
+        "city": "Porto Alegre",
+        "state": "RS",
+        "country": "br",
+        "lat": -30.0597,
+        "lon": -51.1716,
+        "postalCode": "90160-091",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Porto Alegre",
+      "urlname": "rladies-porto-alegre"
+    },
+    "createdTime": "2022-07-19T18:47:02-04:00"
+  },
+  {
+    "id": "286737661",
+    "title": "8º Meetup R-Ladies Porto Alegre",
+    "description": "Voltamos, gurias!\n\nEstávamos com muitas saudades de nos encontrarmos, conversamos, trocarmos. Contamos com a presença de todas! <3\n\nDessa vez nosso meetup irá ocorrer na DB, na Tecnopuc.\n\nPrecisamos que nos encaminhem nome completo e CPF para conseguirem acesso ao prédio por isso solicitamos que se inscrevam via plataforma Sympla no link: [INSCRIÇÕES AQUI NO SYMPLA](https://www.sympla.com.br/evento/8-meetup-r-ladies-porto-alegre/1626110)\nNão esqueçam de usar máscaras S2\n\n**Local: Sala de Convivência, DBServer, 5º andar**\n**Tecnopuc**\n**Av. Ipiranga, 6681 - Partenon, Porto Alegre - RS, 90619-900**\n\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\n**Programação**\n\nRelatórios automatizados com RMarkdown\nIara Passos - Socióloga e Cientista de Dados. Possui graduação e mestrado em Sociologia pela UFRGS e é graduanda em Estatística na mesma universidade. Atualmente é líder de pesquisa no Cappra Institute for Data Science.",
+    "status": "CANCELLED",
+    "dateTime": "2022-07-19T19:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-porto-alegre/events/286737661/",
+    "featuredEventPhoto": {
+      "id": "505078498",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/e/4/8/2/highres_505078498.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/e/4/8/2/600_505078498.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/4/8/2/thumb_505078498.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [
+      {
+        "id": "26086403",
+        "name": "Tecnopuc",
+        "address": "Av. Ipiranga, 6681",
+        "city": "Porto Alegre",
+        "state": "RS",
+        "country": "br",
+        "lat": -30.0597,
+        "lon": -51.1716,
+        "postalCode": "90160-091",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Porto Alegre",
+      "urlname": "rladies-porto-alegre"
+    },
+    "createdTime": "2022-06-22T17:06:08-04:00"
+  },
+  {
+    "id": "304284566",
+    "title": "10° R-Ladies POA ",
+    "description": "Olá, gurias!\nEstamos preparando mais um encontro para fecharmos o ano!\nNão deixe de se inscrever no evento e participar!\n\nInteressada em compartilhar conhecimento? Entra em contato com a gente aqui pela plataforma, vamos adorar te ouvir!!\n\n**Local: Sala de Convivência, DBServer, 5º andar**\n**Tecnopuc**\n**Av. Ipiranga, 6681 - Partenon, Porto Alegre - RS, 90619-900**\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\n**Programação:**\n\n**Shiny para emergências: um modelo de gestão de doações e recursos em emergências climáticas**\nResumo: Nos primeiros dias das enchentes de maio de 2024, uma força-tarefa formada por voluntários da comunidade PUCRS foi criada para gerenciar as doações recebidas. Esse esforço resultou na criação de um dashboard no Power BI. Contudo, devido à natureza paga do software, seu uso de forma expandida foi limitado. Para viabilizar o acesso a mais usuários e como forma de retribuição à comunidade, desenvolveu-se um aplicativo no Shiny, que em breve estará disponível para que outras instituições ou grupos possam adotar o modelo de gestão de doações, acompanhamento de recursos e outras funcionalidades.\n\n*Iara Passos* \\- Socióloga e Cientista de Dados\\. Possui graduação e mestrado em Sociologia pela UFRGS e é graduanda em Estatística na mesma universidade\\. Atualmente analista de dados na PUCRS\\.\n\n**R e Spark: uma introdução ao sparklyr**\nResumo: Lidar com volumes de dados (realmente) grandes é um desafio cada vez mais frequente no dia a dia de quem analisa dados. Conhecer ferramentas que auxiliam neste processo é essencial para tornar o trabalho mais fácil. Uma dessas ferramentas é o Apache Spark, um framework de processamento de big data de código aberto. Sua integração com o R acontece principalmente pelo pacote sparklyr, mantido pelo time do Posit, que permite uma série de integrações com funções de pacotes como dplyr e tidyr. Nesta introdução, conheceremos o funcionamento do Spark, as particularidades do seu uso, e algumas de suas limitações.\n\n*Bruna Dalmoro* \\- Cientista de Dados no Sicredi\\, bacharela em Estatística pela UFRGS\\, mestra em Ciência da Computação pela PUCRS\\.",
+    "status": "PAST",
+    "dateTime": "2024-12-05T19:00:00-03:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-porto-alegre/events/304284566/",
+    "featuredEventPhoto": {
+      "id": "524411213",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/b/c/d/highres_524411213.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/b/c/d/600_524411213.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/b/c/d/thumb_524411213.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 9,
+      "waitlistCount": 0,
+      "totalCount": 9
+    },
+    "venues": [
+      {
+        "id": "25948338",
+        "name": "TecnoPuc",
+        "address": "Av. Ipiranga, 6681 – P.99A – Portal Tecnopuc, Auditório Talento Empreendedor P.96I",
+        "city": "Porto Alegre",
+        "state": "al",
+        "country": "br",
+        "lat": -30.0597,
+        "lon": -51.1717,
+        "postalCode": "meetup11",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Porto Alegre",
+      "urlname": "rladies-porto-alegre"
+    },
+    "createdTime": "2024-10-30T06:28:35-04:00"
+  },
+  {
+    "id": "299620372",
+    "title": "9º Meetup R-Ladies Porto Alegre",
+    "description": "Olá gurias!\nDepois de algum tempo, estamos retornando! Com muita vontade de compartilhar, aprender e evoluir junto com vocês.\nContamos com a presença de vocês para retomarmos nosso ritmo de encontros com muita eneRgia!\n\nNosso encontro será mais uma vez na DB Server, na Tecnopuc.\n\nPrecisamos que nos encaminhem nome completo e CPF para conseguirem acesso ao prédio por isso solicitamos que se inscrevam via plataforma Sympla no link: [INSCRIÇÕES AQUI NO SYMPLA](https://www.sympla.com.br/evento/9-meetup-r-ladies-porto-alegre/2370619?_gl=1*4v8t4e*_ga*MjgxNDExMjI0LjE3MDk2ODAzNzU.*_ga_KXH10SQTZF*MTcwOTY4MDM3NC4xLjEuMTcwOTY4MTA1NC40Mi4wLjM3NjMyNjcwNg..)\n\n**Local: Sala de Convivência, DBServer, 5º andar**\n**Tecnopuc**\n**Av. Ipiranga, 6681 - Partenon, Porto Alegre - RS, 90619-900**\n\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\n**Programação:**\n\n**Relatórios automatizados com RMarkdown**\nO Markdown é uma ferramenta que possibilita a produção de análises de dados transparentes e replicáveis.\nAo integrar análise estatística e produção de relatórios em um único documento, o RMarkdown simplifica os fluxos de trabalho, aprimorando a qualidade e a confiabilidade das análises e promovendo uma comunicação eficaz de resultados e insights.\n\n*Iara Passos* \\- Socióloga e Cientista de Dados\\. Possui graduação e mestrado em Sociologia pela UFRGS e é graduanda em Estatística na mesma universidade\\. Atualmente é líder de pesquisa no Cappra Institute for Data Science\\.\n\n**Microdatasus**\nA palestrante Jordana Henz Hammes irá apresentar sobre o pacote Microdatasus para explorar informações de saúde pública com R. Serão discutidos os seguintes tópicos:\n\\- Introdução ao Microdadosus: entendendo sua importância e funcionalidades;\n\\- Importação de dados: download e o pré\\-processamento dos dados;\n\\- Exploração dos sistemas e estruturas de dados disponíveis\n\\- Interação da plataforma com outros pacotes para visualização de dados \\(geobr\\)\n\n*Jordana Henz Hammes* \\- Graduanda do 9° semestre de Fisioterapia pela PUCRS; ⁠Bolsista CNPq de Iniciação Científica do Laboratório de Fisiologia Respiratória \\- Centro Infant da PUCRS; ⁠Auxilia na realização de estudos epidemiológicos utilizando Microdatasus \\(Rstudio\\); ⁠Idealizadora do grupo R for Health Data Science\\.",
+    "status": "PAST",
+    "dateTime": "2024-03-26T19:30:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-porto-alegre/events/299620372/",
+    "featuredEventPhoto": {
+      "id": "505078498",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/e/4/8/2/highres_505078498.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/e/4/8/2/600_505078498.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/4/8/2/thumb_505078498.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 7,
+      "waitlistCount": 0,
+      "totalCount": 7
+    },
+    "venues": [
+      {
+        "id": "26086403",
+        "name": "Tecnopuc",
+        "address": "Av. Ipiranga, 6681",
+        "city": "Porto Alegre",
+        "state": "RS",
+        "country": "br",
+        "lat": -30.0597,
+        "lon": -51.1716,
+        "postalCode": "90160-091",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Porto Alegre",
+      "urlname": "rladies-porto-alegre"
+    },
+    "createdTime": "2024-03-05T18:24:52-05:00"
+  },
+  {
+    "id": "310192163",
+    "title": "Cerveja com Dados Porto Alegre",
+    "description": "**INSCREVA-SE** [ ](https://ok.org.br/projetos/cerveja-com-dados/)[http://bit.ly/3GrACBL](http://bit.ly/3GrACBL)\n\n*Dessa vez, nosso encontro será diferente!*\n\nO **Cerveja com Dados Porto Alegre** voltou em uma edição especial sobre **crise climática e catástrofes ambientais**, com foco no Rio Grande do Sul. E, como sempre, com entrada gratuita!\n\nO evento, realizado em parceria com **R-Ladies Porto Alegre**, **Verifica RS** e **AfonteJor**, é uma oportunidade imperdível para debater **como o uso de dados** pode ser nossa ferramenta mais poderosa para entender e enfrentar os desafios do clima.\n\n* **“Climatologia subtropical: como o hemisfério sul influencia no clima do Rio Grande do Sul”, por Pedro Valente**\nPedro é geógrafo e climatologista pela UFRGS. Atualmente, realiza pós-doutorado no Centro Polar e Climático (UFRGS) e na Universidade de Ohio (Estados Unidos). Estuda as conexões trópico-polo (climatologia polar e subtropical) e seus impactos no hemisfério sul durante os séculos XIX, XX e XXI.\n* **“Explorando o papel funcional da biodiversidade na resiliência climática”, por Felícia Miranda Fischer**\nFelícia é bióloga, mestre e doutora em Ecologia pela UFRGS, e já trabalhou como pesquisadora na Masaryk University na República Tcheca e no Centro de Investigaciones sobre Desertificación na Espanha. Hoje, é pesquisadora do projeto Programa de Pesquisa em Biodiversidade (PPBIO) no departamento de Ecologia da UFRGS. Atua na área de ecologia funcional, tentando entender a dinâmica dos organismos vivos, principalmente as plantas, e como respondem a distúrbios antrópicos e climáticos.\n* **“Cidades Mais Resilientes Em Contextos Metropolitanos”, por Geisa Rorato**\nGeisa é arquiteta e urbanista (UFSM), doutora em Planejamento Urbano e Regional (PROPUR/UFRGS) e professora do Departamento de Urbanismo da Faculdade de Arquitetura da UFRGS. Integra o Programa de Pós-Graduação em Planejamento Urbano e Regional (PROPUR) e o Programa de Pós-Graduação em Políticas Públicas (PPGPP), ambos da UFRGS, e o Observatório das Metrópoles – Núcleo Porto Alegre. Tem experiência em planejamento urbano e regional, e na elaboração de planos diretores e de planos setoriais. Tem realizado pesquisas sobre as relações interfederativas e o planejamento urbano e regional, e sobre as mudanças climáticas e o planejamento urbano e regional.\n\nJunte-se a especialistas para palestras e discussões aprofundadas!\n\n**Evento:** Cerveja com Dados Porto Alegre 2025\n**Tema:** Crise Climática\n**Data:** 13 de agosto de 2025 (quarta-feira)\n**Horário:** 19h30\n**Local:** Justo - Escadarias da Borges de Medeiros 741, Passeio Verão, Porto Alegre, Rio Grande do Sul 90010-241\n\nPROMO DO JUSTO: o Justo vai dar 10% de desconto em todo o menu de bebidas durante a noite toda para quem estiver no evento!",
+    "status": "PAST",
+    "dateTime": "2025-08-13T19:30:00-03:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-porto-alegre/events/310192163/",
+    "featuredEventPhoto": {
+      "id": "529287462",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/b/4/6/highres_529287462.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/b/4/6/600_529287462.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/b/4/6/thumb_529287462.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [
+      {
+        "id": "28112094",
+        "name": "Justo",
+        "address": "Escadarias do Viaduto Otávio Rocha Passeio Verão - Av. Borges de Medeiros, 741 - Centro Histórico",
+        "city": "Porto Alegre",
+        "state": "",
+        "country": "br",
+        "lat": -30.0336,
+        "lon": -51.2279,
+        "postalCode": "meetup11",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Porto Alegre",
+      "urlname": "rladies-porto-alegre"
+    },
+    "createdTime": "2025-07-26T09:34:07-04:00"
+  }
+]
