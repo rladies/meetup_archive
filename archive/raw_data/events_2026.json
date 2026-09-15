@@ -1,5 +1,45 @@
 [
   {
+    "id": "316562685",
+    "title": "Everyone Makes a Map",
+    "description": "Brittany is going to lead a group session on how to create a map! Bring your laptops, and be ready to join in. No prior mapping experience is necessary.\nWatch the comments on this event, we'll provide some data ahead of time to get you started!",
+    "status": "ACTIVE",
+    "dateTime": "2026-10-14T17:00:00-07:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-pdx/events/316562685/",
+    "featuredEventPhoto": {
+      "id": "536151941",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/a/e/5/highres_536151941.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/a/e/5/600_536151941.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/a/e/5/thumb_536151941.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "28328006",
+        "name": "Lucky Labrador Public House",
+        "address": "7675 SW Capitol Hwy, Portland, OR 97219, USA",
+        "city": "Portland",
+        "state": "OR",
+        "country": "us",
+        "lat": 45.4689,
+        "lon": -122.7096,
+        "postalCode": "97219",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies PDX",
+      "urlname": "rladies-pdx"
+    },
+    "createdTime": "2026-09-14T22:54:12-04:00"
+  },
+  {
     "id": "316511218",
     "title": "R Peer Teaching",
     "description": "Join us for a relaxed evening of learning and good company—we're hosting a peer teaching evening.\n\nIn the first half you have time to explore a package of your choosing (e.g., looking at the vignette, what are the beginning functions to know). Then in the last half\nwe'll take a round to share what we learned. You can find some inspiration for R packages here: https://medium.com/@ZhouAnnaWrites/20-useful-r-packages-you-may-not-know-about-54d57fe604f3\n\nWhether you're a beginner looking for a nudge in the right direction or a seasoned R-user happy to share what you know, you're welcome here!\n\nThe event will take place in the room ØHM11. The outer door is locked, but we will wait outside to let you in, or call me on 92076982\nMazemap: https://link.mazemap.com/E1NxhvoO\nGoogle maps: https://maps.app.goo.gl/MbuZZPL8m2simBwd9\n\nThe room may be a bit confusing to find, because it is NOT in the main building of Øya helsehus, it is in a smaller building right east of it.",
@@ -80,6 +120,46 @@
     "createdTime": "2026-09-09T13:48:24-04:00"
   },
   {
+    "id": "316562284",
+    "title": "18º Meet Up: Trabalhando com dados geoespaciais no R",
+    "description": "Neste minicurso prático, vamos conhecer os principais tipos de dados geoespaciais e aprender a trabalhar com dados vetoriais e raster no R. Serão abordados sistemas de referência de coordenadas, importação e visualização de dados espaciais e elaboração de mapas temáticos, a partir de um fluxo de trabalho organizado e reprodutível.",
+    "status": "ACTIVE",
+    "dateTime": "2026-09-24T17:00:00-03:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-niteroi/events/316562284/",
+    "featuredEventPhoto": {
+      "id": "536151504",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/9/3/0/highres_536151504.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/9/3/0/600_536151504.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/9/3/0/thumb_536151504.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 14,
+      "waitlistCount": 0,
+      "totalCount": 14
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Niterói",
+      "urlname": "rladies-niteroi"
+    },
+    "createdTime": "2026-09-14T22:00:12-04:00"
+  },
+  {
     "id": "316322495",
     "title": "Elevating Your Research Through Software Development",
     "description": "**Elevating Your Research Through Software Development**\n\n**Date:** 22nd September, 2026\n**Time:** 5:30 PM (networking and refreshments from 5:30 PM; talk begins at 6:00 PM)\n**Where:** DiUS, Level 3/31 Queen St, Melbourne\n\nResearch projects often begin with a collection of scripts and files that become increasingly difficult to manage, reproduce, and share. Adopting software development practices and structuring research projects like software packages can help address these challenges while improving the quality, reproducibility, and impact of research.\n\nIn this meetup, we’ll explore how package-based project structures can transform analytical workflows, using real-world examples from COVID-19 vaccination policy analysis and scabies transmission modelling in the Netherlands. The talk will demonstrate how treating research code as software enables more efficient collaboration, easier reuse, and faster translation of analyses into real-world decision-making. We’ll also discuss how emerging AI tools, such as Claude Code, can help researchers build resources that extend the reach of their work beyond its original scope.\n\nCome along if you’re interested in reproducible research, scientific programming, data analysis, or research software engineering, or if you’d like practical guidance on creating more structured, reusable, and collaborative research projects!",
@@ -95,9 +175,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/6/1/2/thumb_535882034.jpeg"
     },
     "rsvps": {
-      "yesCount": 13,
+      "yesCount": 12,
       "waitlistCount": 0,
-      "totalCount": 13
+      "totalCount": 12
     },
     "venues": [
       {
@@ -231,7 +311,7 @@
     "id": "316026203",
     "title": "Social plus Brainstorming Future Meetups",
     "description": "Let's get together, make some friends, and brainstorm ideas for what we want to see at future meetups! I'll bring nametags, index cards, post-its and sharpies. Bring a pen and some ideas!\n\nThis is also the first day of posit::conf - if you're doing the workshops, bring that energy and share what you've learned! Discuss with others about what talks you're most excited to see.\n\nTentatively, I'd like to meet at least every 2 months, and maybe find a regular day that works for a lot of people to plan around.",
-    "status": "ACTIVE",
+    "status": "PAST",
     "dateTime": "2026-09-14T17:00:00-07:00",
     "duration": "PT2H",
     "eventUrl": "https://www.meetup.com/rladies-pdx/events/316026203/",
