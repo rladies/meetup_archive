@@ -95,9 +95,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/b/e/0/thumb_536067616.jpeg"
     },
     "rsvps": {
-      "yesCount": 38,
+      "yesCount": 41,
       "waitlistCount": 0,
-      "totalCount": 38
+      "totalCount": 41
     },
     "venues": [
       {
@@ -175,9 +175,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/9/3/0/thumb_536151504.jpeg"
     },
     "rsvps": {
-      "yesCount": 77,
+      "yesCount": 79,
       "waitlistCount": 0,
-      "totalCount": 77
+      "totalCount": 79
     },
     "venues": [
       {
@@ -198,6 +198,58 @@
       "urlname": "rladies-niteroi"
     },
     "createdTime": "2026-09-14T22:00:12-04:00"
+  },
+  {
+    "id": "316667941",
+    "title": "R-Madrinas Morelia",
+    "description": "✨ ¡Revivimos R-Madrinas Morelia! ✨\n\nUn espacio de reencuentro para las madrinas para identificar donde estamos en la vida proporcional y que podemos ofrecer de ayuda con análisis de datos en R. 📊💜\n🚀 Si eres estudiante de posgrado, tesista o posdoc y buscas mentoría, ¡también estamos aquí para ti! Tus necesidades pueden orientar nuestro trabajo.\n\nEvento híbrido sesión presencial bibioteca del CCM.",
+    "status": "ACTIVE",
+    "dateTime": "2026-09-23T18:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-morelia/events/316667941/",
+    "featuredEventPhoto": {
+      "id": "526314413",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/4/8/d/highres_526314413.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/4/8/d/600_526314413.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/4/8/d/thumb_526314413.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 9,
+      "waitlistCount": 0,
+      "totalCount": 9
+    },
+    "venues": [
+      {
+        "id": "28343358",
+        "name": "Centro de Ciencias Matemáticas UNAM (CCM)",
+        "address": "Antigua Carretera a Pátzcuaro # 8701, Sin Nombre, Residencial San José de la Huerta, 58089 Morelia, Mich., Mexico",
+        "city": "Morelia",
+        "state": "",
+        "country": "mx",
+        "lat": 19.6468,
+        "lon": -101.2285,
+        "postalCode": "58089",
+        "venueType": ""
+      },
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Morelia",
+      "urlname": "rladies-morelia"
+    },
+    "createdTime": "2026-09-22T15:03:19-04:00"
   },
   {
     "id": "316322495",
