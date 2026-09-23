@@ -1,5 +1,45 @@
 [
   {
+    "id": "316671506",
+    "title": "De mi script a mi propio paquete",
+    "description": "**De mi script a mi propio paquete: diseñando herramientas reproducibles en R** 📦✨\n\n¿Alguna vez escribiste un script para resolver un problema muy específico y después pensaste que podría servirle a alguien más? En esta sesión de RLadies+ Xalapa exploraremos cómo ese código que nació para salir del paso puede convertirse en una herramienta reutilizable, documentada y reproducible.\n\nSerá una charla-demostración muy accesible en la que construiremos juntas un mini ejemplo. Partiremos de unas pocas líneas de código, las convertiremos en una función y recorreremos los elementos básicos para transformarla en un pequeño paquete de R, incluyendo su documentación y una prueba sencilla.\n\nDespués conoceremos **rbims**, un paquete desarrollado para el análisis de datos metagenómicos, como ejemplo real de cómo este mismo proceso puede crecer hasta convertirse en una herramienta científica. No necesitas saber nada de metagenómica, porque el énfasis estará en R, la reproducibilidad y el diseño de software.\n\n👩‍💻 **¿A quién va dirigida?**\nA personas con conocimientos básicos de R que nunca han desarrollado un paquete y tienen curiosidad por dar ese siguiente paso.\n\n🧭 **¿Qué haremos?**\n\n* Una charla introductoria sobre por qué empaquetar nuestro código\n* Una demostración paso a paso, del script a la función y de la función al paquete\n* Un recorrido por rbims como caso real\n* Un espacio de preguntas y conversación\n\n**Facilitadora:** Dra. Mirna Vázquez Rosas Landa\n\nTe esperamos el sábado 31 de octubre de 2026 a las 17:00 horas (GMT-6). Puedes ir disfrazada🎃.\n\n**Código de conducta**\nRecuerda leer y atender nuestro código de conducta disponible [aquí](https://rladies.org/about-us/coc/).",
+    "status": "ACTIVE",
+    "dateTime": "2026-10-31T17:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-xalapa/events/316671506/",
+    "featuredEventPhoto": {
+      "id": "536273491",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/0/f/3/highres_536273491.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/0/f/3/600_536273491.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/0/f/3/thumb_536273491.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "28343968",
+        "name": "Leonardo Pasquel 22",
+        "address": "Leonardo Pasquel 22, Pumar, 91040 Xalapa-Enríquez, Ver., Mexico",
+        "city": "Xalapa-Enríquez",
+        "state": "",
+        "country": "mx",
+        "lat": 19.5295,
+        "lon": -96.9113,
+        "postalCode": "91040",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Xalapa",
+      "urlname": "rladies-xalapa"
+    },
+    "createdTime": "2026-09-22T19:49:37-04:00"
+  },
+  {
     "id": "316562685",
     "title": "Everyone Makes a Map",
     "description": "Brittany is going to lead a group session on how to create a map! Bring your laptops, and be ready to join in. No prior mapping experience is necessary.\nWatch the comments on this event, we'll provide some data ahead of time to get you started!",
@@ -175,9 +215,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/9/3/0/thumb_536151504.jpeg"
     },
     "rsvps": {
-      "yesCount": 79,
+      "yesCount": 80,
       "waitlistCount": 0,
-      "totalCount": 79
+      "totalCount": 80
     },
     "venues": [
       {
