@@ -37,6 +37,13 @@ Jinx holds the Meetup credentials, runs the scripts in this repository, and comm
 2. **Website data** (`scripts/data_prep_website.R`) - Builds `data/events.json`, `data/chapters.json` and `data/updated.json` for the RLadies+ website
 3. **Storage** - The JSON output is committed back to this repository
 
+Changes to the scripts take effect on Jinx's next run after they are merged.
+To try a branch first, a Jinx maintainer can start a dry run that fetches and processes the data without committing it:
+
+```sh
+gh workflow run ops-meetup-archive.yml -R rladies/jinx -f ref=<branch>
+```
+
 ### Report Generation
 
 Reports are generated using [Quarto](https://quarto.org/) and support multiple output formats:
