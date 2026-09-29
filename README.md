@@ -1,6 +1,6 @@
 # RLadies+ Meetup Archive
 
-[![Archive meetup data](https://github.com/rladies/meetup_archive/workflows/Archive%20meetup%20data/badge.svg)](https://github.com/rladies/meetup_archive/actions)
+[![Meetup archive](https://github.com/rladies/jinx/actions/workflows/ops-meetup-archive.yml/badge.svg)](https://github.com/rladies/jinx/actions/workflows/ops-meetup-archive.yml)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 Automated data archival and analysis of RLadies+ chapters and events from Meetup.com.
@@ -30,11 +30,12 @@ View all reports in the [reports](reports/) directory:
 
 ### Automated Data Collection
 
-The repository uses GitHub Actions to automatically archive Meetup data every 12 hours:
+Meetup data is archived every 12 hours by [Jinx](https://github.com/rladies/jinx), the RLadies+ organisation bot, through its [`ops-meetup-archive.yml`](https://github.com/rladies/jinx/blob/main/.github/workflows/ops-meetup-archive.yml) workflow.
+Jinx holds the Meetup credentials, runs the scripts in this repository, and commits the results as `jinx[bot]`:
 
-1. **Chapter Data** (`scripts/get_chapters.R`) - Fetches current information about all RLadies+ chapters
-2. **Event Data** (`scripts/get_events.R`) - Retrieves event details including dates, attendance, and topics
-3. **Storage** - Data is saved as JSON in the `data/` directory and committed to the repository
+1. **Archive** (`scripts/archive_all.R`) - Fetches chapters and events from the Meetup Pro API into `archive/raw_data/`, and archives inactive chapters under `archive/inactive_chapters/`
+2. **Website data** (`scripts/data_prep_website.R`) - Builds `data/events.json`, `data/chapters.json` and `data/updated.json` for the RLadies+ website
+3. **Storage** - The JSON output is committed back to this repository
 
 ### Report Generation
 
@@ -115,10 +116,8 @@ For local development:
 meetupr::meetup_auth()
 ```
 
-For GitHub Actions, set the following secrets:
-
-- `"meetupr:token"` - Encrypted OAuth token
-- `"meetupr:token_file"` - Token file content
+The scheduled archive authenticates with Jinx's Meetup JWT credentials, so this repository holds no Meetup secrets.
+See the "Meetup credentials" section of [Jinx's AGENTS.md](https://github.com/rladies/jinx/blob/main/.github/AGENTS.md) for how they are set up and rotated.
 
 ## 📦 Dependencies
 
