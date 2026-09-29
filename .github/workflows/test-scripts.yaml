@@ -22,8 +22,6 @@ jobs:
   test:
     runs-on: ubuntu-latest
     timeout-minutes: 15
-    env:
-      RENV_CONFIG_AUTOLOADER_ENABLED: "FALSE"
     steps:
       - uses: actions/checkout@v6
         with:
@@ -34,7 +32,7 @@ jobs:
           use-public-rspm: true
 
       - name: Install test dependencies
-        run: Rscript -e 'install.packages(c("testthat", "lubridate", "cli"))'
+        run: Rscript --no-init-file -e 'options(warn = 2); install.packages(c("testthat", "lubridate", "cli"))'
 
       - name: Run tests
-        run: Rscript -e 'testthat::test_dir("tests/testthat", reporter = "summary", stop_on_failure = TRUE)'
+        run: Rscript --no-init-file -e 'testthat::test_dir("tests/testthat", reporter = "summary", stop_on_failure = TRUE)'
