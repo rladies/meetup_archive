@@ -9,6 +9,8 @@ library(purrr)
 library(cli)
 library(jose)
 
+source(here::here("scripts", "archive_utils.R"))
+
 # Setup -------------------------------------------------------------------
 
 # Create archive directory structure
@@ -36,65 +38,54 @@ cli_alert_info("Starting archive process at {time_str}")
 
 # Fetch All Events via Pro Network ----------------------------------------
 
-cli_h2("Fetching all events via Meetup API")
+window_start <- archive_window_start(time, days = 90)
 
-events_raw <- meetupr::get_pro_events(
-  "rladies",
-  asis = TRUE,
-  date_after = sprintf("%s-01-01T00:00:00Z", format(time, "%Y")),
-  extra_graphql = "createdTime"
+cli_h2(
+  "Fetching events since {format(window_start, '%Y-%m-%d')} via Meetup API"
 )
 
-# Extract chapter list for processing
-events <- events_raw |>
+events <- meetupr::get_pro_events(
+  "rladies",
+  asis = TRUE,
+  date_after = format(window_start, "%Y-%m-%dT%H:%M:%SZ"),
+  extra_graphql = "createdTime"
+) |>
   map(~ .x$node)
 
+archived_events <- here::here(archive_dir, "raw_data") |>
+  list.files(
+    pattern = "^events_.*\\.json$",
+    full.names = TRUE
+  ) |>
+  lapply(jsonlite::read_json) |>
+  unlist(recursive = FALSE)
+
+all_events <- merge_events(archived_events, events, window_start)
 
 # Split into yearly events files
 # ---------------------------------
 
-years <- unique(format(
-  as.POSIXct(
-    map_chr(events, "dateTime"),
-    format = "%Y-%m-%dT%H:%M:%S"
-  ),
-  "%Y"
-))
+yearly_events <- split_events_by_year(all_events)
+updated_years <- names(yearly_events)[
+  names(yearly_events) >= format(window_start, "%Y")
+]
 
-for (yr in years) {
-  yearly_events <- events |>
-    keep(function(event) {
-      event_year <- format(
-        as.POSIXct(event$dateTime, format = "%Y-%m-%dT%H:%M:%S"),
-        "%Y"
-      )
-      event_year == yr
-    })
-
+for (yr in updated_years) {
   yearly_file <- here::here(
     archive_dir,
     "raw_data",
     paste0("events_", yr, ".json")
   )
   jsonlite::write_json(
-    yearly_events,
+    yearly_events[[yr]],
     yearly_file,
     pretty = TRUE,
     auto_unbox = TRUE
   )
   cli_alert_success(
-    "Saved {.val {length(yearly_events)}} events for year {yr}: {.file {basename(yearly_file)}}"
+    "Saved {.val {length(yearly_events[[yr]])}} events for year {yr}: {.file {basename(yearly_file)}}"
   )
 }
-
-all_events <- here::here(archive_dir, "raw_data") |>
-  list.files(
-    pattern = "^events_.*\\.json$",
-    full.names = TRUE
-  ) |>
-  lapply(jsonlite::read_json) |>
-  unlist(recursive = FALSE) |>
-  c(events)
 
 
 # Fetch Raw Chapter Data --------------------------------------------------
