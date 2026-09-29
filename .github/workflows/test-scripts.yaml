@@ -31,8 +31,21 @@ jobs:
         with:
           use-public-rspm: true
 
+      # The repo .Rprofile points at Posit's source URL, so skip it and set the
+      # binary repo and the user agent it needs to serve Linux binaries.
       - name: Install test dependencies
-        run: Rscript --no-init-file -e 'options(warn = 2); install.packages(c("testthat", "lubridate", "cli"))'
+        shell: Rscript --no-init-file {0}
+        run: |
+          options(
+            warn = 2,
+            repos = c(CRAN = Sys.getenv("RSPM")),
+            HTTPUserAgent = sprintf(
+              "R/%s R (%s)",
+              getRversion(),
+              paste(getRversion(), R.version["platform"], R.version["arch"], R.version["os"])
+            )
+          )
+          install.packages(c("testthat", "lubridate", "cli"))
 
       - name: Run tests
         run: Rscript --no-init-file -e 'testthat::test_dir("tests/testthat", reporter = "summary", stop_on_failure = TRUE)'
