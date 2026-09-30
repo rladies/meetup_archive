@@ -33,7 +33,7 @@ View all reports in the [reports](reports/) directory:
 Meetup data is archived every 12 hours by [Jinx](https://github.com/rladies/jinx), the RLadies+ organisation bot, through its [`ops-meetup-archive.yml`](https://github.com/rladies/jinx/blob/main/.github/workflows/ops-meetup-archive.yml) workflow.
 Jinx holds the Meetup credentials, runs the scripts in this repository, and commits the results as `jinx[bot]`:
 
-1. **Archive** (`scripts/archive_all.R`) - Fetches chapters and events from the Meetup Pro API into `archive/raw_data/`, and archives inactive chapters under `archive/inactive_chapters/`
+1. **Archive** (`scripts/archive_all.R`) - Fetches chapters, plus events from the last 90 days and all upcoming events, from the Meetup Pro API. Events are merged by ID into the yearly files in `archive/raw_data/`, so older years are kept as archived. Inactive chapters are archived under `archive/inactive_chapters/`
 2. **Website data** (`scripts/data_prep_website.R`) - Builds `data/events.json`, `data/chapters.json` and `data/updated.json` for the RLadies+ website
 3. **Storage** - The JSON output is committed back to this repository
 
