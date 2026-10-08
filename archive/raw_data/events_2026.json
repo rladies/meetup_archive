@@ -40,6 +40,46 @@
     "createdTime": "2026-09-22T19:49:37-04:00"
   },
   {
+    "id": "316880437",
+    "title": "posit::conf(2026) %>% glimpse()",
+    "description": "**posit::conf(2026) %>% glimpse()**\n\n**Date:** 29th October, 2026\n**Time:** 5:30 PM (networking and refreshments from 5:30 PM; talk begins at 6:00 PM)\n**Where:** DiUS, Level 3/31 Queen St, Melbourne\n\nCurious about how involvement in open source, community building, mentoring, advocacy, or volunteering can open unexpected doors in your career?\n\nWondering how people find their way into international conferences, scholarship opportunities, and global professional networks, and what role community participation plays along the way?\n\nJoin us for a conversation with Dionne and Mansi, who attended **posit::conf(2026)** in Houston, Texas as **Opportunity Scholars**.\nThis session is not just about the conference itself. It is about the communities, relationships, and contributions that helped make the opportunity possible.\n\nThey will share their journeys through open source and community involvement, and the value of networking, building meaningful professional connections, and contributing to communities in ways that create impact for both oneself and others.\n\nAlong the way, they will share some of their favourite moments from the conference, lessons from meeting people across the global data science ecosystem, and insights that stayed with them long after the conference ended.\n\nWhether you're new to the R community, considering your first conference application, interested in open source, or simply curious about building a more connected and community-focused career, we'd love to see you there!",
+    "status": "ACTIVE",
+    "dateTime": "2026-10-29T17:30:00+11:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-melbourne/events/316880437/",
+    "featuredEventPhoto": {
+      "id": "536492995",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/0/e/3/highres_536492995.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/0/e/3/600_536492995.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/0/e/3/thumb_536492995.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "28373528",
+        "name": "DiUS",
+        "address": "level 3/31 Queen St, Melbourne VIC 3000, Australia",
+        "city": "Melbourne",
+        "state": "",
+        "country": "au",
+        "lat": -37.8182,
+        "lon": 144.9619,
+        "postalCode": "3000",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies+ Melbourne",
+      "urlname": "rladies-melbourne"
+    },
+    "createdTime": "2026-10-07T07:09:12-04:00"
+  },
+  {
     "id": "316720371",
     "title": "Rainy Day Bioacoustics: Listening to Birds with R",
     "description": "As the Vancouver rain sets in, getting out into the field to listen to birds gets a bit trickier—but we can still tune in from the comfort of R! In this hands-on workshop, Sunny will introduce essential R packages designed for bioacousticians. We will walk through extracting bird sounds from Xeno-Canto, running machine learning models like BirdNET to detect species, and visualizing acoustic results—all within R! Along the way, we'll explore beautiful bird vocalizations and spotlight common Pacific Northwest species you hear around Vancouver, from the cheerful songs of Song Sparrows and Black-capped Chickadees to the ever-present Crows.\n\n\\*\\*\\*\n\n1. If this is your first R-Ladies event, please take a moment to review our R-Ladies Global code of conduct: [https://github.com/rladies/starter-kit/wiki/Code-of-Conduct](https://github.com/rladies/starter-kit/wiki/Code-of-Conduct)\n2. Who is this allowed to attend the event?\n\nEveryone is welcome to join us at our events and to be a part of our mission to empower gender minorities with the skills and knowledge to code in one of the top programming language in data science, which is R.\n3\\. To fulfill this mission we do ask participants to respect a focus on the encouragement and support for women and non\\-binary people during our events\\.",
