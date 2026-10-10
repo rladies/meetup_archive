@@ -1,0 +1,2590 @@
+[
+  {
+    "id": "245361489",
+    "title": "Reunión de cierre año 2017",
+    "description": "¡Ya tenemos fecha para nuestra última reunión del 2017!\n\nEl jueves 7 de diciembre a partir de las 16:00 haremos un evento especial de cierre de año: un meetup múltiple con el grupo de usuarios de R en Chile (useRchile) y con la comunidad de PowerBI. En esta ocasión, el foco estará puesto en la presentación de trabajos y proyectos.\n\nCharla 1 - Alexis Alvear, Subdirector Data UC: \"Democratización de los Datos Públicos\".\n\nCharla 2 - Cesar Hormazábal, Data Science en Metric Arts: \"Utilizando R, llevando el Data Science a Power BI\".\n\nCharla 3 - Riva Quiroga, Facultad de Letras UC: \"Text mining en R: buscando patrones lingüísticos en discursos políticos\".\n\nCharla 4 - Derek Corcoran, Chief Experience Officer at Avoka: \"Análisis espaciales y machine learning para predecir los resultados de la NBA en R\".\n\nCharla 5 - Sara Acevedo, Doctora (c) en Ciencias de la Ingeniería UC: \"Aplicación de algoritmos de machine learning para la estimación de propiedades del suelo\".\n\nCharla 6 - Joshua Kunst, R fan: “¿Por qué Shiny? ¿Por qué con estilo?”",
+    "status": "PAST",
+    "dateTime": "2017-12-07T16:00:00-03:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/245361489/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 34,
+      "waitlistCount": 0,
+      "totalCount": 34
+    },
+    "venues": [
+      {
+        "id": "25649472",
+        "name": "Sala CS101 - Campus San Joaquín",
+        "address": "Facultad de Ciencias de la Salud",
+        "city": "Santiago",
+        "state": "",
+        "country": "cl",
+        "lat": -33.5006,
+        "lon": -70.6102,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2017-11-24T10:43:41-05:00"
+  },
+  {
+    "id": "244977342",
+    "title": "Tercera reunión de RLadies Santiago",
+    "description": "¡Ya tenemos fecha para nuestra reunión de noviembre! En este tercer meetup nos introduciremos en el “tidyverse”, una colección de paquetes de R que hacen el trabajo con datos mucho más amigable :) Nos concentraremos principalmente en la importación, transformación y exploración de datos. No es necesario tener conocimientos previos, solo tener descargado R (https://cran.r-project.org/) , RStudio (https://www.rstudio.com/products/rstudio/download/) y los paquetes que conforman el tidyverse. Para esto último, debes correr el siguiente código: install.packages(\"tidyverse”). También utilizaremos el paquete 'gapminder' -> install.packages(\"gapminder\"). Si tienes dudas sobre descargar estos paquetes, ¡escríbenos!\n\nEn esta ocasión nos reuniremos en IBM, que se encuentra a pasos del metro Salvador.\n\nAdemás, participará Pablo Reinoso de IBM, con una charla sobre Data Science Experience - DSX.\n\nTrae tu computador, ya que es una sesión práctica :)\n\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2017-11-22T18:00:00-03:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/244977342/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 45,
+      "waitlistCount": 0,
+      "totalCount": 45
+    },
+    "venues": [
+      {
+        "id": "25182503",
+        "name": "IBM Chile",
+        "address": "Providencia 655, Providencia",
+        "city": "Santiago",
+        "state": "",
+        "country": "cl",
+        "lat": -33.4335,
+        "lon": -70.626,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2017-11-09T17:50:50-05:00"
+  },
+  {
+    "id": "244187162",
+    "title": "Segunda reunión de R-Ladies Santiago",
+    "description": "¡Ya tenemos fecha para nuestra reunión de octubre!\n\nEn este segundo meetup tendremos tutoriales, espacio para conversar y tomar café, y stickeRs para regalar :)\n\nLa sesión se organizará así:\n\n18:00 - 18:30 | Tutorial: Aprender a hablar en R: instalación y primeros pasos\n(a cargo de Riva Quiroga)\n\n18:30 - 20:00 | Tutorial: Exploración y visualización de datos con R\n(a cargo de Gabriela Sandoval)\n\nRSVP\n\n¡Trae tu computador! Esta será una sesión práctica :)\n\nSi no lo has hecho aún, descarga R y R Studio. Los instalaremos durante la sesión:\n\nhttps://cran.r-project.org/\n\nhttps://www.rstudio.com/products/rstudio/download/",
+    "status": "PAST",
+    "dateTime": "2017-10-24T18:00:00-03:00",
+    "duration": "PT2H15M",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/244187162/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 33,
+      "waitlistCount": 0,
+      "totalCount": 33
+    },
+    "venues": [
+      {
+        "id": "25410995",
+        "name": "Entel Parque Titanium",
+        "address": "Costanera Sur 2760",
+        "city": "Santiago",
+        "state": "",
+        "country": "cl",
+        "lat": -33.4127,
+        "lon": -70.6059,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2017-10-13T19:43:07-04:00"
+  },
+  {
+    "id": "243287423",
+    "title": "Primera reunión de R-Ladies Santiago",
+    "description": "¡Ya tenemos fecha de inicio!\nLas invitamos a la reunión de lanzamiento de R-Ladies Santiago.\nEl objetivo de este primer meetup es conocernos y contarles en qué consiste esta iniciativa. Además, haremos una breve introducción a R para aquellas que están recién conociéndolo y tres usuaRias nos contarán sobre los usos de R en sus áreas: análisis de datos geográficos, análisis de textos y Data Science.\nSi aún no utilizas R o recién estás empezando, esta es una muy buena ocasión para conocer más sobre este lenguaje de programación. Si eres una usuaRia avanzada, esta puede ser una oportunidad para contar tu experiencia y compartir con otras tu conocimiento.\n\nLas presentaciones estarán a cargo de Gabriela Sandoval, Inés Varas, Roxana Trujillo, Stefanni Cavaletto y Riva Quiroga.\n\nRSVP\n¡Las esperamos!",
+    "status": "PAST",
+    "dateTime": "2017-09-21T18:00:00-03:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/243287423/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 31,
+      "waitlistCount": 0,
+      "totalCount": 31
+    },
+    "venues": [
+      {
+        "id": "25410995",
+        "name": "Entel Parque Titanium",
+        "address": "Costanera Sur 2760",
+        "city": "Santiago",
+        "state": "",
+        "country": "cl",
+        "lat": -33.4127,
+        "lon": -70.6059,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2017-09-11T18:02:04-04:00"
+  },
+  {
+    "id": "256419246",
+    "title": "Usos de R en Ciencias Sociales y Humanidades: web scraping",
+    "description": "¡Último meetup de 2018 antes de nuestro evento de fin de año: satRday Santiago (https://santiago2018.satrdays.org)!\n\n::::::::::::::::::::::\n\nEl próximo viernes 23 de noviembre a las 15:30 tendremos la última sesión de nuestra serie de talleres de aplicaciones de R en Ciencias Sociales y Humanidades. Tuvimos que hacer un cambio en el programa, por lo que el nuevo tema de nuestro último taller será \"web scraping\". ¿Qué haremos? Usando el paquete `rvest`, extraeremos información de páginas de Transparencia del Senado y la Cámara de Diputados, y revisaremos el proceso para convertir esa información en datos ordenados y analizables.\n¡Te esperamos!\n\n::::::: INFORMACIÓN SOBRE NUESTRO EVENTO DE FIN DE AÑO:::::::::::\nEl evento, que estamos organizando en conjunto con el Grupo de Usuarios de R, se llevará el sábado 15 de diciembre en la Casa Central de la UC. Además, se realizarán talleres el viernes 14 en la tarde en el campus San Joaquín. Puedes revisar el sitio web para conocer los detalles: https://santiago2018.satrdays.org.\n\nFechas importantes:\n\n- Hasta este lunes 19 estará abierta la convocatoria para presentaciones: https://bit.ly/satRdaySCL2018. ¡Nos interesa mucho que haya un porcentaje importante de RLadies sobre el escenario! Puedes presentar alguna aplicación de R que hayas hecho en tu área de estudio o trabajo, una Shiny app que hayas creado, etc. Si tienes dudas sobre qué presentar o cómo hacerlo, escríbenos.\n\n- Hasta el lunes 19 estará abierta la postulación a becas de asistencia, que incluyen la entrada (evento + talleres del viernes) y, dependiendo del caso, una ayuda económica para financiar el viaje: https://bit.ly/satRdaySantiago2018-becas",
+    "status": "PAST",
+    "dateTime": "2018-11-23T15:30:00-03:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/256419246/",
+    "featuredEventPhoto": {
+      "id": "476345176",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/4/3/8/highres_476345176.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/4/3/8/600_476345176.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/4/3/8/thumb_476345176.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 35,
+      "waitlistCount": 0,
+      "totalCount": 35
+    },
+    "venues": [
+      {
+        "id": "25790542",
+        "name": "Campus San Joaquín- UC",
+        "address": "Av. Vicuña Mackenna 4840",
+        "city": "Santiago",
+        "state": "",
+        "country": "cl",
+        "lat": -33.4971,
+        "lon": -70.6139,
+        "postalCode": "meetup1",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2018-11-14T17:48:13-05:00"
+  },
+  {
+    "id": "255610480",
+    "title": "Usos de R en Ciencias Sociales y Humanidades: sesión 3",
+    "description": "¡Hola!\nEste viernes 19 de octubre continuamos con la serie de meetups sobre usos de R en Ciencias Sociales y Humanidades que estamos organizando en conjunto con el Instituto de Ciencia Política de la Universidad Católica. En cada sesión tendremos la presentación de un proyecto, seguida de un taller para reproducir algunos de los análisis presentados.\n\nLa serie está compuesta por cuatro sesiones:\n\n- Viernes 17 de agosto: Análisis de discursos políticos en Latinoamérica (Riva Quiroga)\n- Viernes 23 de septiembre: Análisis de datos sobre reelección local en Chile (Soledad Araya)\n- Viernes 19 de octubre: Análisis de redes en el Congreso (Carmen Le Foulon)\n- Viernes 23 noviembre: Análisis de datos educacionales y psicometría (Claudia Cifuentes)\n\n***\n\nEn esta tercera sesión, aprenderemos sobre análisis de redes y cómo aplicarlo a datos sobre el congreso de Chile. La presentación y el taller estarán a cargo de Carmen Le Foulon, académica del Instituto de Ciencia Política UC. Utilizaremos los paquetes `tidyverse` e `igraph`.\n\nSi no has utilizado R antes, te sugerimos revisar el siguiente tutorial introductorio: http://bit.ly/tutorial-intro-R . Cualquier duda, puedes dejarla en los comentarios más abajo.\nMañana publicaremos los datos que es necesario descargar antes de la sesión (pondremos el enlace en los comentarios). No podemos asegurar acceso a wifi, así que trata de descargarlos con anterioridad. En la misma línea, trae tu computador con la batería cargada, ya que no hay muchos enchufes en la sala.\nSi es primera vez que asistes a un evento de RLadies, no olvides revisar nuestro código de conducta. Este nos permite asegurar un ambiente de aprendizaje amable y seguro para tod*s.\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2018-10-19T15:30:00-03:00",
+    "duration": "PT1H20M",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/255610480/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 24,
+      "waitlistCount": 0,
+      "totalCount": 24
+    },
+    "venues": [
+      {
+        "id": "25790542",
+        "name": "Campus San Joaquín- UC",
+        "address": "Av. Vicuña Mackenna 4840",
+        "city": "Santiago",
+        "state": "",
+        "country": "cl",
+        "lat": -33.4971,
+        "lon": -70.6139,
+        "postalCode": "meetup1",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2018-10-17T12:11:51-04:00"
+  },
+  {
+    "id": "254897444",
+    "title": "Usos de R en Ciencias Sociales y Humanidades: sesión 2",
+    "description": "¡Hola!\nEste viernes 28 de septiembre continuamos con la serie de meetups sobre usos de R en Ciencias Sociales y Humanidades que estamos organizando en conjunto con el Instituto de Ciencia Política de la Universidad Católica. En cada sesión tendremos la presentación de un proyecto, seguida de un taller para reproducir algunos de los análisis presentados.\n\nLa serie está compuesta por cuatro sesiones:\n\n- Viernes 17 de agosto: Análisis de discursos políticos en Latinoamérica (Riva Quiroga)\n- Viernes 23 de septiembre: Análisis de datos sobre reelección local en Chile (Soledad Araya)\n- Viernes 26 de octubre: Análisis de redes en el Congreso (Carmen Le Foulon)\n- Viernes 23 noviembre: Análisis de datos educacionales y psicometría (Claudia Cifuentes)\n\n***\n\nEn esta segunda sesión, veremos la importancia de la visualización para el análisis de datos sobre reelección local en Chile. La presentación y el taller estarán a cargo de Soledad Araya, Cientista Política. Utilizaremos los paquetes `tidyverse`, `sf`, `devtools ` y `gganimate`. Este último paquete no está en CRAN, por lo que debes instalarlo así: devtools::install_github('thomasp85/gganimate'). Si no has utilizado R antes, te sugerimos revisar el siguiente tutorial introductorio: http://bit.ly/tutorial-intro-R . Cualquier duda, puedes dejarla en los comentarios más abajo.\nEn los próximos días publicaremos los datos que es necesario descargar antes de la sesión. No podemos asegurar acceso a wifi, así que trata de descargarlos con anterioridad. En la misma línea, trae tu computador con la batería cargada, ya que no hay muchos enchufes en la sala.\nSi es primera vez que asistes a un evento de RLadies, no olvides revisar nuestro código de conducta. Este nos permite asegurar un ambiente de aprendizaje amable y seguro para tod*s.\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2018-09-28T15:30:00-03:00",
+    "duration": "PT1H20M",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/254897444/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 38,
+      "waitlistCount": 0,
+      "totalCount": 38
+    },
+    "venues": [
+      {
+        "id": "25790542",
+        "name": "Campus San Joaquín- UC",
+        "address": "Av. Vicuña Mackenna 4840",
+        "city": "Santiago",
+        "state": "",
+        "country": "cl",
+        "lat": -33.4971,
+        "lon": -70.6139,
+        "postalCode": "meetup1",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2018-09-21T18:50:37-04:00"
+  },
+  {
+    "id": "254635981",
+    "title": "¡Celebramos un año! Taller sobre RMarkdown + planes para el futuro",
+    "description": "¡Estamos de cumpleaños! Y para celebrarlo, el próximo jueves 20 de septiembre nos juntaremos a hacer lo que más nos gusta: hablar y aprender sobre R.\n\nEn esta ocasión tendremos un taller sobre RMarkdown a cargo de Gabriela Sandoval. RMarkdown permite generar documentos y presentaciones en RStudio, y en combinación con otros paquetes puedes incluso crear reportes interactivos, dashboards, libros y sitios web. Si buscas cómo comunicar los resultados de tus análisis o te interesa que estos sean reproducibles, RMarkdown es lo que necesitas.\n\nPara el taller es necesario que tengas instalado R, RStudio y los paquetes “tidyverse” y “gapminder”. Si eres nueva en R, puedes revisar el comienzo del siguiente tutorial para seguir el proceso de instalación: http://bit.ly/tutorial-intro-R.\n\nAdemás del taller, ¡tendremos noticias! Riva Quiroga nos contará sobre LatinR 2018, la conferencia latinoamericana sobre R que acaba de realizarse en Buenos Aires. Podrás conocer los detalles de lo ocurrido en esta versión y los planes para realizarla el 2019 en Chile. También sabremos más sobre satRday Santiago, el evento de fin de año que estamos organizando en conjunto con el Grupo de Usuarios de R.\n\nSi es primera vez que vienes, no olvides revisar con detención nuestro código de conducta, ya que es necesario aceptarlo para poder participar. Recuerda también que nuestro objetivo es promover la participación de mujeres y géneros disidentes, por lo que en caso de generarse una lista de espera estos grupos tendrán prioridad.\n\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2018-09-20T18:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/254635981/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 32,
+      "waitlistCount": 4,
+      "totalCount": 32
+    },
+    "venues": [
+      {
+        "id": "25410995",
+        "name": "Entel Parque Titanium",
+        "address": "Costanera Sur 2760",
+        "city": "Santiago",
+        "state": "",
+        "country": "cl",
+        "lat": -33.4127,
+        "lon": -70.6059,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2018-09-12T21:26:23-04:00"
+  },
+  {
+    "id": "253743503",
+    "title": "Usos de R en Ciencias Sociales y Humanidades: sesión 1",
+    "description": "¡Hola!\nEste viernes 17 de agosto damos inicio a una serie de meetups sobre usos de R en Ciencias Sociales y Humanidades que estamos organizando en conjunto con el Instituto de Ciencia Política de la Universidad Católica. En cada sesión habrá una presentación de un proyecto de investigación, seguida de un taller para reproducir algunos de los análisis presentados.\n\nLos temas a abordar serán los siguientes:\n\n- Viernes 17 de agosto: Análisis de discursos políticos en Latinoamérica (Riva Quiroga)\n- Viernes 23 de septiembre: Análisis de datos sobre reelección local en Chile (Soledad Araya)\n- Viernes 26 de octubre: Análisis de redes en el Congreso (Carmen Le Foulon)\n- Viernes 23 noviembre: Análisis de datos educacionales y psicometría (Claudia Cifuentes)\n\n***\n\nEn esta primera sesión, abordaremos los desafíos del análisis de textos usando R. La presentación y el taller estarán a cargo de Riva Quiroga (@rivaquiroga), estudiante del Doctorado en Lingüística de la UC. Utilizaremos los paquetes `readtext`, `quanteda` y `tidyverse`, por lo que es importante que los traigas instalados.\nSi no has utilizado R antes, te sugerimos revisar el siguiente tutorial introductorio: http://bit.ly/tutorial-intro-R.\nEn los próximos días publicaremos los materiales que es necesario descargar antes de la sesión. No podemos asegurar acceso a wifi, así que trata de descargarlos con anterioridad. En la misma línea, trae tu computador con la batería cargada, ya que no hay muchos enchufes en la sala.\nSi es primera vez que asistes a un evento de RLadies, no olvides revisar nuestro código de conducta.\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2018-08-17T15:30:00-03:00",
+    "duration": "PT1H20M",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/253743503/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 37,
+      "waitlistCount": 0,
+      "totalCount": 37
+    },
+    "venues": [
+      {
+        "id": "25790542",
+        "name": "Campus San Joaquín- UC",
+        "address": "Av. Vicuña Mackenna 4840",
+        "city": "Santiago",
+        "state": "",
+        "country": "cl",
+        "lat": -33.4971,
+        "lon": -70.6139,
+        "postalCode": "meetup1",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2018-08-12T23:21:51-04:00"
+  },
+  {
+    "id": "253076025",
+    "title": "¿Cómo crear un paquete en R?",
+    "description": "¡Ya tenemos fecha para nuestro próximo taller!\nEste jueves 27 de julio a las 18:30 horas nos reuniremos para aprender paso a paso cómo crear un paquete en R.\n\n¿Para qué sirve crear un paquete?\nAdemás de que en R esta es la forma que tenemos para compartir código, crear un paquete nos sirve, sobre todo, para ahorrar tiempo: nos permite reutilizar funciones que usamos con frecuencia y también tener disponibles datos que ocupamos de manera recurrente ya listos para el análisis.\nEn este taller, Claudia Cifuentes y Carla Salinas, estudiantes del Magíster en Estadística UC, te guiarán por el proceso de creación de tu primer paquete en R, en un ambiente amigable de aprendizaje y colaboración :)\n\n¡Te esperamos!\n\nIMPORTANTE:\nDebes traer ya instalados los siguientes paquetes:\n\ninstall.packages(\"devtools\")\ninstall.packages(\"roxygen2\")\n\ny tu computador con la batería cargada, ya que no hay muchos enchufes disponibles.\n\n¿Es primer vez que asistes? No olvides revisar nuestro código de conducta :)",
+    "status": "PAST",
+    "dateTime": "2018-07-26T18:30:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/253076025/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 20,
+      "waitlistCount": 0,
+      "totalCount": 20
+    },
+    "venues": [
+      {
+        "id": "25410995",
+        "name": "Entel Parque Titanium",
+        "address": "Costanera Sur 2760",
+        "city": "Santiago",
+        "state": "",
+        "country": "cl",
+        "lat": -33.4127,
+        "lon": -70.6059,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2018-07-23T17:38:29-04:00"
+  },
+  {
+    "id": "251996240",
+    "title": "Modelos predictivos usando R",
+    "description": "¡Ya tenemos fecha para nuestra reunión de junio!\nEl próximo miércoles 27 a las 18:00 nos reuniremos para aprender sobre modelos predictivos usando R. El taller estará a cargo de Sara Acevedo y se llevará a cabo en el espacio de co-work de StartUp Chile. En esta sesión aprenderemos a utilizar el paquete 'caret' y como ejemplo trabajaremos con los datos del Titanic para evaluar la predicción de la supervivencia de sus pasajeros al desastre.\nNo es necesario tener conocimientos previos sobre machine learning; solo necesitas estar lo suficientemente familiarizada con RStudio, como para poder ir siguiendo los ejercicios. Si nunca lo has utilizado antes, puedes revisar el tutorial introductorio que elaboramos a partir de uno de nuestros talleres anteriores: https://goo.gl/XAvx9Q.\n\nEstos son los paquetes que usaremos durante el taller. Si no tienes alguno, puedes utilizar el siguiente código para instalarlo:\n\ninstall.packages(\"caret\")\ninstall.packages(\"titanic\")\ninstall.packages(\"tidyverse\")\ninstall.packages(\"Amelia\")\ninstall.packages(\"lattice\")\ninstall.packages(\"corrplot\")\n\nNo olvides que esta es una iniciativa que busca promover la diversidad de género en la comunidad de R y en la programación en general, por lo que en caso de que se genere una lista de espera, la prioridad para el cupo la tendrán mujeres y otros géneros disidentes.\n\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2018-06-27T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/251996240/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 34,
+      "waitlistCount": 6,
+      "totalCount": 34
+    },
+    "venues": [
+      {
+        "id": "25836593",
+        "name": "Co-Work Start-Up Chile",
+        "address": "Monjitas 565, 5to piso",
+        "city": "Santiago",
+        "state": "",
+        "country": "cl",
+        "lat": -33.4366,
+        "lon": -70.6453,
+        "postalCode": "meetup1",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2018-06-21T13:13:41-04:00"
+  },
+  {
+    "id": "250924154",
+    "title": "Datos espaciales en R",
+    "description": "Ya está todo listo para nuestra reunión del próximo jueves 24 de mayo. Será una sesión temática sobre datos espaciales en la que tendremos la participación de dos mujeres especialistas en el área.\n\nEs esta ocasión, al igual que en abril, contamos con el apoyo de Mapoteca (http://mapoteca.co/), quienes además han gestionado esta nueva locación: el espacio de co-work de StartUp Chile. ¡A solo pasos del Metro Bellas Artes!\n\nAgenda:\n\n>> Presentación: \"Ser una Spacial Data Engineer\", a cargo de Camila Tudela\n\nEn esta presentación, Camila nos contará sobre la experiencia de Mapoteca con su programa de entrenamiento interno de programación en R para la sistematización de imágenes satelitales. A través de esta instancia, además han buscado potenciar el rol femenino en posiciones ingenieriles y de programación en la industria geoespacial.\n\nCamila Tudela es Geógrafa de la Universidad de Chile. Actualmente es parte del equipo trainee de ingeniería de datos en Mapoteca: https://www.linkedin.com/in/camila-tudela-b17105100\n\n>> Taller/Demo: \"Análisis de datos espaciales usando R\", a cargo de Joselyn Robledo.\n\nJoselyn nos mostrará cómo analizar imágenes de distinto tipo. Como el procesamiento de datos satelitales es lento (¡más de lo que dura el meetup!), la parte dedicada a esa clase de imágenes será demostrativa: Joselyn nos guiará paso a paso en el análisis, con el fin de que luego puedas replicar el procedimiento. Además, habrá una sección práctica, en la que analizaremos imágenes más livianas, así que lleva tu computador. En los próximos días publicaremos la información relativa a los datos y paquetes que hay que instalar.\n\nJoselyn es Ingeniera en Geomensura de la USACH y Experta en calidad y gestión de la información geográfica de la Universidad de Jaén, España. Actualmente trabaja en el Servicio Aerofotogramétrico de la Fuerza Aérea de Chile, a cargo de la infraestructura de datos espaciales corporativa de dicha institución. Además, es Docente de la Escuela de Cartografía de la UTEM, en las asignaturas de Geodesia y Geodesia Satelital.\n\n¿Eres hombre y te interesa participar? ¡Ven con una amiga!",
+    "status": "PAST",
+    "dateTime": "2018-05-24T18:00:00-04:00",
+    "duration": "PT2H30M",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/250924154/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 39,
+      "waitlistCount": 1,
+      "totalCount": 39
+    },
+    "venues": [
+      {
+        "id": "25836593",
+        "name": "Co-Work Start-Up Chile",
+        "address": "Monjitas 565, 5to piso",
+        "city": "Santiago",
+        "state": "",
+        "country": "cl",
+        "lat": -33.4366,
+        "lon": -70.6453,
+        "postalCode": "meetup1",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2018-05-18T20:02:49-04:00"
+  },
+  {
+    "id": "249942453",
+    "title": "Taller de visualización de datos con ggplot2",
+    "description": "¡Ya tenemos fecha para nuestro meetup de abril!\nEl próximo miércoles 25 de abril a las 18:00 nos juntaremos para aprender a utilizar ggplot2, un paquete para visualización de datos. El taller estará a cargo de Soledad Araya.\nSerá una sesión práctica, así que es importante que traigas tu computador con la batería cargada, ya que hay pocos enchufes en la sala. Es necesario que tengas instalados los siguientes paquetes: ggplot2, gapminder, scales, ggthemes, hrbrthemes y socviz. Este último se instala de una manera diferente. Debes correr el siguiente código en tu consola: devtools::install_github(\"kjhealy/socviz\")\nSi eres nueva en R y quieres estar un poco más familiarizada con RStudio para aprovechar mejor el taller, te sugerimos revisar nuestro tutorial introductorio: https://goo.gl/XAvx9Q\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2018-04-25T18:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/249942453/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 33,
+      "waitlistCount": 0,
+      "totalCount": 33
+    },
+    "venues": [
+      {
+        "id": "25410995",
+        "name": "Entel Parque Titanium",
+        "address": "Costanera Sur 2760",
+        "city": "Santiago",
+        "state": "",
+        "country": "cl",
+        "lat": -33.4127,
+        "lon": -70.6059,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2018-04-19T11:48:40-04:00"
+  },
+  {
+    "id": "249402011",
+    "title": "Taller: primeros pasos en R",
+    "description": "Como preparación para nuestra reunión de fin de mes (en la que aprenderemos a visualizar datos con ggplot2) esta semana haremos un taller extra destinado a quienes nunca han ocupado R: empezaremos desde cero.\nLas esperamos el viernes 6 de abril a las 14.00 en el campus San Joaquín de la Universidad Católica (metro San Joaquín, L5).\nEs una sesión práctica, así que es importante que traigas tu computador cargado (hay solo un par de enchufes en la sala) y que tengas instalado R (https://cran.r-project.org/) y RStudio (https://www.rstudio.com/products/rstudio/download/).\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2018-04-06T14:00:00-03:00",
+    "duration": "PT2H30M",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/249402011/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 26,
+      "waitlistCount": 0,
+      "totalCount": 26
+    },
+    "venues": [
+      {
+        "id": "25790542",
+        "name": "Campus San Joaquín- UC",
+        "address": "Av. Vicuña Mackenna 4840",
+        "city": "Santiago",
+        "state": "",
+        "country": "cl",
+        "lat": -33.4992,
+        "lon": -70.6156,
+        "postalCode": "meetup1",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2018-04-03T19:08:08-04:00"
+  },
+  {
+    "id": "249000617",
+    "title": "¡Primer meetup de la temporada 2018!",
+    "description": "¡Comenzamos la temporada 2018!\n\nEl próximo miércoles 28 de marzo tendremos nuestro primer evento del año. Nos reuniremos a las 18:00 en las oficinas corporativas de Entel para compartir la programación de este año y lo que se viene para la comunidad de RLadies.\n\n-Planes para 2018: presentaremos la lista de talleres planificados para este año y las nuevas modalidades a implementar. Además, conoceremos detalles sobre LatinR (la conferencia sobre uso de R que se llevará a cabo en Buenos Aires a principios de septiembre) y sobre cómo participar en ella.\n- Recursos: mostraremos materiales que han sido desarrollados para acompañar a quienes recién comienzan a incursionar en R y para quienes quieren desarrollar más sus habilidades de programación.\n- RLadiesLatam: Gaby Sandoval nos contará sobre su experiencia de trabajo conjunto con RLadies Quito y sobre la creación de lazos en Latinoamérica.\n- Superar el síndrome del impostor: Riva Quiroga nos contará cómo llegó a ser parte NASA Datanauts, sobre cómo planea usar R ahí y sobre por qué vale la pena perder el miedo a postular (a lo que sea).\n- La vida como Data Scientist: Steffani Cavaletto nos hablará sobre cómo ocupa R en su trabajo y sobre su participación en Women in Data Science 2018.\n\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2018-03-28T18:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/249000617/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 38,
+      "waitlistCount": 0,
+      "totalCount": 38
+    },
+    "venues": [
+      {
+        "id": "25410995",
+        "name": "Entel Parque Titanium",
+        "address": "Costanera Sur 2760",
+        "city": "Santiago",
+        "state": "",
+        "country": "cl",
+        "lat": -33.4127,
+        "lon": -70.6059,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2018-03-22T14:14:09-04:00"
+  },
+  {
+    "id": "264712551",
+    "title": "Mentoría: postulación becas de diversidad rstudio::conf 2020",
+    "description": "¡Hola!\n\nEste evento es distinto a los que organizamos habitualmente, así que por favor revisa los detalles de más abajo detenidamente <3\n\nYa está abierta la convocatoria a las becas de diversidad de la rstudio::conf, la conferencia anual que organiza RStudio y que este año se realizará en San Francisco a fines de enero de 2020. Este lunes organizaremos un evento colaborativo sobre cómo postular. La idea es conversar sobre las cosas que haces y cómo potenciarlas al completar el formulario. También hablaremos sobre formas en que puedes compartir el código que has escrito (Github + creando un sitio web con blogdown). No olvides revisar la convocatoria con anterioridad: https://blog.rstudio.com/2019/08/30/diversity-scholarships/\n\nLa actividad funciona así: entre 18:30 y 20:00 estaremos en el Café Triciclo, ubicado en Vicuña Mackenna 38. Ven con las ideas que tienes para tu postulación en algún momento de ese horario para que conversemos acerca de ellas. La conversación puede ser en modalidad 1 a 1, apta para introvertidas :) Si te compras un café o un té para retribuir la buena onda del Café Triciclo, mejor aún.\n\nComo nuestro objetivo con esta actividad es promover la diversidad de género de la conferencia, sus destinatarias son personas que se identifican como mujeres o con un género disidente.\n\nSi es primera vez que asistes a uno de nuestros eventos, es necesario que leas nuestro código de conducta, ya que aceptar esos términos es requisito para participar: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\n\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2019-09-16T18:30:00-03:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/264712551/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 13,
+      "waitlistCount": 0,
+      "totalCount": 13
+    },
+    "venues": [
+      {
+        "id": "26278336",
+        "name": "Café Triciclo",
+        "address": "Santo Domingo 598",
+        "city": "Santiago",
+        "state": "Re",
+        "country": "cl",
+        "lat": -33.4388,
+        "lon": -70.6346,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2019-09-09T23:45:15-04:00"
+  },
+  {
+    "id": "263464752",
+    "title": "Taller sobre RMarkdown (+ reseña useR! 2019)",
+    "description": "Este lunes 29 de julio nos reuniremos para aprender sobre RMarkdown de la mano de Gaby Sandoval (https://twitter.com/GabySandovalM). El énfasis estará puesto en la personalización de tablas, gráficos y presentaciones.\nPara el taller es necesario que tengas instalada la última versión de RStudio, el paquete {datos} [install.packages(\"datos\")] y Miktex (https://miktex.org/). Si tienes dudas sobre la instalación, te sugerimos llegar unos minutos antes para que revisemos que tienes todo lo necesario.\nAdemás, Riva Quiroga nos contará sobre su experiencia participando en la conferencia useR! 2019, que se realizó a principios de mes en Toulouse (http://www.user2019.fr/), y entregará orientaciones sobre cómo postular a las becas de diversidad para LatinR 2019 (http://latin-r.com/).\n\nSi es la primera vez que asistes a uno de nuestros eventos, recuerda revisar nuestro código de conducta. Es requisito para asistir estar de acuerdo con él: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\n\n¡Muchas gracias Microsoft por recibirnos!",
+    "status": "PAST",
+    "dateTime": "2019-07-29T18:30:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/263464752/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 33,
+      "waitlistCount": 0,
+      "totalCount": 33
+    },
+    "venues": [
+      {
+        "id": "26421023",
+        "name": "Microsoft Chile",
+        "address": "Av. Vitacura 6844",
+        "city": "Vitacura",
+        "state": "Re",
+        "country": "cl",
+        "lat": -33.3874,
+        "lon": -70.5665,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2019-07-25T16:42:54-04:00"
+  },
+  {
+    "id": "262185990",
+    "title": "Taller sobre extracción de tablas + modelos compilados (¡hubo cambio de tema!)",
+    "description": "[editado el 14 de junio]\n\nEl próximo lunes 17 de junio nos volvemos a reunir. En esta ocasión, Ekhos nos recibe en sus oficinas ubicadas muy cerca del metro Tobalaba :)\nLa sesión estará dividida en dos:\n\n1. En la primera parte, Riva Quiroga (https://twitter.com/rivaquiroga) nos mostrará diversas aproximaciones a la extracción de tablas que están en archivos en pdf. Los paquetes que debes tener instalados para esta parte son {tidyverse}, {tesseract}, {datapasta} y {tabulizer}. Una vez que instales {tesseract}, ejecuta el siguiente código en R para descargar el modelo para español: tesseract::tesseract_download(\"spa\"). Si tu sistema operativo es Linux, debes hacerlo en el terminal (sudo apt install tesseract-ocr-spa).\n\n2. En la segunda parte, Stefanni Cavaletto (https://twitter.com/stefanni_ch) nos mostrará cómo trabajar con modelos compilados (`stacked models`). Los paquetes que debes tener instalados son: {pacman}, {e1071}, {corrplot} y {tidyverse}. Los datos que utilizaremos puedes descargarlos desde este enlace: https://www.dropbox.com/s/atpb1ga9ecql2uq/karan-churn.xlsx?dl=0\n\nSi tienes dudas sobre si todo quedó bien instalado en tu computador, te sugerimos llegar 15 minutos antes para que veamos cómo resolverlo.\n\nSi es la primera vez que asistes a uno de nuestros eventos, recuerda revisar nuestro código de conducta. Es requisito para asistir estar de acuerdo con él: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\n\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2019-06-17T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/262185990/",
+    "featuredEventPhoto": {
+      "id": "482238809",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/9/7/9/highres_482238809.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/9/7/9/600_482238809.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/9/7/9/thumb_482238809.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 34,
+      "waitlistCount": 0,
+      "totalCount": 34
+    },
+    "venues": [
+      {
+        "id": "26445231",
+        "name": "El Canelo 2715",
+        "address": "El Canelo 2715",
+        "city": "Providencia",
+        "state": "Re",
+        "country": "cl",
+        "lat": -33.4215,
+        "lon": -70.5995,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2019-06-09T19:34:46-04:00"
+  },
+  {
+    "id": "261682438",
+    "title": "Análisis de textos usando R: un taller a dúo entre RLadies SCL y RLadies CDMX",
+    "description": "¡Tenemos una visita! Silvia Gutiérrez (http://twitter.com/espejolento) de RLadies Ciudad de México estará de visita en Santiago. Y junto con Riva Quiroga (www.twitter.com/rivaquiroga), han estado preparando un taller a dúo sobre análisis de textos usando R.\n\nLas esperamos el próximo lunes 27 de abril a las 18.00 en las oficinas de Tanner. ¡Muchas gracias Tanner por recibirnos nuevamente!\n\nPara el taller, es importante que traigan instalados los siguientes paquetes: stylo, gutenbergr, tokenizers, pdftools, wordcloud y tidyverse. En los próximos días publicaremos en los comentarios el enlace para descargar los datos que utilizaremos.\n\nSi es la primera vez que asistes a uno de nuestros eventos, recuerda revisar nuestro código de conducta. Es requisito para asistir estar de acuerdo con él: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\n\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2019-05-27T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/261682438/",
+    "featuredEventPhoto": {
+      "id": "481561436",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/9/c/highres_481561436.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/9/c/600_481561436.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/9/c/thumb_481561436.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 45,
+      "waitlistCount": 0,
+      "totalCount": 45
+    },
+    "venues": [
+      {
+        "id": "26269054",
+        "name": "Tanner",
+        "address": "Estado 337",
+        "city": "Santiago",
+        "state": "Re",
+        "country": "cl",
+        "lat": -33.4393,
+        "lon": -70.6496,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2019-05-22T15:56:19-04:00"
+  },
+  {
+    "id": "260720751",
+    "title": "#DatosDeMiercoles + Taller sobre Shiny",
+    "description": "¡Ya tenemos fecha para nuestro próximo meetup!\nEl lunes 29 de abril a las 18.15 nos reuniremos para una charla y un taller sobre R. ¡Gracias Tanner por recibirnos nuevamente!\n\n- Charla\nRiva Quiroga (www.twitter.com/rivaquiroga) nos contará sobre #DatosDeMiercoles, la versión en español de #TidyTuesday, un proyecto semanal de visualización de datos organizado por la comunidad de R. En la charla nos explicará cómo funciona y por qué es importante que te animes a participar.\n\n- Taller\nCamila Valdés (www.twitter.com/camivaldes) nos mostrará cómo utilizar Shiny, el paquete de R para crear aplicaciones web. Como se trata de un taller práctico, es necesario que traigas tu computador con los siguientes paquetes instalados: shiny, shinydashboard y tidyverse.\n\nSi es la primera vez que asistes, recuerda revisar nuestro código de conducta. Es requisito para asistir estar de acuerdo con él: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\n\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2019-04-29T18:15:00-04:00",
+    "duration": "PT1H45M",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/260720751/",
+    "featuredEventPhoto": {
+      "id": "480529816",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/2/9/8/highres_480529816.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/2/9/8/600_480529816.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/2/9/8/thumb_480529816.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 60,
+      "waitlistCount": 0,
+      "totalCount": 60
+    },
+    "venues": [
+      {
+        "id": "26269054",
+        "name": "Tanner",
+        "address": "Estado 337",
+        "city": "Santiago",
+        "state": "Re",
+        "country": "cl",
+        "lat": -33.4393,
+        "lon": -70.6496,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2019-04-17T23:56:11-04:00"
+  },
+  {
+    "id": "260256936",
+    "title": "Mentoría: desarollo de propuestas para LatinR 2019",
+    "description": "¡Hola!\n\nEste evento es distinto a los que hemos organizado antes, así que por favor revisa los detalles de más abajo con detención <3\n\nEste año LatinR, la Conferencia sobre usos de R en Investigación + Desarrollo, se realizará en Santiago y la convocatoria para el envío de propuestas para presentaciones y pósters ya está abierta: https://easychair.org/cfp/latinr2019 . El equipo organizador de LatinR y nosotras como RLadies queremos que sea un espacio diverso, y una manera de lograrlo es fomentando que más mujeres y otros grupos sub-representados en tecnología participen presentando trabajos.\n\nPara lograr este objetivo, hemos organizado para este jueves 4 de abril una actividad para que puedas darle el puntapié inicial al desarrollo de tu propuesta. No importa si por ahora solo tienes una vaga idea de lo que quieres presentar, tomaremos esa idea y te ayudaremos a potenciarla para que se convierta en una propuesta.\n\nLa actividad funciona así: entre 16:00 y 17:30 estaremos en el Café Triciclo, ubicado en Vicuña Mackenna 38. Ven con tu idea en algún momento de ese horario para que conversemos acerca de ella. Es una conversación 1 a 1, apta para introvertidas :) Así de simple. Si te compras un café o un té para retribuir la buena onda del Café Triciclo, mejor aún.\n\nComo esta actividad tiene por objetivo fomentar la diversidad de género de la conferencia, sus destinatarias son mujeres y personas que se identifican con un género disidente.\n\nSi es primera vez que asistes en uno de nuestros eventos, es necesario que leas nuestro código de conducta, ya que aceptar esos términos es requisito para participar: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\n\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2019-04-04T16:00:00-03:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/260256936/",
+    "featuredEventPhoto": {
+      "id": "480044169",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/c/8/9/highres_480044169.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/c/8/9/600_480044169.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/c/8/9/thumb_480044169.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [
+      {
+        "id": "26278336",
+        "name": "Café Triciclo",
+        "address": "Santo Domingo 598",
+        "city": "Santiago",
+        "state": "Re",
+        "country": "cl",
+        "lat": -33.4388,
+        "lon": -70.6346,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2019-04-01T15:06:47-04:00"
+  },
+  {
+    "id": "259987089",
+    "title": "Regresión lineal con R",
+    "description": "¡Hola!\nLuego de una pausa en febrero, retomamos nuestra temporada de talleres 2019: el próximo jueves 28 de marzo nos reuniremos para aprender sobre regresiones lineales de la mano de Sara Acevedo, estudiante del doctorado en Ciencias de la Ingeniería de la UC. En esta ocasión nos reuniremos a las 18:00 en las oficinas de Tanner ubicadas en Estado 337. ¡Muchas gracias por recibirnos!\n\nDurante la sesión recordaremos algunos conceptos básicos de R y luego desarrollaremos modelos lineales. Todos los datos que utilizaremos vienen incluidos en R base, por lo que no es necesario descargarlos. Sí es importante que tengas instalados con antelación los paquetes que usaremos: `tidyverse` y `caret`. No olvides traer tu computador con la batería cargada, ya que hay muy pocos enchufes en la sala.\nSi es la primera vez que asistes, recuerda revisar nuestro código de conducta. Es requisito para asistir estar de acuerdo con él: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\n\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2019-03-28T18:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/259987089/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 52,
+      "waitlistCount": 0,
+      "totalCount": 52
+    },
+    "venues": [
+      {
+        "id": "26269054",
+        "name": "Tanner",
+        "address": "Estado 337",
+        "city": "Santiago",
+        "state": "Re",
+        "country": "cl",
+        "lat": -33.4393,
+        "lon": -70.6496,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2019-03-22T12:56:28-04:00"
+  },
+  {
+    "id": "258080697",
+    "title": "Introducción a la programación con R",
+    "description": "¡Hola!\nEste miércoles haremos una nueva versión de nuestro taller de Introducción a la programación con R. ¿Quieres aprender a utilizar R en un ambiente amable e inclusivo? ¡Te esperamos! No es necesario tener ningún conocimiento previo sobre computación.\n\n> ¿Qué necesito para participar?\nLo primero, es leer nuestro nuestro código de conducta. Es requisito para asistir estar de acuerdo con él: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\nEn esta ocasión haremos el taller en una sala de computación, por lo que no es necesario traer tu computador personal.\n\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2019-01-16T11:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/258080697/",
+    "featuredEventPhoto": {
+      "id": "477840441",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/b/9/highres_477840441.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/b/9/600_477840441.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/b/9/thumb_477840441.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 20,
+      "waitlistCount": 0,
+      "totalCount": 20
+    },
+    "venues": [
+      {
+        "id": "25790542",
+        "name": "Campus San Joaquín- UC",
+        "address": "Av. Vicuña Mackenna 4840",
+        "city": "Santiago",
+        "state": "",
+        "country": "cl",
+        "lat": -33.5006,
+        "lon": -70.6102,
+        "postalCode": "meetup1",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2019-01-14T17:50:34-05:00"
+  },
+  {
+    "id": "273511502",
+    "title": "Taller LatinR - Expresiones regulares para la limpieza y transformación de datos",
+    "description": "Este lunes nos unimos a las actividades de LatinR (https://latin-r.com), la conferencia Latinoamericana sobre uso de R en investigación y desarrollo. En esta ocasión, en conjunto RLadies Ciudad de México, RLadies Galápagos, RLadies Talca y RLadies Santiago, recibiremos el taller \"Expresiones regulares para la limpieza y transformación de datos\", que estará a cargo de Riva Quiroga (https://twitter.com/rivaquiroga) y Stephanie Orellana (https://twitter.com/sporella).\n\n- SOBRE EL TALLER\n\nEste taller tiene por objetivo que sus participantes se familiaricen con el uso de expresiones regulares (conocidas también como \"\"regex\"\"). Específicamente, abordaremos el potencial que tienen como parte del proceso de limpieza y transformación de datos usando paquetes del Tidyverse.\nLos ejemplos prácticos se enfocarán en el trabajo con dataframes y archivos de texto, y en cómo utilizar expresiones regulares en conjunto con funciones de los paquetes {stringr}, {dplyr} y {tidyr}.\n\n- REQUERIMIENTOS\n\nPara este taller es necesario tener una versión de R igual o superior a 3.6 y tener instalados RStudio y los paquetes {tidyverse}, {janitor} y la versión en desarrollo de {datos}. Esta última se puede instalar desde GitHub con: remotes::install_github(\"cienciadedatos/datos\").\nEl taller se dictará a través de la plataforma Zoom. Media hora antes del evento publicaremos el enlace.\n\n- CÓDIGO DE CONDUCTA\n\nQueremos que este sea un espacio de aprendizaje amable y seguro. Para participar en él es necesario que estés de acuerdo con el código de conducta de LatinR: https://latin-r.com/cdc/\n\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2020-09-28T10:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/273511502/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 60,
+      "waitlistCount": 27,
+      "totalCount": 60
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2020-09-25T16:09:32-04:00"
+  },
+  {
+    "id": "272107368",
+    "title": "Cómo preparar una propuesta de presentación para una conferencia/meetup sobre R",
+    "description": "La realización de conferencias y meetups sobre R en modalidad virtual es una excelente oportunidad para que grupos menos representados en nuestra comunidad participen en estas instancias. Para muchas personas, la imposibilidad de viajar --sea por la razón que sea-- ha sido un impedimento para poder ser parte de estas actividades. Ahora tenemos una oportunidad que es importante que aprovochemos. Pero ¿cómo preparar una propuesta? ¿Qué debiese incluir el abstract? ¿Para qué conferencia es más apropiada la idea que tengo? ¿Qué debería tener en cuenta al pensar una propuesta de presentación para un meetup? ¿Es lo mismo escribir un abstract para una conferencia de R que para una conferencia en mi disciplina? ¿Qué tengo que incluir en la Bio? Para responder estas preguntas y compartir algunas recomendaciones para diseñar tu propuesta nos juntaremos el próximo sábado 1 de agosto :)\n\n- ¿Y si todavía no tengo una idea para una presentación?\n\nNo importa. Durante la sesión hablaremos también sobre cómo generar ideas. Además, para el caso de algunas conferencias hay tiempo todavía. Quizás ahora mismo no se te ocurre nada en particular, pero puedes empezar a planear un proyecto para presentar en alguno de los eventos del próximo año.\n\n- ¿Qué necesito para participar?\n\nLo primero, es leer nuestro código de conducta. Es requisito para asistir estar de acuerdo con él: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish. Queremos que nuestros meetups sean un espacio seguro y amable en que todas las personas se sientan cómodas participando.\n\nLo segundo, es asegurarte de que puedes utilizar la aplicación Zoom en tu computador. El día del taller te enviaremos el enlace para unirte (chequea ese día que el mensaje no se haya ido a la carpeta de spam). Usualmente compartimos el enlace 30 minutos antes de la sesión.\n\n- ¿Hay algo más que deba saber sobre este evento?\n\nEsta es una actividad organizada por los capítulos de RLadies de Chile en conjunto con LatinR (https://latin-r.com/), la Conferencia Latinoamericana sobre Uso de R en Investigación + Desarrollo. Queremos más representación de Latinoamérica en las conferencias de R alrededor del mundo y qué mejor que apoyarnos como comunidad para lograrlo.\n\nEl taller estará a cargo de Riva Quiroga (https://twitter.com/rivaquiroga).",
+    "status": "PAST",
+    "dateTime": "2020-08-01T10:30:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/272107368/",
+    "featuredEventPhoto": {
+      "id": "491467871",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/e/b/f/highres_491467871.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/e/b/f/600_491467871.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/e/b/f/thumb_491467871.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 63,
+      "waitlistCount": 0,
+      "totalCount": 63
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2020-07-23T14:36:35-04:00"
+  },
+  {
+    "id": "272089915",
+    "title": "Sesión 6 - Club de lectura - Happy Git with R, de Jenny Bryan",
+    "description": "Este miércoles nos reuniremos para la sexta y última sesión del club de lectura sobre el libro \"Happy Git with R\" de Jenny Bryan, actividad organizada de manera conjunta entre RLadies Santiago, RLadies Valparaíso y RLadies Concepción. \"Happy Git with R\" aborda el uso del sistema de control de versiones Git en conjunto con GitHub, R y RStudio. El libro está disponible de manera gratuita en: https://happygitwithr.com/\n\n- ¿Qué haremos en esta última sesión?\n\nDurante la sesión pondremos en práctica algunos flujos de trabajo colaborativo. Veremos cómo distintas personas pueden colaborar en un mismo repositorio, cómo agregar cambios a un pull request abierto por ti o por otra persona, cómo dejar disponible en GitHub archivos en html como presentaciones y libros en línea, etc. Si te interesa, tendrás la oportunidad de practicar todo esto durante la sesión. Revisa más abajo qué paquetes tienes que tener instalados.\n\nEsta sexta sesión estará liderada por Stephanie Orellana (https://twitter.com/sporella). Stephanie es Ingeniera Agrónoma y Magíster en Recursos Naturales de la PUC y trabaja en consultoría ambiental. Su área de especialización es la Ciencia de Datos Espaciales.\n\n- ¿Qué necesito para participar?\n\nLo primero, es leer nuestro código de conducta. Es requisito para asistir estar de acuerdo con él: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\n\nLo segundo, es haber instalado ya Git en tu computador (https://git-scm.com/) y tener una cuenta en GitHub (https://github.com/). Es importante que estés segura que puedes utilizar Git desde RStudio. Si te resultaron las actividades de la sesión 3, entonces tienes todo lo necesario :)\n\nLo tercero, es tener instalados los siguientes paquetes en tu computador: usethis, devtools y bookdown.\n\nLo cuarto, es asegurarte que puedes utilizar la aplicación Zoom en tu computador. El día del taller te enviaremos el enlace para unirte (chequea ese día que el mensaje no se haya ido a la carpeta de spam). Usualmente compartimos el enlace 30 minutos antes de la sesión.\n\n- Estoy recién aprendiendo sobre R, ¿puedo participar?\n\nSí. Si bien el foco de estas sesiones no es programar en R, sí es importante estar familiarizada con RStudio como entorno de trabajo. Si quieres, puedes revisar los vídeos de nuestro taller introductorio: https://github.com/rladieschile/taller-introductorio-mayo.",
+    "status": "PAST",
+    "dateTime": "2020-07-29T19:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/272089915/",
+    "featuredEventPhoto": {
+      "id": "491455371",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/8/4/b/highres_491455371.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/8/4/b/600_491455371.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/8/4/b/thumb_491455371.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 35,
+      "waitlistCount": 0,
+      "totalCount": 35
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2020-07-22T18:54:10-04:00"
+  },
+  {
+    "id": "271780707",
+    "title": "useR! 2020 Tutorial: Seamless R and C++ Integration with Rcpp",
+    "description": "The RLadies chapters and the R User Group from Chile are very happy to announce that we will be hosting one of the useR! 2020 online tutorials (https://user2020.r-project.org/program/tutorials/). We will have the honor of having Dirk Eddelbuettel in our meetup, who will be running the tutorial: \"Seamless R and C++ Integration with Rcpp\" on July 14th, 15:00 UTC.\n\n- Background\n\nR has risen to become the lingua franca of statistical research and applications. At the same time, user demands on computing resources and performance have also increased. This is driven chiefly by the ever-growing size of datasets, and may sometimes be coupled with increases in their complexity. The quest for computing with larger datasets, as well as the ever-present desire to also compute \"faster\" make complementing the interpreted language-processing at the core of R with native code extensions a natural next step. The Rcpp package has become the principal venue for extending R with compiled code. It makes it easy to extend R with C or C++ spanning the range from simple one-liners to larger routines and bindings of entire external libraries.\n\n- Workshop contents\n\nWe will motivate and introduce Rcpp as a natural extension to R that provides an easy-to-use and powerful interface. Helper functions and tools including RStudio will be used to easy creation of R extensions. Several examples will introduce basic use cases including writing code with RcppArmadillo which is the most widely-used package on top of Rcpp.\n\n- Target Audience\n\nR users wanting to go beyond R. Prior experience with compiled languages like C and C++ is helpful but not required.\n\n- About the instructor\n\nDr Dirk Eddelbuettel has been a (co-)author and maintainer for the Rcpp project since its inception. He works as a senior \"quant\" in industry combining C++ and R for high-frequency data analysis and predictive models in finance, and teaches a class on Data Science Programming Methods as a Clinical Professor at the University of Illinois at Urbana-Champaign. He is author, co-author, or maintainer of sixty CRAN packages, an elected board member of the R Foundation, and a 25+ year contributor to Debian looking after 150+ packages including R.\n\n- Attending the workshop\n\nPlease, read carefully the useR! 2020 Code of Conduct: https://user2020.r-project.org/codeofconduct/. All participants are required to agree to it.\n\nThe tutorial will start at 15:OO UTC and has a duration of two hours (+ a 10 minutes break). Check your timezone here: https://arewemeetingyet.com/UTC/2020-07-14/15:00/Seamless%20R%20and%20C%2B%2B%20integration%20with%20Rcpp\n\n[UPDATED SECTION]\n\nWe'll be hosting the tutorial on Zoom. The link will be shared in the comments of this event half an hour in advanced. The meeting has a waiting room. We'll let everyone in at 15:00 UTC.\n\nFor the tutorial you'll need to install Rcpp from CRAN. You will also need a compiler. Please read sections 1.2 and 1.3 on the second page of the Rcpp FAQ to check specific recommendations for Windows/OSX/Linux users: https://cran.r-project.org/web/packages/Rcpp/vignettes/Rcpp-FAQ.pdf\nWe'll be using RStudio. Is not a bad idea to have an rstudio.cloud account as back-up.",
+    "status": "PAST",
+    "dateTime": "2020-07-14T11:00:00-04:00",
+    "duration": "PT2H10M",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/271780707/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 65,
+      "waitlistCount": 0,
+      "totalCount": 65
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2020-07-07T16:59:44-04:00"
+  },
+  {
+    "id": "271777674",
+    "title": "Sesión 5 - Club de lectura - Happy Git with R, de Jenny Bryan",
+    "description": "Este miércoles nos reuniremos para la quinta sesión del club de lectura sobre el libro \"Happy Git with R\" de Jenny Bryan, actividad organizada de manera conjunta entre RLadies Santiago, RLadies Valparaíso y RLadies Concepción. \"Happy Git with R\" aborda el uso del sistema de control de versiones Git en conjunto con GitHub, R y RStudio. El libro está disponible de manera gratuita en: https://happygitwithr.com/\n\n- ¿Cómo funciona el club de lectura?\nDivideremos la lectura del libro en seis sesiones. Cada sesión la liderará una relatora de nuestra comunidad.\n\nEsta quinta sesión estará a cargo de Gabriela Sandoval (https://twitter.com/GabySandovalM) y Camila Molina (https://twitter.com/calmolinafe), Ingeniera Estadística de la Universidad del Bío-Bío. Abordaremos la sección VI del libro (\"Daily Workflows\"), en la que se muestran algunos flujos habituales de trabajo usando Git.\n\n- ¿Qué necesito para participar?\nLo primero, es leer nuestro código de conducta. Es requisito para asistir estar de acuerdo con él: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\n\nLo segundo, es haber instalado ya Git en tu computador (https://git-scm.com/) y tener una cuenta en GitHub (https://github.com/). Es importante que estés segura que puedes utilizar Git desde RStudio. Si te resultaron las actividades de la sesión 3, entonces tienes todo lo necesario :)\n\nLo tercero, es asegurarte que puedes utilizar la aplicación Zoom en tu computador. El día del taller te enviaremos el enlace para unirte (chequea ese día que el mensaje no se haya ido a la carpeta de spam). Usualmente compartimos el enlace 30 minutos antes de la sesión.\n\n- ¿Qué pasa si no leo en inglés?\n¡Puedes participar igual! La persona encargada de cada sesión hará una síntesis de los puntos más importantes, así que incluso si no puedes revisar el libro, podrás aprender sobre este tema :)\n\n- Estoy recién aprendiendo sobre R, ¿puedo participar?\nSí. Si bien el foco de estas sesiones no es programar en R, sí es importante estar familiarizada con RStudio como entorno de trabajo. Si quieres, puedes revisar los vídeos de nuestro taller introductorio: https://github.com/rladieschile/taller-introductorio-mayo.",
+    "status": "PAST",
+    "dateTime": "2020-07-08T20:00:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/271777674/",
+    "featuredEventPhoto": {
+      "id": "491214941",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/6/9/d/highres_491214941.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/6/9/d/600_491214941.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/6/9/d/thumb_491214941.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 21,
+      "waitlistCount": 5,
+      "totalCount": 21
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2020-07-07T14:49:45-04:00"
+  },
+  {
+    "id": "271595010",
+    "title": "Sesión 4 - Club de lectura - Happy Git with R, de Jenny Bryan",
+    "description": "Este sábado nos reuniremos para la cuarta sesión del club de lectura sobre el libro \"Happy Git with R\" de Jenny Bryan, actividad organizada de manera conjunta entre RLadies Santiago, RLadies Valparaíso y RLadies Concepción. \"Happy Git with R\" aborda el uso del sistema de control de versiones Git en conjunto con GitHub, R y RStudio. El libro está disponible de manera gratuita en: https://happygitwithr.com/\n\n- ¿Cómo funciona el club de lectura?\nDivideremos la lectura del libro en seis sesiones. Cada sesión la liderará una relatora de nuestra comunidad.\n\nEsta cuarta sesión estará a cargo de Riva Quiroga (https://twitter.com/rivaquiroga). Abordaremos las secciones IV y V del libro (\"Git Fundamentals\" y \"Remote setups\"). En ellas se abordan algunos conceptos clave (como qué es un commit, una rama y un repositorio remoto) y se explica cómo configurar todo para poder colaborar en repositorios de otras personas sin problemas.\n\n- ¿Qué necesito para participar?\nLo primero, es leer nuestro código de conducta. Es requisito para asistir estar de acuerdo con él: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\n\nLo segundo, es haber instalado ya Git en tu computador (https://git-scm.com/) y tener una cuenta en GitHub (https://github.com/). Es importante que estés segura que puedes utilizar Git desde RStudio. Si te resultaron las actividades de la sesión 3, entonces tienes todo lo necesario :)\n\nLo tercero, es asegurarte que puedes utilizar la aplicación Zoom en tu computador. El día del taller te enviaremos el enlace para unirte (chequea ese día que el mensaje no se haya ido a la carpeta de spam). Usualmente compartimos el enlace 30 minutos antes de la sesión.\n\n- ¿Qué pasa si no leo en inglés?\n¡Puedes participar igual! La persona encargada de cada sesión hará una síntesis de los puntos más importantes, así que incluso si no puedes revisar el libro, podrás aprender sobre este tema :)\n\n- Estoy recién aprendiendo sobre R, ¿puedo participar?\nSí. Si bien el foco de estas sesiones no es programar en R, sí es importante estar familiarizada con RStudio como entorno de trabajo. Si quieres, puedes revisar los vídeos de nuestro taller introductorio: https://github.com/rladieschile/taller-introductorio-mayo.\n\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2020-07-04T11:00:00-04:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/271595010/",
+    "featuredEventPhoto": {
+      "id": "491075156",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/9/5/4/highres_491075156.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/9/5/4/600_491075156.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/9/5/4/thumb_491075156.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 28,
+      "waitlistCount": 1,
+      "totalCount": 28
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2020-06-28T22:41:48-04:00"
+  },
+  {
+    "id": "271573073",
+    "title": "Charla desde RLadies Global: Cómo hacer una reunión virtual inolvidable",
+    "description": "Este miércoles a las 13:00 nos sumamos a la transmisión de la charla \"Cómo hacer una reunión virtual inolvidable (sin morir en el intento)\" que organiza RLadies Global.\n\nResumen:\nAunque no es posible reunirnos en persona, la magia de R-Ladies no se detiene y hace posible los encuentros virtuales. En este meetup te contaremos algunos trucos y herramientas para que cualquier evento virtual interactivo (por ejemplo, clase, taller o panel online) sea un éxito sin estrés adicional al hacerlo. Si organizas meetups de R-Ladies, encontrarás dónde y cómo acceder a la infraestructura que te permitirá organizar meetups online para tu capítulo. Si no organizas meetups de R-Ladies, también encontrarás material útil para todo tipo de evento online que organices o del que participes.\n\nEstos contenidos nos los traen R-Ladies latinoamericanas, en su mayoría certificadas para enseñar por RStudio Education y The Carpentries. La mayoría también es parte de MetaDocencia, una organización que desde fines de marzo realizó más de 25 talleres interactivos enseñando a enseñar online a más de 300 docentes hispanohablantes con excelentes resultados. Todas tienen vasta experiencia teletrabajando y enseñando online.\n\nOradoras: Yanina Bellini Saibene y Paola Corrales.\nOrganizan: Laura Ación, Yanina Bellini Saibene, Paola Corrales, Patricia Loto y Paloma Rojas\n\n[NOTA: este no es un meetup sobre R, sino sobre cómo organizar eventos en línea]",
+    "status": "PAST",
+    "dateTime": "2020-07-01T13:00:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/271573073/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 16,
+      "waitlistCount": 0,
+      "totalCount": 16
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2020-06-27T21:18:38-04:00"
+  },
+  {
+    "id": "271441579",
+    "title": "Sesión 3 - Club de lectura - Happy Git with R, de Jenny Bryan",
+    "description": "Este miércoles nos reuniremos para la tercera sesión del club de lectura sobre el libro \"Happy Git with R\" de Jenny Bryan, actividad organizada de manera conjunta entre RLadies Santiago, RLadies Valparaíso y RLadies Concepción. \"Happy Git with R\" aborda el uso del sistema de control de versiones Git en conjunto con GitHub, R y RStudio. Está disponible de manera gratuita en: https://happygitwithr.com/\n\n¿Cómo funciona el club de lectura?\n\nDivideremos la lectura del libro en seis sesiones. En cada una de ellas abordaremos una de las secciones del libro. Cada sesión la liderará una relatora de nuestra comunidad.\nEsta tercera sesión estará a cargo de Natalia Riquelme (@NatyRiquelmeS). Natalia es egresada de Administración Pública y Ciencia Política y actualmente trabaja como Colaboradora de Investigación Cuantitativa en el proyecto IdeClab de la Universidad de Concepción. Durante la sesión abordaremos la sección III del libro, \"Early Github Wins\".\n\n- ¿Qué necesito para participar?\n\nLo primero, es leer nuestro nuestro código de conducta. Es requisito para asistir estar de acuerdo con él: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\nLo segundo, es haber instalado ya Git en tu computador (https://git-scm.com/) y tener una cuenta en GitHub (https://github.com/). En la sesión anterior abordamos cómo hacer esto. Si no participaste, puedes revisar la primera parte del libro (\"Installation\") o la primera parte del video de la sesión pasada (https://github.com/rladieschile/club-de-lectura-happy-git).\nLo tercero, es asegurarte que puedes utilizar la aplicación Zoom en tu computador. El día del taller te enviaremos el enlace para unirte (chequea ese día que el mensaje no se haya ido a la carpeta de spam). Usualmente compartimos el enlace 30 minutos antes de la sesión.\n\n- ¿Qué pasa si no leo en inglés?\n\n¡Puedes participar igual! La persona encargada de cada sesión hará una síntesis de los puntos más importantes, así que incluso si no puedes revisar el libro, podrás aprender sobre este tema :)\n\n- Estoy recién aprendiendo sobre R, ¿puedo participar?\n\nSí. Te sugerimos, eso sí, revisar los vídeos de nuestro taller introductorio: https://github.com/rladieschile/taller-introductorio-mayo. Si bien el foco de estas sesiones no es programar en R, sí es importante estar familiarizada con RStudio como entorno de trabajo.\n\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2020-06-24T20:00:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/271441579/",
+    "featuredEventPhoto": {
+      "id": "490958959",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/8/2/f/highres_490958959.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/8/2/f/600_490958959.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/8/2/f/thumb_490958959.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 34,
+      "waitlistCount": 6,
+      "totalCount": 34
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2020-06-21T17:26:35-04:00"
+  },
+  {
+    "id": "271376046",
+    "title": "Sesión 2 - Club de lectura - Happy Git with R, de Jenny Bryan",
+    "description": "Este sábado nos reuniremos para la segunda sesión del club de lectura sobre el libro \"Happy Git with R\" de Jenny Bryan, actividad organizada de manera conjunta entre RLadies Santiago, RLadies Valparaíso y RLadies Concepción. \"Happy Git with R\" aborda el uso del sistema de control de versiones Git en conjunto con GitHub, R y RStudio. Está disponible de manera gratuita en: https://happygitwithr.com/\n\n¿Cómo funciona el club de lectura?\nDivideremos la lectura del libro en seis sesiones. En cada una de ellas abordaremos una de las secciones del libro. Cada sesión la liderará una relatora de nuestra comunidad.\n\nEsta segunda sesión estará a cargo de Riva Quiroga (https://twitter.com/rivaquiroga). En ella abordaremos la sección II del libro: \"Connect Git, GitHub, RStudio\".\n\n- ¿Qué necesito para participar?\nLo primero, es leer nuestro nuestro código de conducta. Es requisito para asistir estar de acuerdo con él: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\nLo segundo, es haber instalado ya Git en tu computador (https://git-scm.com/) y tener una cuenta en GitHub (https://github.com/). En la sesión anterior abordamos cómo hacer esto. Si no participaste, puedes revisar la primera parte del libro (\"Installation\") o la primera parte del video de la sesión pasada (https://github.com/rladieschile/club-de-lectura-happy-git).\nLo tercero, es asegurarte que puedes utilizar la aplicación Zoom en tu computador. El día del taller te enviaremos el enlace para unirte (chequea ese día que el mensaje no se haya ido a la carpeta de spam). Usualmente compartimos el enlace 30 minutos antes de la sesión.\n\n- ¿Qué pasa si no leo en inglés?\n¡Puedes participar igual! La persona encargada de cada sesión hará una síntesis de los puntos más importantes, así que incluso si no puedes revisar el libro, podrás aprender sobre este tema :)\n\n- Estoy recién aprendiendo sobre R, ¿puedo participar?\nSí. Te sugerimos, eso sí, revisar los vídeos de nuestro taller introductorio: https://github.com/rladieschile/taller-introductorio-mayo. Si bien el foco de esta sesión no es programar en R, sí es importante estar familiarizada con RStudio.\n\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2020-06-20T11:00:00-04:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/271376046/",
+    "featuredEventPhoto": {
+      "id": "490906548",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/5/d/4/highres_490906548.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/5/d/4/600_490906548.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/5/d/4/thumb_490906548.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 36,
+      "waitlistCount": 6,
+      "totalCount": 36
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2020-06-18T12:30:45-04:00"
+  },
+  {
+    "id": "271174133",
+    "title": "Sesión 1 - Club de lectura - Happy Git with R, de Jenny Bryan",
+    "description": "El miércoles 10 de junio damos inicio a nuestro primer club de lectura, organizado de manera conjunta entre entre RLadies Santiago, RLadies Valparaíso y RLadies Concepción. Este formato tiene por objetivo revisar en forma detallada libros de interés para la comunidad de R que permitan adquirir habilidades intermedias o avanzadas en temas de análisis y comunicación con datos. Este primer club de lectura estará centrado en el libro \"Happy Git with R\" de Jenny Bryan (https://twitter.com/jennybryan). El libro aborda el uso del sistema de control de versiones Git en conjunto con R y RStudio. Está disponible de manera gratuita en: https://happygitwithr.com/\n\n¿Cómo funciona el club de lectura?\nDivideremos la lectura del libro en seis sesiones. En cada una de ellas abordaremos una de las secciones del libro. Cada sesión la liderará una relatora de nuestra comunidad.\n\nEsta primera sesión estará a cargo de Macarena Valenzuela Beltrán, candidata a Doctora en Ciencia Política de la Universidad Diego Portales. En ella abordaremos la sección I del libro: \"Installation\". Aprenderemos de manera introductoria cómo funciona un sistema de control de versiones, cómo instalar Git, cómo crearse una cuenta en Github y cómo usar un cliente de Git como GitKraken.\n\n¿Qué necesito para participar?\nLo primero, es leer nuestro nuestro código de conducta. Es requisito para asistir estar de acuerdo con él: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\nLo segundo, es asegurarte que puedes utilizar la aplicación Zoom en tu computador. El día del taller te enviaremos el enlace para unirte (chequea ese día que el mensaje no se haya ido a la carpeta de spam).\nLo tercero, es crearte una cuenta en RStudio Cloud (https://rstudio.cloud/). A través de esa vía compartiremos el código que se escribirá en algunas de las sesiones de esta serie.\n\n¿Qué pasa si no puedo leer en inglés?\nPuedes participar igual. La persona encargada de cada sesión hará una síntesis de los puntos más importantes, así que incluso si no puedes revisar el libro, podrás aprender sobre este tema.\n\nEstoy recién aprendiendo sobre R, ¿puedo participar?\nSí. Te sugerimos, eso sí, revisar los vídeos de nuestro taller introductorio: https://github.com/rladieschile/taller-introductorio-mayo.\n\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2020-06-10T20:00:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/271174133/",
+    "featuredEventPhoto": {
+      "id": "490759921",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/d/d/1/highres_490759921.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/d/d/1/600_490759921.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/d/d/1/thumb_490759921.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 52,
+      "waitlistCount": 19,
+      "totalCount": 52
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2020-06-08T19:43:50-04:00"
+  },
+  {
+    "id": "270820688",
+    "title": "Taller introductorio: procesamiento y visualización de datos con R (Sesión 4)",
+    "description": "El miércoles 27 de mayo es la última sesión de nuestro taller en línea de introducción a R que organizamos en conjunto RLadies Santiago, RLadies Valparaíso y RLadies Concepción. El taller tiene por objetivo revisar los principios básicos para que puedas iniciar tu camino analizando datos con R.\n\nLa sesión estará a cargo de Isidora Castillo y Natalia Riquelme. Isidora es Psicóloga Educacional y trabaja como ayudante de investigación en la Universidad del Desarrollo. Natalia es egresada de Administración Pública y Ciencia Política y actualmente trabaja como Colaboradora de Investigación Cuantitativa en el proyecto IdeClab de la Universidad de Concepción.\nEn esta cuarta y última sesión revisaremos aspectos del flujo de trabajo en R y RStudio, y veremos algunos ejemplos para poner en práctica lo visto en sesiones anteriores.\n\n> No vine a las sesiones anteriores, ¿puedo participar?\n\nSí. Te sugerimos, eso sí, revisar los videos de las sesiones anteriores. Están disponibles acá: https://github.com/rladieschile/taller-introductorio-mayo\n\n> ¿Qué necesito para participar?\n\nLo primero, es leer nuestro nuestro código de conducta. Es requisito para asistir estar de acuerdo con él: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\nLo segundo, es asegurarte que puedes utilizar la aplicación Zoom en tu computador. El día del taller te enviaremos el enlace para unirte (chequea ese día que el mensaje no se haya ido a la carpeta de spam).\nLo tercero, es crearte una cuenta en RStudio Cloud (https://rstudio.cloud/). A través de esa vía compartiremos el código que se escriba en la sesión.\n\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2020-05-27T20:30:00-04:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/270820688/",
+    "featuredEventPhoto": {
+      "id": "490261793",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/0/1/highres_490261793.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/0/1/600_490261793.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/0/1/thumb_490261793.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 56,
+      "waitlistCount": 13,
+      "totalCount": 56
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2020-05-22T20:22:43-04:00"
+  },
+  {
+    "id": "270385592",
+    "title": "Calendarización usando ggplot2",
+    "description": "En el segundo taller especializado de mayo Javiera Riffo nos mostrará aplicaciones del paquete ggplot2. Luego de hacer una revisión de los conceptos esenciales de visualización con este paquete, nos mostrará cómo generar gráficas para calendarizar nuestros datos.\nJaviera Riffo es Ingeniera Matemática y actualmente cursa el Magíster en Ingeniería PUC.\n\n> ¿Qué necesito para participar?\n\nLo primero, es leer nuestro nuestro código de conducta. Es requisito para asistir estar de acuerdo con él: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\nLo segundo, es asegurarte que puedes utilizar la aplicación Zoom en tu computador. El día del taller te enviaremos el enlace para unirte (chequea ese día que el mensaje no se haya ido a la carpeta de spam).\nEl taller tiene cupos limitados por la plataforma que usaremos y se asignarán por orden de llegada a las personas inscritas. Te pedimos disculpas desde ya si es que el día del taller tratas de conectarte y los cupos ya están llenos :( Es muy difícil estimar la audiencia real en eventos gratuitos.\n\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2020-05-23T11:00:00-04:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/270385592/",
+    "featuredEventPhoto": {
+      "id": "490301256",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/1/2/8/highres_490301256.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/1/2/8/600_490301256.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/1/2/8/thumb_490301256.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 103,
+      "waitlistCount": 39,
+      "totalCount": 103
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2020-05-01T12:23:36-04:00"
+  },
+  {
+    "id": "270661251",
+    "title": "Taller introductorio: procesamiento y visualización de datos con R (Sesión 3)",
+    "description": "El miércoles 20 de mayo continuamos nuestro taller en línea de introducción a R que organizamos en conjunto RLadies Santiago, RLadies Valparaíso y RLadies Concepción. El taller cuatro sesiones (6, 13, 20 y 27 de mayo) y tiene por objetivo revisar los principios básicos para que puedas iniciar tu camino analizando datos con R.\n¿Quieres aprender a utilizar R en un ambiente amable e inclusivo? ¡Te esperamos! No es necesario tener ningún conocimiento previo sobre programación.\n\nEsta tercera sesión estará a cargo de Gabriela Sandoval (https://twitter.com/gabysandovalm), estudiante de Doctorado en Estadística, y se enfocará en visualización de datos con el paquete {ggplot2}.\n\n> No vine a las sesiones anteriores, ¿puedo participar?\nSí. Te sugerimos, eso sí, revisar los videos de las sesiones anteriores. Están disponibles acá: https://github.com/rladieschile/taller-introductorio-mayo\n\n> ¿Qué necesito para participar?\n\nLo primero, es leer nuestro nuestro código de conducta. Es requisito para asistir estar de acuerdo con él: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\nLo segundo, es crearte una cuenta en RStudio Cloud (https://rstudio.cloud/). Partiremos trabajando en una versión de R en la nube para asegurarnos que todo funciona bien al principio. Más adelante instalaremos R en tu computador.\nLo tercero, es asegurarte que puedes utilizar la aplicación Zoom en tu computador. El día del taller te enviaremos el enlace para unirte (chequea ese día que el mensaje no se haya ido a la carpeta de spam).\nEl taller tiene cupos limitados por la plataforma que usaremos y se asignarán por orden de llegada a las personas inscritas. Te pedimos disculpas desde ya si es que el día del taller tratas de conectarte y los cupos ya están llenos :( Es muy difícil estimar la audiencia real en eventos gratuitos.\n\n> ¿Al inscribirme ahora me estoy anotando para las cuatro sesiones?\n\nNo. Agendaremos un nuevo evento acá en Meetup para cada sesión. Lo hacemos así porque nos permite organizarnos mejor.\n\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2020-05-20T20:30:00-04:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/270661251/",
+    "featuredEventPhoto": {
+      "id": "490261793",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/0/1/highres_490261793.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/0/1/600_490261793.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/0/1/thumb_490261793.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 74,
+      "waitlistCount": 22,
+      "totalCount": 74
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2020-05-14T21:51:28-04:00"
+  },
+  {
+    "id": "270506452",
+    "title": "Taller introductorio: procesamiento y visualización de datos con R (Sesión 2)",
+    "description": "El miércoles 13 de mayo continuamos nuestro taller en línea de introducción a R que organizamos en conjunto RLadies Santiago, RLadies Valparaíso y RLadies Concepción. El taller cuatro sesiones (6, 13, 20 y 27 de mayo) y tiene por objetivo revisar los principios básicos para que puedas iniciar tu camino analizando datos con R.\n¿Quieres aprender a utilizar R en un ambiente amable e inclusivo? ¡Te esperamos! No es necesario tener ningún conocimiento previo sobre programación.\n\nEsta segunda sesión estará a cargo de Sara Acevedo, estudiante de Doctorado en Ciencias de la Ingeniería, y se enfocará en funciones básicas para el manejo de datos provenientes del paquete {dplyr}.\n\n> ¿Qué necesito para participar?\n\nLo primero, es leer nuestro nuestro código de conducta. Es requisito para asistir estar de acuerdo con él: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\nLo segundo, es crearte una cuenta en RStudio Cloud (https://rstudio.cloud/). Partiremos trabajando en una versión de R en la nube para asegurarnos que todo funciona bien al principio. Más adelante instalaremos R en tu computador.\nLo tercero, es asegurarte que puedes utilizar la aplicación Zoom en tu computador. El día del taller te enviaremos el enlace para unirte (chequea ese día que el mensaje no se haya ido a la carpeta de spam).\nEl taller tiene cupos limitados por la plataforma que usaremos y se asignarán por orden de llegada a las personas inscritas. Te pedimos disculpas desde ya si es que el día del taller tratas de conectarte y los cupos ya están llenos :( Es muy difícil estimar la audiencia real en eventos gratuitos.\n\n> ¿Al inscribirme ahora me estoy anotando para las cuatro sesiones?\n\nNo. Agendaremos un nuevo evento acá en Meetup para cada sesión. Lo hacemos así porque nos permite organizarnos mejor.\n\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2020-05-13T20:30:00-04:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/270506452/",
+    "featuredEventPhoto": {
+      "id": "490261793",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/0/1/highres_490261793.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/0/1/600_490261793.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/0/1/thumb_490261793.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 62,
+      "waitlistCount": 34,
+      "totalCount": 62
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2020-05-07T12:02:16-04:00"
+  },
+  {
+    "id": "270385520",
+    "title": "Datos espaciales usando R",
+    "description": "En nuestro primer taller especializado de mayo nos introduciremos en el mundo de los datos espaciales de la mano de Stephanie Orellana. Aprenderemos los fundamentos del trabajo con este tipo de datos y conoceremos los paquetes principales con los que pueden ser procesados en R. El taller incluye un ejemplo práctico y espacio para preguntas.\nStephanie Orellana (https://twitter.com/sporella) es Ingeniera Agrónoma y Magíster en Recursos Naturales de la PUC y trabaja en consultoría ambiental. Su área de especialización es la Ciencia de Datos Espaciales.\n\n> ¿Qué necesito para participar?\n\nLo primero, es leer nuestro nuestro código de conducta. Es requisito para asistir estar de acuerdo con él: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\nLo segundo, es asegurarte que puedes utilizar la aplicación Zoom en tu computador. El día del taller te enviaremos el enlace para unirte (chequea ese día que el mensaje no se haya ido a la carpeta de spam).\nEl taller tiene cupos limitados por la plataforma que usaremos y se asignarán por orden de llegada a las personas inscritas. Te pedimos disculpas desde ya si es que el día del taller tratas de conectarte y los cupos ya están llenos :( Es muy difícil estimar la audiencia real en eventos gratuitos.\n\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2020-05-09T11:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/270385520/",
+    "featuredEventPhoto": {
+      "id": "490301233",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/1/1/1/highres_490301233.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/1/1/1/600_490301233.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/1/1/1/thumb_490301233.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 93,
+      "waitlistCount": 48,
+      "totalCount": 93
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2020-05-01T12:21:42-04:00"
+  },
+  {
+    "id": "270303254",
+    "title": "Taller introductorio: procesamiento y visualización de datos con R (Sesión 1)",
+    "description": "El miércoles 6 de mayo damos inicio al taller en línea de introducción a R que organizamos en conjunto RLadies Santiago, RLadies Valparaíso y RLadies Concepción. El taller cuatro sesiones (6, 13, 20 y 27 de mayo) y tiene por objetivo revisar los principios básicos para que puedas iniciar tu camino analizando datos con R.\n¿Quieres aprender a utilizar R en un ambiente amable e inclusivo? ¡Te esperamos! No es necesario tener ningún conocimiento previo sobre programación.\n\n> ¿Qué necesito para participar?\n\nLo primero, es leer nuestro nuestro código de conducta. Es requisito para asistir estar de acuerdo con él: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\nLo segundo, es crearte una cuenta en RStudio Cloud (https://rstudio.cloud/). Partiremos trabajando en una versión de R en la nube para asegurarnos que todo funciona bien al principio. Más adelante instalaremos R en tu computador.\nLo tercero, es asegurarte que puedes utilizar la aplicación Zoom en tu computador. El día del taller te enviaremos el enlace para unirte (chequea ese día que el mensaje no se haya ido a la carpeta de spam).\nEl taller tiene cupos limitados por la plataforma que usaremos y se asignarán por orden de llegada a las personas inscritas. Te pedimos disculpas desde ya si es que el día del taller tratas de conectarte y los cupos ya están llenos :( Es muy difícil estimar la audiencia real en eventos gratuitos.\n\n> ¿Al inscribirme ahora me estoy anotando para las cuatro sesiones?\n\nNo. Agendaremos un nuevo evento acá en Meetup para cada sesión. Lo hacemos así porque nos permite organizarnos mejor.\n\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2020-05-06T20:30:00-04:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/270303254/",
+    "featuredEventPhoto": {
+      "id": "490261793",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/0/1/highres_490261793.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/0/1/600_490261793.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/0/1/thumb_490261793.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 30,
+      "waitlistCount": 203,
+      "totalCount": 30
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2020-04-27T18:04:58-04:00"
+  },
+  {
+    "id": "267639447",
+    "title": "rstudio::conf(2020) WATCH PARTY",
+    "description": "RLadies Santiago junto al grupo de Usuarios de R en Chile, estaremos disfrutando la transmisión en vivo de las charlas principales de la rstudio::conf(2020), misma que se realizará este 29 y 30 de enero en San Francisco, California.\n\nAlmorzaremos juntxs, tendremos la posibilidad de interactuar con lxs expositores y algunas sorpresas adicionales.\n\nEsta conferencia de todo lo relacionado con R y RStudio se realiza de forma anual y lxs keynote speakers de 2020 son:\n- Hilary Parker (Stitch Fix) y Roger Peng (Johns Hopkins)-\n- Martin Wattenberg y Fernanda Viegas (Research Scientists, Google)\n- Jenny Bryan (Engineer, RStudio)\n- JJ Allaire (CEO, RStudio)\n\nPueden encontrar más información de la conferencia en: https://rstudio.com/conference/\n\n¡Les esperamos! 🤓💜",
+    "status": "PAST",
+    "dateTime": "2020-01-29T13:00:00-03:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/267639447/",
+    "featuredEventPhoto": {
+      "id": "487866295",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/8/9/7/highres_487866295.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/8/9/7/600_487866295.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/8/9/7/thumb_487866295.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 33,
+      "waitlistCount": 0,
+      "totalCount": 33
+    },
+    "venues": [
+      {
+        "id": "26794676",
+        "name": "Ey University - Chile",
+        "address": "Avenida Cerro el Plomo 6000, Las Condes",
+        "city": "Santiago",
+        "state": "al",
+        "country": "cl",
+        "lat": -33.4036,
+        "lon": -70.5706,
+        "postalCode": "meetup1",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2020-01-04T09:27:19-05:00"
+  },
+  {
+    "id": "282290607",
+    "title": "Club de lectura del libro \"Data Feminism\" (sesión 6)",
+    "description": "El próximo jueves 25 de noviembre nos reuniremos para nuestra sexta sesión del club de lectura sobre libro \"Data Feminism\", de Catherine D'Ignazio y Lauren F. Klein. Este libro muestra una nueva forma de abordar la ciencia de datos y la ética de datos basada en ideas del feminismo interseccional. Se puede acceder de forma gratuita en: https://data-feminism.mitpress.mit.edu/\n\n- ¿Cómo funciona el club de lectura?\nDividiremos la lectura del libro en siete sesiones. En cada una de ellas abordaremos un capítulo del libro.\nEsta sexta sesión estará a cargo de Stephanie Orellana (https://twitter.com/sporella). Steph es Ingeniera Agrónoma y Magíster en Recursos Naturales de la PUC, y trabaja en consultoría ambiental. Su área de especialización es la Ciencia de Datos Espaciales. Durante la sesión comentaremos el capítulo 6, \"The Numbers Don't Speak for Themselves\", en el que se presenta el sexto principio del feminismo de datos: considerar el contexto.\n\n- ¿Qué pasa si no puedo leer en inglés?\n¡Puedes participar igual! La persona encargada de cada sesión hará una síntesis de los puntos más importantes, así que incluso si no puedes revisar el libro, podrás aprender sobre este tema :)\n\n- CÓDIGO DE CONDUCTA\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\nEl evento se realizará a través de la plataforma Zoom. El día del taller compartiremos la contraseña en los comentarios del evento.\n\n- HORA\nEl evento se realizará a las 18:00 horas de la zona horaria UTC-3. Puedes revisar a qué hora corresponde en tu zona en el siguiente enlace: https://everytimezone.com/s/2137585e/",
+    "status": "PAST",
+    "dateTime": "2021-11-25T18:00:00-03:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/282290607/",
+    "featuredEventPhoto": {
+      "id": "500433492",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/2/d/4/highres_500433492.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/2/d/4/600_500433492.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/2/d/4/thumb_500433492.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 12,
+      "waitlistCount": 0,
+      "totalCount": 12
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2021-11-24T14:31:12-05:00"
+  },
+  {
+    "id": "281649693",
+    "title": "Club de lectura del libro \"Data Feminism\" (sesión 5)",
+    "description": "El próximo miércoles 27 de octubre nos reuniremos para nuestra quinta sesión del club de lectura sobre libro \"Data Feminism\", de Catherine D'Ignazio y Lauren F. Klein. Este libro muestra una nueva forma de abordar la ciencia de datos y la ética de datos basada en ideas del feminismo interseccional. Se puede acceder de forma gratuita en: https://data-feminism.mitpress.mit.edu/\n\n- ¿Cómo funciona el club de lectura?\nDividiremos la lectura del libro en seis sesiones. En cada una de ellas abordaremos un capítulo del libro. Cada sesión la liderará alguien de nuestra comunidad.\nEsta cuarta sesión estará a cargo de Macarena Valenzuela, Doctora en Ciencia Política (https://cl.linkedin.com/in/macarena-valenzuela-beltran, https://twitter.com/macavalenzuela). Durante la sesión comentaremos el capítulo 5, \"Unicorns, Janitors, Ninjas, Wizards, and Rock Stars\", en el que se presenta el quinto principio del feminismo de datos: acoger el pluralismo.\n\n- ¿Qué pasa si no puedo leer en inglés?\n¡Puedes participar igual! La persona encargada de cada sesión hará una síntesis de los puntos más importantes, así que incluso si no puedes revisar el libro, podrás aprender sobre este tema :)\n\n- CÓDIGO DE CONDUCTA\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\nEl evento se realizará a través de la plataforma Zoom. El día del taller compartiremos la contraseña en los comentarios del evento.\n\n- HORA\nEl evento se realizará a las 15:00 horas de la zona horaria UTC-3. Puedes revisar a qué hora corresponde en tu zona en el siguiente enlace: https://everytimezone.com/s/256c2958",
+    "status": "PAST",
+    "dateTime": "2021-10-27T15:00:00-03:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/281649693/",
+    "featuredEventPhoto": {
+      "id": "499745688",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/6/3/8/highres_499745688.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/6/3/8/600_499745688.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/6/3/8/thumb_499745688.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 20,
+      "waitlistCount": 0,
+      "totalCount": 20
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2021-10-25T09:41:37-04:00"
+  },
+  {
+    "id": "280995105",
+    "title": "Club de lectura del libro \"Data Feminism\" (sesión 4)",
+    "description": "El próximo jueves 30 de septiembre nos reuniremos para nuestra cuarta sesión del club de lectura sobre libro \"Data Feminism\", de Catherine D'Ignazio y Lauren F. Klein. Este libro muestra una nueva forma de abordar la ciencia de datos y la ética de datos basada en ideas del feminismo interseccional. Se puede acceder de forma gratuita en: https://data-feminism.mitpress.mit.edu/\n\n- ¿Cómo funciona el club de lectura?\nDividiremos la lectura del libro en seis sesiones. En cada una de ellas abordaremos un capítulo del libro. Cada sesión la liderará alguien de nuestra comunidad.\nEsta cuarta sesión estará a cargo de Francesca Rosales (https://www.linkedin.com/in/francesca-danae-rosales-rojas-314457b6/), cientista política y estudiante del magíster en Pensamiento Contemporáneo. Durante la sesión comentaremos el capítulo 4, \"4. \"What Gets Counted Counts\", en el que se presenta el cuarto principio del feminismo de datos: repensar los binarismos y las jerarquías.\n\n- ¿Qué pasa si no puedo leer en inglés?\n¡Puedes participar igual! La persona encargada de cada sesión hará una síntesis de los puntos más importantes, así que incluso si no puedes revisar el libro, podrás aprender sobre este tema :)\n\n- CÓDIGO DE CONDUCTA\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\nEl evento se realizará a través de la plataforma Zoom. El día del taller compartiremos la contraseña en los comentarios del evento.\n\n- HORA\nEl evento se realizará a las 17:00 horas de la zona horaria UTC-3. Puedes revisar a qué hora corresponde en tu zona en el siguiente enlace: https://everytimezone.com/s/7ac3db47",
+    "status": "PAST",
+    "dateTime": "2021-09-30T17:00:00-03:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/280995105/",
+    "featuredEventPhoto": {
+      "id": "499117054",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/0/b/e/highres_499117054.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/0/b/e/600_499117054.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/0/b/e/thumb_499117054.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 25,
+      "waitlistCount": 0,
+      "totalCount": 25
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2021-09-24T17:35:35-04:00"
+  },
+  {
+    "id": "279723830",
+    "title": "Club de lectura del libro \"Data Feminism\" (sesión 3)",
+    "description": "El próximo jueves 29 de julio nos reuniremos para nuestra tercera sesión del club de lectura sobre libro \"Data Feminism\", de Catherine D'Ignazio y Lauren F. Klein. Este libro muestra una nueva forma de abordar la ciencia de datos y la ética de datos basada en ideas del feminismo interseccional. Se puede acceder de forma gratuita en: https://data-feminism.mitpress.mit.edu/\n\n- ¿Cómo funciona el club de lectura?\nDividiremos la lectura del libro en seis sesiones. En cada una de ellas abordaremos un capítulo del libro. Cada sesión la liderará alguien de nuestra comunidad.\nEsta primera sesión estará a cargo de Francisca Ortiz (https://twitter.com/FranciscaOrtizR), candidata a Doctora en Sociología por la Universidad de Manchester. Durante la sesión comentaremos el capítulo 3, \"On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints\", en el que se presenta el segundo principio del feminismo de datos: elevar la emoción y la corporalidad (embodiment).\n\n- ¿Qué pasa si no puedo leer en inglés?\n¡Puedes participar igual! La persona encargada de cada sesión hará una síntesis de los puntos más importantes, así que incluso si no puedes revisar el libro, podrás aprender sobre este tema :)\n\n- CÓDIGO DE CONDUCTA\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\nEl evento se realizará a través de la plataforma Zoom. El día del taller compartiremos la contraseña en los comentarios del evento.\n\n- HORA\nEl evento se realizará a las 16:00 horas de la zona horaria UTC-4. Puedes revisar a qué hora corresponde en tu zona en el siguiente enlace: https://everytimezone.com/s/7cb284f2",
+    "status": "PAST",
+    "dateTime": "2021-07-29T16:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/279723830/",
+    "featuredEventPhoto": {
+      "id": "497798345",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/5/c/9/highres_497798345.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/5/c/9/600_497798345.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/5/c/9/thumb_497798345.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 18,
+      "waitlistCount": 0,
+      "totalCount": 18
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2021-07-26T18:15:41-04:00"
+  },
+  {
+    "id": "279465044",
+    "title": "R para Humanidades - sesión 2: de PDF a texto plano",
+    "description": "Este jueves 15 de julio es el segundo episodio de nuestra serie de talleres sobre R para Humanidades que organizaremos de forma colaborativa los capítulos de RLadies de Ciudad de México, Santiago, Valparaíso, Concepción y Talca. La sesión estará a cargo de Silvia Gutiérrez (https://twitter.com/espejolento) y Riva Quiroga (https://twitter.com/rivaquiroga)\n\nEsta vez nos reuniremos para aprender sobre procesamiento de archivos en pdf. Específicamente, veremos como extraer y limpiar datos en documentos de este tipo.\n\n- ¿Qué necesito para participar?\nPodrás aprovechar mejor este taller si ya tienes un conocimiento básico de R: sabes cómo crear un script, cómo ejecutar el código, cómo instalar paquetes.\n\nAdemás de una versión reciente de R y RStudio, necesitas tener los siguientes paquetes (todos disponibles en CRAN):\n\n- tidyverse\n- pdftools\n- tesseract\n\n- Horario\nEl evento se realizará a las 11:00 horas de la zona horaria UTC-4. Puedes revisar a qué hora corresponde en tu zona en el siguiente enlace: https://everytimezone.com/s/10c85ce4\n\n- Código de conducta\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\nEl evento se realizará a través de la plataforma Zoom. El día del taller compartiremos la contraseña en los comentarios del evento.",
+    "status": "PAST",
+    "dateTime": "2021-07-15T11:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/279465044/",
+    "featuredEventPhoto": {
+      "id": "497523195",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/7/b/highres_497523195.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/7/b/600_497523195.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/7/b/thumb_497523195.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 59,
+      "waitlistCount": 0,
+      "totalCount": 59
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2021-07-14T10:41:12-04:00"
+  },
+  {
+    "id": "279158085",
+    "title": "R para Humanidades - sesión 1: web scraping",
+    "description": "Este viernes 2 de julio comienza una serie de talleres sobre R para Humanidades que organizaremos de forma colaborativa los capítulos de RLadies de Ciudad de México, Santiago, Valparaíso, Concepción y Talca. Las sesiones estarán a cargo de Riva Quiroga (https://twitter.com/rivaquiroga) y Silvia Gutiérrez (https://twitter.com/espejolento).\n\nEn esta primera sesión aprenderemos a hacer \"web scraping\" (\"raspado web\") utilizando el paquete {rvest}. Durante el taller introduciremos esta técnica y mostraremos paso a paso cómo implementarla.\n\n- ¿Qué necesito para participar?\nPodrás aprovechar mejor este taller si ya tienes un conocimiento básico de R: sabes cómo crear un script, cómo ejecutar el código, cómo instalar paquetes.\n\nAdemás de una versión reciente de R y RStudio, necesitas tener los siguientes paquetes (todos disponibles en CRAN):\n\n- tidyverse\n- robotstxt\n- janitor\n\n- Horario\nEl evento se realizará a las 11:00 horas de la zona horaria UTC-4. Puedes revisar a qué hora corresponde en tu zona en el siguiente enlace: https://everytimezone.com/s/6eb97481\n\n- Código de conducta\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\nEl evento se realizará a través de la plataforma Zoom. El día del taller compartiremos la contraseña en los comentarios del evento.",
+    "status": "PAST",
+    "dateTime": "2021-07-02T11:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/279158085/",
+    "featuredEventPhoto": {
+      "id": "497228603",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/1/9/b/highres_497228603.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/1/9/b/600_497228603.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/1/9/b/thumb_497228603.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 78,
+      "waitlistCount": 0,
+      "totalCount": 78
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2021-06-29T19:24:42-04:00"
+  },
+  {
+    "id": "279136688",
+    "title": "Club de lectura del libro \"Data Feminism\" (sesión 2)",
+    "description": "El próximo jueves 1 de julio nos reuniremos para nuestra segunda sesión del club de lectura sobre libro \"Data Feminism\", de Catherine D'Ignazio y Lauren F. Klein. Este libro muestra una nueva forma de abordar la ciencia de datos y la ética de datos basada en ideas del feminismo interseccional. Se puede acceder de forma gratuita en: https://data-feminism.mitpress.mit.edu/\n\n- ¿Cómo funciona el club de lectura?\nDividiremos la lectura del libro en seis sesiones. En cada una de ellas abordaremos un capítulo del libro. Cada sesión la liderará alguien de nuestra comunidad.\nEsta primera sesión estará a cargo de Sara Acevedo (https://twitter.com/saryace), candidata a Doctora en Ciencias de la Ingeniería. Durante la sesión comentaremos el capítulo 2, \"Collect, Analyze, Imagine, Teach\", en el que se presenta el segundo principio del feminismo de datos: desafiar al poder.\n\n- ¿Qué pasa si no puedo leer en inglés?\n¡Puedes participar igual! La persona encargada de cada sesión hará una síntesis de los puntos más importantes, así que incluso si no puedes revisar el libro, podrás aprender sobre este tema :)\n\n- CÓDIGO DE CONDUCTA\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\nEl evento se realizará a través de la plataforma Zoom. El día del taller compartiremos la contraseña en los comentarios del evento.\n\n- HORA\nEl evento se realizará a las 16:00 horas de la zona horaria UTC-4. Puedes revisar a qué hora corresponde en tu zona en el siguiente enlace: https://everytimezone.com/s/50ee54a0",
+    "status": "PAST",
+    "dateTime": "2021-07-01T16:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/279136688/",
+    "featuredEventPhoto": {
+      "id": "497211479",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/9/1/7/highres_497211479.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/9/1/7/600_497211479.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/9/1/7/thumb_497211479.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 29,
+      "waitlistCount": 0,
+      "totalCount": 29
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2021-06-28T17:39:44-04:00"
+  },
+  {
+    "id": "278342746",
+    "title": "Club de lectura del libro \"Data Feminism\" (sesión 1)",
+    "description": "El próximo jueves 3 de junio nos reuniremos para nuestra primera sesión del club de lectura del libro \"Data Feminism\", de Catherine D'Ignazio y Lauren F. Klein. Este libro muestra una nueva forma de abordar la ciencia de datos y la ética de datos basada en ideas del feminismo interseccional. Se puede acceder de forma gratuita en: https://data-feminism.mitpress.mit.edu/\n\n¿Cómo funciona el club de lectura?\n\nDividiremos la lectura del libro en seis sesiones. En cada una de ellas abordaremos un capítulo del libro. Cada sesión la liderará alguien de nuestra comunidad.\n\nEsta primera sesión estará a cargo de Natalia Riquelme (@NatyRiquelmeS), Administradora Pública, estudiante de Magíster en Estadística y Coordinadora de proyectos del Centro de Estudios de Conflicto y Cohesión Social. Durante la sesión comentaremos el capítulo 1, \"The Power Chapter\", en el que se se presenta el primer principio del feminismo de datos: examinar el poder.\n\n- ¿Qué pasa si no puedo leer en inglés?\n¡Puedes participar igual! La persona encargada de cada sesión hará una síntesis de los puntos más importantes, así que incluso si no puedes revisar el libro, podrás aprender sobre este tema :)\n\n- CÓDIGO DE CONDUCTA\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\n\nEl evento se realizará a través de la plataforma Zoom. El día del taller compartiremos la contraseña en los comentarios del evento.",
+    "status": "PAST",
+    "dateTime": "2021-06-03T16:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/278342746/",
+    "featuredEventPhoto": {
+      "id": "496432146",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/b/b/2/highres_496432146.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/b/b/2/600_496432146.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/b/b/2/thumb_496432146.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 54,
+      "waitlistCount": 0,
+      "totalCount": 54
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2021-05-22T11:31:52-04:00"
+  },
+  {
+    "id": "278330699",
+    "title": "Análisis de encuestas de diseño complejo con R",
+    "description": "En nuestra próxima sesión hablaremos de las principales variables que definen un diseño de encuestas complejo, para luego mostrar cómo se analizan en R a través de ejemplos aplicados a los datos de CASEN 2017 y de las encuestas CEP. El taller estará a cargo de Carmen Le Foulon, investigadora del CEP e integrante de la Red de Politólogas.\n\n- REQUERIMIENTOS\nEs necesario tener instalados los paquetes tidyverse, survey y srvyr.\n\nEste evento se realizará a través de la plataforma Zoom. Unos minutos antes de la reunión compartiremos la clave de acceso en los comentarios del evento.\n\n- CÓDIGO DE CONDUCTA\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish",
+    "status": "PAST",
+    "dateTime": "2021-05-27T13:00:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/278330699/",
+    "featuredEventPhoto": {
+      "id": "496422238",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/4/f/e/highres_496422238.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/4/f/e/600_496422238.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/4/f/e/thumb_496422238.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 102,
+      "waitlistCount": 0,
+      "totalCount": 102
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2021-05-21T17:59:04-04:00"
+  },
+  {
+    "id": "277840241",
+    "title": "Funciones de R que hacen nuestra vida más simple + LatinR 2021",
+    "description": "Este viernes 30 de abril nos volvemos a juntar, ahora para hablar de algunas funciones que amamaos porque hacen nuestra vida más fácil. Durante la sesión, Sara Acevedo, Stephanie Orellana, Javiera Riffo, Alejandra Tapia Silva y Riva Quiroga nos presentarán algunas funciones no tan conocidas que las ayudan en su trabajo diario. Nos enseñarán a utilizarlas y nos mostrarán algunos casos en los que podrían ser útiles.\nAdemás, hablaremos sobre el llamado a presentación de trabajos de LatinR (https://latin-r.com/), la conferencia latinoamericana sobre R que este año se realizará en modalidad virtual. Revisaremos cuáles son los formatos de presentación y los temas, y resolveremos dudas sobre el proceso de envío de propuestas.\n\n- SOBRE LA ESTRUCTURA DE LA SESIÓN\nEsta sesión está organizada en torno a \"charlas relámpago\" en las que se presentarán las distintas funciones. Los materiales utilizados en cada una de las demostraciones quedará disponible en nuestra cuenta de GitHub una vez terminado el meetup: https://github.com/rladieschile.\nEste evento se realizará a las 17:00 (UTC-4) a través de la plataforma Zoom. Unos minutos antes de la reunión compartiremos la clave de acceso.\n\n- CÓDIGO DE CONDUCTA\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\n\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2021-04-30T17:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/277840241/",
+    "featuredEventPhoto": {
+      "id": "495974703",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/9/6/f/highres_495974703.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/9/6/f/600_495974703.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/9/6/f/thumb_495974703.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 102,
+      "waitlistCount": 0,
+      "totalCount": 102
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2021-04-27T18:44:51-04:00"
+  },
+  {
+    "id": "277552472",
+    "title": "Manejo de tablas con {dplyr}",
+    "description": "Si ya tienes un manejo básico de R y {dplyr}, y quieres comenzar a trabajar uniendo tablas de datos, este taller es para ti. Repasaremos las principales funciones de dplyr y utilizaremos inner_join, left_join, full-join y otras más para el manejo de tablas. Esta sesión estará a cargo de Javiera Riffo (https://twitter.com/JavieraRiffoTo1), Analista de Inteligencia de Negocios y Magíster en Ciencias de la Ingeniería.\n\n- REQUERIMIENTOS\nAntes del taller es necesario que instales es paquete {tidyverse}:\n> install.packages(\"tidyverse\")\nEl conjunto de datos con el que trabajaremos se encuentra en: www.kaggle.com/rtatman/lego-database.\nHemos preparado un proyecto en RStudio Cloud, que incluye los datos a utilizar y los paquetes necesarios: proyecto en donde trabajarás, a partir del siguiente link: https://rstudio.cloud/project/2432177.\n\nEste evento se realizará a través de la plataforma Zoom. Unos minutos antes de la reunión compartiremos la clave de acceso.\n\n- CÓDIGO DE CONDUCTA\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\n\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2021-04-16T18:00:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/277552472/",
+    "featuredEventPhoto": {
+      "id": "495699631",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/a/c/f/highres_495699631.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/a/c/f/600_495699631.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/a/c/f/thumb_495699631.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 87,
+      "waitlistCount": 0,
+      "totalCount": 87
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2021-04-13T17:57:29-04:00"
+  },
+  {
+    "id": "276954680",
+    "title": "Introducción a Tidymodels (parte 2): modelos mixtos",
+    "description": "Esta segunda parte del taller de introducción a Tidymodels estará a cargo de Alejandra Tapia Silva y estará dirigida a personas nuevas en el modelado con efectos mixtos. Cubrirá aspectos introductorios de este tema esperando que sea un punto de partida para el uso de estos modelos con R y {tidymodels}. No se utilizan fórmulas matemáticas, en un intento de hacerlo amigable e intuitivo y así poder dar atención a una audiencia más amplia.\nPara aprovechar mejor este taller, es necesario tener algo de experiencia con análisis exploratorio de datos y modelos lineales, de tal manera de poder transitar sin mucho obstáculo teórico por cada una de las etapas del modelamiento con efectos mixtos. Además, es necesario contar con conocimientos iniciales de algunos paquetes del tidyverse (como {readr} y {dplyr}).\n\n- REQUERIMIENTOS\n\nAdemás de {tidyverse} y {tidymodels}, que utilizamos en la primera parte de este taller, es necesario instalar los siguientes paquetes:\n\n> install.packages(c(\"broom.mixed\",\"lme4\",\"lmerTest\"))\n\nLuego del taller se dejarán referencias para quienes tengan interés en una explicación más detallada sobre modelos mixtos y {tidymodels}, de tal manera que cuando comiencen a usar estas herramientas con sus propios datos dispongan de mayor información. El material del taller quedará disponible en https://github.com/alejandraandrea/slides-xaringan-mixed-models\n\n- CÓDIGO DE CONDUCTA\n\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2021-03-19T18:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/276954680/",
+    "featuredEventPhoto": {
+      "id": "495101827",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/3/6/3/highres_495101827.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/3/6/3/600_495101827.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/3/6/3/thumb_495101827.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 73,
+      "waitlistCount": 0,
+      "totalCount": 73
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2021-03-15T15:46:01-04:00"
+  },
+  {
+    "id": "276830743",
+    "title": "Introducción a Tidymodels (parte 1)",
+    "description": "Si tienes un manejo básico de R y tidyverse, y quieres comenzar a generar modelos predictivos de regresión o clasificación, este taller es para ti. Veremos las funciones principales del paquete tidymodels y desarrollaremos un modelo lineal de regresión. Esta primera sesión estará a cargo de Sara Acevedo (https://twitter.com/saryace), estudiante de Doctorado en Ciencias de la Ingeniería.\n\n- REQUERIMIENTOS\n\nAntes del taller es necesario que instales los paquetes {tidyverse} y {tidymodels}, junto con sus dependencias:\n\n> install.packages(c(\"tidyverse\", \"tidymodels\"), dependencies = TRUE)\n\nAsimismo, es necesario tener los paquetes {remotes} y {ggsignif}, junto con sus dependencias:\n\n> install.packages(c(\"remotes\", \"ggsignif\"), dependencies = TRUE)\n\nAdemás, debes instalar desde GitHub los paquete {datos} y {corrr} (ojo que tienes que tener instalado el paquete {remotes} para que funcionen las siguientes líneas de código):\n\n> remotes::install_github(\"cienciadedatos/datos\")\n> remotes::install_github(\"tidymodels/corrr\")\n\n- CÓDIGO DE CONDUCTA\n\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2021-03-12T18:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/276830743/",
+    "featuredEventPhoto": {
+      "id": "495101827",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/3/6/3/highres_495101827.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/3/6/3/600_495101827.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/3/6/3/thumb_495101827.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 126,
+      "waitlistCount": 0,
+      "totalCount": 126
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2021-03-09T09:11:08-05:00"
+  },
+  {
+    "id": "276417898",
+    "title": "Expresiones regulares para la limpieza y transformación de datos (parte 2)",
+    "description": "Este viernes 19 de febrero realizaremos la segunda sesión del taller \"Expresiones regulares para la limpieza y transformación de datos\". El taller estará a cargo de Stephanie Orellana (https://twitter.com/sporella) y Riva Quiroga (https://twitter.com/rivaquiroga).\n\n- SOBRE EL TALLER\nEste taller tiene por objetivo que sus participantes se familiaricen con el uso de expresiones regulares (conocidas también como \"regex\"). Específicamente, abordaremos el potencial que tienen como parte del proceso de limpieza y transformación de datos usando paquetes del Tidyverse.\nEn esta segunda sesión, profundizaremos en los contenidos vistos en la primera y además veremos cómo podemos utilizar expresiones regulares para limpiar un archivo PDF.\n\n- REQUERIMIENTOS\nSi no participaste en la primera parte del taller, te sugerimos revisar el video y los materiales, ya que los ejercicios que realizaremos son una continuación de lo visto en ese día: https://github.com/rladieschile/taller-regex-2021/blob/main/README.md\nPara este taller es necesario tener una versión de R igual o superior a 3.6 y tener instalados RStudio y los paquetes {tidyverse}, {pdftools}, {janitor} y la versión en desarrollo de {datos}. Esta última se puede instalar desde GitHub con: remotes::install_github(\"cienciadedatos/datos\").\nEl taller se dictará a través de la plataforma Zoom. Media hora antes del evento enviaremos la clave de acceso a la reunión.\n\n- CÓDIGO DE CONDUCTA\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2021-02-19T18:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/276417898/",
+    "featuredEventPhoto": {
+      "id": "494790476",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/7/0/c/highres_494790476.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/7/0/c/600_494790476.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/7/0/c/thumb_494790476.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 56,
+      "waitlistCount": 0,
+      "totalCount": 56
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2021-02-17T09:19:36-05:00"
+  },
+  {
+    "id": "276265767",
+    "title": "Expresiones regulares para la limpieza y transformación de datos (parte 1)",
+    "description": "Tal como prometimos el año pasado, este viernes repetiremos el taller sobre expresiones regulares para la limpieza y transformación de datos que realizamos el año pasado en el marco de LatinR (https://latin-r.com), la conferencia Latinoamericana sobre uso de R en investigación y desarrollo. En esta ocasión, se llevará a cabo en dos sesiones (los viernes 12 y 19 de febrero), para poder cubrir los contenidos con mayor profundidad. El taller estará a cargo de Stephanie Orellana (https://twitter.com/sporella) y Riva Quiroga (https://twitter.com/rivaquiroga).\n\n- SOBRE EL TALLER\n\nEste taller tiene por objetivo que sus participantes se familiaricen con el uso de expresiones regulares (conocidas también como \"regex\"). Específicamente, abordaremos el potencial que tienen como parte del proceso de limpieza y transformación de datos usando paquetes del Tidyverse.\nLos ejemplos prácticos se enfocarán en el trabajo con dataframes y archivos de texto, y en cómo utilizar expresiones regulares en conjunto con funciones de los paquetes {stringr}, {dplyr} y {tidyr}.\n\n- REQUERIMIENTOS\n\nPara este taller es necesario tener una versión de R igual o superior a 3.6 y tener instalados RStudio y los paquetes {tidyverse}, {janitor} y la versión en desarrollo de {datos}. Esta última se puede instalar desde GitHub con: remotes::install_github(\"cienciadedatos/datos\").\nEl taller se dictará a través de la plataforma Zoom. Media hora antes del evento enviaremos la clave de acceso a la reunión.\n\n- SOBRE LA SEGUNDA SESIÓN\n\nLa segunda sesión de este taller se llevará a cabo el viernes 19 de febrero. Para asistir, debes inscribirte en el evento correspondiente, que quedará publicado acá en Meetup a principios de la próxima semana.\n\n- CÓDIGO DE CONDUCTA\n\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\n\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2021-02-12T18:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/276265767/",
+    "featuredEventPhoto": {
+      "id": "494687803",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/a/b/b/highres_494687803.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/a/b/b/600_494687803.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/a/b/b/thumb_494687803.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 102,
+      "waitlistCount": 0,
+      "totalCount": 102
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2021-02-09T07:32:14-05:00"
+  },
+  {
+    "id": "275824090",
+    "title": "Usos de R durante una pandemia",
+    "description": "Estos últimos meses no han sido fáciles :( Por ello, los distintos capítulos de RLadies Chile (Santiago, Valparaíso, Concepción y Talca) decidimos reunirnos para compartir distintas experiencias acerca de cómo R nos ha ayudado a sobrellevar este período: nos permitió concluir proyectos importantes, nos ayudó a desconectarnos de todo lo que estaba pasando al explorar nuevos desafíos, encontramos nuevas formas de colaborar y compartir en nuestros espacios de trabajo y comunidad.\n\n> El programa de esta sesión:\n\n- Stephanie Orellana: \"30 días con R\"\n- Alejandra Tapia Silva: \"Explorando algunas funciones sonoras con R\"\n- Riva Quiroga: \"Cómo certificarse como instructora de RStudio y hacer amigas en el intento\"\n- Sara Acevedo: \"Una Shiny app en reemplazo de pizarra\"\n- Macarena Valenzuela: \"Usando R para terminar una tesis de doctorado en pandemia\"\n\nLuego de las presentaciones tendremos un espacio para preguntas y comentarios. Aprovecharemos este evento para presentar también nuestra programación de actividades del primer semestre.\n\n> ¿Qué necesito para participar?\n\nLo primero, es leer nuestro nuestro código de conducta. Es requisito para asistir estar de acuerdo con él: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\nLo segundo, es asegurarte de que puedes utilizar la aplicación Zoom en tu computador. El día del taller te enviaremos la contraseña para unirte (chequea ese día que el mensaje no se haya ido a la carpeta de spam).\n\n¡Nos vemos!",
+    "status": "PAST",
+    "dateTime": "2021-01-22T18:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/275824090/",
+    "featuredEventPhoto": {
+      "id": "494385358",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/1/2/e/highres_494385358.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/1/2/e/600_494385358.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/1/2/e/thumb_494385358.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 96,
+      "waitlistCount": 0,
+      "totalCount": 96
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2021-01-18T10:54:52-05:00"
+  },
+  {
+    "id": "289404926",
+    "title": "Cosas terroríficas que pasan al trabajar con datos y cómo perderles el miedo",
+    "description": "Este lunes 31 retomamos nuestras actividades con una charla y un serie de minitalleres acerca de cómo enfrentar situaciones del terror al trabajar con datos, o cómo abordar datos terroríficos usando R.\nPartiremos la jornada con una charla invitada, que estará a cargo de Silvia Gutiérrez, de RLadies Ciudad de México. Silvia nos contará cómo los métodos más sofisticados y de moda no necesariamente son la mejor solución para resolver problemas de minería de textos, y cómo aprendió esto lidiando con los datos de la investigación doctoral que realiza en el grupo de Humanidades Computacionales de la Universidad de Leipzig.\nA continuación, Alejandra Tapia, profesora del Departamento de Estadística UC, nos mostrará cómo aplicar métodos mixtos a un set de datos sobre arañas usando el paquete {broom.mixed}.\nLuego, Sara Acevedo, investigadora doctoral del Laboratorio de Biofísica de Suelos UC, introducirá el paquete {janitor}, un amuleto protector contra los horrores que a veces nos encontramos al trabajar con archivos Excel.\nEn el siguiente minitaller, Riva Quiroga intentará exorcizar en vivo un archivo Excel con un formato terrorífico, pero muy habitual, para poder hacer accesibles datos terribles que de otro modo no podrían ser analizados.\nFinalmente, Stephanie Orellana, Científica de Datos Espaciales, nos ayudará a perderle el miedo a la terminal y conocer sus poderes mágicos.\n\nCÓDIGO DE CONDUCTA\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\n\nDATOS PRÁCTICOS\nLa actividad comenzará a las 15:00 horas de la zona horaria UTC-3. Puedes revisar a qué hora corresponde eso en tu zona en el siguiente enlace: https://everytimezone.com/s/c5531caa\nEl evento se realizará a través de la plataforma Zoom. El mismo lunes enviaremos a través de Meetup la contraseña para unirse a la sesión.",
+    "status": "PAST",
+    "dateTime": "2022-10-31T15:00:00-03:00",
+    "duration": "PT2H30M",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/289404926/",
+    "featuredEventPhoto": {
+      "id": "508145162",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/4/2/a/highres_508145162.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/4/2/a/600_508145162.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/4/2/a/thumb_508145162.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 35,
+      "waitlistCount": 0,
+      "totalCount": 35
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2022-10-28T18:30:08-04:00"
+  },
+  {
+    "id": "283280094",
+    "title": "Club de lectura del libro \"Data Feminism\" (sesión 7)",
+    "description": "El próximo martes 18 de enero nos reuniremos para nuestra última sesión del club de lectura sobre libro \"Data Feminism\", de Catherine D'Ignazio y Lauren F. Klein. Este libro muestra una nueva forma de abordar la ciencia de datos y la ética de datos basada en ideas del feminismo interseccional. Se puede acceder de forma gratuita en: https://data-feminism.mitpress.mit.edu/\n\nEsta sexta sesión estará a cargo de Alejandra Tapia Silva (https://twitter.com/aleants). Alejandra es Doctora en Estadística y fundadora de RLadies Talca. Durante la sesión comentaremos el capítulo 7, \"Show your work\", en el que se presenta el séptimo principio del feminismo de datos: hacer el trabajo visible.\n\n- ¿Qué pasa si no puedo leer en inglés?\n¡Puedes participar igual! La persona encargada de cada sesión hará una síntesis de los puntos más importantes, así que incluso si no puedes revisar el libro, podrás aprender sobre este tema :)\n\n- CÓDIGO DE CONDUCTA\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\nEl evento se realizará a través de la plataforma Zoom. El día del taller compartiremos la contraseña en los comentarios del evento.\n\n- HORA\nEl evento se realizará a las 17:00 horas de la zona horaria UTC-3. Puedes revisar a qué hora corresponde en tu zona en el siguiente enlace: https://everytimezone.com/s/abc5d3de",
+    "status": "PAST",
+    "dateTime": "2022-01-18T17:00:00-03:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/283280094/",
+    "featuredEventPhoto": {
+      "id": "501378993",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/a/3/1/highres_501378993.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/a/3/1/600_501378993.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/a/3/1/thumb_501378993.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 8,
+      "waitlistCount": 0,
+      "totalCount": 8
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2022-01-15T07:23:54-05:00"
+  },
+  {
+    "id": "293702613",
+    "title": "¿Qué hay de nuevo en el Tidyverse?",
+    "description": "El próximo viernes 26 de mayo nos volvemos a juntar, esta vez para aprender sobre las actualizaciones que han tenido algunos de los paquetes del Tidyverse. Nos enfocaremos en los cambios más recientes en tidyr, ggplot2, dplyr y stringr. ¿Todavía no has utilizado la función **pick()**? ¿Quieres aprender más sobre la nueva familia de funciones **separate_\\*()** o saber para qué sirve **guide_axis()**? Entonces no te pierdas este evento :)\nLa sesión estará a cargo de [Sara Acevedo](https://saryace.github.io/), [Stephanie Orellana](https://sporella.xyz/) y [Riva Quiroga](https://rivaquiroga.cl/).\n\nREQUERIMIENTOS\nPara la sesión solo necesitas tener instalada la última versión del Tidyverse:\n\\> install\\.packages\\(\"tidyverse\"\\)\n\nACCESO\nMedia hora antes del inicio publicaremos la contraseña de acceso a Zoom como comentario acá en Meetup.\n\nCÓDIGO DE CONDUCTA\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: [https://guide.rladies.org/about/coc/#spanish](https://guide.rladies.org/about/coc/#spanish)\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2023-05-26T17:00:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/293702613/",
+    "featuredEventPhoto": {
+      "id": "513073156",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/3/6/4/highres_513073156.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/3/6/4/600_513073156.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/3/6/4/thumb_513073156.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 49,
+      "waitlistCount": 0,
+      "totalCount": 49
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": 0,
+        "lon": 0,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2023-05-22T17:07:55-04:00"
+  },
+  {
+    "id": "293346344",
+    "title": "Introducción al Tidyverse",
+    "description": "El próximo viernes 12 de mayo nos reunimos nuevamente para aprender sobre el [Tidyverse](https://www.tidyverse.org/), el universo de paquetes diseñados para hacer ciencia de datos con R. La sesión estará a cargo de [Natalia Riquelme](https://github.com/nataliariquelme), Administradora Pública UdeC y Estudiante de Magíster en Estadística Universidad Católica, y de [Camila Molina](https://www.linkedin.com/in/camila-molina-fern%C3%A1ndez), Ingeniera Estadística de la Universidad del Bío-Bío.\n\nREQUERIMIENTOS\nPara la sesión solo necesitas tener instalado el Tidyverse:\n\\> install\\.packages\\(\"tidyverse\"\\)\n\nCÓDIGO DE CONDUCTA\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://guide.rladies.org/about/coc/#spanish\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2023-05-12T19:00:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/293346344/",
+    "featuredEventPhoto": {
+      "id": "512613245",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/1/d/d/highres_512613245.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/1/d/d/600_512613245.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/1/d/d/thumb_512613245.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 47,
+      "waitlistCount": 0,
+      "totalCount": 47
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2023-05-05T11:14:08-04:00"
+  },
+  {
+    "id": "293092851",
+    "title": "Introducción a Tidymodels. Parte 2: modelos mixtos",
+    "description": "Esta segunda parte del taller de introducción a Tidymodels estará a cargo de Alejandra Tapia Silva y estará dirigida a personas nuevas en el modelado con efectos mixtos. Cubrirá aspectos introductorios de este tema esperando que sea un punto de partida para el uso de estos modelos con R y {tidymodels}. No se utilizan fórmulas matemáticas, en un intento de hacerlo amigable e intuitivo y así poder dar atención a una audiencia más amplia.\nPara aprovechar mejor este taller, es necesario tener algo de experiencia con análisis exploratorio de datos y modelos lineales, de tal manera de poder transitar sin mucho obstáculo teórico por cada una de las etapas del modelamiento con efectos mixtos. Además, es necesario contar con conocimientos iniciales de algunos paquetes del tidyverse (como {readr} y {dplyr}).\n\nREQUERIMIENTOS\n\nAdemás de {tidyverse} y {tidymodels}, que utilizamos en la primera parte de este taller, es necesario instalar los siguientes paquetes:\n\\> install\\.packages\\(c\\(\"broom\\.mixed\"\\,\"lme4\"\\,\"lmerTest\"\\)\\)\nLuego del taller se dejarán referencias para quienes tengan interés en una explicación más detallada sobre modelos mixtos y {tidymodels}, de tal manera que cuando comiencen a usar estas herramientas con sus propios datos dispongan de mayor información.\n\nCÓDIGO DE CONDUCTA\n\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://guide.rladies.org/about/coc/#spanish\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2023-04-28T17:00:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/293092851/",
+    "featuredEventPhoto": {
+      "id": "512332468",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/c/f/4/highres_512332468.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/c/f/4/600_512332468.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/c/f/4/thumb_512332468.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 51,
+      "waitlistCount": 0,
+      "totalCount": 51
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2023-04-23T19:59:57-04:00"
+  },
+  {
+    "id": "292260500",
+    "title": "Introducción a Tidymodels. Parte 1: modelos lineales",
+    "description": "Si tienes un manejo básico de R y tidyverse, y quieres comenzar a generar modelos predictivos de regresión o clasificación, este taller es para ti. Veremos las funciones principales del paquete tidymodels y desarrollaremos un modelo lineal de regresión. Esta sesión estará a cargo de Sara Acevedo, Doctora en Ciencias de la Ingeniería.\n\nREQUERIMIENTOS\n\nAntes del taller es necesario que instales los paquetes {tidyverse} y {tidymodels}, junto con sus dependencias:\n\\> install\\.packages\\(c\\(\"tidyverse\"\\, \"tidymodels\"\\)\\, dependencies = TRUE\\)\nAsimismo, es necesario tener los paquetes {remotes} y {ggsignif}, junto con sus dependencias:\n\\> install\\.packages\\(c\\(\"remotes\"\\, \"ggsignif\"\\)\\, dependencies = TRUE\\)\nAdemás, debes instalar desde GitHub los paquete {datos} y {corrr} (ojo que tienes que tener instalado el paquete {remotes} para que funcionen las siguientes líneas de código):\n\\> remotes::install_github\\(\"cienciadedatos/datos\"\\)\n\\> remotes::install_github\\(\"tidymodels/corrr\"\\)\n\nCÓDIGO DE CONDUCTA\n\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://guide.rladies.org/about/coc/#spanish\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2023-03-24T17:00:00-03:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/292260500/",
+    "featuredEventPhoto": {
+      "id": "511323886",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/f/2/e/highres_511323886.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/f/2/e/600_511323886.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/f/2/e/thumb_511323886.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 92,
+      "waitlistCount": 0,
+      "totalCount": 92
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2023-03-15T15:00:00-04:00"
+  },
+  {
+    "id": "302440825",
+    "title": "Cómo preparar tu propuesta de presentación para LatinR 2024",
+    "description": "¡Ya está abierto el envío de trabajos para [LatinR 2024](https://latinr.org/)! Este año la conferencia latinoamericana sobre R se llevará a cabo en línea, entre el 18 y el 22 de noviembre. Esta modalidad la hace una excelente oportunidad para compartir lo que has estado haciendo con R con el resto de la comunidad, sin tener que moverte de tu casa.\n\nPero ¿cómo preparar una propuesta de presentación?\n¿Qué debiese incluir el abstract?\n¿La idea que tengo es suficiente como para proponer algo?\n¿Qué pasa si recién estoy empezando a usar R?\n¿Es lo mismo escribir un abstract para una conferencia de R que para una conferencia académica de mi disciplina?\n¿Qué tengo que tener en cuenta si quiero presentar sobre un paquete o una Shiny app que desarrollé?\n\nPara responder estas y otras preguntas nos reuniremos el próximo jueves 1 de agosto. Durante la sesión, compartiremos recomendaciones para diseñar una propuesta y revisaremos algunos ejemplos de años anteriores para que te hagas una idea de la variedad de temas que es posible presentar.\n\n**¿Y si todavía no tengo una idea concreta para una presentación?**\nNo importa. Durante la sesión hablaremos también sobre cómo generar ideas. Si usas R, seguro que tienes algo para compartir con la comunidad.\n\n**Preparación**\nSi aún no tienes una cuenta en OpenReview (la plataforma que usa LatinR para envíos) te sugerimos hacerte una cuenta ahora, incluso si todavía no tienes claro si vas a enviar una propuesta. OpenReview a veces se demora hasta dos semana en aprobar las cuentas nuevas que se crean con correos personales, así que es mejor no dejar este paso para última hora.\n\n**Acceso**\nMedia hora antes del inicio publicaremos la contraseña de acceso a Zoom como comentario acá en Meetup. El enlace te aparecerá a la derecha, debajo de la fecha del evento, cuando te registres.\n\n**Código de conducta**\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://guide.rladies.org/about/coc/\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2024-08-01T17:00:00-04:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/302440825/",
+    "featuredEventPhoto": {
+      "id": "522536584",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/d/0/8/highres_522536584.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/d/0/8/600_522536584.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/d/0/8/thumb_522536584.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 25,
+      "waitlistCount": 0,
+      "totalCount": 25
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2024-07-25T20:20:24-04:00"
+  },
+  {
+    "id": "301221904",
+    "title": "Taller de familiarización con R/RStudio",
+    "description": "Este taller está dirigido a personas que han oído sobre R y que aún no se han adentrado de forma autónoma a explorarlo. Durante el taller nos familiarizaremos con esta herramienta para que puedas iniciar tu camino en el trabajo con este lenguaje de programación.\nAsumiremos cierta familiaridad con otros software de análisis estadístico, aunque este no será en lo absoluto un taller orientado a la ejecución de análisis, sino de demostración de las posibilidades y forma de trabajo del programa.\n\n**Preparación**\nNo es necesario que traigas nada previamente instalado. Durante la sesión mostraremos cómo preparar tu computadora para utilizar R y RStudio.\n\n**Acceso**\nMedia hora antes del inicio publicaremos la contraseña de acceso a Zoom como comentario acá en Meetup.\n\n**Código de conducta**\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://guide.rladies.org/about/coc/\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2024-05-31T16:00:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/301221904/",
+    "featuredEventPhoto": {
+      "id": "521293653",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/5/5/5/highres_521293653.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/5/5/5/600_521293653.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/5/5/5/thumb_521293653.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 55,
+      "waitlistCount": 0,
+      "totalCount": 55
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2024-05-24T13:24:45-04:00"
+  },
+  {
+    "id": "298571896",
+    "title": "¿Tu código demora tres días en ejecutarse? ¡Es hora de paralelizar!",
+    "description": "¿Tu código demora mucho tiempo en ejecutarse? Quizás sea la señal que estabas esperando para aprender acerca de paralelizar procesos con el paquete {furrr}. Con este paquete puedes combinar las capacidades de programación funcional de {purrr} con las de procesamiento paralelo de {futures} (**f**utures + p**urrr** = **furrr**).\nLa sesión estará a cargo de Stephanie Orellana, Científica de Datos.\n\n**Código de conducta**\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando [nuestro código de conducta](https://guide.rladies.org/about/coc/#spanish).\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2024-04-05T17:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/298571896/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 54,
+      "waitlistCount": 0,
+      "totalCount": 54
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2024-01-15T15:12:54-05:00"
+  },
+  {
+    "id": "298571300",
+    "title": "¿Escribiste el mismo código tres veces? ¡Mejor crea una función!",
+    "description": "En este taller aprenderemos a crear funciones para no tener que repetir nuestro código y a usarlas en conjunto con el paquete {purrr} para simplificar flujos de trabajo que requieren iterar. Si nunca has creado una función, este taller es para ti.\nLa sesión estará a cargo de Sara Acevedo, Doctora en Ciencias de la Ingeniería y Académica de la carrera de Ingeniería en Recursos Naturales FASNA-UC.\n¡Próximamente agregaremos detalles sobre cómo prepararte para el taller!\n\n**Código de conducta**\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando [nuestro código de conducta](https://guide.rladies.org/about/coc/#spanish).\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2024-03-22T17:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/298571300/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 73,
+      "waitlistCount": 0,
+      "totalCount": 73
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2024-01-15T14:52:17-05:00"
+  },
+  {
+    "id": "311406339",
+    "title": "#IntlRSEday: día internacional del software de investigación",
+    "description": "Desde 2021, el segundo jueves de octubre se celebra el Día Internacional del Software de Investigación (también conocido como \"RSE Day\" por sus siglas en inglés: Research Software Engineering), para visibilizar a quienes se encargan de las tareas asociadas al desarrollo y mantenimiento del código de proyectos de investigación.\nPero ¿qué es esto de \"RSE\" y qué papel juega R cómo lenguaje de programación en ese tipo de roles? Si te interesa saber más, te esperamos el próximo 9 de octubre en este evento multi-comunidades (capítulos de R-Ladies de Chile, R-Ladies Resistencia-Corrientes, R en Buenos Aires y la comunidad de RSE de Chile). Durante la sesión, abordaremos los siguientes temas:\n\n* el origen de este movimiento que busca visibilizar y reconocer el rol de quienes escriben código para proyectos de investigación\n* cómo usa R alguien que trabaja como RSE\n* los principales temas y aprendizajes que nos dejó la RSECon, la conferencia que organiza la Society of RSE.\n\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2025-10-09T14:00:00-03:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/311406339/",
+    "featuredEventPhoto": {
+      "id": "530590919",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/a/a/7/highres_530590919.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/a/a/7/600_530590919.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/a/a/7/thumb_530590919.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 16,
+      "waitlistCount": 0,
+      "totalCount": 16
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2025-10-06T10:45:25-04:00"
+  },
+  {
+    "id": "308652850",
+    "title": "Taller de familiarización con R/RStudio",
+    "description": "Este taller está dirigido a personas que han oído sobre R y que aún no se han adentrado de forma autónoma a explorarlo. Durante el taller nos familiarizaremos con esta herramienta para que puedas iniciar tu camino en el trabajo con este lenguaje de programación.\nAsumiremos cierta familiaridad con otros software de análisis estadístico, aunque este no será en lo absoluto un taller orientado a la ejecución de análisis, sino de demostración de las posibilidades y forma de trabajo del programa.\n\n**Preparación**\nNo es necesario que traigas nada previamente instalado. Durante la sesión mostraremos cómo preparar tu computadora para utilizar R y RStudio.\n\n**Acceso**\nMedia hora antes del inicio publicaremos la contraseña de acceso a Zoom como comentario acá en Meetup.\n\n**Código de conducta**\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://guide.rladies.org/about/coc/\n\nEste evento es una actividad conjunta de los capítulos de Santiago, Valparaíso, Concepción, Talca y Temuco.\n\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2025-07-18T16:30:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-scl/events/308652850/",
+    "featuredEventPhoto": {
+      "id": "528745242",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/2/9/a/highres_528745242.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/2/9/a/600_528745242.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/2/9/a/thumb_528745242.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 44,
+      "waitlistCount": 26,
+      "totalCount": 44
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Santiago",
+      "urlname": "rladies-scl"
+    },
+    "createdTime": "2025-06-25T13:08:18-04:00"
+  }
+]

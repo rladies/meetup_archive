@@ -1,0 +1,1806 @@
+[
+  {
+    "id": "264238721",
+    "title": "Visualización de datos con ggplot y gganimate",
+    "description": "El viernes 30 de agosto volvemos a juntarnos, esta vez para aprender sobre visualización de datos en R. El taller estará a cargo de Riva Quiroga (https://www.twitter.com/rivaquiroga) y en él aprenderemos a utilizar el paquete ggplot2 para la generación de gráficos y el paquete gganimate para animarlos.\nDebes traer instalados en tu computador los siguientes paquetes (puedes utilizar este código para hacerlo):\n\ninstall.packages(“tidyverse”)\ninstall.packages(“datos”)\ninstall.packages(“gganimate”)\ninstall.packages(“gifski”)\ninstall.packages(“png”)\n\nNo tendremos conexión a internet, así que la sugerencia es traerlos instalados con anterioridad. Si no has utilizado R antes, puedes revisar la primera parte de este tutorial para ver cómo instalar todo lo necesario: http://bit.ly/tutorial-primeros-pasos-R.\n\nSi es la primera vez que asistes a uno de nuestros eventos, recuerda revisar nuestro código de conducta. Es requisito para asistir estar de acuerdo con él: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\n\nEl taller está dirigido principalmente a personas que se identifican con el género femenino o con otros géneros disidentes.\n\n¡Muchas gracias a la Facultad de Ingeniería de la Universidad de Valparaíso por recibirnos!",
+    "status": "PAST",
+    "dateTime": "2019-08-30T17:30:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-valparaiso/events/264238721/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 6,
+      "waitlistCount": 0,
+      "totalCount": 6
+    },
+    "venues": [
+      {
+        "id": "26096477",
+        "name": "Universidad De Valparaiso",
+        "address": "Gral. Cruz 222",
+        "city": "Valparaíso",
+        "state": "",
+        "country": "cl",
+        "lat": -33.0459,
+        "lon": -71.6132,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Valparaíso",
+      "urlname": "rladies-valparaiso"
+    },
+    "createdTime": "2019-08-22T23:56:21-04:00"
+  },
+  {
+    "id": "258217281",
+    "title": "RLadies + Taller de introducción a la programación en R",
+    "description": "Comenzamos este 2019 con un taller de introducción a la programación con R. Es un taller inicial, por lo que no se requiere ningún conocimiento previo. Está abierto a personas de cualquier edad y provenientes de cualquier disciplina. ¿Quieres aprender a programar en un ambiente amable e inclusivo? ¡Te esperamos!\nAdemás, en esta actividad les contaremos con más detalle qué es RLadies, cuáles son nuestros objetivos para 2019 y las novedades que vienen para la comunidad de R en Chile y Latinoamérica para este año.\n\n> ¿Qué necesito para participar?\n\nLo primero, es leer nuestro nuestro código de conducta. Es requisito para asistir estar de acuerdo con él: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\nLo segundo, es traer instalado R, RStudio y los \"paquetes\" que usaremos en tu computador. En el siguiente enlace encontrarás el detalle de cómo instalar y preparar todo: https://github.com/rivaquiroga/RLadies-Valparaiso/blob/master/intro-programacion-R.md . No podemos asegurar conexión a internet ese día, por lo que te sugerimos traer todo instalado. Si te surge cualquier duda en el proceso, puedes escribirnos a valparaiso@rladies.org.\n\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2019-01-30T18:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-valparaiso/events/258217281/",
+    "featuredEventPhoto": {
+      "id": "477951241",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/8/2/9/highres_477951241.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/8/2/9/600_477951241.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/8/2/9/thumb_477951241.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 12,
+      "waitlistCount": 0,
+      "totalCount": 12
+    },
+    "venues": [
+      {
+        "id": "26096477",
+        "name": "Universidad De Valparaiso",
+        "address": "Gral. Cruz 222",
+        "city": "Valparaíso",
+        "state": "",
+        "country": "cl",
+        "lat": -33.0459,
+        "lon": -71.6132,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Valparaíso",
+      "urlname": "rladies-valparaiso"
+    },
+    "createdTime": "2019-01-19T10:12:45-05:00"
+  },
+  {
+    "id": "273511476",
+    "title": "Taller LatinR - Expresiones regulares para la limpieza y transformación de datos",
+    "description": "Este lunes nos unimos a las actividades de LatinR (https://latin-r.com), la conferencia Latinoamericana sobre uso de R en investigación y desarrollo. En esta ocasión, en conjunto RLadies Ciudad de México, RLadies Galápagos, RLadies Talca y RLadies Santiago, recibiremos el taller \"Expresiones regulares para la limpieza y transformación de datos\", que estará a cargo de Riva Quiroga (https://twitter.com/rivaquiroga) y Stephanie Orellana (https://twitter.com/sporella).\n\n- SOBRE EL TALLER\n\nEste taller tiene por objetivo que sus participantes se familiaricen con el uso de expresiones regulares (conocidas también como \"\"regex\"\"). Específicamente, abordaremos el potencial que tienen como parte del proceso de limpieza y transformación de datos usando paquetes del Tidyverse.\nLos ejemplos prácticos se enfocarán en el trabajo con dataframes y archivos de texto, y en cómo utilizar expresiones regulares en conjunto con funciones de los paquetes {stringr}, {dplyr} y {tidyr}.\n\n- REQUERIMIENTOS\n\nPara este taller es necesario tener una versión de R igual o superior a 3.6 y tener instalados RStudio y los paquetes {tidyverse}, {janitor} y la versión en desarrollo de {datos}. Esta última se puede instalar desde GitHub con: remotes::install_github(\"cienciadedatos/datos\").\nEl taller se dictará a través de la plataforma Zoom. Media hora antes del evento publicaremos el enlace.\n\n- CÓDIGO DE CONDUCTA\n\nQueremos que este sea un espacio de aprendizaje amable y seguro. Para participar en él es necesario que estés de acuerdo con el código de conducta de LatinR: https://latin-r.com/cdc/\n\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2020-09-28T10:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-valparaiso/events/273511476/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 28,
+      "waitlistCount": 0,
+      "totalCount": 28
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Valparaíso",
+      "urlname": "rladies-valparaiso"
+    },
+    "createdTime": "2020-09-25T16:07:08-04:00"
+  },
+  {
+    "id": "272095348",
+    "title": "Cómo preparar una propuesta de presentación para una conferencia/meetup sobre R",
+    "description": "La realización de conferencias y meetups sobre R en modalidad virtual es una excelente oportunidad para que grupos menos representados en nuestra comunidad participen en estas instancias. Para muchas personas, la imposibilidad de viajar --sea por la razón que sea-- ha sido un impedimento para poder ser parte de estas actividades. Ahora tenemos una oportunidad que es importante que aprovochemos. Pero ¿cómo preparar una propuesta? ¿Qué debiese incluir el abstract? ¿Para qué conferencia es más apropiada la idea que tengo? ¿Qué debería tener en cuenta al pensar una propuesta de presentación para un meetup? ¿Es lo mismo escribir un abstract para una conferencia de R que para una conferencia en mi disciplina? ¿Qué tengo que incluir en la Bio? Para responder estas preguntas y compartir algunas recomendaciones para diseñar tu propuesta nos juntaremos el próximo sábado 1 de agosto :)\n\n- ¿Y si todavía no tengo una idea para una presentación?\n\nNo importa. Durante la sesión hablaremos también sobre cómo generar ideas. Además, para el caso de algunas conferencias hay tiempo todavía. Quizás ahora mismo no se te ocurre nada en particular, pero puedes empezar a planear un proyecto para presentar en alguno de los eventos del próximo año.\n\n- ¿Qué necesito para participar?\n\nLo primero, es leer nuestro código de conducta. Es requisito para asistir estar de acuerdo con él: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish. Queremos que nuestros meetups sean un espacio seguro y amable en que todas las personas se sientan cómodas participando.\n\nLo segundo, es asegurarte de que puedes utilizar la aplicación Zoom en tu computador. El día del taller te enviaremos el enlace para unirte (chequea ese día que el mensaje no se haya ido a la carpeta de spam). Usualmente compartimos el enlace 30 minutos antes de la sesión.\n\n- ¿Hay algo más que deba saber sobre este evento?\n\nEsta es una actividad organizada por los capítulos de RLadies de Chile en conjunto con LatinR (https://latin-r.com/), la Conferencia Latinoamericana sobre Uso de R en Investigación + Desarrollo. Queremos más representación de Latinoamérica en las conferencias de R alrededor del mundo y qué mejor que apoyarnos como comunidad para lograrlo.\n\nEl taller estará a cargo de Riva Quiroga (https://twitter.com/rivaquiroga).",
+    "status": "PAST",
+    "dateTime": "2020-08-01T10:30:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-valparaiso/events/272095348/",
+    "featuredEventPhoto": {
+      "id": "491466836",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/a/b/4/highres_491466836.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/a/b/4/600_491466836.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/a/b/4/thumb_491466836.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 21,
+      "waitlistCount": 0,
+      "totalCount": 21
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Valparaíso",
+      "urlname": "rladies-valparaiso"
+    },
+    "createdTime": "2020-07-22T23:03:44-04:00"
+  },
+  {
+    "id": "272089894",
+    "title": "Sesión 6 - Club de lectura - Happy Git with R, de Jenny Bryan",
+    "description": "Este miércoles nos reuniremos para la sexta y última sesión del club de lectura sobre el libro \"Happy Git with R\" de Jenny Bryan, actividad organizada de manera conjunta entre RLadies Santiago, RLadies Valparaíso y RLadies Concepción. \"Happy Git with R\" aborda el uso del sistema de control de versiones Git en conjunto con GitHub, R y RStudio. El libro está disponible de manera gratuita en: https://happygitwithr.com/\n\n- ¿Qué haremos en esta última sesión?\n\nDurante la sesión pondremos en práctica algunos flujos de trabajo colaborativo. Veremos cómo distintas personas pueden colaborar en un mismo repositorio, cómo agregar cambios a un pull request abierto por ti o por otra persona, cómo dejar disponible en GitHub archivos en html como presentaciones y libros en línea, etc. Si te interesa, tendrás la oportunidad de practicar todo esto durante la sesión. Revisa más abajo qué paquetes tienes que tener instalados.\n\nEsta sexta sesión estará liderada por Stephanie Orellana (https://twitter.com/sporella). Stephanie es Ingeniera Agrónoma y Magíster en Recursos Naturales de la PUC y trabaja en consultoría ambiental. Su área de especialización es la Ciencia de Datos Espaciales.\n\n- ¿Qué necesito para participar?\n\nLo primero, es leer nuestro código de conducta. Es requisito para asistir estar de acuerdo con él: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\n\nLo segundo, es haber instalado ya Git en tu computador (https://git-scm.com/) y tener una cuenta en GitHub (https://github.com/). Es importante que estés segura que puedes utilizar Git desde RStudio. Si te resultaron las actividades de la sesión 3, entonces tienes todo lo necesario :)\n\nLo tercero, es tener instalados los siguientes paquetes en tu computador: usethis, devtools y bookdown.\n\nLo cuarto, es asegurarte que puedes utilizar la aplicación Zoom en tu computador. El día del taller te enviaremos el enlace para unirte (chequea ese día que el mensaje no se haya ido a la carpeta de spam). Usualmente compartimos el enlace 30 minutos antes de la sesión.\n\n- Estoy recién aprendiendo sobre R, ¿puedo participar?\n\nSí. Si bien el foco de estas sesiones no es programar en R, sí es importante estar familiarizada con RStudio como entorno de trabajo. Si quieres, puedes revisar los vídeos de nuestro taller introductorio: https://github.com/rladieschile/taller-introductorio-mayo.",
+    "status": "PAST",
+    "dateTime": "2020-07-29T19:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-valparaiso/events/272089894/",
+    "featuredEventPhoto": {
+      "id": "491455339",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/8/2/b/highres_491455339.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/8/2/b/600_491455339.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/8/2/b/thumb_491455339.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 17,
+      "waitlistCount": 0,
+      "totalCount": 17
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Valparaíso",
+      "urlname": "rladies-valparaiso"
+    },
+    "createdTime": "2020-07-22T18:51:52-04:00"
+  },
+  {
+    "id": "271780670",
+    "title": "useR! 2020 Tutorial: Seamless R and C++ Integration with Rcpp",
+    "description": "The RLadies chapters and the R User Group from Chile are very happy to announce that we will be hosting one of the useR! 2020 online tutorials (https://user2020.r-project.org/program/tutorials/). We will have the honor of having Dirk Eddelbuettel in our meetup, who will be running the tutorial: \"Seamless R and C++ Integration with Rcpp\" on July 14th, 15:00 UTC.\n\n- Background\n\nR has risen to become the lingua franca of statistical research and applications. At the same time, user demands on computing resources and performance have also increased. This is driven chiefly by the ever-growing size of datasets, and may sometimes be coupled with increases in their complexity. The quest for computing with larger datasets, as well as the ever-present desire to also compute \"faster\" make complementing the interpreted language-processing at the core of R with native code extensions a natural next step. The Rcpp package has become the principal venue for extending R with compiled code. It makes it easy to extend R with C or C++ spanning the range from simple one-liners to larger routines and bindings of entire external libraries.\n\n- Workshop contents\n\nWe will motivate and introduce Rcpp as a natural extension to R that provides an easy-to-use and powerful interface. Helper functions and tools including RStudio will be used to easy creation of R extensions. Several examples will introduce basic use cases including writing code with RcppArmadillo which is the most widely-used package on top of Rcpp.\n\n- Target Audience\n\nR users wanting to go beyond R. Prior experience with compiled languages like C and C++ is helpful but not required.\n\n- About the instructor\n\nDr Dirk Eddelbuettel has been a (co-)author and maintainer for the Rcpp project since its inception. He works as a senior \"quant\" in industry combining C++ and R for high-frequency data analysis and predictive models in finance, and teaches a class on Data Science Programming Methods as a Clinical Professor at the University of Illinois at Urbana-Champaign. He is author, co-author, or maintainer of sixty CRAN packages, an elected board member of the R Foundation, and a 25+ year contributor to Debian looking after 150+ packages including R.\n\n- Attending the workshop\n\nPlease, read carefully the useR! 2020 Code of Conduct: https://user2020.r-project.org/codeofconduct/. All participants are required to agree to it.\n\nThe tutorial will start at 15:OO UTC and has a duration of two hours (+ a 10 minutes break). Check your timezone here: https://arewemeetingyet.com/UTC/2020-07-14/15:00/Seamless%20R%20and%20C%2B%2B%20integration%20with%20Rcpp\n\n[UPDATED SECTION]\n\nWe'll be hosting the tutorial on Zoom. The link will be shared in the comments of this event half an hour in advanced. The meeting has a waiting room. We'll let everyone in at 15:00 UTC.\n\nFor the tutorial you'll need to install Rcpp from CRAN. You will also need a compiler. Please read sections 1.2 and 1.3 on the second page of the Rcpp FAQ to check specific recommendations for Windows/OSX/Linux users: https://cran.r-project.org/web/packages/Rcpp/vignettes/Rcpp-FAQ.pdf\nWe'll be using RStudio. Is not a bad idea to have an rstudio.cloud account as back-up.",
+    "status": "PAST",
+    "dateTime": "2020-07-14T11:00:00-04:00",
+    "duration": "PT2H10M",
+    "eventUrl": "https://www.meetup.com/rladies-valparaiso/events/271780670/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 17,
+      "waitlistCount": 0,
+      "totalCount": 17
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Valparaíso",
+      "urlname": "rladies-valparaiso"
+    },
+    "createdTime": "2020-07-07T16:57:11-04:00"
+  },
+  {
+    "id": "271777887",
+    "title": "Sesión 5 - Club de lectura - Happy Git with R, de Jenny Bryan",
+    "description": "Este miércoles nos reuniremos para la quinta sesión del club de lectura sobre el libro \"Happy Git with R\" de Jenny Bryan, actividad organizada de manera conjunta entre RLadies Santiago, RLadies Valparaíso y RLadies Concepción. \"Happy Git with R\" aborda el uso del sistema de control de versiones Git en conjunto con GitHub, R y RStudio. El libro está disponible de manera gratuita en: https://happygitwithr.com/\n\n- ¿Cómo funciona el club de lectura?\nDivideremos la lectura del libro en seis sesiones. Cada sesión la liderará una relatora de nuestra comunidad.\n\nEsta quinta sesión estará a cargo de Gabriela Sandoval (https://twitter.com/GabySandovalM) y Camila Molina (https://twitter.com/calmolinafe), Ingeniera Estadística de la Universidad del Bío-Bío. Abordaremos la sección VI del libro (\"Daily Workflows\"), en la que se muestran algunos flujos habituales de trabajo usando Git.\n\n- ¿Qué necesito para participar?\nLo primero, es leer nuestro código de conducta. Es requisito para asistir estar de acuerdo con él: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\n\nLo segundo, es haber instalado ya Git en tu computador (https://git-scm.com/) y tener una cuenta en GitHub (https://github.com/). Es importante que estés segura que puedes utilizar Git desde RStudio. Si te resultaron las actividades de la sesión 3, entonces tienes todo lo necesario :)\n\nLo tercero, es asegurarte que puedes utilizar la aplicación Zoom en tu computador. El día del taller te enviaremos el enlace para unirte (chequea ese día que el mensaje no se haya ido a la carpeta de spam). Usualmente compartimos el enlace 30 minutos antes de la sesión.\n\n- ¿Qué pasa si no leo en inglés?\n¡Puedes participar igual! La persona encargada de cada sesión hará una síntesis de los puntos más importantes, así que incluso si no puedes revisar el libro, podrás aprender sobre este tema :)\n\n- Estoy recién aprendiendo sobre R, ¿puedo participar?\nSí. Si bien el foco de estas sesiones no es programar en R, sí es importante estar familiarizada con RStudio como entorno de trabajo. Si quieres, puedes revisar los vídeos de nuestro taller introductorio: https://github.com/rladieschile/taller-introductorio-mayo.",
+    "status": "PAST",
+    "dateTime": "2020-07-08T20:00:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-valparaiso/events/271777887/",
+    "featuredEventPhoto": {
+      "id": "491214963",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/6/b/3/highres_491214963.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/6/b/3/600_491214963.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/6/b/3/thumb_491214963.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 9,
+      "waitlistCount": 0,
+      "totalCount": 9
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Valparaíso",
+      "urlname": "rladies-valparaiso"
+    },
+    "createdTime": "2020-07-07T14:51:13-04:00"
+  },
+  {
+    "id": "271594998",
+    "title": "Sesión 4 - Club de lectura - Happy Git with R, de Jenny Bryan",
+    "description": "Este sábado nos reuniremos para la cuarta sesión del club de lectura sobre el libro \"Happy Git with R\" de Jenny Bryan, actividad organizada de manera conjunta entre RLadies Santiago, RLadies Valparaíso y RLadies Concepción. \"Happy Git with R\" aborda el uso del sistema de control de versiones Git en conjunto con GitHub, R y RStudio. El libro está disponible de manera gratuita en: https://happygitwithr.com/\n\n- ¿Cómo funciona el club de lectura?\nDivideremos la lectura del libro en seis sesiones. Cada sesión la liderará una relatora de nuestra comunidad.\n\nEsta cuarta sesión estará a cargo de Riva Quiroga (https://twitter.com/rivaquiroga). Abordaremos las secciones IV y V del libro (\"Git Fundamentals\" y \"Remote setups\"). En ellas se abordan algunos conceptos clave (como qué es un commit, una rama y un repositorio remoto) y se explica cómo configurar todo para poder colaborar en repositorios de otras personas sin problemas.\n\n- ¿Qué necesito para participar?\nLo primero, es leer nuestro código de conducta. Es requisito para asistir estar de acuerdo con él: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\n\nLo segundo, es haber instalado ya Git en tu computador (https://git-scm.com/) y tener una cuenta en GitHub (https://github.com/). Es importante que estés segura que puedes utilizar Git desde RStudio. Si te resultaron las actividades de la sesión 3, entonces tienes todo lo necesario :)\n\nLo tercero, es asegurarte que puedes utilizar la aplicación Zoom en tu computador. El día del taller te enviaremos el enlace para unirte (chequea ese día que el mensaje no se haya ido a la carpeta de spam). Usualmente compartimos el enlace 30 minutos antes de la sesión.\n\n- ¿Qué pasa si no leo en inglés?\n¡Puedes participar igual! La persona encargada de cada sesión hará una síntesis de los puntos más importantes, así que incluso si no puedes revisar el libro, podrás aprender sobre este tema :)\n\n- Estoy recién aprendiendo sobre R, ¿puedo participar?\nSí. Si bien el foco de estas sesiones no es programar en R, sí es importante estar familiarizada con RStudio como entorno de trabajo. Si quieres, puedes revisar los vídeos de nuestro taller introductorio: https://github.com/rladieschile/taller-introductorio-mayo.\n\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2020-07-04T11:00:00-04:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-valparaiso/events/271594998/",
+    "featuredEventPhoto": {
+      "id": "491075077",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/9/0/5/highres_491075077.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/9/0/5/600_491075077.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/9/0/5/thumb_491075077.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 11,
+      "waitlistCount": 0,
+      "totalCount": 11
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Valparaíso",
+      "urlname": "rladies-valparaiso"
+    },
+    "createdTime": "2020-06-28T22:39:50-04:00"
+  },
+  {
+    "id": "271573055",
+    "title": "Charla desde RLadies Global: Cómo hacer una reunión virtual inolvidable",
+    "description": "Este miércoles a las 13:00 nos sumamos a la transmisión de la charla \"Cómo hacer una reunión virtual inolvidable (sin morir en el intento)\" que organiza RLadies Global.\n\nResumen:\nAunque no es posible reunirnos en persona, la magia de R-Ladies no se detiene y hace posible los encuentros virtuales. En este meetup te contaremos algunos trucos y herramientas para que cualquier evento virtual interactivo (por ejemplo, clase, taller o panel online) sea un éxito sin estrés adicional al hacerlo. Si organizas meetups de R-Ladies, encontrarás dónde y cómo acceder a la infraestructura que te permitirá organizar meetups online para tu capítulo. Si no organizas meetups de R-Ladies, también encontrarás material útil para todo tipo de evento online que organices o del que participes.\n\nEstos contenidos nos los traen R-Ladies latinoamericanas, en su mayoría certificadas para enseñar por RStudio Education y The Carpentries. La mayoría también es parte de MetaDocencia, una organización que desde fines de marzo realizó más de 25 talleres interactivos enseñando a enseñar online a más de 300 docentes hispanohablantes con excelentes resultados. Todas tienen vasta experiencia teletrabajando y enseñando online.\n\nOradoras: Yanina Bellini Saibene y Paola Corrales.\nOrganizan: Laura Ación, Yanina Bellini Saibene, Paola Corrales, Patricia Loto y Paloma Rojas\n\n[NOTA: este no es un meetup sobre R, sino sobre cómo organizar eventos en línea]",
+    "status": "PAST",
+    "dateTime": "2020-07-01T13:00:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-valparaiso/events/271573055/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 9,
+      "waitlistCount": 0,
+      "totalCount": 9
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Valparaíso",
+      "urlname": "rladies-valparaiso"
+    },
+    "createdTime": "2020-06-27T21:16:28-04:00"
+  },
+  {
+    "id": "271441543",
+    "title": "Sesión 3 - Club de lectura - Happy Git with R, de Jenny Bryan",
+    "description": "Este miércoles nos reuniremos para la tercera sesión del club de lectura sobre el libro \"Happy Git with R\" de Jenny Bryan, actividad organizada de manera conjunta entre RLadies Santiago, RLadies Valparaíso y RLadies Concepción. \"Happy Git with R\" aborda el uso del sistema de control de versiones Git en conjunto con GitHub, R y RStudio. Está disponible de manera gratuita en: https://happygitwithr.com/\n\n¿Cómo funciona el club de lectura?\n\nDivideremos la lectura del libro en seis sesiones. En cada una de ellas abordaremos una de las secciones del libro. Cada sesión la liderará una relatora de nuestra comunidad.\nEsta tercera sesión estará a cargo de Natalia Riquelme (@NatyRiquelmeS). Natalia es egresada de Administración Pública y Ciencia Política y actualmente trabaja como Colaboradora de Investigación Cuantitativa en el proyecto IdeClab de la Universidad de Concepción. Durante la sesión abordaremos la sección III del libro, \"Early Github Wins\".\n\n- ¿Qué necesito para participar?\n\nLo primero, es leer nuestro nuestro código de conducta. Es requisito para asistir estar de acuerdo con él: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\nLo segundo, es haber instalado ya Git en tu computador (https://git-scm.com/) y tener una cuenta en GitHub (https://github.com/). En la sesión anterior abordamos cómo hacer esto. Si no participaste, puedes revisar la primera parte del libro (\"Installation\") o la primera parte del video de la sesión pasada (https://github.com/rladieschile/club-de-lectura-happy-git).\nLo tercero, es asegurarte que puedes utilizar la aplicación Zoom en tu computador. El día del taller te enviaremos el enlace para unirte (chequea ese día que el mensaje no se haya ido a la carpeta de spam). Usualmente compartimos el enlace 30 minutos antes de la sesión.\n\n- ¿Qué pasa si no leo en inglés?\n\n¡Puedes participar igual! La persona encargada de cada sesión hará una síntesis de los puntos más importantes, así que incluso si no puedes revisar el libro, podrás aprender sobre este tema :)\n- Estoy recién aprendiendo sobre R, ¿puedo participar?\nSí. Te sugerimos, eso sí, revisar los vídeos de nuestro taller introductorio: https://github.com/rladieschile/taller-introductorio-mayo. Si bien el foco de estas sesiones no es programar en R, sí es importante estar familiarizada con RStudio como entorno de trabajo.\n\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2020-06-24T20:00:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-valparaiso/events/271441543/",
+    "featuredEventPhoto": {
+      "id": "490958936",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/8/1/8/highres_490958936.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/8/1/8/600_490958936.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/8/1/8/thumb_490958936.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 15,
+      "waitlistCount": 0,
+      "totalCount": 15
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Valparaíso",
+      "urlname": "rladies-valparaiso"
+    },
+    "createdTime": "2020-06-21T17:24:17-04:00"
+  },
+  {
+    "id": "271375996",
+    "title": "Sesión 2 - Club de lectura - Happy Git with R, de Jenny Bryan",
+    "description": "Este sábado nos reuniremos para la segunda sesión del club de lectura sobre el libro \"Happy Git with R\" de Jenny Bryan, actividad organizada de manera conjunta entre RLadies Santiago, RLadies Valparaíso y RLadies Concepción. \"Happy Git with R\" aborda el uso del sistema de control de versiones Git en conjunto con GitHub, R y RStudio. Está disponible de manera gratuita en: https://happygitwithr.com/\n\n¿Cómo funciona el club de lectura?\nDivideremos la lectura del libro en seis sesiones. En cada una de ellas abordaremos una de las secciones del libro. Cada sesión la liderará una relatora de nuestra comunidad.\n\nEsta segunda sesión estará a cargo de Riva Quiroga (https://twitter.com/rivaquiroga). En ella abordaremos la sección II del libro: \"Connect Git, GitHub, RStudio\".\n\n- ¿Qué necesito para participar?\nLo primero, es leer nuestro nuestro código de conducta. Es requisito para asistir estar de acuerdo con él: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\nLo segundo, es haber instalado ya Git en tu computador (https://git-scm.com/) y tener una cuenta en GitHub (https://github.com/). En la sesión anterior abordamos cómo hacer esto. Si no participaste, puedes revisar la primera parte del libro (\"Installation\") o la primera parte del video de la sesión pasada (https://github.com/rladieschile/club-de-lectura-happy-git).\nLo tercero, es asegurarte que puedes utilizar la aplicación Zoom en tu computador. El día del taller te enviaremos el enlace para unirte (chequea ese día que el mensaje no se haya ido a la carpeta de spam). Usualmente compartimos el enlace 30 minutos antes de la sesión.\n\n- ¿Qué pasa si no leo en inglés?\n¡Puedes participar igual! La persona encargada de cada sesión hará una síntesis de los puntos más importantes, así que incluso si no puedes revisar el libro, podrás aprender sobre este tema :)\n\n- Estoy recién aprendiendo sobre R, ¿puedo participar?\nSí. Te sugerimos, eso sí, revisar los vídeos de nuestro taller introductorio: https://github.com/rladieschile/taller-introductorio-mayo. Si bien el foco de esta sesión no es programar en R, sí es importante estar familiarizada con RStudio.\n\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2020-06-20T11:00:00-04:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-valparaiso/events/271375996/",
+    "featuredEventPhoto": {
+      "id": "490906513",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/5/b/1/highres_490906513.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/5/b/1/600_490906513.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/5/b/1/thumb_490906513.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 18,
+      "waitlistCount": 0,
+      "totalCount": 18
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Valparaíso",
+      "urlname": "rladies-valparaiso"
+    },
+    "createdTime": "2020-06-18T12:25:35-04:00"
+  },
+  {
+    "id": "271174092",
+    "title": "Sesión 1 - Club de lectura - Happy Git with R, de Jenny Bryan",
+    "description": "El miércoles 10 de junio damos inicio a nuestro primer club de lectura, organizado de manera conjunta entre entre RLadies Santiago, RLadies Valparaíso y RLadies Concepción. Este formato tiene por objetivo revisar en forma detallada libros de interés para la comunidad de R que permitan adquirir habilidades intermedias o avanzadas en temas de análisis y comunicación con datos. Este primer club de lectura estará centrado en el libro \"Happy Git with R\" de Jenny Bryan (https://twitter.com/jennybryan). El libro aborda el uso del sistema de control de versiones Git en conjunto con R y RStudio. Está disponible de manera gratuita en: https://happygitwithr.com/\n\n¿Cómo funciona el club de lectura?\nDivideremos la lectura del libro en seis sesiones. En cada una de ellas abordaremos una de las secciones del libro. Cada sesión la liderará una relatora de nuestra comunidad.\n\nEsta primera sesión estará a cargo de Macarena Valenzuela Beltrán, candidata a Doctora en Ciencia Política de la Universidad Diego Portales. En ella abordaremos la sección I del libro: \"Installation\". Aprenderemos de manera introductoria cómo funciona un sistema de control de versiones, cómo instalar Git, cómo crearse una cuenta en Github y cómo usar un cliente de Git como GitKraken.\n\n¿Qué necesito para participar?\nLo primero, es leer nuestro nuestro código de conducta. Es requisito para asistir estar de acuerdo con él: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\nLo segundo, es asegurarte que puedes utilizar la aplicación Zoom en tu computador. El día del taller te enviaremos el enlace para unirte (chequea ese día que el mensaje no se haya ido a la carpeta de spam).\nLo tercero, es crearte una cuenta en RStudio Cloud (https://rstudio.cloud/). A través de esa vía compartiremos el código que se escribirá en algunas de las sesiones de esta serie.\n\n¿Qué pasa si no puedo leer en inglés?\nPuedes participar igual. La persona encargada de cada sesión hará una síntesis de los puntos más importantes, así que incluso si no puedes revisar el libro, podrás aprender sobre este tema.\n\nEstoy recién aprendiendo sobre R, ¿puedo participar?\nSí. Te sugerimos, eso sí, revisar los vídeos de nuestro taller introductorio: https://github.com/rladieschile/taller-introductorio-mayo.\n\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2020-06-10T20:00:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-valparaiso/events/271174092/",
+    "featuredEventPhoto": {
+      "id": "490759859",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/d/9/3/highres_490759859.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/d/9/3/600_490759859.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/d/9/3/thumb_490759859.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 27,
+      "waitlistCount": 2,
+      "totalCount": 27
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Valparaíso",
+      "urlname": "rladies-valparaiso"
+    },
+    "createdTime": "2020-06-08T19:39:52-04:00"
+  },
+  {
+    "id": "270820676",
+    "title": "Taller introductorio: procesamiento y visualización de datos con R (Sesión 4)",
+    "description": "El miércoles 27 de mayo es la última sesión de nuestro taller en línea de introducción a R que organizamos en conjunto RLadies Santiago, RLadies Valparaíso y RLadies Concepción. El taller tiene por objetivo revisar los principios básicos para que puedas iniciar tu camino analizando datos con R.\n\nLa sesión estará a cargo de Isidora Castillo y Natalia Riquelme. Isidora es Psicóloga Educacional y trabaja como ayudante de investigación en la Universidad del Desarrollo. Natalia es egresada de Administración Pública y Ciencia Política y actualmente trabaja como Colaboradora de Investigación Cuantitativa en el proyecto IdeClab de la Universidad de Concepción.\nEn esta cuarta y última sesión revisaremos aspectos del flujo de trabajo en R y RStudio, y veremos algunos ejemplos para poner en práctica lo visto en sesiones anteriores.\n\n> No vine a las sesiones anteriores, ¿puedo participar?\n\nSí. Te sugerimos, eso sí, revisar los videos de las sesiones anteriores. Están disponibles acá: https://github.com/rladieschile/taller-introductorio-mayo\n\n> ¿Qué necesito para participar?\n\nLo primero, es leer nuestro nuestro código de conducta. Es requisito para asistir estar de acuerdo con él: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\nLo segundo, es asegurarte que puedes utilizar la aplicación Zoom en tu computador. El día del taller te enviaremos el enlace para unirte (chequea ese día que el mensaje no se haya ido a la carpeta de spam).\nLo tercero, es crearte una cuenta en RStudio Cloud (https://rstudio.cloud/). A través de esa vía compartiremos el código que se escriba en la sesión.\n\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2020-05-27T20:30:00-04:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-valparaiso/events/270820676/",
+    "featuredEventPhoto": {
+      "id": "490261756",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/d/c/highres_490261756.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/d/c/600_490261756.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/d/c/thumb_490261756.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 23,
+      "waitlistCount": 5,
+      "totalCount": 23
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Valparaíso",
+      "urlname": "rladies-valparaiso"
+    },
+    "createdTime": "2020-05-22T20:21:13-04:00"
+  },
+  {
+    "id": "270360475",
+    "title": "Calendarización usando ggplot2",
+    "description": "En el segundo taller especializado de mayo Javiera Riffo nos mostrará aplicaciones del paquete ggplot2. Luego de hacer una revisión de los conceptos esenciales de visualización con este paquete, nos mostrará cómo generar gráficas para calendarizar nuestros datos.\nJaviera Riffo es Ingeniera Matemática y actualmente cursa el Magíster en Ingeniería PUC.\n\n> ¿Qué necesito para participar?\n\nLo primero, es leer nuestro nuestro código de conducta. Es requisito para asistir estar de acuerdo con él: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\nLo segundo, es asegurarte que puedes utilizar la aplicación Zoom en tu computador. El día del taller te enviaremos el enlace para unirte (chequea ese día que el mensaje no se haya ido a la carpeta de spam).\nEl taller tiene cupos limitados por la plataforma que usaremos y se asignarán por orden de llegada a las personas inscritas. Te pedimos disculpas desde ya si es que el día del taller tratas de conectarte y los cupos ya están llenos :( Es muy difícil estimar la audiencia real en eventos gratuitos.\n\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2020-05-23T11:00:00-04:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-valparaiso/events/270360475/",
+    "featuredEventPhoto": {
+      "id": "490290568",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/7/6/8/highres_490290568.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/7/6/8/600_490290568.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/7/6/8/thumb_490290568.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 36,
+      "waitlistCount": 2,
+      "totalCount": 36
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Valparaíso",
+      "urlname": "rladies-valparaiso"
+    },
+    "createdTime": "2020-04-30T11:48:23-04:00"
+  },
+  {
+    "id": "270661099",
+    "title": "Taller introductorio: procesamiento y visualización de datos con R (Sesión 3)",
+    "description": "El miércoles 20 de mayo continuamos nuestro taller en línea de introducción a R que organizamos en conjunto RLadies Santiago, RLadies Valparaíso y RLadies Concepción. El taller cuatro sesiones (6, 13, 20 y 27 de mayo) y tiene por objetivo revisar los principios básicos para que puedas iniciar tu camino analizando datos con R.\n¿Quieres aprender a utilizar R en un ambiente amable e inclusivo? ¡Te esperamos! No es necesario tener ningún conocimiento previo sobre programación.\n\nEsta tercera sesión estará a cargo de Gabriela Sandoval (https://twitter.com/gabysandovalm), estudiante de Doctorado en Estadística, y se enfocará en visualización de datos con el paquete {ggplot2}.\n\n> No vine a las sesiones anteriores, ¿puedo participar?\nSí. Te sugerimos, eso sí, revisar los videos de las sesiones anteriores. Están disponibles acá: https://github.com/rladieschile/taller-introductorio-mayo\n\n> ¿Qué necesito para participar?\n\nLo primero, es leer nuestro nuestro código de conducta. Es requisito para asistir estar de acuerdo con él: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\nLo segundo, es crearte una cuenta en RStudio Cloud (https://rstudio.cloud/). Partiremos trabajando en una versión de R en la nube para asegurarnos que todo funciona bien al principio. Más adelante instalaremos R en tu computador.\nLo tercero, es asegurarte que puedes utilizar la aplicación Zoom en tu computador. El día del taller te enviaremos el enlace para unirte (chequea ese día que el mensaje no se haya ido a la carpeta de spam).\nEl taller tiene cupos limitados por la plataforma que usaremos y se asignarán por orden de llegada a las personas inscritas. Te pedimos disculpas desde ya si es que el día del taller tratas de conectarte y los cupos ya están llenos :( Es muy difícil estimar la audiencia real en eventos gratuitos.\n\n> ¿Al inscribirme ahora me estoy anotando para las cuatro sesiones?\n\nNo. Agendaremos un nuevo evento acá en Meetup para cada sesión. Lo hacemos así porque nos permite organizarnos mejor.\n\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2020-05-20T20:30:00-04:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-valparaiso/events/270661099/",
+    "featuredEventPhoto": {
+      "id": "490261756",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/d/c/highres_490261756.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/d/c/600_490261756.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/d/c/thumb_490261756.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 30,
+      "waitlistCount": 4,
+      "totalCount": 30
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Valparaíso",
+      "urlname": "rladies-valparaiso"
+    },
+    "createdTime": "2020-05-14T21:46:13-04:00"
+  },
+  {
+    "id": "270506498",
+    "title": "Taller introductorio: procesamiento y visualización de datos con R (Sesión 2)",
+    "description": "El miércoles 13 de mayo continuamos nuestro taller en línea de introducción a R que organizamos en conjunto RLadies Santiago, RLadies Valparaíso y RLadies Concepción. El taller cuatro sesiones (6, 13, 20 y 27 de mayo) y tiene por objetivo revisar los principios básicos para que puedas iniciar tu camino analizando datos con R.\n¿Quieres aprender a utilizar R en un ambiente amable e inclusivo? ¡Te esperamos! No es necesario tener ningún conocimiento previo sobre programación.\n\nEsta segunda sesión estará a cargo de Sara Acevedo, estudiante de Doctorado en Ciencias de la Ingeniería, y se enfocará en funciones básicas para el manejo de datos provenientes del paquete {dplyr}.\n\n> ¿Qué necesito para participar?\n\nLo primero, es leer nuestro nuestro código de conducta. Es requisito para asistir estar de acuerdo con él: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\nLo segundo, es crearte una cuenta en RStudio Cloud (https://rstudio.cloud/). Partiremos trabajando en una versión de R en la nube para asegurarnos que todo funciona bien al principio. Más adelante instalaremos R en tu computador.\nLo tercero, es asegurarte que puedes utilizar la aplicación Zoom en tu computador. El día del taller te enviaremos el enlace para unirte (chequea ese día que el mensaje no se haya ido a la carpeta de spam).\nEl taller tiene cupos limitados por la plataforma que usaremos y se asignarán por orden de llegada a las personas inscritas. Te pedimos disculpas desde ya si es que el día del taller tratas de conectarte y los cupos ya están llenos :( Es muy difícil estimar la audiencia real en eventos gratuitos.\n\n> ¿Al inscribirme ahora me estoy anotando para las cuatro sesiones?\n\nNo. Agendaremos un nuevo evento acá en Meetup para cada sesión. Lo hacemos así porque nos permite organizarnos mejor.\n\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2020-05-13T20:30:00-04:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-valparaiso/events/270506498/",
+    "featuredEventPhoto": {
+      "id": "490261756",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/d/c/highres_490261756.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/d/c/600_490261756.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/d/c/thumb_490261756.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 27,
+      "waitlistCount": 4,
+      "totalCount": 27
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Valparaíso",
+      "urlname": "rladies-valparaiso"
+    },
+    "createdTime": "2020-05-07T12:03:16-04:00"
+  },
+  {
+    "id": "270360437",
+    "title": "Datos espaciales usando R",
+    "description": "En nuestro primer taller especializado de mayo nos introduciremos en el mundo de los datos espaciales de la mano de Stephanie Orellana. Aprenderemos los fundamentos del trabajo con este tipo de datos y conoceremos los paquetes principales con los que pueden ser procesados en R. El taller incluye un ejemplo práctico y espacio para preguntas.\n\nStephanie Orellana (https://twitter.com/sporella) es Ingeniera Agrónoma y Magíster en Recursos Naturales de la PUC y trabaja en consultoría ambiental. Su área de especialización es la Ciencia de Datos Espaciales.\n\n> ¿Qué necesito para participar?\n\nLo primero, es leer nuestro nuestro código de conducta. Es requisito para asistir estar de acuerdo con él: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\nLo segundo, es asegurarte que puedes utilizar la aplicación Zoom en tu computador. El día del taller te enviaremos el enlace para unirte (chequea ese día que el mensaje no se haya ido a la carpeta de spam).\nEl taller tiene cupos limitados por la plataforma que usaremos y se asignarán por orden de llegada a las personas inscritas. Te pedimos disculpas desde ya si es que el día del taller tratas de conectarte y los cupos ya están llenos :( Es muy difícil estimar la audiencia real en eventos gratuitos.\n\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2020-05-09T11:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-valparaiso/events/270360437/",
+    "featuredEventPhoto": {
+      "id": "490290535",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/7/4/7/highres_490290535.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/7/4/7/600_490290535.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/7/4/7/thumb_490290535.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 36,
+      "waitlistCount": 5,
+      "totalCount": 36
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Valparaíso",
+      "urlname": "rladies-valparaiso"
+    },
+    "createdTime": "2020-04-30T11:45:22-04:00"
+  },
+  {
+    "id": "270303190",
+    "title": "Taller introductorio: procesamiento y visualización de datos con R (Sesión 1)",
+    "description": "El miércoles 6 de mayo damos inicio al taller en línea de introducción a R que organizamos en conjunto RLadies Santiago, RLadies Valparaíso y RLadies Concepción. El taller cuatro sesiones (6, 13, 20 y 27 de mayo) y tiene por objetivo revisar los principios básicos para que puedas iniciar tu camino analizando datos con R.\n¿Quieres aprender a utilizar R en un ambiente amable e inclusivo? ¡Te esperamos! No es necesario tener ningún conocimiento previo sobre programación.\n\n> ¿Qué necesito para participar?\n\nLo primero, es leer nuestro nuestro código de conducta. Es requisito para asistir estar de acuerdo con él: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\nLo segundo, es crearte una cuenta en RStudio Cloud (https://rstudio.cloud/). Partiremos trabajando en una versión de R en la nube para asegurarnos que todo funciona bien al principio. Más adelante instalaremos R en tu computador.\nLo tercero, es asegurarte que puedes utilizar la aplicación Zoom en tu computador. El día del taller te enviaremos el enlace para unirte (chequea ese día que el mensaje no se haya ido a la carpeta de spam).\nEl taller tiene cupos limitados por la plataforma que usaremos y se asignarán por orden de llegada a las personas inscritas. Te pedimos disculpas desde ya si es que el día del taller tratas de conectarte y los cupos ya están llenos :( Es muy difícil estimar la audiencia real en eventos gratuitos.\n\n> ¿Al inscribirme ahora me estoy anotando para las cuatro sesiones?\n\nNo. Agendaremos un nuevo evento acá en Meetup para cada sesión. Lo hacemos así porque nos permite organizarnos mejor.\n\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2020-05-06T20:30:00-04:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-valparaiso/events/270303190/",
+    "featuredEventPhoto": {
+      "id": "490261756",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/d/c/highres_490261756.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/d/c/600_490261756.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/d/c/thumb_490261756.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 25,
+      "waitlistCount": 12,
+      "totalCount": 25
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Valparaíso",
+      "urlname": "rladies-valparaiso"
+    },
+    "createdTime": "2020-04-27T17:59:29-04:00"
+  },
+  {
+    "id": "282290659",
+    "title": "Club de lectura del libro \"Data Feminism\" (sesión 6)",
+    "description": "El próximo jueves 25 de noviembre nos reuniremos para nuestra sexta sesión del club de lectura sobre libro \"Data Feminism\", de Catherine D'Ignazio y Lauren F. Klein. Este libro muestra una nueva forma de abordar la ciencia de datos y la ética de datos basada en ideas del feminismo interseccional. Se puede acceder de forma gratuita en: https://data-feminism.mitpress.mit.edu/\n\n- ¿Cómo funciona el club de lectura?\nDividiremos la lectura del libro en siete sesiones. En cada una de ellas abordaremos un capítulo del libro.\nEsta sexta sesión estará a cargo de Stephanie Orellana (https://twitter.com/sporella). Steph es Ingeniera Agrónoma y Magíster en Recursos Naturales de la PUC y trabaja en consultoría ambiental. Su área de especialización es la Ciencia de Datos Espaciales.. Durante la sesión comentaremos el capítulo 6, \"The Numbers Don't Speak for Themselves\", en el que se presenta el sexto principio del feminismo de datos: considerar el contexto.\n\n- ¿Qué pasa si no puedo leer en inglés?\n¡Puedes participar igual! La persona encargada de cada sesión hará una síntesis de los puntos más importantes, así que incluso si no puedes revisar el libro, podrás aprender sobre este tema :)\n\n- CÓDIGO DE CONDUCTA\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\nEl evento se realizará a través de la plataforma Zoom. El día del taller compartiremos la contraseña en los comentarios del evento.\n\n- HORA\nEl evento se realizará a las 18:00 horas de la zona horaria UTC-3. Puedes revisar a qué hora corresponde en tu zona en el siguiente enlace: https://everytimezone.com/s/2137585e/",
+    "status": "PAST",
+    "dateTime": "2021-11-25T18:00:00-03:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-valparaiso/events/282290659/",
+    "featuredEventPhoto": {
+      "id": "500433461",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/2/b/5/highres_500433461.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/2/b/5/600_500433461.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/2/b/5/thumb_500433461.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Valparaíso",
+      "urlname": "rladies-valparaiso"
+    },
+    "createdTime": "2021-11-24T14:37:02-05:00"
+  },
+  {
+    "id": "281649792",
+    "title": "Club de lectura del libro \"Data Feminism\" (sesión 5)",
+    "description": "El próximo miércoles 27 de octubre nos reuniremos para nuestra quinta sesión del club de lectura sobre libro \"Data Feminism\", de Catherine D'Ignazio y Lauren F. Klein. Este libro muestra una nueva forma de abordar la ciencia de datos y la ética de datos basada en ideas del feminismo interseccional. Se puede acceder de forma gratuita en: https://data-feminism.mitpress.mit.edu/\n\n- ¿Cómo funciona el club de lectura?\nDividiremos la lectura del libro en seis sesiones. En cada una de ellas abordaremos un capítulo del libro. Cada sesión la liderará alguien de nuestra comunidad.\nEsta cuarta sesión estará a cargo de Macarena Valenzuela, Doctora en Ciencia Política (https://cl.linkedin.com/in/macarena-valenzuela-beltran, https://twitter.com/macavalenzuela). Durante la sesión comentaremos el capítulo 5, \"Unicorns, Janitors, Ninjas, Wizards, and Rock Stars\", en el que se presenta el quinto principio del feminismo de datos: acoger el pluralismo.\n\n- ¿Qué pasa si no puedo leer en inglés?\n¡Puedes participar igual! La persona encargada de cada sesión hará una síntesis de los puntos más importantes, así que incluso si no puedes revisar el libro, podrás aprender sobre este tema :)\n\n- CÓDIGO DE CONDUCTA\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\nEl evento se realizará a través de la plataforma Zoom. El día del taller compartiremos la contraseña en los comentarios del evento.\n\n- HORA\nEl evento se realizará a las 15:00 horas de la zona horaria UTC-3. Puedes revisar a qué hora corresponde en tu zona en el siguiente enlace: https://everytimezone.com/s/256c2958",
+    "status": "PAST",
+    "dateTime": "2021-10-27T15:00:00-03:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-valparaiso/events/281649792/",
+    "featuredEventPhoto": {
+      "id": "499745671",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/6/2/7/highres_499745671.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/6/2/7/600_499745671.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/6/2/7/thumb_499745671.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 6,
+      "waitlistCount": 0,
+      "totalCount": 6
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Valparaíso",
+      "urlname": "rladies-valparaiso"
+    },
+    "createdTime": "2021-10-25T09:48:44-04:00"
+  },
+  {
+    "id": "280994797",
+    "title": "Club de lectura del libro \"Data Feminism\" (sesión 4)",
+    "description": "El próximo jueves 30 de septiembre nos reuniremos para nuestra cuarta sesión del club de lectura sobre libro \"Data Feminism\", de Catherine D'Ignazio y Lauren F. Klein. Este libro muestra una nueva forma de abordar la ciencia de datos y la ética de datos basada en ideas del feminismo interseccional. Se puede acceder de forma gratuita en: https://data-feminism.mitpress.mit.edu/\n\n- ¿Cómo funciona el club de lectura?\nDividiremos la lectura del libro en seis sesiones. En cada una de ellas abordaremos un capítulo del libro. Cada sesión la liderará alguien de nuestra comunidad.\nEsta cuarta sesión estará a cargo de Francesca Rosales (https://www.linkedin.com/in/francesca-danae-rosales-rojas-314457b6/), cientista política y estudiante del magíster en Pensamiento Contemporáneo. Durante la sesión comentaremos el capítulo 4, \"4. “What Gets Counted Counts\", en el que se presenta el cuarto principio del feminismo de datos: repensar los binarismos y las jerarquías.\n\n- ¿Qué pasa si no puedo leer en inglés?\n¡Puedes participar igual! La persona encargada de cada sesión hará una síntesis de los puntos más importantes, así que incluso si no puedes revisar el libro, podrás aprender sobre este tema :)\n\n- CÓDIGO DE CONDUCTA\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\nEl evento se realizará a través de la plataforma Zoom. El día del taller compartiremos la contraseña en los comentarios del evento.\n\n- HORA\nEl evento se realizará a las 17:00 horas de la zona horaria UTC-3. Puedes revisar a qué hora corresponde en tu zona en el siguiente enlace: https://everytimezone.com/s/7ac3db47",
+    "status": "PAST",
+    "dateTime": "2021-09-30T17:00:00-03:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-valparaiso/events/280994797/",
+    "featuredEventPhoto": {
+      "id": "499117093",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/0/e/5/highres_499117093.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/0/e/5/600_499117093.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/0/e/5/thumb_499117093.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 11,
+      "waitlistCount": 0,
+      "totalCount": 11
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Valparaíso",
+      "urlname": "rladies-valparaiso"
+    },
+    "createdTime": "2021-09-24T17:11:10-04:00"
+  },
+  {
+    "id": "279723751",
+    "title": "Club de lectura del libro \"Data Feminism\" (sesión 3)",
+    "description": "El próximo jueves 29 de julio nos reuniremos para nuestra tercera sesión del club de lectura sobre libro \"Data Feminism\", de Catherine D'Ignazio y Lauren F. Klein. Este libro muestra una nueva forma de abordar la ciencia de datos y la ética de datos basada en ideas del feminismo interseccional. Se puede acceder de forma gratuita en: https://data-feminism.mitpress.mit.edu/\n\n- ¿Cómo funciona el club de lectura?\nDividiremos la lectura del libro en seis sesiones. En cada una de ellas abordaremos un capítulo del libro. Cada sesión la liderará alguien de nuestra comunidad.\nEsta primera sesión estará a cargo de Francisca Ortiz (https://twitter.com/FranciscaOrtizR), candidata a Doctora en Sociología por la Universidad de Manchester. Durante la sesión comentaremos el capítulo 3, \"3. On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints\", en el que se presenta el segundo principio del feminismo de datos: elevar la emoción y la corporalidad (embodiment).\n\n- ¿Qué pasa si no puedo leer en inglés?\n¡Puedes participar igual! La persona encargada de cada sesión hará una síntesis de los puntos más importantes, así que incluso si no puedes revisar el libro, podrás aprender sobre este tema :)\n\n- CÓDIGO DE CONDUCTA\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\nEl evento se realizará a través de la plataforma Zoom. El día del taller compartiremos la contraseña en los comentarios del evento.\n\n- HORA\nEl evento se realizará a las 16:00 horas de la zona horaria UTC-4. Puedes revisar a qué hora corresponde en tu zona en el siguiente enlace: https://everytimezone.com/s/7cb284f2",
+    "status": "PAST",
+    "dateTime": "2021-07-29T16:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-valparaiso/events/279723751/",
+    "featuredEventPhoto": {
+      "id": "497798330",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/5/b/a/highres_497798330.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/5/b/a/600_497798330.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/5/b/a/thumb_497798330.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 13,
+      "waitlistCount": 0,
+      "totalCount": 13
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Valparaíso",
+      "urlname": "rladies-valparaiso"
+    },
+    "createdTime": "2021-07-26T18:09:52-04:00"
+  },
+  {
+    "id": "279464988",
+    "title": "R para Humanidades - sesión 2: de PDF a texto plano",
+    "description": "Este jueves 15 de julio es el segundo episodio de nuestra serie de talleres sobre R para Humanidades que organizaremos de forma colaborativa los capítulos de RLadies de Ciudad de México, Santiago, Valparaíso, Concepción y Talca. La sesión estará a cargo de Silvia Gutiérrez (https://twitter.com/espejolento) y Riva Quiroga (https://twitter.com/rivaquiroga)\n\nEsta vez nos reuniremos para aprender sobre procesamiento de archivos en pdf. Específicamente, veremos como extraer y limpiar datos en documentos de este tipo.\n\n- ¿Qué necesito para participar?\nPodrás aprovechar mejor este taller si ya tienes un conocimiento básico de R: sabes cómo crear un script, cómo ejecutar el código, cómo instalar paquetes.\n\nAdemás de una versión reciente de R y RStudio, necesitas tener los siguientes paquetes (todos disponibles en CRAN):\n\n- tidyverse\n- pdftools\n- tesseract\n\n- Horario\nEl evento se realizará a las 11:00 horas de la zona horaria UTC-4. Puedes revisar a qué hora corresponde en tu zona en el siguiente enlace: https://everytimezone.com/s/10c85ce4\n\n- Código de conducta\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\nEl evento se realizará a través de la plataforma Zoom. El día del taller compartiremos la contraseña en los comentarios del evento.",
+    "status": "PAST",
+    "dateTime": "2021-07-15T11:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-valparaiso/events/279464988/",
+    "featuredEventPhoto": {
+      "id": "497523159",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/5/7/highres_497523159.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/5/7/600_497523159.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/5/7/thumb_497523159.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 14,
+      "waitlistCount": 0,
+      "totalCount": 14
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Valparaíso",
+      "urlname": "rladies-valparaiso"
+    },
+    "createdTime": "2021-07-14T10:38:22-04:00"
+  },
+  {
+    "id": "279158063",
+    "title": "R para Humanidades - sesión 1: web scraping",
+    "description": "Este viernes 2 de julio comienza una serie de talleres sobre R para Humanidades que organizaremos de forma colaborativa los capítulos de RLadies de Ciudad de México, Santiago, Valparaíso, Concepción y Talca. Las sesiones estarán a cargo de Riva Quiroga (https://twitter.com/rivaquiroga) y Silvia Gutiérrez (https://twitter.com/espejolento).\n\nEn esta primera sesión aprenderemos a hacer \"web scraping\" (\"raspado web\") utilizando el paquete {rvest}. Durante el taller introduciremos esta técnica y mostraremos paso a paso cómo implementarla.\n\n- ¿Qué necesito para participar?\nPodrás aprovechar mejor este taller si ya tienes un conocimiento básico de R: sabes cómo crear un script, cómo ejecutar el código, cómo instalar paquetes.\n\nAdemás de una versión reciente de R y RStudio, necesitas tener los siguientes paquetes (todos disponibles en CRAN):\n\n- tidyverse\n- robotstxt\n- janitor\n\n- Horario\nEl evento se realizará a las 11:00 horas de la zona horaria UTC-4. Puedes revisar a qué hora corresponde en tu zona en el siguiente enlace: https://everytimezone.com/s/6eb97481\n\n- Código de conducta\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\nEl evento se realizará a través de la plataforma Zoom. El día del taller compartiremos la contraseña en los comentarios del evento.",
+    "status": "PAST",
+    "dateTime": "2021-07-02T11:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-valparaiso/events/279158063/",
+    "featuredEventPhoto": {
+      "id": "497228586",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/1/8/a/highres_497228586.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/1/8/a/600_497228586.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/1/8/a/thumb_497228586.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 28,
+      "waitlistCount": 0,
+      "totalCount": 28
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Valparaíso",
+      "urlname": "rladies-valparaiso"
+    },
+    "createdTime": "2021-06-29T19:22:47-04:00"
+  },
+  {
+    "id": "279136589",
+    "title": "Club de lectura del libro \"Data Feminism\" (sesión 2)",
+    "description": "El próximo jueves 1 de julio nos reuniremos para nuestra segunda sesión del club de lectura sobre libro \"Data Feminism\", de Catherine D'Ignazio y Lauren F. Klein. Este libro muestra una nueva forma de abordar la ciencia de datos y la ética de datos basada en ideas del feminismo interseccional. Se puede acceder de forma gratuita en: https://data-feminism.mitpress.mit.edu/\n\n- ¿Cómo funciona el club de lectura?\nDividiremos la lectura del libro en seis sesiones. En cada una de ellas abordaremos un capítulo del libro. Cada sesión la liderará alguien de nuestra comunidad.\nEsta primera sesión estará a cargo de Sara Acevedo (https://twitter.com/saryace), candidata a Doctora en Ciencias de la Ingeniería. Durante la sesión comentaremos el capítulo 2, \"Collect, Analyze, Imagine, Teach\", en el que se presenta el segundo principio del feminismo de datos: desafiar al poder.\n\n- ¿Qué pasa si no puedo leer en inglés?\n¡Puedes participar igual! La persona encargada de cada sesión hará una síntesis de los puntos más importantes, así que incluso si no puedes revisar el libro, podrás aprender sobre este tema :)\n\n- CÓDIGO DE CONDUCTA\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\nEl evento se realizará a través de la plataforma Zoom. El día del taller compartiremos la contraseña en los comentarios del evento.\n\n- HORA\nEl evento se realizará a las 16:00 horas de la zona horaria UTC-4. Puedes revisar a qué hora corresponde en tu zona en el siguiente enlace: https://everytimezone.com/s/50ee54a0",
+    "status": "PAST",
+    "dateTime": "2021-07-01T16:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-valparaiso/events/279136589/",
+    "featuredEventPhoto": {
+      "id": "497211449",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/8/f/9/highres_497211449.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/8/f/9/600_497211449.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/8/f/9/thumb_497211449.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 11,
+      "waitlistCount": 0,
+      "totalCount": 11
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Valparaíso",
+      "urlname": "rladies-valparaiso"
+    },
+    "createdTime": "2021-06-28T17:37:13-04:00"
+  },
+  {
+    "id": "278330848",
+    "title": "Club de lectura del libro \"Data Feminism\" (sesión 1)",
+    "description": "El próximo jueves 3 de junio nos reuniremos para nuestra primera sesión del club de lectura del libro \"Data Feminism\", de Catherine D'Ignazio y Lauren F. Klein. Este libro muestra una nueva forma de abordar la ciencia de datos y la ética de datos basada en ideas del feminismo interseccional. Se puede acceder de forma gratuita en: https://data-feminism.mitpress.mit.edu/\n\n¿Cómo funciona el club de lectura?\n\nDivideremos la lectura del libro en seis sesiones. En cada una de ellas abordaremos un capítulo del libro. Cada sesión la liderará alguien de nuestra comunidad.\n\nEsta primera sesión estará a cargo de Natalia Riquelme (@NatyRiquelmeS), Administradora Pública, estudiante de Magíster en Estadística y Coordinadora de proyectos del Centro de Estudios de Conflicto y Cohesión Social. Durante la sesión comentaremos el capítulo 1, \"The Power Chapter\", en el que se se presenta el primer principio del feminismo de datos: examinar el poder.\n\n- ¿Qué pasa si no puedo leer en inglés?\n¡Puedes participar igual! La persona encargada de cada sesión hará una síntesis de los puntos más importantes, así que incluso si no puedes revisar el libro, podrás aprender sobre este tema :)\n\n- CÓDIGO DE CONDUCTA\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\n\nEl evento se realizará a través de la plataforma Zoom. El día del taller compartiremos la contraseña en los comentarios del evento.",
+    "status": "PAST",
+    "dateTime": "2021-06-03T16:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-valparaiso/events/278330848/",
+    "featuredEventPhoto": {
+      "id": "496422322",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/5/5/2/highres_496422322.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/5/5/2/600_496422322.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/5/5/2/thumb_496422322.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 26,
+      "waitlistCount": 0,
+      "totalCount": 26
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Valparaíso",
+      "urlname": "rladies-valparaiso"
+    },
+    "createdTime": "2021-05-21T18:04:55-04:00"
+  },
+  {
+    "id": "278324576",
+    "title": "Análisis de encuestas de diseño complejo con R",
+    "description": "En nuestra próxima sesión hablaremos de las principales variables que definen un diseño de encuestas complejo, para luego mostrar cómo se analizan en R a través de ejemplos aplicados a los datos de CASEN 2017 y de las encuestas CEP. El taller estará a cargo de Carmen Le Foulon, investigadora del CEP e integrante de la Red de Politólogas.\n\n- REQUERIMIENTOS\nEs necesario tener instalados los paquetes tidyverse, survey y srvyr.\n\nEste evento se realizará a través de la plataforma Zoom. Unos minutos antes de la reunión compartiremos la clave de acceso en los comentarios del evento.\n\n- CÓDIGO DE CONDUCTA\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish",
+    "status": "PAST",
+    "dateTime": "2021-05-27T13:00:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-valparaiso/events/278324576/",
+    "featuredEventPhoto": {
+      "id": "496418032",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/4/9/0/highres_496418032.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/4/9/0/600_496418032.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/4/9/0/thumb_496418032.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 72,
+      "waitlistCount": 0,
+      "totalCount": 72
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Valparaíso",
+      "urlname": "rladies-valparaiso"
+    },
+    "createdTime": "2021-05-21T12:14:00-04:00"
+  },
+  {
+    "id": "277839727",
+    "title": "Funciones de R que hacen nuestra vida más simple + LatinR 2021",
+    "description": "Este viernes 30 de abril nos volvemos a juntar, ahora para hablar de algunas funciones que amamaos porque hacen nuestra vida más fácil. Durante la sesión, Sara Acevedo, Stephanie Orellana, Javiera Riffo, Alejandra Tapia Silva y Riva Quiroga nos presentarán algunas funciones no tan conocidas que las ayudan en su trabajo diario. Nos enseñarán a utilizarlas y nos mostrarán algunos casos en los que podrían ser útiles.\nAdemás, hablaremos sobre el llamado a presentación de trabajos de LatinR (https://latin-r.com/), la conferencia latinoamericana sobre R que este año se realizará en modalidad virtual. Revisaremos cuáles son los formatos de presentación y los temas, y resolveremos dudas sobre el proceso de envío de propuestas.\n\n- SOBRE LA ESTRUCTURA DE LA SESIÓN\nEsta sesión está organizada en torno a \"charlas relámpago\" en las que se presentarán las distintas funciones. Los materiales utilizados en cada una de las demostraciones quedará disponible en nuestra cuenta de GitHub una vez terminado el meetup: https://github.com/rladieschile.\n\nEste evento se realizará a las 17:00 UTC-4 a través de la plataforma Zoom. Unos minutos antes de la reunión compartiremos la clave de acceso.\n\n- CÓDIGO DE CONDUCTA\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\n\nEsta es una actividad conjunta de los capítulos de RLadies de Chile (Santiago, Valparaíso, Concepción y Talca).\n\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2021-04-30T17:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-valparaiso/events/277839727/",
+    "featuredEventPhoto": {
+      "id": "495974360",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/8/1/8/highres_495974360.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/8/1/8/600_495974360.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/8/1/8/thumb_495974360.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 46,
+      "waitlistCount": 0,
+      "totalCount": 46
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Valparaíso",
+      "urlname": "rladies-valparaiso"
+    },
+    "createdTime": "2021-04-27T18:16:34-04:00"
+  },
+  {
+    "id": "277552428",
+    "title": "Manejo de tablas con {dplyr}",
+    "description": "Si ya tienes un manejo básico de R y {dplyr}, y quieres comenzar a trabajar uniendo tablas de datos, este taller es para ti. Repasaremos las principales funciones de dplyr y utilizaremos inner_join, left_join, full-join y otras más para el manejo de tablas. Esta sesión estará a cargo de Javiera Riffo (https://twitter.com/JavieraRiffoTo1), Analista de Inteligencia de Negocios y Magíster en Ciencias de la Ingeniería.\n\n- REQUERIMIENTOS\nAntes del taller es necesario que instales es paquete {tidyverse}:\n> install.packages(\"tidyverse\")\nEl conjunto de datos con el que trabajaremos se encuentra en: www.kaggle.com/rtatman/lego-database.\nHemos preparado un proyecto en RStudio Cloud, que incluye los datos a utilizar y los paquetes necesarios: proyecto en donde trabajarás, a partir del siguiente link: https://rstudio.cloud/project/2432177.\n\nEste evento se realizará a través de la plataforma Zoom. Unos minutos antes de la reunión compartiremos la clave de acceso.\n\n- CÓDIGO DE CONDUCTA\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\n\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2021-04-16T18:00:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-valparaiso/events/277552428/",
+    "featuredEventPhoto": {
+      "id": "495699629",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/a/c/d/highres_495699629.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/a/c/d/600_495699629.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/a/c/d/thumb_495699629.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 38,
+      "waitlistCount": 0,
+      "totalCount": 38
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Valparaíso",
+      "urlname": "rladies-valparaiso"
+    },
+    "createdTime": "2021-04-13T17:56:26-04:00"
+  },
+  {
+    "id": "276954717",
+    "title": "Introducción a Tidymodels (parte 2): modelos mixtos",
+    "description": "Esta segunda parte del taller de introducción a Tidymodels estará a cargo de Alejandra Tapia Silva y estará dirigida a personas nuevas en el modelado con efectos mixtos. Cubrirá aspectos introductorios de este tema esperando que sea un punto de partida para el uso de estos modelos con R y {tidymodels}. No se utilizan fórmulas matemáticas, en un intento de hacerlo amigable e intuitivo y así poder dar atención a una audiencia más amplia.\nPara aprovechar mejor este taller, es necesario tener algo de experiencia con análisis exploratorio de datos y modelos lineales, de tal manera de poder transitar sin mucho obstáculo teórico por cada una de las etapas del modelamiento con efectos mixtos. Además, es necesario contar con conocimientos iniciales de algunos paquetes del tidyverse (como {readr} y {dplyr}).\n\n- REQUERIMIENTOS\n\nAdemás de {tidyverse} y {tidymodels}, que utilizamos en la primera parte de este taller, es necesario instalar los siguientes paquetes:\n\n> install.packages(c(\"broom.mixed\",\"lme4\",\"lmerTest\"))\n\nLuego del taller se dejarán referencias para quienes tengan interés en una explicación más detallada sobre modelos mixtos y {tidymodels}, de tal manera que cuando comiencen a usar estas herramientas con sus propios datos dispongan de mayor información. El material del taller quedará disponible en https://github.com/alejandraandrea/slides-xaringan-mixed-models\n\n- CÓDIGO DE CONDUCTA\n\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2021-03-19T18:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-valparaiso/events/276954717/",
+    "featuredEventPhoto": {
+      "id": "495101924",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/3/c/4/highres_495101924.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/3/c/4/600_495101924.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/3/c/4/thumb_495101924.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 21,
+      "waitlistCount": 0,
+      "totalCount": 21
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Valparaíso",
+      "urlname": "rladies-valparaiso"
+    },
+    "createdTime": "2021-03-15T15:47:56-04:00"
+  },
+  {
+    "id": "276830768",
+    "title": "Introducción a Tidymodels (parte 1)",
+    "description": "Si tienes un manejo básico de R y tidyverse, y quieres comenzar a generar modelos predictivos de regresión o clasificación, este taller es para ti. Veremos las funciones principales del paquete tidymodels y desarrollaremos un modelo lineal de regresión. Esta primera sesión estará a cargo de Sara Acevedo (https://twitter.com/saryace), estudiante de Doctorado en Ciencias de la Ingeniería.\n\n- REQUERIMIENTOS\n\nAntes del taller es necesario que instales los paquetes {tidyverse} y {tidymodels}, junto con sus dependencias:\n\n> install.packages(c(\"tidyverse\", \"tidymodels\"), dependencies = TRUE)\n\nAsimismo, es necesario tener los paquetes {remotes} y {ggsignif}, junto con sus dependencias:\n\n> install.packages(c(\"remotes\", \"ggsignif\"), dependencies = TRUE)\n\nAdemás, debes instalar desde GitHub los paquete {datos} y {corrr} (ojo que tienes que tener instalado el paquete {remotes} para que funcionen las siguientes líneas de código):\n\n> remotes::install_github(\"cienciadedatos/datos\")\n> remotes::install_github(\"tidymodels/corrr\")\n\n- CÓDIGO DE CONDUCTA\n\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\n\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2021-03-12T18:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-valparaiso/events/276830768/",
+    "featuredEventPhoto": {
+      "id": "495101924",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/3/c/4/highres_495101924.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/3/c/4/600_495101924.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/3/c/4/thumb_495101924.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 19,
+      "waitlistCount": 0,
+      "totalCount": 19
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Valparaíso",
+      "urlname": "rladies-valparaiso"
+    },
+    "createdTime": "2021-03-09T09:14:12-05:00"
+  },
+  {
+    "id": "276417878",
+    "title": "Expresiones regulares para la limpieza y transformación de datos (parte 2)",
+    "description": "Este viernes 19 de febrero realizaremos la segunda sesión del taller \"Expresiones regulares para la limpieza y transformación de datos\". El taller estará a cargo de Stephanie Orellana (https://twitter.com/sporella) y Riva Quiroga (https://twitter.com/rivaquiroga).\n\n- SOBRE EL TALLER\nEste taller tiene por objetivo que sus participantes se familiaricen con el uso de expresiones regulares (conocidas también como \"regex\"). Específicamente, abordaremos el potencial que tienen como parte del proceso de limpieza y transformación de datos usando paquetes del Tidyverse.\nEn esta segunda sesión, profundizaremos en los contenidos vistos en la primera y además veremos cómo podemos utilizar expresiones regulares para limpiar un archivo PDF.\n\n- REQUERIMIENTOS\nSi no participaste en la primera parte del taller, te sugerimos revisar el video y los materiales, ya que los ejercicios que realizaremos son una continuación de lo visto ese día: https://github.com/rladieschile/taller-regex-2021/blob/main/README.md\nPara este taller es necesario tener una versión de R igual o superior a 3.6 y tener instalados RStudio y los paquetes {tidyverse}, {pdftools}, {janitor} y la versión en desarrollo de {datos}. Esta última se puede instalar desde GitHub con: remotes::install_github(\"cienciadedatos/datos\").\nEl taller se dictará a través de la plataforma Zoom. Media hora antes del evento enviaremos la clave de acceso a la reunión.\n\n- CÓDIGO DE CONDUCTA\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2021-02-19T18:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-valparaiso/events/276417878/",
+    "featuredEventPhoto": {
+      "id": "494790462",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/6/f/e/highres_494790462.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/6/f/e/600_494790462.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/6/f/e/thumb_494790462.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 21,
+      "waitlistCount": 0,
+      "totalCount": 21
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Valparaíso",
+      "urlname": "rladies-valparaiso"
+    },
+    "createdTime": "2021-02-17T09:17:13-05:00"
+  },
+  {
+    "id": "276265649",
+    "title": "Expresiones regulares para la limpieza y transformación de datos (parte 1)",
+    "description": "Tal como prometimos el año pasado, este viernes repetiremos el taller sobre expresiones regulares para la limpieza y transformación de datos que realizamos el año pasado en el marco de LatinR (https://latin-r.com), la conferencia Latinoamericana sobre uso de R en investigación y desarrollo. En esta ocasión, se llevará a cabo en dos sesiones (los viernes 12 y 19 de febrero), para poder cubrir los contenidos con mayor profundidad. El taller estará a cargo de Stephanie Orellana (https://twitter.com/sporella) y Riva Quiroga (https://twitter.com/rivaquiroga).\n\n- SOBRE EL TALLER\n\nEste taller tiene por objetivo que sus participantes se familiaricen con el uso de expresiones regulares (conocidas también como \"regex\"). Específicamente, abordaremos el potencial que tienen como parte del proceso de limpieza y transformación de datos usando paquetes del Tidyverse.\nLos ejemplos prácticos se enfocarán en el trabajo con dataframes y archivos de texto, y en cómo utilizar expresiones regulares en conjunto con funciones de los paquetes {stringr}, {dplyr} y {tidyr}.\n\n- REQUERIMIENTOS\n\nPara este taller es necesario tener una versión de R igual o superior a 3.6 y tener instalados RStudio y los paquetes {tidyverse}, {janitor} y la versión en desarrollo de {datos}. Esta última se puede instalar desde GitHub con: remotes::install_github(\"cienciadedatos/datos\").\nEl taller se dictará a través de la plataforma Zoom. Media hora antes del evento enviaremos la clave de acceso a la reunión.\n\n- SOBRE LA SEGUNDA SESIÓN\n\nLa segunda sesión de este taller se llevará a cabo el viernes 19 de febrero. Para asistir, debes inscribirte en el evento correspondiente, que quedará publicado acá en Meetup a principios de la próxima semana.\n\n- CÓDIGO DE CONDUCTA\n\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\n\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2021-02-12T18:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-valparaiso/events/276265649/",
+    "featuredEventPhoto": {
+      "id": "494687796",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/a/b/4/highres_494687796.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/a/b/4/600_494687796.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/a/b/4/thumb_494687796.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 28,
+      "waitlistCount": 0,
+      "totalCount": 28
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Valparaíso",
+      "urlname": "rladies-valparaiso"
+    },
+    "createdTime": "2021-02-09T07:29:28-05:00"
+  },
+  {
+    "id": "275824064",
+    "title": "Usos de R durante una pandemia",
+    "description": "Estos últimos meses no han sido fáciles :( Por ello, los distintos capítulos de RLadies Chile (Santiago, Valparaíso, Concepción y Talca) decidimos reunirnos para compartir distintas experiencias acerca de cómo R nos ha ayudado a sobrellevar este período: nos permitió concluir proyectos importantes, nos ayudó a desconectarnos de todo lo que estaba pasando al explorar nuevos desafíos, encontramos nuevas formas de colaborar y compartir en nuestros espacios de trabajo y comunidad.\n\n> El programa de esta sesión:\n\n- Stephanie Orellana: \"30 días con R\"\n- Alejandra Tapia Silva: \"Explorando algunas funciones sonoras con R\"\n- Riva Quiroga: \"Cómo certificarse como instructora de RStudio y hacer amigas en el intento\"\n- Sara Acevedo: \"Una Shiny app en reemplazo de pizarra\"\n- Macarena Valenzuela: \"Usando R para terminar una tesis de doctorado en pandemia\"\n\nLuego de las presentaciones tendremos un espacio para preguntas y comentarios. Aprovecharemos este evento para presentar también nuestra programación de actividades del primer semestre.\n\n> ¿Qué necesito para participar?\n\nLo primero, es leer nuestro nuestro código de conducta. Es requisito para asistir estar de acuerdo con él: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\nLo segundo, es asegurarte de que puedes utilizar la aplicación Zoom en tu computador. El día del taller te enviaremos la contraseña para unirte (chequea ese día que el mensaje no se haya ido a la carpeta de spam).\n\n¡Nos vemos!",
+    "status": "PAST",
+    "dateTime": "2021-01-22T18:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-valparaiso/events/275824064/",
+    "featuredEventPhoto": {
+      "id": "494385299",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/0/f/3/highres_494385299.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/0/f/3/600_494385299.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/0/f/3/thumb_494385299.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 22,
+      "waitlistCount": 0,
+      "totalCount": 22
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Valparaíso",
+      "urlname": "rladies-valparaiso"
+    },
+    "createdTime": "2021-01-18T10:53:07-05:00"
+  },
+  {
+    "id": "289422397",
+    "title": "Cosas terroríficas que pasan al trabajar con datos y cómo perderles el miedo",
+    "description": "Este lunes 31 retomamos nuestras actividades con una charla y un serie de minitalleres acerca de cómo enfrentar situaciones del terror al trabajar con datos, o cómo abordar datos terroríficos usando R.\nPartiremos la jornada con una charla invitada, que estará a cargo de Silvia Gutiérrez, de RLadies Ciudad de México. Silvia nos contará cómo los métodos más sofisticados y de moda no necesariamente son la mejor solución para resolver problemas de minería de textos, y cómo aprendió esto lidiando con los datos de la investigación doctoral que realiza en el grupo de Humanidades Computacionales de la Universidad de Leipzig.\nA continuación, Alejandra Tapia, profesora del Departamento de Estadística UC, nos mostrará cómo aplicar métodos mixtos a un set de datos sobre arañas usando el paquete {broom.mixed}.\nLuego, Sara Acevedo, investigadora doctoral del Laboratorio de Biofísica de Suelos UC, introducirá el paquete {janitor}, un amuleto protector contra los horrores que a veces nos encontramos al trabajar con archivos Excel.\nEn el siguiente minitaller, Riva Quiroga intentará exorcizar en vivo un archivo Excel con un formato terrorífico, pero muy habitual, para poder hacer accesibles datos terribles que de otro modo no podrían ser analizados.\nFinalmente, Stephanie Orellana, Científica de Datos Espaciales, nos ayudará a perderle el miedo a la terminal y conocer sus poderes mágicos.\n\nCÓDIGO DE CONDUCTA\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\n\nDATOS PRÁCTICOS\nLa actividad comenzará a las 15:00 horas de la zona horaria UTC-3. Puedes revisar a qué hora corresponde eso en tu zona en el siguiente enlace: https://everytimezone.com/s/c5531caa\nEl evento se realizará a través de la plataforma Zoom. El mismo lunes enviaremos a través de Meetup la contraseña para unirse a la sesión.",
+    "status": "PAST",
+    "dateTime": "2022-10-31T15:00:00-03:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-valparaiso/events/289422397/",
+    "featuredEventPhoto": {
+      "id": "508173327",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/2/2/f/highres_508173327.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/2/2/f/600_508173327.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/2/2/f/thumb_508173327.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 9,
+      "waitlistCount": 0,
+      "totalCount": 9
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Valparaíso",
+      "urlname": "rladies-valparaiso"
+    },
+    "createdTime": "2022-10-29T18:15:04-04:00"
+  },
+  {
+    "id": "283269295",
+    "title": "Club de lectura del libro \"Data Feminism\" (sesión 7)",
+    "description": "El próximo martes 18 de enero nos reuniremos para nuestra última sesión del club de lectura sobre libro \"Data Feminism\", de Catherine D'Ignazio y Lauren F. Klein. Este libro muestra una nueva forma de abordar la ciencia de datos y la ética de datos basada en ideas del feminismo interseccional. Se puede acceder de forma gratuita en: https://data-feminism.mitpress.mit.edu/\n\nEsta sexta sesión estará a cargo de Alejandra Tapia Silva (https://twitter.com/aleants). Alejandra es Doctora en Estadística y fundadora de RLadies Talca. Durante la sesión comentaremos el capítulo 7, \"Show your work\", en el que se presenta el séptimo principio del feminismo de datos: hacer el trabajo visible.\n\n- ¿Qué pasa si no puedo leer en inglés?\n¡Puedes participar igual! La persona encargada de cada sesión hará una síntesis de los puntos más importantes, así que incluso si no puedes revisar el libro, podrás aprender sobre este tema :)\n\n- CÓDIGO DE CONDUCTA\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish\nEl evento se realizará a través de la plataforma Zoom. El día del taller compartiremos la contraseña en los comentarios del evento.\n\n- HORA\nEl evento se realizará a las 17:00 horas de la zona horaria UTC-3. Puedes revisar a qué hora corresponde en tu zona en el siguiente enlace: https://everytimezone.com/s/abc5d3de",
+    "status": "PAST",
+    "dateTime": "2022-01-18T17:00:00-03:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-valparaiso/events/283269295/",
+    "featuredEventPhoto": {
+      "id": "501368730",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/2/1/a/highres_501368730.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/2/1/a/600_501368730.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/2/1/a/thumb_501368730.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Valparaíso",
+      "urlname": "rladies-valparaiso"
+    },
+    "createdTime": "2022-01-14T15:56:32-05:00"
+  },
+  {
+    "id": "293642323",
+    "title": "¿Qué hay de nuevo en el Tidyverse?",
+    "description": "El próximo viernes 26 de mayo nos volvemos a juntar, esta vez para aprender sobre las actualizaciones que han tenido algunos de los paquetes del Tidyverse. Nos enfocaremos en los cambios más recientes en tidyr, ggplot2, dplyr y stringr. ¿Todavía no has utilizado la función **pick()**? ¿Quieres aprender más sobre la nueva familia de funciones **separate_\\*()** o saber para qué sirve **guide_axis()**? Entonces no te pierdas este evento :)\nLa sesión estará a cargo de [Sara Acevedo](https://saryace.github.io/), [Stephanie Orellana](https://sporella.xyz/) y [Riva Quiroga](https://rivaquiroga.cl/).\n\nREQUERIMIENTOS\nPara la sesión solo necesitas tener instalada la última versión del Tidyverse:\n\\> install\\.packages\\(\"tidyverse\"\\)\n\nACCESO\nMedia hora antes del inicio publicaremos la contraseña de acceso a Zoom como comentario acá en Meetup.\n\nCÓDIGO DE CONDUCTA\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: [https://guide.rladies.org/about/coc/#spanish](https://guide.rladies.org/about/coc/#spanish)\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2023-05-26T17:00:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-valparaiso/events/293642323/",
+    "featuredEventPhoto": {
+      "id": "513073112",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/3/3/8/highres_513073112.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/3/3/8/600_513073112.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/3/3/8/thumb_513073112.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 11,
+      "waitlistCount": 0,
+      "totalCount": 11
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Valparaíso",
+      "urlname": "rladies-valparaiso"
+    },
+    "createdTime": "2023-05-19T17:42:03-04:00"
+  },
+  {
+    "id": "293346234",
+    "title": "Introducción al Tidyverse",
+    "description": "El próximo viernes 12 de mayo nos reunimos nuevamente para aprender sobre el [Tidyverse](https://www.tidyverse.org/), el universo de paquetes diseñados para hacer ciencia de datos con R. La sesión estará a cargo de [Natalia Riquelme](https://github.com/nataliariquelme), Administradora Pública UdeC y Estudiante de Magíster en Estadística Universidad Católica, y de [Camila Molina](https://www.linkedin.com/in/camila-molina-fern%C3%A1ndez), Ingeniera Estadística de la Universidad del Bío-Bío.\n\nREQUERIMIENTOS\nPara la sesión solo necesitas tener instalado el Tidyverse:\n\\> install\\.packages\\(\"tidyverse\"\\)\n\nCÓDIGO DE CONDUCTA\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: [https://guide.rladies.org/about/coc/#spanish](https://guide.rladies.org/about/coc/#spanish)\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2023-05-12T19:00:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-valparaiso/events/293346234/",
+    "featuredEventPhoto": {
+      "id": "512613099",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/1/4/b/highres_512613099.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/1/4/b/600_512613099.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/1/4/b/thumb_512613099.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 15,
+      "waitlistCount": 0,
+      "totalCount": 15
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Valparaíso",
+      "urlname": "rladies-valparaiso"
+    },
+    "createdTime": "2023-05-05T11:02:44-04:00"
+  },
+  {
+    "id": "293092818",
+    "title": "Introducción a Tidymodels. Parte 2: modelos mixtos",
+    "description": "Esta segunda parte del taller de introducción a Tidymodels estará a cargo de Alejandra Tapia Silva y estará dirigida a personas nuevas en el modelado con efectos mixtos. Cubrirá aspectos introductorios de este tema esperando que sea un punto de partida para el uso de estos modelos con R y {tidymodels}. No se utilizan fórmulas matemáticas, en un intento de hacerlo amigable e intuitivo y así poder dar atención a una audiencia más amplia.\nPara aprovechar mejor este taller, es necesario tener algo de experiencia con análisis exploratorio de datos y modelos lineales, de tal manera de poder transitar sin mucho obstáculo teórico por cada una de las etapas del modelamiento con efectos mixtos. Además, es necesario contar con conocimientos iniciales de algunos paquetes del tidyverse (como {readr} y {dplyr}).\n\nREQUERIMIENTOS\n\nAdemás de {tidyverse} y {tidymodels}, que utilizamos en la primera parte de este taller, es necesario instalar los siguientes paquetes:\n\\> install\\.packages\\(c\\(\"broom\\.mixed\"\\,\"lme4\"\\,\"lmerTest\"\\)\\)\nLuego del taller se dejarán referencias para quienes tengan interés en una explicación más detallada sobre modelos mixtos y {tidymodels}, de tal manera que cuando comiencen a usar estas herramientas con sus propios datos dispongan de mayor información.\n\nCÓDIGO DE CONDUCTA\n\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://guide.rladies.org/about/coc/#spanish\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2023-04-28T17:00:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-valparaiso/events/293092818/",
+    "featuredEventPhoto": {
+      "id": "512332256",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/c/2/0/highres_512332256.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/c/2/0/600_512332256.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/c/2/0/thumb_512332256.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 14,
+      "waitlistCount": 0,
+      "totalCount": 14
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Valparaíso",
+      "urlname": "rladies-valparaiso"
+    },
+    "createdTime": "2023-04-23T19:55:38-04:00"
+  },
+  {
+    "id": "292260584",
+    "title": "Introducción a Tidymodels. Parte 1: modelos lineales",
+    "description": "Si tienes un manejo básico de R y tidyverse, y quieres comenzar a generar modelos predictivos de regresión o clasificación, este taller es para ti. Veremos las funciones principales del paquete tidymodels y desarrollaremos un modelo lineal de regresión. Esta sesión estará a cargo de Sara Acevedo, Doctora en Ciencias de la Ingeniería.\n\nREQUERIMIENTOS\n\nAntes del taller es necesario que instales los paquetes {tidyverse} y {tidymodels}, junto con sus dependencias:\n\\> install\\.packages\\(c\\(\"tidyverse\"\\, \"tidymodels\"\\)\\, dependencies = TRUE\\)\nAsimismo, es necesario tener los paquetes {remotes} y {ggsignif}, junto con sus dependencias:\n\\> install\\.packages\\(c\\(\"remotes\"\\, \"ggsignif\"\\)\\, dependencies = TRUE\\)\nAdemás, debes instalar desde GitHub los paquete {datos} y {corrr} (ojo que tienes que tener instalado el paquete {remotes} para que funcionen las siguientes líneas de código):\n\\> remotes::install_github\\(\"cienciadedatos/datos\"\\)\n\\> remotes::install_github\\(\"tidymodels/corrr\"\\)\n\nCÓDIGO DE CONDUCTA\n\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://guide.rladies.org/about/coc/#spanish\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2023-03-24T17:00:00-03:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-valparaiso/events/292260584/",
+    "featuredEventPhoto": {
+      "id": "511324023",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/f/b/7/highres_511324023.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/f/b/7/600_511324023.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/f/b/7/thumb_511324023.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 35,
+      "waitlistCount": 0,
+      "totalCount": 35
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Valparaíso",
+      "urlname": "rladies-valparaiso"
+    },
+    "createdTime": "2023-03-15T15:05:24-04:00"
+  },
+  {
+    "id": "302440837",
+    "title": "Cómo preparar tu propuesta de presentación para LatinR 2024",
+    "description": "¡Ya está abierto el envío de trabajos para [LatinR 2024](https://latinr.org/)! Este año la conferencia latinoamericana sobre R se llevará a cabo en línea, entre el 18 y el 22 de noviembre. Esta modalidad la hace una excelente oportunidad para compartir lo que has estado haciendo con R con el resto de la comunidad, sin tener que moverte de tu casa.\n\nPero ¿cómo preparar una propuesta de presentación?\n¿Qué debiese incluir el abstract?\n¿La idea que tengo es suficiente como para proponer algo?\n¿Qué pasa si recién estoy empezando a usar R?\n¿Es lo mismo escribir un abstract para una conferencia de R que para una conferencia académica de mi disciplina?\n¿Qué tengo que tener en cuenta si quiero presentar sobre un paquete o una Shiny app que desarrollé?\n\nPara responder estas y otras preguntas nos reuniremos el próximo jueves 1 de agosto. Durante la sesión, compartiremos recomendaciones para diseñar una propuesta y revisaremos algunos ejemplos de años anteriores para que te hagas una idea de la variedad de temas que es posible presentar.\n\n**¿Y si todavía no tengo una idea concreta para una presentación?**\nNo importa. Durante la sesión hablaremos también sobre cómo generar ideas. Si usas R, seguro que tienes algo para compartir con la comunidad.\n\n**Preparación**\nSi aún no tienes una cuenta en OpenReview (la plataforma que usa LatinR para envíos) te sugerimos hacerte una cuenta ahora, incluso si todavía no tienes claro si vas a enviar una propuesta. OpenReview a veces se demora hasta dos semana en aprobar las cuentas nuevas que se crean con correos personales, así que es mejor no dejar este paso para última hora.\n\n**Acceso**\nMedia hora antes del inicio publicaremos la contraseña de acceso a Zoom como comentario acá en Meetup. El enlace te aparecerá a la derecha, debajo de la fecha del evento, cuando te registres.\n\n**Código de conducta**\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: https://guide.rladies.org/about/coc/\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2024-08-01T17:00:00-04:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-valparaiso/events/302440837/",
+    "featuredEventPhoto": {
+      "id": "522536529",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/c/d/1/highres_522536529.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/c/d/1/600_522536529.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/c/d/1/thumb_522536529.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 10,
+      "waitlistCount": 0,
+      "totalCount": 10
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Valparaíso",
+      "urlname": "rladies-valparaiso"
+    },
+    "createdTime": "2024-07-25T20:22:51-04:00"
+  },
+  {
+    "id": "301221735",
+    "title": "Taller de familiarización con R/RStudio",
+    "description": "Este taller está dirigido a personas que han oído sobre R y que aún no se han adentrado de forma autónoma a explorarlo. Durante el taller nos familiarizaremos con esta herramienta para que puedas iniciar tu camino en el trabajo con este lenguaje de programación.\nAsumiremos cierta familiaridad con otros software de análisis estadístico, aunque este no será en lo absoluto un taller orientado a la ejecución de análisis, sino de demostración de las posibilidades y forma de trabajo del programa.\n\n**Preparación**\nNo es necesario que traigas nada previamente instalado. Durante la sesión mostraremos cómo preparar tu computadora para utilizar R y RStudio.\n\n**Acceso**\nMedia hora antes del inicio publicaremos la contraseña de acceso a Zoom como comentario acá en Meetup.\n\n**Código de conducta**\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: [https://guide.rladies.org/about/coc/](https://guide.rladies.org/about/coc/#spanish)\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2024-05-31T16:00:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-valparaiso/events/301221735/",
+    "featuredEventPhoto": {
+      "id": "521293629",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/3/5/3/d/highres_521293629.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/3/5/3/d/600_521293629.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/3/5/3/d/thumb_521293629.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 13,
+      "waitlistCount": 0,
+      "totalCount": 13
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Valparaíso",
+      "urlname": "rladies-valparaiso"
+    },
+    "createdTime": "2024-05-24T13:10:21-04:00"
+  },
+  {
+    "id": "298571528",
+    "title": "¿Tu código demora tres días en ejecutarse? ¡Es hora de paralelizar!",
+    "description": "¿Tu código demora mucho tiempo en ejecutarse? Quizás sea la señal que estabas esperando para aprender acerca de paralelizar procesos con el paquete {furrr}. Con este paquete puedes combinar las capacidades de programación funcional de {purrr} con las de procesamiento paralelo de {futures} (**f**utures + p**urrr** = **furrr**).\nLa sesión estará a cargo de Stephanie Orellana, Científica de Datos.\n\n**Código de conducta**\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando [nuestro código de conducta](https://guide.rladies.org/about/coc/#spanish).\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2024-04-05T17:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-valparaiso/events/298571528/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 27,
+      "waitlistCount": 0,
+      "totalCount": 27
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Valparaíso",
+      "urlname": "rladies-valparaiso"
+    },
+    "createdTime": "2024-01-15T15:10:01-05:00"
+  },
+  {
+    "id": "298491454",
+    "title": "¿Escribiste el mismo código tres veces? ¡Mejor crea una función!",
+    "description": "En este taller aprenderemos a crear funciones para no tener que repetir nuestro código y a usarlas en conjunto con el paquete {purrr} para simplificar flujos de trabajo que requieren iterar. Si nunca has creado una función, este taller es para ti.\nLa sesión estará a cargo de Sara Acevedo, Doctora en Ciencias de la Ingeniería y Académica de la carrera de Ingeniería en Recursos Naturales FASNA-UC.\n¡Próximamente agregaremos detalles sobre cómo prepararte para el taller!\n\n**Código de conducta**\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando [nuestro código de conducta](https://guide.rladies.org/about/coc/#spanish).\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2024-03-22T17:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-valparaiso/events/298491454/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 14,
+      "waitlistCount": 0,
+      "totalCount": 14
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Valparaíso",
+      "urlname": "rladies-valparaiso"
+    },
+    "createdTime": "2024-01-11T16:28:59-05:00"
+  },
+  {
+    "id": "311406392",
+    "title": "#IntlRSEday: día internacional del software de investigación",
+    "description": "Desde 2021, el segundo jueves de octubre se celebra el Día Internacional del Software de Investigación (también conocido como \"RSE Day\" por sus siglas en inglés: Research Software Engineering), para visibilizar a quienes se encargan de las tareas asociadas al desarrollo y mantenimiento del código de proyectos de investigación.\nPero ¿qué es esto de \"RSE\" y qué papel juega R cómo lenguaje de programación en ese tipo de roles? Si te interesa saber más, te esperamos el próximo 9 de octubre en este evento multi-comunidades (capítulos de R-Ladies de Chile, R-Ladies Resistencia-Corrientes, R en Buenos Aires y la comunidad de RSE de Chile). Durante la sesión, abordaremos los siguientes temas:\n\n* el origen de este movimiento que busca visibilizar y reconocer el rol de quienes escriben código para proyectos de investigación\n* cómo usa R alguien que trabaja como RSE\n* los principales temas y aprendizajes que nos dejó la RSECon, la conferencia que organiza la Society of RSE.\n\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2025-10-09T14:00:00-03:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-valparaiso/events/311406392/",
+    "featuredEventPhoto": {
+      "id": "530591745",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/d/e/1/highres_530591745.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/d/e/1/600_530591745.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/d/e/1/thumb_530591745.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 6,
+      "waitlistCount": 0,
+      "totalCount": 6
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Valparaíso",
+      "urlname": "rladies-valparaiso"
+    },
+    "createdTime": "2025-10-06T10:50:59-04:00"
+  },
+  {
+    "id": "308652835",
+    "title": "Taller de familiarización con R/RStudio",
+    "description": "Este taller está dirigido a personas que han oído sobre R y que aún no se han adentrado de forma autónoma a explorarlo. Durante el taller nos familiarizaremos con esta herramienta para que puedas iniciar tu camino en el trabajo con este lenguaje de programación.\nAsumiremos cierta familiaridad con otros software de análisis estadístico, aunque este no será en lo absoluto un taller orientado a la ejecución de análisis, sino de demostración de las posibilidades y forma de trabajo del programa.\n\n**Preparación**\nNo es necesario que traigas nada previamente instalado. Durante la sesión mostraremos cómo preparar tu computadora para utilizar R y RStudio.\n\n**Acceso**\nMedia hora antes del inicio publicaremos la contraseña de acceso a Zoom como comentario acá en Meetup.\n\n**Código de conducta**\nQueremos que este sea un espacio de aprendizaje amable y seguro. Al inscribirte en este evento estás aceptando nuestro código de conducta: [https://guide.rladies.org/about/coc/](https://guide.rladies.org/about/coc/#spanish)\n\nEste evento es una actividad conjunta de los capítulos de Santiago, Valparaíso, Concepción, Talca y Temuco.\n\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2025-07-18T16:30:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-valparaiso/events/308652835/",
+    "featuredEventPhoto": {
+      "id": "528745175",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/2/5/7/highres_528745175.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/2/5/7/600_528745175.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/2/5/7/thumb_528745175.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 17,
+      "waitlistCount": 5,
+      "totalCount": 17
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Valparaíso",
+      "urlname": "rladies-valparaiso"
+    },
+    "createdTime": "2025-06-25T13:05:29-04:00"
+  }
+]

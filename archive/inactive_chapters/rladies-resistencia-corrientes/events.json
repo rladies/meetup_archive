@@ -1,0 +1,572 @@
+[
+  {
+    "id": "256221103",
+    "title": "Manipulación y Visualización de datos",
+    "description": "¡Participa de nuestro cuarto y último meetup del año!\n¿Cuándo? El 7 de diciembre a las 17:30.\n¿Dónde? En el Club de Emprendedores en San Martin 625, Corrientes.\n\nEn esta oportunidad vamos a aprender sobre Manipulación y Visualización de Datos con R. En cuanto a Manipulación veremos los paquetes tidyr y dplyr, algunas funciones como gather(), spread(), unite(), filter(), select(), entre otras; y el uso del operador pipe (%>%). Además vamos a repasar Visualización de datos con ggplot2 y veremos algunos ejercicios prácticos.\n\nTené en cuenta que para que puedas aprovechar el taller es sumamente importante que traigas tu computadora portátil con R y Rstudio instalado. Y no olvides que también podes traer mate.\nNuevamente el Club de emprendedores, ubicado en San Martín 1625, nos recibe gentilmente en su espacio de coworking. Además, en este último meetup vas a disfrutar de muchas cosas ricas gracias al apoyo de HR Schmitman.\n\n¡Te esperamos para aprender sobre Manipulación y Visualización de Datos con R!",
+    "status": "PAST",
+    "dateTime": "2018-12-07T17:30:00-03:00",
+    "duration": "PT2H30M",
+    "eventUrl": "https://www.meetup.com/rladies-resistencia-corrientes/events/256221103/",
+    "featuredEventPhoto": {
+      "id": "476846950",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/9/4/6/highres_476846950.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/9/4/6/600_476846950.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/9/4/6/thumb_476846950.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 12,
+      "waitlistCount": 0,
+      "totalCount": 12
+    },
+    "venues": [
+      {
+        "id": "25855058",
+        "name": "Club de Emprendedores Corrientes",
+        "address": "San Martín 1625",
+        "city": "Corrientes",
+        "state": "",
+        "country": "ar",
+        "lat": -27.4704,
+        "lon": -58.8304,
+        "postalCode": "meetup14",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Resistencia-Corrientes",
+      "urlname": "rladies-resistencia-corrientes"
+    },
+    "createdTime": "2018-11-07T19:57:34-05:00"
+  },
+  {
+    "id": "255130439",
+    "title": "Visualización de datos con ggplot2",
+    "description": "El 12 de Octubre vamos a tener nuestro tercer meetup en el que vamos a aprender \"Visualización de datos con R utilizando el paquete ggplot2\". Los temas a desarrollar incluyen: introducción al paquete ggplot2 y a la gramática de gráficos (Grammar of graphics). Importancia de una visualización efectiva. Función qplot y ggplot. Diferentes tipos de gráficos.\n\nTambién vamos a estar comentando sobre la conferencia LatinR que se realizó en Septiembre de este año en Buenos Aires.\n\nAdemás la Dra. Laura Gimenez, profesora adjunta de la cátedra de Calculo Estadístico y Biometría, nos estará contando sobre el uso de geoR en pronóstico de cosecha de citrus.\n\nTené en cuenta que para que puedas aprovechar el taller es sumamente importante que traigas tu computadora portátil con R y Rstudio instalado. Y no olvides que también podes traer mate.\nNuevamente nos encontraremos en el Club de emprendedores, San Martín 1625, el cual gentilmente nos recibe en su espacio de coworking.\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2018-10-12T17:30:00-03:00",
+    "duration": "PT2H30M",
+    "eventUrl": "https://www.meetup.com/rladies-resistencia-corrientes/events/255130439/",
+    "featuredEventPhoto": {
+      "id": "475050742",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/8/1/6/highres_475050742.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/8/1/6/600_475050742.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/8/1/6/thumb_475050742.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 6,
+      "waitlistCount": 0,
+      "totalCount": 6
+    },
+    "venues": [
+      {
+        "id": "25855058",
+        "name": "Club de Emprendedores Corrientes",
+        "address": "San Martín 1625",
+        "city": "Corrientes",
+        "state": "",
+        "country": "ar",
+        "lat": -27.4704,
+        "lon": -58.8304,
+        "postalCode": "meetup14",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Resistencia-Corrientes",
+      "urlname": "rladies-resistencia-corrientes"
+    },
+    "createdTime": "2018-09-29T22:05:55-04:00"
+  },
+  {
+    "id": "252924276",
+    "title": "Segunda Reunión R-Ladies Rcia-Ctes -R desde Cero",
+    "description": "¡Te invitamos a nuestro segundo meetup de R-Ladies Resistencia-Corrientes!\nEn nuestro segundo encuentro daremos el Taller Introductorio, \"R desde cero\", en cual repasaremos algunos conceptos básicos de R, además veremos tipos de datos existentes, objetos, operadores, funciones, cómo crear vectores, matrices y dataframes, cómo exportar e importar archivos y por último realizaremos juntos algunos ejercicios prácticos.\nTené en cuenta que para que puedas aprovechar el taller es sumamente importante que traigas tu computadora portátil con R y Rstudio instalado. Y no olvides que también podes traer mate.\nNuevamente nos encontraremos en el Club de emprendedores, San Martín 1625, el cual gentilmente nos recibe en su espacio de coworking.\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2018-08-10T18:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-resistencia-corrientes/events/252924276/",
+    "featuredEventPhoto": {
+      "id": "473154178",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/3/a/2/highres_473154178.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/3/a/2/600_473154178.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/3/a/2/thumb_473154178.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 6,
+      "waitlistCount": 0,
+      "totalCount": 6
+    },
+    "venues": [
+      {
+        "id": "25855058",
+        "name": "Club de Emprendedores Corrientes",
+        "address": "San Martín 1625",
+        "city": "Corrientes",
+        "state": "",
+        "country": "ar",
+        "lat": -27.4704,
+        "lon": -58.8304,
+        "postalCode": "meetup14",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Resistencia-Corrientes",
+      "urlname": "rladies-resistencia-corrientes"
+    },
+    "createdTime": "2018-06-13T22:55:37-04:00"
+  },
+  {
+    "id": "251571780",
+    "title": "Primera Reunión R-Ladies Rcia-Ctes",
+    "description": "Te invitamos a nuestra primer meetup de R-Ladies Resistencia-Corrientes.\n\nEn nuestro primer encuentro hablaremos del objetivo de R-ladies, del potencial de R e instalaremos R y Rstudio, así que es recomendable que traigas tu computadora portátil.\nAdemás habrá lugar para conocernos. Nuestra primera reunión la vamos a hacer en el Club de emprendedores que gentilmente nos recibe.\n\nTambién podes traer mate.",
+    "status": "PAST",
+    "dateTime": "2018-06-29T18:00:00-03:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-resistencia-corrientes/events/251571780/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 10,
+      "waitlistCount": 0,
+      "totalCount": 10
+    },
+    "venues": [
+      {
+        "id": "25855058",
+        "name": "Club de Emprendedores Corrientes",
+        "address": "San Martín 1625",
+        "city": "Corrientes",
+        "state": "",
+        "country": "ar",
+        "lat": -27.4704,
+        "lon": -58.8304,
+        "postalCode": "meetup14",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Resistencia-Corrientes",
+      "urlname": "rladies-resistencia-corrientes"
+    },
+    "createdTime": "2018-06-08T20:25:18-04:00"
+  },
+  {
+    "id": "263055088",
+    "title": "🔧Tutorial de manipulación de datos con dplyr",
+    "description": "En nuestra segunda reunión del año vamos a aprender sobre el paquete dplyr. Dplyr es un paquete que permite la fácil manipulación de dataframes. En esta reunión aprenderemos sobre funciones útiles para realizar esta tarea.\nIniciaremos el taller recordando las funciones útiles como: glimpse(), head(), tail(), slice(), top_n(). Luego veremos las funciones más importantes de dplyr: select(), filter(), arrange(), rename(), mutate(), summarise().\n\nTené en cuenta que para que puedas aprovechar el taller es sumamente importante que traigas tu computadora portátil con R y Rstudio instalado. Y no olvides que también podes traer mate.\nNuevamente nos encontraremos en el Club de emprendedores, San Martín 1625, el cual gentilmente nos recibe en su espacio de coworking.\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2019-08-22T17:30:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-resistencia-corrientes/events/263055088/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 9,
+      "waitlistCount": 0,
+      "totalCount": 9
+    },
+    "venues": [
+      {
+        "id": "25855058",
+        "name": "Club de Emprendedores Corrientes",
+        "address": "San Martín 1625",
+        "city": "Corrientes",
+        "state": "",
+        "country": "ar",
+        "lat": -27.4704,
+        "lon": -58.8304,
+        "postalCode": "meetup14",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Resistencia-Corrientes",
+      "urlname": "rladies-resistencia-corrientes"
+    },
+    "createdTime": "2019-07-11T00:19:57-04:00"
+  },
+  {
+    "id": "260464484",
+    "title": "Primer meetup del año: Taller de RMarkdown!!!",
+    "description": "En nuestro primer encuentro del año tendremos un taller de RMarkdown.\nRMarkdown es una herramienta con un gran potencial que nos permite generar documentos automáticos, donde se integran texto, código R y resultados y a su vez, nos permite hacer reproducible nuestros estudios, ya sea en el ámbito laboral o en investigación. Con Rmarkdown, también es posible generar presentaciones, tesis y libros, entre otros.\n\nIniciaremos el taller comprendiendo cómo funciona RMarkdown y las posibilidades que nos proporciona, luego trabajaremos con un ejemplo práctico, donde elaboraremos una presentación que abarca las necesidades más comunes (inserción de gráficos, texto, tablas y código).\nSi tienes algún análisis o estudio con el cual quieras practicar, traélo al taller, te ayudaremos a armar tu primer documento Rmarkdown.\n\nTené en cuenta que para que puedas aprovechar el taller es sumamente importante que traigas tu computadora portátil con R y Rstudio instalado. Y no olvides que también podes traer mate.\nNuevamente nos encontraremos en el Club de emprendedores, San Martín 1625, el cual gentilmente nos recibe en su espacio de coworking.\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2019-05-16T17:30:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-resistencia-corrientes/events/260464484/",
+    "featuredEventPhoto": {
+      "id": "481082898",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/5/2/highres_481082898.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/5/2/600_481082898.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/5/2/thumb_481082898.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 14,
+      "waitlistCount": 1,
+      "totalCount": 14
+    },
+    "venues": [
+      {
+        "id": "25855058",
+        "name": "Club de Emprendedores Corrientes",
+        "address": "San Martín 1625",
+        "city": "Corrientes",
+        "state": "",
+        "country": "ar",
+        "lat": -27.4704,
+        "lon": -58.8304,
+        "postalCode": "meetup14",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Resistencia-Corrientes",
+      "urlname": "rladies-resistencia-corrientes"
+    },
+    "createdTime": "2019-04-08T20:37:10-04:00"
+  },
+  {
+    "id": "274998112",
+    "title": "¡Gran Cierre del año con R-Ladies!",
+    "description": "¡Se viene el último meetup del año y estamos felices porque lo co-organizamos en conjunto entre los capítulos de Bariloche, Mendoza, Córdoba, Santa Rosa, Ushuaia y Resistencia-Corrientes!\n\nVamos a aprovechar este último encuentro para repasar lo que hicimos durante este año tan particular. ¡Queremos celebrar el habernos encontrado a distancia con muchísimas personas que forman parte de la comunidad R en Argentina, Latinoamérica y el mundo! Si te perdiste algún meetup durante el año, aprovechá para ponerte al día sobre lo que hicimos y conocer los videos y materiales que generamos!\n\n¡También habrá código de R! Ana Laura Diedrichs de R-Ladies Mendoza nos contará sobre Tidymodels.\n\nCharla: Un tour por tidymodels\nSi te interesa machine learning o ya lo venís usando, {tidymodels} es un conjunto de paquetes que puede ayudarte en tu experimento de aprendizaje automático supervisado. Así sea clasificar imágenes o predecir el precio en el mercado inmobiliario, puedes usar el ecosistema tidymodels desde R para implementar tus modelos de aprendizaje automático: ya sean redes neuronales o bosques aleatorios. Además {tidymodels} permite implementar un flujo de trabajo ordenado para el entrenamiento y evaluación de tus modelos.\n\n¡Te esperamos!\n\n***IMPORTANTE***\nPara participar poné \"Asistiré\" en este evento y asegurate de tener también instalado Zoom en tu computadora (https://zoom.us/download).\n\nPor razones de seguridad no compartiremos el link para ingresar a Zoom de manera pública. El mismo lunes a las 17:30 hs. vamos a mandar un mail a través de Meetup a todas las personas que confirmaron asistencia con el link para que puedas unirte a la videollamada.",
+    "status": "PAST",
+    "dateTime": "2020-12-07T18:00:00-03:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-resistencia-corrientes/events/274998112/",
+    "featuredEventPhoto": {
+      "id": "493811927",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/e/9/7/highres_493811927.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/e/9/7/600_493811927.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/e/9/7/thumb_493811927.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 2,
+      "waitlistCount": 0,
+      "totalCount": 2
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Resistencia-Corrientes",
+      "urlname": "rladies-resistencia-corrientes"
+    },
+    "createdTime": "2020-12-04T21:01:23-05:00"
+  },
+  {
+    "id": "273547256",
+    "title": "Introducción a machine learning con tidymodels",
+    "description": "Este taller es introductorio y permitirá dar los primeros pasos en el universo tidymodels, el cual está formado por un conjunto de paquetes creados para aprendizaje automático siguiendo la filosofía tidyverse. El curso tendrá una breve introducción teórica y luego nos centraremos en entrenar y evaluar modelos de machine learning para resolver problemas de predicción y clasificación utilizando algunos de los paquetes como rsample, parsnip, yardstick, entre otros. Les asistente luego del curso podrán ejecutar modelos de predicción y clasificación y evaluar su performance. Dado que el cupo es limitado, contesta este cuestionario para saber si cuentas con los conocimientos necesarios para aprovechar esta reunión:\nhttp://bit.ly/preML_tidymodels\n\n¿Este curso es para mí?\nTen en cuenta que aprovecharás mejor el curso si:\n- Tienes conocimientos básicos del lenguaje R y la IDE de Rstudio.\n- Tienes un manejo básico de tidyverse.\n- Quieres tener un primer acercamiento al universo Tidymodels.\n- Quieres aprender sobre modelado predictivo utilizando los paquetes que forman parte de Tidymodels.",
+    "status": "PAST",
+    "dateTime": "2020-10-05T15:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-resistencia-corrientes/events/273547256/",
+    "featuredEventPhoto": {
+      "id": "492646369",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/5/2/1/highres_492646369.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/5/2/1/600_492646369.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/5/2/1/thumb_492646369.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 19,
+      "waitlistCount": 0,
+      "totalCount": 19
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Resistencia-Corrientes",
+      "urlname": "rladies-resistencia-corrientes"
+    },
+    "createdTime": "2020-09-27T12:15:14-04:00"
+  },
+  {
+    "id": "271931765",
+    "title": "Predictive modeling with text using tidy data principles - useR! 2020",
+    "description": "Los capítulos de R-Ladies en Argentina, entre ellos R-Ladies Rcia-Ctes, tenemos el agrado de anunciar que Emil Hvitfeldt y Julia Silge se unirán a nosotras para traernos su tutorial \"Predictive modeling with text using tidy data principles\".\n\n¿Alguna vez encontraste datos de texto y sospechaste que había información útil en esos datos?, ¿ Te sentiste con frustración al intentar ver cómo encontrar esa información? ¿Estás familiarizade con los conceptos básicos del modelado predictivo y estás liste para aprender cómo se pueden usar los datos de texto no estructurados para la predicción dentro de los ecosistemas tidyverse y tidymodels?\n¿Necesitas un marco flexible para manejar datos de texto que te permitan construir modelos predictivos supervisados?\nLos datos de texto son cada vez más importantes en muchos dominios, y los principios de tidymodels se pueden aplicar a las tareas de procesamiento del lenguaje natural. Esta presentación está diseñada para proporcionar orientación práctica y conocimiento directamente aplicable para científiques de datos y analistas que desean integrar texto en sus proyectos de modelado.\n\nEn este tutorial de 90 minutos, aprende a preprocesar datos de texto para modelar, entrenar modelos y evaluar el rendimiento del modelo. Usaremos diapositivas y codificación en vivo durante el tutorial para recorrer un estudio de caso realista. El tutorial se transmitirá, grabará y tendrá subtítulos en inglés. También habrá materiales de apoyo y código en GitHub para que puedas trabajar después.\n\nEste tutorial es apropiado para usuarixs de R de nivel intermedio, con conocimientos básicos de Rstudio, dplyr, ggplot2, y modelos de regresión y clasificación.\n\nComo en todos los eventos de R-Ladies, las personas que participan deben aceptar nuestro Código de Conducta. Para este evento, además adoptamos el Código de Conducta de useR! 2020.\n\n*** IMPORTANTE ***\nCabe aclarar que el tutorial será enteramente en inglés.\nPara participar y acceder al link de Zoom que publicaremos media hora antes del evento es necesario que hagas click en el botón \"ASISTIRÉ\".\n\n- ENGLISH VERSION -\nThis useR! 2020 online tutorial is coming Friday, July 24, 2020 at 20:00 UTC\nThe R-Ladies chapters from Argentina are happy to announce that Emil Hvitfeldt and Julia Silge will be joining us to run their tutorial \"Predictive modeling with text using tidy data principles\".\n\nHave you ever encountered text data and suspected there was useful insight latent within it but felt frustrated about how to find that insight?\nAre you familiar with the basics of predictive modeling, and ready to learn how unstructured text data can be used for prediction within the tidyverse and tidymodels ecosystems?\nDo you need a flexible framework for handling text data that empowers you to build supervised predictive models?\nText data is increasingly important in many domains, and tidy modeling principles can be applied to natural language processing tasks. This presentation is designed to provide practical guidance and directly applicable knowledge for data scientists and analysts who want to integrate text into their modeling pipelines.\n\nIn this 90-minute tutorial, learn how to preprocess text data for modeling, train models, and evaluate model performance. We will use slides and live coding during the tutorial to walk through a realistic case study. The tutorial will be streamed, recorded, and captioned, and there will be supporting materials and code on GitHub for you to work through afterward.\nThe tutorial is intended for people with intermediate familiarity with R, RStudio, basics of regression and classification modeling, and tidyverse packages such as dplyr and ggplot2.\n\nAs every R-Ladies event, all participants are required to agree to the Code of Conduct. In addition, we also adopt the useR! 2020 Code of Conduct.\n**** NOTICE ****\nTo participate and accesses to the Zoom link that will be published 30 minutes before the meetup, you have to click on the ATTEND button.",
+    "status": "PAST",
+    "dateTime": "2020-07-24T17:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-resistencia-corrientes/events/271931765/",
+    "featuredEventPhoto": {
+      "id": "491346099",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/7/d/3/highres_491346099.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/7/d/3/600_491346099.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/7/d/3/thumb_491346099.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 17,
+      "waitlistCount": 0,
+      "totalCount": 17
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Resistencia-Corrientes",
+      "urlname": "rladies-resistencia-corrientes"
+    },
+    "createdTime": "2020-07-14T22:07:36-04:00"
+  },
+  {
+    "id": "271608242",
+    "title": "Cómo hacer una reunión virtual inolvidable (sin morir en el intento)",
+    "description": "En este meetup te contaremos algunos trucos y herramientas para que cualquier evento virtual interactivo (por ejemplo, clase, taller o panel online) sea un éxito sin estrés adicional al hacerlo. Estos contenidos nos los traen R-Ladies latinoamericanas, en su mayoría certificadas para enseñar por RStudio Education y The Carpentries. La mayoría también es parte de MetaDocencia, una organización que desde fines de marzo realizó más de 25 talleres interactivos enseñando a enseñar online a más de 300 docentes hispanohablantes con excelentes resultados. Todas tienen vasta experiencia teletrabajando y enseñando online.\n\nOradoras: Yanina Bellini Saibene y Paola Corrales.\nOrganizan: Yanina Bellini Saibene, Paola Corrales, Paloma Rojas, Patricia Loto y Laura Acion.",
+    "status": "PAST",
+    "dateTime": "2020-07-01T14:00:00-03:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-resistencia-corrientes/events/271608242/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Resistencia-Corrientes",
+      "urlname": "rladies-resistencia-corrientes"
+    },
+    "createdTime": "2020-06-29T13:41:19-04:00"
+  },
+  {
+    "id": "268335749",
+    "title": "Nos visita FLOR: Aprendemos a hacer aplicaciones interactivas con Shiny!!!",
+    "description": "En nuestro primer meetup del año nos visita Florencia D'Andrea organizadora de Rladies Buenos Aires y el grupo de usuarios R en Baires. Vamos a estar aprendiendo sobre cómo desarrollar webapps con Shiny y vamos a tener ejercicios de live coding.\nShiny es una herramienta para crear fácilmente aplicaciones web interactivas (apps) que permiten a los usuarios interactuar con sus datos sin tener que manipular el código.\nPara ver ejemplos de shiny apps podes ver estos links:\nhttps://shiny.rstudio.com/gallery/\nhttps://blog.rstudio.com/2019/04/05/first-shiny-contest-winners/\n\nTené en cuenta que para que puedas aprovechar el taller es sumamente importante que traigas tu computadora portátil con R y Rstudio instalado. Y no olvides que también podes traer mate.\nEn esta oportunidad nos vamos a estar encontrando en el salón de posgrado de la Facultad de Ciencias Agrarias ubicada en J.B. Cabral 2131.\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2020-02-21T17:00:00-03:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-resistencia-corrientes/events/268335749/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 10,
+      "waitlistCount": 0,
+      "totalCount": 10
+    },
+    "venues": [
+      {
+        "id": "26838358",
+        "name": "Facultad de Ciencias Agrarias (UNNE)",
+        "address": "Juan Bautista Cabral 2131",
+        "city": "BKG",
+        "state": "Co",
+        "country": "ar",
+        "lat": -27.4592,
+        "lon": -58.8231,
+        "postalCode": "W3402",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Resistencia-Corrientes",
+      "urlname": "rladies-resistencia-corrientes"
+    },
+    "createdTime": "2020-01-30T18:39:17-05:00"
+  },
+  {
+    "id": "281819899",
+    "title": "gg+ : paquetes para extender las capacidades de ggplot2",
+    "description": "Los capítulos de R-Ladies Resistencia-Corrientes y R-Ladies Buenos Aires les traemos el tutorial \"gg+ : paquetes para extender las capacidades de ggplot2\" a cargo de Luis D. Verde Arregoitia (@LuisDVerde). Este taller es parte de los tutoriales de LatinR 2021 (https://latin-r.com/)y se dictará el jueves 4 a las 14hs (hora argentina) GMT-3.\n\nLuis va a mostrarnos distintos paquetes que se suman a ggplot2 para incorporar nuevas paletas de colores, representaciones gráficas y capas (geoms), y herramientas para acomodar y rotular elementos gráficos.\n\nSi sos fan de ggplot2 y querés conocer como extender sus funcionalidades o si estás buscando visualizar datos de forma eficiente y llamativa, ¡este tutorial es para vos!.\n\nREQUISITOS:\nPara aprovechar el tutorial al máximo, instalá previamente los paquetes dplyr, ggalt, ggridges, ggforce, patchwork, ggnewscale, scico, gghighlight, ggrepel, ggeasy, ggfx y ggh4x.\n\n***IMPORTANTE***\nPara participar selecciona \"Asistiré\" en este evento y asegúrate de tener instalado Zoom en tu computadora (https://zoom.us/download).\n\nPor razones de seguridad no compartiremos el link para ingresar a Zoom de manera pública. El mismo día del evento a las 13 hs enviaremos un mail a través de Meetup a todas las personas que confirmaron asistencia con el link para que puedas unirte a la videollamada.",
+    "status": "PAST",
+    "dateTime": "2021-11-04T14:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-resistencia-corrientes/events/281819899/",
+    "featuredEventPhoto": {
+      "id": "499944975",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/1/8/f/highres_499944975.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/1/8/f/600_499944975.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/1/8/f/thumb_499944975.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 17,
+      "waitlistCount": 6,
+      "totalCount": 17
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Resistencia-Corrientes",
+      "urlname": "rladies-resistencia-corrientes"
+    },
+    "createdTime": "2021-11-02T11:14:10-04:00"
+  },
+  {
+    "id": "285305412",
+    "title": "Generando tutoriales interactivos con el paquete {learnr}",
+    "description": "El presente taller es organizado por Metadocencia y hosteado por R-Ladies RciaCtes y R-Ladies Santa Rosa.\nEn este tutorial presentamos el **paquete learnr** para generar tutoriales interactivos. La idea de un documento rmarkdown que permita recorrer un contenido, contestar preguntas y ejecutar código para recibir feedback inmediato es muy poderosa. Especialmente si ese tutorial puede estar disponible como un paquete o como un sitio web o en RStudio. Si tienes clases remotas o asincrónicas, si tienes un paquete y quieres llevar la ayuda a otro nivel o si tienes alumnos iniciales y no quieres que sufran la instalación de las herramientas, un tutorial interactivo te puede ayudar.\n**Requisitos:**\nEs necesario tener RStudio instalado, además de los siguientes paquetes: **{rmarkdown}, {learnr} y {palmerpenguins}.**\n**Inscripción:**\nPara inscribirte ingresa a la [web del curso](https://www.metadocencia.org/curso/learnr/), y desplazate hasta la sección *Cómo participar.* En la última página del formulario de inscripción se te solicitará un código, utiliza RLADIES2022.\n**Dictantes:**\nEl taller será dictado por Paola corrales y Yanina Bellini.\n**Más Información:**\nSi necesitas mayor información, [accede](https://www.metadocencia.org/curso/learnr/) **[al sitio de {learnr}](https://www.metadocencia.org/curso/learnr/).**\n\n¡Te esperamos!",
+    "status": "PAST",
+    "dateTime": "2022-04-23T10:00:00-03:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-resistencia-corrientes/events/285305412/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Resistencia-Corrientes",
+      "urlname": "rladies-resistencia-corrientes"
+    },
+    "createdTime": "2022-04-15T20:42:55-04:00"
+  },
+  {
+    "id": "311341010",
+    "title": "Charlamos sobre RSE en español: evento virtual por el #IntlRSEday ",
+    "description": "**💻 Celebra el Día Internacional del Software de Investigación (#IntlRSEday) con la Comunidad**\n\n**El segundo jueves de octubre se celebra el Día Internacional del Software de Investigación (RSE Day, por sus siglas en inglés: Research Software Engineering).**\n**Pero, ¿qué es exactamente RSE y qué tiene que ver el lenguaje R con el desarrollo de software para la investigación? Si te has hecho estas preguntas, ¡este evento es para ti!**\n**Únete a nosotros el próximo 9 de octubre en este encuentro multi-comunidades, donde exploraremos el fascinante mundo de la Ingeniería de Software de Investigación.**\n\n**🤝 Organizan**\n**Este evento es una colaboración entre comunidades que impulsan el desarrollo de software y la ciencia abierta en Latinoamérica:**\n\n* **R-Ladies Resistencia-Corrientes**\n* **R en Buenos Aires**\n* **R-Ladies Chile**\n* **¡Te esperamos para conectar y aprender!**",
+    "status": "PAST",
+    "dateTime": "2025-10-09T14:00:00-03:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-resistencia-corrientes/events/311341010/",
+    "featuredEventPhoto": {
+      "id": "530514797",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/d/6/0/d/highres_530514797.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/d/6/0/d/600_530514797.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/6/0/d/thumb_530514797.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Resistencia-Corrientes",
+      "urlname": "rladies-resistencia-corrientes"
+    },
+    "createdTime": "2025-10-02T10:12:10-04:00"
+  },
+  {
+    "id": "307153480",
+    "title": "Desarrollando Paquetes de R con ayuda de rOpenSci.",
+    "description": "R-Ladies Resistencia-Corrientes y R-Ladies Santa Rosa organizan este meetup conjunto con el apoyo de rOpenSci y el RConsortium para introducirte en el mundo del desarrollo de paquetes de R e informarte sobre la posibilidad de formar parte del programa de campeones y campeonas de rOpenSci, versión en castellano y con foco en América Latina.\n\nYanina Bellini Saibene, Community Manager de rOpenSci nos contará sobre herramientas para desarrollar paquetes de R y cómo aplicar para ser parte del Programa de Campeones y campeonas de rOpenSci donde podes recibir entrenamiento, mentoría uno a uno y un estipendio para desarrollar tu paquete.\n\nSobre rOpenSci:\nrOpenSci es una iniciativa sin fines de lucro fundada en 2011 por Karthik Ram, Scott Chamberlain y Carl Boettiger. Dicha organización fomenta una cultura que valora la investigación **abierta** y **reproducible** utilizando datos **compartidos** y software reutilizable. Si querés conocer más: https://ropensci.org/es/.\n\nPara participar del evento, es necesario que te inscribas. ¡No pierdas esta oportunidad de conocer más sobre el programa de campeones y cómo postularte!",
+    "status": "PAST",
+    "dateTime": "2025-04-23T17:00:00-03:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-resistencia-corrientes/events/307153480/",
+    "featuredEventPhoto": {
+      "id": "527232254",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/f/d/e/highres_527232254.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/f/d/e/600_527232254.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/f/d/e/thumb_527232254.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Resistencia-Corrientes",
+      "urlname": "rladies-resistencia-corrientes"
+    },
+    "createdTime": "2025-04-06T21:09:00-04:00"
+  }
+]
