@@ -120,6 +120,46 @@
     "createdTime": "2026-09-26T02:32:03-04:00"
   },
   {
+    "id": "316945048",
+    "title": "Machine Learning in Epidemiology with R — Part II: From Trees to Neural Networks",
+    "description": "**How do different machine-learning models learn from the same data, and how can we compare their predictions?**\n\nJoin [R-Ladies Rome](https://rladiesrome.org/) for the second workshop in our **Machine Learning in Epidemiology with R** series, led by [Federica Gazzelloni](https://federicagazzelloni.com/).\n\nPart I introduced how models learn through loss and optimisation.\n\nPart II, we’ll put these ideas into practice by training and comparing decision trees, random forests and a simple neural network using a heart-disease classification example.\n\nWe’ll follow a complete workflow in R: explore the data, define a prediction task, train models and evaluate their performance on observations they have not seen during training.\n\n**What we’ll cover**\n\n* Decision trees and random forests with `mlr3`.\n* A simple neural network with Keras.\n* Layers, activation functions, epochs and batch sizes.\n* Training and validation loss.\n* Model comparison using accuracy, sensitivity, specificity and ROC/AUC.\n* Overfitting, cross-validation and the distinction between prediction and causation.\n\n**Who is this for?**\nThis workshop is for people interested in applying machine learning to epidemiology and health data. Basic familiarity with R and RStudio is recommended. The session builds on Part I and begins with a short recap.\n\n**What to bring**\nA computer with R and RStudio installed. Setup instructions and workshop materials will be shared before the session.\n\nBring your questions and join us for a practical exploration of how different models learn—and how we assess their predictions.",
+    "status": "ACTIVE",
+    "dateTime": "2026-10-23T18:00:00+02:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-rome/events/316945048/",
+    "featuredEventPhoto": {
+      "id": "536566245",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/b/4/a/5/highres_536566245.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/b/4/a/5/600_536566245.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/4/a/5/thumb_536566245.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 6,
+      "waitlistCount": 0,
+      "totalCount": 6
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Rome",
+      "urlname": "rladies-rome"
+    },
+    "createdTime": "2026-10-12T05:13:30-04:00"
+  },
+  {
     "id": "316562685",
     "title": "Everyone Makes a Map",
     "description": "Brittany is going to lead a group session on how to create a map! Bring your laptops, and be ready to join in. No prior mapping experience is necessary.\nWatch the comments on this event, we'll provide some data ahead of time to get you started!",
