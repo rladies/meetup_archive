@@ -1,5 +1,45 @@
 [
   {
+    "id": "316964015",
+    "title": "Conferencia Latinoamericana sobre Uso de R en Investigación + Desarrollo",
+    "description": "🎉 **¡R-Ladies Medellín te invita a LatinR 2026!** 💜📊\n\n¿Te interesa la ciencia de datos, la estadística, la programación en R o la inteligencia artificial? ¡Este evento es para ti!\n\nDel **11 al 13 de noviembre**, Medellín será el punto de encuentro de la comunidad latinoamericana que utiliza R para investigar, aprender e innovar.\n\n✨ Participa en conferencias, talleres prácticos y espacios para conectar con estudiantes, investigadores y profesionales de toda Latinoamérica.\n\n💻 Aprende nuevas herramientas, comparte experiencias y descubre cómo R está transformando la investigación y la industria.\n\n📍 **Lugar:** Universidad de Antioquia, Medellín\n📅 **Fecha:** 11–13 de noviembre de 2026\n\n🚀 **¡Inscríbete y sé parte de LatinR 2026!**\n\n👉 Consulta la información del evento y las inscripciones: [https://latinr.org/blog/es/2026-08-25-inscripcion.html]\n\n#LatinR2026 #RLadiesMedellin #RStats #DataScience #Estadística #InteligenciaArtificial",
+    "status": "ACTIVE",
+    "dateTime": "2026-11-11T07:00:00-05:00",
+    "duration": "PT59H",
+    "eventUrl": "https://www.meetup.com/rladies-medellin/events/316964015/",
+    "featuredEventPhoto": {
+      "id": "536590907",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/a/9/b/highres_536590907.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/a/9/b/600_536590907.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/a/9/b/thumb_536590907.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 2,
+      "waitlistCount": 0,
+      "totalCount": 2
+    },
+    "venues": [
+      {
+        "id": "28385731",
+        "name": "Universidad de Antioquia",
+        "address": "|, Cl. 67 #53 - 108, Aranjuez, Medellín, Aranjuez, Medellín, Antioquia, Colombia",
+        "city": "Medellín",
+        "state": "",
+        "country": "co",
+        "lat": 6.2682,
+        "lon": -75.5673,
+        "postalCode": "050010",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Medellín",
+      "urlname": "rladies-medellin"
+    },
+    "createdTime": "2026-10-13T15:19:47-04:00"
+  },
+  {
     "id": "316671506",
     "title": "De mi script a mi propio paquete",
     "description": "**De mi script a mi propio paquete: diseñando herramientas reproducibles en R** 📦✨\n\n¿Alguna vez escribiste un script para resolver un problema muy específico y después pensaste que podría servirle a alguien más? En esta sesión de RLadies+ Xalapa exploraremos cómo ese código que nació para salir del paso puede convertirse en una herramienta reutilizable, documentada y reproducible.\n\nSerá una charla-demostración muy accesible en la que construiremos juntas un mini ejemplo. Partiremos de unas pocas líneas de código, las convertiremos en una función y recorreremos los elementos básicos para transformarla en un pequeño paquete de R, incluyendo su documentación y una prueba sencilla.\n\nDespués conoceremos **rbims**, un paquete desarrollado para el análisis de datos metagenómicos, como ejemplo real de cómo este mismo proceso puede crecer hasta convertirse en una herramienta científica. No necesitas saber nada de metagenómica, porque el énfasis estará en R, la reproducibilidad y el diseño de software.\n\n👩‍💻 **¿A quién va dirigida?**\nA personas con conocimientos básicos de R que nunca han desarrollado un paquete y tienen curiosidad por dar ese siguiente paso.\n\n🧭 **¿Qué haremos?**\n\n* Una charla introductoria sobre por qué empaquetar nuestro código\n* Una demostración paso a paso, del script a la función y de la función al paquete\n* Un recorrido por rbims como caso real\n* Un espacio de preguntas y conversación\n\n**Facilitadora:** Dra. Mirna Vázquez Rosas Landa\n\nTe esperamos el sábado 31 de octubre de 2026 a las 17:00 horas (GMT-6). Puedes ir disfrazada🎃.\n\n**Código de conducta**\nRecuerda leer y atender nuestro código de conducta disponible [aquí](https://rladies.org/about-us/coc/).",
@@ -120,6 +160,166 @@
     "createdTime": "2026-09-26T02:32:03-04:00"
   },
   {
+    "id": "316960370",
+    "title": "22º Meet Up: Do ggplot2 à Interatividade,  Gráficos Dinâmicos - ggiraph e Plotly",
+    "description": "O curso terá 2 encontrosa presenciais de 3 horas cada. Um no dia 27/10 e o outro no dia 29/10, ambos de 14h às 17h.\nO minicurso aborda a criação de gráficos interativos em R com ggiraph, plotly e outros pacotes, a partir de visualizações construídas com ggplot2. Serão apresentados recursos de interação e personalização aplicados à exploração e comunicação de dados.",
+    "status": "ACTIVE",
+    "dateTime": "2026-10-27T14:00:00-03:00",
+    "duration": "PT51H",
+    "eventUrl": "https://www.meetup.com/rladies-niteroi/events/316960370/",
+    "featuredEventPhoto": {
+      "id": "536586667",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/a/0/b/highres_536586667.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/a/0/b/600_536586667.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/a/0/b/thumb_536586667.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [
+      {
+        "id": "28384876",
+        "name": "Niterói",
+        "address": "Niterói, Rio de Janeiro, Brazil",
+        "city": "Niterói",
+        "state": "RJ",
+        "country": "br",
+        "lat": -22.8859,
+        "lon": -43.1152,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Niterói",
+      "urlname": "rladies-niteroi"
+    },
+    "createdTime": "2026-10-13T09:54:53-04:00"
+  },
+  {
+    "id": "316960345",
+    "title": "21º Meet Up:  Introdução à linguagem Latex",
+    "description": "O curso terá 2 encontrosa presenciais de 3 horas cada. Um no dia 27/10 e o outro no dia 29/10, ambos de 10h às 13h.\nEste curso tem por objetivo apresentar os fundamentos da linguagem LaTeX e sua aplicação na elaboração de documentos científicos e técnicos. Com o auxílio do editor online Overleaf, serão introduzidos tópicos sobre a estrutura e formatação básica de documentos, organização de conteúdos, criação de tabelas e equações matemáticas e inserção de figuras, além da criação gerenciamento de citações e referências bibliográficas com o uso do BibTeX. Ao final, espera-se que os participantes estejam aptos a produzir documentos básicos em LaTeX de forma organizada, padronizada e profissional.",
+    "status": "ACTIVE",
+    "dateTime": "2026-10-27T10:00:00-03:00",
+    "duration": "PT51H",
+    "eventUrl": "https://www.meetup.com/rladies-niteroi/events/316960345/",
+    "featuredEventPhoto": {
+      "id": "536586633",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/9/e/9/highres_536586633.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/9/e/9/600_536586633.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/9/e/9/thumb_536586633.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 2,
+      "waitlistCount": 0,
+      "totalCount": 2
+    },
+    "venues": [
+      {
+        "id": "28384876",
+        "name": "Niterói",
+        "address": "Niterói, Rio de Janeiro, Brazil",
+        "city": "Niterói",
+        "state": "RJ",
+        "country": "br",
+        "lat": -22.8859,
+        "lon": -43.1152,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Niterói",
+      "urlname": "rladies-niteroi"
+    },
+    "createdTime": "2026-10-13T09:50:45-04:00"
+  },
+  {
+    "id": "316960322",
+    "title": "20º Meet Up: Análise de Séries Temporais utilizando o pacote fable",
+    "description": "O curso terá 2 encontrosa presenciais de 3 horas cada. Um no dia 26/10 e o outro no dia 30/10, ambos de 14h às 17h.\nEste curso apresenta, de forma prática, a análise e a previsão de séries temporais em R com os pacotes tsibble, feasts e fable, seguindo a abordagem do livro Forecasting: Principles and Practice (3a ed.), de Hyndman e Athanasopoulos. A primeira parte trata das ferramentas descritivas: organização dos dados, gráficos, identificação de tendência e sazonalidade, autocorrelação e decomposição. A segunda parte trata dos modelos de previsão: suavização exponencial (ETS) e ARIMA, com diagnóstico de resíduos, intervalos de previsão e comparação da acurácia entre modelos. Ao final, o aluno será capaz de usar as ferramentas adotadas no livro para explorar uma série temporal, ajustar modelos e avaliar as previsões obtidas.",
+    "status": "ACTIVE",
+    "dateTime": "2026-10-26T14:00:00-03:00",
+    "duration": "PT99H",
+    "eventUrl": "https://www.meetup.com/rladies-niteroi/events/316960322/",
+    "featuredEventPhoto": {
+      "id": "536586601",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/9/c/9/highres_536586601.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/9/c/9/600_536586601.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/9/c/9/thumb_536586601.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 2,
+      "waitlistCount": 0,
+      "totalCount": 2
+    },
+    "venues": [
+      {
+        "id": "28384876",
+        "name": "Niterói",
+        "address": "Niterói, Rio de Janeiro, Brazil",
+        "city": "Niterói",
+        "state": "RJ",
+        "country": "br",
+        "lat": -22.8859,
+        "lon": -43.1152,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Niterói",
+      "urlname": "rladies-niteroi"
+    },
+    "createdTime": "2026-10-13T09:46:51-04:00"
+  },
+  {
+    "id": "316960157",
+    "title": "19º Meet Up: Curso Análise de Séries Temporais utilizando o pacote fable",
+    "description": "O curso terá 2 encontrosa presenciais de 2 horas cada. Um no dia 26/10 e o outro no dia 30/10, ambos de 11h às 13h.\nEste minicurso apresenta conceitos e técnicas introdutórias para a análise de dados textuais, combinando explicações e atividades práticas em R. A partir de uma base previamente disponibilizada, serão abordadas as principais etapas de pré-processamento e a exploração de palavras e expressões frequentes. Em seguida, será introduzida a análise de sentimentos baseada em léxicos, com discussão sobre a interpretação dos resultados e as limitações dessa abordagem. Por fim, serão apresentadas técnicas de vetorização de textos, incluindo Bag of Words, TF-IDF e Doc2Vec, destacando suas diferenças e possibilidades de aplicação.",
+    "status": "ACTIVE",
+    "dateTime": "2026-10-26T11:00:00-03:00",
+    "duration": "PT98H",
+    "eventUrl": "https://www.meetup.com/rladies-niteroi/events/316960157/",
+    "featuredEventPhoto": {
+      "id": "536586382",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/1/8/e/e/highres_536586382.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/1/8/e/e/600_536586382.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/8/e/e/thumb_536586382.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "28384876",
+        "name": "Niterói",
+        "address": "Niterói, Rio de Janeiro, Brazil",
+        "city": "Niterói",
+        "state": "RJ",
+        "country": "br",
+        "lat": -22.8859,
+        "lon": -43.1152,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Niterói",
+      "urlname": "rladies-niteroi"
+    },
+    "createdTime": "2026-10-13T09:36:11-04:00"
+  },
+  {
     "id": "316945048",
     "title": "Machine Learning in Epidemiology with R — Part II: From Trees to Neural Networks",
     "description": "**How do different machine-learning models learn from the same data, and how can we compare their predictions?**\n\nJoin [R-Ladies Rome](https://rladiesrome.org/) for the second workshop in our **Machine Learning in Epidemiology with R** series, led by [Federica Gazzelloni](https://federicagazzelloni.com/).\n\nPart I introduced how models learn through loss and optimisation.\n\nPart II, we’ll put these ideas into practice by training and comparing decision trees, random forests and a simple neural network using a heart-disease classification example.\n\nWe’ll follow a complete workflow in R: explore the data, define a prediction task, train models and evaluate their performance on observations they have not seen during training.\n\n**What we’ll cover**\n\n* Decision trees and random forests with `mlr3`.\n* A simple neural network with Keras.\n* Layers, activation functions, epochs and batch sizes.\n* Training and validation loss.\n* Model comparison using accuracy, sensitivity, specificity and ROC/AUC.\n* Overfitting, cross-validation and the distinction between prediction and causation.\n\n**Who is this for?**\nThis workshop is for people interested in applying machine learning to epidemiology and health data. Basic familiarity with R and RStudio is recommended. The session builds on Part I and begins with a short recap.\n\n**What to bring**\nA computer with R and RStudio installed. Setup instructions and workshop materials will be shared before the session.\n\nBring your questions and join us for a practical exploration of how different models learn—and how we assess their predictions.",
@@ -135,9 +335,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/4/a/5/thumb_536566245.jpeg"
     },
     "rsvps": {
-      "yesCount": 21,
+      "yesCount": 22,
       "waitlistCount": 0,
-      "totalCount": 21
+      "totalCount": 22
     },
     "venues": [
       {
@@ -175,9 +375,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/a/e/5/thumb_536151941.jpeg"
     },
     "rsvps": {
-      "yesCount": 9,
+      "yesCount": 7,
       "waitlistCount": 0,
-      "totalCount": 9
+      "totalCount": 7
     },
     "venues": [
       {
@@ -203,7 +403,7 @@
     "id": "316511218",
     "title": "R Peer Teaching",
     "description": "Join us for a relaxed evening of learning and good company—we're hosting a peer teaching evening.\n\nIn the first half you have time to explore a package of your choosing (e.g., looking at the vignette, what are the beginning functions to know). Then in the last half\nwe'll take a round to share what we learned. You can find some inspiration for R packages here: https://medium.com/@ZhouAnnaWrites/20-useful-r-packages-you-may-not-know-about-54d57fe604f3\n\nWhether you're a beginner looking for a nudge in the right direction or a seasoned R-user happy to share what you know, you're welcome here!\n\nThe event will take place in the room ØHM11. The outer door is locked, but we will wait outside to let you in, or call me on 92076982\nMazemap: https://link.mazemap.com/E1NxhvoO\nGoogle maps: https://maps.app.goo.gl/MbuZZPL8m2simBwd9\n\nThe room may be a bit confusing to find, because it is NOT in the main building of Øya helsehus, it is in a smaller building right east of it.",
-    "status": "ACTIVE",
+    "status": "PAST",
     "dateTime": "2026-10-13T17:00:00+02:00",
     "duration": "PT1H30M",
     "eventUrl": "https://www.meetup.com/rladies-trondheim/events/316511218/",
