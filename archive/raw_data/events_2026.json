@@ -15,9 +15,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/a/9/b/thumb_536590907.jpeg"
     },
     "rsvps": {
-      "yesCount": 2,
+      "yesCount": 4,
       "waitlistCount": 0,
-      "totalCount": 2
+      "totalCount": 4
     },
     "venues": [
       {
@@ -118,6 +118,46 @@
       "urlname": "rladies-melbourne"
     },
     "createdTime": "2026-10-07T07:09:12-04:00"
+  },
+  {
+    "id": "316877962",
+    "title": "Making Data Speak: Static and Interactive Plots in R",
+    "description": "Just like last year, we are welcoming the new academic year with a hands-on introduction to R, this time with a focus on data visualization. As we promote gender diversity and inclusion in the R community, all genders and skill levels in R are welcome!\n\n**ℹ️ Abstract**\nA hands-on introduction to data visualization in R for beginners. You’ll learn how to prepare your data for plotting, create clear and attractive graphics with the R package ***ggplot2***, and add interactive features using the ***plotly*** package.\n\n**💡 What to prepare**\n\n* Before the workshop, install **R** and **RStudio** on your laptop by following the 2-step guide at **[https://posit.co/download/rstudio-desktop/](https://posit.co/download/rstudio-desktop/)**\n* On the workshop day, bring your laptop to follow the workshop material closely and code along with us!\n* (Optional) Bring a dataset you would like to work with\n\n**🗺️ Location**\nSeminar Room DB yellow 09 / Sem.R. DB gelb 09\n(DB09E23)\n9th floor, yellow area\nTU Wien Freihaus\nWiedner Hauptstraße 8-10, 1040 Vienna ([map](https://maps.app.goo.gl/N8PSCZfdi97KirFY6))\n\n**📍 How to find us**\nIn the yellow area of TU Wien Freihaus, take the lift to the 9th floor. After exiting the lift, turn left and walk through the door. The seminar room will be on your left.\nUse this [floor plan](https://maps.tuwien.ac.at/?q=DB09E23#map) to help locate the room.",
+    "status": "ACTIVE",
+    "dateTime": "2026-10-28T18:00:00+01:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-vienna/events/316877962/",
+    "featuredEventPhoto": {
+      "id": "536599177",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/a/e/9/highres_536599177.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/a/e/9/600_536599177.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/a/e/9/thumb_536599177.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "28156662",
+        "name": "TU Wien Freihaus",
+        "address": "Wiedner Hauptstraße 8-10",
+        "city": "Vienna",
+        "state": "",
+        "country": "at",
+        "lat": 48.1988,
+        "lon": 16.3677,
+        "postalCode": "meetup1",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "RLadies+ Vienna",
+      "urlname": "rladies-vienna"
+    },
+    "createdTime": "2026-10-06T23:03:06-04:00"
   },
   {
     "id": "316720371",
