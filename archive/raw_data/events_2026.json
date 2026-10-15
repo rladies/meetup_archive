@@ -1,5 +1,51 @@
 [
   {
+    "id": "316973463",
+    "title": "Coder en SHS à l'heure de l'IA : quels parcours et quels tournants ?",
+    "description": "Le thème de cette séance sera le suivant :\n\n**\"Coder sous R en SHS : transmission d'un apprentissage de R en mutation\"**\n\nTable ronde et échanges avec le public.\n\nAnimatrices : Dina Santos Araujo & Maelle Amand\n\nDate : vendredi 4 décembre 2026 de 17:00-18:30\n\nLieu : salle de formation BU droit, Limoges (rez de jardin).\n\nPour nous suivre en ligne : https://bbb.unilim.fr/b/rooms/4qc-idv-2v3-3rd/join\n\nSuivi d'un échange autour d'un verre au marché des jacobins : [16 Rue des Sœurs de la Rivière, 87000 Limoges](https://www.google.com/maps/place//data=!4m2!3m1!1s0x47f93512c98217f3:0x3fe6393af63e999d?sa=X&ved=1t:8290&ictx=111)",
+    "status": "ACTIVE",
+    "dateTime": "2026-12-04T17:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-limoges/events/316973463/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 2,
+      "waitlistCount": 0,
+      "totalCount": 2
+    },
+    "venues": [
+      {
+        "id": "28388080",
+        "name": "BU Droit et Sciences Economiques",
+        "address": "5 Rue Félix Eboué, 87000 Limoges, France",
+        "city": "Limoges",
+        "state": "",
+        "country": "fr",
+        "lat": 45.8251,
+        "lon": 1.2599,
+        "postalCode": "87000",
+        "venueType": ""
+      },
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Limoges",
+      "urlname": "rladies-limoges"
+    },
+    "createdTime": "2026-10-14T07:30:46-04:00"
+  },
+  {
     "id": "316964015",
     "title": "Conferencia Latinoamericana sobre Uso de R en Investigación + Desarrollo",
     "description": "🎉 **¡R-Ladies Medellín te invita a LatinR 2026!** 💜📊\n\n¿Te interesa la ciencia de datos, la estadística, la programación en R o la inteligencia artificial? ¡Este evento es para ti!\n\nDel **11 al 13 de noviembre**, Medellín será el punto de encuentro de la comunidad latinoamericana que utiliza R para investigar, aprender e innovar.\n\n✨ Participa en conferencias, talleres prácticos y espacios para conectar con estudiantes, investigadores y profesionales de toda Latinoamérica.\n\n💻 Aprende nuevas herramientas, comparte experiencias y descubre cómo R está transformando la investigación y la industria.\n\n📍 **Lugar:** Universidad de Antioquia, Medellín\n📅 **Fecha:** 11–13 de noviembre de 2026\n\n🚀 **¡Inscríbete y sé parte de LatinR 2026!**\n\n👉 Consulta la información del evento y las inscripciones: [https://latinr.org/blog/es/2026-08-25-inscripcion.html]\n\n#LatinR2026 #RLadiesMedellin #RStats #DataScience #Estadística #InteligenciaArtificial",
@@ -15,9 +61,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/a/9/b/thumb_536590907.jpeg"
     },
     "rsvps": {
-      "yesCount": 4,
+      "yesCount": 5,
       "waitlistCount": 0,
-      "totalCount": 4
+      "totalCount": 5
     },
     "venues": [
       {
@@ -128,16 +174,16 @@
     "duration": "PT1H30M",
     "eventUrl": "https://www.meetup.com/rladies-vienna/events/316877962/",
     "featuredEventPhoto": {
-      "id": "536599177",
+      "id": "536601425",
       "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/a/e/9/highres_536599177.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/a/e/9/600_536599177.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/a/e/9/thumb_536599177.jpeg"
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/3/b/1/highres_536601425.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/3/b/1/600_536601425.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/3/b/1/thumb_536601425.jpeg"
     },
     "rsvps": {
-      "yesCount": 3,
+      "yesCount": 5,
       "waitlistCount": 0,
-      "totalCount": 3
+      "totalCount": 5
     },
     "venues": [
       {
@@ -181,15 +227,15 @@
     },
     "venues": [
       {
-        "id": "28351180",
-        "name": "Vancouver Public Library - Mount Pleasant Branch",
-        "address": "1 Kingsway, Vancouver, BC V5T 0A1, Canada",
+        "id": "28391584",
+        "name": "Vancouver Independent School for Science and Technology",
+        "address": "1490 W Broadway #200, Vancouver, BC V6H 1H5, Canada",
         "city": "Vancouver",
         "state": "BC",
         "country": "ca",
-        "lat": 49.2644,
-        "lon": -123.1003,
-        "postalCode": "V5T 0A1",
+        "lat": 49.2634,
+        "lon": -123.1382,
+        "postalCode": "V6H 1H5",
         "venueType": ""
       }
     ],
@@ -215,9 +261,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/a/0/b/thumb_536586667.jpeg"
     },
     "rsvps": {
-      "yesCount": 5,
+      "yesCount": 6,
       "waitlistCount": 0,
-      "totalCount": 5
+      "totalCount": 6
     },
     "venues": [
       {
