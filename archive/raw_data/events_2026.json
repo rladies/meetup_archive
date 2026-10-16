@@ -86,6 +86,46 @@
     "createdTime": "2026-10-13T15:19:47-04:00"
   },
   {
+    "id": "316999871",
+    "title": "Cuando los datos no son normales: Guía amigable de GLM para la ecología",
+    "description": "En el mundo real —y especialmente en ecología y biología— los datos casi nunca siguen una distribución normal perfecta. Conteos de especies, presencias/ausencias o proporciones suelen romper los supuestos de los modelos lineales tradicionales (LM).\n\nEn este taller teórico-práctico, la **Dra. Marisol Martínez Ramos** nos llevará de la mano para entender e implementar los **Modelos Lineales Generalizados (GLM)** en R de una manera accesible, intuitiva y aplicada a problemas ecológicos.\n\n### 🎙️ Sobre la ponente\n\n**Dra. Marisol Martínez Ramos**\nEspecialista en ecología, análisis estadístico y modelación de datos aplicados a las ciencias biológicas.\n\n### 📅 Detalles del evento\n\n* **Fecha:** Martes, 10 de noviembre de 2026\n* **Modalidad:** Virtual (Google Meet)\n* **Costo:** 100% Gratuito\n\n> ⚠️ *El enlace a Google Meet se activará para las personas registradas unos minutos antes de iniciar el taller.*\n\n### 💜 Sobre R-Ladies\n\nR-Ladies es una organización mundial que promueve la diversidad de género en la comunidad de R. Todos nuestros eventos son gratuitos y se rigen bajo el Código de Conducta de R-Ladies Global. ¡Comunidad abierta a todos los niveles de conocimiento!",
+    "status": "ACTIVE",
+    "dateTime": "2026-11-10T16:00:00-06:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-villahermosa/events/316999871/",
+    "featuredEventPhoto": {
+      "id": "536624396",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/a/d/6/c/highres_536624396.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/a/d/6/c/600_536624396.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/d/6/c/thumb_536624396.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 2,
+      "waitlistCount": 0,
+      "totalCount": 2
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Villahermosa",
+      "urlname": "rladies-villahermosa"
+    },
+    "createdTime": "2026-10-15T16:26:52-04:00"
+  },
+  {
     "id": "316671506",
     "title": "De mi script a mi propio paquete",
     "description": "**De mi script a mi propio paquete: diseñando herramientas reproducibles en R** 📦✨\n\n¿Alguna vez escribiste un script para resolver un problema muy específico y después pensaste que podría servirle a alguien más? En esta sesión de RLadies+ Xalapa exploraremos cómo ese código que nació para salir del paso puede convertirse en una herramienta reutilizable, documentada y reproducible.\n\nSerá una charla-demostración muy accesible en la que construiremos juntas un mini ejemplo. Partiremos de unas pocas líneas de código, las convertiremos en una función y recorreremos los elementos básicos para transformarla en un pequeño paquete de R, incluyendo su documentación y una prueba sencilla.\n\nDespués conoceremos **rbims**, un paquete desarrollado para el análisis de datos metagenómicos, como ejemplo real de cómo este mismo proceso puede crecer hasta convertirse en una herramienta científica. No necesitas saber nada de metagenómica, porque el énfasis estará en R, la reproducibilidad y el diseño de software.\n\n👩‍💻 **¿A quién va dirigida?**\nA personas con conocimientos básicos de R que nunca han desarrollado un paquete y tienen curiosidad por dar ese siguiente paso.\n\n🧭 **¿Qué haremos?**\n\n* Una charla introductoria sobre por qué empaquetar nuestro código\n* Una demostración paso a paso, del script a la función y de la función al paquete\n* Un recorrido por rbims como caso real\n* Un espacio de preguntas y conversación\n\n**Facilitadora:** Dra. Mirna Vázquez Rosas Landa\n\nTe esperamos el sábado 31 de octubre de 2026 a las 17:00 horas (GMT-6). Puedes ir disfrazada🎃.\n\n**Código de conducta**\nRecuerda leer y atender nuestro código de conducta disponible [aquí](https://rladies.org/about-us/coc/).",
@@ -181,9 +221,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/3/b/1/thumb_536601425.jpeg"
     },
     "rsvps": {
-      "yesCount": 5,
+      "yesCount": 8,
       "waitlistCount": 0,
-      "totalCount": 5
+      "totalCount": 8
     },
     "venues": [
       {
@@ -421,9 +461,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/4/a/5/thumb_536566245.jpeg"
     },
     "rsvps": {
-      "yesCount": 23,
+      "yesCount": 24,
       "waitlistCount": 0,
-      "totalCount": 23
+      "totalCount": 24
     },
     "venues": [
       {
