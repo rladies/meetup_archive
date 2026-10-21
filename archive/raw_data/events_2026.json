@@ -101,9 +101,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/d/6/c/thumb_536624396.jpeg"
     },
     "rsvps": {
-      "yesCount": 5,
+      "yesCount": 6,
       "waitlistCount": 0,
-      "totalCount": 5
+      "totalCount": 6
     },
     "venues": [
       {
@@ -286,6 +286,46 @@
     "createdTime": "2026-10-07T07:09:12-04:00"
   },
   {
+    "id": "317064838",
+    "title": "Interpréter des variables latentes avec le package R {NaileR}",
+    "description": "Rejoignez-nous le mercredi 28 octobre à 19 h en ligne sur Zoom pour une session dédiée à la valorisation et à l’explication de vos analyses de données.\n\nNous aurons le plaisir d’accueillir Sébastien Lê, enseignant-chercheur en statistique et science des données à l’Institut Agro Rennes-Angers, pour une présentation intitulée :\n📊 « Interpréter des variables latentes avec le package R NaileR : focus méthodologique et application ».\n\nRésumé de l’intervention : Interpréter des variables latentes avec le package R NaileR : focus méthodologique et application\nLe package NaileR est conçu pour guider et automatiser l’interprétation de variables latentes, qu'elles soient continues (ex. dimensions factorielles issues d'une ACP ou d'une ACM) ou catégorielles (ex. groupes issus d'une classification non supervisée).\n\nLoin d'une simple génération textuelle « à l’aveugle », NaileR propose une démarche contrôlable d'aide à l'interprétation. Le package s'appuie sur un système de prompting modulaire qui structure les sorties statistiques fournies au modèle de langage. Au-delà de la synthèse narrative et des propositions de dénominations de concepts, l'outil garantit une traçabilité indispensable au travail du statisticien : il intègre la possibilité de revenir aisément aux preuves empiriques afin d'étayer, vérifier et valider objectivement chaque interprétation.\n\nCette méthodologie trouve une application concrète dans l'étude des systèmes alimentaires durables. Dans le cadre d'un questionnaire administré à plus de 500 répondants autour de 45 assertions, une typologie d'individus a été identifiée. NaileR permet alors de caractériser les profils d'attentes et de valeurs des répondants, en fournissant une interprétation ancrée dans les faits statistiques du jeu de données.\nSébastien illustrera cette approche par un cas concret issu des systèmes alimentaires durables (typologie d'attentes sur plus de 500 répondants).\n\n🔗 Inscription et lien Zoom sur notre page Meetup.\n\nNous avons hâte de vous y retrouver ! 👋",
+    "status": "ACTIVE",
+    "dateTime": "2026-10-28T19:00:00+01:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-paris/events/317064838/",
+    "featuredEventPhoto": {
+      "id": "536718519",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/8/5/7/highres_536718519.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/8/5/7/600_536718519.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/8/5/7/thumb_536718519.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "RLadies+ Paris",
+      "urlname": "rladies-paris"
+    },
+    "createdTime": "2026-10-20T17:50:14-04:00"
+  },
+  {
     "id": "316877962",
     "title": "Making Data Speak: Static and Interactive Plots in R",
     "description": "Just like last year, we are welcoming the new academic year with a hands-on introduction to R, this time with a focus on data visualization. As we promote gender diversity and inclusion in the R community, all genders and skill levels in R are welcome!\n\n**ℹ️ Abstract**\nA hands-on introduction to data visualization in R for beginners. You’ll learn how to prepare your data for plotting, create clear and attractive graphics with the R package ***ggplot2***, and add interactive features using the ***plotly*** package.\n\n**💡 What to prepare**\n\n* Before the workshop, install **R** and **RStudio** on your laptop by following the 2-step guide at **[https://posit.co/download/rstudio-desktop/](https://posit.co/download/rstudio-desktop/)**\n* On the workshop day, bring your laptop to follow the workshop material closely and code along with us!\n* (Optional) Bring a dataset you would like to work with\n\n**🗺️ Location**\nSeminar Room DB yellow 09 / Sem.R. DB gelb 09\n(DB09E23)\n9th floor, yellow area\nTU Wien Freihaus\nWiedner Hauptstraße 8-10, 1040 Vienna ([map](https://maps.app.goo.gl/N8PSCZfdi97KirFY6))\n\n**📍 How to find us**\nIn the yellow area of TU Wien Freihaus, take the lift to the 9th floor. After exiting the lift, turn left and walk through the door. The seminar room will be on your left.\nUse this [floor plan](https://maps.tuwien.ac.at/?q=DB09E23#map) to help locate the room.",
@@ -446,6 +486,40 @@
     "createdTime": "2026-10-13T09:50:45-04:00"
   },
   {
+    "id": "317064741",
+    "title": "Project support and welcoming",
+    "description": "We will welcome new members and listen how can we help Yessica's project",
+    "status": "ACTIVE",
+    "dateTime": "2026-10-27T09:00:00-06:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-morelia/events/317064741/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 6,
+      "waitlistCount": 0,
+      "totalCount": 6
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Morelia",
+      "urlname": "rladies-morelia"
+    },
+    "createdTime": "2026-10-20T17:37:38-04:00"
+  },
+  {
     "id": "316960322",
     "title": "20º Meet Up: Análise de Séries Temporais utilizando o pacote fable",
     "description": "O curso terá 2 encontrosa presenciais de 3 horas cada. Um no dia 26/10 e o outro no dia 30/10, ambos de 14h às 17h.\nEste curso apresenta, de forma prática, a análise e a previsão de séries temporais em R com os pacotes tsibble, feasts e fable, seguindo a abordagem do livro Forecasting: Principles and Practice (3a ed.), de Hyndman e Athanasopoulos. A primeira parte trata das ferramentas descritivas: organização dos dados, gráficos, identificação de tendência e sazonalidade, autocorrelação e decomposição. A segunda parte trata dos modelos de previsão: suavização exponencial (ETS) e ARIMA, com diagnóstico de resíduos, intervalos de previsão e comparação da acurácia entre modelos. Ao final, o aluno será capaz de usar as ferramentas adotadas no livro para explorar uma série temporal, ajustar modelos e avaliar as previsões obtidas.",
@@ -461,9 +535,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/9/c/9/thumb_536586601.jpeg"
     },
     "rsvps": {
-      "yesCount": 3,
+      "yesCount": 4,
       "waitlistCount": 0,
-      "totalCount": 3
+      "totalCount": 4
     },
     "venues": [
       {
@@ -501,9 +575,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/8/e/e/thumb_536586382.jpeg"
     },
     "rsvps": {
-      "yesCount": 4,
+      "yesCount": 5,
       "waitlistCount": 0,
-      "totalCount": 4
+      "totalCount": 5
     },
     "venues": [
       {
@@ -541,9 +615,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/4/a/5/thumb_536566245.jpeg"
     },
     "rsvps": {
-      "yesCount": 29,
+      "yesCount": 30,
       "waitlistCount": 0,
-      "totalCount": 29
+      "totalCount": 30
     },
     "venues": [
       {
