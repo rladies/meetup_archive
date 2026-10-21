@@ -46,6 +46,46 @@
     "createdTime": "2026-10-14T07:30:46-04:00"
   },
   {
+    "id": "317067329",
+    "title": "Big Data? No Problem! An introduction to arrow for R",
+    "description": "Working with data that's too large, too slow, or too messy for regular CSVs? Join us for an introduction to the {arrow} package in R. We'll explore how Arrow and Parquet files can make large datasets faster to store, read, and analyze, all while using the familiar dplyr workflows you already know and love. Using Portland's Biketown data, we'll convert, query, and visualize millions of rides without breaking a sweat (or our laptops).\n\nBring your laptop if you want to follow along.",
+    "status": "ACTIVE",
+    "dateTime": "2026-11-16T17:00:00-08:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-pdx/events/317067329/",
+    "featuredEventPhoto": {
+      "id": "536720448",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/f/e/0/highres_536720448.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/f/e/0/600_536720448.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/f/e/0/thumb_536720448.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 5,
+      "waitlistCount": 0,
+      "totalCount": 5
+    },
+    "venues": [
+      {
+        "id": "28409853",
+        "name": "Lucky Labrador Brew Pub",
+        "address": "915 SE Hawthorne Blvd, Portland, OR 97214, USA",
+        "city": "Portland",
+        "state": "OR",
+        "country": "us",
+        "lat": 45.5125,
+        "lon": -122.6564,
+        "postalCode": "97214",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies PDX",
+      "urlname": "rladies-pdx"
+    },
+    "createdTime": "2026-10-20T20:53:03-04:00"
+  },
+  {
     "id": "316964015",
     "title": "Conferencia Latinoamericana sobre Uso de R en Investigación + Desarrollo",
     "description": "🎉 **¡R-Ladies Medellín te invita a LatinR 2026!** 💜📊\n\n¿Te interesa la ciencia de datos, la estadística, la programación en R o la inteligencia artificial? ¡Este evento es para ti!\n\nDel **11 al 13 de noviembre**, Medellín será el punto de encuentro de la comunidad latinoamericana que utiliza R para investigar, aprender e innovar.\n\n✨ Participa en conferencias, talleres prácticos y espacios para conectar con estudiantes, investigadores y profesionales de toda Latinoamérica.\n\n💻 Aprende nuevas herramientas, comparte experiencias y descubre cómo R está transformando la investigación y la industria.\n\n📍 **Lugar:** Universidad de Antioquia, Medellín\n📅 **Fecha:** 11–13 de noviembre de 2026\n\n🚀 **¡Inscríbete y sé parte de LatinR 2026!**\n\n👉 Consulta la información del evento y las inscripciones: [https://latinr.org/blog/es/2026-08-25-inscripcion.html]\n\n#LatinR2026 #RLadiesMedellin #RStats #DataScience #Estadística #InteligenciaArtificial",
@@ -101,9 +141,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/d/6/c/thumb_536624396.jpeg"
     },
     "rsvps": {
-      "yesCount": 6,
+      "yesCount": 7,
       "waitlistCount": 0,
-      "totalCount": 6
+      "totalCount": 7
     },
     "venues": [
       {
@@ -221,9 +261,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/0/f/3/thumb_536273491.jpeg"
     },
     "rsvps": {
-      "yesCount": 7,
+      "yesCount": 8,
       "waitlistCount": 0,
-      "totalCount": 7
+      "totalCount": 8
     },
     "venues": [
       {
@@ -301,9 +341,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/8/5/7/thumb_536718519.jpeg"
     },
     "rsvps": {
-      "yesCount": 3,
+      "yesCount": 11,
       "waitlistCount": 0,
-      "totalCount": 3
+      "totalCount": 11
     },
     "venues": [
       {
@@ -381,9 +421,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/3/f/0/thumb_536313776.jpeg"
     },
     "rsvps": {
-      "yesCount": 10,
+      "yesCount": 11,
       "waitlistCount": 0,
-      "totalCount": 10
+      "totalCount": 11
     },
     "venues": [
       {
@@ -615,9 +655,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/4/a/5/thumb_536566245.jpeg"
     },
     "rsvps": {
-      "yesCount": 30,
+      "yesCount": 31,
       "waitlistCount": 0,
-      "totalCount": 30
+      "totalCount": 31
     },
     "venues": [
       {
