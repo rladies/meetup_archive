@@ -141,9 +141,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/d/6/c/thumb_536624396.jpeg"
     },
     "rsvps": {
-      "yesCount": 7,
+      "yesCount": 9,
       "waitlistCount": 0,
-      "totalCount": 7
+      "totalCount": 9
     },
     "venues": [
       {
@@ -200,14 +200,20 @@
     "createdTime": "2026-10-19T23:13:52-04:00"
   },
   {
-    "id": "316877970",
+    "id": "317070743",
     "title": "Bayesian Spatial Prediction with R-INLA",
-    "description": "This 90-minute hands-on tutorial is for R users with no previous INLA experience. Using real data, we build a complete spatial model step by step.\nWe then predict on a grid, generate diagnostic plots and check the predictions through cross-validation. If time permits, we also introduce spatio-temporal and areal models.\n\nAs we promote gender diversity and inclusion in the R community, all genders and skill levels in R are welcome!\n\n**ℹ️ Abstract**\nEnvironmental data are often coming from measurement stations. The goal is a map the data over the whole domain of interest, with an honest statement of uncertainty. Bayesian geostatistical models do this well, but fitting them with MCMC is slow, because each iteration works with a dense covariance matrix. INLA offers a fast deterministic alternative for latent Gaussian models. Combined with the SPDE approach, it represents a Matérn field on a triangle mesh with a sparse precision matrix.\n\n**🗺️ Location**\n**In-person / Zoom**\nSeminar Room DA green 02A / Sem.R. DA grün 02 A\n(DA02E08)\n2th floor, green area\nTU Wien Freihaus\nWiedner Hauptstraße 8-10, 1040 Vienna ([map](https://maps.app.goo.gl/N8PSCZfdi97KirFY6))\n\nZoom link will be made available to the participants before the event.\n\n**📍 How to find us**\nIn the **yellow** area of TU Wien Freihaus, take the lift to the 2nd floor. After exiting the lift, walk straight pass the stairs within the yellow area and turn right to find the green area. Walk through the door and go straight to find the room.\nUse this [floor plan](https://maps.tuwien.ac.at/?q=DA02E08#map) to help locate the room.",
+    "description": "We are pleased to host **Corinna Perchtold** from French Geological Survey (BRGM) for this 90-minute hands-on tutorial with R-INLA. It is suitable for **R users with no previous INLA experience**. Using real data, we build a complete spatial model step by step.\nWe then predict on a grid, generate diagnostic plots and check the predictions through cross-validation. If time permits, we also introduce spatio-temporal and areal models.\n\nAs we promote gender diversity and inclusion in the R community, all genders and skill levels in R are welcome!\n\n**ℹ️ Abstract**\nEnvironmental data are often coming from measurement stations. The goal is a map the data over the whole domain of interest, with an honest statement of uncertainty. Bayesian geostatistical models do this well, but fitting them with MCMC is slow, because each iteration works with a dense covariance matrix. INLA offers a fast deterministic alternative for latent Gaussian models. Combined with the SPDE approach, it represents a Matérn field on a triangle mesh with a sparse precision matrix.\n\n**🗺️ Location**\n**In-person or Online via Zoom**\nSeminar Room DA green 02A / Sem.R. DA grün 02 A\n(DA02E08)\n2th floor, green area\nTU Wien Freihaus\nWiedner Hauptstraße 8-10, 1040 Vienna ([map](https://maps.app.goo.gl/N8PSCZfdi97KirFY6))\n\nZoom link will be made available to the participants before the event.\n\n**📍 How to find us**\nIn the **YELLOW** area of TU Wien Freihaus, take the lift to the 2nd floor. After exiting the lift, walk straight pass the stairs within the yellow area and turn right to find the green area. Walk through the door and go straight to find the room.\nUse this [floor plan](https://maps.tuwien.ac.at/?q=DA02E08#map) to help locate the room.",
     "status": "ACTIVE",
     "dateTime": "2026-11-05T18:00:00+01:00",
     "duration": "PT1H30M",
-    "eventUrl": "https://www.meetup.com/rladies-vienna/events/316877970/",
-    "featuredEventPhoto": {},
+    "eventUrl": "https://www.meetup.com/rladies-vienna/events/317070743/",
+    "featuredEventPhoto": {
+      "id": "536725756",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/4/9/c/highres_536725756.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/4/9/c/600_536725756.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/4/9/c/thumb_536725756.jpeg"
+    },
     "rsvps": {
       "yesCount": 3,
       "waitlistCount": 0,
@@ -243,7 +249,7 @@
       "name": "RLadies+ Vienna",
       "urlname": "rladies-vienna"
     },
-    "createdTime": "2026-10-06T23:07:19-04:00"
+    "createdTime": "2026-10-21T05:49:58-04:00"
   },
   {
     "id": "316671506",
@@ -261,9 +267,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/0/f/3/thumb_536273491.jpeg"
     },
     "rsvps": {
-      "yesCount": 8,
+      "yesCount": 9,
       "waitlistCount": 0,
-      "totalCount": 8
+      "totalCount": 9
     },
     "venues": [
       {
@@ -341,9 +347,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/8/5/7/thumb_536718519.jpeg"
     },
     "rsvps": {
-      "yesCount": 11,
+      "yesCount": 14,
       "waitlistCount": 0,
-      "totalCount": 11
+      "totalCount": 14
     },
     "venues": [
       {
@@ -374,11 +380,11 @@
     "duration": "PT1H30M",
     "eventUrl": "https://www.meetup.com/rladies-vienna/events/316877962/",
     "featuredEventPhoto": {
-      "id": "536601425",
+      "id": "536726862",
       "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/5/3/b/1/highres_536601425.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/5/3/b/1/600_536601425.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/5/3/b/1/thumb_536601425.jpeg"
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/8/e/e/highres_536726862.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/8/e/e/600_536726862.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/8/e/e/thumb_536726862.jpeg"
     },
     "rsvps": {
       "yesCount": 9,
@@ -461,9 +467,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/a/0/b/thumb_536586667.jpeg"
     },
     "rsvps": {
-      "yesCount": 7,
+      "yesCount": 8,
       "waitlistCount": 0,
-      "totalCount": 7
+      "totalCount": 8
     },
     "venues": [
       {
@@ -501,9 +507,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/9/e/9/thumb_536586633.jpeg"
     },
     "rsvps": {
-      "yesCount": 2,
+      "yesCount": 3,
       "waitlistCount": 0,
-      "totalCount": 2
+      "totalCount": 3
     },
     "venues": [
       {
@@ -575,9 +581,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/9/c/9/thumb_536586601.jpeg"
     },
     "rsvps": {
-      "yesCount": 4,
+      "yesCount": 5,
       "waitlistCount": 0,
-      "totalCount": 4
+      "totalCount": 5
     },
     "venues": [
       {
