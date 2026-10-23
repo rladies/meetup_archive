@@ -61,9 +61,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/f/e/0/thumb_536720448.jpeg"
     },
     "rsvps": {
-      "yesCount": 5,
+      "yesCount": 6,
       "waitlistCount": 0,
-      "totalCount": 5
+      "totalCount": 6
     },
     "venues": [
       {
@@ -84,6 +84,46 @@
       "urlname": "rladies-pdx"
     },
     "createdTime": "2026-10-20T20:53:03-04:00"
+  },
+  {
+    "id": "317089435",
+    "title": "23º Meet Up: Coleta de dados e Análise bibliométrica com bibliometrix",
+    "description": "Aprenda a coletar dados no CAFe, exportar e analisar no bibliometrix, ferramenta ambientada em linguagem R.",
+    "status": "ACTIVE",
+    "dateTime": "2026-11-13T14:30:00-03:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-niteroi/events/317089435/",
+    "featuredEventPhoto": {
+      "id": "536740897",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/9/f/c/1/highres_536740897.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/9/f/c/1/600_536740897.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/f/c/1/thumb_536740897.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Niterói",
+      "urlname": "rladies-niteroi"
+    },
+    "createdTime": "2026-10-22T10:51:43-04:00"
   },
   {
     "id": "316964015",
@@ -141,9 +181,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/d/6/c/thumb_536624396.jpeg"
     },
     "rsvps": {
-      "yesCount": 10,
+      "yesCount": 11,
       "waitlistCount": 0,
-      "totalCount": 10
+      "totalCount": 11
     },
     "venues": [
       {
@@ -347,9 +387,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/8/5/7/thumb_536718519.jpeg"
     },
     "rsvps": {
-      "yesCount": 15,
+      "yesCount": 17,
       "waitlistCount": 0,
-      "totalCount": 15
+      "totalCount": 17
     },
     "venues": [
       {
@@ -541,9 +581,9 @@
     "eventUrl": "https://www.meetup.com/rladies-morelia/events/317064741/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 7,
+      "yesCount": 8,
       "waitlistCount": 0,
-      "totalCount": 7
+      "totalCount": 8
     },
     "venues": [
       {
@@ -661,9 +701,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/4/a/5/thumb_536566245.jpeg"
     },
     "rsvps": {
-      "yesCount": 33,
+      "yesCount": 35,
       "waitlistCount": 0,
-      "totalCount": 33
+      "totalCount": 35
     },
     "venues": [
       {
