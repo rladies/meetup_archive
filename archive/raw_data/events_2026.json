@@ -242,22 +242,22 @@
   {
     "id": "317070743",
     "title": "Bayesian Spatial Prediction with R-INLA",
-    "description": "We are pleased to host **Corinna Perchtold** from French Geological Survey (BRGM) for this 90-minute hands-on tutorial with R-INLA. It is suitable for **R users with no previous experience on INLA** (Integrated Nested Laplace Approximation).\n\nUsing real data, we will:\n\n* Build a complete spatial model step by step\n* Predict on a grid\n* Generate diagnostic plots\n* Check the predictions through cross-validation\n* If time permits, introduce spatio-temporal and areal models\n\nAs we promote gender diversity and inclusion in the R community, all genders and skill levels in R are welcome!\n\n**ℹ️ Abstract**\nEnvironmental data are often coming from measurement stations. The goal is a map the data over the whole domain of interest, with an honest statement of uncertainty. Bayesian geostatistical models do this well, but fitting them with MCMC (Markov chain Monte Carlo) is slow, because each iteration works with a dense covariance matrix. INLA offers a fast deterministic alternative for latent Gaussian models. Combined with the SPDE (stochastic partial differential equations) approach, it represents a Matérn field on a triangle mesh with a sparse precision matrix.\n\n**🗺️ Location**\n**In-person or Online via Zoom**\nSeminar Room DA green 02A / Sem.R. DA grün 02 A\n(DA02E08)\n2th floor, green area\nTU Wien Freihaus\nWiedner Hauptstraße 8-10, 1040 Vienna ([map](https://maps.app.goo.gl/N8PSCZfdi97KirFY6))\n\nZoom link will be made available to the participants before the event.\n\n**📍 How to find us**\nIn the **YELLOW** area of TU Wien Freihaus, take the lift to the 2nd floor. After exiting the lift, walk straight pass the stairs within the yellow area and turn right to find the green area. Walk through the door and go straight to find the room.\nUse this [floor plan](https://maps.tuwien.ac.at/?q=DA02E08#map) to help locate the room.",
+    "description": "We are pleased to host **Corinna Perchtold** from French Geological Survey (BRGM) for this 90-minute hands-on tutorial with R-INLA. It is suitable for **R users with no previous experience on INLA**. We encourage you to participate in-person for the tutorial. You are also welcome join online via Zoom.\n\nAs we promote gender diversity and inclusion in the R community, all genders and skill levels in R are welcome!\n\nUsing real data, we will:\n\n* Build a complete spatial model step by step\n* Predict on a grid\n* Generate diagnostic plots\n* Check the predictions through cross-validation\n* If time permits, introduce spatio-temporal and areal models\n\n**ℹ️ Abstract**\nEnvironmental data are often coming from measurement stations. The goal is a map the data over the whole domain of interest, with an honest statement of uncertainty. Bayesian geostatistical models do this well, but fitting them with MCMC (Markov chain Monte Carlo) is slow, because each iteration works with a dense covariance matrix. INLA (Integrated Nested Laplace Approximation) offers a fast deterministic alternative for latent Gaussian models. Combined with the SPDE (stochastic partial differential equations) approach, it represents a Matérn field on a triangle mesh with a sparse precision matrix.\n\n**🗺️ Location**\n**In-person or Online via Zoom**\nSeminar Room DA green 02A / Sem.R. DA grün 02 A\n(DA02E08)\n2th floor, green area\nTU Wien Freihaus\nWiedner Hauptstraße 8-10, 1040 Vienna ([map](https://maps.app.goo.gl/N8PSCZfdi97KirFY6))\n\nZoom link will be made available to the participants before the event.\n\n**📍 How to find us**\nIn the **YELLOW** area of TU Wien Freihaus, take the lift to the 2nd floor. After exiting the lift, walk straight pass the stairs within the yellow area and turn right to find the green area. Walk through the door and go straight to find the room.\nUse this [floor plan](https://maps.tuwien.ac.at/?q=DA02E08#map) to help locate the room.",
     "status": "ACTIVE",
     "dateTime": "2026-11-05T18:00:00+01:00",
     "duration": "PT1H30M",
     "eventUrl": "https://www.meetup.com/rladies-vienna/events/317070743/",
     "featuredEventPhoto": {
-      "id": "536725756",
+      "id": "536752953",
       "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/4/9/c/highres_536725756.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/4/9/c/600_536725756.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/4/9/c/thumb_536725756.jpeg"
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/e/d/9/highres_536752953.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/e/d/9/600_536752953.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/e/d/9/thumb_536752953.jpeg"
     },
     "rsvps": {
-      "yesCount": 4,
+      "yesCount": 6,
       "waitlistCount": 0,
-      "totalCount": 4
+      "totalCount": 6
     },
     "venues": [
       {
@@ -427,9 +427,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/8/e/e/thumb_536726862.jpeg"
     },
     "rsvps": {
-      "yesCount": 9,
+      "yesCount": 12,
       "waitlistCount": 0,
-      "totalCount": 9
+      "totalCount": 12
     },
     "venues": [
       {
@@ -689,7 +689,7 @@
     "id": "316945048",
     "title": "Machine Learning in Epidemiology with R — Part II: From Trees to Neural Networks",
     "description": "**How do different machine-learning models learn from the same data, and how can we compare their predictions?**\n\nJoin [R-Ladies Rome](https://rladiesrome.org/) for the second workshop in our **Machine Learning in Epidemiology with R** series, led by [Federica Gazzelloni](https://federicagazzelloni.com/).\n\nPart I introduced how models learn through loss and optimisation.\n\nPart II, we’ll put these ideas into practice by training and comparing decision trees, random forests and a simple neural network using a heart-disease classification example.\n\nWe’ll follow a complete workflow in R: explore the data, define a prediction task, train models and evaluate their performance on observations they have not seen during training.\n\n**What we’ll cover**\n\n* Decision trees and random forests with `mlr3`.\n* A simple neural network with Keras.\n* Layers, activation functions, epochs and batch sizes.\n* Training and validation loss.\n* Model comparison using accuracy, sensitivity, specificity and ROC/AUC.\n* Overfitting, cross-validation and the distinction between prediction and causation.\n\n**Who is this for?**\nThis workshop is for people interested in applying machine learning to epidemiology and health data. Basic familiarity with R and RStudio is recommended. The session builds on Part I and begins with a short recap.\n\n**What to bring**\nA computer with R and RStudio installed. Setup instructions and workshop materials will be shared before the session.\n\nBring your questions and join us for a practical exploration of how different models learn—and how we assess their predictions.",
-    "status": "ACTIVE",
+    "status": "PAST",
     "dateTime": "2026-10-23T18:00:00+02:00",
     "duration": "PT2H",
     "eventUrl": "https://www.meetup.com/rladies-rome/events/316945048/",
@@ -701,9 +701,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/b/4/a/5/thumb_536566245.jpeg"
     },
     "rsvps": {
-      "yesCount": 35,
+      "yesCount": 38,
       "waitlistCount": 0,
-      "totalCount": 35
+      "totalCount": 38
     },
     "venues": [
       {
