@@ -242,7 +242,7 @@
   {
     "id": "317070743",
     "title": "Bayesian Spatial Prediction with R-INLA",
-    "description": "We are pleased to host **Corinna Perchtold** from French Geological Survey (BRGM) for this 90-minute hands-on tutorial with R-INLA. It is suitable for **R users with no previous experience on INLA**. We encourage you to participate in-person for the tutorial. You are also welcome join online via Zoom.\n\nAs we promote gender diversity and inclusion in the R community, all genders and skill levels in R are welcome!\n\nUsing real data, we will:\n\n* Build a complete spatial model step by step\n* Predict on a grid\n* Generate diagnostic plots\n* Check the predictions through cross-validation\n* If time permits, introduce spatio-temporal and areal models\n\n**ℹ️ Abstract**\nEnvironmental data are often coming from measurement stations. The goal is to map the data over the whole domain of interest, with an honest statement of uncertainty. Bayesian geostatistical models do this well, but fitting them with MCMC (Markov chain Monte Carlo) is slow, because each iteration works with a dense covariance matrix. INLA (Integrated Nested Laplace Approximation) offers a fast deterministic alternative for latent Gaussian models. Combined with the SPDE (stochastic partial differential equations) approach, it represents a Matérn field on a triangle mesh with a sparse precision matrix.\n\n**🗺️ Location**\n**In-person or Online via Zoom**\nSeminar Room DA green 02A / Sem.R. DA grün 02 A\n(DA02E08)\n2th floor, green area\nTU Wien Freihaus\nWiedner Hauptstraße 8-10, 1040 Vienna ([map](https://maps.app.goo.gl/N8PSCZfdi97KirFY6))\n\nZoom link will be made available to the participants before the event.\n\n**💡 What to prepare**\n\n* Install the R-INLA package by following the guide at [https://www.r-inla.org/download/](https://www.r-inla.org/download/), and bring your laptop to the session!\n\n**📍 How to find us**\nIn the **YELLOW** area of TU Wien Freihaus, take the lift to the 2nd floor. After exiting the lift, walk straight pass the stairs within the yellow area and turn right to find the green area. Walk through the door and go straight to find the room.\nUse this [floor plan](https://maps.tuwien.ac.at/?q=DA02E08#map) to help locate the room.",
+    "description": "We are pleased to host **Corinna Perchtold** from French Geological Survey (BRGM) for this 90-minute hands-on tutorial with R-INLA. It is suitable for **R users with no previous experience on INLA**. We encourage you to participate in-person for the tutorial. You are also welcome join online via Zoom.\n\nAs we promote gender diversity and inclusion in the R community, all genders and skill levels in R are welcome!\n\nUsing real data, we will:\n\n* Build a complete spatial model step by step\n* Predict on a grid\n* Generate diagnostic plots\n* Check the predictions through cross-validation\n* If time permits, introduce spatio-temporal and areal models\n\n**ℹ️ Abstract**\nEnvironmental data are often coming from measurement stations. The goal is to map the data over the whole domain of interest, with an honest statement of uncertainty. Bayesian geostatistical models do this well, but fitting them with MCMC (Markov chain Monte Carlo) is slow, because each iteration works with a dense covariance matrix. INLA (Integrated Nested Laplace Approximation) offers a fast deterministic alternative for latent Gaussian models. Combined with the SPDE (stochastic partial differential equations) approach, it represents a Matérn field on a triangle mesh with a sparse precision matrix.\n\n**💡 What to prepare**\n\n* Install the R-INLA package by following the guide at [https://www.r-inla.org/download/](https://www.r-inla.org/download/), and bring your laptop to the session.\n\n**🗺️ Location**\n**In-person or Online via Zoom**\nSeminar Room DA green 02A / Sem.R. DA grün 02 A\n(DA02E08)\n2th floor, green area\nTU Wien Freihaus\nWiedner Hauptstraße 8-10, 1040 Vienna ([map](https://maps.app.goo.gl/N8PSCZfdi97KirFY6))\n\nZoom link will be made available to the participants before the event.\n\n**📍 How to find us**\nIn the **YELLOW** area of TU Wien Freihaus, take the lift to the 2nd floor. After exiting the lift, walk straight pass the stairs within the yellow area and turn right to find the green area. Walk through the door and go straight to find the room.\nUse this [floor plan](https://maps.tuwien.ac.at/?q=DA02E08#map) to help locate the room.",
     "status": "ACTIVE",
     "dateTime": "2026-11-05T18:00:00+01:00",
     "duration": "PT1H30M",
@@ -255,9 +255,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/e/d/9/thumb_536752953.jpeg"
     },
     "rsvps": {
-      "yesCount": 6,
+      "yesCount": 8,
       "waitlistCount": 0,
-      "totalCount": 6
+      "totalCount": 8
     },
     "venues": [
       {
@@ -330,6 +330,46 @@
       "urlname": "rladies-xalapa"
     },
     "createdTime": "2026-09-22T19:49:37-04:00"
+  },
+  {
+    "id": "317128267",
+    "title": "Shiny : De « ça marche » à une vraie mise en production",
+    "description": "Rejoignez-nous le vendredi 30 octobre en ligne sur Zoom pour une session dédiée à la mise en production des applications Shiny.\n\nNous aurons le plaisir d’accueillir Charles Bordet, fondateur de Data Champ’, une agence spécialisée dans le développement d’applications R Shiny, pour une présentation intitulée :\n📊 Shiny : De « ça marche » à une vraie mise en production\n\n**Résumé de l’intervention :**\nVotre application Shiny fonctionne. Vos collègues l'utilisent, on vous demande de l'ouvrir à plus de monde, et vous doutez : est-elle prête ? Entre une application qui marche et une application en production, sur laquelle des utilisateurs exigeants comptent tous les jours, il y a un vrai pas à franchir.\nCette présentation présente les étapes-clés à mettre en place pour que la transition se passe en douceur : maintenabilité du code, performances, sécurité, stabilité, mise en production, et ergonomie. Pour chaque dimension, on y voit les pièges les plus fréquents, les bonnes pratiques, les outils concrets, et ce que l'IA peut y apporter, avec ses propres pièges.\nEn fil rouge : l'application d'un épidémiologiste, écrite pour une équipe de cinq personnes, puis ouverte à 300 médecins\n\n🔗 Inscription et lien Zoom sur notre page Meetup.\n\nNous avons hâte de vous y retrouver ! 👋",
+    "status": "ACTIVE",
+    "dateTime": "2026-10-30T13:00:00+01:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-paris/events/317128267/",
+    "featuredEventPhoto": {
+      "id": "536785995",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/5/8/b/highres_536785995.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/5/8/b/600_536785995.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/5/8/b/thumb_536785995.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 6,
+      "waitlistCount": 0,
+      "totalCount": 6
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "RLadies+ Paris",
+      "urlname": "rladies-paris"
+    },
+    "createdTime": "2026-10-25T03:20:56-04:00"
   },
   {
     "id": "316880437",
