@@ -109649,7 +109649,7 @@
     "description": "Aprenda a coletar dados no CAFe, exportar e analisar no bibliometrix, ferramenta ambientada em linguagem R.",
     "status": "active",
     "link": "https://www.meetup.com/rladies-niteroi/events/317089435/",
-    "going": 4,
+    "going": 5,
     "duration": 10800,
     "created": "2026-10-22T10:51:43-04:00",
     "datetime": "2026-11-13T14:30:00-03:00",
@@ -109662,7 +109662,7 @@
     "venue_lat": -8.5211,
     "venue_lon": 179.1962,
     "location": "Online event",
-    "body": "<h6 class='entry-title mt-2' style='font-size: 1.5em !important';>23º Meet Up: Coleta de dados e Análise bibliométrica com bibliometrix<\/h6><p><i class='fa fa-users'><\/i>&emsp;4<\/p><p class='text-truncate'>Aprenda a coletar dados no CAFe, exportar e analisar no bibliometrix, ferramenta ambientada em linguagem R.<\/p><center><a href='https://www.meetup.com/rladies-niteroi/events/317089435/' target='_blank'><button class='btn btn-primary'>Event page<\/button><\/center><\/a>"
+    "body": "<h6 class='entry-title mt-2' style='font-size: 1.5em !important';>23º Meet Up: Coleta de dados e Análise bibliométrica com bibliometrix<\/h6><p><i class='fa fa-users'><\/i>&emsp;5<\/p><p class='text-truncate'>Aprenda a coletar dados no CAFe, exportar e analisar no bibliometrix, ferramenta ambientada em linguagem R.<\/p><center><a href='https://www.meetup.com/rladies-niteroi/events/317089435/' target='_blank'><button class='btn btn-primary'>Event page<\/button><\/center><\/a>"
   },
   {
     "id": "316964015",
@@ -111870,5 +111870,21 @@
     "venue_lon": 179.1962,
     "location": "Online event",
     "body": "<h6 class='entry-title mt-2' style='font-size: 1.5em !important';>Geocomputation with R; In persian<\/h6><p><i class='fa fa-users'><\/i>&emsp;9<\/p><p class='text-truncate'>سرفصل های دوره:\n1- Vector attribute subsetting\n2- Chaining commands with pipes\n3- Vector attribute aggregation\n4- Vector attribute joining\n5- Creating attributes and removing spatial information<\/p><center><a href='https://www.meetup.com/rladies-urmia/events/312616049/' target='_blank'><button class='btn btn-primary'>Event page<\/button><\/center><\/a>"
+  },
+  {
+    "id": "317123277",
+    "title": "Developing your data visualisation skills in ggplot2",
+    "description": "In this session, we’ll be working through the process of developing a visualisation in ggplot2. We’ll start with a brand new dataset and create some exploratory plots; sketch out some ideas and decide what we want to communicate; build a basic plot in ggplot2; and then refine our chart to create something that’s artistic and aesthetic, yet effective. Some basic knowledge of the tidyverse will be helpful, but all of the code in this session will be explained and made available afterwards.",
+    "status": "active",
+    "link": "https://www.meetup.com/rladies-abuja/events/317123277/",
+    "going": 6,
+    "duration": 7200,
+    "created": "2026-10-24T15:59:40-04:00",
+    "datetime": "2027-01-20T17:00:00+01:00",
+    "datetime_utc": "2027-01-20T16:00:00+0000",
+    "group_name": "R-Ladies Abuja",
+    "group_urlname": "rladies-abuja",
+    "location": "Not announced",
+    "body": "<h6 class='entry-title mt-2' style='font-size: 1.5em !important';>Developing your data visualisation skills in ggplot2<\/h6><p><i class='fa fa-users'><\/i>&emsp;6<\/p><p class='text-truncate'>In this session, we’ll be working through the process of developing a visualisation in ggplot2. We’ll start with a brand new dataset and create some exploratory plots; sketch out some ideas and decide what we want to communicate; build a basic plot in ggplot2; and then refine our chart to create something that’s artistic and aesthetic, yet effective. Some basic knowledge of the tidyverse will be helpful, but all of the code in this session will be explained and made available afterwards.<\/p><center><a href='https://www.meetup.com/rladies-abuja/events/317123277/' target='_blank'><button class='btn btn-primary'>Event page<\/button><\/center><\/a>"
   }
 ]
