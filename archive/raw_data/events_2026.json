@@ -255,9 +255,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/e/d/9/thumb_536752953.jpeg"
     },
     "rsvps": {
-      "yesCount": 9,
+      "yesCount": 10,
       "waitlistCount": 0,
-      "totalCount": 9
+      "totalCount": 10
     },
     "venues": [
       {
@@ -347,9 +347,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/5/8/b/thumb_536785995.jpeg"
     },
     "rsvps": {
-      "yesCount": 22,
+      "yesCount": 24,
       "waitlistCount": 0,
-      "totalCount": 22
+      "totalCount": 24
     },
     "venues": [
       {
@@ -415,7 +415,7 @@
     "id": "317064838",
     "title": "Interpréter des variables latentes avec le package R {NaileR}",
     "description": "Rejoignez-nous le mercredi 28 octobre à 19 h en ligne sur Zoom pour une session dédiée à la valorisation et à l’explication de vos analyses de données.\n\nNous aurons le plaisir d’accueillir Sébastien Lê, enseignant-chercheur en statistique et science des données à l’Institut Agro Rennes-Angers, pour une présentation intitulée :\n📊 « Interpréter des variables latentes avec le package R NaileR : focus méthodologique et application ».\n\nRésumé de l’intervention : Interpréter des variables latentes avec le package R NaileR : focus méthodologique et application\nLe package NaileR est conçu pour guider et automatiser l’interprétation de variables latentes, qu'elles soient continues (ex. dimensions factorielles issues d'une ACP ou d'une ACM) ou catégorielles (ex. groupes issus d'une classification non supervisée).\n\nLoin d'une simple génération textuelle « à l’aveugle », NaileR propose une démarche contrôlable d'aide à l'interprétation. Le package s'appuie sur un système de prompting modulaire qui structure les sorties statistiques fournies au modèle de langage. Au-delà de la synthèse narrative et des propositions de dénominations de concepts, l'outil garantit une traçabilité indispensable au travail du statisticien : il intègre la possibilité de revenir aisément aux preuves empiriques afin d'étayer, vérifier et valider objectivement chaque interprétation.\n\nCette méthodologie trouve une application concrète dans l'étude des systèmes alimentaires durables. Dans le cadre d'un questionnaire administré à plus de 500 répondants autour de 45 assertions, une typologie d'individus a été identifiée. NaileR permet alors de caractériser les profils d'attentes et de valeurs des répondants, en fournissant une interprétation ancrée dans les faits statistiques du jeu de données.\nSébastien illustrera cette approche par un cas concret issu des systèmes alimentaires durables (typologie d'attentes sur plus de 500 répondants).\n\n🔗 Inscription et lien Zoom sur notre page Meetup.\n\nNous avons hâte de vous y retrouver ! 👋",
-    "status": "ACTIVE",
+    "status": "PAST",
     "dateTime": "2026-10-28T19:00:00+01:00",
     "duration": "PT1H",
     "eventUrl": "https://www.meetup.com/rladies-paris/events/317064838/",
@@ -455,7 +455,7 @@
     "id": "316877962",
     "title": "Making Data Speak: Static and Interactive Plots in R",
     "description": "Just like last year, we are welcoming the new academic year with a hands-on introduction to R, this time with a focus on data visualization. As we promote gender diversity and inclusion in the R community, all genders and skill levels in R are welcome!\n\n**ℹ️ Abstract**\nA hands-on introduction to data visualization in R for beginners. You’ll learn how to prepare your data for plotting, create clear and attractive graphics with the R package ***ggplot2***, and add interactive features using the ***plotly*** package.\n\n**💡 What to prepare**\n\n* Before the workshop, install **R** and **RStudio** on your laptop by following the 2-step guide at **[https://posit.co/download/rstudio-desktop/](https://posit.co/download/rstudio-desktop/)**\n* On the workshop day, bring your laptop to follow the workshop material closely and code along with us!\n* (Optional) Bring a dataset you would like to work with\n\n**🗺️ Location**\nSeminar Room DB yellow 09 / Sem.R. DB gelb 09\n(DB09E23)\n9th floor, yellow area\nTU Wien Freihaus\nWiedner Hauptstraße 8-10, 1040 Vienna ([map](https://maps.app.goo.gl/N8PSCZfdi97KirFY6))\n\n**📍 How to find us**\nIn the yellow area of TU Wien Freihaus, take the lift to the 9th floor. After exiting the lift, turn left and walk through the door. The seminar room will be on your left.\nUse this [floor plan](https://maps.tuwien.ac.at/?q=DB09E23#map) to help locate the room.",
-    "status": "ACTIVE",
+    "status": "PAST",
     "dateTime": "2026-10-28T18:00:00+01:00",
     "duration": "PT1H30M",
     "eventUrl": "https://www.meetup.com/rladies-vienna/events/316877962/",
@@ -499,17 +499,11 @@
     "dateTime": "2026-10-28T18:00:00-07:00",
     "duration": "PT2H",
     "eventUrl": "https://www.meetup.com/rladies-vancouver/events/316720371/",
-    "featuredEventPhoto": {
-      "id": "536313776",
-      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-      "highResUrl": "https://secure.meetupstatic.com/photos/event/8/3/f/0/highres_536313776.jpeg",
-      "standardUrl": "https://secure.meetupstatic.com/photos/event/8/3/f/0/600_536313776.jpeg",
-      "thumbUrl": "https://secure.meetupstatic.com/photos/event/8/3/f/0/thumb_536313776.jpeg"
-    },
+    "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 10,
+      "yesCount": 11,
       "waitlistCount": 0,
-      "totalCount": 10
+      "totalCount": 11
     },
     "venues": [
       {
