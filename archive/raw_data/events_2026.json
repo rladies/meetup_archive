@@ -46,6 +46,46 @@
     "createdTime": "2026-10-14T07:30:46-04:00"
   },
   {
+    "id": "317281096",
+    "title": "R-Ladies+ Melbourne End of Year trivia event & 10th Birthday!",
+    "description": "🎉 **R-Ladies+ Melbourne is turning 10!** 💜🎂\nAnd what better way to celebrate a decade of R, data science, and community than with an R-themed Trivia Night!\n\nJoin us for a fun evening of trivia, laughs, and a little friendly competition as we put our R knowledge to the test!\n\nThere will be prizes!!\n\nFrom R basics and quirky coding questions to packages and data visualisation, there'll be something for everyone - whether you're an R newbie or a seasoned tidyverse enthusiast!\n\n✨ No coding required, just bring your curiosity and competitive spirit!\nMost importantly, it's a chance to celebrate 10 years of R-Ladies+ Melbourne and celebrate the end of the year, reconnect with familiar faces, and welcome new members to our community.\n\nFood and drinks will be provided!\n\n💜 Everyone is welcome to our celebration!",
+    "status": "ACTIVE",
+    "dateTime": "2026-11-25T18:00:00+11:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-melbourne/events/317281096/",
+    "featuredEventPhoto": {
+      "id": "536972256",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/7/e/0/0/highres_536972256.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/7/e/0/0/600_536972256.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/e/0/0/thumb_536972256.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 7,
+      "waitlistCount": 0,
+      "totalCount": 7
+    },
+    "venues": [
+      {
+        "id": "28456616",
+        "name": "DiUS",
+        "address": "level 3/31 Queen St, Melbourne VIC 3000, Australia",
+        "city": "Melbourne",
+        "state": "",
+        "country": "au",
+        "lat": -37.8182,
+        "lon": 144.9619,
+        "postalCode": "3000",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies+ Melbourne",
+      "urlname": "rladies-melbourne"
+    },
+    "createdTime": "2026-11-04T00:05:56-05:00"
+  },
+  {
     "id": "317067329",
     "title": "Big Data? No Problem! An introduction to arrow for R",
     "description": "Working with data that's too large, too slow, or too messy for regular CSVs? Join us for an introduction to the {arrow} package in R. We'll explore how Arrow and Parquet files can make large datasets faster to store, read, and analyze, all while using the familiar dplyr workflows you already know and love. Using Portland's Biketown data, we'll convert, query, and visualize millions of rides without breaking a sweat (or our laptops).\n\nBring your laptop if you want to follow along.",
@@ -101,9 +141,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/f/c/1/thumb_536740897.jpeg"
     },
     "rsvps": {
-      "yesCount": 19,
+      "yesCount": 21,
       "waitlistCount": 0,
-      "totalCount": 19
+      "totalCount": 21
     },
     "venues": [
       {
