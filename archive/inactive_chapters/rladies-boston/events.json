@@ -1,0 +1,1652 @@
+[
+  {
+    "id": "235403950",
+    "title": "Social Hour",
+    "description": "December is hectic! Everyone's busy! So we're not going to have a regular, overachieving, educational Meetup, we're just going to get together for (pressure free!) drinks. Pop in if you can!\n\nIf we get massive interest, the location may change, but I promise it will stay on the red line.",
+    "status": "PAST",
+    "dateTime": "2016-12-19T18:00:00-05:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-boston/events/235403950/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 19,
+      "waitlistCount": 0,
+      "totalCount": 19
+    },
+    "venues": [
+      {
+        "id": "24061876",
+        "name": "Firebrand Saints",
+        "address": "1 Broadway",
+        "city": "Cambridge",
+        "state": "MA",
+        "country": "US",
+        "lat": 42.3622,
+        "lon": -71.0833,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Boston",
+      "urlname": "rladies-boston"
+    },
+    "createdTime": "2016-11-06T18:36:13-05:00"
+  },
+  {
+    "id": "234776971",
+    "title": "Getting Started with R",
+    "description": "Thank you to Hollister Staffing (http://hollisterstaff.com/) for buying our pizza this month!\n\nEveryone's clamoring for a beginner's tutorial, so here it is! We'll start from \"Hello, World!\", cover some programming basics and some R basics, and then jump into dplyr if we have time (dplyr is an R package that makes it very intuitive to sort/filter/transform your data. For folks who want to work on data right away, it's a great introduction to R.)\n\nPlease come with a laptop that has R installed. The presentation will be shown in RStudio (an R-Ladies sponsor!) so you might want to install that too!",
+    "status": "PAST",
+    "dateTime": "2016-11-29T18:00:00-05:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-boston/events/234776971/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 22,
+      "waitlistCount": 0,
+      "totalCount": 22
+    },
+    "venues": [
+      {
+        "id": "24671004",
+        "name": "Boston University Photonics Center",
+        "address": "8 St. Mary's Street, Room PHO 205",
+        "city": "Boston",
+        "state": "MA",
+        "country": "us",
+        "lat": 42.3601,
+        "lon": -71.0589,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Boston",
+      "urlname": "rladies-boston"
+    },
+    "createdTime": "2016-10-11T10:18:44-04:00"
+  },
+  {
+    "id": "234229828",
+    "title": "Meet & Scheme",
+    "description": "***Note the change of venue from the original seaport location!***\n\nThank you to the Vitek Lab at Northeastern for securing us a great spot in our time of need! The room, 020, is in the basement of West Village F, which is right at Ruggles Station - The closest T stops are Ruggles (orange) and Northeastern (green E). The CT2 and 47 buses are good options from Cambridge.\n\nThe Inaugural RLadies Boston Meetup! Loosely structured agenda as follows:\n\n1) Network/Schmooze\n\n2) Call for brief announcements (jobs, R-related events)\n\n3) Open discussion about goals/mission/direction for the group\n\n4) Probably some raised-hands style voting on some of the ideas from the discussion\n\nPizza sponsor acquired!",
+    "status": "PAST",
+    "dateTime": "2016-10-13T18:00:00-04:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-boston/events/234229828/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 30,
+      "waitlistCount": 0,
+      "totalCount": 30
+    },
+    "venues": [
+      {
+        "id": "9948892",
+        "name": "Northeastern University - West Village F Building",
+        "address": "40 Leon Street",
+        "city": "Boston",
+        "state": "MA",
+        "country": "us",
+        "lat": 42.3372,
+        "lon": -71.0914,
+        "postalCode": "02115",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Boston",
+      "urlname": "rladies-boston"
+    },
+    "createdTime": "2016-09-18T21:24:33-04:00"
+  },
+  {
+    "id": "242739422",
+    "title": "Holiday Exodus Pub Night",
+    "description": "Nobody's in town! Let's do a no-stress thing! Input welcome for a no-prep, no-laptops [required] event :)\n\nFinal location decided: Flat Top Johnny's - in that plaza (upper level) with Friendly Toast & Bon Me & Smoke House & State Park",
+    "status": "PAST",
+    "dateTime": "2017-12-12T18:00:00-05:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-boston/events/242739422/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 7,
+      "waitlistCount": 0,
+      "totalCount": 7
+    },
+    "venues": [
+      {
+        "id": "20985332",
+        "name": "Flat Top Johnny's",
+        "address": "1 Kendall Sq Ste B2104",
+        "city": "Cambridge",
+        "state": "MA",
+        "country": "US",
+        "lat": 42.3656,
+        "lon": -71.091,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Boston",
+      "urlname": "rladies-boston"
+    },
+    "createdTime": "2017-08-22T11:08:57-04:00"
+  },
+  {
+    "id": "243957217",
+    "title": "Writing reports with knitr",
+    "description": "I just taught a workshop at Penn that ended with knitr and all the feedback was \"we want more knitr!\" so I'm expanding it for the Boston crowd. The target audience for the seminar section is more toward beginners who have not experimented with knitr, but I hope folks who already use it might learn a trick or a better way to do something, either from me or another attendee.\n\nWe'll go over the anatomy of a knitr report (YAML header, Markdown, chunks, output options) and I'll demo a few reports - a very simple one and an envelope-pushing one.\n\nI intend to leave time at the end for folks to work on a knitr project in a friendly & knowledgeable environment. SERIOUSLY: Bring your data!\n\nPizza and drinks will be provided by our awesome hosts!\n\nAgain I'm requesting that you share a full name through the RSVP (only goes to organizers) so we can accommodate our host's security practices.",
+    "status": "PAST",
+    "dateTime": "2017-11-15T18:00:00-05:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-boston/events/243957217/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 12,
+      "waitlistCount": 0,
+      "totalCount": 12
+    },
+    "venues": [
+      {
+        "id": "25396629",
+        "name": "Klaviyo",
+        "address": "225 Franklin Street",
+        "city": "Boston",
+        "state": "MA",
+        "country": "US",
+        "lat": 42.356,
+        "lon": -71.054,
+        "postalCode": "02110",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Boston",
+      "urlname": "rladies-boston"
+    },
+    "createdTime": "2017-10-05T15:58:54-04:00"
+  },
+  {
+    "id": "243553846",
+    "title": "October Meetup & Pre-EARL Boston social event",
+    "description": "NOTE DATE CHANGE: Hi all! I was feeling silly for misreading the calendar and scheduling this a day too early for EARL arrivals not taking workshops, but am now MORTIFIED (MORTIFIED!) that it didn't occur to me that the whole Halloween thing would affect people with children. I am so sorry everyone, carer duties, even fun ones, are among the reasons that women often have less time to advance their careers! To those who have already RSVP'd yes: if desired, I will still have a beer/beverage with you, on the 31st, or another date!\n\nOctober's meetup will be a SOCIAL one, which we haven't had for a few months! In honor of R-Ladies foreign and domestic being in town for EARL Boston, we're doing it the night before EARL starts. Please bring $$ for your own drinks (or find me a sponsor!)",
+    "status": "PAST",
+    "dateTime": "2017-11-01T18:00:00-04:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-boston/events/243553846/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 11,
+      "waitlistCount": 0,
+      "totalCount": 11
+    },
+    "venues": [
+      {
+        "id": "25108116",
+        "name": "Mead Hall",
+        "address": "4 Cambridge Center, Cambridge, MA 02142",
+        "city": "Cambridge",
+        "state": "MA",
+        "country": "us",
+        "lat": 42.3635,
+        "lon": -71.0873,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Boston",
+      "urlname": "rladies-boston"
+    },
+    "createdTime": "2017-09-21T13:50:14-04:00"
+  },
+  {
+    "id": "242738952",
+    "title": "Project Night!",
+    "description": "Bring a project and help others or get the help you need! Projects can be anything - work assignment, hobby project, homework, or tutorial (or anything else - or nothing if you'd like to help others or just hang out). Pizza and beverages will be generously provided by Klaviyo.\n\nFeel free to use the comments to coordinate with others or share ideas!",
+    "status": "PAST",
+    "dateTime": "2017-09-26T18:00:00-04:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-boston/events/242738952/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 10,
+      "waitlistCount": 0,
+      "totalCount": 10
+    },
+    "venues": [
+      {
+        "id": "25396629",
+        "name": "Klaviyo",
+        "address": "225 Franklin Street",
+        "city": "Boston",
+        "state": "MA",
+        "country": "US",
+        "lat": 42.356,
+        "lon": -71.054,
+        "postalCode": "02110",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Boston",
+      "urlname": "rladies-boston"
+    },
+    "createdTime": "2017-08-22T10:46:49-04:00"
+  },
+  {
+    "id": "242031847",
+    "title": "dplyr 0.7.0 - tidyeval / programming with dplyr",
+    "description": "Dplyr is a super popular R package that is great for exploration and transformation of tabular data (think data frames), is awesomely readable, and is perfect for beginners to get productive fast. Unfortunately, some of the things that make it great for productivity and interactivity make it less great for programming - i.e. using variables to make code more flexible and reusable. This major release of dplyr has some updates that begin to address these issues.\n\nI will give a speedy intro to dplyr then we'll go through some of the new goodies! There will be pizza!\n\nNOTE: This venue requires full names for visitors a few days in advance. Contact me through the link on the left if this poses an issue.",
+    "status": "PAST",
+    "dateTime": "2017-08-17T18:00:00-04:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-boston/events/242031847/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 24,
+      "waitlistCount": 0,
+      "totalCount": 24
+    },
+    "venues": [
+      {
+        "id": "25396629",
+        "name": "Klaviyo",
+        "address": "225 Franklin Street",
+        "city": "Boston",
+        "state": "MA",
+        "country": "US",
+        "lat": 42.356,
+        "lon": -71.054,
+        "postalCode": "02110",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Boston",
+      "urlname": "rladies-boston"
+    },
+    "createdTime": "2017-07-26T10:21:11-04:00"
+  },
+  {
+    "id": "241019687",
+    "title": "Ice Cream Social!",
+    "description": "NOTICE DATE CHANGE (due to Bioconductor Conference)\n\nNo venue, no sponsor, no problem! Meet other R-Ladies, eat ice cream, and just hang out! If the weather is predicted to be bad, we'll either reschedule or go to a bar instead!\n\n(Because this is not a sponsored event, bring $$ to pay for your ice cream/coffee/whatevs. If finances are a barrier to attending, get in touch. Also you don't technically have to buy anything.)\n\nStore Website: https://www.tosci.com/",
+    "status": "PAST",
+    "dateTime": "2017-07-25T18:00:00-04:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-boston/events/241019687/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 6,
+      "waitlistCount": 0,
+      "totalCount": 6
+    },
+    "venues": [
+      {
+        "id": "669134",
+        "name": "Toscanini's",
+        "address": "899 Main St",
+        "city": "Cambridge",
+        "state": "MA",
+        "country": "us",
+        "lat": 42.3634,
+        "lon": -71.0996,
+        "postalCode": "02139",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Boston",
+      "urlname": "rladies-boston"
+    },
+    "createdTime": "2017-06-23T10:28:37-04:00"
+  },
+  {
+    "id": "239779661",
+    "title": "RStudio::conf screening & discussion!",
+    "description": "We're gonna get the projector going and watch some talks from this year's RStudio::conf! In between talks, we'll have a chance to discuss our experience with the methods mentioned, and even better, folks will be able to ask each other questions if they are confused or want to know more!\n\nLink to conference site: https://www.rstudio.com/conference/\n\nI personally want to see these:\n\nPutting square pegs in round holes: Using list-cols in your dataframe – Jenny Bryan (https://www.rstudio.com/resources/videos/using-list-cols-in-your-dataframe/)\n\nText Mining the tidy Way – Julia Silge (https://www.rstudio.com/resources/videos/text-mining-the-tidy-way/)\n\nWriting Readable Code with Pipes – Bob Rudis (https://www.rstudio.com/resources/videos/writing-readable-code-with-pipes/)\n\nBut others are invited to suggest some too! And we don't have to watch those three either! (Keep in mind that not all the talks are the same length, and the plan for this event is to just watch a few that are under half an hour.)",
+    "status": "PAST",
+    "dateTime": "2017-06-22T18:00:00-04:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-boston/events/239779661/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 8,
+      "waitlistCount": 0,
+      "totalCount": 8
+    },
+    "venues": [
+      {
+        "id": "25224261",
+        "name": "25 Thomson Pl",
+        "address": "25 Thomson Place",
+        "city": "Boston",
+        "state": "MA",
+        "country": "US",
+        "lat": 42.351,
+        "lon": -71.0472,
+        "postalCode": "02210",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Boston",
+      "urlname": "rladies-boston"
+    },
+    "createdTime": "2017-05-06T11:29:36-04:00"
+  },
+  {
+    "id": "239103742",
+    "title": "Shiny with Wendy Chen",
+    "description": "Wendy Chen is a Manager on the Advanced Analytics and Data Science team at DigitasLBI, responsible for delivering effective data-driven marketing strategies for clients. She was formerly an analyst on the Data Science team at EnerNOC and a statistician at the International Energy Agency. She is an expert in using R for data mining, developing predictive algorithms, and visualization.\n\nShe has generously agreed to be our first speaker and will be talking about SHINY!\n\nWe'll have some thai food for dinner, courtesy of our sponsor (and makers of Shiny!) RStudio.",
+    "status": "PAST",
+    "dateTime": "2017-04-25T18:00:00-04:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-boston/events/239103742/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 27,
+      "waitlistCount": 0,
+      "totalCount": 27
+    },
+    "venues": [
+      {
+        "id": "23645984",
+        "name": "Boston University College of Arts & Sciences, Room 224",
+        "address": "685 Commonwealth Avenue",
+        "city": "Boston",
+        "state": "MA",
+        "country": "us",
+        "lat": 42.3499,
+        "lon": -71.1043,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Boston",
+      "urlname": "rladies-boston"
+    },
+    "createdTime": "2017-04-10T09:35:45-04:00"
+  },
+  {
+    "id": "237690757",
+    "title": "Project Night",
+    "description": "Pizza will be sponsored by DataCamp! THANK YOU! R-Ladies feel free to request pizza flavors of interest\n\nWe're back at Pivotal in March for Project Night! Bring an R project to work on (a personal project you're working on, or a tutorial, or even homework or a professional project) and we'll help each other out and/or cheer each other on!\n\nIf folks want to get started with Shiny, this (http://shiny.rstudio.com/tutorial/lesson1/) is a good tutorial, and there will be at least one other Shiny user to help you out :)\n\nIf you want, post a comment about your anticipated topic and see if you can rustle up some co-conspirators.",
+    "status": "PAST",
+    "dateTime": "2017-03-15T18:00:00-04:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-boston/events/237690757/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 7,
+      "waitlistCount": 0,
+      "totalCount": 7
+    },
+    "venues": [
+      {
+        "id": "24444439",
+        "name": "Pivotal Labs",
+        "address": "145 Broadway",
+        "city": "Cambridge",
+        "state": "MA",
+        "country": "us",
+        "lat": 42.3649,
+        "lon": -71.0889,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Boston",
+      "urlname": "rladies-boston"
+    },
+    "createdTime": "2017-02-13T20:34:28-05:00"
+  },
+  {
+    "id": "236532313",
+    "title": "Lightning talks!",
+    "description": "Come see and do lightning talks! Please get in touch ASAP if you'd like to give a 5-10 minute talk and this date works for you! EDIT: This location needs a list of attendees 24 hours ahead of the event - if you don't use your full name for your Meetup/R-Ladies account, please either update it with first and last name, or send me a message through the \"contact organizers\" button and let me know privately. I also need names for your guests! Thanks!\n\n😍 Potential Roster (so far!):\n\n• Amy - Gender issues in CS/Math\n\n• Marianna - knitr and/or RMarkdown\n\n• Janelle (from Metrum!) - ???\n\n• Charmaine - \"Rolling in The Deep: Deep Learning 101\"\n\n• Svetlana(?) - ?bioinformatic things?\n\n• YOU???",
+    "status": "PAST",
+    "dateTime": "2017-01-24T18:00:00-05:00",
+    "duration": "PT0S",
+    "eventUrl": "https://www.meetup.com/rladies-boston/events/236532313/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 28,
+      "waitlistCount": 0,
+      "totalCount": 28
+    },
+    "venues": [
+      {
+        "id": "24444439",
+        "name": "Pivotal Labs",
+        "address": "145 Broadway",
+        "city": "Cambridge",
+        "state": "MA",
+        "country": "us",
+        "lat": 42.3649,
+        "lon": -71.0889,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Boston",
+      "urlname": "rladies-boston"
+    },
+    "createdTime": "2016-12-29T17:49:48-05:00"
+  },
+  {
+    "id": "256703046",
+    "title": "December Pub Nite!",
+    "description": "December is a busy month and a lot of people travel or attend/host parties, so it is an R-Ladies Boston tradition to give in to destiny and just go out for drinks.\n\nTCB Analytics will sponsor our drinks, even though Tanya herself is unable to make an appearance. Thank you TCB Analytics!",
+    "status": "PAST",
+    "dateTime": "2018-12-19T18:00:00-05:00",
+    "duration": "PT3H",
+    "eventUrl": "https://www.meetup.com/rladies-boston/events/256703046/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 9,
+      "waitlistCount": 0,
+      "totalCount": 9
+    },
+    "venues": [
+      {
+        "id": "970424",
+        "name": "Flat Top Johnnys",
+        "address": "One Kendall Square",
+        "city": "Cambridge",
+        "state": "MA",
+        "country": "us",
+        "lat": 42.3666,
+        "lon": -71.0902,
+        "postalCode": "02139",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Boston",
+      "urlname": "rladies-boston"
+    },
+    "createdTime": "2018-11-25T18:16:06-05:00"
+  },
+  {
+    "id": "256044812",
+    "title": "Relive the magic: RStudio::conf 2018 videos & discussion",
+    "description": "It's November! I'm exhausted! You're exhausted! Sit back and relax: we're watching videos this month.\n\nRStudio::conf is an annual conference (next one: January 2019) run by RStudio that is very popular, and luckily very good about putting videos of their talks online: https://www.rstudio.com/resources/videos/rstudioconf-2018-talks/ (we can also watch ones from other years)\n\nWe'll be taking suggestions in the comments ahead of time, and voting/agreeing on which 3-5 videos to watch at the meetup. BUT it will be much better than watching them alone, because we can discuss them together afterward, helping each other understand and build on the content. Sorry if this sounds dorky, it was really great last time!\n\nIf we don't get a discussion going in the comments, we might post some here to get things in gear. Keep in mind that if we want to watch several videos (and keep everyone's attention!) the shorter ones (~20min) are probably the best bet.\n\nPizza dinner will be generously provided by Klaviyo!",
+    "status": "PAST",
+    "dateTime": "2018-11-12T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-boston/events/256044812/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 9,
+      "waitlistCount": 0,
+      "totalCount": 9
+    },
+    "venues": [
+      {
+        "id": "25396629",
+        "name": "Klaviyo",
+        "address": "225 Franklin Street",
+        "city": "Boston",
+        "state": "MA",
+        "country": "US",
+        "lat": 42.356,
+        "lon": -71.054,
+        "postalCode": "02110",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Boston",
+      "urlname": "rladies-boston"
+    },
+    "createdTime": "2018-11-01T16:21:22-04:00"
+  },
+  {
+    "id": "255506056",
+    "title": "Hacktoberfest! and Introduction to Git",
+    "description": "Come on over for a better-late-than-never introduction to Digital Ocean's \"Hacktoberfest\" event (https://hacktoberfest.digitalocean.com/) led by Phoebe Wong, followed by a beginners primer on the version control program git, led by Abi Dawson. All levels welcome! Dinner will be provided by Vertex!!\n\nWhat is Hacktoberfest?\n- Hacktoberfest is a month-long celebration of open source software run by DigitalOcean in partnership with GitHub and Twilio.\n- It is open to everyone in our global community!\n- 5 quality pull requests must be submitted to public GitHub repositories.\n- You can sign up anytime between October 1 and October 31.",
+    "status": "PAST",
+    "dateTime": "2018-10-23T18:30:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-boston/events/255506056/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 8,
+      "waitlistCount": 0,
+      "totalCount": 8
+    },
+    "venues": [
+      {
+        "id": "25972667",
+        "name": "Vertex Pharmaceuticals (Vertex Two)",
+        "address": "11 Fan Pier Blvd",
+        "city": "Boston",
+        "state": "ma",
+        "country": "us",
+        "lat": 42.3539,
+        "lon": -71.0456,
+        "postalCode": "02210",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Boston",
+      "urlname": "rladies-boston"
+    },
+    "createdTime": "2018-10-13T10:20:19-04:00"
+  },
+  {
+    "id": "255021009",
+    "title": "Project Night",
+    "description": "Project Nights we work on coding projects currently developing. No scheduled speaker, just an opportunity to delve into creative projects and share with others, if choose to.",
+    "status": "PAST",
+    "dateTime": "2018-10-18T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-boston/events/255021009/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 7,
+      "waitlistCount": 0,
+      "totalCount": 7
+    },
+    "venues": [
+      {
+        "id": "25632592",
+        "name": "Taste Wine Bar & Cafe",
+        "address": "101 Summer Street",
+        "city": "Boston",
+        "state": "MA",
+        "country": "US",
+        "lat": 42.3536,
+        "lon": -71.058,
+        "postalCode": "02110",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Boston",
+      "urlname": "rladies-boston"
+    },
+    "createdTime": "2018-09-26T08:05:34-04:00"
+  },
+  {
+    "id": "253964638",
+    "title": "Lightning Talks!",
+    "description": "Featuring lightning talks from Olivia Brode-Roger, Ivana Zgaljic and Aedin Culhane.\n\nWe have room for 1 or 2 more talks!\n\nTalks:\n\n\"Understanding Memory\" - Olivia Brode-Roger (computer memory, not brains - ed.)\n\nIvana Zgaljic - \"Sending customized and automated alerts using R\"\n\nAedin Culhane - \"Comparing Approaches for Single Sample Gene Set Analysis",
+    "status": "PAST",
+    "dateTime": "2018-09-18T18:00:00-04:00",
+    "duration": "PT2H30M",
+    "eventUrl": "https://www.meetup.com/rladies-boston/events/253964638/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 20,
+      "waitlistCount": 0,
+      "totalCount": 20
+    },
+    "venues": [
+      {
+        "id": "25396629",
+        "name": "Klaviyo",
+        "address": "225 Franklin Street",
+        "city": "Boston",
+        "state": "MA",
+        "country": "US",
+        "lat": 42.356,
+        "lon": -71.054,
+        "postalCode": "02110",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Boston",
+      "urlname": "rladies-boston"
+    },
+    "createdTime": "2018-08-20T21:09:30-04:00"
+  },
+  {
+    "id": "253749863",
+    "title": "Project Night",
+    "description": "",
+    "status": "PAST",
+    "dateTime": "2018-08-22T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-boston/events/253749863/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "24725953",
+        "name": "WeWork South Station",
+        "address": "Wework South Station. 745 Atlantic Ave, Boston, MA 02111 7th floor, Room 7C.",
+        "city": "Boston",
+        "state": "MA",
+        "country": "us",
+        "lat": 42.3601,
+        "lon": -71.0589,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Boston",
+      "urlname": "rladies-boston"
+    },
+    "createdTime": "2018-08-13T08:11:40-04:00"
+  },
+  {
+    "id": "252878079",
+    "title": "API Programming in R via Shiny Applications with Azka Javaid",
+    "description": "Azka is a Data Scientist at IBM Watson Health in Oncology and an incoming Datanaut. At Watson Health she works within the Enhanced Evidence Team to identify cancer treatments based on patient attributes from published research using NLP. She is an avid R user and enjoys working on near real-time Shiny applications using APIs.\n\nAzka writes: \"In this talk, I will provide an overview of API programming in R via the Twitter Analytics Shiny Application, which performs a live profile analysis of a topic and user’s tweets using word cloud, sentiment, emoji, geographic and network analysis. I will also discuss the data science workflow, including data scraping, processing, visualization and presentation using packages like httr, jsonlite, tidy text and twitteR.\"\n\nRSVPs will close at 2pm the day before the meetup\n\nFood & drink generously provided by Klaviyo",
+    "status": "PAST",
+    "dateTime": "2018-08-08T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-boston/events/252878079/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 27,
+      "waitlistCount": 0,
+      "totalCount": 27
+    },
+    "venues": [
+      {
+        "id": "25396629",
+        "name": "Klaviyo",
+        "address": "225 Franklin Street",
+        "city": "Boston",
+        "state": "MA",
+        "country": "US",
+        "lat": 42.356,
+        "lon": -71.054,
+        "postalCode": "02110",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Boston",
+      "urlname": "rladies-boston"
+    },
+    "createdTime": "2018-07-17T15:53:08-04:00"
+  },
+  {
+    "id": "252276012",
+    "title": "Ice Cream Social!",
+    "description": "Join us for ice cream sponsored by TCB analytics! We're just gonna fill up on treats and chat and chill.\n\nPlease Note! This is at the new Toscanini's location on First Street, not their longtime home on Main Street!",
+    "status": "PAST",
+    "dateTime": "2018-07-17T18:30:00-04:00",
+    "duration": "PT2H30M",
+    "eventUrl": "https://www.meetup.com/rladies-boston/events/252276012/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 12,
+      "waitlistCount": 0,
+      "totalCount": 12
+    },
+    "venues": [
+      {
+        "id": "25873273",
+        "name": "Toscanini's",
+        "address": "159 First St",
+        "city": "Cambridge",
+        "state": "ma",
+        "country": "us",
+        "lat": 42.3661,
+        "lon": -71.0785,
+        "postalCode": "02142",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Boston",
+      "urlname": "rladies-boston"
+    },
+    "createdTime": "2018-06-29T12:24:54-04:00"
+  },
+  {
+    "id": "252016214",
+    "title": "R Ladies - Purely Project Night",
+    "description": "Project-night event where members can work on their own projects (career, personal,hackathon/content work, etc.) during the meeting and also possibly answer questions of other members. Sort of like a stackoverflow but live/real-time and local.\n\nA new slack site is available for attendees to also log onto during the event\nAttendees encouraged to voice any questions might have during Project -night (coding/database/design related etc.) there or in person in the room.\nSlack site:\nhttps://join.slack.com/t/r-ladiesprojectnight/shared_invite/enQtMzQ2Mzc5NjgyNDgxLTY1Y2NjYTNkMTQ4NDgzYzNjZDNkMzAyZDg2ZjQ0MGQ3Y2I4MjU0NjZkODI3MDc0MWM1MGM3YzgyYzFkNmM5OWY\n\nIf you're not able to attend in person feel free to log into the slack site and we'll keep an eye out for remote members questions too! Dead Simple Screen Sharing is enabled on the slack site so just type '/screenshare' into chat and can start a screens share with other members.\n\nOther event info:\nNo event-sponsored food or drink but members are welcome to bring their own snack and/or non-alcoholic drink.",
+    "status": "PAST",
+    "dateTime": "2018-07-10T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-boston/events/252016214/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 9,
+      "waitlistCount": 0,
+      "totalCount": 9
+    },
+    "venues": [
+      {
+        "id": "7129642",
+        "name": "Liberty Wharf",
+        "address": "250 Northern Ave",
+        "city": "Boston",
+        "state": "MA",
+        "country": "us",
+        "lat": 42.3488,
+        "lon": -71.0384,
+        "postalCode": "02210",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Boston",
+      "urlname": "rladies-boston"
+    },
+    "createdTime": "2018-06-21T23:16:03-04:00"
+  },
+  {
+    "id": "250419589",
+    "title": "R Ladies - Purely Project Night",
+    "description": "Project-night event where members can work on their own projects (career, personal,hackathon/content work, etc.) during the meeting and also possibly answer questions of other members. Sort of like a stackoverflow but live/real-time and local.\n\nA new slack site is available for attendees to also log onto during the event\nAttendees encouraged to voice any questions might have during Project -night (coding/database/design related etc.) there or in person in the room.\nSlack site:\nhttps://join.slack.com/t/r-ladiesprojectnight/shared_invite/enQtMzQ2Mzc5NjgyNDgxLTY1Y2NjYTNkMTQ4NDgzYzNjZDNkMzAyZDg2ZjQ0MGQ3Y2I4MjU0NjZkODI3MDc0MWM1MGM3YzgyYzFkNmM5OWY\n\nIf you're not able to attend in person feel free to log into the slack site and we'll keep an eye out for remote members questions too! Dead Simple Screen Sharing is enabled on the slack site so just type '/screenshare' into chat and can start a screens share with other members.\n\nOther event info:\nNo event-sponsored food or drink but members are welcome to bring their own snack and/or non-alcoholic drink.",
+    "status": "CANCELLED",
+    "dateTime": "2018-06-05T18:30:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-boston/events/250419589/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 1,
+      "waitlistCount": 0,
+      "totalCount": 1
+    },
+    "venues": [
+      {
+        "id": "7129642",
+        "name": "Liberty Wharf",
+        "address": "250 Northern Ave",
+        "city": "Boston",
+        "state": "MA",
+        "country": "us",
+        "lat": 42.3488,
+        "lon": -71.0384,
+        "postalCode": "02210",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Boston",
+      "urlname": "rladies-boston"
+    },
+    "createdTime": "2018-04-16T13:45:15-04:00"
+  },
+  {
+    "id": "250358485",
+    "title": "That's not [data] science!",
+    "description": "We are excited to announce that Mara Averick will be the speaker at the next R-Ladies Boston meetup, on May 30th, 2018.\n\nMara has a wealth of experience in data analysis and visualization, or in her own words, she is a “data nerd at large”. Mara currently works as \"tidyverse developer advocate\" at RStudio. She has an amazing talent in digging into heavily technical subject matters, and presenting them in an easy-to-understand form for less-technical audience.\n\nHere is the abstract of Mara's talk:\n\n\"The boundaries of science and its constituent disciplines have never been static. Nevertheless, these boundaries and their associated terms have been fiercely defended and debated from within. Scientific norms and authority are established with an audience in mind — the public, policymakers, stakeholders, and even institutions. Though 'public understanding of science' has been the subject of academic inquiry for several decades, the channels and opportunities for engagement have changed dramatically with the rise of social media, and 'democratized' vectors of communication, including the co-production of open-source software.\"\n\nFood and drinks will be provided by our awesome hosts!\n\nWe request that you share a full name through the RSVP (only goes to organizers) so we can accommodate our host's security practices.",
+    "status": "PAST",
+    "dateTime": "2018-05-30T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-boston/events/250358485/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 48,
+      "waitlistCount": 0,
+      "totalCount": 48
+    },
+    "venues": [
+      {
+        "id": "24787126",
+        "name": "Vertex Pharmaceuticals",
+        "address": "50 Northern Avenue",
+        "city": "Boston",
+        "state": "MA",
+        "country": "us",
+        "lat": 42.3534,
+        "lon": -71.0462,
+        "postalCode": "",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Boston",
+      "urlname": "rladies-boston"
+    },
+    "createdTime": "2018-05-01T22:14:01-04:00"
+  },
+  {
+    "id": "249399458",
+    "title": "R Ladies - Purely Project Night",
+    "description": "Project-night event where members can work on their own projects (career, personal,hackathon/content work, etc.) during the meeting and also possibly answer questions of other members. Sort of like a stackoverflow but live/real-time and local.\n\nA new slack site is available for attendees to also log onto during the event\nAttendees encouraged to voice any questions might have during Project -night (coding/database/design related etc.) there or in person in the room.\nSlack site:\nhttps://join.slack.com/t/r-ladiesprojectnight/shared_invite/enQtMzQ2Mzc5NjgyNDgxLTY1Y2NjYTNkMTQ4NDgzYzNjZDNkMzAyZDg2ZjQ0MGQ3Y2I4MjU0NjZkODI3MDc0MWM1MGM3YzgyYzFkNmM5OWY\n\nIf you're not able to attend in person feel free to log into the slack site and we'll keep an eye out for remote members questions too! Dead Simple Screen Sharing is enabled on the slack site so just type '/screenshare' into chat and can start a screens share with other members.\n\nOther event info:\nNo event-sponsored food or drink but members are welcome to bring their own snack and/or non-alcoholic drink.",
+    "status": "PAST",
+    "dateTime": "2018-04-25T18:30:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-boston/events/249399458/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 10,
+      "waitlistCount": 0,
+      "totalCount": 10
+    },
+    "venues": [
+      {
+        "id": "7129642",
+        "name": "Liberty Wharf",
+        "address": "250 Northern Ave",
+        "city": "Boston",
+        "state": "MA",
+        "country": "us",
+        "lat": 42.3488,
+        "lon": -71.0384,
+        "postalCode": "02210",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Boston",
+      "urlname": "rladies-boston"
+    },
+    "createdTime": "2018-04-03T17:44:53-04:00"
+  },
+  {
+    "id": "249421718",
+    "title": "Shiny DevOps with Laura Stone",
+    "description": "LATE BREAKING: If you'd like to follow along during the workshop, please create an AWS account ahead of time. Creating an account is free (https://aws.amazon.com/free/), and includes a free trial of the features Laura will demo.\n\nLaura will show us how to set up our own Shiny deployments on AWS, considering features like isolated environments for separate apps. Note this meetup will NOT cover how to write a Shiny app.\n\nLaura Stone is a Senior Site Reliability Engineer at Klaviyo, you may have met or seen her at past R-Ladies events as she is our inside connection :) Laura is also the organizer for PyLadies Boston.\n\nRSVPs will close at 2pm the day before the meetup\n\nFood & drink generously provided by Klaviyo",
+    "status": "PAST",
+    "dateTime": "2018-04-19T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-boston/events/249421718/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 16,
+      "waitlistCount": 0,
+      "totalCount": 16
+    },
+    "venues": [
+      {
+        "id": "25396629",
+        "name": "Klaviyo",
+        "address": "225 Franklin Street",
+        "city": "Boston",
+        "state": "MA",
+        "country": "US",
+        "lat": 42.356,
+        "lon": -71.054,
+        "postalCode": "02110",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Boston",
+      "urlname": "rladies-boston"
+    },
+    "createdTime": "2018-04-04T10:14:40-04:00"
+  },
+  {
+    "id": "248439702",
+    "title": "Bring your problems: ggplot2 edition",
+    "description": "NOTE DATE CHANGE DUE TO STORM\n\n• What we'll do\nAs a topical follow-up to Alex's great talk last month, we'll be collaborating on ggplot2 issues! Bring your problems, bring your successes, bring your almost-theres. There will be a 10-15 minute talk about using tidyr to prepare your data for plotting. If nobody brings problems and instead just stares at me, we can go over some examples and do some mob plotting - I think there's great potential for information exchange!. This event is aimed at users who have worked with data frames before and want to flex their plotting muscles, for the first or 1000th time! (All skill levels are welcome, but I usually get a few questions about the \"level\" of the event)\n\n• What to bring\nProblems! Ideas!\n\n• Important to know\nDinner will be generously provided by Klaviyo, and RSVPs will close at 4pm one day before the event in order for the attendee list to make its way to building security.",
+    "status": "PAST",
+    "dateTime": "2018-03-28T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-boston/events/248439702/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 18,
+      "waitlistCount": 0,
+      "totalCount": 18
+    },
+    "venues": [
+      {
+        "id": "25396629",
+        "name": "Klaviyo",
+        "address": "225 Franklin Street",
+        "city": "Boston",
+        "state": "MA",
+        "country": "US",
+        "lat": 42.356,
+        "lon": -71.054,
+        "postalCode": "02110",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Boston",
+      "urlname": "rladies-boston"
+    },
+    "createdTime": "2018-03-05T12:56:46-05:00"
+  },
+  {
+    "id": "246643162",
+    "title": "Channeling Curiosity into R Data Visualization Projects - with Alex Albright",
+    "description": "• What we'll do\nHow can R users learn to visualize data? While there are many incredible courses and resources, nothing is as effective as finding an intriguing question and challenging oneself to create an original visual answer. Generating visualizations can be astonishingly satisfying and can drive deep dives into R workflow, libraries, and community resources. I will present snippets of scripts and notebooks written to visually answer the following questions, running the gamut from quirky and light to serious and weighty: How often do female athletes grace the cover of Sports Illustrated? How have demographics changed in the sciences? How have Pixar movie ratings changed over time? How did US Senators vote on healthcare repeal? Which characters are closest on the TV show ‘Friends’?\n\nPresenter Bio:\nAlex Albright is a PhD student in economics at Harvard University. An aspiring labor and behavioral economist, Alex is passionate about making empirical academic work reproducible and accessible. Her usage of R stems from a desire to use tools that are freely available and open source. She is an enthusiastic user of the ggplot2 package for visually communicating her explorations of a wide variety of datasets. She engages with general audiences outside of academia by writing about economics and data-driven questions at her blog, The Little Dataset (https://thelittledataset.com/)\n\n• What to bring\n\n• Important to know",
+    "status": "PAST",
+    "dateTime": "2018-02-20T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-boston/events/246643162/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 39,
+      "waitlistCount": 0,
+      "totalCount": 39
+    },
+    "venues": [
+      {
+        "id": "25396629",
+        "name": "Klaviyo",
+        "address": "225 Franklin Street",
+        "city": "Boston",
+        "state": "MA",
+        "country": "US",
+        "lat": 42.356,
+        "lon": -71.054,
+        "postalCode": "02110",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Boston",
+      "urlname": "rladies-boston"
+    },
+    "createdTime": "2018-01-09T09:18:01-05:00"
+  },
+  {
+    "id": "246106335",
+    "title": "purrr with Phoebe Wong",
+    "description": "• What we'll do\nPhoebe will walk through the purrr package, a complete and consistent functional programming toolkit for R. It will be a hands-on workshop focusing on map() functions that help to perform iterative tasks with more readable code. It is especially helpful when working with nested list, for example, JSON objects, a common data format from web scraping outputs and databases.\n\nThe workshop is designed to be beginner friendly that no prior experience with purrr is required. However, some experience with data manipulation in lists and data frames in R will be helpful to understand the content. We recommend you to bring your personal laptop with R and RStudio installed, however, it is not a requirement. More setup details to follow closer to the date.\n\nAbout the speaker\n\nPhoebe Wong is a research analyst in the analytics group of a Hollywood movie production company. She uses R at her day job, while outside of work, she uses R to wrangle interesting public data and build Shiny applications. She presented at useR! 2017 on her personal project, a Shiny application to visualize Microsoft Outlook calendar history. She holds a Bachelor degree in Psychology at University of California, Berkeley.\n\n• What to bring\nA laptop with R and RStudio installed, and cat puns/jokes if you've got 'em ;)\n\n• Important to know\nPlease include your full name (if not displayed) and the full names of your guest(s) when you RSVP, it's a condition of the generosity of our hosts",
+    "status": "PAST",
+    "dateTime": "2018-01-23T18:00:00-05:00",
+    "duration": "PT2H30M",
+    "eventUrl": "https://www.meetup.com/rladies-boston/events/246106335/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 21,
+      "waitlistCount": 0,
+      "totalCount": 21
+    },
+    "venues": [
+      {
+        "id": "25396629",
+        "name": "Klaviyo",
+        "address": "225 Franklin Street",
+        "city": "Boston",
+        "state": "MA",
+        "country": "US",
+        "lat": 42.356,
+        "lon": -71.054,
+        "postalCode": "02110",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Boston",
+      "urlname": "rladies-boston"
+    },
+    "createdTime": "2017-12-21T20:39:05-05:00"
+  },
+  {
+    "id": "266689191",
+    "title": "December Social",
+    "description": "December is a hard time to schedule things, so R-Ladies Boston has historically done a low-key December \"pub nite\". This year we're switching it up slightly and meeting at the Clover Food Lab in Kendall Square (right above the T station, in the Google building). This allows for purchase of tasty dinner options as well as beer and that holy grail, the Equally Attractive Non-Alcoholic Beverage (fancy teas and sodas!).\n\nPlease bring money/card to pay for your food & drink - purchase isn't required to attend but we hope you will support this business while we use their space.\n\nPop in and say hi, or stay longer and workshop your ideas for events, projects, or R-Ladies talks (wink)",
+    "status": "PAST",
+    "dateTime": "2019-12-16T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-boston/events/266689191/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 16,
+      "waitlistCount": 0,
+      "totalCount": 16
+    },
+    "venues": [
+      {
+        "id": "26584517",
+        "name": "Clover Food Lab",
+        "address": "5 Cambridge Ctr",
+        "city": "Cambridge",
+        "state": "MA",
+        "country": "us",
+        "lat": 42.3626,
+        "lon": -71.0872,
+        "postalCode": "02139",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Boston",
+      "urlname": "rladies-boston"
+    },
+    "createdTime": "2019-11-23T12:42:12-05:00"
+  },
+  {
+    "id": "265179803",
+    "title": "R-Ladies Boston & Boston useR Group: Lightning Talks with the Tidyverse Team",
+    "description": "** WEBINAR LINK ADDED **\n\nRStudio and BMS have made it possible for folks to join us from home. My understanding is that this will be audio and slides only.\n\njoinwebinar.com\nWebinar ID: 187-790-211\n\nTo ask questions, also join at www.slido.com with the code: #314159\n\n********\nThis is a co-hosted event, so PLEASE ONLY RSVP TO ONE OF THE GROUPS (R-Ladies or userR)\n\nNever before, at the same place, at the same time...\nThe entire Tidyverse team will present a series of lightning talks live here in Boston.\n\nLightning talks from:\n* Mara Averick\n* Jenny Bryan\n* Gabor Csardi\n* Romain Francois (remote)\n* Jim Hester\n* Lionel Henry\n* Max Kuhn\n* Thomas Lin Pedersen\n* Davis Vaughan\n* Hadley Wickham\n\nAgenda:\n* 6:00 - 6:30 Networking (light food & drinks)\n* 6:30 - 7:30 Lightning Talks\n* 7:30 - 8:00 Questions with Tidyverse Panel\n\nFor those not familiar with the Tidyverse: The tidyverse is an opinionated collection of R packages designed for data science. All packages share an underlying design philosophy, grammar, and data structures. (tidyverse.org)\n\nThank you to Bristol-Myers Squibb for the event space and to RStudio for sponsoring the food and drinks.\n\nCo-hosted by Boston useR Group & R-Ladies Boston\n* www.meetup.com/Boston-useR/\n*www.meetup.com/rladies-boston/",
+    "status": "PAST",
+    "dateTime": "2019-10-29T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-boston/events/265179803/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 43,
+      "waitlistCount": 11,
+      "totalCount": 43
+    },
+    "venues": [
+      {
+        "id": "26651285",
+        "name": "Bristol Myers Squibb",
+        "address": "250 Water St",
+        "city": "Cambridge",
+        "state": "MA",
+        "country": "us",
+        "lat": 42.3652,
+        "lon": -71.0811,
+        "postalCode": "02142",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Boston",
+      "urlname": "rladies-boston"
+    },
+    "createdTime": "2019-09-26T09:25:20-04:00"
+  },
+  {
+    "id": "264697967",
+    "title": "WiMLDS and R-Ladies Boston Data Visualization Challenge",
+    "description": "R-Ladies Boston and WiMLDS Boston are coming together to host a data visualization challenge!\n\nFor this event, you will join teams and work with local Boston data that we will provide that evening to create informative and creative data visualizations. Feel free to use whatever visualization tools you already love or would like to learn more about.\n\nWho can attend: We are inclusive to anyone who supports our cause regardless of gender identity or technical background.\n\nSchedule:\n6:00pm-6:30pm: Welcome and introductions\n6:30pm-8:00pm: Code your data viz!\n8:00pm-8:30pm: Present your data viz, vote for winners, and award prizes\n\nIMPORTANT:\n- This is a ticketed event and there are a limited number of spots. You must RSVP to the event on Eventbrite using this link: https://bit.ly/2kxue1F\n- After you have a ticket, join or create a team using this Google Sheet: https://bit.ly/2kl56eB\n- You must bring photo ID to the event.\n- Refreshments will be provided.",
+    "status": "PAST",
+    "dateTime": "2019-09-19T18:00:00-04:00",
+    "duration": "PT2H30M",
+    "eventUrl": "https://www.meetup.com/rladies-boston/events/264697967/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 6,
+      "waitlistCount": 0,
+      "totalCount": 6
+    },
+    "venues": [
+      {
+        "id": "25972667",
+        "name": "Vertex Pharmaceuticals (Vertex Two)",
+        "address": "11 Fan Pier Blvd",
+        "city": "Boston",
+        "state": "ma",
+        "country": "us",
+        "lat": 42.3542,
+        "lon": -71.0453,
+        "postalCode": "02210",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Boston",
+      "urlname": "rladies-boston"
+    },
+    "createdTime": "2019-09-09T13:53:18-04:00"
+  },
+  {
+    "id": "263003597",
+    "title": "Breaking the Speed Limit [Marianna practices her R in Pharma talk]",
+    "description": "We're talking speed!\n\nAs a developer rather than a statistician, one barrier that I see to R usage and evangelism is the perception (and reality) of R’s slow processing speeds. Whether you’re doing thousands of simulations, or just reading a large file into a workspace or app, waiting time matters. In this talk, I’m digging into what makes R slow, and what tools, packages, techniques and platforms are out there to boost R performance.\n\nPizza will be served",
+    "status": "PAST",
+    "dateTime": "2019-08-19T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-boston/events/263003597/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 34,
+      "waitlistCount": 0,
+      "totalCount": 34
+    },
+    "venues": [
+      {
+        "id": "25396629",
+        "name": "Klaviyo",
+        "address": "225 Franklin Street",
+        "city": "Boston",
+        "state": "MA",
+        "country": "US",
+        "lat": 42.356,
+        "lon": -71.054,
+        "postalCode": "02110",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Boston",
+      "urlname": "rladies-boston"
+    },
+    "createdTime": "2019-07-09T13:37:05-04:00"
+  },
+  {
+    "id": "262911926",
+    "title": "Ice Cream Social",
+    "description": "Drop in and socialize with other R-Ladies over tasty ice cream (bring your wallet, though, we don't have a sponsor so you will have to buy your own treat). This event was small but very successful last year! No prep, no presentation, but lots of good company.\n\nGet in touch if you or your company can sponsor!",
+    "status": "PAST",
+    "dateTime": "2019-07-15T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-boston/events/262911926/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 9,
+      "waitlistCount": 0,
+      "totalCount": 9
+    },
+    "venues": [
+      {
+        "id": "26450700",
+        "name": "Toscanini's Ice Cream",
+        "address": "159 First St",
+        "city": "Cambridge",
+        "state": "MA",
+        "country": "us",
+        "lat": 42.366,
+        "lon": -71.0782,
+        "postalCode": "02139",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Boston",
+      "urlname": "rladies-boston"
+    },
+    "createdTime": "2019-07-05T20:48:19-04:00"
+  },
+  {
+    "id": "259674786",
+    "title": "Intro to Shiny",
+    "description": "We're finally doing another Shiny meetup! Marianna will walk through the basic elements of writing a Shiny web app, starting from the ground up. You will get more out of this if you know some R (we won't review it) but NO Shiny experience is required. Bring your laptops to follow along.\n\nPizza will be served",
+    "status": "PAST",
+    "dateTime": "2019-04-16T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-boston/events/259674786/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 44,
+      "waitlistCount": 0,
+      "totalCount": 44
+    },
+    "venues": [
+      {
+        "id": "25396629",
+        "name": "Klaviyo",
+        "address": "225 Franklin Street",
+        "city": "Boston",
+        "state": "MA",
+        "country": "US",
+        "lat": 42.356,
+        "lon": -71.054,
+        "postalCode": "02110",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Boston",
+      "urlname": "rladies-boston"
+    },
+    "createdTime": "2019-03-11T13:01:15-04:00"
+  },
+  {
+    "id": "259597489",
+    "title": "Enter the Tidyverse after a brief tour of DataMaid",
+    "description": "ENTER THE TIDYVERSE\nMeredith Brown is a data scientist at Vertex Pharmaceuticals, where she applies NLP, machine learning, and advanced analytical methods to projects across the enterprise. She first learned R while doing her PhD in brain and cognitive sciences at the University of Rochester.\n\nShe'll share some practical tips for project organization and documentation across different business contexts. We hope to spark informal discussion of data and code organization tools and principles, and to orient awareness toward resources like the Tidyverse Style Guide. The discussion will be aimed toward beginner and intermediate R users, but all perspectives are welcome.\n\nBRIEF TOUR OF DATAMAID\nMena Morales is an Associate Director in Data Strategy and Solutions at Vertex Pharmaceuticals where she leads the DSS product and engineering team. She first learned R in graduate school while working on her PhD in neuroscience at Washington University in St. Louis.\n\nShe'll give a brief tour of DataMaid (https://cran.r-project.org/web/packages/dataMaid/index.html), a great package for the first steps of exploratory data analysis. The intent is just to give a quick introduction to the package so you'll know where to start when you're trying to see if it is useful for you.",
+    "status": "PAST",
+    "dateTime": "2019-03-21T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-boston/events/259597489/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 22,
+      "waitlistCount": 0,
+      "totalCount": 22
+    },
+    "venues": [
+      {
+        "id": "25972667",
+        "name": "Vertex Pharmaceuticals (Vertex Two)",
+        "address": "11 Fan Pier Blvd",
+        "city": "Boston",
+        "state": "ma",
+        "country": "us",
+        "lat": 42.3542,
+        "lon": -71.0453,
+        "postalCode": "02210",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Boston",
+      "urlname": "rladies-boston"
+    },
+    "createdTime": "2019-03-08T12:01:44-05:00"
+  },
+  {
+    "id": "257714177",
+    "title": "Packages with Juliane Manitz",
+    "description": "Join us as statistician Juliane Manitz takes us through the whys and hows of how R packages are built. She will also demo a few existing packages you can use to develop your own.\n\nJuliane is a statistician who has been using R since 2004. She contributed to five R packages of which she maintains three. She started developing her first R package about 10 years ago.\n\nPizza will be served",
+    "status": "PAST",
+    "dateTime": "2019-01-30T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-boston/events/257714177/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 17,
+      "waitlistCount": 0,
+      "totalCount": 17
+    },
+    "venues": [
+      {
+        "id": "25396629",
+        "name": "Klaviyo",
+        "address": "225 Franklin Street",
+        "city": "Boston",
+        "state": "MA",
+        "country": "US",
+        "lat": 42.356,
+        "lon": -71.054,
+        "postalCode": "02110",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Boston",
+      "urlname": "rladies-boston"
+    },
+    "createdTime": "2019-01-02T12:54:06-05:00"
+  },
+  {
+    "id": "274534826",
+    "title": "CV Workshop",
+    "description": "Join R-Ladies Boston for a workshop on CVs and resumes Thursday November, 19th from 6 - 7:30 pm.\n\nWe will explore some packages and workflows that can help you create a beautiful CV or resume with R (and other non R methods too!) We will also be talking about tips for tailoring your CV and resumes for job applications. Whether you are on the job hunt or not now, keeping records of your amazing work is an important way to make job hunting less terrible in the future.\n\nIf you have experience in hiring or reviewing CVs and resumes and want to participate in a panel discussion (minimal prep required ~15 minutes), please email Mara dot Alexeev at gmail.com to discuss.\n\nHave questions on the process or a package you think would be good to discuss? Email Mara that too or post it on the R-Ladies Slack channel!",
+    "status": "PAST",
+    "dateTime": "2020-11-19T18:00:00-05:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-boston/events/274534826/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 40,
+      "waitlistCount": 0,
+      "totalCount": 40
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Boston",
+      "urlname": "rladies-boston"
+    },
+    "createdTime": "2020-11-11T13:34:41-05:00"
+  },
+  {
+    "id": "273846184",
+    "title": "Virtual Happy Hour!",
+    "description": "Join R-Ladies for our inaugural virtual happy hour on Tuesday, October 13th at 6 pm. The event will be hosted on Gather.Town which is a 2D world that allows proximity based video chat. Space is limited to 25 people, so if demand exceeds capacity, we'll schedule another one soon!\n\nCome chat about R or not R with other Boston R-Ladies with your favorite fall libations--hot cocoa, pumpkin spice anything, cider, etc.\n\nWe will have some short ice breakers at the beginning of social hour to introduce folks to each other, but after that you will be able to walk about and mingle as you want.",
+    "status": "PAST",
+    "dateTime": "2020-10-13T18:00:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-boston/events/273846184/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 6,
+      "waitlistCount": 0,
+      "totalCount": 6
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Boston",
+      "urlname": "rladies-boston"
+    },
+    "createdTime": "2020-10-10T14:50:21-04:00"
+  },
+  {
+    "id": "272149449",
+    "title": "Viewing Party with Sharla.party!",
+    "description": "*** ZOOM INFO *** PLEASE SIGN IN WITH YOUR MEETUP NAME ***\n\nPlease use your meetup user name so we can screen for approved attendees in the virtual waiting room!\n\nJoin Zoom Meeting\n\nhttps://vrtx.zoom.us/j/99350234512?pwd=SEhlS0grSVJGeTJmNjBhQ0ZPMGpKUT09\n\nMeeting ID: 993 5023 4512\nPassword: 776507\n\nJoin from a VC Room\nDial: meet@zoomcrc.com\nEnter Meeting ID: 99350234512, then #.\nEnter Password: 776507, then #.\n\nOne tap mobile\n\n+19292056099,,99350234512# US (New York)\n+13017158592,,99350234512# US (Germantown)\n\n***\n\n95 years ago, in January 2020, Sharla Gelfand (@sharlagelfand, they/she) gave a fun, super useful talk at RStudio::conf about reproducible reporting (https://rstudio.com/resources/rstudioconf-2020/don-t-repeat-yourself-talk-to-yourself-repeated-reporting-in-the-r-universe/), and while we're all largely trapped in our homes, we're bringing back the talk and Sharla too!\n\nIn this online event, we will gather to watch Sharla's the 21 minute talk together, and they will join us for chatting and live Q&A!",
+    "status": "PAST",
+    "dateTime": "2020-09-16T18:00:00-04:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-boston/events/272149449/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 24,
+      "waitlistCount": 0,
+      "totalCount": 24
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Boston",
+      "urlname": "rladies-boston"
+    },
+    "createdTime": "2020-07-25T14:27:16-04:00"
+  },
+  {
+    "id": "272250936",
+    "title": "Career Clarity Workshop with Arivee Vargas",
+    "description": "*** The ZOOM Link for this evening has been emailed to those who've RSVP'd. Please check your spam folder. Message Mena if you RSVP'd but didn't receive the link.***\n\n***Looks like some of you didn't get the link. It is entered below.***\n\nWe're trying something new for August!\n\nWith everything that is going on in the world and all the uncertainty many of us are experiencing, we thought it would be a good time to pause and get some clarity. If you're not sure about your next step or want a change but don't know where to start, this one's for you. Join us for an evening of career and personal development with Life and High-Performance Coach, Arivee Vargas.\n\nArivee will lead us in a 1.5 hr interactive workshop aimed to help find clarity. The main goals are to:\n1) Help you think through where you could create more clarity in your life and career. What are the opportunities for more clarity to help you move forward or take some action towards what you may really want?\n2) Provide some practices and strategies you can immediately apply to help you develop clarity and get results\n\nThis will be a virtual event and the link will be provided the day of the event to individuals who RSVP. Please include your full name in the RSVP.\n\nAbout Arivee Vargas\nArivee Vargas is the Founder of Humble Rising LLC, which aims to motivate and inspire women to pursue a life and career that brings them joy, meaning, and aligns with who they really are. She’s a certified life and high-performance coach to early- to mid-career women professionals in fast-paced environments. As a coach, she helps women gain clarity, overcome fears and self-doubt, break through limiting beliefs, and push through other roadblocks to have the life and career they really want and deserve. Arivee created the Four A’s framework (Activate, Align, Assess, Ask) to help women get unstuck and gain clarity. She frequently speaks on panels and delivers keynotes on topics related to personal growth and professional development.\n\nArivee is a trained litigator and spent most of her legal career at two large law firms, including Jones Day, the world’s largest law firm. She served as a law clerk to a federal appellate judge and federal district court judge in Massachusetts. She also taught an introduction to business law course for several years at Boston College’s Carroll School of Management.\n\nArivee is currently a Business Partner in the Office of Business Integrity and Ethics at Vertex Pharmaceuticals Incorporated. In that role, she advises business functions on a variety of matters. She also designed, implemented, and leads the Global Assurance and Global Anti-corruption/Anti-bribery programs including third party risk management initiatives. In addition, she leads the Empower initiative of the women’s employee resource network IWILL (Inspiring Women In Leadership and Learning), focused on the career growth and development of women at the company.",
+    "status": "PAST",
+    "dateTime": "2020-08-11T17:30:00-04:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-boston/events/272250936/",
+    "featuredEventPhoto": {
+      "id": "491571549",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/c/9/5/d/highres_491571549.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/c/9/5/d/600_491571549.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/9/5/d/thumb_491571549.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 29,
+      "waitlistCount": 0,
+      "totalCount": 29
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Boston",
+      "urlname": "rladies-boston"
+    },
+    "createdTime": "2020-07-30T11:01:08-04:00"
+  },
+  {
+    "id": "267945414",
+    "title": "January Event: Data Gets Personal",
+    "description": "In this talk, Louisa Smith will describe her experience collecting and analyzing some very personal data: data relating to her breast cancer treatment. From digging deep into her health insurance website to tracking her drug-induced hot flashes, Louisa will detail how she ended up with the data in this powerful twitter thread: https://twitter.com/louisahsmith/status/1179429494664388609. Whether you are interested in learning more about collecting data about yourself or just want to know how R can serve both as a tool to cope during stressful times and as a tool for advocacy, join us!\n\nLouisa is currently a PhD candidate in epidemiology at Harvard TH Chan School of Public Health. She has been using R for five years in both her professional and personal lives. You can find her at https://www.louisahsmith.com and on twitter @louisahsmith.\n\nPizza will be served (thanks to BMS!) and the presentation will begin at 6:15",
+    "status": "PAST",
+    "dateTime": "2020-01-29T17:30:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-boston/events/267945414/",
+    "featuredEventPhoto": {
+      "id": "488187807",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/c/9/f/highres_488187807.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/c/9/f/600_488187807.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/c/9/f/thumb_488187807.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 23,
+      "waitlistCount": 0,
+      "totalCount": 23
+    },
+    "venues": [
+      {
+        "id": "26651285",
+        "name": "Bristol Myers Squibb",
+        "address": "250 Water St",
+        "city": "Cambridge",
+        "state": "MA",
+        "country": "us",
+        "lat": 42.3652,
+        "lon": -71.0811,
+        "postalCode": "02142",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Boston",
+      "urlname": "rladies-boston"
+    },
+    "createdTime": "2020-01-15T17:07:35-05:00"
+  },
+  {
+    "id": "279681858",
+    "title": "Virtual Happy Hour!",
+    "description": "Join R-Ladies for another virtual happy hour on Thursday, July 29th at 7 pm. The event will be hosted on Gather.Town which is a 2D world that allows proximity based video chat. Link will be sent out after folks RSVP.\n\nCome chat about R or not R with other Boston R-Ladies and help generate some ideas for future Boston R-Ladies meet-ups.",
+    "status": "PAST",
+    "dateTime": "2021-07-29T19:00:00-04:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-boston/events/279681858/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 3,
+      "waitlistCount": 0,
+      "totalCount": 3
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Boston",
+      "urlname": "rladies-boston"
+    },
+    "createdTime": "2021-07-24T16:44:26-04:00"
+  },
+  {
+    "id": "275185383",
+    "title": "Tips and Tricks for Interactive HTML Tables with R",
+    "description": "Join us as Sharon Machlis (https://www.machlis.com/) shares her excitement about all the things you can do with interactive tables! (like put tiny, tiny plots into them!)\n\nAbout Sharon\n\nSharon is equally at home analyzing data, coding tools for journalists, and writing about technology. She is currently director of editorial data & analytics at IDG Communications, publisher of tech Web sites including Computerworld, CIO, PCWorld, and Macworld.\n\nShe has worked on data projects such as analyzing tens of thousands of tech visa applications. She has also taught both R and general data visualization at ProPublica, Investigative Reporters and Editors' Computer Assisted Reporting conferences, Boston University workshops, American Society of Business Press Editors webinars, and a national Journalism and Women Symposium.\n\nShe was previously executive editor, data & analytics at Computerworld, where she won the 2014 ASBPE national gold award for impact/investigative online excellence (see story) and the 2014 and 2017 ASBPE national golds for best how-to article (see 2014 and 2017 winners).\n\nSharon holds an Extra-class ham radio license and was honored by the Association of Radio Amateurs of Bosnia & Herzegovina \"for extraordinary contribution to transmitting humanitarian messages of the citizens of Bosnia-Herzegovina\" during the 1992-95 war.\n\nSharon's other hobbies include photography, travel, hiking, snowshoeing, and classical piano. And, she's somewhat obsessed with the R programming language.",
+    "status": "PAST",
+    "dateTime": "2021-01-12T18:00:00-05:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-boston/events/275185383/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 49,
+      "waitlistCount": 0,
+      "totalCount": 49
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Boston",
+      "urlname": "rladies-boston"
+    },
+    "createdTime": "2020-12-14T20:36:11-05:00"
+  },
+  {
+    "id": "311779149",
+    "title": "Meetup at Time Out Market",
+    "description": "Join us for an evening of networking! We're looking forward to catch up and plan upcoming events for R-Ladies Boston.\n\nWhile we won't be providing refreshments, Time Out Market offers a variety of options for purchasing your own food and drinks.\nSee you there!\n\nPlease keep in mind that our social-only events are intended for women and gender minorities",
+    "status": "PAST",
+    "dateTime": "2025-11-06T18:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-boston/events/311779149/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 6,
+      "waitlistCount": 0,
+      "totalCount": 6
+    },
+    "venues": [
+      {
+        "id": "26497545",
+        "name": "Time Out Market Boston",
+        "address": "401 Park Dr",
+        "city": "Boston",
+        "state": "MA",
+        "country": "us",
+        "lat": 42.3447,
+        "lon": -71.1027,
+        "postalCode": "02215",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Boston",
+      "urlname": "rladies-boston"
+    },
+    "createdTime": "2025-10-30T10:35:21-04:00"
+  },
+  {
+    "id": "311447266",
+    "title": "Show your plot: Data lunch with R-Ladies Boston",
+    "description": "Join us for another informal lunchtime session, where we’ll come together to share feedback, ideas, and inspiration for plots created in R!\n\nBring a plot you’ve created (or are working on!) and share your process, challenges, and creative decisions. Don’t have a plot to share? No problem! Come to offer feedback, ask questions, and get inspired by others in the community.\n\n**Who should attend?**\nAnyone interested in data visualization with R—whether you’re a beginner, an expert, or somewhere in between.",
+    "status": "PAST",
+    "dateTime": "2025-10-24T12:00:00-04:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-boston/events/311447266/",
+    "featuredEventPhoto": {
+      "id": "530637537",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/e/0/c/1/highres_530637537.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/e/0/c/1/600_530637537.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/0/c/1/thumb_530637537.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 11,
+      "waitlistCount": 0,
+      "totalCount": 11
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Boston",
+      "urlname": "rladies-boston"
+    },
+    "createdTime": "2025-10-08T17:58:28-04:00"
+  },
+  {
+    "id": "311124763",
+    "title": "Posit conf recap: Data lunch with R-Ladies Boston",
+    "description": "Did you attend Posit Conf 2025? Or did you miss it and want to catch up?\nJoin us for a casual lunchtime meetup as we share highlights and key takeaways from the conference!\n\nThis informal virtual event is designed to foster conversation and collaboration, so bring your lunch and your curiosity. We'll talk about our experiences, favorite talks, tips, packages, and, of course, stickers!\n\n**Who should attend?**\nAnyone interested in R, data science, and the latest developments in the Posit ecosystem—whether you're a beginner, an expert, or somewhere in between.\n\nWe can’t wait to see you there!",
+    "status": "PAST",
+    "dateTime": "2025-09-26T12:00:00-04:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-boston/events/311124763/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 8,
+      "waitlistCount": 0,
+      "totalCount": 8
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Boston",
+      "urlname": "rladies-boston"
+    },
+    "createdTime": "2025-09-19T13:56:19-04:00"
+  },
+  {
+    "id": "305961421",
+    "title": "R-Ladies Boston Reconnect: Networking + social",
+    "description": "**R-Ladies Boston Reconnect: Networking + social**\n\nJoin us for an evening of networking and reconnection!\nAfter some time apart, we're looking forward to bringing our community together once again. Whether you're an experienced R user or new to the field, this meetup is a chance to meet others who share our enthusiasm for all things R and data science.\n\nWhile we won't be providing refreshments this time, Time Out Market offers a variety of options for purchasing your own food and drinks.\n\nWe hope to see many familiar and new faces. It will be a great opportunity to catch up and collaboratively plan our upcoming events as a community!\n\nPlease keep in mind that our social-only events are intended for women and gender minorities",
+    "status": "PAST",
+    "dateTime": "2025-02-27T17:00:00-05:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-boston/events/305961421/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 8,
+      "waitlistCount": 0,
+      "totalCount": 8
+    },
+    "venues": [
+      {
+        "id": "26497545",
+        "name": "Time Out Market Boston",
+        "address": "401 Park Dr",
+        "city": "Boston",
+        "state": "MA",
+        "country": "us",
+        "lat": 42.3447,
+        "lon": -71.1027,
+        "postalCode": "02215",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Boston",
+      "urlname": "rladies-boston"
+    },
+    "createdTime": "2025-02-02T17:10:38-05:00"
+  }
+]
