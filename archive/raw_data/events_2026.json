@@ -15,9 +15,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/e/7/1/a/thumb_536999162.jpeg"
     },
     "rsvps": {
-      "yesCount": 3,
+      "yesCount": 5,
       "waitlistCount": 0,
-      "totalCount": 3
+      "totalCount": 5
     },
     "venues": [
       {
@@ -49,9 +49,9 @@
     "eventUrl": "https://www.meetup.com/rladies-limoges/events/316973463/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 3,
+      "yesCount": 4,
       "waitlistCount": 0,
-      "totalCount": 3
+      "totalCount": 4
     },
     "venues": [
       {
@@ -86,6 +86,40 @@
     "createdTime": "2026-10-14T07:30:46-04:00"
   },
   {
+    "id": "317373503",
+    "title": "RLadies+ Philly with Padmashri Saravanan",
+    "description": "TBD",
+    "status": "ACTIVE",
+    "dateTime": "2026-12-02T12:00:00-05:00",
+    "duration": "PT1H",
+    "eventUrl": "https://www.meetup.com/rladies-philly/events/317373503/",
+    "featuredEventPhoto": {},
+    "rsvps": {
+      "yesCount": 7,
+      "waitlistCount": 0,
+      "totalCount": 7
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Philly",
+      "urlname": "rladies-philly"
+    },
+    "createdTime": "2026-11-10T16:20:44-05:00"
+  },
+  {
     "id": "317281096",
     "title": "R-Ladies+ Melbourne End of Year trivia event & 10th Birthday!",
     "description": "🎉 **R-Ladies+ Melbourne is turning 10!** 💜🎂\nAnd what better way to celebrate a decade of R, data science, and community than with an R-themed Trivia Night!\n\nJoin us for a fun evening of trivia, laughs, and a little friendly competition as we put our R knowledge to the test!\n\nThere will be prizes!!\n\nFrom R basics and quirky coding questions to packages and data visualisation, there'll be something for everyone - whether you're an R newbie or a seasoned tidyverse enthusiast!\n\n✨ No coding required, just bring your curiosity and competitive spirit!\nMost importantly, it's a chance to celebrate 10 years of R-Ladies+ Melbourne and celebrate the end of the year, reconnect with familiar faces, and welcome new members to our community.\n\nFood and drinks will be provided!\n\n💜 Everyone is welcome to our celebration!",
@@ -101,9 +135,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/e/0/0/thumb_536972256.jpeg"
     },
     "rsvps": {
-      "yesCount": 11,
+      "yesCount": 14,
       "waitlistCount": 0,
-      "totalCount": 11
+      "totalCount": 14
     },
     "venues": [
       {
@@ -126,6 +160,46 @@
     "createdTime": "2026-11-04T00:05:56-05:00"
   },
   {
+    "id": "317363042",
+    "title": "Examining the 2026 municipal election results using R and Open Ottawa data",
+    "description": "Open Ottawa has a great collection of data that is open to the public! We'll be exploring the 2026 municipal elections official results using R and RStudio.\n\nWe'll walk through:\n\n* importing the data\n* clean the data\n* do a preliminary exploration of the data\n* come out with some nice graphs!\n\nIf you want to code along, make sure you have the following:\n\n* R\n* RStudio\n\nAnd we'll go over installing the relevant packages during the demo. You can find the repository for the code-along [here](https://github.com/RLadies-Ottawa/2026-11-23_open-data-ottawa_2026-municipal-elections).\n\nZoom link will be provided to attendees prior to the event.",
+    "status": "ACTIVE",
+    "dateTime": "2026-11-23T19:00:00-05:00",
+    "duration": "PT1H30M",
+    "eventUrl": "https://www.meetup.com/rladies-ottawa/events/317363042/",
+    "featuredEventPhoto": {
+      "id": "537069225",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/2/4/0/9/highres_537069225.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/2/4/0/9/600_537069225.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/4/0/9/thumb_537069225.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 19,
+      "waitlistCount": 0,
+      "totalCount": 19
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Ottawa",
+      "urlname": "rladies-ottawa"
+    },
+    "createdTime": "2026-11-09T19:03:49-05:00"
+  },
+  {
     "id": "317067329",
     "title": "Big Data? No Problem! An introduction to arrow for R",
     "description": "Working with data that's too large, too slow, or too messy for regular CSVs? Join us for an introduction to the {arrow} package in R. We'll explore how Arrow and Parquet files can make large datasets faster to store, read, and analyze, all while using the familiar dplyr workflows you already know and love. Using Portland's Biketown data, we'll convert, query, and visualize millions of rides without breaking a sweat (or our laptops).\n\nBring your laptop if you want to follow along.",
@@ -141,9 +215,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/f/e/0/thumb_536720448.jpeg"
     },
     "rsvps": {
-      "yesCount": 7,
+      "yesCount": 8,
       "waitlistCount": 0,
-      "totalCount": 7
+      "totalCount": 8
     },
     "venues": [
       {
@@ -169,7 +243,7 @@
     "id": "317089435",
     "title": "23º Meet Up: Coleta de dados e Análise bibliométrica com bibliometrix",
     "description": "Aprenda a coletar dados no CAFe, exportar e analisar no bibliometrix, ferramenta ambientada em linguagem R.",
-    "status": "ACTIVE",
+    "status": "PAST",
     "dateTime": "2026-11-13T14:30:00-03:00",
     "duration": "PT3H",
     "eventUrl": "https://www.meetup.com/rladies-niteroi/events/317089435/",
@@ -181,9 +255,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/9/f/c/1/thumb_536740897.jpeg"
     },
     "rsvps": {
-      "yesCount": 32,
+      "yesCount": 50,
       "waitlistCount": 0,
-      "totalCount": 32
+      "totalCount": 50
     },
     "venues": [
       {
@@ -209,7 +283,7 @@
     "id": "316964015",
     "title": "Conferencia Latinoamericana sobre Uso de R en Investigación + Desarrollo",
     "description": "🎉 **¡R-Ladies Medellín te invita a LatinR 2026!** 💜📊\n\n¿Te interesa la ciencia de datos, la estadística, la programación en R o la inteligencia artificial? ¡Este evento es para ti!\n\nDel **11 al 13 de noviembre**, Medellín será el punto de encuentro de la comunidad latinoamericana que utiliza R para investigar, aprender e innovar.\n\n✨ Participa en conferencias, talleres prácticos y espacios para conectar con estudiantes, investigadores y profesionales de toda Latinoamérica.\n\n💻 Aprende nuevas herramientas, comparte experiencias y descubre cómo R está transformando la investigación y la industria.\n\n📍 **Lugar:** Universidad de Antioquia, Medellín\n📅 **Fecha:** 11–13 de noviembre de 2026\n\n🚀 **¡Inscríbete y sé parte de LatinR 2026!**\n\n👉 Consulta la información del evento y las inscripciones: [https://latinr.org/blog/es/2026-08-25-inscripcion.html]\n\n#LatinR2026 #RLadiesMedellin #RStats #DataScience #Estadística #InteligenciaArtificial",
-    "status": "ACTIVE",
+    "status": "PAST",
     "dateTime": "2026-11-11T07:00:00-05:00",
     "duration": "PT59H",
     "eventUrl": "https://www.meetup.com/rladies-medellin/events/316964015/",
@@ -221,9 +295,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/a/9/b/thumb_536590907.jpeg"
     },
     "rsvps": {
-      "yesCount": 6,
+      "yesCount": 5,
       "waitlistCount": 0,
-      "totalCount": 6
+      "totalCount": 5
     },
     "venues": [
       {
@@ -249,7 +323,7 @@
     "id": "316999871",
     "title": "Cuando los datos no son normales: Guía amigable de GLM para la ecología",
     "description": "En el mundo real —y especialmente en ecología y biología— los datos casi nunca siguen una distribución normal perfecta. Conteos de especies, presencias/ausencias o proporciones suelen romper los supuestos de los modelos lineales tradicionales (LM).\n\nEn este taller teórico-práctico, la **Dra. Marisol Martínez Ramos** nos llevará de la mano para entender e implementar los **Modelos Lineales Generalizados (GLM)** en R de una manera accesible, intuitiva y aplicada a problemas ecológicos.\n\n### 🎙️ Sobre la ponente\n\n**Dra. Marisol Martínez Ramos**\nEspecialista en ecología, análisis estadístico y modelación de datos aplicados a las ciencias biológicas.\n\n### 📅 Detalles del evento\n\n* **Fecha:** Martes, 10 de noviembre de 2026\n* **Hora:** 6:00 PM\n* **Modalidad:** Virtual (Google Meet)\n* **Costo:** 100% Gratuito\n\n> ⚠️ *El enlace a Google Meet se activará para las personas registradas unos minutos antes de iniciar el taller.*\n\n### 💜 Sobre R-Ladies\n\nR-Ladies es una organización mundial que promueve la diversidad de género en la comunidad de R. Todos nuestros eventos son gratuitos y se rigen bajo el Código de Conducta de R-Ladies Global. ¡Comunidad abierta a todos los niveles de conocimiento!",
-    "status": "ACTIVE",
+    "status": "PAST",
     "dateTime": "2026-11-10T16:00:00-06:00",
     "duration": "PT2H",
     "eventUrl": "https://www.meetup.com/rladies-villahermosa/events/316999871/",
@@ -261,9 +335,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/a/d/6/c/thumb_536624396.jpeg"
     },
     "rsvps": {
-      "yesCount": 16,
+      "yesCount": 17,
       "waitlistCount": 0,
-      "totalCount": 16
+      "totalCount": 17
     },
     "venues": [
       {
@@ -335,9 +409,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/c/e/d/9/thumb_536752953.jpeg"
     },
     "rsvps": {
-      "yesCount": 17,
+      "yesCount": 16,
       "waitlistCount": 0,
-      "totalCount": 17
+      "totalCount": 16
     },
     "venues": [
       {
@@ -547,9 +621,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/8/e/e/thumb_536726862.jpeg"
     },
     "rsvps": {
-      "yesCount": 13,
+      "yesCount": 12,
       "waitlistCount": 0,
-      "totalCount": 13
+      "totalCount": 12
     },
     "venues": [
       {
@@ -735,9 +809,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/1/9/c/9/thumb_536586601.jpeg"
     },
     "rsvps": {
-      "yesCount": 5,
+      "yesCount": 4,
       "waitlistCount": 0,
-      "totalCount": 5
+      "totalCount": 4
     },
     "venues": [
       {
