@@ -162,9 +162,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/e/0/0/thumb_536972256.jpeg"
     },
     "rsvps": {
-      "yesCount": 17,
+      "yesCount": 18,
       "waitlistCount": 0,
-      "totalCount": 17
+      "totalCount": 18
     },
     "venues": [
       {
@@ -230,7 +230,7 @@
     "id": "317067329",
     "title": "Big Data? No Problem! An introduction to arrow for R",
     "description": "Working with data that's too large, too slow, or too messy for regular CSVs? Join us for an introduction to the {arrow} package in R. We'll explore how Arrow and Parquet files can make large datasets faster to store, read, and analyze, all while using the familiar dplyr workflows you already know and love. Using Portland's Biketown data, we'll convert, query, and visualize millions of rides without breaking a sweat (or our laptops).\n\nBring your laptop if you want to follow along.",
-    "status": "ACTIVE",
+    "status": "PAST",
     "dateTime": "2026-11-16T17:00:00-08:00",
     "duration": "PT2H",
     "eventUrl": "https://www.meetup.com/rladies-pdx/events/317067329/",
