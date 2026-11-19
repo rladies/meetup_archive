@@ -135,9 +135,9 @@
     "eventUrl": "https://www.meetup.com/rladies-philly/events/317373503/",
     "featuredEventPhoto": {},
     "rsvps": {
-      "yesCount": 8,
+      "yesCount": 9,
       "waitlistCount": 0,
-      "totalCount": 8
+      "totalCount": 9
     },
     "venues": [
       {
@@ -187,6 +187,46 @@
     "createdTime": "2026-11-16T15:11:08-05:00"
   },
   {
+    "id": "317484705",
+    "title": "Health Metrics in Urban Centres Worldwide: Exploring TidyTuesday Data with R",
+    "description": "What can data tell us about the availability of hospitals and pharmacies in cities around the world?\n\nJoin Daniel Navarro for a practical R session using the **TidyTuesday “Health metrics in urban centres worldwide” dataset**, drawn from the European Commission’s Global Human Settlement Urban Centre Database.\n\nThrough a guided exercise, we will explore questions, compare urban centres, and create visualisations that help us interpret the data.\n\nTogether, we will consider questions such as:\n\n* How does the availability of hospitals and pharmacies vary between cities?\n* What changes when we compare facility counts, population-based measures, and density?\n* How do patterns differ across regions and income groups?\n* What should we consider before drawing conclusions from these comparisons?\n\nThe session will focus on moving from a question to an analysis and a clear visualisation, with room for discussion and questions.\n\n**Who is this for?**\nR users interested in data exploration, visualisation, and health data. Some familiarity with R will help you follow the exercise.\n\n**Dataset:**\n[https://github.com/rfordatascience/tidytuesday/blob/main/data/2026/2026-09-29/readme.md](https://github.com/rfordatascience/tidytuesday/blob/main/data/2026/2026-09-29/readme.md)\nCome along to practise, share ideas, and learn together!\n\n**[Daniel Navarro](https://www.linkedin.com/in/daniel-navarrodan007/)** joins us to lead a practical exercise exploring health metrics in urban centres worldwide.\nBachelor in Administration with experience in public and private sector's finance from budgeting to Financial Accounting and Controlling.\n\nProgramming since university and working with worksheets since their launch, learnt R when started to improve my data analysis skills and by coincidence chose R as the working language.\nWill go through the Joint Research Centre of the European Commission data that contains the health metrics in urban centres worldwide, with the main goal of checking how my city compares globally in terms of Hospitals per Capita in 2025.\n\nUsing TidyTuesday data and R, he will guide participants through asking questions, exploring patterns, and creating visualisations, encouraging discussion and shared learning throughout the session.\nLinkedIn: [https://www.linkedin.com/in/daniel-navarrodan007/](https://www.linkedin.com/in/daniel-navarrodan007/)",
+    "status": "ACTIVE",
+    "dateTime": "2026-11-27T18:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-rome/events/317484705/",
+    "featuredEventPhoto": {
+      "id": "537198826",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/4/9/8/a/highres_537198826.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/4/9/8/a/600_537198826.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/9/8/a/thumb_537198826.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 7,
+      "waitlistCount": 0,
+      "totalCount": 7
+    },
+    "venues": [
+      {
+        "id": "26906060",
+        "name": "Online event",
+        "address": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "lat": -8.5211,
+        "lon": 179.1962,
+        "postalCode": "",
+        "venueType": "online"
+      }
+    ],
+    "group": {
+      "name": "R-Ladies Rome",
+      "urlname": "rladies-rome"
+    },
+    "createdTime": "2026-11-18T12:39:46-05:00"
+  },
+  {
     "id": "317281096",
     "title": "R-Ladies+ Melbourne End of Year trivia event & 10th Birthday!",
     "description": "🎉 **R-Ladies+ Melbourne is turning 10!** 💜🎂\nAnd what better way to celebrate a decade of R, data science, and community than with an R-themed Trivia Night!\n\nJoin us for a fun evening of trivia, laughs, and a little friendly competition as we put our R knowledge to the test!\n\nThere will be prizes!!\n\nFrom R basics and quirky coding questions to packages and data visualisation, there'll be something for everyone - whether you're an R newbie or a seasoned tidyverse enthusiast!\n\n✨ No coding required, just bring your curiosity and competitive spirit!\nMost importantly, it's a chance to celebrate 10 years of R-Ladies+ Melbourne and celebrate the end of the year, reconnect with familiar faces, and welcome new members to our community.\n\nFood and drinks will be provided!\n\n💜 Everyone is welcome to our celebration!",
@@ -202,9 +242,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/e/0/0/thumb_536972256.jpeg"
     },
     "rsvps": {
-      "yesCount": 18,
+      "yesCount": 19,
       "waitlistCount": 0,
-      "totalCount": 18
+      "totalCount": 19
     },
     "venues": [
       {
