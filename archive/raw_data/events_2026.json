@@ -15,9 +15,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/6/7/a/thumb_537189850.jpeg"
     },
     "rsvps": {
-      "yesCount": 4,
+      "yesCount": 5,
       "waitlistCount": 0,
-      "totalCount": 4
+      "totalCount": 5
     },
     "venues": [
       {
@@ -128,7 +128,7 @@
   {
     "id": "317373503",
     "title": "RLadies+ Philly with Padmashri Saravanan",
-    "description": "TBD",
+    "description": "Hackathons have always been a place of chaos, trials, and big dreams. Even more so, it has been proven time and again to be a fantastic tool for learning through implementation. How has this changed with the rapid increase in using AI? What does cross-checking and validation of a generated output look like? Using R for data analysis, we studied how, when, and why participants used generative AI tools in their projects at the BioIT hackathon earlier this year. This talk shares what we observed and learned.",
     "status": "ACTIVE",
     "dateTime": "2026-12-02T12:00:00-05:00",
     "duration": "PT1H",
@@ -175,9 +175,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/d/a/c/c/thumb_537176012.jpeg"
     },
     "rsvps": {
-      "yesCount": 9,
+      "yesCount": 10,
       "waitlistCount": 0,
-      "totalCount": 9
+      "totalCount": 10
     },
     "venues": [],
     "group": {
@@ -202,9 +202,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/4/9/8/a/thumb_537198826.jpeg"
     },
     "rsvps": {
-      "yesCount": 7,
+      "yesCount": 8,
       "waitlistCount": 0,
-      "totalCount": 7
+      "totalCount": 8
     },
     "venues": [
       {
@@ -242,9 +242,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/7/e/0/0/thumb_536972256.jpeg"
     },
     "rsvps": {
-      "yesCount": 19,
+      "yesCount": 20,
       "waitlistCount": 0,
-      "totalCount": 19
+      "totalCount": 20
     },
     "venues": [
       {
@@ -267,6 +267,46 @@
     "createdTime": "2026-11-04T00:05:56-05:00"
   },
   {
+    "id": "317289714",
+    "title": "Project Clinic and Coworking",
+    "description": "Inspired by some interesting experience sharing during our previous events, we are organizing a **coworking** session on R programming. You're welcome to stay for the entire 2-hour session, or as long as you need within the duration. We will:\n\n* Cowork independently on R-related projects or tasks\n* Ask questions, if any, and exchange ideas and experience\n* Meet other R users in Vienna and our host, Laura\n\nInstead of working alone at a screen, we would like to trial this event format to bring our community together, and learn from each other through actual human experiences.\n\nAs we promote gender diversity and inclusion in the R community, all gender identities and skill levels in R are welcome!\n\n**💡 What to bring**\n\n* Your laptop\n* An R project or task you would like to work on\n* (Optional) Questions regarding R programming\n\n**🗺️ Location**\nSeminarraum AE EG - 1 (AEEG25)\nGround Floor\nKarlsplatz 13\n1040 Vienna\n\n**📍 How to find us**\nAfter entering the main entrance of the TU Wien main building at Karlsplatz, turn left and walk along the corridor. The seminar room will be on your left.\nUse this [floor plan](https://maps.tuwien.ac.at/?q=AEEG25#map) to help locate the room.",
+    "status": "ACTIVE",
+    "dateTime": "2026-11-25T16:00:00+01:00",
+    "duration": "PT2H",
+    "eventUrl": "https://www.meetup.com/rladies-vienna/events/317289714/",
+    "featuredEventPhoto": {
+      "id": "537206056",
+      "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+      "highResUrl": "https://secure.meetupstatic.com/photos/event/6/5/c/8/highres_537206056.jpeg",
+      "standardUrl": "https://secure.meetupstatic.com/photos/event/6/5/c/8/600_537206056.jpeg",
+      "thumbUrl": "https://secure.meetupstatic.com/photos/event/6/5/c/8/thumb_537206056.jpeg"
+    },
+    "rsvps": {
+      "yesCount": 4,
+      "waitlistCount": 0,
+      "totalCount": 4
+    },
+    "venues": [
+      {
+        "id": "28488571",
+        "name": "TU Wien",
+        "address": "Karlsplatz 13, 1040 Wien, Austria",
+        "city": "Wien",
+        "state": "",
+        "country": "at",
+        "lat": 48.199,
+        "lon": 16.3699,
+        "postalCode": "1040",
+        "venueType": ""
+      }
+    ],
+    "group": {
+      "name": "RLadies+ Vienna",
+      "urlname": "rladies-vienna"
+    },
+    "createdTime": "2026-11-04T16:26:27-05:00"
+  },
+  {
     "id": "317363042",
     "title": "Examining the 2026 municipal election results using R and Open Ottawa data",
     "description": "Open Ottawa has a great collection of data that is open to the public! We'll be exploring the 2026 municipal elections official results using R and RStudio.\n\nWe'll walk through:\n\n* importing the data\n* clean the data\n* do a preliminary exploration of the data\n* come out with some nice graphs!\n\nIf you want to code along, make sure you have the following:\n\n* R\n* RStudio\n\nAnd we'll go over installing the relevant packages during the demo. You can find the repository for the code-along [here](https://github.com/RLadies-Ottawa/2026-11-23_open-data-ottawa_2026-municipal-elections).\n\nZoom link will be provided to attendees prior to the event.",
@@ -282,9 +322,9 @@
       "thumbUrl": "https://secure.meetupstatic.com/photos/event/2/4/0/9/thumb_537069225.jpeg"
     },
     "rsvps": {
-      "yesCount": 19,
+      "yesCount": 20,
       "waitlistCount": 0,
-      "totalCount": 19
+      "totalCount": 20
     },
     "venues": [
       {
